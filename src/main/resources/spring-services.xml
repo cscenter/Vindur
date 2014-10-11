@@ -12,17 +12,17 @@
          <constructor-arg name="serverUrl" value="${solr.url}"/>
          <constructor-arg name="coreName" value=""/>
      </bean-->
-    <context:component-scan base-package="ru.csc.njord" />
+    <context:component-scan base-package="ru.csc.vindur" />
 
-    <bean id="indexHelper" class="ru.csc.njord.IndexHelper"/>
+    <bean id="indexHelper" class="ru.csc.vindur.IndexHelper"/>
     <bean id="valuesIndex" factory-bean="indexHelper" factory-method="values">
     </bean>
 
-    <bean id="entityDao" class="ru.csc.njord.entity.EntityDao">
+    <bean id="entityDao" class="ru.csc.vindur.entity.EntityDao">
         <constructor-arg name="fileName" value="data.txt" />
     </bean>
 
-    <bean id="engineConfig" class="ru.csc.njord.EngineConfig">
+    <bean id="engineConfig" class="ru.csc.vindur.EngineConfig">
         <constructor-arg name="indexes">
             <map>
                 <entry key="name" value-ref="valuesIndex"/>
@@ -39,11 +39,11 @@
         <constructor-arg name="expectedVolume" value="500"/>
     </bean>
 
-    <bean id="searchService" class="ru.csc.njord.SearchService" autowire="byName" >
+    <bean id="searchService" class="ru.csc.vindur.SearchService" autowire="byName" >
         <constructor-arg name="config" ref="engineConfig"/>
     </bean>
 
-    <bean id="itemService" class="ru.csc.njord.entity.EntityService" autowire="byName">
+    <bean id="itemService" class="ru.csc.vindur.entity.EntityService" autowire="byName">
     </bean>
 
 </beans>

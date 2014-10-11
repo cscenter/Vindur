@@ -1,7 +1,7 @@
-package ru.csc.njord;
+package ru.csc.vindur;
 
 import com.google.common.collect.Sets;
-import ru.csc.njord.entity.Value;
+import ru.csc.vindur.entity.Value;
 
 import java.util.*;
 

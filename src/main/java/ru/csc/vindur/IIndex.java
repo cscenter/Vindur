@@ -1,6 +1,6 @@
-package ru.csc.njord;
+package ru.csc.vindur;
 
-import ru.csc.njord.entity.Value;
+import ru.csc.vindur.entity.Value;
 
 import java.util.BitSet;
 import java.util.Collection;

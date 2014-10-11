@@ -1,4 +1,4 @@
-package ru.csc.njord.entity;
+package ru.csc.vindur.entity;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -6,8 +6,6 @@ import org.springframework.stereotype.Service;
 
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.StreamTokenizer;
 import java.util.*;
 
 /**
@@ -22,10 +20,6 @@ public class EntityDao {
 
     public EntityDao(String fileName) {
         loadFromFile(fileName);
-    }
-
-    public EntityDao(HashMap<String, Entity> storage) {
-        this.storage = storage;
     }
 
     private void loadFromFile(String filename) {
@@ -45,10 +39,10 @@ public class EntityDao {
                 for(int i = 0; i < aspectNum; i++) {
                     ArrayList<Value> av = new ArrayList<>(1);
                     av.add(new Value(s.next()));
-
+                    //TODO many values
                     vals.put(aspects[i], av);
                 }
-                storage.put(Integer.toString(c), e);
+                storage.put(e.getId(), e);
             }
 
             s.close();

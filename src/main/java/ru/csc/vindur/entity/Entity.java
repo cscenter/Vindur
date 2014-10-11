@@ -1,4 +1,4 @@
-package ru.csc.njord.entity;
+package ru.csc.vindur.entity;
 
 import java.util.*;
 

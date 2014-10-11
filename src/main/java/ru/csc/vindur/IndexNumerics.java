@@ -1,8 +1,9 @@
-package ru.csc.njord;
+package ru.csc.vindur;
 
 import com.google.common.base.Function;
 import com.google.common.collect.Lists;
-import ru.csc.njord.entity.Value;
+import ru.csc.vindur.entity.Value;
+import ru.csc.vindur.physics.INumericsConverter;
 
 import javax.annotation.Nullable;
 import java.math.BigDecimal;
@@ -17,7 +18,7 @@ public final class IndexNumerics implements IIndex
     private List<Record> values; //а может к каждой записи в values писать list itemId?
     private boolean isSorted=false;
 
-    private NumberConverter converter;
+    private INumericsConverter converter;
 
     private int size;
     private int maxsize;
@@ -29,7 +30,7 @@ public final class IndexNumerics implements IIndex
         this.maxsize=maxsize;
     }
 
-    public IndexNumerics setConverter(NumberConverter converter)
+    public IndexNumerics setConverter(INumericsConverter converter)
     {
         this.converter = converter;
         return this;
@@ -191,12 +192,4 @@ public final class IndexNumerics implements IIndex
             return result;
         }
     }
-
-
-    public static interface NumberConverter
-    {
-        public BigDecimal convertToDecimal(Value value);
-    }
-
-
 }

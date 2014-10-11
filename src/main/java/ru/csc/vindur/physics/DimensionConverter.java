@@ -1,7 +1,7 @@
-package ru.csc.njord.physics;
+package ru.csc.vindur.physics;
 
-import ru.csc.njord.IndexNumerics;
-import ru.csc.njord.entity.Value;
+import ru.csc.vindur.IndexNumerics;
+import ru.csc.vindur.entity.Value;
 
 import java.math.BigDecimal;
 
@@ -9,7 +9,7 @@ import java.math.BigDecimal;
  * @author Andrey Kokorev
  *         Created on 27.09.2014.
  */
-public class BDateTimeConverter implements IndexNumerics.NumberConverter {
+public class DimensionConverter implements INumericsConverter{
     @Override
     public BigDecimal convertToDecimal(Value value) {
         return new BigDecimal("0"); //todo: logic
