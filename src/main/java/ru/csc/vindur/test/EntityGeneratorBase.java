@@ -40,6 +40,11 @@ public abstract class EntityGeneratorBase implements Iterable<Entity> {
 		if(!saveEntities) {
 			throw(new UnsupportedOperationException(GET_SAVED_UNSUPPORTED));
 		}
+		if(entitiesList.size() < entitiesCount) {
+			for(int i = entitiesList.size(); i < entitiesCount; i ++) {
+				entitiesList.add(generateEntity());
+			}
+		}
 		return Collections.unmodifiableList(entitiesList);
 	}
 
