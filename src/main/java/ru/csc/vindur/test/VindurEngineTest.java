@@ -14,12 +14,15 @@ import ru.csc.vindur.entity.Value;
 public class VindurEngineTest {
 	private static final Logger LOG = LoggerFactory.getLogger(VindurEngineTest.class);
 	private static final int MAX_SIZE = 100000;
+	private static final int ENTITIES_COUNT = 100000;
 
 	public static void main(String[] args) {
 		run();
 	}
 
 	private static void run() {
+		
+		
 		EntityGeneratorBase entityGenerator = createGenerator();
 		
 		Engine engine = createEngine();
@@ -58,7 +61,7 @@ public class VindurEngineTest {
 
 	private static EntityGeneratorBase createGenerator() {
 		// TODO choose, create and configure generator
-		EntityGeneratorBase generator = new MockedEntityGenerator();
+		EntityGeneratorBase generator = new MockedEntityGenerator(false, ENTITIES_COUNT);
 		return generator;
 	}
 

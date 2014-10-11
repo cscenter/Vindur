@@ -7,24 +7,15 @@ import ru.csc.vindur.entity.Entity;
 
 public class MockedEntityGenerator extends EntityGeneratorBase {
 
+	public MockedEntityGenerator(boolean saveEntities_, int entitiesCount_) {
+		super(saveEntities_, entitiesCount_);
+	}
+
 	private Entity entity = new Entity("Mocked entity id");
 
 	@Override
-	public Iterator<Entity> iterator() {
-		return new Iterator<Entity>() {
-			private boolean hasNext = true;
-			
-			@Override
-			public boolean hasNext() {
-				return hasNext;
-			}
-
-			@Override
-			public Entity next() {
-				hasNext = false;
-				return entity ;
-			}
-		};
+	protected Entity generateEntity() {
+		return entity;
 	}
 
 }
