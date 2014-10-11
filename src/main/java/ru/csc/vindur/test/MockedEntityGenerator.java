@@ -2,7 +2,8 @@ package ru.csc.vindur.test;
 
 import java.util.Iterator;
 
-import ru.csc.njord.entity.Entity;
+import ru.csc.vindur.entity.Entity;
+
 
 public class MockedEntityGenerator extends EntityGeneratorBase {
 

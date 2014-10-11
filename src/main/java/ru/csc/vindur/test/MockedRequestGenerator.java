@@ -2,7 +2,7 @@ package ru.csc.vindur.test;
 
 import java.util.Iterator;
 
-import ru.csc.njord.Request;
+import ru.csc.vindur.Request;
 
 public class MockedRequestGenerator extends RequestGeneratorBase {
 	private Request request = Request.build();

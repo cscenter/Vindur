@@ -6,10 +6,10 @@ import java.util.Map.Entry;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import ru.csc.njord.Engine;
-import ru.csc.njord.Request;
-import ru.csc.njord.entity.Entity;
-import ru.csc.njord.entity.Value;
+import ru.csc.vindur.Engine;
+import ru.csc.vindur.Request;
+import ru.csc.vindur.entity.Entity;
+import ru.csc.vindur.entity.Value;
 
 public class VindurEngineTest {
 	private static final Logger LOG = LoggerFactory.getLogger(VindurEngineTest.class);
@@ -27,7 +27,7 @@ public class VindurEngineTest {
 		for (Entity entity: entityGenerator)
 		{
 			LOG.debug("Entity generated: {}", entity);
-			int docId = engine.registerDocument();
+			int docId = engine.createDocument();
 			loadEntity(engine, entity, docId);
 		}
 		
@@ -36,7 +36,7 @@ public class VindurEngineTest {
 		for (Request request: requestGenerator)
 		{
 			LOG.debug("Request generated: {}", request);
-			engine.findIds(request);
+			engine.executeRequest(request);
 		}
 	}
 
@@ -45,7 +45,7 @@ public class VindurEngineTest {
 		{
 			for(Value val: aspectVals.getValue())
 			{
-				engine.addValue(docId, aspectVals.getKey(), val);
+				engine.addValueByDocId(docId, aspectVals.getKey(), val);
 			}
 		}
 	}
