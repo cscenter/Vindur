@@ -1,7 +1,5 @@
 package ru.csc.vindur.test;
 
-import java.util.Iterator;
-
 import ru.csc.vindur.entity.Entity;
 
 
