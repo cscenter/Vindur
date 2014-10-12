@@ -4,7 +4,9 @@ import ru.csc.vindur.entity.Entity;
 import ru.csc.vindur.entity.EntityDao;
 import ru.csc.vindur.entity.Value;
 
+import java.lang.reflect.Array;
 import java.util.ArrayList;
+import java.util.HashMap;
 
 /**
  * Created by Pavel Chursin on 05.10.2014.
@@ -12,11 +14,13 @@ import java.util.ArrayList;
 public class SearchService {
     Engine engine;
     EntityDao entityDao;
+    HashMap<Integer, String> docs2entities;
 
     public SearchService(EngineConfig engineConfig) {
         int maxsize = engineConfig.getExpectedVolume();
         engine = new Engine(maxsize);
         entityDao = new EntityDao(engineConfig.getFileName());
+        docs2entities = new HashMap<>(engineConfig.expectedVolume);
 
         createIndex(engineConfig, maxsize);
     }
@@ -53,7 +57,15 @@ public class SearchService {
             ArrayList<Value> values = entity.getValues().get(attribute);
             engine.addValuesListByDocId(docId, attribute, values);
         }
+        docs2entities.put(docId, entity.getId());
     }
 
-
+    public ArrayList<Entity> search(Request request) {
+        ArrayList<Integer> resultDocs = engine.executeRequest(request);
+        ArrayList<Entity> result = new ArrayList<>(resultDocs.size());
+        for(Integer i : resultDocs) {
+            result.add(entityDao.findById(docs2entities.get(i)));
+        }
+        return result;
+    }
 }
