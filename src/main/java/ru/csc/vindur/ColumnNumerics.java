@@ -2,8 +2,6 @@ package ru.csc.vindur;
 
 import com.google.common.base.Function;
 import com.google.common.collect.Lists;
-import ru.csc.vindur.entity.Value;
-import ru.csc.vindur.physics.INumericsConverter;
 
 import javax.annotation.Nullable;
 import java.math.BigDecimal;
@@ -13,27 +11,19 @@ import java.util.*;
  * @author: Phillip Delgyado
  * Date: 30.10.13 17:40
  */
-public final class IndexNumerics implements IIndex
+public final class ColumnNumerics implements IColumn
 {
     private List<Record> values; //а может к каждой записи в values писать list itemId?
     private boolean isSorted=false;
 
-    private INumericsConverter converter;
-
     private int size;
     private int maxsize;
 
-    public IndexNumerics(int maxsize)
+    public ColumnNumerics(int maxsize)
     {
         this.values = new ArrayList<>();
         this.size=0;
         this.maxsize=maxsize;
-    }
-
-    public IndexNumerics setConverter(INumericsConverter converter)
-    {
-        this.converter = converter;
-        return this;
     }
 
     @Override
@@ -52,8 +42,8 @@ public final class IndexNumerics implements IIndex
     public final void add(int docId, Value value)
     {
         Record ir = new Record();
-         ir.itemId= docId;
-         ir.value=converter.convertToDecimal(value);
+         ir.itemId = docId;
+         ir.value = new BigDecimal(value.toString());
         values.add(ir);
         isSorted=false;
         size++;
@@ -64,7 +54,7 @@ public final class IndexNumerics implements IIndex
     {
         Record ir = new Record();
          ir.itemId= docId;
-         ir.value=converter.convertToDecimal(oldValue);
+         ir.value=new BigDecimal(oldValue.toString());
         values.remove(ir);     //todo грязный хак
         isSorted=false;
         size--;
@@ -107,9 +97,6 @@ public final class IndexNumerics implements IIndex
 
        return items ;
     }
-
-
-
 
     public static int leftBorder(List<Record> data, BigDecimal value, int idx)
     {

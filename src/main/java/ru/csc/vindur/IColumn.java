@@ -1,7 +1,5 @@
 package ru.csc.vindur;
 
-import ru.csc.vindur.entity.Value;
-
 import java.util.BitSet;
 import java.util.Collection;
 
@@ -9,7 +7,7 @@ import java.util.Collection;
  * @author: Phillip Delgyado
  * Date: 31.10.13 3:50
  */
-public interface IIndex
+public interface IColumn
 {
     public long size();
     public long expectAmount(String value);

@@ -1,71 +1,56 @@
 package ru.csc.vindur;
 
-import ru.csc.vindur.entity.Value;
-
 import java.util.ArrayList;
 import java.util.BitSet;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * Created by Pavel Chursin on 05.10.2014.
  */
 public class Engine {
-    int expectedVolume;
-    int documentsSequence;
-    RequestOptimizer requestOptimizer;
-    Map<String, IIndex> indexes;
-    Map<Integer, Document> documents;
+    public static final BitSet NOTHING = new BitSet(1);
 
-    public Engine(int expectedVolume) {
-        documentsSequence = 0;
-        this.expectedVolume = expectedVolume;
-        indexes = new HashMap<>();
+    private int expectedVolume;
+    private AtomicInteger documentsSequence;
+
+    private RequestOptimizer requestOptimizer;
+    private Map<String, IColumn> columns;
+    private Map<Integer, Document> documents;
+
+    public Engine(EngineConfig config) {
+        documentsSequence = new AtomicInteger(0);
+        expectedVolume = config.getExpectedVolume();
+        columns = new HashMap<>();
         documents = new HashMap<>(expectedVolume);
         requestOptimizer = new RequestOptimizer();
+
+        for(String attribute : config.getAttributes()) {
+            addColumn(
+                    attribute,
+                    ColumnHelper.getColumn(config.getValueType(attribute), expectedVolume)
+            );
+        }
     }
 
-    public void addIndex(String attribute, IIndex index) {
-        if (indexes.containsKey(attribute))
-            throw new IllegalArgumentException("This attribute already has index");
-        indexes.put(attribute, index);
-    }
-
-    public void removeIndex(String attribute) {
-        indexes.remove(attribute);
+    public void addColumn(String attribute, IColumn column) {
+        if (columns.containsKey(attribute))
+            throw new IllegalArgumentException("Column for this attribute already exists");
+        columns.put(attribute, column);
     }
 
     public int createDocument() {
-        Document document = new Document(documentsSequence);
-        documents.put(documentsSequence, document);
-        return documentsSequence++;
+        Document document = Document.nextDocument(documentsSequence);
+        documents.put(document.getId(), document);
+        return document.getId();
     }
 
-    public void clearDocumentById(int id) {
-        Document document = documents.get(id);
-        if (document == null)
-            return;
-
-        for (String attribute : document.getVals().keySet()) {
-            IIndex index = indexes.get(attribute);
-            for (Value value : document.getVals().get(attribute)) {
-                index.remove(id, value);
-            }
-        }
-        document.getVals().clear();
-    }
-
-    public void addValueByDocId(int id, String attribute, Value value) {
+    public void setAttributeByDocId(int id, String attribute, Value value) {
         if (!documents.containsKey(id))
             throw new IllegalArgumentException("There is no such document");
-        documents.get(id).registerValue(attribute, value);
-        indexes.get(attribute).add(id, value);
-    }
-
-    public void addValuesListByDocId(int id, String attribute, ArrayList<Value> values) {
-        for (Value value : values) {
-            addValueByDocId(id, attribute, value);
-        }
+        documents.get(id).setAttribute(attribute, value);
+        columns.get(attribute).add(id, value);
     }
 
     public ArrayList<Integer> executeRequest(Request request) {
@@ -77,6 +62,7 @@ public class Engine {
             else
                 resultSet.and(executeRequestPart(requestPart));
         }
+
         ArrayList<Integer> result = new ArrayList<>();
         if (resultSet == null)
             return result;
@@ -87,16 +73,16 @@ public class Engine {
     }
 
     private BitSet executeRequestPart(Request.RequestPart requestPart) {
-        IIndex index = indexes.get(requestPart.tag);
+        IColumn index = columns.get(requestPart.tag);
         if (index == null)
-            return new BitSet(1);
+            return NOTHING;
 
         //TODO range request
         if (requestPart.isExact) {
             return index.findSet(requestPart.from);
         }
 
-        return new BitSet(1);
+        return NOTHING;
     }
 
     private class RequestOptimizer {

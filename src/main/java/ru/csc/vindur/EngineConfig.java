@@ -1,33 +1,29 @@
 package ru.csc.vindur;
 
 import java.util.Map;
+import java.util.Set;
 
 /**
  * Created by Pavel Chursin on 05.10.2014.
  */
 public class EngineConfig {
-    Map<String, IndexDefinition> indexes;
-    int expectedVolume;
+    private Map<String, ValueType> indexes;  // attribute -> value type
+    private int expectedVolume;
 
-    String fileName;
-
-    public EngineConfig(Map<String, IndexDefinition> indexes, int expectedVolume,
-                        String filename) {
+    public EngineConfig(Map<String, ValueType> indexes, int expectedVolume) {
         this.indexes = indexes;
         this.expectedVolume = expectedVolume;
-        this.fileName = filename;
     }
 
-    public Map<String, IndexDefinition> getIndexes() {
-        return indexes;
+    public Set<String> getAttributes() {
+        return indexes.keySet();
+    }
+
+    public ValueType getValueType(String attribute) {
+        return indexes.get(attribute);
     }
 
     public int getExpectedVolume() {
         return expectedVolume;
     }
-
-    public String getFileName() {
-        return fileName;
-    }
-
 }
