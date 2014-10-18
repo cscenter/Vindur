@@ -11,18 +11,31 @@ import ru.csc.vindur.Value;
 import ru.csc.vindur.ValueType;
 import ru.csc.vindur.test.DocumentGeneratorBase;
 import ru.csc.vindur.test.RequestGeneratorBase;
+import ru.csc.vindur.test.utils.AttributeGenerator;
 import ru.csc.vindur.test.utils.RandomUtils;
 
 public class OneAttributeTest implements TestHelper {
 	private static final int EXPECTED_VOLUME = 1000000;
 	private static final int REQUESTS_COUNT = 100;
-	private static final Value[] ATTRIBUTE_VALUES = {new Value("first value"), new Value("second value"), 
-		new Value("third value")};
+	private final Value[] attributeValues;
 	private final EngineConfig simpleEngineConfig;
 	
-	public OneAttributeTest() {
+	public OneAttributeTest(ValueType valueType, int valuesCount) {
 		Map<String, ValueType> indexes = new HashMap<>(1);
-		indexes.put("attribute", ValueType.STRING);
+		indexes.put("attribute", valueType);
+		switch (valueType) {
+		case ENUM:
+			attributeValues = AttributeGenerator.generateStringValues(valuesCount, 1, 10);
+			break;
+		case NUMERIC:
+			attributeValues = AttributeGenerator.generateNumericValues(valuesCount, 1, 10);
+			break;
+		case STRING:
+			attributeValues = AttributeGenerator.generateStringValues(valuesCount, 1, 10);
+			break;
+		default:
+			throw new RuntimeException("Missing case state");	
+		}
 		simpleEngineConfig = new EngineConfig(indexes, EXPECTED_VOLUME);
 	}
 
@@ -33,7 +46,7 @@ public class OneAttributeTest implements TestHelper {
 			@Override
 			protected Map<String, List<Value>> generateDocument() {
 				Map<String, List<Value>> document = new HashMap<>(1);
-				Value val = RandomUtils.gaussianRandomElement(ATTRIBUTE_VALUES);
+				Value val = RandomUtils.gaussianRandomElement(attributeValues);
 				document.put("attribute", Arrays.asList(val));
 				return document;
 			}
@@ -45,7 +58,7 @@ public class OneAttributeTest implements TestHelper {
 		return new RequestGeneratorBase(false, REQUESTS_COUNT) {
 			@Override
 			protected Request generateRequest() {
-				Value val = RandomUtils.gaussianRandomElement(ATTRIBUTE_VALUES);
+				Value val = RandomUtils.gaussianRandomElement(attributeValues);
 				Request request = Request.build().exact("attribute", val.getValue());
 				return request;
 			}

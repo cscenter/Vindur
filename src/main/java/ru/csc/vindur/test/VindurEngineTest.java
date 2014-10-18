@@ -12,6 +12,7 @@ import com.google.common.base.Stopwatch;
 import ru.csc.vindur.Engine;
 import ru.csc.vindur.Request;
 import ru.csc.vindur.Value;
+import ru.csc.vindur.ValueType;
 import ru.csc.vindur.test.testHelpers.OneAttributeTest;
 import ru.csc.vindur.test.testHelpers.TestHelper;
 
@@ -19,12 +20,10 @@ public class VindurEngineTest {
 	private static final Logger LOG = LoggerFactory.getLogger(VindurEngineTest.class);
 
 	public static void main(String[] args) {
-		run();
+		run(new OneAttributeTest(ValueType.ENUM, 3));
 	}
 
-	// TODO rewrite time counting
-	private static void run() {
-		TestHelper helper = new OneAttributeTest();
+	private static void run(TestHelper helper) {
 		Engine engine = new Engine(helper.getEngineConfig());
 		DocumentGeneratorBase documentGenerator = helper.getDocumentGenerator();
 		
