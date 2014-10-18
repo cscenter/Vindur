@@ -15,12 +15,16 @@ import ru.csc.vindur.test.utils.AttributeGenerator;
 import ru.csc.vindur.test.utils.RandomUtils;
 
 public class OneAttributeTest implements TestHelper {
-	private static final int EXPECTED_VOLUME = 1000000;
-	private static final int REQUESTS_COUNT = 100;
+	private final int documents;
+	private final int requestsCount;
 	private final Value[] attributeValues;
 	private final EngineConfig simpleEngineConfig;
+	private ValueType valueType;
 	
-	public OneAttributeTest(ValueType valueType, int valuesCount) {
+	public OneAttributeTest(ValueType valueType, int valuesCount, int documents, int requestsCount) {
+		this.valueType = valueType;
+		this.documents = documents;
+		this.requestsCount = requestsCount;
 		Map<String, ValueType> indexes = new HashMap<>(1);
 		indexes.put("attribute", valueType);
 		switch (valueType) {
@@ -36,13 +40,13 @@ public class OneAttributeTest implements TestHelper {
 		default:
 			throw new RuntimeException("Missing case state");	
 		}
-		simpleEngineConfig = new EngineConfig(indexes, EXPECTED_VOLUME);
+		simpleEngineConfig = new EngineConfig(indexes, documents);
 	}
 
 
 	@Override
 	public DocumentGeneratorBase getDocumentGenerator() {
-		return new DocumentGeneratorBase(false, EXPECTED_VOLUME) {
+		return new DocumentGeneratorBase(false, documents) {
 			@Override
 			protected Map<String, List<Value>> generateDocument() {
 				Map<String, List<Value>> document = new HashMap<>(1);
@@ -55,7 +59,7 @@ public class OneAttributeTest implements TestHelper {
 
 	@Override
 	public RequestGeneratorBase getRequestGenerator() {
-		return new RequestGeneratorBase(false, REQUESTS_COUNT) {
+		return new RequestGeneratorBase(false, requestsCount) {
 			@Override
 			protected Request generateRequest() {
 				Value val = RandomUtils.gaussianRandomElement(attributeValues);
@@ -68,6 +72,13 @@ public class OneAttributeTest implements TestHelper {
 	@Override
 	public EngineConfig getEngineConfig() {
 		return simpleEngineConfig;
+	}
+
+
+	@Override
+	public String toString() {
+		return String.format("OneAttributeTest [%s value type, %s values, %s documents, %s requests]", 
+				valueType, attributeValues.length, documents, requestsCount);
 	}
 
 }

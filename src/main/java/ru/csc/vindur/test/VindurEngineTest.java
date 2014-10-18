@@ -20,10 +20,14 @@ public class VindurEngineTest {
 	private static final Logger LOG = LoggerFactory.getLogger(VindurEngineTest.class);
 
 	public static void main(String[] args) {
-		run(new OneAttributeTest(ValueType.ENUM, 3));
+		// TODO warm up somehow
+		run(new OneAttributeTest(ValueType.ENUM, 3, 0xFFFFF, 0xFF));
+		run(new OneAttributeTest(ValueType.STRING, 30, 0xFFFFF, 0xFF));
+		run(new OneAttributeTest(ValueType.NUMERIC, 30, 0xFFFF, 0xF));
 	}
 
 	private static void run(TestHelper helper) {
+		LOG.info("Test with\n{}\nstarted", helper);
 		Engine engine = new Engine(helper.getEngineConfig());
 		DocumentGeneratorBase documentGenerator = helper.getDocumentGenerator();
 		
@@ -56,9 +60,9 @@ public class VindurEngineTest {
 	private static long loadDocument(Engine engine, Map<String, List<Value>> document, int docId) {
 		long settedAttributes = 0;
 		for(Entry<String, List<Value>> attribute: document.entrySet()) {
+			settedAttributes += attribute.getValue().size();
 			for(Value value: attribute.getValue()) {
 				engine.setAttributeByDocId(docId, attribute.getKey(), value);
-				settedAttributes += 1;
 			}
 		}
 		return settedAttributes;
