@@ -77,4 +77,8 @@ public abstract class DocumentGeneratorBase implements Iterable<Map<String, List
 			}
 		};
 	}
+
+	public int getDocumentsCount() {
+		return documentsCount;
+	}
 }

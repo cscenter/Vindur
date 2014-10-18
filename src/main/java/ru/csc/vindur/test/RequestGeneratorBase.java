@@ -71,4 +71,8 @@ public abstract class RequestGeneratorBase implements Iterable<Request> {
 			}
 		};
 	}
+
+	public int getRequestsCount() {
+		return requestsCount;
+	}
 }
