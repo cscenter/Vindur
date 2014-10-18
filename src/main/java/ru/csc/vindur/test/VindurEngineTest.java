@@ -23,16 +23,16 @@ public class VindurEngineTest {
 
 	public static void main(String[] args) {
 		// TODO warm up somehow
-		run(new OneAttributeTest(ValueType.ENUM, 3, 0xFFFFF, 0xFF));
-		run(new OneAttributeTest(ValueType.STRING, 30, 0xFFFFF, 0xFF));
-		run(new OneAttributeTest(ValueType.NUMERIC, 30, 0xFFFF, 0xF));
+		run(new OneAttributeTest(ValueType.ENUM, 3, 0xFFFFF, 0xFFF));
+		run(new OneAttributeTest(ValueType.STRING, 30, 0xFFFFF, 0xFFF));
+		run(new OneAttributeTest(ValueType.NUMERIC, 30, 0xFFFF, 0xFF));
 		
 		Map<ValueType, Double> typeFrequencies = new HashMap<>();
 		typeFrequencies.put(ValueType.STRING, 1.0);
 		Map<ValueType, Integer> valuesCount = new HashMap<>();
 		valuesCount.put(ValueType.STRING, 5);
-		run(new MultyAttributesTest(10, typeFrequencies, valuesCount, 
-				 0x2FFFF, 0xFF, 4));
+		run(new MultyAttributesTest(20, typeFrequencies, valuesCount, 
+				 0x4FFFF, 0xFFF, 7));
 	}
 
 	private static void run(TestHelper helper) {
