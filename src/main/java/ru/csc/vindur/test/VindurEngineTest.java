@@ -12,7 +12,8 @@ import com.google.common.base.Stopwatch;
 import ru.csc.vindur.Engine;
 import ru.csc.vindur.Request;
 import ru.csc.vindur.Value;
-import ru.csc.vindur.test.testHelper.TestHelper;
+import ru.csc.vindur.test.testHelpers.OneAttributeTest;
+import ru.csc.vindur.test.testHelpers.TestHelper;
 
 public class VindurEngineTest {
 	private static final Logger LOG = LoggerFactory.getLogger(VindurEngineTest.class);
@@ -23,7 +24,7 @@ public class VindurEngineTest {
 
 	// TODO rewrite time counting
 	private static void run() {
-		TestHelper helper = new TestHelper();
+		TestHelper helper = new OneAttributeTest();
 		Engine engine = new Engine(helper.getEngineConfig());
 		DocumentGeneratorBase documentGenerator = helper.getDocumentGenerator();
 		
