@@ -51,7 +51,7 @@ public abstract class EntityGeneratorBase implements Iterable<Entity> {
 	@Override
 	public Iterator<Entity> iterator() {
 		return new Iterator<Entity>() {
-			private int entitiesReturned= 0;
+			private int entitiesReturned = 0;
 			
 			@Override
 			public Entity next() {
