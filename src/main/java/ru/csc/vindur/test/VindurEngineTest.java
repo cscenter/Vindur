@@ -6,6 +6,8 @@ import org.slf4j.LoggerFactory;
 import ru.csc.vindur.Engine;
 import ru.csc.vindur.Request;
 import ru.csc.vindur.Document;
+import ru.csc.vindur.Value;
+import ru.csc.vindur.test.testHelper.TestHelper;
 
 public class VindurEngineTest {
 	private static final Logger LOG = LoggerFactory.getLogger(VindurEngineTest.class);
@@ -14,24 +16,20 @@ public class VindurEngineTest {
 		run();
 	}
 
-	// TODO remove this after fixing this method
-	@SuppressWarnings("null")
 	private static void run() {
-		// TODO create engine configuration and engine
-		Engine engine = null;
-		// TODO get entity generator
-		DocumentGeneratorBase entityGenerator = null;
+		TestHelper helper = new TestHelper();
+		Engine engine = new Engine(helper.getEngineConfig());
+		DocumentGeneratorBase documentGenerator = helper.getDocumentGenerator();
 		
 		
-		for (Document entity: entityGenerator)
+		for (Document document: documentGenerator)
 		{
-			LOG.debug("Entity generated: {}", entity);
+			LOG.debug("Document generated: {}", document);
 			int docId = engine.createDocument();
-			loadEntity(engine, entity, docId);
+			loadDocument(engine, document, docId);
 		}
 
-		// TODO get request generator
-		RequestGeneratorBase requestGenerator = null;
+		RequestGeneratorBase requestGenerator = helper.getRequestGenerator();
 		
 		for (Request request: requestGenerator)
 		{
@@ -40,8 +38,14 @@ public class VindurEngineTest {
 		}
 	}
 
-	private static void loadEntity(Engine engine, Document entity, int docId) {
-		// TODO
+	private static void loadDocument(Engine engine, Document document, int docId) {
+		for(String attribute: document.getAttributes())
+		{
+			for(Value value: document.getValues(attribute))
+			{
+				engine.setAttributeByDocId(docId, attribute, value);
+			}
+		}
 	}
 
 }
