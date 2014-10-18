@@ -4,7 +4,6 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.concurrent.ThreadLocalRandom;
 
 import ru.csc.vindur.EngineConfig;
 import ru.csc.vindur.Request;
@@ -12,11 +11,13 @@ import ru.csc.vindur.Value;
 import ru.csc.vindur.ValueType;
 import ru.csc.vindur.test.DocumentGeneratorBase;
 import ru.csc.vindur.test.RequestGeneratorBase;
+import ru.csc.vindur.test.utils.RandomUtils;
 
 public class OneAttributeTest implements TestHelper {
 	private static final int EXPECTED_VOLUME = 1000000;
 	private static final int REQUESTS_COUNT = 100;
-	private static final Value[] ATTRIBUTE_VALUES = {new Value("first value"), new Value("second value")};
+	private static final Value[] ATTRIBUTE_VALUES = {new Value("first value"), new Value("second value"), 
+		new Value("third value")};
 	private final EngineConfig simpleEngineConfig;
 	
 	public OneAttributeTest() {
@@ -32,8 +33,7 @@ public class OneAttributeTest implements TestHelper {
 			@Override
 			protected Map<String, List<Value>> generateDocument() {
 				Map<String, List<Value>> document = new HashMap<>(1);
-				int idx = ThreadLocalRandom.current().nextInt(ATTRIBUTE_VALUES.length);
-				Value val = ATTRIBUTE_VALUES[idx];
+				Value val = RandomUtils.gaussianRandomElement(ATTRIBUTE_VALUES);
 				document.put("attribute", Arrays.asList(val));
 				return document;
 			}
@@ -45,8 +45,7 @@ public class OneAttributeTest implements TestHelper {
 		return new RequestGeneratorBase(false, REQUESTS_COUNT) {
 			@Override
 			protected Request generateRequest() {
-				int idx = ThreadLocalRandom.current().nextInt(ATTRIBUTE_VALUES.length);
-				Value val = ATTRIBUTE_VALUES[idx];
+				Value val = RandomUtils.gaussianRandomElement(ATTRIBUTE_VALUES);
 				Request request = Request.build().exact("attribute", val.getValue());
 				return request;
 			}
