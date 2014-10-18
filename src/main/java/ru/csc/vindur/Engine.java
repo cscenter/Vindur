@@ -2,6 +2,7 @@ package ru.csc.vindur;
 
 import java.util.ArrayList;
 import java.util.BitSet;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -64,9 +65,9 @@ public class Engine {
                 resultSet.and(executeRequestPart(requestPart));
         }
 
-        ArrayList<Integer> result = new ArrayList<>();
         if (resultSet == null)
-            return result;
+            return Collections.emptyList();
+        ArrayList<Integer> result = new ArrayList<>(resultSet.cardinality());
         for(int docId = resultSet.nextSetBit(0); docId != -1; docId = resultSet.nextSetBit(docId + 1)) {
             result.add(docId);
         }
