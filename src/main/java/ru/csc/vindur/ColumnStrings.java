@@ -1,7 +1,6 @@
 package ru.csc.vindur;
 
 import com.google.common.collect.Sets;
-import ru.csc.vindur.entity.Value;
 
 import java.util.*;
 
@@ -9,14 +8,13 @@ import java.util.*;
  * @author: Phillip Delgyado
  * Date: 30.10.13 17:40
  */
-public final class IndexStrings implements IIndex
+public final class ColumnStrings implements IColumn
 {
     private Map<String,TreeSet<Integer>> values; //value->{itemId}
     private int size;
     private int maxsize;
 
-
-    public IndexStrings(int maxsize)
+    public ColumnStrings(int maxsize)
     {
         values = new HashMap<>();
         size=0;

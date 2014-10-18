@@ -1,11 +1,10 @@
-package ru.csc.vindur.entity;
+package ru.csc.vindur;
 
 /**
  * @author Andrey Kokorev
  * Created on 24.09.2014.
  */
 public class Value {
-
     private String value;
 
     public Value(String val) {

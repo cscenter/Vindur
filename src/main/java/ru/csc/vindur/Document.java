@@ -1,40 +1,39 @@
 package ru.csc.vindur;
 
-import ru.csc.vindur.entity.Entity;
-import ru.csc.vindur.entity.Value;
-
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
+import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * Created by Pavel Chursin on 05.10.2014.
  */
 public class Document {
-    private Map<String, ArrayList<Value>> vals = new HashMap<>();  // aspect -> values
-
+    private Map<String, List<Value>> vals = new HashMap<>();  // aspect -> values
     private int id;
 
-    public Document(int id) {
+    private Document(int id) {
         this.id = id;
     }
 
-    public void loadEntity(Entity entity) {
-        this.vals = entity.getValues();
+    static Document nextDocument(AtomicInteger docSequence) {
+        return new Document(docSequence.incrementAndGet());
     }
 
-    public void registerValue(String attribute, Value value) {
+    void setAttribute(String attribute, Value value) {
         if (!vals.containsKey(attribute)) {
             vals.put(attribute, new ArrayList<Value>());
         }
         vals.get(attribute).add(value);
     }
 
-    public int getId() {
+    int getId() {
         return id;
     }
 
-    public Map<String, ArrayList<Value>> getVals() {
-        return vals;
+    List<Value> getValues(String attribute) {
+        return vals.get(attribute);
+    }
+
+    Set<String> getAttributes() {
+        return vals.keySet();
     }
 }
