@@ -3,6 +3,7 @@ package ru.csc.vindur;
 import java.util.ArrayList;
 import java.util.BitSet;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 import java.util.concurrent.atomic.AtomicInteger;
 
@@ -53,7 +54,7 @@ public class Engine {
         columns.get(attribute).add(id, value);
     }
 
-    public ArrayList<Integer> executeRequest(Request request) {
+    public List<Integer> executeRequest(Request request) {
         request = requestOptimizer.optimize(request);
         BitSet resultSet = null;
         for (Request.RequestPart requestPart : request.getRequestParts()) {
