@@ -22,8 +22,7 @@ public class VindurEngineTest {
 		DocumentGeneratorBase documentGenerator = helper.getDocumentGenerator();
 		
 		
-		for (Document document: documentGenerator)
-		{
+		for (Document document: documentGenerator) {
 			LOG.debug("Document generated: {}", document);
 			int docId = engine.createDocument();
 			loadDocument(engine, document, docId);
@@ -31,18 +30,15 @@ public class VindurEngineTest {
 
 		RequestGeneratorBase requestGenerator = helper.getRequestGenerator();
 		
-		for (Request request: requestGenerator)
-		{
+		for (Request request: requestGenerator) {
 			LOG.debug("Request generated: {}", request);
 			engine.executeRequest(request);
 		}
 	}
 
 	private static void loadDocument(Engine engine, Document document, int docId) {
-		for(String attribute: document.getAttributes())
-		{
-			for(Value value: document.getValues(attribute))
-			{
+		for(String attribute: document.getAttributes()) {
+			for(Value value: document.getValues(attribute)) {
 				engine.setAttributeByDocId(docId, attribute, value);
 			}
 		}
