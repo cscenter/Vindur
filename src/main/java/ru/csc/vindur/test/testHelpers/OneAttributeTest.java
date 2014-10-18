@@ -15,38 +15,26 @@ import ru.csc.vindur.test.utils.AttributeGenerator;
 import ru.csc.vindur.test.utils.RandomUtils;
 
 public class OneAttributeTest implements TestHelper {
-	private final int documents;
+	private final int documentsCount;
 	private final int requestsCount;
 	private final Value[] attributeValues;
 	private final EngineConfig simpleEngineConfig;
 	private ValueType valueType;
 	
-	public OneAttributeTest(ValueType valueType, int valuesCount, int documents, int requestsCount) {
+	public OneAttributeTest(ValueType valueType, int valuesCount, int documentsCount, int requestsCount) {
 		this.valueType = valueType;
-		this.documents = documents;
+		this.documentsCount = documentsCount;
 		this.requestsCount = requestsCount;
 		Map<String, ValueType> indexes = new HashMap<>(1);
 		indexes.put("attribute", valueType);
-		switch (valueType) {
-		case ENUM:
-			attributeValues = AttributeGenerator.generateStringValues(valuesCount, 1, 10);
-			break;
-		case NUMERIC:
-			attributeValues = AttributeGenerator.generateNumericValues(valuesCount, 1, 10);
-			break;
-		case STRING:
-			attributeValues = AttributeGenerator.generateStringValues(valuesCount, 1, 10);
-			break;
-		default:
-			throw new RuntimeException("Missing case state");	
-		}
-		simpleEngineConfig = new EngineConfig(indexes, documents);
+		attributeValues = AttributeGenerator.generateValues(valueType, valuesCount);
+		simpleEngineConfig = new EngineConfig(indexes, documentsCount);
 	}
 
 
 	@Override
 	public DocumentGeneratorBase getDocumentGenerator() {
-		return new DocumentGeneratorBase(false, documents) {
+		return new DocumentGeneratorBase(false, documentsCount) {
 			@Override
 			protected Map<String, List<Value>> generateDocument() {
 				Map<String, List<Value>> document = new HashMap<>(1);
@@ -78,7 +66,7 @@ public class OneAttributeTest implements TestHelper {
 	@Override
 	public String toString() {
 		return String.format("OneAttributeTest [%s value type, %s values, %s documents, %s requests]", 
-				valueType, attributeValues.length, documents, requestsCount);
+				valueType, attributeValues.length, documentsCount, requestsCount);
 	}
 
 }

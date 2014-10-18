@@ -1,5 +1,6 @@
 package ru.csc.vindur.test;
 
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
@@ -13,6 +14,7 @@ import ru.csc.vindur.Engine;
 import ru.csc.vindur.Request;
 import ru.csc.vindur.Value;
 import ru.csc.vindur.ValueType;
+import ru.csc.vindur.test.testHelpers.MultyAttributesTest;
 import ru.csc.vindur.test.testHelpers.OneAttributeTest;
 import ru.csc.vindur.test.testHelpers.TestHelper;
 
@@ -24,6 +26,13 @@ public class VindurEngineTest {
 		run(new OneAttributeTest(ValueType.ENUM, 3, 0xFFFFF, 0xFF));
 		run(new OneAttributeTest(ValueType.STRING, 30, 0xFFFFF, 0xFF));
 		run(new OneAttributeTest(ValueType.NUMERIC, 30, 0xFFFF, 0xF));
+		
+		Map<ValueType, Double> typeFrequencies = new HashMap<>();
+		typeFrequencies.put(ValueType.STRING, 1.0);
+		Map<ValueType, Integer> valuesCount = new HashMap<>();
+		valuesCount.put(ValueType.STRING, 5);
+		run(new MultyAttributesTest(10, typeFrequencies, valuesCount, 
+				 0x2FFFF, 0xFF, 4));
 	}
 
 	private static void run(TestHelper helper) {

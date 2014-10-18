@@ -1,5 +1,9 @@
 package ru.csc.vindur.test.utils;
 
+import java.util.Map;
+import java.util.Map.Entry;
+import java.util.Set;
+import java.util.TreeSet;
 import java.util.concurrent.ThreadLocalRandom;
 
 import org.apache.commons.lang.RandomStringUtils;
@@ -46,5 +50,27 @@ public class RandomUtils {
 			return minLen;
 		}
 		return minLen + ThreadLocalRandom.current().nextInt(maxLen - minLen);
+	}
+
+	public static <T> T getFrec(Map<T, Double> frequencies) {
+		double random = ThreadLocalRandom.current().nextDouble();
+		double summ = 0;
+		for(Entry<T, Double> entry: frequencies.entrySet()) {
+			summ += entry.getValue();
+			if(summ >= random) {
+				return entry.getKey();
+			}
+		}
+		return null;
+	}
+
+	public static Set<Integer> getRandomIndexes(int attributesCount, int reqAttributesCount) {
+		Set<Integer> result = new TreeSet<>();
+		
+		// TODO fix this. It works too long if there is many collisions
+		while(result.size() < reqAttributesCount) {
+			result.add(ThreadLocalRandom.current().nextInt(attributesCount));
+		}
+		return result;
 	}
 }
