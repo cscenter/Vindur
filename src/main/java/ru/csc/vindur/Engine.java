@@ -1,11 +1,6 @@
 package ru.csc.vindur;
 
-import java.util.ArrayList;
-import java.util.BitSet;
-import java.util.Collections;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
@@ -56,16 +51,32 @@ public class Engine {
     }
 
     public List<Integer> executeRequest(Request request) {
-        request = requestOptimizer.optimize(request);
-        BitSet resultSet = null;
+        Map<RequestPlan.PlanElement, Integer> cardinalityList = new HashMap<>();
+
         for (Request.RequestPart requestPart : request.getRequestParts()) {
-            if (resultSet == null)
-                resultSet = executeRequestPart(requestPart);
-            else
-                resultSet.and(executeRequestPart(requestPart));
+            BitSet resultSetPart = executeRequestPart(requestPart);
+            int resultSetCardinality = resultSetPart.cardinality();
+            RequestPlan.PlanElement planElement = new RequestPlan.PlanElement(requestPart);
+            cardinalityList.put(planElement, resultSetCardinality);
         }
 
-        if (resultSet == null)
+        ValueComparator valueComparator = new ValueComparator(cardinalityList);
+        SortedMap<RequestPlan.PlanElement, Integer> sortedCardinalityList = new TreeMap<>(valueComparator);
+        sortedCardinalityList.putAll(cardinalityList);
+
+
+        BitSet resultSet = null;
+        for (RequestPlan.PlanElement planElement : sortedCardinalityList.keySet()) {
+            if (resultSet == null)
+                resultSet = executeRequestPart(planElement.getRequestPart());
+            else
+                resultSet.and(executeRequestPart(planElement.getRequestPart()));
+
+            if (resultSet.cardinality() == 0) break;
+
+        }
+
+        if (resultSet == null || resultSet.cardinality() == 0)
             return Collections.emptyList();
         ArrayList<Integer> result = new ArrayList<>(resultSet.cardinality());
         for(int docId = resultSet.nextSetBit(0); docId != -1; docId = resultSet.nextSetBit(docId + 1)) {
@@ -85,6 +96,24 @@ public class Engine {
         }
 
         return NOTHING;
+    }
+
+    private class ValueComparator implements Comparator<RequestPlan.PlanElement> {
+
+        Map<RequestPlan.PlanElement, Integer> map;
+
+        public ValueComparator(Map<RequestPlan.PlanElement, Integer> base) {
+            this.map = base;
+        }
+
+        @Override
+        public int compare(RequestPlan.PlanElement o1, RequestPlan.PlanElement o2) {
+            if (map.get(o1) >= map.get(o2)) {
+                return 1;
+            } else {
+                return -1;
+            }
+        }
     }
 
     private class RequestOptimizer {
