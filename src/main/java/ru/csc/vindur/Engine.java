@@ -66,11 +66,11 @@ public class Engine {
 
 
         BitSet resultSet = null;
-        for (RequestPlan.PlanElement planElement : sortedCardinalityList.keySet()) {
+        for (Map.Entry<RequestPlan.PlanElement, Integer> entry : sortedCardinalityList.entrySet()) {
             if (resultSet == null)
-                resultSet = executeRequestPart(planElement.getRequestPart());
+                resultSet = executeRequestPart(entry.getKey().getRequestPart());
             else
-                resultSet.and(executeRequestPart(planElement.getRequestPart()));
+                resultSet.and(executeRequestPart(entry.getKey().getRequestPart()));
 
             if (resultSet.cardinality() == 0) break;
 
