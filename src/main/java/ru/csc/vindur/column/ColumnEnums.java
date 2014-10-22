@@ -5,86 +5,71 @@ import java.util.*;
 import ru.csc.vindur.document.Value;
 
 /**
- * @author: Phillip Delgyado
- * Date: 30.10.13 17:40
+ * @author: Phillip Delgyado Date: 30.10.13 17:40
  */
-public final class ColumnEnums implements IColumn
-{
-    private Map<String,BitSet> values; //value->set{itemId}
-    private int size;
-    private int maxsize;
+public final class ColumnEnums implements Column {
+	private Map<String, BitSet> values; // strValue->set{itemId}
+	private int currentSize;
+	private int maxSize;
 
-    public ColumnEnums(int maxsize) {
-        values = new HashMap<>();
-        size = 0;
-        this.maxsize = maxsize;
-    }
+	public ColumnEnums(int maxSize) {
+		this.maxSize = maxSize;
+		values = new HashMap<>();
+		currentSize = 0;
+	}
 
-    @Override
-    public long size()
-    {
-        return size;
-    }
+	@Override
+	public long size() {
+		return currentSize;
+	}
 
-    @Override
-    public long expectAmount(String value) {
-        return size / 10000 + 1;
-    }
+	@Override
+	public long expectAmount(String value) {
+		return currentSize / 10000 + 1;
+	}
 
-    @Override
-    public void add(int docId, Value vvalue) {
-        String value = vvalue.getValue();
-        BitSet vals = values.get(value);
-        if (vals == null) {
-            vals = new BitSet(maxsize);
-            values.put(value,vals);
-        }
-        vals.set(docId);
-        size++;
-    }
+	@Override
+	public void add(int docId, Value value) {
+		String strValue = value.getValue();
+		BitSet docsBitSet = values.get(strValue);
+		if (docsBitSet == null) {
+			docsBitSet = new BitSet(maxSize);
+			values.put(strValue, docsBitSet);
+		}
+		docsBitSet.set(docId);
+		currentSize++;
+	}
 
-    @Override
-    public void remove(int docId, Value oldValue) {
-        String value = oldValue.getValue();
-        BitSet vals = values.get(value);
-        if (vals == null) return;
-        vals.clear(docId);
-        size--;
-    }
+	@Override
+	public Collection<Integer> getAll() {
+		BitSet resultSet = new BitSet(maxSize);
+		for (BitSet docsBitSet : values.values()) {
+			resultSet.or(docsBitSet);
+		}
+		Collection<Integer> resultCollection = new ArrayList<>(resultSet.cardinality());
+		for (int docId = resultSet.nextSetBit(0); docId >= 0; docId = resultSet.nextSetBit(docId + 1)) {
+			resultCollection.add(docId);
+		}
+		return resultCollection;
+	}
 
-    @Override
-    public Collection<Integer> getAll() {
-        BitSet r = new BitSet(maxsize);
-        for (BitSet b : values.values())
-            r.and(b);
-        Collection<Integer> items = new ArrayList<>();
-        for (int i = r.nextSetBit(0); i >= 0; i = r.nextSetBit(i+1))
-            items.add(i);
-        return items;
-    }
+	@Override
+	public Collection<Integer> findList(String value) {
+		BitSet resultSet = findSet(value);
+		Collection<Integer> items = new ArrayList<>(resultSet.cardinality());
+		for (int docId = resultSet.nextSetBit(0); docId >= 0; docId = resultSet.nextSetBit(docId + 1)) {
+			items.add(docId);
+		}
+		return items;
+	}
 
-
-    @Override
-    public Collection<Integer> findList(String value) {
-       Collection<Integer> items = new ArrayList<>();
-       BitSet r = findSet(value);
-       for (int i = r.nextSetBit(0); i >= 0; i = r.nextSetBit(i+1))
-            items.add(i);
-       return items;
-    }
-
-    @Override
-    public BitSet findSet(String match) {
-       BitSet r = values.get(match);
-       if (r == null)
-           return new BitSet();
-
-       BitSet l = new BitSet(maxsize);
-       l.or(r);
-
-       return l;
-    }
-
-
+	@Override
+	public BitSet findSet(String value) {
+		BitSet resultSet = values.get(value);
+		if (resultSet == null) {
+			return new BitSet();
+		}
+		return (BitSet) resultSet.clone(); // BitSet implements Cloneable
+	}
 
 }

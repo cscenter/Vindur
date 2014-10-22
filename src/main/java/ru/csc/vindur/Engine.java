@@ -12,7 +12,7 @@ import java.util.TreeMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
 import ru.csc.vindur.column.ColumnHelper;
-import ru.csc.vindur.column.IColumn;
+import ru.csc.vindur.column.Column;
 import ru.csc.vindur.document.Document;
 import ru.csc.vindur.document.Value;
 
@@ -26,7 +26,7 @@ public class Engine {
     private AtomicInteger documentsSequence;
 
     private RequestOptimizer requestOptimizer;
-    private Map<String, IColumn> columns;
+    private Map<String, Column> columns;
     private Map<Integer, Document> documents;
 
     public Engine(EngineConfig config) {
@@ -44,7 +44,7 @@ public class Engine {
         }
     }
 
-    public void addColumn(String attribute, IColumn column) {
+    public void addColumn(String attribute, Column column) {
         if (columns.containsKey(attribute))
             throw new IllegalArgumentException("Column for this attribute already exists");
         columns.put(attribute, column);
@@ -99,7 +99,7 @@ public class Engine {
     }
 
     private BitSet executeRequestPart(Request.RequestPart requestPart) {
-        IColumn index = columns.get(requestPart.tag);
+        Column index = columns.get(requestPart.tag);
         if (index == null)
             return NOTHING;
 

@@ -9,12 +9,12 @@ import ru.csc.vindur.document.ValueType;
 public class ColumnHelper {
     public static final int DEFAULT_VOLUME = 100;
 
-    public static IColumn getColumn(ValueType valueType) {
+    public static Column getColumn(ValueType valueType) {
         return getColumn(valueType, DEFAULT_VOLUME);
     }
 
-    public static IColumn getColumn(ValueType valueType, int volume) {
-        IColumn column;
+    public static Column getColumn(ValueType valueType, int volume) {
+        Column column;
         switch (valueType) {
             case NUMERIC:
                 column = new ColumnNumerics(volume);

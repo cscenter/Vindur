@@ -11,176 +11,154 @@ import java.math.BigDecimal;
 import java.util.*;
 
 /**
- * @author: Phillip Delgyado
- * Date: 30.10.13 17:40
+ * @author: Phillip Delgyado Date: 30.10.13 17:40
  */
-public final class ColumnNumerics implements IColumn
-{
-    private List<Record> values; //а может к каждой записи в values писать list itemId?
-    private boolean isSorted=false;
+public final class ColumnNumerics implements Column {
+	private List<Record> values;
+	private boolean isSorted = false;
 
-    private int size;
-    private int maxsize;
+	private int currentSize;
+	private int maxSize;
 
-    public ColumnNumerics(int maxsize)
-    {
-        this.values = new ArrayList<>();
-        this.size=0;
-        this.maxsize=maxsize;
-    }
+	public ColumnNumerics(int maxSize) {
+		this.maxSize = maxSize;
+		values = new ArrayList<>();
+		currentSize = 0;
+	}
 
-    @Override
-    public long size()
-    {
-        return size;
-    }
+	@Override
+	public long size() {
+		return currentSize;
+	}
 
-    @Override
-    public long expectAmount(String value)
-    {
-        return size/100+1;
-    }
+	@Override
+	public long expectAmount(String value) {
+		return currentSize / 100 + 1;
+	}
 
-    @Override
-    public final void add(int docId, Value value)
-    {
-        Record ir = new Record();
-         ir.itemId = docId;
-         ir.value = new BigDecimal(value.toString());
-        values.add(ir);
-        isSorted=false;
-        size++;
-    }
+	@Override
+	public final void add(int docId, Value value) {
+		Record newRecord = new Record();
+		newRecord.itemId = docId;
+		newRecord.value = new BigDecimal(value.toString());
+		values.add(newRecord);
+		isSorted = false;
+		currentSize++;
+	}
 
-    @Override
-    public final void remove(int docId, Value oldValue)
-    {
-        Record ir = new Record();
-         ir.itemId= docId;
-         ir.value=new BigDecimal(oldValue.toString());
-        values.remove(ir);     //todo грязный хак
-        isSorted=false;
-        size--;
-    }
+	@Override
+	public Collection<Integer> getAll() {
+		return Lists.transform(values, new Function<Record, Integer>() {
+			@Nullable
+			@Override
+			public Integer apply(@Nullable Record input) {
+				return input.itemId;
+			}
+		});
+	}
 
-    @Override
-    public Collection<Integer> getAll()
-    {
-        return Lists.transform(values, new Function<Record, Integer>() {
-            @Nullable
-            @Override
-            public Integer apply(@Nullable Record input)
-            {
-                return input.itemId;
-            }
-        }) ;
-    }
+	@Override
+	public Collection<Integer> findList(String strValue) {
+		BigDecimal value = new BigDecimal(strValue);
 
-    @Override
-    public Collection<Integer> findList(String svalue)
-    {
-       BigDecimal value = new BigDecimal(svalue);
+		if (isSorted == false) {
+			Collections.sort(values, comarator);
+			isSorted = true;
+		}
 
-       if (isSorted==false)
-       {
-           Collections.sort(values,comarator);
-           isSorted=true;
-       }
-       Collection<Integer> items = new ArrayList<>();
+		Record key = new Record();
+		key.value = value;
+		int someIdx = Collections.binarySearch(values, key, comarator);
+		
+		// this is a bottleneck
+		int leftBorderId = leftBorder(values, value, someIdx);
+		int rightBorderId = rightBorder(values, value, someIdx);
 
-       //найдем какой-то подходящий
-       Record key = new Record();
-         key.value=value;
-        int idx = Collections.binarySearch(values,key,comarator);
+		Collection<Integer> resultCollection = new ArrayList<>(rightBorderId - leftBorderId);
+		for (int index = leftBorderId; index < rightBorderId; index++) {
+			resultCollection.add(values.get(index).itemId);
+		}
 
-        for (int ii=leftBorder(values,value,idx);ii<rightBorder(values,value,idx);ii++)
-        {
-            items.add(values.get(ii).itemId);
-        }
+		return resultCollection;
+	}
 
-       return items ;
-    }
+	public static int leftBorder(List<Record> data, BigDecimal value, int idx) {
+		int ii = idx;
+		if (idx < 0) {
+			return -1;
+		}
 
-    public static int leftBorder(List<Record> data, BigDecimal value, int idx)
-    {
-        int ii=idx;
-        if (idx<0) return -1;
+		while (ii > 0) {
+			Record rt = data.get(ii);
+			if (!recordValueEquals(rt, value))
+				break;
+			ii--;
+		}
+		return ii;
+	}
 
-        while (ii>0)
-        {
-            Record rt = data.get(ii);
-            if (! eq(rt,value)) break;
-            ii--;
-        }
-        return ii;
-    }
+	public static int rightBorder(List<Record> data, BigDecimal value, int idx) {
+		int ii = idx + 1;
+		if (idx < 0) {
+			return -1;
+		}
 
-    public static int rightBorder(List<Record> data, BigDecimal value, int idx)
-      {
-          int ii=idx+1;
-          if (idx<0) return -1;
+		int len = data.size();
+		while (ii < len) {
+			Record rt = data.get(ii);
+			if (!recordValueEquals(rt, value))
+				break;
+			ii++;
+		}
+		return ii;
+	}
 
-          int len = data.size();
-          while (ii<len)
-          {
-              Record rt = data.get(ii);
-              if (! eq(rt,value)) break;
-              ii++;
-          }
-          return ii;
-      }
+	public static boolean recordValueEquals(Record r, BigDecimal value) {
+		return (r.value.equals(value));
+	}
 
-    public static boolean eq(Record r, BigDecimal value)
-    {
-        return (r.value.equals(value));
-    }
+	@Override
+	public BitSet findSet(String value) {
+		BitSet resultSet = new BitSet(maxSize);
+		for (int docId : findList(value)) {
+			resultSet.set(docId);
+		}
+		return resultSet;
+	}
 
+	private final Comparator<Record> comarator = new Comparator<Record>() {
+		public int compare(Record o1, Record o2) {
+			return o1.value.compareTo(o2.value);
+		}
+	};
 
+	private static final class Record {
+		BigDecimal value;
+		int itemId;
 
-    @Override
-    public BitSet findSet(String match)
-    {
-        BitSet s = new BitSet(maxsize);
-        for (int i : findList(match))
-         s.set(i);
-        return s;
-    }
+		@Override
+		public boolean equals(Object o) {
+			if (this == o)
+				return true;
+			if (o == null || getClass() != o.getClass())
+				return false;
 
-    private final Comparator<Record> comarator =
-     new Comparator<Record>()
-     {
-       public int compare(Record o1, Record o2)
-       {
-           int r;
-           r = o1.value.compareTo(o2.value);
-           return r;
-       }
-     };
+			Record record = (Record) o;
 
+			if (itemId != record.itemId)
+				return false;
+			if (value != null ? !value.equals(record.value)
+					: record.value != null)
+				return false;
 
-    private static final class Record
-    {
-       BigDecimal value;
-       int itemId;
+			return true;
+		}
 
-        @Override
-        public boolean equals(Object o) {
-            if (this == o) return true;
-            if (o == null || getClass() != o.getClass()) return false;
-
-            Record record = (Record) o;
-
-            if (itemId != record.itemId) return false;
-            if (value != null ? !value.equals(record.value) : record.value != null) return false;
-
-            return true;
-        }
-
-        @Override
-        public int hashCode() {
-            int result = value != null ? value.hashCode() : 0;
-            result = 31 * result + (int) (itemId ^ (itemId >>> 32));
-            return result;
-        }
-    }
+		@Override
+		public int hashCode() {
+			int result = value != null ? value.hashCode() : 0;
+			result = 31 * result + (int) (itemId ^ (itemId >>> 32));
+			return result;
+		}
+	}
 }
