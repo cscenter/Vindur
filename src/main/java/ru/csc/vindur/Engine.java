@@ -39,7 +39,7 @@ public class Engine {
         for(String attribute : config.getAttributes()) {
             addColumn(
                     attribute,
-                    ColumnHelper.getColumn(config.getValueType(attribute), expectedVolume)
+                    ColumnHelper.getColumn(config.getValueType(attribute))
             );
         }
     }
