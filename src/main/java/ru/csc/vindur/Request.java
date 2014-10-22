@@ -11,12 +11,7 @@ import java.util.Map;
  */
 public class Request
 {
-    private Map<String,RequestPart> reqs; //aspect->RequestPart
-
-    private Request()
-    {
-        reqs = new HashMap<>();
-    }
+    private final Map<String,RequestPart> reqs = new HashMap<>(); //aspect->RequestPart
 
     public static Request build()
     {
