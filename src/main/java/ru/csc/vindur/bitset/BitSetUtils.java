@@ -9,7 +9,7 @@ public class BitSetUtils {
 
 	public static ArrayList<Integer> bitSetToArrayList(BitSet bitSet) {
 		ArrayList<Integer> result = new ArrayList<>(bitSet.cardinality());
-		for (int id = bitSet.nextSetBit(0); id != 0; id = bitSet.nextSetBit(id + 1)) {
+		for (int id = bitSet.nextSetBit(0); id != -1; id = bitSet.nextSetBit(id + 1)) {
 			result.add(id);
 		}
 		return result;
