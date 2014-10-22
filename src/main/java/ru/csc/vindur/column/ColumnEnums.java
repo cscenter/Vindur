@@ -2,21 +2,15 @@ package ru.csc.vindur.column;
 
 import java.util.*;
 
+import ru.csc.vindur.bitset.BitSetUtils;
 import ru.csc.vindur.document.Value;
 
 /**
  * @author: Phillip Delgyado Date: 30.10.13 17:40
  */
 public final class ColumnEnums implements Column {
-	private Map<String, BitSet> values; // strValue->set{itemId}
-	private int currentSize;
-	private int maxSize;
-
-	public ColumnEnums(int maxSize) {
-		this.maxSize = maxSize;
-		values = new HashMap<>();
-		currentSize = 0;
-	}
+	private final Map<String, BitSet> values = new HashMap<>(); // strValue->set{itemId}
+	private int currentSize = 0;
 
 	@Override
 	public long size() {
@@ -33,7 +27,7 @@ public final class ColumnEnums implements Column {
 		String strValue = value.getValue();
 		BitSet docsBitSet = values.get(strValue);
 		if (docsBitSet == null) {
-			docsBitSet = new BitSet(maxSize);
+			docsBitSet = new BitSet();
 			values.put(strValue, docsBitSet);
 		}
 		docsBitSet.set(docId);
@@ -42,34 +36,26 @@ public final class ColumnEnums implements Column {
 
 	@Override
 	public Collection<Integer> getAll() {
-		BitSet resultSet = new BitSet(maxSize);
+		BitSet resultSet = new BitSet();
 		for (BitSet docsBitSet : values.values()) {
 			resultSet.or(docsBitSet);
 		}
-		Collection<Integer> resultCollection = new ArrayList<>(resultSet.cardinality());
-		for (int docId = resultSet.nextSetBit(0); docId >= 0; docId = resultSet.nextSetBit(docId + 1)) {
-			resultCollection.add(docId);
-		}
-		return resultCollection;
+		return BitSetUtils.bitSetToArrayList(resultSet);
 	}
 
 	@Override
 	public Collection<Integer> findList(String value) {
 		BitSet resultSet = findSet(value);
-		Collection<Integer> items = new ArrayList<>(resultSet.cardinality());
-		for (int docId = resultSet.nextSetBit(0); docId >= 0; docId = resultSet.nextSetBit(docId + 1)) {
-			items.add(docId);
-		}
-		return items;
+		return BitSetUtils.bitSetToArrayList(resultSet);
 	}
 
 	@Override
 	public BitSet findSet(String value) {
 		BitSet resultSet = values.get(value);
 		if (resultSet == null) {
-			return new BitSet();
+			return BitSetUtils.EMPTY_BITSET;
 		}
-		return (BitSet) resultSet.clone(); // BitSet implements Cloneable
+		return BitSetUtils.copyOf(resultSet);
 	}
 
 }

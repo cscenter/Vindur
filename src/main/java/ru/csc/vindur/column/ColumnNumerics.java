@@ -5,6 +5,7 @@ import com.google.common.collect.Lists;
 
 import javax.annotation.Nullable;
 
+import ru.csc.vindur.bitset.BitSetUtils;
 import ru.csc.vindur.document.Value;
 
 import java.math.BigDecimal;
@@ -14,17 +15,9 @@ import java.util.*;
  * @author: Phillip Delgyado Date: 30.10.13 17:40
  */
 public final class ColumnNumerics implements Column {
-	private List<Record> values;
+	private final List<Record> values = new ArrayList<>();
 	private boolean isSorted = false;
-
-	private int currentSize;
-	private int maxSize;
-
-	public ColumnNumerics(int maxSize) {
-		this.maxSize = maxSize;
-		values = new ArrayList<>();
-		currentSize = 0;
-	}
+	private int currentSize = 0;
 
 	@Override
 	public long size() {
@@ -82,6 +75,11 @@ public final class ColumnNumerics implements Column {
 		return resultCollection;
 	}
 
+	@Override
+	public BitSet findSet(String value) {
+		return BitSetUtils.intCollectionToBitSet(findList(value));
+	}
+
 	public static int leftBorder(List<Record> data, BigDecimal value, int idx) {
 		int ii = idx;
 		if (idx < 0) {
@@ -115,15 +113,6 @@ public final class ColumnNumerics implements Column {
 
 	public static boolean recordValueEquals(Record r, BigDecimal value) {
 		return (r.value.equals(value));
-	}
-
-	@Override
-	public BitSet findSet(String value) {
-		BitSet resultSet = new BitSet(maxSize);
-		for (int docId : findList(value)) {
-			resultSet.set(docId);
-		}
-		return resultSet;
 	}
 
 	private final Comparator<Record> comarator = new Comparator<Record>() {

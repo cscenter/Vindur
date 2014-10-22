@@ -7,24 +7,19 @@ import ru.csc.vindur.document.ValueType;
  *         Created on 15.10.2014.
  */
 public class ColumnHelper {
-    public static final int DEFAULT_VOLUME = 100;
 
     public static Column getColumn(ValueType valueType) {
-        return getColumn(valueType, DEFAULT_VOLUME);
-    }
-
-    public static Column getColumn(ValueType valueType, int volume) {
         Column column;
         switch (valueType) {
             case NUMERIC:
-                column = new ColumnNumerics(volume);
+                column = new ColumnNumerics();
                 break;
             case ENUM:
-                column = new ColumnEnums(volume);
+                column = new ColumnEnums();
                 break;
             case STRING:
             default:
-                column = new ColumnStrings(volume);
+                column = new ColumnStrings();
         }
         return column;
     }

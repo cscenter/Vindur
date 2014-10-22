@@ -1,24 +1,16 @@
 package ru.csc.vindur.column;
 
-import com.google.common.collect.Sets;
-
 import java.util.*;
 
+import ru.csc.vindur.bitset.BitSetUtils;
 import ru.csc.vindur.document.Value;
 
 /**
  * @author: Phillip Delgyado Date: 30.10.13 17:40
  */
 public final class ColumnStrings implements Column {
-	private Map<String, TreeSet<Integer>> values; // strValue->{itemId}
-	private int currentSize;
-	private int maxSize;
-
-	public ColumnStrings(int maxsize) {
-		this.maxSize = maxsize;
-		values = new HashMap<>();
-		currentSize = 0;
-	}
+	private Map<String, TreeSet<Integer>> values = new HashMap<>(); // strValue->{itemId}
+	private int currentSize = 0;
 
 	@Override
 	public long size() {
@@ -58,17 +50,12 @@ public final class ColumnStrings implements Column {
 			return Collections.emptyList();
 		}
 
-		Collection<Integer> resultCollection = new ArrayList<>(values.get(value));
-		return resultCollection;
+		return Collections.unmodifiableCollection(values.get(value));
 	}
 
 	@Override
 	public BitSet findSet(String value) {
-		BitSet resultBitSet = new BitSet(maxSize);
-		for (int docId : findList(value)) {
-			resultBitSet.set(docId);
-		}
-		return resultBitSet;
+		return BitSetUtils.intCollectionToBitSet(findList(value));
 	}
 
 }
