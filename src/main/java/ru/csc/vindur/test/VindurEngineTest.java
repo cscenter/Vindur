@@ -12,8 +12,8 @@ import com.google.common.base.Stopwatch;
 
 import ru.csc.vindur.Engine;
 import ru.csc.vindur.Request;
-import ru.csc.vindur.Value;
-import ru.csc.vindur.ValueType;
+import ru.csc.vindur.document.Value;
+import ru.csc.vindur.document.ValueType;
 import ru.csc.vindur.test.testHelpers.MultyAttributesTest;
 import ru.csc.vindur.test.testHelpers.OneAttributeTest;
 import ru.csc.vindur.test.testHelpers.TestHelper;
@@ -26,12 +26,23 @@ public class VindurEngineTest {
 		run(new OneAttributeTest(ValueType.ENUM, 3, 0xFFFFF, 0xFFF));
 		run(new OneAttributeTest(ValueType.STRING, 30, 0xFFFFF, 0xFFF));
 		run(new OneAttributeTest(ValueType.NUMERIC, 30, 0xFFFF, 0xFF));
-		
-		Map<ValueType, Double> typeFrequencies = new HashMap<>();
+
+		Map<ValueType, Double> typeFrequencies;
+		Map<ValueType, Integer> valuesCount;
+		typeFrequencies = new HashMap<>();
+		valuesCount = new HashMap<>();
 		typeFrequencies.put(ValueType.STRING, 1.0);
-		Map<ValueType, Integer> valuesCount = new HashMap<>();
 		valuesCount.put(ValueType.STRING, 5);
 		run(new MultyAttributesTest(20, typeFrequencies, valuesCount, 
+				 0x4FFFF, 0xFFF, 7));
+
+		typeFrequencies.put(ValueType.STRING, 0.5);
+		typeFrequencies.put(ValueType.ENUM, 0.4);
+		typeFrequencies.put(ValueType.NUMERIC, 0.1);
+		valuesCount.put(ValueType.ENUM, 5);
+		valuesCount.put(ValueType.STRING, 50);
+		valuesCount.put(ValueType.NUMERIC, 50);
+		run(new MultyAttributesTest(30, typeFrequencies, valuesCount, 
 				 0x4FFFF, 0xFFF, 7));
 	}
 

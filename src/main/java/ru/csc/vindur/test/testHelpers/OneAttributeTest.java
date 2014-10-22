@@ -7,8 +7,8 @@ import java.util.Map;
 
 import ru.csc.vindur.EngineConfig;
 import ru.csc.vindur.Request;
-import ru.csc.vindur.Value;
-import ru.csc.vindur.ValueType;
+import ru.csc.vindur.document.Value;
+import ru.csc.vindur.document.ValueType;
 import ru.csc.vindur.test.DocumentGeneratorBase;
 import ru.csc.vindur.test.RequestGeneratorBase;
 import ru.csc.vindur.test.utils.AttributeGenerator;

@@ -1,4 +1,4 @@
-package ru.csc.vindur;
+package ru.csc.vindur.document;
 
 /**
  * @author Andrey Kokorev

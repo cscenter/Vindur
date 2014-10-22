@@ -1,4 +1,6 @@
-package ru.csc.vindur;
+package ru.csc.vindur.column;
+
+import ru.csc.vindur.document.ValueType;
 
 /**
  * @author Andrey Kokorev

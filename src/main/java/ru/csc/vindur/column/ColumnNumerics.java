@@ -1,9 +1,12 @@
-package ru.csc.vindur;
+package ru.csc.vindur.column;
 
 import com.google.common.base.Function;
 import com.google.common.collect.Lists;
 
 import javax.annotation.Nullable;
+
+import ru.csc.vindur.document.Value;
+
 import java.math.BigDecimal;
 import java.util.*;
 
@@ -117,7 +120,8 @@ public final class ColumnNumerics implements IColumn
           int ii=idx+1;
           if (idx<0) return -1;
 
-          while (ii<data.size())
+          int len = data.size();
+          while (ii<len)
           {
               Record rt = data.get(ii);
               if (! eq(rt,value)) break;

@@ -1,4 +1,4 @@
-package ru.csc.vindur;
+package ru.csc.vindur.document;
 
 import java.util.*;
 import java.util.concurrent.atomic.AtomicInteger;

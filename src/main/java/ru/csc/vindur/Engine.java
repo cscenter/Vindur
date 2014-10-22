@@ -1,7 +1,20 @@
 package ru.csc.vindur;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.BitSet;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.SortedMap;
+import java.util.TreeMap;
 import java.util.concurrent.atomic.AtomicInteger;
+
+import ru.csc.vindur.column.ColumnHelper;
+import ru.csc.vindur.column.IColumn;
+import ru.csc.vindur.document.Document;
+import ru.csc.vindur.document.Value;
 
 /**
  * Created by Pavel Chursin on 05.10.2014.
@@ -78,7 +91,7 @@ public class Engine {
 
         if (resultSet == null || resultSet.cardinality() == 0)
             return Collections.emptyList();
-        ArrayList<Integer> result = new ArrayList<>(resultSet.cardinality());
+        List<Integer> result = new ArrayList<>(resultSet.cardinality());
         for(int docId = resultSet.nextSetBit(0); docId != -1; docId = resultSet.nextSetBit(docId + 1)) {
             result.add(docId);
         }

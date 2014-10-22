@@ -1,8 +1,10 @@
-package ru.csc.vindur;
+package ru.csc.vindur.column;
 
 import com.google.common.collect.Sets;
 
 import java.util.*;
+
+import ru.csc.vindur.document.Value;
 
 /**
  * @author: Phillip Delgyado
@@ -72,9 +74,9 @@ public final class ColumnStrings implements IColumn
     @Override
     public Collection<Integer> findList(String value)
     {
-       Collection<Integer> items = new ArrayList();
+       Collection<Integer> items = new ArrayList<>();
        if (!values.containsKey(value))
-           return Collections.EMPTY_LIST;
+           return Collections.emptyList();
 
         for (Integer itemId : values.get(value) )
           items.add(itemId);

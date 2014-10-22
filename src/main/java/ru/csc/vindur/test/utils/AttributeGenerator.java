@@ -1,7 +1,7 @@
 package ru.csc.vindur.test.utils;
 
-import ru.csc.vindur.Value;
-import ru.csc.vindur.ValueType;
+import ru.csc.vindur.document.Value;
+import ru.csc.vindur.document.ValueType;
 
 public class AttributeGenerator {
 

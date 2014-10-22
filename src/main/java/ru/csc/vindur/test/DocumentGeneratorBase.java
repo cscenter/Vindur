@@ -6,7 +6,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
-import ru.csc.vindur.Value;
+import ru.csc.vindur.document.Value;
 
 public abstract class DocumentGeneratorBase implements Iterable<Map<String, List<Value>>> {
 

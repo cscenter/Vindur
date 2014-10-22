@@ -1,7 +1,9 @@
-package ru.csc.vindur;
+package ru.csc.vindur.column;
 
 import java.util.BitSet;
 import java.util.Collection;
+
+import ru.csc.vindur.document.Value;
 
 /**
  * @author: Phillip Delgyado

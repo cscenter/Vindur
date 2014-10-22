@@ -3,6 +3,8 @@ package ru.csc.vindur;
 import java.util.Map;
 import java.util.Set;
 
+import ru.csc.vindur.document.ValueType;
+
 /**
  * Created by Pavel Chursin on 05.10.2014.
  */
