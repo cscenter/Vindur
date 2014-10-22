@@ -28,7 +28,7 @@ public class OneAttributeTest implements TestHelper {
 		Map<String, ValueType> indexes = new HashMap<>(1);
 		indexes.put("attribute", valueType);
 		attributeValues = AttributeGenerator.generateValues(valueType, valuesCount);
-		simpleEngineConfig = new EngineConfig(indexes, documentsCount);
+		simpleEngineConfig = new EngineConfig(indexes);
 	}
 
 

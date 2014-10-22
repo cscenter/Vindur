@@ -18,17 +18,11 @@ import ru.csc.vindur.document.Value;
  * Created by Pavel Chursin on 05.10.2014.
  */
 public class Engine {
-    private int expectedVolume;
-    private AtomicInteger documentsSequence;
-    private Map<String, Column> columns;
-    private Map<Integer, Document> documents;
+    private final AtomicInteger documentsSequence = new AtomicInteger(0);
+    private final Map<String, Column> columns = new HashMap<>();;
+    private final Map<Integer, Document> documents = new HashMap<>();;
 
     public Engine(EngineConfig config) {
-        documentsSequence = new AtomicInteger(0);
-        expectedVolume = config.getExpectedVolume();
-        columns = new HashMap<>();
-        documents = new HashMap<>(expectedVolume);
-
         for(String attribute : config.getAttributes()) {
             addColumn(
                     attribute,
@@ -54,6 +48,9 @@ public class Engine {
         if (!documents.containsKey(id)) {
             throw new IllegalArgumentException("There is no such document");
         }
+        if(!columns.containsKey(attribute)) {
+            throw new IllegalArgumentException("There is no such column");
+        }
         documents.get(id).setAttribute(attribute, value);
         columns.get(attribute).add(id, value);
     }
@@ -68,14 +65,14 @@ public class Engine {
             }
 
             if (resultSet.cardinality() == 0) {
-            	break;
+            	return Collections.emptyList();
             }
-
         }
 
-        if (resultSet == null || resultSet.cardinality() == 0) {
-            return Collections.emptyList();
+        if (resultSet == null) {
+        	return Collections.emptyList();
         }
+        
         return BitSetUtils.bitSetToArrayList(resultSet);
     }
 

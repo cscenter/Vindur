@@ -41,7 +41,7 @@ public class MultyAttributesTest implements TestHelper {
 			indexes.put(attributeNames[i], type);
 		}
 		
-		simpleEngineConfig = new EngineConfig(indexes, documentsCount);
+		simpleEngineConfig = new EngineConfig(indexes);
 	}
 
 	@Override

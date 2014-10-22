@@ -15,18 +15,17 @@ public class Request
 
     public static Request build()
     {
-        Request r = new Request();
-        return r;
+        return new Request();
     }
 
     public Request exact(String tag, String value)
     {
-        RequestPart rp = new RequestPart();
-        rp.tag=tag;
-        rp.from=value;
-        rp.to=value;
-        rp.isExact=true;
-        reqs.put(tag, rp);
+        RequestPart requestPart = new RequestPart();
+        requestPart.tag=tag;
+        requestPart.from=value;
+        requestPart.to=value;
+        requestPart.isExact=true;
+        reqs.put(tag, requestPart);
         return this;
     }
 
@@ -61,10 +60,11 @@ public class Request
         @Override
         public String toString()
         {
-            return "search in " + "'" + tag + '\'' +
-                    " for ('" + from + '\'' +
-                    ", '" + to + '\'' +
-                    ')';
+        	if(isExact) {
+        		return String.format("search in '%s' for exact '%s'", tag, from);
+        	} else {
+        		return String.format("search in '%s' for range ['%s', '%s']", tag, from, to);
+        	}
         }
     }
 

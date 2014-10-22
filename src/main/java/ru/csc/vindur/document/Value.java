@@ -5,10 +5,10 @@ package ru.csc.vindur.document;
  * Created on 24.09.2014.
  */
 public class Value {
-    private String value;
+    private final String value;
 
-    public Value(String val) {
-        value = val;
+    public Value(String value) {
+        this.value = value;
     }
 
     public String getValue() {
@@ -17,6 +17,6 @@ public class Value {
 
     @Override
     public String toString() {
-        return getValue();
+        return value;
     }
 }
