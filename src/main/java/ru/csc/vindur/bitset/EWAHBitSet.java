@@ -1,6 +1,6 @@
 package ru.csc.vindur.bitset;
 
-import java.util.Collections;
+import java.util.Collection;
 import java.util.List;
 
 import com.googlecode.javaewah.EWAHCompressedBitmap;
@@ -21,11 +21,8 @@ public class EWAHBitSet extends BitSetBase {
 		this.bitSet = other.bitSet.clone();
 	}
 	
-	public EWAHBitSet(List<Integer> intList, boolean isSorted) {
-		if(!isSorted) {
-			//TODO: find out if this is really necessary
-			Collections.sort(intList);
-		}
+	public EWAHBitSet(Collection<Integer> intList, boolean isSorted) {
+		// TODO: Investigate. It may be very slow when collection is not sorted. 
 		bitSet = new EWAHCompressedBitmap();
 		for(int i: intList) {
 			bitSet.set(i);
