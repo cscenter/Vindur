@@ -5,19 +5,29 @@ import com.google.common.collect.Lists;
 
 import javax.annotation.Nullable;
 
-import ru.csc.vindur.bitset.BitSetUtils;
+import ru.csc.vindur.bitset.BitSet;
+import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.document.Value;
 
 import java.math.BigDecimal;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.List;
 
 /**
  * @author: Phillip Delgyado Date: 30.10.13 17:40
  */
 public final class ColumnNumerics implements Column {
 	private final List<Record> values = new ArrayList<>();
+	private final BitSetFabric bitSetFabric;
 	private boolean isSorted = false;
 	private int currentSize = 0;
+
+	public ColumnNumerics(BitSetFabric bitSetFabric) {
+		this.bitSetFabric = bitSetFabric;
+	}
 
 	@Override
 	public long size() {
@@ -77,7 +87,7 @@ public final class ColumnNumerics implements Column {
 
 	@Override
 	public BitSet findSet(String value) {
-		return BitSetUtils.intCollectionToBitSet(findList(value));
+		return bitSetFabric.newInstance(findList(value));
 	}
 
 	public static int leftBorder(List<Record> data, BigDecimal value, int idx) {

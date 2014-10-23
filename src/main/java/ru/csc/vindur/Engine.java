@@ -1,6 +1,5 @@
 package ru.csc.vindur;
 
-import java.util.BitSet;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
@@ -8,7 +7,8 @@ import java.util.Map;
 import java.util.concurrent.atomic.AtomicInteger;
 
 import ru.csc.vindur.Request.RequestPart;
-import ru.csc.vindur.bitset.BitSetUtils;
+import ru.csc.vindur.bitset.BitSet;
+import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.column.ColumnHelper;
 import ru.csc.vindur.column.Column;
 import ru.csc.vindur.document.Document;
@@ -21,12 +21,14 @@ public class Engine {
     private final AtomicInteger documentsSequence = new AtomicInteger(0);
     private final Map<String, Column> columns = new HashMap<>();
     private final Map<Integer, Document> documents = new HashMap<>();
+    private final BitSetFabric bitSetFabric;
 
     public Engine(EngineConfig config) {
+        bitSetFabric = config.getBitSetFabric();
         for(String attribute : config.getAttributes()) {
             addColumn(
                     attribute,
-                    ColumnHelper.getColumn(config.getValueType(attribute))
+                    ColumnHelper.getColumn(config.getValueType(attribute), bitSetFabric)
             );
         }
     }
@@ -61,7 +63,7 @@ public class Engine {
             if (resultSet == null) {
                 resultSet = executeRequestPart(requestPart);
             } else {
-                resultSet.and(executeRequestPart(requestPart));
+            	resultSet = resultSet.and(executeRequestPart(requestPart));
             }
 
             if (resultSet.cardinality() == 0) {
@@ -73,20 +75,20 @@ public class Engine {
         	return Collections.emptyList();
         }
         
-        return BitSetUtils.bitSetToArrayList(resultSet);
+        return resultSet.toIntList();
     }
 
     private BitSet executeRequestPart(Request.RequestPart requestPart) {
         Column index = columns.get(requestPart.tag);
         if (index == null) {
-            return BitSetUtils.EMPTY_BITSET;
+            return bitSetFabric.newInstance();
         }
 
-        //TODO range request
         if (requestPart.isExact) {
             return index.findSet(requestPart.from);
         }
 
-        return BitSetUtils.EMPTY_BITSET;
+        //TODO range request
+        return bitSetFabric.newInstance();
     }
 }

@@ -1,8 +1,12 @@
 package ru.csc.vindur.column;
 
-import java.util.*;
 
-import ru.csc.vindur.bitset.BitSetUtils;
+import java.util.Collection;
+import java.util.HashMap;
+import java.util.Map;
+
+import ru.csc.vindur.bitset.BitSet;
+import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.document.Value;
 
 /**
@@ -10,7 +14,12 @@ import ru.csc.vindur.document.Value;
  */
 public final class ColumnEnums implements Column {
 	private final Map<String, BitSet> values = new HashMap<>(); // strValue->set{itemId}
+	private final BitSetFabric bitSetFabric;
 	private int currentSize = 0;
+
+	public ColumnEnums(BitSetFabric bitSetFabric) {
+		this.bitSetFabric = bitSetFabric;
+	}
 
 	@Override
 	public long size() {
@@ -27,7 +36,7 @@ public final class ColumnEnums implements Column {
 		String strValue = value.getValue();
 		BitSet docsBitSet = values.get(strValue);
 		if (docsBitSet == null) {
-			docsBitSet = new BitSet();
+			docsBitSet = bitSetFabric.newInstance();
 			values.put(strValue, docsBitSet);
 		}
 		docsBitSet.set(docId);
@@ -36,26 +45,26 @@ public final class ColumnEnums implements Column {
 
 	@Override
 	public Collection<Integer> getAll() {
-		BitSet resultSet = new BitSet();
+		BitSet resultSet = bitSetFabric.newInstance();
 		for (BitSet docsBitSet : values.values()) {
-			resultSet.or(docsBitSet);
+			resultSet = resultSet.or(docsBitSet);
 		}
-		return BitSetUtils.bitSetToArrayList(resultSet);
+		return resultSet.toIntList();
 	}
 
 	@Override
 	public Collection<Integer> findList(String value) {
 		BitSet resultSet = findSet(value);
-		return BitSetUtils.bitSetToArrayList(resultSet);
+		return resultSet.toIntList();
 	}
 
 	@Override
 	public BitSet findSet(String value) {
 		BitSet resultSet = values.get(value);
 		if (resultSet == null) {
-			return BitSetUtils.EMPTY_BITSET;
+			return bitSetFabric.newInstance();
 		}
-		return BitSetUtils.copyOf(resultSet);
+		return bitSetFabric.newInstance(resultSet);
 	}
 
 }

@@ -8,6 +8,7 @@ import java.util.Set;
 
 import ru.csc.vindur.EngineConfig;
 import ru.csc.vindur.Request;
+import ru.csc.vindur.bitset.bitsetFabric.JavaBitSetFabric;
 import ru.csc.vindur.document.Value;
 import ru.csc.vindur.document.ValueType;
 import ru.csc.vindur.test.DocumentGeneratorBase;
@@ -41,7 +42,7 @@ public class MultyAttributesTest implements TestHelper {
 			indexes.put(attributeNames[i], type);
 		}
 		
-		simpleEngineConfig = new EngineConfig(indexes);
+		simpleEngineConfig = new EngineConfig(indexes, new JavaBitSetFabric());
 	}
 
 	@Override

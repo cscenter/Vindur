@@ -1,6 +1,7 @@
 package ru.csc.vindur.bitset;
 
 import java.util.Collection;
+import java.util.List;
 
 public class JavaBitSet extends BitSetBase {
 
@@ -14,12 +15,16 @@ public class JavaBitSet extends BitSetBase {
 		this.bitSet = bitSet;
 	}
 	
+	public JavaBitSet(JavaBitSet other) {
+		this.bitSet = BitSetUtils.copyOf(other.bitSet);
+	}
+	
 	public JavaBitSet(Collection<Integer> intCollection) {
 		this.bitSet = BitSetUtils.intCollectionToBitSet(intCollection);
 	}
 
 	@Override
-	public Collection<Integer> toIntCollection() {
+	public List<Integer> toIntList() {
 		return BitSetUtils.bitSetToArrayList(bitSet);
 	}
 
@@ -46,6 +51,24 @@ public class JavaBitSet extends BitSetBase {
 		}
 		
 		bitSet.set(index);
+		return this;
+	}
+
+	@Override
+	public int cardinality() {
+		return bitSet.cardinality();
+	}
+
+	@Override
+	public BitSet or(BitSet other, boolean forceCreate) {
+		java.util.BitSet otherBitSet = ((JavaBitSet) other).bitSet;
+		if(forceCreate) {
+			java.util.BitSet newBitSet = BitSetUtils.copyOf(bitSet);
+			newBitSet.or(otherBitSet);
+			return new JavaBitSet(newBitSet);
+		}
+		
+		bitSet.or(otherBitSet);
 		return this;
 	}
 

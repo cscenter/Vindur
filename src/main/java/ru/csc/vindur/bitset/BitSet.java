@@ -1,6 +1,6 @@
 package ru.csc.vindur.bitset;
 
-import java.util.Collection;
+import java.util.List;
 
 public interface BitSet {
 	/**
@@ -35,5 +35,11 @@ public interface BitSet {
 	 * Collection is guaranteed to be sorted
 	 * @return sorted collection of setted bits
 	 */
-	public Collection<Integer> toIntCollection();
+	public List<Integer> toIntList();
+
+	public int cardinality();
+
+	public BitSet or(BitSet docsBitSet);
+
+	public BitSet or(BitSet other, boolean forceCreate);
 }

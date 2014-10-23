@@ -1,5 +1,6 @@
 package ru.csc.vindur.column;
 
+import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.document.ValueType;
 
 /**
@@ -8,18 +9,18 @@ import ru.csc.vindur.document.ValueType;
  */
 public class ColumnHelper {
 
-    public static Column getColumn(ValueType valueType) {
+    public static Column getColumn(ValueType valueType, BitSetFabric bitSetFabric) {
         Column column;
         switch (valueType) {
             case NUMERIC:
-                column = new ColumnNumerics();
+                column = new ColumnNumerics(bitSetFabric);
                 break;
             case ENUM:
-                column = new ColumnEnums();
+                column = new ColumnEnums(bitSetFabric);
                 break;
             case STRING:
             default:
-                column = new ColumnStrings();
+                column = new ColumnStrings(bitSetFabric);
         }
         return column;
     }

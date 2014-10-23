@@ -1,8 +1,8 @@
 package ru.csc.vindur.column;
 
-import java.util.BitSet;
 import java.util.Collection;
 
+import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.document.Value;
 
 /**

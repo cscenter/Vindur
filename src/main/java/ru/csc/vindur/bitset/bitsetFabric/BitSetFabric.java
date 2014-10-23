@@ -10,4 +10,6 @@ public interface BitSetFabric {
 	BitSet newInstance(Collection<Integer> intCollection);
 	
 	BitSet newInstance(Collection<Integer> intCollection, boolean isSorted);
+
+	BitSet newInstance(BitSet resultSet);
 }

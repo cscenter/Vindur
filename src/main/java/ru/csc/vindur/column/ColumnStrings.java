@@ -1,16 +1,28 @@
 package ru.csc.vindur.column;
 
-import java.util.*;
 
-import ru.csc.vindur.bitset.BitSetUtils;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.TreeSet;
+
+import ru.csc.vindur.bitset.BitSet;
+import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.document.Value;
 
 /**
  * @author: Phillip Delgyado Date: 30.10.13 17:40
  */
 public final class ColumnStrings implements Column {
-	private Map<String, TreeSet<Integer>> values = new HashMap<>(); // strValue->{itemId}
+	private final Map<String, TreeSet<Integer>> values = new HashMap<>(); // strValue->{itemId}
+	private final BitSetFabric bitSetFabric;
 	private int currentSize = 0;
+
+	public ColumnStrings(BitSetFabric bitSetFabric) {
+		this.bitSetFabric = bitSetFabric;
+	}
 
 	@Override
 	public long size() {
@@ -55,7 +67,7 @@ public final class ColumnStrings implements Column {
 
 	@Override
 	public BitSet findSet(String value) {
-		return BitSetUtils.intCollectionToBitSet(findList(value));
+		return bitSetFabric.newInstance(findList(value));
 	}
 
 }

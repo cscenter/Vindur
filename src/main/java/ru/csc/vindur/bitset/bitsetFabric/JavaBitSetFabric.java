@@ -18,4 +18,9 @@ public class JavaBitSetFabric extends BitSetFabricBase {
 		return new JavaBitSet(intCollection);
 	}
 
+	@Override
+	public BitSet newInstance(BitSet other) {
+		return new JavaBitSet((JavaBitSet) other);
+	}
+
 }
