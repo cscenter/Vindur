@@ -19,8 +19,8 @@ import ru.csc.vindur.document.Value;
  */
 public class Engine {
     private final AtomicInteger documentsSequence = new AtomicInteger(0);
-    private final Map<String, Column> columns = new HashMap<>();;
-    private final Map<Integer, Document> documents = new HashMap<>();;
+    private final Map<String, Column> columns = new HashMap<>();
+    private final Map<Integer, Document> documents = new HashMap<>();
 
     public Engine(EngineConfig config) {
         for(String attribute : config.getAttributes()) {
