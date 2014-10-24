@@ -3,7 +3,8 @@ package ru.csc.vindur.bitset;
 import java.util.Collection;
 import java.util.List;
 
-public class JavaBitSet extends BitSetBase {
+public class JavaBitSet extends BitSetBase
+{
 
 	private final java.util.BitSet bitSet;
 

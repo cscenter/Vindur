@@ -89,6 +89,6 @@ public class Engine {
         }
 
         //TODO range request
-        return bitSetFabric.newInstance();
+        return bitSetFabric.newInstance(); //TODO опасный код!
     }
 }

@@ -29,6 +29,7 @@ public class EWAHBitSet extends BitSetBase {
 		}
 	}
 
+    //TODO плохая реализация, forceCreate == true, что плохо.
 	@Override
 	public BitSet and(BitSet other, boolean forceCreate) {
 		EWAHCompressedBitmap otherBitSet = ((EWAHBitSet) other).bitSet;
