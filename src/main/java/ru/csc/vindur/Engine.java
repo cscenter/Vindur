@@ -89,6 +89,6 @@ public class Engine {
         }
 
         //TODO range request
-        return bitSetFabric.newInstance(); //TODO опасный код!
+        throw(new RuntimeException("Range requests is not implemented"));
     }
 }

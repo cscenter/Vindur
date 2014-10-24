@@ -1,9 +1,10 @@
 package ru.csc.vindur.bitset;
 
+import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
 
-public class JavaBitSet extends BitSetBase
+public class JavaBitSet implements BitSet
 {
 
 	private final java.util.BitSet bitSet;
@@ -12,45 +13,37 @@ public class JavaBitSet extends BitSetBase
 		bitSet = new java.util.BitSet();
 	}
 
-	private JavaBitSet(java.util.BitSet bitSet) {
-		this.bitSet = bitSet;
-	}
-	
 	public JavaBitSet(JavaBitSet other) {
-		this.bitSet = BitSetUtils.copyOf(other.bitSet);
+		this.bitSet = copyOf(other.bitSet);
 	}
-	
+
 	public JavaBitSet(Collection<Integer> intCollection) {
-		this.bitSet = BitSetUtils.intCollectionToBitSet(intCollection);
+		this.bitSet = new java.util.BitSet();
+		for (int docId: intCollection) {
+			bitSet.set(docId);
+		}
 	}
 
 	@Override
 	public List<Integer> toIntList() {
-		return BitSetUtils.bitSetToArrayList(bitSet);
+		ArrayList<Integer> result = new ArrayList<>(bitSet.cardinality());
+		int id = 0;
+		while((id = bitSet.nextSetBit(id)) != -1) {
+			result.add(id);
+		}
+		return result;
 	}
 
 	@Override
-	public BitSet and(BitSet other, boolean forceCreate) {
+	public BitSet and(BitSet other) {
 		java.util.BitSet otherBitSet = ((JavaBitSet) other).bitSet;
-		if(forceCreate) {
-			java.util.BitSet newBitSet = BitSetUtils.copyOf(bitSet);
-			newBitSet.and(otherBitSet);
-			return new JavaBitSet(newBitSet);
-		}
-		
 		bitSet.and(otherBitSet);
 		return this;
 	}
 
 
 	@Override
-	public BitSet set(int index, boolean forceCreate) {
-		if(forceCreate) {
-			java.util.BitSet newBitSet = BitSetUtils.copyOf(bitSet);
-			newBitSet.set(index);
-			return new JavaBitSet(newBitSet);
-		}
-		
+	public BitSet set(int index) {
 		bitSet.set(index);
 		return this;
 	}
@@ -61,16 +54,14 @@ public class JavaBitSet extends BitSetBase
 	}
 
 	@Override
-	public BitSet or(BitSet other, boolean forceCreate) {
+	public BitSet or(BitSet other) {
 		java.util.BitSet otherBitSet = ((JavaBitSet) other).bitSet;
-		if(forceCreate) {
-			java.util.BitSet newBitSet = BitSetUtils.copyOf(bitSet);
-			newBitSet.or(otherBitSet);
-			return new JavaBitSet(newBitSet);
-		}
-		
 		bitSet.or(otherBitSet);
 		return this;
+	}
+
+	private static java.util.BitSet copyOf(java.util.BitSet bitSet) {
+		return (java.util.BitSet) bitSet.clone();
 	}
 
 }

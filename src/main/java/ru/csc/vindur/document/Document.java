@@ -14,7 +14,6 @@ public class Document {
         this.id = id;
     }
 
-    // skrivohatskiy TODO: find out is it a good method
     public static Document nextDocument(AtomicInteger docSequence) {
         return new Document(docSequence.incrementAndGet());
     }

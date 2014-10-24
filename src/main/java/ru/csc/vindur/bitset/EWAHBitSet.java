@@ -5,7 +5,7 @@ import java.util.List;
 
 import com.googlecode.javaewah.EWAHCompressedBitmap;
 
-public class EWAHBitSet extends BitSetBase {
+public class EWAHBitSet implements BitSet {
 
 	private final EWAHCompressedBitmap bitSet;
 	
@@ -21,7 +21,7 @@ public class EWAHBitSet extends BitSetBase {
 		this.bitSet = other.bitSet.clone();
 	}
 	
-	public EWAHBitSet(Collection<Integer> intList, boolean isSorted) {
+	public EWAHBitSet(Collection<Integer> intList) {
 		// TODO: Investigate. It may be very slow when collection is not sorted. 
 		bitSet = new EWAHCompressedBitmap();
 		for(int i: intList) {
@@ -29,16 +29,14 @@ public class EWAHBitSet extends BitSetBase {
 		}
 	}
 
-    //TODO плохая реализация, forceCreate == true, что плохо.
 	@Override
-	public BitSet and(BitSet other, boolean forceCreate) {
+	public BitSet and(BitSet other) {
 		EWAHCompressedBitmap otherBitSet = ((EWAHBitSet) other).bitSet;
 		return new EWAHBitSet(bitSet.and(otherBitSet));
 	}
 
 	@Override
-	public BitSet set(int index, boolean forceCreate) {
-		// TODO: rewrite
+	public BitSet set(int index) {
 		bitSet.set(index);
 		return this;
 	}
@@ -54,7 +52,7 @@ public class EWAHBitSet extends BitSetBase {
 	}
 
 	@Override
-	public BitSet or(BitSet other, boolean forceCreate) {
+	public BitSet or(BitSet other) {
 		EWAHCompressedBitmap otherBitSet = ((EWAHBitSet) other).bitSet;
 		return new EWAHBitSet(bitSet.or(otherBitSet));
 	}

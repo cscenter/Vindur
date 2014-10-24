@@ -67,7 +67,7 @@ public final class ColumnStrings implements Column {
 
 	@Override
 	public BitSet findSet(String value) {
-		return bitSetFabric.newInstance(findList(value), true);
+		return bitSetFabric.newInstance(findList(value));
 	}
 
 }

@@ -5,7 +5,7 @@ import java.util.Collection;
 import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.JavaBitSet;
 
-public class JavaBitSetFabric extends BitSetFabricBase {
+public class JavaBitSetFabric implements BitSetFabric {
 
 	@Override
 	public BitSet newInstance() {
@@ -13,8 +13,7 @@ public class JavaBitSetFabric extends BitSetFabricBase {
 	}
 
 	@Override
-	public BitSet newInstance(Collection<Integer> intCollection,
-			boolean isSorted) {
+	public BitSet newInstance(Collection<Integer> intCollection) {
 		return new JavaBitSet(intCollection);
 	}
 
