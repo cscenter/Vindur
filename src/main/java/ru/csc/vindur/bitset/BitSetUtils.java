@@ -10,6 +10,8 @@ public class BitSetUtils {
     //TODO: плохо. Слишком большой объем списка, вовзращается конкретный класс
 
     //TODO: используется в одном месте, зачем оно тут?
+	//skrivohatskiy 24.10.14 Этот класс был написан до JavaBitSet и использовался во многих местах
+	//все методы будут перенесены в JavaBitSet, а этот класс будет удален
 	public static ArrayList<Integer> bitSetToArrayList(BitSet bitSet) {
 		ArrayList<Integer> result = new ArrayList<>(bitSet.cardinality());
 		for (int id = bitSet.nextSetBit(0); id != -1; id = bitSet.nextSetBit(id + 1)) { //todo проще описать через do while
