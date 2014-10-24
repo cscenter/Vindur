@@ -1,5 +1,7 @@
 package ru.csc.vindur.bitset;
 
+//TODO лишний класс, лучше удалить
+
 public abstract class BitSetBase implements BitSet {
 
 	@Override

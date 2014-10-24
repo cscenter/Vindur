@@ -2,6 +2,11 @@ package ru.csc.vindur.bitset;
 
 import java.util.List;
 
+//DPH:
+//Мне не очень нравится параметр forceCreate, кривовато. И точно ли нужны все эти методы?
+//И название интерфейса совпадает с названием класса в util, это сбивает.
+//И слишком много методов в интерфейсе. Реально хватило бы только and/set/or (в варианте false) и copy.
+
 public interface BitSet {
 	/**
 	 * Same as <code>and(other, false)</code>

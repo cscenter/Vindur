@@ -50,7 +50,7 @@ public class Request
         return reqs.get(aspect);
     }
 
-    public static class RequestPart
+    static class RequestPart
     {
         String tag;
         String from;
