@@ -12,20 +12,24 @@ import com.google.common.base.Stopwatch;
 
 import ru.csc.vindur.Engine;
 import ru.csc.vindur.Request;
+import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
+import ru.csc.vindur.bitset.bitsetFabric.EWAHBitSetFabric;
 import ru.csc.vindur.document.Value;
 import ru.csc.vindur.document.ValueType;
 import ru.csc.vindur.test.testHelpers.MultyAttributesTest;
 import ru.csc.vindur.test.testHelpers.OneAttributeTest;
 import ru.csc.vindur.test.testHelpers.TestHelper;
+import ru.csc.vindur.test.utils.RandomUtils;
 
 public class VindurEngineTest {
 	private static final Logger LOG = LoggerFactory.getLogger(VindurEngineTest.class);
 
 	public static void main(String[] args) {
+		BitSetFabric fabric = new EWAHBitSetFabric();
 		// TODO warm up somehow
-		run(new OneAttributeTest(ValueType.ENUM, 3, 0xFFFFF, 0xFFF));
-		run(new OneAttributeTest(ValueType.STRING, 30, 0xFFFFF, 0xFFF));
-		run(new OneAttributeTest(ValueType.NUMERIC, 30, 0xFFFF, 0xFF));
+		run(new OneAttributeTest(ValueType.ENUM, 3, 0xFFFFF, 0xFFF, fabric));
+		run(new OneAttributeTest(ValueType.STRING, 30, 0xFFFFF, 0xFFF, fabric));
+		run(new OneAttributeTest(ValueType.NUMERIC, 30, 0xFFFF, 0xFF, fabric));
 
 		Map<ValueType, Double> typeFrequencies;
 		Map<ValueType, Integer> valuesCount;
@@ -34,7 +38,7 @@ public class VindurEngineTest {
 		typeFrequencies.put(ValueType.STRING, 1.0);
 		valuesCount.put(ValueType.STRING, 5);
 		run(new MultyAttributesTest(20, typeFrequencies, valuesCount, 
-				 0x4FFFF, 0xFFF, 7));
+				 0x4FFFF, 0xFFF, 7, fabric));
 
 		typeFrequencies.put(ValueType.STRING, 0.5);
 		typeFrequencies.put(ValueType.ENUM, 0.4);
@@ -43,11 +47,12 @@ public class VindurEngineTest {
 		valuesCount.put(ValueType.STRING, 50);
 		valuesCount.put(ValueType.NUMERIC, 50);
 		run(new MultyAttributesTest(30, typeFrequencies, valuesCount, 
-				 0x4FFFF, 0xFFF, 7));
+				 0x4FFFF, 0xFFF, 7, fabric));
 	}
 
 	private static void run(TestHelper helper) {
 		LOG.info("Test with\n{}\nstarted", helper);
+		RandomUtils.setSeed(0);
 		Engine engine = new Engine(helper.getEngineConfig());
 		DocumentGeneratorBase documentGenerator = helper.getDocumentGenerator();
 		

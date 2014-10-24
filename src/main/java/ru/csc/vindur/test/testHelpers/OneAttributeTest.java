@@ -7,7 +7,7 @@ import java.util.Map;
 
 import ru.csc.vindur.EngineConfig;
 import ru.csc.vindur.Request;
-import ru.csc.vindur.bitset.bitsetFabric.JavaBitSetFabric;
+import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.document.Value;
 import ru.csc.vindur.document.ValueType;
 import ru.csc.vindur.test.DocumentGeneratorBase;
@@ -22,14 +22,14 @@ public class OneAttributeTest implements TestHelper {
 	private final EngineConfig simpleEngineConfig;
 	private ValueType valueType;
 	
-	public OneAttributeTest(ValueType valueType, int valuesCount, int documentsCount, int requestsCount) {
+	public OneAttributeTest(ValueType valueType, int valuesCount, int documentsCount, int requestsCount, BitSetFabric bitSetFabric) {
 		this.valueType = valueType;
 		this.documentsCount = documentsCount;
 		this.requestsCount = requestsCount;
 		Map<String, ValueType> indexes = new HashMap<>(1);
 		indexes.put("attribute", valueType);
 		attributeValues = AttributeGenerator.generateValues(valueType, valuesCount);
-		simpleEngineConfig = new EngineConfig(indexes, new JavaBitSetFabric());
+		simpleEngineConfig = new EngineConfig(indexes, bitSetFabric);
 	}
 
 

@@ -37,7 +37,9 @@ public class EWAHBitSet extends BitSetBase {
 
 	@Override
 	public BitSet set(int index, boolean forceCreate) {
-		return new EWAHBitSet(bitSet.and(EWAHCompressedBitmap.bitmapOf(index)));
+		// TODO: rewrite
+		bitSet.set(index);
+		return this;
 	}
 
 	@Override

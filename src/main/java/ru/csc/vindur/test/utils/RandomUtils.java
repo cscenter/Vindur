@@ -2,23 +2,28 @@ package ru.csc.vindur.test.utils;
 
 import java.util.Map;
 import java.util.Map.Entry;
+import java.util.Random;
 import java.util.Set;
 import java.util.TreeSet;
-import java.util.concurrent.ThreadLocalRandom;
 
 import org.apache.commons.lang.RandomStringUtils;
 
 public class RandomUtils {
+	private final static Random random = new Random(0);
 
+	public static void setSeed(long seed) {
+		random.setSeed(seed);
+	}
+	
 	public static <T> T uniformRandomElement(T[] array) {
-		int idx = ThreadLocalRandom.current().nextInt(array.length);
+		int idx = random.nextInt(array.length);
 		return array[idx];
 	}
 	
 	public static <T> T gaussianRandomElement(T[] array) {
 		double gaussian;
 		do {
-			gaussian = ThreadLocalRandom.current().nextGaussian();
+			gaussian = random.nextGaussian();
 		//99.7% that Math.abs(gaussian) <= 3
 		} while(Math.abs(gaussian) > 3);
 		
@@ -49,15 +54,15 @@ public class RandomUtils {
 		if(minLen == maxLen) {
 			return minLen;
 		}
-		return minLen + ThreadLocalRandom.current().nextInt(maxLen - minLen);
+		return minLen + random.nextInt(maxLen - minLen);
 	}
 
 	public static <T> T getFrec(Map<T, Double> frequencies) {
-		double random = ThreadLocalRandom.current().nextDouble();
+		double randomDouble = random.nextDouble();
 		double summ = 0;
 		for(Entry<T, Double> entry: frequencies.entrySet()) {
 			summ += entry.getValue();
-			if(summ >= random) {
+			if(summ >= randomDouble) {
 				return entry.getKey();
 			}
 		}
@@ -69,7 +74,7 @@ public class RandomUtils {
 		
 		// TODO fix this. It works too long if there is many collisions
 		while(result.size() < reqAttributesCount) {
-			result.add(ThreadLocalRandom.current().nextInt(attributesCount));
+			result.add(random.nextInt(attributesCount));
 		}
 		return result;
 	}

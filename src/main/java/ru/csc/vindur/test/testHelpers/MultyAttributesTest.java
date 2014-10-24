@@ -8,7 +8,7 @@ import java.util.Set;
 
 import ru.csc.vindur.EngineConfig;
 import ru.csc.vindur.Request;
-import ru.csc.vindur.bitset.bitsetFabric.JavaBitSetFabric;
+import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.document.Value;
 import ru.csc.vindur.document.ValueType;
 import ru.csc.vindur.test.DocumentGeneratorBase;
@@ -26,7 +26,7 @@ public class MultyAttributesTest implements TestHelper {
 	private final EngineConfig simpleEngineConfig;
 	
 	public MultyAttributesTest(int attributesCount, Map<ValueType, Double> typeFrequencies, 
-			Map<ValueType, Integer> valuesCount, int documentsCount, int requestsCount, int reqAttributesCount) {
+			Map<ValueType, Integer> valuesCount, int documentsCount, int requestsCount, int reqAttributesCount, BitSetFabric bitSetFabric) {
 		this.documentsCount = documentsCount;
 		this.requestsCount = requestsCount;
 		this.attributesCount = attributesCount;
@@ -42,7 +42,7 @@ public class MultyAttributesTest implements TestHelper {
 			indexes.put(attributeNames[i], type);
 		}
 		
-		simpleEngineConfig = new EngineConfig(indexes, new JavaBitSetFabric());
+		simpleEngineConfig = new EngineConfig(indexes, bitSetFabric);
 	}
 
 	@Override
