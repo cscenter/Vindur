@@ -12,7 +12,8 @@ public class EWAHBitSet implements BitSet {
 	public EWAHBitSet() {
 		bitSet = new EWAHCompressedBitmap();
 	}
-	
+
+    //TODO а зачем тут public? Это же снаружи не должно быть заметно. Но тогда и функция не нужна, это конкретная реализация
 	public EWAHBitSet(EWAHCompressedBitmap bitSet) {
 		this.bitSet = bitSet.clone();
 	}

@@ -24,11 +24,15 @@ public class Engine {
     private final BitSetFabric bitSetFabric;
 
     public Engine(EngineConfig config) {
-        bitSetFabric = config.getBitSetFabric();
-        for(String attribute : config.getAttributes()) {
+        bitSetFabric = config.getBitSetFabric(); //TODO: локальные переменные должны начинаться с this. - по code style
+        for(String attribute : config.getAttributes()) { //а зачем тут {} - без них читается проще
             addColumn(
                     attribute,
                     ColumnHelper.getColumn(config.getValueType(attribute), bitSetFabric)
+                    // а зачем тут вообще этот код?
+                    // по идее проще сохранить конфиг, а когда нужно будеть сделать setAttribute для неизвестного аттрибута -
+                    // взять из конфига.
+                    // аналогично и про bitsetfabric брать оттуда же.
             );
         }
     }
@@ -46,10 +50,12 @@ public class Engine {
         return document.getId();
     }
 
+    //TODO все-таки лучше id переименовать в docId
     public void setAttributeByDocId(int id, String attribute, Value value) {
         if (!documents.containsKey(id)) {
             throw new IllegalArgumentException("There is no such document");
         }
+        //TODO лучше создавать таки колонку с дефолтным типом или искать в Config
         if(!columns.containsKey(attribute)) {
             throw new IllegalArgumentException("There is no such column");
         }
@@ -89,6 +95,6 @@ public class Engine {
         }
 
         //TODO range request
-        throw(new RuntimeException("Range requests is not implemented"));
+        throw(new RuntimeException("Range requests is not implemented")); //лишняя скобка
     }
 }

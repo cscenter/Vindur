@@ -12,6 +12,7 @@ public interface BitSet {
 	 * List is guaranteed to be sorted
 	 * @return sorted collection of setted bits
 	 */
+    //TODO если sorted - то стоит указать, по какому параметру )
 	public List<Integer> toIntList();
 
 	public int cardinality();

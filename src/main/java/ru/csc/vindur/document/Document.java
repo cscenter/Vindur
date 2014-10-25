@@ -7,7 +7,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  * Created by Pavel Chursin on 05.10.2014.
  */
 public class Document {
-    private final Map<String, List<Value>> vals = new HashMap<>();  // aspect -> values
+    private final Map<String, List<Value>> vals = new HashMap<>();  // attribute -> values
     private final int id;
 
     private Document(int id) {

@@ -65,6 +65,8 @@ public final class ColumnStrings implements Column {
 		return Collections.unmodifiableCollection(values.get(value));
 	}
 
+    //TODO: неэффективная реализация. По идее, если нет данных - надо сразу отдавать BetSet.EMPTY.
+    //И с ним эффективно работать в оптимизаторе. Создавать новый - не слишком осмысленно )
 	@Override
 	public BitSet findSet(String value) {
 		return bitSetFabric.newInstance(findList(value));
