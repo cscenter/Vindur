@@ -9,8 +9,8 @@ import java.util.concurrent.atomic.AtomicInteger;
 import ru.csc.vindur.Request.RequestPart;
 import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
-import ru.csc.vindur.column.ColumnHelper;
-import ru.csc.vindur.column.Column;
+import ru.csc.vindur.column.StorageHelper;
+import ru.csc.vindur.column.Storage;
 import ru.csc.vindur.document.Document;
 import ru.csc.vindur.document.Value;
 
@@ -19,7 +19,7 @@ import ru.csc.vindur.document.Value;
  */
 public class Engine {
     private final AtomicInteger documentsSequence = new AtomicInteger(0);
-    private final Map<String, Column> columns = new HashMap<>();
+    private final Map<String, Storage> columns = new HashMap<>();
     private final Map<Integer, Document> documents = new HashMap<>();
     private final BitSetFabric bitSetFabric;
 
@@ -28,7 +28,7 @@ public class Engine {
         for(String attribute : config.getAttributes()) { //а зачем тут {} - без них читается проще
             addColumn(
                     attribute,
-                    ColumnHelper.getColumn(config.getValueType(attribute), bitSetFabric)
+                    StorageHelper.getColumn(config.getValueType(attribute), bitSetFabric)
                     // а зачем тут вообще этот код?
                     // по идее проще сохранить конфиг, а когда нужно будеть сделать setAttribute для неизвестного аттрибута -
                     // взять из конфига.
@@ -37,11 +37,11 @@ public class Engine {
         }
     }
 
-    public void addColumn(String attribute, Column column) {
+    public void addColumn(String attribute, Storage storage) {
         if (columns.containsKey(attribute)) {
-            throw new IllegalArgumentException("Column for this attribute already exists");
+            throw new IllegalArgumentException("Storage for this attribute already exists");
         }
-        columns.put(attribute, column);
+        columns.put(attribute, storage);
     }
 
     public int createDocument() {
@@ -85,7 +85,7 @@ public class Engine {
     }
 
     private BitSet executeRequestPart(Request.RequestPart requestPart) {
-        Column index = columns.get(requestPart.tag);
+        Storage index = columns.get(requestPart.tag);
         if (index == null) {
             return bitSetFabric.newInstance();
         }

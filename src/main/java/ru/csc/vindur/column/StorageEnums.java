@@ -12,12 +12,12 @@ import ru.csc.vindur.document.Value;
 /**
  * @author: Phillip Delgyado Date: 30.10.13 17:40
  */
-public final class ColumnEnums implements Column {
+public final class StorageEnums implements Storage {
 	private final Map<String, BitSet> values = new HashMap<>(); // strValue->set{itemId}
 	private final BitSetFabric bitSetFabric;
 	private int currentSize = 0;
 
-	public ColumnEnums(BitSetFabric bitSetFabric) {
+	public StorageEnums(BitSetFabric bitSetFabric) {
 		this.bitSetFabric = bitSetFabric;
 	}
 
@@ -41,15 +41,6 @@ public final class ColumnEnums implements Column {
 		}
 		docsBitSet.set(docId);
 		currentSize++;
-	}
-
-	@Override
-	public Collection<Integer> getAll() {
-		BitSet resultSet = bitSetFabric.newInstance();
-		for (BitSet docsBitSet : values.values()) {
-			resultSet = resultSet.or(docsBitSet);
-		}
-		return resultSet.toIntList();
 	}
 
 	@Override

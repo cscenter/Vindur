@@ -15,12 +15,12 @@ import ru.csc.vindur.document.Value;
 /**
  * @author: Phillip Delgyado Date: 30.10.13 17:40
  */
-public final class ColumnStrings implements Column {
+public final class StorageStrings implements Storage {
 	private final Map<String, TreeSet<Integer>> values = new HashMap<>(); // strValue->{itemId}
 	private final BitSetFabric bitSetFabric;
 	private int currentSize = 0;
 
-	public ColumnStrings(BitSetFabric bitSetFabric) {
+	public StorageStrings(BitSetFabric bitSetFabric) {
 		this.bitSetFabric = bitSetFabric;
 	}
 
@@ -44,16 +44,6 @@ public final class ColumnStrings implements Column {
 		}
 		vals.add(docId);
 		currentSize++;
-	}
-
-	@Override
-	public Collection<Integer> getAll() {
-		Collection<Integer> resultCollection = new ArrayList<>(currentSize);
-		for (TreeSet<Integer> docsSet : values.values()) {
-			resultCollection.addAll(docsSet);
-		}
-		
-		return resultCollection;
 	}
 
 	@Override

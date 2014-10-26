@@ -7,21 +7,21 @@ import ru.csc.vindur.document.ValueType;
  * @author Andrey Kokorev
  *         Created on 15.10.2014.
  */
-public class ColumnHelper {
+public class StorageHelper {
 
-    public static Column getColumn(ValueType valueType, BitSetFabric bitSetFabric) {
-        Column column;
+    public static Storage getColumn(ValueType valueType, BitSetFabric bitSetFabric) {
+        Storage storage;
         switch (valueType) {
             case NUMERIC:
-                column = new ColumnNumerics(bitSetFabric);
+                storage = new StorageIntegers(bitSetFabric);
                 break;
             case ENUM:
-                column = new ColumnEnums(bitSetFabric);
+                storage = new StorageEnums(bitSetFabric);
                 break;
             case STRING:
             default:
-                column = new ColumnStrings(bitSetFabric);
+                storage = new StorageStrings(bitSetFabric);
         }
-        return column;
+        return storage;
     }
 }
