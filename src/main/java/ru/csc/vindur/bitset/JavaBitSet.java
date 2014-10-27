@@ -60,6 +60,13 @@ public class JavaBitSet implements BitSet
 		return this;
 	}
 
+    @Override
+    public BitSet xor(BitSet other) {
+        java.util.BitSet otherBitSet = ((JavaBitSet) other).bitSet;
+        bitSet.xor(otherBitSet);
+        return this;
+    }
+
 	private static java.util.BitSet copyOf(java.util.BitSet bitSet) {
 		return (java.util.BitSet) bitSet.clone();
 	}

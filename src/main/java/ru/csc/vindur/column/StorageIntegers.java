@@ -64,7 +64,7 @@ public final class StorageIntegers implements Storage {
 
         if(storage.firstKey().equals(key)) return storage.get(key);
         BitSet low = storage.get(storage.lowerKey(key));
-        return storage.get(key).or(low);  // everything including this or lower, except lower
+        return storage.get(key).xor(low);  // everything including this or lower, except lower
     }
 
     class Record implements Comparable<Record>{
