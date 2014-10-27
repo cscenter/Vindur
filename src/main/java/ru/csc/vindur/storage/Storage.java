@@ -1,4 +1,4 @@
-package ru.csc.vindur.column;
+package ru.csc.vindur.storage;
 
 import java.util.Collection;
 

@@ -1,4 +1,4 @@
-package ru.csc.vindur.column;
+package ru.csc.vindur.storage;
 
 import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.document.ValueType;
