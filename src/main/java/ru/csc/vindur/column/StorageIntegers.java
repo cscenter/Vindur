@@ -37,11 +37,11 @@ public final class StorageIntegers implements Storage {
         Integer newKey = Integer.parseInt(value.getValue());
 
         //Set bit in each bitset for greater attribute
-        for(Integer key : storage.tailMap(newKey).keySet()) {
+        for(Integer key : storage.tailMap(newKey).keySet()) { //тогда уж и менять в tailMap.entry, дешевле будет
             storage.get(key).set(docId);
         }
 
-        if(storage.containsKey(newKey)) {
+        if(storage.containsKey(newKey)) { //а что, если значение уже есть, то
             return;
         }
         //otherwise we should add new record to storage
@@ -67,7 +67,7 @@ public final class StorageIntegers implements Storage {
         return storage.get(key).or(low);  // everything including this or lower, except lower
     }
 
-    class Record implements Comparable<Record>{
+    class Record implements Comparable<Record>{  //todo а зачем это?
         private Integer key;
         private BitSet value;
 
