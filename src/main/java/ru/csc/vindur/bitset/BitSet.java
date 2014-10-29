@@ -18,4 +18,6 @@ public interface BitSet {
 	public int cardinality();
 
 	public BitSet or(BitSet docsBitSet);
+
+    public BitSet xor(BitSet other);
 }

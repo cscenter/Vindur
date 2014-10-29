@@ -9,8 +9,8 @@ import java.util.concurrent.atomic.AtomicInteger;
 import ru.csc.vindur.Request.RequestPart;
 import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
-import ru.csc.vindur.column.StorageHelper;
-import ru.csc.vindur.column.Storage;
+import ru.csc.vindur.storage.StorageHelper;
+import ru.csc.vindur.storage.Storage;
 import ru.csc.vindur.document.Document;
 import ru.csc.vindur.document.Value;
 
@@ -57,7 +57,7 @@ public class Engine {
         }
         //TODO лучше создавать таки колонку с дефолтным типом или искать в Config
         if(!columns.containsKey(attribute)) {
-            throw new IllegalArgumentException("There is no such column");
+            throw new IllegalArgumentException("There is no such storage");
         }
         documents.get(id).setAttribute(attribute, value);
         columns.get(attribute).add(id, value);

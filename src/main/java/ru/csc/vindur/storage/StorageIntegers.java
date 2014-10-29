@@ -1,4 +1,4 @@
-package ru.csc.vindur.column;
+package ru.csc.vindur.storage;
 
 import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
@@ -36,12 +36,11 @@ public final class StorageIntegers implements Storage {
     public void add(int docId, Value value) {
         Integer newKey = Integer.parseInt(value.getValue());
 
-        //Set bit in each bitset for greater attribute
-        for(Integer key : storage.tailMap(newKey).keySet()) { //тогда уж и менять в tailMap.entry, дешевле будет
-            storage.get(key).set(docId);
+        for(BitSet bitSet : storage.tailMap(newKey).values()) {
+            bitSet.set(docId);
         }
 
-        if(storage.containsKey(newKey)) { //а что, если значение уже есть, то
+        if(storage.containsKey(newKey)) {
             return;
         }
         //otherwise we should add new record to storage
@@ -60,14 +59,15 @@ public final class StorageIntegers implements Storage {
     public BitSet findSet(String strictMatch) {
         Integer key = Integer.parseInt(strictMatch);
 
-        if(!storage.containsKey(key)) return bitSetFabric.newInstance();
+        BitSet exact = storage.get(key);
+        if(exact == null) return bitSetFabric.newInstance();
 
-        if(storage.firstKey().equals(key)) return storage.get(key);
-        BitSet low = storage.get(storage.lowerKey(key));
-        return storage.get(key).or(low);  // everything including this or lower, except lower
+        if(storage.firstKey().equals(key)) return bitSetFabric.newInstance(exact);
+        BitSet low = storage.lowerEntry(key).getValue();
+        return exact.xor(low);  // everything including this or lower, except lower
     }
 
-    class Record implements Comparable<Record>{  //todo а зачем это?
+    class Record implements Comparable<Record>{
         private Integer key;
         private BitSet value;
 

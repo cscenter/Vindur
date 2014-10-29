@@ -29,7 +29,7 @@ public class VindurEngineTest {
 		// TODO warm up somehow
 		run(new OneAttributeTest(ValueType.ENUM, 3, 0xFFFFF, 0xFFF, fabric));
 	    run(new OneAttributeTest(ValueType.STRING, 30, 0xFFFFF, 0xFFF, fabric));
-		run(new OneAttributeTest(ValueType.NUMERIC, 30, 0xFFFF, 0xFF, fabric));
+        run(new OneAttributeTest(ValueType.NUMERIC, 30, 0xFFFFF, 0xFFF, fabric));
 
 		Map<ValueType, Double> typeFrequencies;
 		Map<ValueType, Integer> valuesCount;

@@ -1,4 +1,4 @@
-package ru.csc.vindur.column.utils;
+package ru.csc.vindur.storage.utils;
 
 /**
  * @author Andrey Kokorev
