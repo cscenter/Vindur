@@ -66,49 +66,5 @@ public final class StorageIntegers implements Storage {
         BitSet low = storage.lowerEntry(key).getValue();
         return exact.xor(low);  // everything including this or lower, except lower
     }
-
-    class Record implements Comparable<Record>{
-        private Integer key;
-        private BitSet value;
-
-        public Record(Integer key, BitSet value) {
-            this.key = key;
-            this.value = value;
-        }
-
-        public void setValue(BitSet value) {
-            this.value = value;
-        }
-
-        public Integer getKey() {
-            return key;
-        }
-
-        public BitSet getValue() {
-            return value;
-        }
-
-        @Override
-        public int compareTo(Record o) {
-            return Integer.compare(key, o.getKey());
-        }
-
-        @Override
-        public boolean equals(Object o) {
-            if (this == o) return true;
-            if (o == null || getClass() != o.getClass()) return false;
-
-            Record record = (Record) o;
-
-            if (!key.equals(record.key)) return false;
-
-            return true;
-        }
-
-        @Override
-        public int hashCode() {
-            return key.hashCode();
-        }
-    }
 }
 
