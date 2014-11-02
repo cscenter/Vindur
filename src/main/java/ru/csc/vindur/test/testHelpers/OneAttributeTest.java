@@ -2,6 +2,7 @@ package ru.csc.vindur.test.testHelpers;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.concurrent.ExecutorService;
 
 import ru.csc.vindur.EngineConfig;
 import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
@@ -13,13 +14,13 @@ public class OneAttributeTest implements TestHelper {
 	private final MultyAttributesTest testHelper;
 	private final String descriptionStr; 
 	
-	public OneAttributeTest(StorageType valueType, int valuesCount, int documentsCount, int requestsCount, BitSetFabric bitSetFabric) {
+	public OneAttributeTest(StorageType valueType, int valuesCount, int documentsCount, int requestsCount, BitSetFabric bitSetFabric, ExecutorService executorService) {
 		Map<StorageType, Double> typeFrequencies = new HashMap<>(1);
 		typeFrequencies.put(valueType, 1.0);
 		Map<StorageType, Integer> valuesCountMap = new HashMap<>(1);
 		valuesCountMap.put(valueType, valuesCount);
 		testHelper = new MultyAttributesTest(1, typeFrequencies, valuesCountMap, 
-				documentsCount, requestsCount, 1, bitSetFabric);
+				documentsCount, requestsCount, 1, bitSetFabric, executorService);
 		descriptionStr = String.format("OneAttributeTest [%s value type, %s values, %s documents, %s requests]", 
 				valueType, valuesCount, documentsCount, requestsCount);
 	}

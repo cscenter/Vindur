@@ -5,6 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.concurrent.ExecutorService;
 
 import ru.csc.vindur.EngineConfig;
 import ru.csc.vindur.Request;
@@ -24,7 +25,7 @@ public class MultyAttributesTest implements TestHelper {
 	
 	public MultyAttributesTest(final int attributesCount, Map<StorageType, Double> typeFrequencies, 
 			Map<StorageType, Integer> valuesCount, int documentsCount, int requestsCount, 
-			final int reqAttributesCount, BitSetFabric bitSetFabric) {
+			final int reqAttributesCount, BitSetFabric bitSetFabric, ExecutorService executorService) {
 		final String[] attributeNames = new String[attributesCount];
 		final Value[][] attributeValues = new Value[attributesCount][];
 		Map<String, StorageType> indexes = new HashMap<>(attributesCount);
@@ -34,7 +35,7 @@ public class MultyAttributesTest implements TestHelper {
 			attributeValues[i] = AttributeGenerator.generateValues(type, valuesCount.get(type));
 			indexes.put(attributeNames[i], type);
 		}
-		simpleEngineConfig = new EngineConfig(indexes, bitSetFabric);
+		simpleEngineConfig = new EngineConfig(indexes, bitSetFabric, executorService);
 		
 		docGenerator = new DocumentGeneratorBase(false, documentsCount) {
 			@Override

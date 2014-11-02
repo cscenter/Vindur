@@ -4,6 +4,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
 import org.slf4j.Logger;
@@ -27,9 +29,10 @@ public class VindurEngineTest {
 
 	public static void main(String[] args) {
 		BitSetFabric fabric = new EWAHBitSetFabric();
-		run(new OneAttributeTest(StorageType.ENUM, 100, 1000000, 10000, fabric));
-		run(new OneAttributeTest(StorageType.STRING, 30000, 1000000, 100000, fabric));
-		run(new OneAttributeTest(StorageType.NUMERIC, 3000, 100000, 100000, fabric));
+		ExecutorService executor = Executors.newFixedThreadPool(4);
+		run(new OneAttributeTest(StorageType.ENUM, 100, 1000000, 10000, fabric, executor));
+		run(new OneAttributeTest(StorageType.STRING, 30000, 1000000, 100000, fabric, executor));
+		run(new OneAttributeTest(StorageType.NUMERIC, 3000, 100000, 100000, fabric, executor));
 
 		Map<StorageType, Double> typeFrequencies = new HashMap<>();
 		Map<StorageType, Integer> valuesCount = new HashMap<>();
@@ -40,7 +43,9 @@ public class VindurEngineTest {
 		valuesCount.put(StorageType.STRING, 30);
 		valuesCount.put(StorageType.NUMERIC, 30);
 		run(new MultyAttributesTest(20, typeFrequencies, valuesCount, 
-				100000, 100000, 5, fabric));
+				100000, 100000, 5, fabric, executor));
+
+		executor.shutdownNow();
 	}
 
 	private static void run(TestHelper helper) {

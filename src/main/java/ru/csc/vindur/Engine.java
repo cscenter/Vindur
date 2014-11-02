@@ -2,8 +2,11 @@ package ru.csc.vindur;
 
 import java.util.Collections;
 import java.util.List;
+import java.util.concurrent.Callable;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
+import java.util.concurrent.ExecutionException;
+import java.util.concurrent.Future;
 import java.util.concurrent.atomic.AtomicInteger;
 
 import javax.annotation.concurrent.ThreadSafe;
@@ -74,39 +77,66 @@ public class Engine {
 		return storage;
 	}
 
+	public Future<List<Integer>> executeRequestAsync(Request request) {
+		return config.getExecutorService().submit(new RequestCallable(request));
+	}
+	
     public List<Integer> executeRequest(Request request) {
-        BitSet resultSet = null;
-        for (RequestPart requestPart : request.getRequestParts()) {
-            if (resultSet == null) {
-                resultSet = executeRequestPart(requestPart);
-            } else {
-            	resultSet = resultSet.and(executeRequestPart(requestPart));
-            }
-
-            if (resultSet.cardinality() == 0) {
-            	return Collections.emptyList();
-            }
-        }
-
-        if (resultSet == null) {
-        	return Collections.emptyList();
-        }
-        
-        return resultSet.toIntList();
+    	try {
+			return executeRequestAsync(request).get();
+		} catch (InterruptedException e) {
+			LOG.warn("Request execution canceled. Return null there. Message: {}", e.getMessage());
+			return null;
+		} catch (ExecutionException e) {
+			LOG.error("Exception when executing request. Return null there. Message: {}", e.getMessage());
+			return null;
+		}
     }
+    
+    private class RequestCallable implements Callable<List<Integer>>{
 
-    private BitSet executeRequestPart(Request.RequestPart requestPart) {
-        Storage index = columns.get(requestPart.tag);
-        if (index == null) {
-        	LOG.warn("Index for requested attribute {} is not created", requestPart.tag);
-            return config.getBitSetFabric().newInstance();
-        }
+		private final Request request;
 
-        if (requestPart.isExact) {
-            return index.findSet(requestPart.from);
-        }
+		public RequestCallable(Request request) {
+			this.request = request;
+		}
 
-        //TODO range request
-        throw new RuntimeException("Range requests is not implemented");
+		@Override
+		public List<Integer> call() {
+	        BitSet resultSet = null;
+	        for (RequestPart requestPart : request.getRequestParts()) {
+	            if (resultSet == null) {
+	                resultSet = executeRequestPart(requestPart);
+	            } else {
+	            	resultSet = resultSet.and(executeRequestPart(requestPart));
+	            }
+
+	            if (resultSet.cardinality() == 0) {
+	            	return Collections.emptyList();
+	            }
+	        }
+
+	        if (resultSet == null) {
+	        	return Collections.emptyList();
+	        }
+	        
+	        return resultSet.toIntList();
+		}
+
+	    private BitSet executeRequestPart(Request.RequestPart requestPart) {
+	        Storage index = columns.get(requestPart.tag);
+	        if (index == null) {
+	        	LOG.warn("Index for requested attribute {} is not created", requestPart.tag);
+	            return config.getBitSetFabric().newInstance();
+	        }
+
+	        if (requestPart.isExact) {
+	            return index.findSet(requestPart.from);
+	        }
+
+	        //TODO range request
+	        throw new RuntimeException("Range requests is not implemented");
+	    }
+
     }
 }
