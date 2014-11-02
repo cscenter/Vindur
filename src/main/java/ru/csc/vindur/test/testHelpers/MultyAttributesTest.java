@@ -40,10 +40,8 @@ public class MultyAttributesTest implements TestHelper {
 			@Override
 			protected Map<String, List<Value>> generateDocument() {
 				Map<String, List<Value>> document = new HashMap<>(attributesCount);
-				double expectedValue = 0.5;
-				double standartDeviation = 0.3;
 				for(int i = 0; i < attributesCount; i ++) {
-					Value val = RandomUtils.gaussianRandomElement(attributeValues[i], expectedValue, standartDeviation);
+					Value val = RandomUtils.gaussianRandomElement(attributeValues[i], 0.5, 1/6);
 					document.put(attributeNames[i], Arrays.asList(val));
 				}
 				return document;
@@ -54,11 +52,8 @@ public class MultyAttributesTest implements TestHelper {
 			protected Request generateRequest() {
 				Request request = Request.build();
 				Set<Integer> attributeIndexes = RandomUtils.getRandomIndexes(attributesCount, reqAttributesCount);
-				
-				double expectedValue = 0.5;
-				double standartDeviation = 0.3;
 				for(int idx: attributeIndexes) {
-					Value val = RandomUtils.gaussianRandomElement(attributeValues[idx], expectedValue, standartDeviation);
+					Value val = RandomUtils.gaussianRandomElement(attributeValues[idx], 0.5, 1/6);
 					request.exact(attributeNames[idx], val.getValue());
 				}
 				return request;

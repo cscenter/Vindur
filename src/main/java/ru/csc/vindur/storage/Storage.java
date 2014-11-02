@@ -10,8 +10,6 @@ import ru.csc.vindur.document.Value;
  * Date: 31.10.13 3:50
  */
 
-//TODO: а давайте переименуем Storage в Storage?
-
 public interface Storage
 {
     public long size();

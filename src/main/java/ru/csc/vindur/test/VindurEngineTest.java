@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
+import java.util.concurrent.TimeUnit;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -23,35 +24,38 @@ import ru.csc.vindur.test.utils.RandomUtils;
 
 public class VindurEngineTest {
 	private static final Logger LOG = LoggerFactory.getLogger(VindurEngineTest.class);
+	private static final int RECS_COUNT = 100000;
 
 	public static void main(String[] args) {
 		BitSetFabric fabric = new EWAHBitSetFabric();
-		// TODO warm up somehow
-		run(new OneAttributeTest(ValueType.ENUM, 3, 0xFFFFF, 0xFFF, fabric));
-	    run(new OneAttributeTest(ValueType.STRING, 30, 0xFFFFF, 0xFFF, fabric));
-        run(new OneAttributeTest(ValueType.NUMERIC, 30, 0xFFFFF, 0xFFF, fabric));
+		run(new OneAttributeTest(ValueType.ENUM, 20, 1000000, RECS_COUNT, fabric));
+		run(new OneAttributeTest(ValueType.STRING, 3000, 1000000, RECS_COUNT, fabric));
+		run(new OneAttributeTest(ValueType.NUMERIC, 3000, 100000, RECS_COUNT, fabric));
 
-		Map<ValueType, Double> typeFrequencies;
-		Map<ValueType, Integer> valuesCount;
-		typeFrequencies = new HashMap<>();
-		valuesCount = new HashMap<>();
-		typeFrequencies.put(ValueType.STRING, 1.0);
-		valuesCount.put(ValueType.STRING, 5);
-		run(new MultyAttributesTest(20, typeFrequencies, valuesCount, 
-				 0x4FFFF, 0xFFF, 7, fabric));
-
-		typeFrequencies.put(ValueType.STRING, 0.5);
+		Map<ValueType, Double> typeFrequencies = new HashMap<>();
+		Map<ValueType, Integer> valuesCount = new HashMap<>();
+		typeFrequencies.put(ValueType.STRING, 0.4);
 		typeFrequencies.put(ValueType.ENUM, 0.4);
-		typeFrequencies.put(ValueType.NUMERIC, 0.1);
-		valuesCount.put(ValueType.ENUM, 5);
-		valuesCount.put(ValueType.STRING, 50);
-		valuesCount.put(ValueType.NUMERIC, 50);
-		run(new MultyAttributesTest(30, typeFrequencies, valuesCount, 
-				 0x4FFFF, 0xFFF, 7, fabric));
+		typeFrequencies.put(ValueType.NUMERIC, 0.2);
+		valuesCount.put(ValueType.ENUM, 20);
+		valuesCount.put(ValueType.STRING, 100);
+		valuesCount.put(ValueType.NUMERIC, 100);
+		run(new MultyAttributesTest(20, typeFrequencies, valuesCount, 
+				100000, RECS_COUNT, 5, fabric));
 	}
 
 	private static void run(TestHelper helper) {
-		LOG.info("Test with\n{}\nstarted", helper);
+		LOG.info("Warm up started");
+		run(helper, true);
+		LOG.info("Warm up finished");
+		run(helper, false);
+	}
+	
+	// TODO warmUp flag doesn't looks good
+	private static void run(TestHelper helper, boolean warmUp) {
+		if(!warmUp) {
+			LOG.info("Test with\n{}\nstarted", helper);
+		}
 		RandomUtils.setSeed(0);
 		Engine engine = new Engine(helper.getEngineConfig());
 		DocumentGeneratorBase documentGenerator = helper.getDocumentGenerator();
@@ -63,13 +67,18 @@ public class VindurEngineTest {
 			int docId = engine.createDocument();
 			attributesSetted += loadDocument(engine, document, docId);
 		}
-		LOG.info("{} documents with {} atribute values loaded", documentGenerator.getDocumentsCount(), 
-				attributesSetted);
-		LOG.info("Loading time is {}", loadingTime.stop());
+		loadingTime.stop();
+		if(!warmUp) {
+			LOG.info("{} documents with {} atribute values loaded", documentGenerator.getDocumentsCount(), 
+					attributesSetted);
+			LOG.info("Loading time is {}", loadingTime);
+			double avgTime = loadingTime.elapsed(TimeUnit.MILLISECONDS) / (double)documentGenerator.getDocumentsCount();
+			LOG.info("Average time per document is {}ms", avgTime);
+		}
 		loadingTime = null;
 
 		RequestGeneratorBase requestGenerator = helper.getRequestGenerator();
-
+		
 		Stopwatch executingTime = Stopwatch.createStarted();
 		long resultsCount = 0;
 		for (Request request: requestGenerator) {
@@ -78,8 +87,15 @@ public class VindurEngineTest {
 			LOG.debug("Engine returned {} results", result.size());
 			resultsCount += result.size();
 		}
-		LOG.info("{} request executed", requestGenerator.getRequestsCount());
-		LOG.info("Executing time is {}. Engine returned {} results", executingTime.stop(), resultsCount);
+		executingTime.stop();
+		if(!warmUp) {
+			LOG.info("{} request executed", requestGenerator.getRequestsCount());
+			LOG.info("Executing time is {}. Engine returned {} results", executingTime, resultsCount);
+			double avgTime = executingTime.elapsed(TimeUnit.MILLISECONDS) / (double)requestGenerator.getRequestsCount();
+			LOG.info("Average time per request is {}ms", avgTime);
+			double avgResults = resultsCount / (double)requestGenerator.getRequestsCount();
+			LOG.info("Average results per request is {}", avgResults);
+		}
 	}
 
 	private static long loadDocument(Engine engine, Map<String, List<Value>> document, int docId) {
