@@ -1,11 +1,11 @@
 package ru.csc.vindur.test.utils;
 
 import ru.csc.vindur.document.Value;
-import ru.csc.vindur.document.ValueType;
+import ru.csc.vindur.document.StorageType;
 
 public class AttributeGenerator {
 
-	public static Value[] generateValues(ValueType valueType, int valuesCount) {
+	public static Value[] generateValues(StorageType valueType, int valuesCount) {
 		Value[] values;
 		switch (valueType) {
 		case ENUM:

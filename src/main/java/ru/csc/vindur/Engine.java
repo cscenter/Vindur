@@ -13,7 +13,7 @@ import ru.csc.vindur.Request.RequestPart;
 import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.document.Document;
 import ru.csc.vindur.document.Value;
-import ru.csc.vindur.document.ValueType;
+import ru.csc.vindur.document.StorageType;
 import ru.csc.vindur.storage.Storage;
 import ru.csc.vindur.storage.StorageHelper;
 
@@ -22,7 +22,7 @@ import ru.csc.vindur.storage.StorageHelper;
  */
 public class Engine {
 	private static final Logger LOG = LoggerFactory.getLogger(Engine.class);
-    private static final ValueType DEFAULT_VALUE_TYPE = ValueType.STRING;
+    private static final StorageType DEFAULT_VALUE_TYPE = StorageType.STRING;
 	private final AtomicInteger documentsSequence = new AtomicInteger(0);
     private final Map<String, Storage> columns = new HashMap<>();
     private final Map<Integer, Document> documents = new HashMap<>();
@@ -46,7 +46,7 @@ public class Engine {
         Storage storage = columns.get(attribute);
 
         if(storage == null) {
-        	ValueType type = config.getValueType(attribute);
+        	StorageType type = config.getValueType(attribute);
         	if(type == null) {
         		LOG.warn("Default value type({}) used for attribute {}", DEFAULT_VALUE_TYPE, attribute);
         		type = DEFAULT_VALUE_TYPE;

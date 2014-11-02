@@ -4,7 +4,7 @@ import ru.csc.vindur.EngineConfig;
 import ru.csc.vindur.Request;
 import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.document.Value;
-import ru.csc.vindur.document.ValueType;
+import ru.csc.vindur.document.StorageType;
 import ru.csc.vindur.test.AttributeDescriptor;
 import ru.csc.vindur.test.DocumentGeneratorBase;
 import ru.csc.vindur.test.RequestGeneratorBase;
@@ -114,7 +114,7 @@ public class MobilePhoneTest implements TestHelper {
             },
     };
 
-    private static final AttributeDescriptor isSmartphone = new AttributeDescriptor("Is smartphone", ValueType.ENUM) {
+    private static final AttributeDescriptor isSmartphone = new AttributeDescriptor("Is smartphone", StorageType.ENUM) {
         @Override
         public Value generateValue(Object... params) {
             double chance = Math.random();
@@ -123,7 +123,7 @@ public class MobilePhoneTest implements TestHelper {
     };
 
     // takes 2 parameters: boolean isSmart, int category
-    private static final AttributeDescriptor manufacturer = new AttributeDescriptor("Manufacturer", ValueType.ENUM) {
+    private static final AttributeDescriptor manufacturer = new AttributeDescriptor("Manufacturer", StorageType.ENUM) {
         @Override
         public Value generateValue(Object... params) {
             boolean smart = (boolean) params[0];
@@ -138,7 +138,7 @@ public class MobilePhoneTest implements TestHelper {
         }
     };
 
-    private static final AttributeDescriptor color = new AttributeDescriptor("Color", ValueType.ENUM) {
+    private static final AttributeDescriptor color = new AttributeDescriptor("Color", StorageType.ENUM) {
         private final MainColor[] colors = MainColor.values();
         private double[] freqs;
 
@@ -161,7 +161,7 @@ public class MobilePhoneTest implements TestHelper {
     };
 
     // takes 2 parameters: double minimumSize, double maximumSize
-    private static final AttributeDescriptor screenSize = new AttributeDescriptor("Screen Size", ValueType.STRING) {
+    private static final AttributeDescriptor screenSize = new AttributeDescriptor("Screen Size", StorageType.STRING) {
         @Override
         public Value generateValue(Object... params) {
             double minSize = (double) params[0];
@@ -173,7 +173,7 @@ public class MobilePhoneTest implements TestHelper {
     };
 
     // takes 1 parameter - boolean isSmartphone
-    private static final AttributeDescriptor cost = new AttributeDescriptor("Cost", ValueType.NUMERIC) {
+    private static final AttributeDescriptor cost = new AttributeDescriptor("Cost", StorageType.NUMERIC) {
         // we got 6 cost categories - gonna use it in manufacturer generation
         private final PhoneCost[] smartCosts = new PhoneCost[]{
                 new PhoneCost(costBounds[0], costBounds[1], 0.05), new PhoneCost(costBounds[1], costBounds[2], 0.35),
@@ -215,7 +215,7 @@ public class MobilePhoneTest implements TestHelper {
     };
 
     //takes 2 parameters: String manufactorer, int costCategory
-    private static final AttributeDescriptor operationSystem = new AttributeDescriptor("OS", ValueType.ENUM) {
+    private static final AttributeDescriptor operationSystem = new AttributeDescriptor("OS", StorageType.ENUM) {
         private final double[][] androidFreqs = new double[][]{
                 {0.02, 0.05, 0.15, 0.27, 0.42, 0.87, 0.88, 1.0},
                 {0.01, 0.03, 0.14, 0.28, 0.44, 0.84, 0.88, 1.0},
@@ -271,7 +271,7 @@ public class MobilePhoneTest implements TestHelper {
     };
 
     //takes 2 parameters: int minRam, int maxRam
-    private static final AttributeDescriptor ram = new AttributeDescriptor("RAM", ValueType.NUMERIC) {
+    private static final AttributeDescriptor ram = new AttributeDescriptor("RAM", StorageType.NUMERIC) {
         @Override
         public Value generateValue(Object... params) {
             //TODO interesting RAM generator
@@ -282,7 +282,7 @@ public class MobilePhoneTest implements TestHelper {
         }
     };
 
-    private static final AttributeDescriptor model = new AttributeDescriptor("Model", ValueType.STRING) {
+    private static final AttributeDescriptor model = new AttributeDescriptor("Model", StorageType.STRING) {
         @Override
         public Value generateValue(Object... params) {
             return new Value(RandomUtils.getString(4, 15));
@@ -296,8 +296,8 @@ public class MobilePhoneTest implements TestHelper {
         this.documentsCount = documentsCount;
         this.requestsCount = requestsCount;
         this.reqAttributesCount = reqAttributesCount;
-        Map<String, ValueType> indexes = new HashMap<>();
-        indexes.put("Art.", ValueType.STRING);
+        Map<String, StorageType> indexes = new HashMap<>();
+        indexes.put("Art.", StorageType.STRING);
         for (AttributeDescriptor desc : attributeDescriptors) {
             indexes.put(desc.getAttributeName(), desc.getValueType());
         }

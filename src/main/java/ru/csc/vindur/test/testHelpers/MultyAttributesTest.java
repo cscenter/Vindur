@@ -10,7 +10,7 @@ import ru.csc.vindur.EngineConfig;
 import ru.csc.vindur.Request;
 import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.document.Value;
-import ru.csc.vindur.document.ValueType;
+import ru.csc.vindur.document.StorageType;
 import ru.csc.vindur.test.DocumentGeneratorBase;
 import ru.csc.vindur.test.RequestGeneratorBase;
 import ru.csc.vindur.test.utils.AttributeGenerator;
@@ -22,15 +22,15 @@ public class MultyAttributesTest implements TestHelper {
 	private final RequestGeneratorBase reqGenerator;
 	private final String descriptionString;
 	
-	public MultyAttributesTest(final int attributesCount, Map<ValueType, Double> typeFrequencies, 
-			Map<ValueType, Integer> valuesCount, int documentsCount, int requestsCount, 
+	public MultyAttributesTest(final int attributesCount, Map<StorageType, Double> typeFrequencies, 
+			Map<StorageType, Integer> valuesCount, int documentsCount, int requestsCount, 
 			final int reqAttributesCount, BitSetFabric bitSetFabric) {
 		final String[] attributeNames = new String[attributesCount];
 		final Value[][] attributeValues = new Value[attributesCount][];
-		Map<String, ValueType> indexes = new HashMap<>(attributesCount);
+		Map<String, StorageType> indexes = new HashMap<>(attributesCount);
 		for(int i = 0; i < attributesCount; i ++) {
 			attributeNames[i] = RandomUtils.getString(1, 10);
-			ValueType type = RandomUtils.getFrec(typeFrequencies);
+			StorageType type = RandomUtils.getFrec(typeFrequencies);
 			attributeValues[i] = AttributeGenerator.generateValues(type, valuesCount.get(type));
 			indexes.put(attributeNames[i], type);
 		}

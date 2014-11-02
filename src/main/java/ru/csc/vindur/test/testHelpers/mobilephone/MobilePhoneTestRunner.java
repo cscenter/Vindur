@@ -15,7 +15,7 @@ import ru.csc.vindur.Request;
 import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.bitset.bitsetFabric.EWAHBitSetFabric;
 import ru.csc.vindur.document.Value;
-import ru.csc.vindur.document.ValueType;
+import ru.csc.vindur.document.StorageType;
 import ru.csc.vindur.test.DocumentGeneratorBase;
 import ru.csc.vindur.test.RequestGeneratorBase;
 import ru.csc.vindur.test.VindurEngineTest;

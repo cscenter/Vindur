@@ -1,7 +1,7 @@
 package ru.csc.vindur.storage;
 
 import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
-import ru.csc.vindur.document.ValueType;
+import ru.csc.vindur.document.StorageType;
 
 /**
  * @author Andrey Kokorev
@@ -9,7 +9,7 @@ import ru.csc.vindur.document.ValueType;
  */
 public class StorageHelper {
 
-    public static Storage getColumn(ValueType valueType, BitSetFabric bitSetFabric) {
+    public static Storage getColumn(StorageType valueType, BitSetFabric bitSetFabric) {
         Storage storage;
         switch (valueType) {
             case NUMERIC:

@@ -5,7 +5,7 @@ package ru.csc.vindur.document;
  */
 
 //TODO: вообще, это уже скорее StorageType, может так и именовать?
-public enum ValueType {
+public enum StorageType {
     STRING,
     ENUM,
     NUMERIC
