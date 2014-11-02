@@ -24,24 +24,23 @@ import ru.csc.vindur.test.utils.RandomUtils;
 
 public class VindurEngineTest {
 	private static final Logger LOG = LoggerFactory.getLogger(VindurEngineTest.class);
-	private static final int RECS_COUNT = 100000;
 
 	public static void main(String[] args) {
 		BitSetFabric fabric = new EWAHBitSetFabric();
-		run(new OneAttributeTest(ValueType.ENUM, 20, 1000000, RECS_COUNT, fabric));
-		run(new OneAttributeTest(ValueType.STRING, 3000, 1000000, RECS_COUNT, fabric));
-		run(new OneAttributeTest(ValueType.NUMERIC, 3000, 100000, RECS_COUNT, fabric));
+		run(new OneAttributeTest(ValueType.ENUM, 100, 1000000, 10000, fabric));
+		run(new OneAttributeTest(ValueType.STRING, 30000, 1000000, 100000, fabric));
+		run(new OneAttributeTest(ValueType.NUMERIC, 3000, 100000, 100000, fabric));
 
 		Map<ValueType, Double> typeFrequencies = new HashMap<>();
 		Map<ValueType, Integer> valuesCount = new HashMap<>();
 		typeFrequencies.put(ValueType.STRING, 0.4);
 		typeFrequencies.put(ValueType.ENUM, 0.4);
 		typeFrequencies.put(ValueType.NUMERIC, 0.2);
-		valuesCount.put(ValueType.ENUM, 20);
-		valuesCount.put(ValueType.STRING, 100);
-		valuesCount.put(ValueType.NUMERIC, 100);
+		valuesCount.put(ValueType.ENUM, 5);
+		valuesCount.put(ValueType.STRING, 30);
+		valuesCount.put(ValueType.NUMERIC, 30);
 		run(new MultyAttributesTest(20, typeFrequencies, valuesCount, 
-				100000, RECS_COUNT, 5, fabric));
+				100000, 100000, 5, fabric));
 	}
 
 	private static void run(TestHelper helper) {

@@ -41,7 +41,7 @@ public class MultyAttributesTest implements TestHelper {
 			protected Map<String, List<Value>> generateDocument() {
 				Map<String, List<Value>> document = new HashMap<>(attributesCount);
 				for(int i = 0; i < attributesCount; i ++) {
-					Value val = RandomUtils.gaussianRandomElement(attributeValues[i], 0.5, 1/6);
+					Value val = RandomUtils.gaussianRandomElement(attributeValues[i], 0.5, 1.0/6);
 					document.put(attributeNames[i], Arrays.asList(val));
 				}
 				return document;
@@ -53,7 +53,7 @@ public class MultyAttributesTest implements TestHelper {
 				Request request = Request.build();
 				Set<Integer> attributeIndexes = RandomUtils.getRandomIndexes(attributesCount, reqAttributesCount);
 				for(int idx: attributeIndexes) {
-					Value val = RandomUtils.gaussianRandomElement(attributeValues[idx], 0.5, 1/6);
+					Value val = RandomUtils.gaussianRandomElement(attributeValues[idx], 0.5, 1.0/6);
 					request.exact(attributeNames[idx], val.getValue());
 				}
 				return request;
