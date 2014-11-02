@@ -20,25 +20,15 @@ public class RandomUtils {
 		return array[idx];
 	}
 	
-	public static <T> T gaussianRandomElement(T[] array) {
+	public static <T> T gaussianRandomElement(T[] array, double expectedValue, double standartDeviation) {
 		double gaussian;
+		double halfViewLen = 0.5 / standartDeviation;
 		do {
 			gaussian = random.nextGaussian();
-		//99.7% that Math.abs(gaussian) <= 3
-		} while(Math.abs(gaussian) > 3);
+		} while(Math.abs(gaussian) > halfViewLen);
 		
-		gaussian = (gaussian + 3) / 6;
-		int idx = (int)(gaussian * array.length);
-		
-		// to be sure 
-		// TODO investigate about accuracy  
-		if(idx < 0) {
-			idx = 0;
-		} else {
-			if(idx >= array.length) {
-				idx = array.length - 1;
-			}
-		}
+		gaussian = gaussian * standartDeviation + expectedValue;
+		int idx = (int)(gaussian * array.length) % array.length;
 		return array[idx];
 	}
 
