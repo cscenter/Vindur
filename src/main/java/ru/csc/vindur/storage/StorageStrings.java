@@ -3,6 +3,9 @@ package ru.csc.vindur.storage;
 
 import java.util.HashMap;
 import java.util.Map;
+import java.util.concurrent.atomic.AtomicInteger;
+
+import javax.annotation.concurrent.ThreadSafe;
 
 import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
@@ -11,10 +14,11 @@ import ru.csc.vindur.document.Value;
 /**
  * @author: Phillip Delgyado Date: 30.10.13 17:40
  */
+@ThreadSafe
 public final class StorageStrings implements Storage {
 	private final Map<String, BitSet> values = new HashMap<>(); // strValue->{itemIds}
 	private final BitSetFabric bitSetFabric;
-	private int currentSize = 0;
+	private AtomicInteger currentSize = new AtomicInteger();
 
 	public StorageStrings(BitSetFabric bitSetFabric) {
 		this.bitSetFabric = bitSetFabric;
@@ -22,16 +26,16 @@ public final class StorageStrings implements Storage {
 
 	@Override
 	public long size() {
-		return currentSize;
+		return currentSize.longValue();
 	}
 
 	@Override
 	public long expectAmount(String value) {
-		return currentSize / 100 + 1;
+		return currentSize.longValue() / 100 + 1;
 	}
 
 	@Override
-	public void add(int docId, Value value) {
+	public synchronized void add(int docId, Value value) {
 		String strValue = value.getValue();
 		BitSet valsSet = values.get(strValue);
 		if (valsSet == null) {
@@ -39,11 +43,11 @@ public final class StorageStrings implements Storage {
 			values.put(strValue, valsSet);
 		}
 		valsSet.set(docId);
-		currentSize++;
+		currentSize.incrementAndGet();
 	}
 
 	@Override
-	public BitSet findSet(String strValue) {
+	public synchronized BitSet findSet(String strValue) {
 		BitSet valsSet = values.get(strValue);
 		if(valsSet == null) {
 			return bitSetFabric.newInstance();

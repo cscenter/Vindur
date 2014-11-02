@@ -6,6 +6,8 @@ import ru.csc.vindur.document.Value;
 
 import java.util.*;
 
+import javax.annotation.concurrent.ThreadSafe;
+
 
 /**
  * @author Andrey Kokorev
@@ -13,6 +15,7 @@ import java.util.*;
  * For each attribute value stored a BitSet with every docId
  * with lower or equal attribute value
  */
+@ThreadSafe
 public final class StorageIntegers implements Storage {
     private TreeMap<Integer, BitSet> storage; //key -> bitset of all smaller
     private BitSetFabric bitSetFabric;
@@ -23,17 +26,17 @@ public final class StorageIntegers implements Storage {
     }
 
     @Override
-    public long size() {
+    public synchronized long size() {
         return storage.size();
     }
 
     @Override
-    public long expectAmount(String value) {
+    public synchronized long expectAmount(String value) {
         return storage.size() / 1000;
     }
 
     @Override
-    public void add(int docId, Value value) {
+    public synchronized void add(int docId, Value value) {
         Integer newKey = Integer.parseInt(value.getValue());
 
         for(BitSet bitSet : storage.tailMap(newKey).values()) {
@@ -51,7 +54,7 @@ public final class StorageIntegers implements Storage {
     }
 
     @Override
-    public BitSet findSet(String strictMatch) {
+    public synchronized BitSet findSet(String strictMatch) {
         Integer key = Integer.parseInt(strictMatch);
 
         BitSet exact = storage.get(key);

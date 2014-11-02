@@ -40,7 +40,6 @@ public class Document {
 		List<Value> values;
 
 		synchronized (this) {
-			
 			values = vals.get(attribute);
 			if(values != null) {
 				return values;

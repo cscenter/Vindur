@@ -1,10 +1,12 @@
 package ru.csc.vindur;
 
 import java.util.Collections;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.ConcurrentMap;
 import java.util.concurrent.atomic.AtomicInteger;
+
+import javax.annotation.concurrent.ThreadSafe;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -12,20 +14,21 @@ import org.slf4j.LoggerFactory;
 import ru.csc.vindur.Request.RequestPart;
 import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.document.Document;
-import ru.csc.vindur.document.Value;
 import ru.csc.vindur.document.StorageType;
+import ru.csc.vindur.document.Value;
 import ru.csc.vindur.storage.Storage;
 import ru.csc.vindur.storage.StorageHelper;
 
 /**
  * Created by Pavel Chursin on 05.10.2014.
  */
+@ThreadSafe
 public class Engine {
 	private static final Logger LOG = LoggerFactory.getLogger(Engine.class);
     private static final StorageType DEFAULT_VALUE_TYPE = StorageType.STRING;
 	private final AtomicInteger documentsSequence = new AtomicInteger(0);
-    private final Map<String, Storage> columns = new HashMap<>();
-    private final Map<Integer, Document> documents = new HashMap<>();
+    private final ConcurrentMap<String, Storage> columns = new ConcurrentHashMap<>();
+    private final ConcurrentMap<Integer, Document> documents = new ConcurrentHashMap<>();
 	private final EngineConfig config;
 
     public Engine(EngineConfig config) {
@@ -46,17 +49,30 @@ public class Engine {
         Storage storage = columns.get(attribute);
 
         if(storage == null) {
-        	StorageType type = config.getValueType(attribute);
-        	if(type == null) {
-        		LOG.warn("Default value type({}) used for attribute {}", DEFAULT_VALUE_TYPE, attribute);
-        		type = DEFAULT_VALUE_TYPE;
-        	}
-        	storage = StorageHelper.getColumn(type, config.getBitSetFabric());
-        	columns.put(attribute, storage);
+    		// Contains Double checked locking inside
+        	storage = createStorage(attribute);
         }
         documents.get(docId).setAttribute(attribute, value);
         storage.add(docId, value);
     }
+
+	private Storage createStorage(String attribute) {
+		Storage storage;
+		StorageType type = config.getValueType(attribute);
+		synchronized (this) {
+			storage = columns.get(attribute);
+			if(storage != null) {
+				return storage;
+			}
+			if(type == null) {
+				LOG.warn("Default value type({}) used for attribute {}", DEFAULT_VALUE_TYPE, attribute);
+				type = DEFAULT_VALUE_TYPE;
+			}
+			storage = StorageHelper.getColumn(type, config.getBitSetFabric());
+			columns.put(attribute, storage);
+		}
+		return storage;
+	}
 
     public List<Integer> executeRequest(Request request) {
         BitSet resultSet = null;
