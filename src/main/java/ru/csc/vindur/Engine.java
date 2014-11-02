@@ -6,42 +6,30 @@ import java.util.List;
 import java.util.Map;
 import java.util.concurrent.atomic.AtomicInteger;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import ru.csc.vindur.Request.RequestPart;
 import ru.csc.vindur.bitset.BitSet;
-import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
-import ru.csc.vindur.storage.StorageHelper;
-import ru.csc.vindur.storage.Storage;
 import ru.csc.vindur.document.Document;
 import ru.csc.vindur.document.Value;
+import ru.csc.vindur.document.ValueType;
+import ru.csc.vindur.storage.Storage;
+import ru.csc.vindur.storage.StorageHelper;
 
 /**
  * Created by Pavel Chursin on 05.10.2014.
  */
 public class Engine {
-    private final AtomicInteger documentsSequence = new AtomicInteger(0);
+	private static final Logger LOG = LoggerFactory.getLogger(Engine.class);
+    private static final ValueType DEFAULT_VALUE_TYPE = ValueType.STRING;
+	private final AtomicInteger documentsSequence = new AtomicInteger(0);
     private final Map<String, Storage> columns = new HashMap<>();
     private final Map<Integer, Document> documents = new HashMap<>();
-    private final BitSetFabric bitSetFabric;
+	private final EngineConfig config;
 
     public Engine(EngineConfig config) {
-        bitSetFabric = config.getBitSetFabric(); //TODO: локальные переменные должны начинаться с this. - по code style
-        for(String attribute : config.getAttributes()) { //а зачем тут {} - без них читается проще
-            addColumn(
-                    attribute,
-                    StorageHelper.getColumn(config.getValueType(attribute), bitSetFabric)
-                    // а зачем тут вообще этот код?
-                    // по идее проще сохранить конфиг, а когда нужно будеть сделать setAttribute для неизвестного аттрибута -
-                    // взять из конфига.
-                    // аналогично и про bitsetfabric брать оттуда же.
-            );
-        }
-    }
-
-    public void addColumn(String attribute, Storage storage) {
-        if (columns.containsKey(attribute)) {
-            throw new IllegalArgumentException("Storage for this attribute already exists");
-        }
-        columns.put(attribute, storage);
+    	this.config = config;
     }
 
     public int createDocument() {
@@ -50,17 +38,24 @@ public class Engine {
         return document.getId();
     }
 
-    //TODO все-таки лучше id переименовать в docId
-    public void setAttributeByDocId(int id, String attribute, Value value) {
-        if (!documents.containsKey(id)) {
+    public void setAttributeByDocId(int docId, String attribute, Value value) {
+        if (!documents.containsKey(docId)) {
             throw new IllegalArgumentException("There is no such document");
         }
-        //TODO лучше создавать таки колонку с дефолтным типом или искать в Config
-        if(!columns.containsKey(attribute)) {
-            throw new IllegalArgumentException("There is no such storage");
+        
+        Storage storage = columns.get(attribute);
+
+        if(storage == null) {
+        	ValueType type = config.getValueType(attribute);
+        	if(type == null) {
+        		LOG.warn("Default value type({}) used for attribute {}", DEFAULT_VALUE_TYPE, attribute);
+        		type = DEFAULT_VALUE_TYPE;
+        	}
+        	storage = StorageHelper.getColumn(type, config.getBitSetFabric());
+        	columns.put(attribute, storage);
         }
-        documents.get(id).setAttribute(attribute, value);
-        columns.get(attribute).add(id, value);
+        documents.get(docId).setAttribute(attribute, value);
+        storage.add(docId, value);
     }
 
     public List<Integer> executeRequest(Request request) {
@@ -87,7 +82,8 @@ public class Engine {
     private BitSet executeRequestPart(Request.RequestPart requestPart) {
         Storage index = columns.get(requestPart.tag);
         if (index == null) {
-            return bitSetFabric.newInstance();
+        	LOG.warn("Index for requested attribute {} is not created", requestPart.tag);
+            return config.getBitSetFabric().newInstance();
         }
 
         if (requestPart.isExact) {
@@ -95,6 +91,6 @@ public class Engine {
         }
 
         //TODO range request
-        throw(new RuntimeException("Range requests is not implemented")); //лишняя скобка
+        throw new RuntimeException("Range requests is not implemented");
     }
 }

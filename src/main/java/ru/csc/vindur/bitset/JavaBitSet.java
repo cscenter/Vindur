@@ -13,15 +13,15 @@ public class JavaBitSet implements BitSet
 		bitSet = new java.util.BitSet();
 	}
 
-	public JavaBitSet(JavaBitSet other) {
-		this.bitSet = copyOf(other.bitSet);
+	private JavaBitSet(java.util.BitSet bitSet) {
+		this.bitSet = bitSet;
 	}
 
-	public JavaBitSet(Collection<Integer> intCollection) {
-		this.bitSet = new java.util.BitSet();
+	public BitSet set(Collection<Integer> intCollection) {
 		for (int docId: intCollection) {
 			bitSet.set(docId);
 		}
+		return this;
 	}
 
 	@Override
@@ -67,8 +67,8 @@ public class JavaBitSet implements BitSet
         return this;
     }
 
-	private static java.util.BitSet copyOf(java.util.BitSet bitSet) {
-		return (java.util.BitSet) bitSet.clone();
-	}
+    public BitSet clone() {
+    	return new JavaBitSet((java.util.BitSet) bitSet.clone());
+    }
 
 }

@@ -57,7 +57,7 @@ public final class StorageIntegers implements Storage {
         BitSet exact = storage.get(key);
         if(exact == null) return bitSetFabric.newInstance();
 
-        if(storage.firstKey().equals(key)) return bitSetFabric.newInstance(exact);
+        if(storage.firstKey().equals(key)) return exact.clone();
         BitSet low = storage.lowerEntry(key).getValue();
         return exact.xor(low);  // everything including this or lower, except lower
     }

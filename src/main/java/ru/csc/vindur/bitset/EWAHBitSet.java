@@ -13,21 +13,15 @@ public class EWAHBitSet implements BitSet {
 		bitSet = new EWAHCompressedBitmap();
 	}
 
-    //TODO а зачем тут public? Это же снаружи не должно быть заметно. Но тогда и функция не нужна, это конкретная реализация
-	public EWAHBitSet(EWAHCompressedBitmap bitSet) {
-		this.bitSet = bitSet.clone();
+    private EWAHBitSet(EWAHCompressedBitmap bitSet) {
+		this.bitSet = bitSet;
 	}
 	
-	public EWAHBitSet(EWAHBitSet other) {
-		this.bitSet = other.bitSet.clone();
-	}
-	
-	public EWAHBitSet(Collection<Integer> intList) {
-		// TODO: Investigate. It may be very slow when collection is not sorted. 
-		bitSet = new EWAHCompressedBitmap();
+	public BitSet set(Collection<Integer> intList) {
 		for(int i: intList) {
 			bitSet.set(i);
 		}
+		return this;
 	}
 
 	@Override
@@ -62,5 +56,9 @@ public class EWAHBitSet implements BitSet {
     public BitSet xor(BitSet other) {
         EWAHCompressedBitmap otherBitSet = ((EWAHBitSet) other).bitSet;
         return new EWAHBitSet(bitSet.xor(otherBitSet));
+    }
+    
+    public BitSet clone() {
+    	return new EWAHBitSet(this.bitSet.clone());
     }
 }
