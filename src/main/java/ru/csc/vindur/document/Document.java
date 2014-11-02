@@ -1,13 +1,18 @@
 package ru.csc.vindur.document;
 
 import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.ConcurrentMap;
 import java.util.concurrent.atomic.AtomicInteger;
+
+import javax.annotation.concurrent.ThreadSafe;
 
 /**
  * Created by Pavel Chursin on 05.10.2014.
  */
+@ThreadSafe
 public class Document {
-    private final Map<String, List<Value>> vals = new HashMap<>();  // attribute -> values
+    private final ConcurrentMap<String, List<Value>> vals = new ConcurrentHashMap<>();  // attribute -> values
     private final int id;
 
     private Document(int id) {
@@ -18,22 +23,35 @@ public class Document {
         return new Document(docSequence.incrementAndGet());
     }
 
+    // TODO Why do we need this method? 
     public void setAttribute(String attribute, Value value) {
-        if (!vals.containsKey(attribute)) {
-            vals.put(attribute, new ArrayList<Value>());
+        List<Value> values = vals.get(attribute);
+    	if (values == null) {
+    		// Contains Double checked locking inside
+    		values = createValues(attribute);
         }
-        vals.get(attribute).add(value);
+    	synchronized (values) {
+    		// TODO maybe change List to CopyOnWriteList or something else
+            values.add(value);
+		}
     }
+
+	private List<Value> createValues(String attribute) {
+		List<Value> values;
+
+		synchronized (this) {
+			
+			values = vals.get(attribute);
+			if(values != null) {
+				return values;
+			}
+			values = new ArrayList<Value>();
+			vals.put(attribute, values);
+		}
+		return values;
+	}
 
     public int getId() {
         return id;
-    }
-
-    public List<Value> getValues(String attribute) {
-        return vals.get(attribute);
-    }
-
-    public Set<String> getAttributes() {
-        return vals.keySet();
     }
 }
