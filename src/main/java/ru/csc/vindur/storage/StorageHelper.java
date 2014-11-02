@@ -16,7 +16,7 @@ public class StorageHelper {
                 storage = new StorageIntegers(bitSetFabric);
                 break;
             case ENUM:
-                storage = new StorageEnums(bitSetFabric);
+                storage = new StorageStrings(bitSetFabric);
                 break;
             case STRING:
             default:

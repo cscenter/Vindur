@@ -51,11 +51,6 @@ public final class StorageIntegers implements Storage {
     }
 
     @Override
-    public Collection<Integer> findList(String strictMatch) {
-        return findSet(strictMatch).toIntList();
-    }
-
-    @Override
     public BitSet findSet(String strictMatch) {
         Integer key = Integer.parseInt(strictMatch);
 
