@@ -1,6 +1,5 @@
 package ru.csc.vindur.test.testHelpers.mobilephone;
 
-import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
@@ -8,22 +7,17 @@ import java.util.Map.Entry;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.google.common.base.Stopwatch;
-
 import ru.csc.vindur.Engine;
 import ru.csc.vindur.Request;
 import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.bitset.bitsetFabric.EWAHBitSetFabric;
 import ru.csc.vindur.document.Value;
-import ru.csc.vindur.document.StorageType;
-import ru.csc.vindur.test.DocumentGeneratorBase;
-import ru.csc.vindur.test.RequestGeneratorBase;
+import ru.csc.vindur.test.GeneratorBase;
 import ru.csc.vindur.test.VindurEngineTest;
-import ru.csc.vindur.test.testHelpers.MultyAttributesTest;
-import ru.csc.vindur.test.testHelpers.OneAttributeTest;
 import ru.csc.vindur.test.testHelpers.TestHelper;
-import ru.csc.vindur.test.testHelpers.mobilephone.MobilePhoneTest;
 import ru.csc.vindur.test.utils.RandomUtils;
+
+import com.google.common.base.Stopwatch;
 
 public class MobilePhoneTestRunner {
     private static final Logger LOG = LoggerFactory.getLogger(VindurEngineTest.class);
@@ -37,7 +31,7 @@ public class MobilePhoneTestRunner {
         LOG.info("Test with\n{}\nstarted", helper);
         RandomUtils.setSeed(0);
         Engine engine = new Engine(helper.getEngineConfig());
-        DocumentGeneratorBase documentGenerator = helper.getDocumentGenerator();
+        GeneratorBase<Map<String, List<Value>>> documentGenerator = helper.getDocumentGenerator();
 
         Stopwatch loadingTime = Stopwatch.createStarted();
         long attributesSetted = 0;
@@ -46,12 +40,12 @@ public class MobilePhoneTestRunner {
             int docId = engine.createDocument();
             attributesSetted += loadDocument(engine, document, docId);
         }
-        LOG.info("{} documents with {} atribute values loaded", documentGenerator.getDocumentsCount(),
+        LOG.info("{} documents with {} atribute values loaded", documentGenerator.getEntitiesCount(),
                 attributesSetted);
         LOG.info("Loading time is {}", loadingTime.stop());
         loadingTime = null;
 
-        RequestGeneratorBase requestGenerator = helper.getRequestGenerator();
+        GeneratorBase<Request> requestGenerator = helper.getRequestGenerator();
 
         Stopwatch executingTime = Stopwatch.createStarted();
         long resultsCount = 0;
@@ -61,7 +55,7 @@ public class MobilePhoneTestRunner {
             LOG.debug("Engine returned {} results", result.size());
             resultsCount += result.size();
         }
-        LOG.info("{} request executed", requestGenerator.getRequestsCount());
+        LOG.info("{} request executed", requestGenerator.getEntitiesCount());
         LOG.info("Executing time is {}. Engine returned {} results", executingTime.stop(), resultsCount);
     }
 

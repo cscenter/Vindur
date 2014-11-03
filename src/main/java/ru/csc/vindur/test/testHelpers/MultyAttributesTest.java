@@ -10,17 +10,16 @@ import java.util.concurrent.ExecutorService;
 import ru.csc.vindur.EngineConfig;
 import ru.csc.vindur.Request;
 import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
-import ru.csc.vindur.document.Value;
 import ru.csc.vindur.document.StorageType;
-import ru.csc.vindur.test.DocumentGeneratorBase;
-import ru.csc.vindur.test.RequestGeneratorBase;
+import ru.csc.vindur.document.Value;
+import ru.csc.vindur.test.GeneratorBase;
 import ru.csc.vindur.test.utils.AttributeGenerator;
 import ru.csc.vindur.test.utils.RandomUtils;
 
 public class MultyAttributesTest implements TestHelper {
 	private final EngineConfig simpleEngineConfig;
-	private final DocumentGeneratorBase docGenerator;
-	private final RequestGeneratorBase reqGenerator;
+	private final GeneratorBase<Map<String, List<Value>>> docGenerator;
+	private final GeneratorBase<Request> reqGenerator;
 	private final String descriptionString;
 	
 	public MultyAttributesTest(final int attributesCount, Map<StorageType, Double> typeFrequencies, 
@@ -37,9 +36,9 @@ public class MultyAttributesTest implements TestHelper {
 		}
 		simpleEngineConfig = new EngineConfig(indexes, bitSetFabric, executorService);
 		
-		docGenerator = new DocumentGeneratorBase(false, documentsCount) {
+		docGenerator = new GeneratorBase<Map<String, List<Value>>>(false, documentsCount) {
 			@Override
-			protected Map<String, List<Value>> generateDocument() {
+			protected Map<String, List<Value>> generateEntity() {
 				Map<String, List<Value>> document = new HashMap<>(attributesCount);
 				for(int i = 0; i < attributesCount; i ++) {
 					Value val = RandomUtils.gaussianRandomElement(attributeValues[i], 0.5, 1.0/6);
@@ -48,9 +47,9 @@ public class MultyAttributesTest implements TestHelper {
 				return document;
 			}
 		};
-		reqGenerator = new RequestGeneratorBase(false, requestsCount) {
+		reqGenerator = new GeneratorBase<Request>(false, requestsCount) {
 			@Override
-			protected Request generateRequest() {
+			protected Request generateEntity() {
 				Request request = Request.build();
 				Set<Integer> attributeIndexes = RandomUtils.getRandomIndexes(attributesCount, reqAttributesCount);
 				for(int idx: attributeIndexes) {
@@ -70,12 +69,12 @@ public class MultyAttributesTest implements TestHelper {
 	}
 
 	@Override
-	public DocumentGeneratorBase getDocumentGenerator() {
+	public GeneratorBase<Map<String, List<Value>>> getDocumentGenerator() {
 		return docGenerator;
 	}
 
 	@Override
-	public RequestGeneratorBase getRequestGenerator() {
+	public GeneratorBase<Request> getRequestGenerator() {
 		return reqGenerator;
 	}
 

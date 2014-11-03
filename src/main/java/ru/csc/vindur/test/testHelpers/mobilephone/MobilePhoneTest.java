@@ -1,23 +1,22 @@
 package ru.csc.vindur.test.testHelpers.mobilephone;
 
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
 import ru.csc.vindur.EngineConfig;
 import ru.csc.vindur.Request;
 import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
-import ru.csc.vindur.document.Value;
 import ru.csc.vindur.document.StorageType;
+import ru.csc.vindur.document.Value;
 import ru.csc.vindur.test.AttributeDescriptor;
-import ru.csc.vindur.test.DocumentGeneratorBase;
-import ru.csc.vindur.test.RequestGeneratorBase;
+import ru.csc.vindur.test.GeneratorBase;
 import ru.csc.vindur.test.testHelpers.TestHelper;
 import ru.csc.vindur.test.testHelpers.mobilephone.attributes.MainColor;
 import ru.csc.vindur.test.testHelpers.mobilephone.attributes.Manufacturer;
 import ru.csc.vindur.test.testHelpers.mobilephone.attributes.PhoneCost;
 import ru.csc.vindur.test.utils.RandomUtils;
-
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
 
 /**
  * Created by Pavel Chursin on 29.10.2014.
@@ -312,10 +311,10 @@ public class MobilePhoneTest implements TestHelper {
     }
 
     @Override
-    public DocumentGeneratorBase getDocumentGenerator() {
-        return new DocumentGeneratorBase(false, documentsCount) {
+    public GeneratorBase<Map<String, List<Value>>> getDocumentGenerator() {
+        return new GeneratorBase<Map<String, List<Value>>>(false, documentsCount) {
             @Override
-            protected Map<String, List<Value>> generateDocument() {
+            protected Map<String, List<Value>> generateEntity() {
                 Map<String, List<Value>> document = new HashMap<>();
                 document.put("Art.", Arrays.asList(new Value(Integer.toString(currentArt++))));
                 Value smart = isSmartphone.generateValue();
@@ -352,10 +351,10 @@ public class MobilePhoneTest implements TestHelper {
     }
 
     @Override
-    public RequestGeneratorBase getRequestGenerator() {
-        return new RequestGeneratorBase(false, requestsCount) {
+    public GeneratorBase<Request> getRequestGenerator() {
+        return new GeneratorBase<Request>(false, requestsCount) {
             @Override
-            protected Request generateRequest() {
+            protected Request generateEntity() {
                 Request request = Request.build();
                 String[] targetOS;
                 double chance = Math.random();

@@ -66,9 +66,16 @@ public class VindurEngineTest {
 			LOG.info("Test with\n{}\nstarted", helper);
 		}
 		RandomUtils.setSeed(0);
-		Engine engine = new Engine(helper.getEngineConfig());
-		DocumentGeneratorBase documentGenerator = helper.getDocumentGenerator();
 		
+		Engine engine = new Engine(helper.getEngineConfig());
+		
+		loadDocuments(warmUp, engine, helper.getDocumentGenerator());
+
+		executeRequests(warmUp, engine, helper.getRequestGenerator());
+	}
+
+	private static void loadDocuments(boolean warmUp, Engine engine,
+			GeneratorBase<Map<String, List<Value>>> documentGenerator) {
 		Stopwatch loadingTime = Stopwatch.createStarted();
 		long attributesSetted = 0;
 		for (Map<String, List<Value>> document: documentGenerator) {
@@ -78,24 +85,51 @@ public class VindurEngineTest {
 		}
 		loadingTime.stop();
 		if(!warmUp) {
-			LOG.info("{} documents with {} atribute values loaded", documentGenerator.getDocumentsCount(), 
+			LOG.info("{} documents with {} atribute values loaded", documentGenerator.getEntitiesCount(), 
 					attributesSetted);
 			LOG.info("Loading time is {}", loadingTime);
-			double avgTime = loadingTime.elapsed(TimeUnit.MILLISECONDS) / (double)documentGenerator.getDocumentsCount();
+			double avgTime = loadingTime.elapsed(TimeUnit.MILLISECONDS) / (double)documentGenerator.getEntitiesCount();
 			LOG.info("Average time per document is {}ms", avgTime);
 		}
-		loadingTime = null;
+	}
 
-		final RequestGeneratorBase requestGenerator = helper.getRequestGenerator();
+	private static void executeRequests(boolean warmUp,
+			Engine engine, GeneratorBase<Request> requestGenerator) {
+		try {
+			final BlockingQueue<Future<List<Integer>>> results = new ArrayBlockingQueue<>(100); 
+			final AtomicLong resultsCount = new AtomicLong();
+			Thread resultsFetcher = createResultsFetcher(requestGenerator.getEntitiesCount(), results, resultsCount);
 		
-		final BlockingQueue<Future<List<Integer>>> results = new ArrayBlockingQueue<>(100); 
-		
-		final AtomicLong resultsCount = new AtomicLong();
-		
-		Thread resultsFetcher = new Thread(new Runnable() {
+			resultsFetcher.start();
+			Stopwatch executingTime = Stopwatch.createStarted();
+			for (Request request: requestGenerator) {
+				LOG.debug("Request generated: {}", request);
+				results.put(engine.executeRequestAsync(request));
+			}
+			resultsFetcher.join();
+			executingTime.stop();
+			
+			if(!warmUp) {
+				LOG.info("{} request executed", requestGenerator.getEntitiesCount());
+				LOG.info("Executing time is {}. Engine returned {} results", executingTime, resultsCount);
+				double avgTime = executingTime.elapsed(TimeUnit.MILLISECONDS) / (double)requestGenerator.getEntitiesCount();
+				LOG.info("Average time per request is {}ms", avgTime);
+				double avgResults = resultsCount.longValue() / (double)requestGenerator.getEntitiesCount();
+				LOG.info("Average results per request is {}", avgResults);
+			}
+		} catch (InterruptedException e) {
+			LOG.error(e.getMessage());
+		}
+	}
+
+	private static Thread createResultsFetcher(
+			final int reqCount,
+			final BlockingQueue<Future<List<Integer>>> results,
+			final AtomicLong resultsCount) {
+		return new Thread(new Runnable() {
 			@Override
 			public void run() {
-				for(int i = 0; i < requestGenerator.getRequestsCount(); i++) {
+				for(int i = 0; i < reqCount; i++) {
 					try {
 						List<Integer> result = results.take().get();
 						resultsCount.addAndGet(result.size());
@@ -108,26 +142,6 @@ public class VindurEngineTest {
 				}
 			}
 		});
-		try {
-			resultsFetcher.start();
-			Stopwatch executingTime = Stopwatch.createStarted();
-			for (Request request: requestGenerator) {
-				LOG.debug("Request generated: {}", request);
-				results.put(engine.executeRequestAsync(request));
-			}
-			resultsFetcher.join();
-			executingTime.stop();
-			if(!warmUp) {
-				LOG.info("{} request executed", requestGenerator.getRequestsCount());
-				LOG.info("Executing time is {}. Engine returned {} results", executingTime, resultsCount);
-				double avgTime = executingTime.elapsed(TimeUnit.MILLISECONDS) / (double)requestGenerator.getRequestsCount();
-				LOG.info("Average time per request is {}ms", avgTime);
-				double avgResults = resultsCount.longValue() / (double)requestGenerator.getRequestsCount();
-				LOG.info("Average results per request is {}", avgResults);
-			}
-		} catch (InterruptedException e) {
-			LOG.error(e.getMessage());
-		}
 	}
 
 	private static long loadDocument(Engine engine, Map<String, List<Value>> document, int docId) {

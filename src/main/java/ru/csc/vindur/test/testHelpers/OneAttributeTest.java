@@ -1,14 +1,16 @@
 package ru.csc.vindur.test.testHelpers;
 
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 import java.util.concurrent.ExecutorService;
 
 import ru.csc.vindur.EngineConfig;
+import ru.csc.vindur.Request;
 import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.document.StorageType;
-import ru.csc.vindur.test.DocumentGeneratorBase;
-import ru.csc.vindur.test.RequestGeneratorBase;
+import ru.csc.vindur.document.Value;
+import ru.csc.vindur.test.GeneratorBase;
 
 public class OneAttributeTest implements TestHelper {
 	private final MultyAttributesTest testHelper;
@@ -27,12 +29,12 @@ public class OneAttributeTest implements TestHelper {
 
 
 	@Override
-	public DocumentGeneratorBase getDocumentGenerator() {
+	public GeneratorBase<Map<String, List<Value>>> getDocumentGenerator() {
 		return testHelper.getDocumentGenerator();
 	}
 
 	@Override
-	public RequestGeneratorBase getRequestGenerator() {
+	public GeneratorBase<Request> getRequestGenerator() {
 		return testHelper.getRequestGenerator();
 	}
 
