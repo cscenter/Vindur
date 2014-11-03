@@ -4,9 +4,14 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
+import java.util.concurrent.ArrayBlockingQueue;
+import java.util.concurrent.BlockingQueue;
+import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
+import java.util.concurrent.Future;
 import java.util.concurrent.TimeUnit;
+import java.util.concurrent.atomic.AtomicLong;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -81,24 +86,47 @@ public class VindurEngineTest {
 		}
 		loadingTime = null;
 
-		RequestGeneratorBase requestGenerator = helper.getRequestGenerator();
+		final RequestGeneratorBase requestGenerator = helper.getRequestGenerator();
 		
-		Stopwatch executingTime = Stopwatch.createStarted();
-		long resultsCount = 0;
-		for (Request request: requestGenerator) {
-			LOG.debug("Request generated: {}", request);
-			List<Integer> result = engine.executeRequest(request);
-			LOG.debug("Engine returned {} results", result.size());
-			resultsCount += result.size();
-		}
-		executingTime.stop();
-		if(!warmUp) {
-			LOG.info("{} request executed", requestGenerator.getRequestsCount());
-			LOG.info("Executing time is {}. Engine returned {} results", executingTime, resultsCount);
-			double avgTime = executingTime.elapsed(TimeUnit.MILLISECONDS) / (double)requestGenerator.getRequestsCount();
-			LOG.info("Average time per request is {}ms", avgTime);
-			double avgResults = resultsCount / (double)requestGenerator.getRequestsCount();
-			LOG.info("Average results per request is {}", avgResults);
+		final BlockingQueue<Future<List<Integer>>> results = new ArrayBlockingQueue<>(100); 
+		
+		final AtomicLong resultsCount = new AtomicLong();
+		
+		Thread resultsFetcher = new Thread(new Runnable() {
+			@Override
+			public void run() {
+				for(int i = 0; i < requestGenerator.getRequestsCount(); i++) {
+					try {
+						List<Integer> result = results.take().get();
+						resultsCount.addAndGet(result.size());
+						LOG.debug("Engine returned {} results", result.size());
+					} catch (InterruptedException e) {
+						LOG.error(e.getMessage());
+					} catch (ExecutionException e) {
+						LOG.error(e.getMessage());
+					}
+				}
+			}
+		});
+		try {
+			resultsFetcher.start();
+			Stopwatch executingTime = Stopwatch.createStarted();
+			for (Request request: requestGenerator) {
+				LOG.debug("Request generated: {}", request);
+				results.put(engine.executeRequestAsync(request));
+			}
+			resultsFetcher.join();
+			executingTime.stop();
+			if(!warmUp) {
+				LOG.info("{} request executed", requestGenerator.getRequestsCount());
+				LOG.info("Executing time is {}. Engine returned {} results", executingTime, resultsCount);
+				double avgTime = executingTime.elapsed(TimeUnit.MILLISECONDS) / (double)requestGenerator.getRequestsCount();
+				LOG.info("Average time per request is {}ms", avgTime);
+				double avgResults = resultsCount.longValue() / (double)requestGenerator.getRequestsCount();
+				LOG.info("Average results per request is {}", avgResults);
+			}
+		} catch (InterruptedException e) {
+			LOG.error(e.getMessage());
 		}
 	}
 
