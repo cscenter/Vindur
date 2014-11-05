@@ -39,11 +39,13 @@ public final class StorageIntegers implements Storage {
     public synchronized void add(int docId, Value value) {
         Integer newKey = Integer.parseInt(value.getValue());
 
-        for(BitSet bitSet : storage.tailMap(newKey).values()) {
-            bitSet.set(docId);
+        boolean keyFound = false;
+        for(Map.Entry<Integer, BitSet> e : storage.tailMap(newKey).entrySet()) {
+            if(e.getKey().equals(newKey)) keyFound = true;
+            e.getValue().set(docId);
         }
 
-        if(storage.containsKey(newKey)) {
+        if(keyFound) {
             return;
         }
         //otherwise we should add new record to storage
