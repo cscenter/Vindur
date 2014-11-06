@@ -3,6 +3,9 @@ package ru.csc.vindur.bitset;
 import java.util.Collection;
 import java.util.List;
 
+//TODO я тут подумал, что еще неплохо бы иметь unmodifibleBitSet - с реализацией всего, кроме set
+//И cloneable не нужен, используется только в одном месте
+
 public interface BitSet extends Cloneable {
 
 	public BitSet set(int index);
