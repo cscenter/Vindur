@@ -77,22 +77,33 @@ public class Engine {
 		return storage;
 	}
 
+    @Deprecated //асинхронность в списке запросов - не дело движка, можно и снаружи обернуть
 	public Future<List<Integer>> executeRequestAsync(Request request) {
 		return config.getExecutorService().submit(new RequestCallable(request));
 	}
 	
-    public List<Integer> executeRequest(Request request) {
-    	try {
-			return executeRequestAsync(request).get();
-		} catch (InterruptedException e) {
-			LOG.warn("Request execution canceled. Return null there. Message: {}", e.getMessage());
-			return null;
-		} catch (ExecutionException e) {
-			LOG.error("Exception when executing request. Return null there. Message: {}", e.getMessage());
-			return null;
-		}
+    public List<Integer> executeRequest(Request request)
+    {
+        BitSet resultSet = null;
+        for (RequestPart requestPart : request.getRequestParts())
+        {
+            if (resultSet == null)
+                resultSet = executeRequestPart(requestPart);
+             else
+                resultSet = resultSet.and(executeRequestPart(requestPart));
+
+            if (resultSet.cardinality() == 0)
+                return Collections.emptyList();
+        }
+
+        if (resultSet == null)
+            return Collections.emptyList();
+
+        return resultSet.toIntList();
+
     }
-    
+
+    @Deprecated //не нужно
     private class RequestCallable implements Callable<List<Integer>>{
 
 		private final Request request;
@@ -123,20 +134,26 @@ public class Engine {
 	        return resultSet.toIntList();
 		}
 
-	    private BitSet executeRequestPart(Request.RequestPart requestPart) {
-	        Storage index = columns.get(requestPart.tag);
-	        if (index == null) {
-	        	LOG.warn("Index for requested attribute {} is not created", requestPart.tag);
-	            return config.getBitSetFabric().newInstance();
-	        }
-
-	        if (requestPart.isExact) {
-	            return index.findSet(requestPart.from);
-	        }
-
-	        //TODO range request
-	        throw new RuntimeException("Range requests is not implemented");
-	    }
 
     }
+
+    private BitSet executeRequestPart(Request.RequestPart requestPart)
+    {
+        Storage index = columns.get(requestPart.tag);
+        if (index == null)
+        {
+            LOG.warn("Index for requested attribute {} is not created", requestPart.tag);
+            return config.getBitSetFabric().newInstance();
+        }
+
+        if (requestPart.isExact)
+        {
+            return index.findSet(requestPart.from);
+        }
+
+        //TODO range request
+        throw new RuntimeException("Range requests is not implemented");
+    }
+
+
 }

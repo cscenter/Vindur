@@ -1,10 +1,7 @@
 package ru.csc.vindur.test.utils;
 
-import java.util.Map;
+import java.util.*;
 import java.util.Map.Entry;
-import java.util.Random;
-import java.util.Set;
-import java.util.TreeSet;
 
 import org.apache.commons.lang.RandomStringUtils;
 
@@ -68,4 +65,15 @@ public class RandomUtils {
 		}
 		return result;
 	}
+
+
+    public static Set<String> getRandomStrings(List<String> vals, int reqAttributesCount)
+    {
+        Set<String> result = new TreeSet<>();
+        int len = vals.size();
+        while(result.size() < reqAttributesCount)
+            result.add( vals.get(random.nextInt(len)));
+        return result;
+    }
+
 }

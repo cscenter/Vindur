@@ -15,10 +15,12 @@ public class Document {
     private final ConcurrentMap<String, List<Value>> vals = new ConcurrentHashMap<>();  // attribute -> values
     private final int id;
 
+
     private Document(int id) {
         this.id = id;
     }
 
+    //Все-таки правильнее перенести генератор в Engine
     public static Document nextDocument(AtomicInteger docSequence) {
         return new Document(docSequence.incrementAndGet());
     }
