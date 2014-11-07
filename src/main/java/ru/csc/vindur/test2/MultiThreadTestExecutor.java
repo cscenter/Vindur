@@ -71,6 +71,7 @@ public class MultiThreadTestExecutor extends TestExecutor
            e.printStackTrace();
        }
 
+       service.shutdown();
        LOG.info("{} request executed for time {} and in time {}", reqNumber, allTime.get(), timer.elapsed(TimeUnit.MILLISECONDS));
        LOG.info("Average time per request is {}ms", allTime.get() / (double)reqNumber);
 
