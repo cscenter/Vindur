@@ -54,7 +54,7 @@ public class SimpleTest
             .init();
         te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newFixedThreadPool(4)));
          te.setDocumentSupplier( docSupplier(test) );
-         te.setRequestSupplier( oneAttributeRequestSupplier(test) );
+         te.setRequestSupplier( requestSupplier(test,1) );
         te.execute(1000000, 10000);
 
         LOG.info("STRING/EWH test");
@@ -64,7 +64,7 @@ public class SimpleTest
                 .init();
         te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newFixedThreadPool(4)));
          te.setDocumentSupplier( docSupplier(test) );
-         te.setRequestSupplier( oneAttributeRequestSupplier(test) );
+         te.setRequestSupplier( requestSupplier(test,1) );
         te.execute(1000000,100000);
 
         LOG.info("NUMERIC/EWH test");
@@ -74,7 +74,7 @@ public class SimpleTest
                 .init();
         te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newFixedThreadPool(4)));
         te.setDocumentSupplier( docSupplier(test) );
-        te.setRequestSupplier( oneAttributeRequestSupplier(test) );
+        te.setRequestSupplier( requestSupplier(test,1) );
         te.execute(100000, 100000);
 
         LOG.info("Complex/EWH test");
@@ -99,19 +99,6 @@ public class SimpleTest
 
     }
 
-
-    // пришлось сделать отдельный supplier из-за особенностей gaussianRandomElement
-    private static Supplier<Request> oneAttributeRequestSupplier(TestBuilder test)
-    {
-       return () ->
-       {
-            Request request = Request.build();
-            String key = test.getStorages().get(0);
-            Value val = RandomUtils.gaussianRandomElement(test.getValues(key), 0.5, 1.0 / 6);
-            request.exact(key, val.getValue());
-            return request;
-        };
-    }
 
     private static Supplier<Request> requestSupplier(final TestBuilder test, int partInRequest)
     {
