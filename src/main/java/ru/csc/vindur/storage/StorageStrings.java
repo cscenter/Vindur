@@ -47,7 +47,7 @@ public final class StorageStrings implements Storage {
 	}
 
 	@Override
-	public synchronized BitSet findSet(String strValue) {
+	public BitSet findSet(String strValue) {
 		BitSet valsSet = values.get(strValue);
 		if(valsSet == null) {
 			return bitSetFabric.newInstance();

@@ -13,7 +13,8 @@ import java.util.*;
 /**
  * Created by jetbrains on 07.11.2014.
  */
-public class SimpleTestBuilder implements TestBuilder {
+public class SimpleTestBuilder implements TestBuilder
+{
     private static final Logger LOG = LoggerFactory.getLogger(SimpleTestBuilder.class);
 
     private int attributesCount;
@@ -80,5 +81,11 @@ public class SimpleTestBuilder implements TestBuilder {
    {
        return values.get(key);
    }
+
+    @Override
+    public Double getProbability(String key)
+    {
+        return 1.0;
+    }
 
 }

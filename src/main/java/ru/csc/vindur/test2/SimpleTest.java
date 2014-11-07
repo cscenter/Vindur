@@ -11,10 +11,7 @@ import ru.csc.vindur.test.testHelpers.MultyAttributesTest;
 import ru.csc.vindur.test.testHelpers.OneAttributeTest;
 import ru.csc.vindur.test.utils.RandomUtils;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.concurrent.Executors;
 import java.util.function.Supplier;
 import java.util.stream.Collectors;
@@ -29,41 +26,43 @@ public class SimpleTest
     public static void main(String[] args)
     {
        SimpleTestBuilder test;
-       EngineConfig config;
        TestExecutor te;
 
        System.setProperty("org.slf4j.simpleLogger.defaultLogLevel", "debug");
        System.setProperty("org.slf4j.simpleLogger.log.ru.csc", "info");
 
-       LOG.info("ENUM/EWH test");
-       test = SimpleTestBuilder.build(1)
-            .setTypeFrequence(StorageType.ENUM,1.0)
-            .setValuesCount(StorageType.ENUM,100)
-            .init();
-        te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newFixedThreadPool(4)));
-         te.setDocumentSupplier( docSupplier(test) );
-         te.setRequestSupplier( oneAttributeRequestSupplier(test) );
-        te.execute(1000000, 10000);
+//       LOG.info("ENUM/EWH test");
+//       test = SimpleTestBuilder.build(1)
+//            .setTypeFrequence(StorageType.ENUM,1.0)
+//            .setValuesCount(StorageType.ENUM,100)
+//            .init();
+//        te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newFixedThreadPool(4)));
+//         te.setDocumentSupplier( docSupplier(test) );
+//         te.setRequestSupplier( oneAttributeRequestSupplier(test) );
+//        te.execute(1000000, 10000);
+//
+//        LOG.info("STRING/EWH test");
+//        test = SimpleTestBuilder.build(1)
+//                .setTypeFrequence(StorageType.STRING,1.0)
+//                .setValuesCount(StorageType.STRING,30000)
+//                .init();
+//        te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newFixedThreadPool(4)));
+//         te.setDocumentSupplier( docSupplier(test) );
+//         te.setRequestSupplier( oneAttributeRequestSupplier(test) );
+//        te.execute(1000000,100000);
+//
+//        LOG.info("NUMERIC/EWH test");
+//        test = SimpleTestBuilder.build(1)
+//                .setTypeFrequence(StorageType.NUMERIC,1.0)
+//                .setValuesCount(StorageType.NUMERIC,3000)
+//                .init();
+//        te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newFixedThreadPool(4)));
+//        te.setDocumentSupplier( docSupplier(test) );
+//        te.setRequestSupplier( oneAttributeRequestSupplier(test) );
+//        te.execute(100000, 100000);
+//
 
-        LOG.info("STRING/EWH test");
-        test = SimpleTestBuilder.build(1)
-                .setTypeFrequence(StorageType.STRING,1.0)
-                .setValuesCount(StorageType.STRING,30000)
-                .init();
-        te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newFixedThreadPool(4)));
-         te.setDocumentSupplier( docSupplier(test) );
-         te.setRequestSupplier( oneAttributeRequestSupplier(test) );
-        te.execute(1000000,100000);
 
-        LOG.info("NUMERIC/EWH test");
-        test = SimpleTestBuilder.build(1)
-                .setTypeFrequence(StorageType.NUMERIC,1.0)
-                .setValuesCount(StorageType.NUMERIC,3000)
-                .init();
-        te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newFixedThreadPool(4)));
-        te.setDocumentSupplier( docSupplier(test) );
-        te.setRequestSupplier( oneAttributeRequestSupplier(test) );
-        te.execute(100000, 100000);
 
         LOG.info("Complex/EWH test");
         test = SimpleTestBuilder.build(20)
@@ -76,8 +75,24 @@ public class SimpleTest
           .init();
         te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newFixedThreadPool(4)));
         te.setDocumentSupplier( docSupplier(test) );
-        te.setRequestSupplier( requestSupplier(test) );
+        te.setRequestSupplier( requestSupplier(test,5) );
         te.execute(100000, 100000);
+
+        te = new MultiThreadTestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newSingleThreadExecutor()),1);
+        te.setDocumentSupplier( docSupplier(test) );
+        te.setRequestSupplier( requestSupplier(test,5) );
+        te.execute(100000, 100000);
+
+        te = new MultiThreadTestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newSingleThreadExecutor()),2);
+        te.setDocumentSupplier( docSupplier(test) );
+        te.setRequestSupplier( requestSupplier(test,5) );
+        te.execute(100000, 100000);
+
+        te = new MultiThreadTestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newSingleThreadExecutor()),10);
+        te.setDocumentSupplier( docSupplier(test) );
+        te.setRequestSupplier( requestSupplier(test,5) );
+        te.execute(100000, 100000);
+
 
 //        LOG.info("Complex/EWH test");
 //        test = SimpleTestBuilder.build(10)
@@ -100,7 +115,8 @@ public class SimpleTest
     // пришлось сделать отдельный supplier из-за особенностей gaussianRandomElement
     private static Supplier<Request> oneAttributeRequestSupplier(TestBuilder test)
     {
-       return () -> {
+       return () ->
+       {
             Request request = Request.build();
             String key = test.getStorages().get(0);
             Value val = RandomUtils.gaussianRandomElement(test.getValues(key), 0.5, 1.0 / 6);
@@ -109,28 +125,29 @@ public class SimpleTest
         };
     }
 
-    private static Supplier<Request> requestSupplier(final TestBuilder test)
+    private static Supplier<Request> requestSupplier(final TestBuilder test, int partInRequest)
     {
-        return () ->
-        {
+       return () ->
+       {
             Request request = Request.build();
-            for (String attr : RandomUtils.getRandomStrings(test.getStorages(), 5)) {
+            for (String attr : RandomUtils.getRandomStrings(test.getStorages(), partInRequest)) {
                 Value val = RandomUtils.gaussianRandomElement(test.getValues(attr), 0.5, 1.0 / 6);
                 request.exact(attr, val.getValue());
             }
             return request;
-        };
+       };
     }
 
     private static Supplier<Map<String,List<Value>>> docSupplier(final TestBuilder test)
     {
+        Random random = new Random();
         return () ->
           test.getStorages().stream()
-//        .filter(e -> e.getValue().getFillFactor()< random.nextDouble()) // не каждый атрибут в этом документе
+          .filter(attr -> random.nextDouble() < test.getProbability(attr) ) // не каждый атрибут в этом документе
           .collect(Collectors.toMap
-              ( e -> e,
-                e -> list(RandomUtils.gaussianRandomElement(test.getValues(e), 0.5, 1.0 / 6))
-              )
+                          (e -> e,
+                                  e -> list(RandomUtils.gaussianRandomElement(test.getValues(e), 0.5, 1.0 / 6))
+                          )
           );
     }
 

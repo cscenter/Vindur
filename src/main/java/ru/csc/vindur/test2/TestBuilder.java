@@ -11,9 +11,29 @@ import java.util.Map;
  */
 public interface TestBuilder
 {
+    /**
+     *  All storages for EngineConfig
+     */
     Map<String,StorageType> getTypes();
 
+    //
+
+    /**
+     * @return All storages names
+     */
     List<String> getStorages();
 
+    //
+
+    /**
+     * @param key Storage name
+     * @return Available values for storage @key
+     */
     Value[] getValues(String key);
+
+    /**
+     * @param key Storage name
+     * @return Probability of existing @key storage in document
+     */
+    Double getProbability(String key);
 }

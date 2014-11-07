@@ -21,11 +21,11 @@ public class TestExecutor
 {
     private static final Logger LOG = LoggerFactory.getLogger(TestExecutor.class);
 
-    private EngineConfig engineConfig;
+    protected EngineConfig engineConfig;
     private Supplier<Map<String,List<Value>>> documentSupplier;
     private Supplier<Request> requestSupplier;
 
-    private Engine engine;
+    protected Engine engine;
 
     public TestExecutor(EngineConfig engineConfig)
     {
@@ -71,17 +71,19 @@ public class TestExecutor
         return attributesSetted;
     }
 
-    protected void requestExec(int reqNumber, Stopwatch timer)
+    protected Integer requestExec(int reqNumber, Stopwatch timer)
     {
+        int size=0;
         timer.reset();
         for (long i=0; i<reqNumber; i++)
         {
             Request request = requestSupplier.get();
             LOG.debug(" {}", request);
             timer.start();
-            engine.executeRequest(request); //даже не проверяем результат, только скорость
+            size+=engine.executeRequest(request).size(); //даже не проверяем результат, только скорость
             timer.stop();
         }
+        return size;
     }
 
     public TestExecutor setDocumentSupplier(Supplier<Map<String, List<Value>>> documentSupplier) {

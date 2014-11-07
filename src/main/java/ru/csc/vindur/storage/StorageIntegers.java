@@ -54,7 +54,7 @@ public final class StorageIntegers implements Storage {
     }
 
     @Override
-    public synchronized BitSet findSet(String strictMatch) {
+    public BitSet findSet(String strictMatch) {
         Integer key = Integer.parseInt(strictMatch);
 
         BitSet exact = storage.get(key);
