@@ -54,6 +54,8 @@ public class TinyOptimizer implements Optimizer {
 
     }
 
+
+    //todo лучше бы заменить на lamda
     private class ValueComparator implements Comparator<Request.RequestPart> {
         private Map<Request.RequestPart, Long> map;
 

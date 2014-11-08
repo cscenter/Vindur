@@ -23,6 +23,8 @@ public class Plan {
         return steps;
     }
 
+
+    //TODO эээ, не надо так с AtomicInteger. Зачем оно вообще Atomic?
     public AtomicInteger getCurrentResultSize() {
         return currentResultSize;
     }
