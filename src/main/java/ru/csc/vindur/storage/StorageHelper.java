@@ -13,7 +13,8 @@ public class StorageHelper {
         Storage storage;
         switch (valueType) {
             case NUMERIC:
-                storage = new StorageIntegers(bitSetFabric);
+                storage = new StorageBucketIntegers(bitSetFabric);
+//                storage = new StorageIntegers(bitSetFabric);
                 break;
             case ENUM:
                 storage = new StorageStrings(bitSetFabric);
