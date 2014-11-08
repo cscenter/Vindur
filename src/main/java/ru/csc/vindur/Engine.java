@@ -19,6 +19,9 @@ import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.document.Document;
 import ru.csc.vindur.document.StorageType;
 import ru.csc.vindur.document.Value;
+import ru.csc.vindur.optimizer.Optimizer;
+import ru.csc.vindur.optimizer.Plan;
+import ru.csc.vindur.optimizer.Step;
 import ru.csc.vindur.storage.RangeStorage;
 import ru.csc.vindur.storage.Storage;
 import ru.csc.vindur.storage.StorageHelper;
@@ -86,13 +89,11 @@ public class Engine {
     public List<Integer> executeRequest(Request request)
     {
         BitSet resultSet = null;
-        for (RequestPart requestPart : request.getRequestParts())
-        {
-            if (resultSet == null)
-                resultSet = executeRequestPart(requestPart);
-             else
-                resultSet = resultSet.and(executeRequestPart(requestPart));
+        Optimizer optimizer = this.config.getOptimizer();
+        Plan plan = optimizer.generatePlan(request);
 
+        for (Step step : plan.getSteps()) {
+            resultSet = step.perform(resultSet);
             if (resultSet.cardinality() == 0)
                 return Collections.emptyList();
         }
@@ -101,7 +102,21 @@ public class Engine {
             return Collections.emptyList();
 
         return resultSet.toIntList();
+    }
 
+    public BitSet executeRequestPart(Request.RequestPart requestPart) {
+        Storage index = columns.get(requestPart.getTag());
+        if (index == null) {
+            LOG.warn("Index for requested attribute {} is not created", requestPart.getTag());
+            return config.getBitSetFabric().newInstance();
+        }
+
+        if (requestPart.isExact()) return index.findSet(requestPart.getFrom());
+        else {
+            if (!(index instanceof RangeStorage))
+                throw new UnsupportedOperationException(String.format("Storage '%s' does not support range requests", requestPart.getTag()));
+            return ((RangeStorage) index).findRangeSet(requestPart.getFrom(), requestPart.getTo());
+        }
     }
 
     @Deprecated //не нужно
@@ -112,6 +127,7 @@ public class Engine {
 		public RequestCallable(Request request) {
 			this.request = request;
 		}
+
 
 		@Override
 		public List<Integer> call() {
@@ -131,34 +147,8 @@ public class Engine {
 	        if (resultSet == null) {
 	        	return Collections.emptyList();
 	        }
-	        
+
 	        return resultSet.toIntList();
 		}
-
-
     }
-
-    private BitSet executeRequestPart(Request.RequestPart requestPart)
-    {
-        Storage index = columns.get(requestPart.tag);
-        if (index == null)
-        {
-            LOG.warn("Index for requested attribute {} is not created", requestPart.tag);
-            return config.getBitSetFabric().newInstance();
-        }
-
-        if (requestPart.isExact)
-        {
-            return index.findSet(requestPart.from);
-        } else {
-            if (!(index instanceof RangeStorage)) {
-                throw new UnsupportedOperationException(
-                        String.format("Storage '%s' does not support range requests", requestPart.tag)
-                );
-            }
-            return ((RangeStorage) index).findRangeSet(requestPart.from, requestPart.to);
-        }
-    }
-
-
 }

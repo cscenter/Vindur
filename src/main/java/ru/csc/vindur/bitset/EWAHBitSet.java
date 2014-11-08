@@ -1,9 +1,9 @@
 package ru.csc.vindur.bitset;
 
+import com.googlecode.javaewah.EWAHCompressedBitmap;
+
 import java.util.Collection;
 import java.util.List;
-
-import com.googlecode.javaewah.EWAHCompressedBitmap;
 
 public class EWAHBitSet implements BitSet {
 

@@ -1,5 +1,7 @@
 package ru.csc.vindur;
 
+import com.google.common.base.Supplier;
+
 import java.util.Collection;
 import java.util.Collections;
 import java.util.HashMap;
@@ -50,12 +52,28 @@ public class Request
         return reqs.get(aspect);
     }
 
-    static class RequestPart
+    public static class RequestPart
     {
-        String tag;
-        String from;
-        String to;
-        boolean isExact;
+        private String tag;
+        private String from;
+        private String to;
+        private boolean isExact;
+
+        public boolean isExact() {
+            return isExact;
+        }
+
+        public String getTag() {
+            return tag;
+        }
+
+        public String getFrom() {
+            return from;
+        }
+
+        public String getTo() {
+            return to;
+        }
 
         @Override
         public String toString()
