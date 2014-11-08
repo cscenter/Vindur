@@ -15,7 +15,6 @@ import javax.annotation.concurrent.ThreadSafe;
  * For each attribute value stored a BitSet with every docId
  * with lower or equal attribute value
  */
-@ThreadSafe
 public final class StorageIntegers implements RangeStorage {
     private TreeMap<Integer, BitSet> storage; //key -> bitset of all smaller
     private BitSetFabric bitSetFabric;
@@ -26,17 +25,17 @@ public final class StorageIntegers implements RangeStorage {
     }
 
     @Override
-    public synchronized long size() {
+    public  long size() {
         return storage.size();
     }
 
     @Override
-    public synchronized long expectAmount(String value) {
+    public long expectAmount(String value) {
         return storage.size() / 1000;
     }
 
     @Override
-    public synchronized void add(int docId, Value value) {
+    public void add(int docId, Value value) {
         Integer newKey = Integer.parseInt(value.getValue());
 
         for(Map.Entry<Integer, BitSet> e : storage.tailMap(newKey).entrySet()) {
@@ -75,12 +74,12 @@ public final class StorageIntegers implements RangeStorage {
         }
 
         Map.Entry<Integer, BitSet> upperEntry = storage.floorEntry(highKey);
-        if(upperEntry == null) { //high is lower than lowest stored value, or storage is empty
+        if(upperEntry == null) { //highKey is lower than lowest stored value, or storage is empty
             return bitSetFabric.newInstance();
         }
 
         Map.Entry<Integer, BitSet> lowerEntry = storage.lowerEntry(lowKey);
-        if(lowerEntry == null) { //low is lower than lowest stored value
+        if(lowerEntry == null) { //lowKey is lower than lowest stored value
             return upperEntry.getValue().clone();
         }
 
