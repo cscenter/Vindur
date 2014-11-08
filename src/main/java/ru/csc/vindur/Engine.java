@@ -19,6 +19,7 @@ import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.document.Document;
 import ru.csc.vindur.document.StorageType;
 import ru.csc.vindur.document.Value;
+import ru.csc.vindur.storage.RangeStorage;
 import ru.csc.vindur.storage.Storage;
 import ru.csc.vindur.storage.StorageHelper;
 
@@ -149,10 +150,14 @@ public class Engine {
         if (requestPart.isExact)
         {
             return index.findSet(requestPart.from);
+        } else {
+            if (!(index instanceof RangeStorage)) {
+                throw new UnsupportedOperationException(
+                        String.format("Storage '%s' does not support range requests", requestPart.tag)
+                );
+            }
+            return ((RangeStorage) index).findRangeSet(requestPart.from, requestPart.to);
         }
-
-        //TODO range request
-        throw new RuntimeException("Range requests is not implemented");
     }
 
 

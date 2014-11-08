@@ -16,7 +16,7 @@ import javax.annotation.concurrent.ThreadSafe;
  * with lower or equal attribute value
  */
 @ThreadSafe
-public final class StorageIntegers implements Storage {
+public final class StorageIntegers implements RangeStorage {
     private TreeMap<Integer, BitSet> storage; //key -> bitset of all smaller
     private BitSetFabric bitSetFabric;
 
@@ -63,6 +63,29 @@ public final class StorageIntegers implements Storage {
         if(storage.firstKey().equals(key)) return exact.clone();
         BitSet low = storage.lowerEntry(key).getValue();
         return exact.xor(low);  // everything including this or lower, except lower
+    }
+
+    @Override
+    public BitSet findRangeSet(String low, String high) {
+        Integer lowKey = Integer.parseInt(low);
+        Integer highKey = Integer.parseInt(high);
+
+        if(highKey > lowKey) { //that's not good
+            return bitSetFabric.newInstance();
+        }
+
+        Map.Entry<Integer, BitSet> upperEntry = storage.floorEntry(highKey);
+        if(upperEntry == null) { //high is lower than lowest stored value, or storage is empty
+            return bitSetFabric.newInstance();
+        }
+
+        Map.Entry<Integer, BitSet> lowerEntry = storage.lowerEntry(lowKey);
+        if(lowerEntry == null) { //low is lower than lowest stored value
+            return upperEntry.getValue().clone();
+        }
+
+        //everything is alright
+        return upperEntry.getValue().xor(lowerEntry.getValue());
     }
 }
 
