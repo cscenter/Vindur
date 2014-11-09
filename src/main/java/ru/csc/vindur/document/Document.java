@@ -11,19 +11,15 @@ import javax.annotation.concurrent.ThreadSafe;
  * Created by Pavel Chursin on 05.10.2014.
  */
 @ThreadSafe
-public class Document {
+public class Document
+{
     private final ConcurrentMap<String, List<Value>> vals = new ConcurrentHashMap<>();  // attribute -> values
     private final int id;
 
-
-    private Document(int id) {
+    public Document(int id) {
         this.id = id;
     }
 
-    //Все-таки правильнее перенести генератор в Engine
-    public static Document nextDocument(AtomicInteger docSequence) {
-        return new Document(docSequence.incrementAndGet());
-    }
 
     // TODO Why do we need this method? 
     public void setAttribute(String attribute, Value value) {

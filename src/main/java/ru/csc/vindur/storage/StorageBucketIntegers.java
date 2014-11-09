@@ -10,6 +10,7 @@ import java.util.*;
  * @author Andrey Kokorev
  *         Created on 08.11.2014.
  */
+//TODO тут уже сложная логика, хочу unit-testы )
 public class StorageBucketIntegers implements RangeStorage {
     private static final Integer DEFAULT_BUCKET_SIZE = 100;
     private Integer bucketSize = 5000;
