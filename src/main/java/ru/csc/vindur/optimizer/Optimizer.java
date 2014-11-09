@@ -8,5 +8,5 @@ import ru.csc.vindur.Request;
  */
 public interface Optimizer {
     public Plan generatePlan(Request request, Engine engine);
-    public void updatePlan(Plan plan);
+    public void updatePlan(Plan plan, int currentResultSize);
 }

@@ -8,6 +8,7 @@ import ru.csc.vindur.bitset.bitsetFabric.EWAHBitSetFabric;
 import ru.csc.vindur.bitset.bitsetFabric.JavaBitSetFabric;
 import ru.csc.vindur.document.StorageType;
 import ru.csc.vindur.document.Value;
+import ru.csc.vindur.optimizer.TinyOptimizer;
 import ru.csc.vindur.test.testHelpers.MultyAttributesTest;
 import ru.csc.vindur.test.testHelpers.OneAttributeTest;
 import ru.csc.vindur.test.utils.RandomUtils;
@@ -41,7 +42,7 @@ public class SimpleTest
                 .setValuesCount(StorageType.STRING, 30)
                 .setValuesCount(StorageType.NUMERIC, 30)
                 .init();
-        te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newSingleThreadExecutor()));
+        te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newSingleThreadExecutor(), new TinyOptimizer()));
         te.setDocumentSupplier( docSupplier(test) );
         te.setRequestSupplier( requestSupplier(test,5) );
         te.execute(100000, 100000);
@@ -73,7 +74,7 @@ public class SimpleTest
                     .setTypeFrequence(StorageType.NUMERIC, 1.0)
                     .setValuesCount(StorageType.NUMERIC, 3000)
                     .init();
-            te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newFixedThreadPool(4)));
+            te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newFixedThreadPool(4), new TinyOptimizer()));
             te.setDocumentSupplier(docSupplier(test));
             te.setRequestSupplier(requestSupplier(test, 1));
             te.execute(100000, 100000);
@@ -88,13 +89,13 @@ public class SimpleTest
           .setValuesCount(StorageType.STRING, 30)
           .setValuesCount(StorageType.NUMERIC, 30)
           .init();
-        te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newFixedThreadPool(4)));
+        te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newFixedThreadPool(4), new TinyOptimizer()));
         te.setDocumentSupplier( docSupplier(test) );
         te.setRequestSupplier( requestSupplier(test,5) );
         te.execute(100000, 100000);
 
         LOG.info("Complex/EWH test in 4 threads");
-        te = new MultiThreadTestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newSingleThreadExecutor()),4);
+        te = new MultiThreadTestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newSingleThreadExecutor(), new TinyOptimizer()),4);
         te.setDocumentSupplier( docSupplier(test) );
         te.setRequestSupplier( requestSupplier(test,5) );
         te.execute(100000, 100000);

@@ -10,6 +10,7 @@ import ru.csc.vindur.Request;
 import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.document.StorageType;
 import ru.csc.vindur.document.Value;
+import ru.csc.vindur.optimizer.TinyOptimizer;
 import ru.csc.vindur.test.AttributeDescriptor;
 import ru.csc.vindur.test.GeneratorBase;
 import ru.csc.vindur.test.testHelpers.TestHelper;
@@ -301,7 +302,7 @@ public class MobilePhoneTest implements TestHelper {
             indexes.put(desc.getAttributeName(), desc.getValueType());
         }
 
-        simpleEngineConfig = new EngineConfig(indexes, bitSetFabric, null);
+        simpleEngineConfig = new EngineConfig(indexes, bitSetFabric, null, new TinyOptimizer());
         currentArt = 0;
     }
 

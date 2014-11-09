@@ -104,7 +104,7 @@ public class VindurEngineTest {
 			Stopwatch executingTime = Stopwatch.createStarted();
 			for (Request request: requestGenerator) {
 				LOG.debug("Request generated: {}", request);
-				results.put(engine.executeRequestAsync(request));
+				//results.put((Future<List<Integer>>) engine.executeRequest(request));
 			}
 			resultsFetcher.join();
 			executingTime.stop();

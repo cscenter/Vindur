@@ -1,7 +1,6 @@
 package ru.csc.vindur.optimizer;
 
 import ru.csc.vindur.Engine;
-import ru.csc.vindur.EngineConfig;
 import ru.csc.vindur.Request;
 import ru.csc.vindur.storage.Storage;
 
@@ -12,8 +11,7 @@ import java.util.*;
  */
 
 public class TinyOptimizer implements Optimizer {
-    public TinyOptimizer(Map<String, Storage> indexes) {
-
+    public TinyOptimizer() {
     }
 
     @Override
@@ -23,18 +21,17 @@ public class TinyOptimizer implements Optimizer {
          */
         List<Request.RequestPart> lr = new ArrayList<>();
         for (Request.RequestPart requestPart : request.getRequestParts()) {
-            Storage index = engine.getStorage(requestPart.getTag());
+            //todo: check if storage exists
             lr.add(requestPart);
         }
 
 
-        lr.sort((a, b) -> engine.getStorage(a.getTag()).getSize() > engine.getStorage(b.getTag()).getSize());
+        lr.sort((a, b) -> Long.compare(engine.getStorage(a.getTag()).size(), (engine.getStorage(b.getTag()).size())));
 
 
         Plan plan = new Plan();
 
         for (Request.RequestPart requestPart : lr) {
-            //Step step = entry.getValue() < 5000 ? new FilterStep(entry.getKey(), plan, engineConfig) : new PatternStep(entry.getKey(), plan, engineConfig);
             Step step = new Step(requestPart.getTag(), requestPart.getFrom(), requestPart.getFrom(), Step.Type.EXACT);
             plan.addStep(step);
         }
@@ -43,7 +40,7 @@ public class TinyOptimizer implements Optimizer {
     }
 
     @Override
-    public void updatePlan(Plan plan) {
+    public void updatePlan(Plan plan, int currentResultSize) {
 
     }
 }

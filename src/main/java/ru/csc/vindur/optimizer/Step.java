@@ -21,6 +21,23 @@ public class Step {
         this.type = type;
     }
 
+    public String getStorageName() {
+        return storageName;
+    }
+
+    public String getFrom() {
+        return from;
+    }
+
+    public String getTo() {
+        return to;
+    }
+
+    public Type getType() {
+        return type;
+    }
+
+
     public static enum Type {
         EXACT,
         RANGE;

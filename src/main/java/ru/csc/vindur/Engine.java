@@ -33,7 +33,6 @@ public class Engine
 {
 	private static final Logger LOG = LoggerFactory.getLogger(Engine.class);
     private static final StorageType DEFAULT_STORAGE_TYPE = StorageType.STRING;
-
 	private final AtomicInteger documentsSequence = new AtomicInteger(0);
     private final ConcurrentMap<String, Storage> columns = new ConcurrentHashMap<>();
     private final ConcurrentMap<Integer, Document> documents = new ConcurrentHashMap<>();
@@ -84,22 +83,21 @@ public class Engine
 		}
 		return storage;
 	}
-
-    @Deprecated //асинхронность в списке запросов - не дело движка, можно и снаружи обернуть
-	public Future<List<Integer>> executeRequestAsync(Request request) {
-		return config.getExecutorService().submit(new RequestCallable(request));
-	}
 	
     public List<Integer> executeRequest(Request request)
     {
-        BitSet resultSet = null;
+        BitSet resultSet;
         Optimizer optimizer = this.config.getOptimizer();
         Plan plan = optimizer.generatePlan(request, this);
 
-        for (Step step : plan.getSteps()) {
-            resultSet = step.perform(resultSet);
+        Step step = plan.next();
+        resultSet = executeStep(step, null);
+        while (step != null) {
+            resultSet = (executeStep(step, resultSet));
+            optimizer.updatePlan(plan, resultSet.cardinality());
             if (resultSet.cardinality() == 0)
                 return Collections.emptyList();
+            step = plan.next();
         }
 
         if (resultSet == null)
@@ -108,55 +106,32 @@ public class Engine
         return resultSet.toIntList();
     }
 
-    public BitSet executeRequestPart(Request.RequestPart requestPart) {
-        Storage index = columns.get(requestPart.getTag());
+    public BitSet executeStep(Step step, BitSet currentResultSet) {
+        Storage index = columns.get(step.getStorageName());
         if (index == null) {
-            LOG.warn("Index for requested attribute {} is not created", requestPart.getTag());
+            LOG.warn("Index for requested attribute {} is not created", step.getStorageName());
             return config.getBitSetFabric().newInstance();
         }
 
-        if (requestPart.isExact()) return index.findSet(requestPart.getFrom());
-        else {
+        if (step.getType() == Step.Type.EXACT) {
+            //todo: check if currentResultSet is null, if yes - return findSet, else - return findSet AND currentResultSet
+            if (currentResultSet == null) {
+                return index.findSet(step.getFrom());
+            } else {
+                return currentResultSet.and(index.findSet(step.getFrom()));
+            }
+        } else {
             if (!(index instanceof RangeStorage))
-                throw new UnsupportedOperationException(String.format("Storage '%s' does not support range requests", requestPart.getTag()));
-            return ((RangeStorage) index).findRangeSet(requestPart.getFrom(), requestPart.getTo());
+                throw new UnsupportedOperationException(String.format("Storage '%s' does not support range requests", step.getStorageName()));
+            if (currentResultSet == null) {
+                return ((RangeStorage) index).findRangeSet(step.getFrom(), step.getTo());
+            } else {
+                return currentResultSet.and(((RangeStorage) index).findRangeSet(step.getFrom(), step.getTo()));
+            }
         }
     }
 
     public Storage getStorage(String key) {
         return columns.get(key);
-    }
-
-    @Deprecated //не нужно
-    private class RequestCallable implements Callable<List<Integer>>{
-
-		private final Request request;
-
-		public RequestCallable(Request request) {
-			this.request = request;
-		}
-
-
-		@Override
-		public List<Integer> call() {
-	        BitSet resultSet = null;
-	        for (RequestPart requestPart : request.getRequestParts()) {
-	            if (resultSet == null) {
-	                resultSet = executeRequestPart(requestPart);
-	            } else {
-	            	resultSet = resultSet.and(executeRequestPart(requestPart));
-	            }
-
-	            if (resultSet.cardinality() == 0) {
-	            	return Collections.emptyList();
-	            }
-	        }
-
-	        if (resultSet == null) {
-	        	return Collections.emptyList();
-	        }
-
-	        return resultSet.toIntList();
-		}
     }
 }

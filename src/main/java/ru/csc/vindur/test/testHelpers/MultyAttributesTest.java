@@ -12,6 +12,7 @@ import ru.csc.vindur.Request;
 import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.document.StorageType;
 import ru.csc.vindur.document.Value;
+import ru.csc.vindur.optimizer.TinyOptimizer;
 import ru.csc.vindur.test.GeneratorBase;
 import ru.csc.vindur.test.utils.AttributeGenerator;
 import ru.csc.vindur.test.utils.RandomUtils;
@@ -34,7 +35,7 @@ public class MultyAttributesTest implements TestHelper {
 			attributeValues[i] = AttributeGenerator.generateValues(type, valuesCount.get(type));
 			indexes.put(attributeNames[i], type);
 		}
-		simpleEngineConfig = new EngineConfig(indexes, bitSetFabric, executorService);
+		simpleEngineConfig = new EngineConfig(indexes, bitSetFabric, executorService, new TinyOptimizer());
 		
 		docGenerator = new GeneratorBase<Map<String, List<Value>>>(false, documentsCount) {
 			@Override
