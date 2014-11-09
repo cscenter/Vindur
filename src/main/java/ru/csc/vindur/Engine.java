@@ -90,7 +90,7 @@ public class Engine {
     {
         BitSet resultSet = null;
         Optimizer optimizer = this.config.getOptimizer();
-        Plan plan = optimizer.generatePlan(request);
+        Plan plan = optimizer.generatePlan(request, this);
 
         for (Step step : plan.getSteps()) {
             resultSet = step.perform(resultSet);
@@ -117,6 +117,10 @@ public class Engine {
                 throw new UnsupportedOperationException(String.format("Storage '%s' does not support range requests", requestPart.getTag()));
             return ((RangeStorage) index).findRangeSet(requestPart.getFrom(), requestPart.getTo());
         }
+    }
+
+    public Storage getStorage(String key) {
+        return columns.get(key);
     }
 
     @Deprecated //не нужно

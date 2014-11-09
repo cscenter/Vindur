@@ -1,5 +1,6 @@
 package ru.csc.vindur.optimizer;
 
+import ru.csc.vindur.Engine;
 import ru.csc.vindur.EngineConfig;
 import ru.csc.vindur.Request;
 import ru.csc.vindur.storage.Storage;
@@ -11,38 +12,30 @@ import java.util.*;
  */
 
 public class TinyOptimizer implements Optimizer {
-    private Map<String, Storage> indexes;
-    private SortedMap<Request.RequestPart, Long> complexityList;
-    private final EngineConfig engineConfig;
+    public TinyOptimizer(Map<String, Storage> indexes) {
 
-    public TinyOptimizer(Map<String, Storage> indexes, EngineConfig engineConfig) {
-        this.indexes = indexes;
-        this.engineConfig = engineConfig;
     }
 
     @Override
-    public Plan generatePlan(Request request) {
+    public Plan generatePlan(Request request, Engine engine) {
         /*for each request part get index, if index is not null, get expectedAmount() else do full scan
          *(or set expectedAmount to very big constant), then sort by expectedAmount() and return such plan
          */
-        Map<Request.RequestPart, Long> unsortedComplexityList = new HashMap<>();
+        List<Request.RequestPart> lr = new ArrayList<>();
         for (Request.RequestPart requestPart : request.getRequestParts()) {
-            Storage index = indexes.get(requestPart.getTag());
-            if (index != null) {
-                unsortedComplexityList.put(requestPart, index.expectedAmount(requestPart.getFrom()));
-            } else {
-                unsortedComplexityList.put(requestPart, Long.MAX_VALUE);
-            }
+            Storage index = engine.getStorage(requestPart.getTag());
+            lr.add(requestPart);
         }
 
-        ValueComparator valueComparator = new ValueComparator(unsortedComplexityList);
-        this.complexityList = new TreeMap<>(valueComparator);
-        this.complexityList.putAll(unsortedComplexityList);
+
+        lr.sort((a, b) -> engine.getStorage(a.getTag()).getSize() > engine.getStorage(b.getTag()).getSize());
+
 
         Plan plan = new Plan();
 
-        for (Map.Entry<Request.RequestPart, Long> entry : complexityList.entrySet()) {
-            Step step = entry.getValue() < 5000 ? new FilterStep(entry.getKey(), plan, engineConfig) : new PatternStep(entry.getKey(), plan, engineConfig);
+        for (Request.RequestPart requestPart : lr) {
+            //Step step = entry.getValue() < 5000 ? new FilterStep(entry.getKey(), plan, engineConfig) : new PatternStep(entry.getKey(), plan, engineConfig);
+            Step step = new Step(requestPart.getTag(), requestPart.getFrom(), requestPart.getFrom(), Step.Type.EXACT);
             plan.addStep(step);
         }
 
@@ -52,22 +45,5 @@ public class TinyOptimizer implements Optimizer {
     @Override
     public void updatePlan(Plan plan) {
 
-    }
-
-    private class ValueComparator implements Comparator<Request.RequestPart> {
-        private Map<Request.RequestPart, Long> map;
-
-        public ValueComparator(Map<Request.RequestPart, Long> map) {
-            this.map = map;
-        }
-
-        @Override
-        public int compare(Request.RequestPart o1, Request.RequestPart o2) {
-            if (map.get(o1) >= map.get(o2)) {
-                return 1;
-            } else {
-                return -1;
-            }
-        }
     }
 }
