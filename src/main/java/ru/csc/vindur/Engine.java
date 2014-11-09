@@ -5,7 +5,6 @@ import java.util.List;
 import java.util.concurrent.Callable;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
-import java.util.concurrent.ExecutionException;
 import java.util.concurrent.Future;
 import java.util.concurrent.atomic.AtomicInteger;
 
@@ -30,9 +29,11 @@ import ru.csc.vindur.storage.StorageHelper;
  * Created by Pavel Chursin on 05.10.2014.
  */
 @ThreadSafe
-public class Engine {
+public class Engine
+{
 	private static final Logger LOG = LoggerFactory.getLogger(Engine.class);
-    private static final StorageType DEFAULT_VALUE_TYPE = StorageType.STRING;
+    private static final StorageType DEFAULT_STORAGE_TYPE = StorageType.STRING;
+
 	private final AtomicInteger documentsSequence = new AtomicInteger(0);
     private final ConcurrentMap<String, Storage> columns = new ConcurrentHashMap<>();
     private final ConcurrentMap<Integer, Document> documents = new ConcurrentHashMap<>();
@@ -42,8 +43,10 @@ public class Engine {
     	this.config = config;
     }
 
-    public int createDocument() {
-        Document document = Document.nextDocument(documentsSequence);
+    public int createDocument()
+    {
+        int nextId = documentsSequence.incrementAndGet();
+        Document document = new Document(nextId);
         documents.put(document.getId(), document);
         return document.getId();
     }
@@ -63,7 +66,8 @@ public class Engine {
         storage.add(docId, value);
     }
 
-	private Storage createStorage(String attribute) {
+	private Storage createStorage(String attribute)
+    {
 		Storage storage;
 		StorageType type = config.getValueType(attribute);
 		synchronized (this) {
@@ -72,8 +76,8 @@ public class Engine {
 				return storage;
 			}
 			if(type == null) {
-				LOG.warn("Default value type({}) used for attribute {}", DEFAULT_VALUE_TYPE, attribute);
-				type = DEFAULT_VALUE_TYPE;
+				LOG.warn("Default value type({}) used for attribute {}", DEFAULT_STORAGE_TYPE, attribute);
+				type = DEFAULT_STORAGE_TYPE;
 			}
 			storage = StorageHelper.getColumn(type, config.getBitSetFabric());
 			columns.put(attribute, storage);

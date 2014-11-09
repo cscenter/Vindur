@@ -30,11 +30,6 @@ public final class StorageStrings implements Storage {
 	}
 
 	@Override
-	public long expectAmount(String value) {
-		return currentSize.longValue() / 100 + 1;
-	}
-
-	@Override
 	public synchronized void add(int docId, Value value) {
 		String strValue = value.getValue();
 		BitSet valsSet = values.get(strValue);

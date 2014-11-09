@@ -10,26 +10,28 @@ import javax.annotation.concurrent.ThreadSafe;
 import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.document.StorageType;
 import ru.csc.vindur.optimizer.Optimizer;
+import ru.csc.vindur.optimizer.TinyOptimizer;
 
 /**
  * Created by Pavel Chursin on 05.10.2014.
  */
-@ThreadSafe
-public class EngineConfig {
+
+public class EngineConfig
+{
     private final ConcurrentMap<String, StorageType> indexes;  // attribute -> value type
     private final BitSetFabric bitSetFabric;
 	private final ExecutorService executorService;
     private final Optimizer optimizer;
 
     public EngineConfig(Map<String, StorageType> indexes, BitSetFabric bitSetFabric, ExecutorService executorService, Optimizer optimizer) {
-    	synchronized (indexes) {
+    	synchronized (indexes) { //бессмысленная синхронизация, зачем она?
             this.indexes = new ConcurrentHashMap<>(indexes);
 		}
     	this.executorService = executorService;
         this.bitSetFabric = bitSetFabric;
         this.optimizer = optimizer;
     }
-    
+
     public StorageType getValueType(String attribute) {
         return indexes.get(attribute);
     }
