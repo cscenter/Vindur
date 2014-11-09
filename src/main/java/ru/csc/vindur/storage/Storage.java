@@ -12,8 +12,7 @@ import ru.csc.vindur.document.Value;
 @ThreadSafe
 public interface Storage
 {
-    public long size(); // TODO: difference between size() and expectedAmount() ???
-    public long expectedAmount(String value);
+    public long size();
     public void add(int docId, Value value);
     public BitSet findSet(String match);
 }

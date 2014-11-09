@@ -10,6 +10,7 @@ import javax.annotation.concurrent.ThreadSafe;
 import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.document.StorageType;
 import ru.csc.vindur.optimizer.Optimizer;
+import ru.csc.vindur.optimizer.TinyOptimizer;
 
 /**
  * Created by Pavel Chursin on 05.10.2014.
@@ -29,7 +30,8 @@ public class EngineConfig {
         this.bitSetFabric = bitSetFabric;
         this.optimizer = optimizer;
     }
-    
+
+
     public StorageType getValueType(String attribute) {
         return indexes.get(attribute);
     }

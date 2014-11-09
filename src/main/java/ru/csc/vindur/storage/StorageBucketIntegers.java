@@ -29,11 +29,6 @@ public class StorageBucketIntegers implements RangeStorage {
     }
 
     @Override
-    public synchronized long expectAmount(String value) {
-        return storage.size() / 1000;
-    }
-
-    @Override
     public synchronized void add(int docId, Value value) {
         Integer newKey = Integer.parseInt(value.getValue());
         size++;

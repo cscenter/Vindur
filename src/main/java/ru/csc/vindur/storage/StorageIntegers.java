@@ -30,11 +30,6 @@ public final class StorageIntegers implements RangeStorage {
     }
 
     @Override
-    public long expectAmount(String value) {
-        return storage.size() / 1000;
-    }
-
-    @Override
     public void add(int docId, Value value) {
         Integer newKey = Integer.parseInt(value.getValue());
 

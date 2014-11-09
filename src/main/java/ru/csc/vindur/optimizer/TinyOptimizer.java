@@ -29,8 +29,8 @@ public class TinyOptimizer implements Optimizer {
         for (Request.RequestPart requestPart : request.getRequestParts()) {
             Storage index = indexes.get(requestPart.getTag());
             if (index != null) {
-                unsortedComplexityList.put(requestPart, index.expectedAmount(requestPart.getFrom()));
-            } else {
+                unsortedComplexityList.put(requestPart, index.size());
+            } else { //todo если индекса нет, как по нему можно искать. Нужно выдавать ошибку
                 unsortedComplexityList.put(requestPart, Long.MAX_VALUE);
             }
         }
