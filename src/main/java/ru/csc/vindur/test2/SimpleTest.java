@@ -113,11 +113,12 @@ public class SimpleTest
 //                        Value val1 = RandomUtils.gaussianRandomElement(test.getValues(attr), 0.5, 1.0 / 6);
 //                        Value val2 = RandomUtils.gaussianRandomElement(test.getValues(attr), 0.5, 1.0 / 6);
 //                        request.range(attr, val1.getValue(), val2.getValue());
-//                } else
-                {
+//                }
+//                else
+                  {
                         Value val = RandomUtils.gaussianRandomElement(test.getValues(attr), 0.5, 1.0 / 6);
                         request.exact(attr, val.getValue());
-                }
+                  }
             }
            return request;
        };
