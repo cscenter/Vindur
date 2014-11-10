@@ -55,33 +55,29 @@ public class Engine
             throw new IllegalArgumentException("There is no such document");
         }
         
-        Storage storage = columns.get(attribute);
-
-        if(storage == null) {
-    		// Contains Double checked locking inside
-        	storage = createStorage(attribute);
-        }
+        Storage storage = findStorage(attribute);
         documents.get(docId).setAttribute(attribute, value);
         storage.add(docId, value);
     }
 
-	private Storage createStorage(String attribute)
+    /**
+     * А если storage нету, то создаем новый
+     * @param attribute
+     * @return
+     */
+	private Storage findStorage(String attribute)
     {
 		Storage storage;
-		StorageType type = config.getValueType(attribute);
-		synchronized (this) {
-			storage = columns.get(attribute);
-			if(storage != null) {
-				return storage;
-			}
-			if(type == null) {
-				LOG.warn("Default value type({}) used for attribute {}", DEFAULT_STORAGE_TYPE, attribute);
-				type = DEFAULT_STORAGE_TYPE;
-			}
-			storage = StorageHelper.getColumn(type, config.getBitSetFabric());
-			columns.put(attribute, storage);
-		}
-		return storage;
+        storage = columns.get(attribute);
+        if (storage==null)
+        {
+            StorageType type = config.getValueType(attribute);
+            if (type==null) type=DEFAULT_STORAGE_TYPE;
+            Storage newStorage = StorageHelper.getColumn(type, config.getBitSetFabric());
+            columns.put(attribute,newStorage);
+            storage = newStorage;
+        }
+        return storage;
 	}
 	
     public List<Integer> executeRequest(Request request)
@@ -91,9 +87,10 @@ public class Engine
         Plan plan = optimizer.generatePlan(request, this);
 
         Step step = plan.next();
-        resultSet = executeStep(step, null);
-        while (step != null) {
-            resultSet = (executeStep(step, resultSet));
+        resultSet = null;
+        while (step != null)
+        {
+            resultSet = executeStep(step, resultSet);
             optimizer.updatePlan(plan, resultSet.cardinality());
             if (resultSet.cardinality() == 0)
                 return Collections.emptyList();
@@ -106,32 +103,22 @@ public class Engine
         return resultSet.toIntList();
     }
 
-    public BitSet executeStep(Step step, BitSet currentResultSet) {
-        Storage index = columns.get(step.getStorageName());
-        if (index == null) {
-            LOG.warn("Index for requested attribute {} is not created", step.getStorageName());
-            return config.getBitSetFabric().newInstance();
+    public BitSet executeStep(Step step, BitSet currentResultSet)
+    {
+        //todo добавить проверки на соответствие шагов и storage. Увы, в оптимизатор не вытащить (
+        Storage index = findStorage(step.getStorageName());
+        BitSet r = null;
+        switch (step.getType())
+        {
+            case EXACT: r = index.findSet(step.getFrom()); break;
+            case RANGE: r= ((RangeStorage) index).findRangeSet(step.getFrom(), step.getTo());
         }
-
-        if (step.getType() == Step.Type.EXACT) {
-            //todo: check if currentResultSet is null, if yes - return findSet, else - return findSet AND currentResultSet
-            if (currentResultSet == null) {
-                return index.findSet(step.getFrom());
-            } else {
-                return currentResultSet.and(index.findSet(step.getFrom()));
-            }
-        } else {
-            if (!(index instanceof RangeStorage))
-                throw new UnsupportedOperationException(String.format("Storage '%s' does not support range requests", step.getStorageName()));
-            if (currentResultSet == null) {
-                return ((RangeStorage) index).findRangeSet(step.getFrom(), step.getTo());
-            } else {
-                return currentResultSet.and(((RangeStorage) index).findRangeSet(step.getFrom(), step.getTo()));
-            }
-        }
+        if (currentResultSet==null) return r.clone(); //копия первого запроса, на нее будем накладывать фильтры
+        return currentResultSet.and(r);
     }
 
-    public Storage getStorage(String key) {
-        return columns.get(key);
+    public Storage getStorage(String attribute)
+    {
+        return findStorage(attribute);
     }
 }

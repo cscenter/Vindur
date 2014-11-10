@@ -19,11 +19,9 @@ public class Plan {
         steps.add(step);
     }
 
-    public Step next() {
-        if (steps.size() >= currentStep) {
-            return null;
-        } else {
-            return steps.get(currentStep++);
-        }
+    public Step next()
+    {
+        if (currentStep >= steps.size() ) return null;
+        return steps.get(currentStep++);
     }
 }

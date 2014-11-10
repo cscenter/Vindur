@@ -45,8 +45,9 @@ public class TestExecutor
         LOG.info("Loading time is {}, average time is {}ms", timer, timer.elapsed(TimeUnit.MILLISECONDS) / (double)docNumber );
 
         //run executors
-        requestExec(reqNumber,timer);
-        LOG.info("{} request executed for time {}", reqNumber, timer.elapsed(TimeUnit.MILLISECONDS));
+        long reqSize;
+        reqSize=requestExec(reqNumber,timer);
+        LOG.info("{} request executed for time {} with records {}", reqNumber, timer.elapsed(TimeUnit.MILLISECONDS), reqSize);
         LOG.info("Average time per request is {}ms", timer.elapsed(TimeUnit.MILLISECONDS) / (double)reqNumber);
     }
 

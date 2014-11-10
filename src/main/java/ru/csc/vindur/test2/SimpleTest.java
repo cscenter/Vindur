@@ -5,12 +5,9 @@ import org.slf4j.LoggerFactory;
 import ru.csc.vindur.EngineConfig;
 import ru.csc.vindur.Request;
 import ru.csc.vindur.bitset.bitsetFabric.EWAHBitSetFabric;
-import ru.csc.vindur.bitset.bitsetFabric.JavaBitSetFabric;
 import ru.csc.vindur.document.StorageType;
 import ru.csc.vindur.document.Value;
 import ru.csc.vindur.optimizer.TinyOptimizer;
-import ru.csc.vindur.test.testHelpers.MultyAttributesTest;
-import ru.csc.vindur.test.testHelpers.OneAttributeTest;
 import ru.csc.vindur.test.utils.RandomUtils;
 
 import java.util.*;
@@ -48,37 +45,38 @@ public class SimpleTest
         te.execute(100000, 100000);
        //
 
-//       System.setProperty("org.slf4j.simpleLogger.log.ru.csc", "info");
-//       LOG.info("ENUM/EWH test");
-//       test = SimpleTestBuilder.build(1)
-//            .setTypeFrequence(StorageType.ENUM,1.0)
-//            .setValuesCount(StorageType.ENUM,100)
-//            .init();
-//        te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newFixedThreadPool(4)));
-//         te.setDocumentSupplier( docSupplier(test) );
-//         te.setRequestSupplier( requestSupplier(test,1) );
-//        te.execute(1000000, 10000);
-//
-//        LOG.info("STRING/EWH test");
-//        test = SimpleTestBuilder.build(1)
-//                .setTypeFrequence(StorageType.STRING,1.0)
-//                .setValuesCount(StorageType.STRING,30000)
-//                .init();
-//        te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newFixedThreadPool(4)));
-//         te.setDocumentSupplier( docSupplier(test) );
-//         te.setRequestSupplier( requestSupplier(test,1) );
-//        te.execute(1000000,100000);
-        for(int i = 0; i < 100; i++) {
-            LOG.info("NUMERIC/EWH test");
-            test = SimpleTestBuilder.build(1)
-                    .setTypeFrequence(StorageType.NUMERIC, 1.0)
-                    .setValuesCount(StorageType.NUMERIC, 3000)
-                    .init();
-            te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newFixedThreadPool(4), new TinyOptimizer()));
-            te.setDocumentSupplier(docSupplier(test));
-            te.setRequestSupplier(requestSupplier(test, 1));
-            te.execute(100000, 100000);
-        }
+       System.setProperty("org.slf4j.simpleLogger.log.ru.csc", "info");
+       LOG.info("ENUM/EWH test");
+       test = SimpleTestBuilder.build(1)
+            .setTypeFrequence(StorageType.ENUM,1.0)
+            .setValuesCount(StorageType.ENUM,100)
+            .init();
+        te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newFixedThreadPool(4),new TinyOptimizer()));
+         te.setDocumentSupplier( docSupplier(test) );
+         te.setRequestSupplier( requestSupplier(test,1) );
+        te.execute(1000000, 10000);
+
+        LOG.info("STRING/EWH test");
+        test = SimpleTestBuilder.build(1)
+                .setTypeFrequence(StorageType.STRING,1.0)
+                .setValuesCount(StorageType.STRING,30000)
+                .init();
+        te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newFixedThreadPool(4),new TinyOptimizer()));
+         te.setDocumentSupplier( docSupplier(test) );
+         te.setRequestSupplier( requestSupplier(test,1) );
+        te.execute(1000000,100000);
+
+//        for(int i = 0; i < 100; i++) {
+//            LOG.info("NUMERIC/EWH test");
+//            test = SimpleTestBuilder.build(1)
+//                    .setTypeFrequence(StorageType.NUMERIC, 1.0)
+//                    .setValuesCount(StorageType.NUMERIC, 3000)
+//                    .init();
+//            te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newFixedThreadPool(4), new TinyOptimizer()));
+//            te.setDocumentSupplier(docSupplier(test));
+//            te.setRequestSupplier(requestSupplier(test, 1));
+//            te.execute(100000, 100000);
+//        }
 
         LOG.info("Complex/EWH test");
         test = SimpleTestBuilder.build(20)
@@ -108,19 +106,20 @@ public class SimpleTest
        return () ->
        {
             Request request = Request.build();
-            for (String attr : RandomUtils.getRandomStrings(test.getStorages(), partInRequest)) {
-                if(test.getTypes().get(attr) == StorageType.NUMERIC) {
-                    if(Math.random() > 0.5) {
-                        Value val1 = RandomUtils.gaussianRandomElement(test.getValues(attr), 0.5, 1.0 / 6);
-                        Value val2 = RandomUtils.gaussianRandomElement(test.getValues(attr), 0.5, 1.0 / 6);
-                        request.range(attr, val1.getValue(), val2.getValue());
-                    } else {
+            for (String attr : RandomUtils.getRandomStrings(test.getStorages(), partInRequest))
+            {
+//                if ( (test.getTypes().get(attr) == StorageType.NUMERIC) && (Math.random() > 0.5))
+//                {
+//                        Value val1 = RandomUtils.gaussianRandomElement(test.getValues(attr), 0.5, 1.0 / 6);
+//                        Value val2 = RandomUtils.gaussianRandomElement(test.getValues(attr), 0.5, 1.0 / 6);
+//                        request.range(attr, val1.getValue(), val2.getValue());
+//                } else
+                {
                         Value val = RandomUtils.gaussianRandomElement(test.getValues(attr), 0.5, 1.0 / 6);
                         request.exact(attr, val.getValue());
-                    }
                 }
             }
-            return request;
+           return request;
        };
     }
 
@@ -132,7 +131,7 @@ public class SimpleTest
           .filter(attr -> random.nextDouble() < test.getProbability(attr) ) // не каждый атрибут в этом документе
           .collect(Collectors.toMap
                           (e -> e,
-                                  e -> list(RandomUtils.gaussianRandomElement(test.getValues(e), 0.5, 1.0 / 6))
+                           e -> list(RandomUtils.gaussianRandomElement(test.getValues(e), 0.5, 1.0 / 6))
                           )
           );
     }
