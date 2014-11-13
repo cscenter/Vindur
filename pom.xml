@@ -20,6 +20,10 @@
     <groupId>njord</groupId>
     <artifactId>engine</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <configuration>
+          <source>8</source>
+          <target>8</target>
+    </configuration>
 
     <dependencies>
     	<dependency>
