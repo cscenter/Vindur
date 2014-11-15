@@ -14,7 +14,7 @@ import java.util.Map.Entry;
 //TODO тут уже сложная логика, хочу unit-testы )
 public class StorageBucketIntegers implements RangeStorage {
     private static final Integer DEFAULT_BUCKET_SIZE = 100;
-    private Integer bucketSize = 5000;
+    private final Integer bucketSize;
     private HashMap<Integer, TreeMap<Integer, BitSet>> storage; //key hash -> bucket(key -> bitset of all smaller or eq)
     private BitSetFabric bitSetFabric;
     private int size = 0;
@@ -81,12 +81,12 @@ public class StorageBucketIntegers implements RangeStorage {
         Integer lowKey = Integer.parseInt(low);
         Integer highKey = Integer.parseInt(high);
 
-        if(highKey > lowKey) { //that's not good
+        if(highKey < lowKey) { //that's not good
             return bitSetFabric.newInstance();
         }
 
-        BitSet h = lowerOrEqualFromBucket(highKey);
-        BitSet l = higherOrEqualFromBucket(lowKey);
+        BitSet h = floorFromBucket(highKey);
+        BitSet l = lowerFromBucket(lowKey);
 
         Integer upperBucket = getBucketNum(highKey);
         Integer lowerBucket = getBucketNum(lowKey);
@@ -94,8 +94,11 @@ public class StorageBucketIntegers implements RangeStorage {
             return h.xor(l); // return intersection
         }
 
-        BitSet result = h.or(l);
-        //Everything in middle buckets
+        // Get all from l to last record in lower bucket
+        BitSet lowerBucketLast = storage.get(lowerBucket).lastEntry().getValue();
+        BitSet result = h.or(l.xor(lowerBucketLast));
+        
+        //Get all in middle buckets
         for(int i = lowerBucket + 1; i < upperBucket; i++) {
             TreeMap<Integer, BitSet> bucket = storage.get(i);
             if(bucket == null) continue;
@@ -106,7 +109,7 @@ public class StorageBucketIntegers implements RangeStorage {
         return result;
     }
 
-    private BitSet lowerOrEqualFromBucket(Integer key) {
+    private BitSet floorFromBucket(Integer key) {
         TreeMap<Integer, BitSet> bucket = getBucket(key);
         if(bucket == null) return bitSetFabric.newInstance();
 
@@ -117,11 +120,11 @@ public class StorageBucketIntegers implements RangeStorage {
         return upperEntry.getValue();
     }
 
-    private BitSet higherOrEqualFromBucket(Integer key) {
+    private BitSet lowerFromBucket(Integer key) {
         TreeMap<Integer, BitSet> bucket = getBucket(key);
         if(bucket == null) return bitSetFabric.newInstance();
 
-        Map.Entry<Integer, BitSet> lowerEntry = bucket.ceilingEntry(key);
+        Map.Entry<Integer, BitSet> lowerEntry = bucket.lowerEntry(key);
         if(lowerEntry == null) { //high is lower than lowest stored value, or storage is empty
             return bitSetFabric.newInstance();
         }
