@@ -1,6 +1,7 @@
 package ru.csc.vindur.storage;
 
 import ru.csc.vindur.bitset.BitSet;
+import ru.csc.vindur.bitset.ROBitSet;
 import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.document.Value;
 
@@ -53,7 +54,7 @@ public final class StorageIntegers implements RangeStorage {
     }
 
     @Override
-    public BitSet findSet(String strictMatch) {
+    public ROBitSet findSet(String strictMatch) {
         Integer key = Integer.parseInt(strictMatch);
 
         BitSet exact = storage.get(key);
@@ -65,7 +66,7 @@ public final class StorageIntegers implements RangeStorage {
     }
 
     @Override
-    public BitSet findRangeSet(String low, String high) {
+    public ROBitSet findRangeSet(String low, String high) {
         Integer lowKey = Integer.parseInt(low);
         Integer highKey = Integer.parseInt(high);
 

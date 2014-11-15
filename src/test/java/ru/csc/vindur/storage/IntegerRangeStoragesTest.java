@@ -10,6 +10,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 import ru.csc.vindur.bitset.BitSet;
+import ru.csc.vindur.bitset.ROBitSet;
 import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.bitset.bitsetFabric.EWAHBitSetFabric;
 import ru.csc.vindur.document.Value;
@@ -65,8 +66,8 @@ public class IntegerRangeStoragesTest {
         
         for(int i = 0; i < VALUES_COUNT; i ++) {
         	int match = random.nextInt(VALUES_COUNT);
-        	BitSet expected = bitSetFabric.newInstance().set(match);
-        	BitSet actual = storage.findRangeSet(Integer.toString(match), Integer.toString(match));
+        	ROBitSet expected = bitSetFabric.newInstance().set(match);
+        	ROBitSet actual = storage.findRangeSet(Integer.toString(match), Integer.toString(match));
             assertEquals(expected, actual);
         }
 

@@ -25,7 +25,7 @@ public class EWAHBitSet implements BitSet {
 	}
 
 	@Override
-	public BitSet and(BitSet other) {
+	public BitSet and(ROBitSet other) {
 		EWAHCompressedBitmap otherBitSet = ((EWAHBitSet) other).bitSet;
 		return new EWAHBitSet(bitSet.and(otherBitSet));
 	}
@@ -47,13 +47,13 @@ public class EWAHBitSet implements BitSet {
 	}
 
 	@Override
-	public BitSet or(BitSet other) {
+	public BitSet or(ROBitSet other) {
 		EWAHCompressedBitmap otherBitSet = ((EWAHBitSet) other).bitSet;
 		return new EWAHBitSet(bitSet.or(otherBitSet));
 	}
 
     @Override
-    public BitSet xor(BitSet other) {
+    public BitSet xor(ROBitSet other) {
         EWAHCompressedBitmap otherBitSet = ((EWAHBitSet) other).bitSet;
         return new EWAHBitSet(bitSet.xor(otherBitSet));
     }

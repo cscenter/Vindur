@@ -4,27 +4,22 @@ import java.util.Collection;
 import java.util.List;
 
 //TODO я тут подумал, что еще неплохо бы иметь unmodifibleBitSet - с реализацией всего, кроме set
-//И cloneable не нужен, используется только в одном месте
 
-public interface BitSet {
+public interface BitSet extends ROBitSet {
 
 	public BitSet set(int index);
 	
 	public BitSet set(Collection<Integer> collection);
-	
-	/**
-	 * List is guaranteed to be sorted by index
-	 * @return sorted by index collection of setted bits
-	 */
-	public List<Integer> toIntList();
 
-	public int cardinality();
+    @Override
+    public BitSet and(ROBitSet other);
 
-	public BitSet and(BitSet other);
-	
-	public BitSet or(BitSet docsBitSet);
+    @Override
+    public BitSet or(ROBitSet docsBitSet);
 
-    public BitSet xor(BitSet other);
-    
+    @Override
+    public BitSet xor(ROBitSet other);
+
+    @Override
     public BitSet copy();
 }

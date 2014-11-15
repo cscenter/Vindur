@@ -35,7 +35,7 @@ public class JavaBitSet implements BitSet
 	}
 
 	@Override
-	public BitSet and(BitSet other) {
+	public BitSet and(ROBitSet other) {
 		java.util.BitSet otherBitSet = ((JavaBitSet) other).bitSet;
 		bitSet.and(otherBitSet);
 		return this;
@@ -54,14 +54,14 @@ public class JavaBitSet implements BitSet
 	}
 
 	@Override
-	public BitSet or(BitSet other) {
+	public BitSet or(ROBitSet other) {
 		java.util.BitSet otherBitSet = ((JavaBitSet) other).bitSet;
 		bitSet.or(otherBitSet);
 		return this;
 	}
 
     @Override
-    public BitSet xor(BitSet other) {
+    public BitSet xor(ROBitSet other) {
         java.util.BitSet otherBitSet = ((JavaBitSet) other).bitSet;
         bitSet.xor(otherBitSet);
         return this;

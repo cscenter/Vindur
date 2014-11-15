@@ -12,6 +12,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import ru.csc.vindur.bitset.BitSet;
+import ru.csc.vindur.bitset.ROBitSet;
 import ru.csc.vindur.document.Document;
 import ru.csc.vindur.document.StorageType;
 import ru.csc.vindur.document.Value;
@@ -79,7 +80,7 @@ public class Engine
 	
     public List<Integer> executeRequest(Request request)
     {
-        BitSet resultSet;
+        ROBitSet resultSet;
         Optimizer optimizer = this.config.getOptimizer();
         Plan plan = optimizer.generatePlan(request, this);
 
@@ -100,11 +101,11 @@ public class Engine
         return resultSet.toIntList();
     }
 
-    public BitSet executeStep(Step step, BitSet currentResultSet)
+    public ROBitSet executeStep(Step step, ROBitSet currentResultSet)
     {
         //todo добавить проверки на соответствие шагов и storage. Увы, в оптимизатор не вытащить (
         Storage index = findStorage(step.getStorageName());
-        BitSet r = null;
+        ROBitSet r = null;
         switch (step.getType())
         {
             case EXACT: r = index.findSet(step.getFrom()); break;
