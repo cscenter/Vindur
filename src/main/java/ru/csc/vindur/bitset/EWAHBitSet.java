@@ -58,7 +58,7 @@ public class EWAHBitSet implements BitSet {
         return new EWAHBitSet(bitSet.xor(otherBitSet));
     }
     
-    public BitSet clone() {
+    public BitSet copy() {
     	return new EWAHBitSet(this.bitSet.clone());
     }
 

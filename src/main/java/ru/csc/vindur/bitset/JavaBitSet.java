@@ -67,7 +67,7 @@ public class JavaBitSet implements BitSet
         return this;
     }
 
-    public BitSet clone() {
+    public BitSet copy() {
     	return new JavaBitSet((java.util.BitSet) bitSet.clone());
     }
 
