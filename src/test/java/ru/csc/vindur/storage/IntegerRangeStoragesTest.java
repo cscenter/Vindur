@@ -17,6 +17,7 @@ public class IntegerRangeStoragesTest {
 	private static final int VALUES_COUNT = 1000;
 	private BitSetFabric bitSetFabric;
 	private List<RangeStorage> storages;
+
 	@Before
 	public void createStorage() {
 		bitSetFabric = new EWAHBitSetFabric();
@@ -24,8 +25,32 @@ public class IntegerRangeStoragesTest {
 		storages.add(new StorageBucketIntegers(bitSetFabric));
 		storages.add(new StorageIntegers(bitSetFabric));
 	}
+
+    @Test
+    public void simpleRequestTest() {
+        for(int i = 0; i < VALUES_COUNT; i ++) {
+            for(RangeStorage storage: storages) {
+                storage.add(i, new Value(Integer.toString(i)));
+            }
+        }
+
+        for(int i = 0; i < VALUES_COUNT; i ++) {
+            for(RangeStorage storage: storages) {
+                assertEquals(bitSetFabric.newInstance().set(i), storage.findSet(Integer.toString(i)));
+            }
+        }
+
+        int val = (int) (Math.random() * VALUES_COUNT);
+
+        BitSet expected = bitSetFabric.newInstance();
+        expected.set(val);
+        for(RangeStorage storage: storages) {
+            assertEquals(expected, storage.findSet(Integer.toString(val)));
+        }
+    }
+
 	@Test
-	public void simpleTest() {
+	public void simpleRangeRequestTest() {
 		for(int i = 0; i < VALUES_COUNT; i ++) {
 			for(RangeStorage storage: storages) {
 				storage.add(i, new Value(Integer.toString(i)));
@@ -49,4 +74,35 @@ public class IntegerRangeStoragesTest {
 			assertEquals(expected, storage.findRangeSet(Integer.toString(from), Integer.toString(to)));
 		}
 	}
+
+    @Test
+    public void emptyResultTest()
+    {
+        for(int i = 0; i < VALUES_COUNT; i++)
+        {
+            for(RangeStorage storage: storages) {
+                storage.add(i, new Value(Integer.toString(i)));
+            }
+        }
+
+        for(int i = 0; i < VALUES_COUNT; i++)
+        {
+            for(RangeStorage storage: storages) {
+                assertEquals(bitSetFabric.newInstance().set(i), storage.findSet(Integer.toString(i)));
+            }
+        }
+
+        int from = VALUES_COUNT + 1;
+        int to = VALUES_COUNT + 1;
+
+        BitSet expected = bitSetFabric.newInstance();
+
+        for(RangeStorage storage: storages) {
+            assertEquals(expected, storage.findRangeSet(Integer.toString(from), Integer.toString(to)));
+        }
+
+        for(RangeStorage storage: storages) {
+            assertEquals(expected, storage.findSet(Integer.toString(from)));
+        }
+    }
 }
