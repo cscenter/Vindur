@@ -43,7 +43,7 @@ public class SimpleTest
         te.setDocumentSupplier( docSupplier(test) );
         te.setRequestSupplier( requestSupplier(test,5) );
         te.execute(100000, 100000);
-       //
+
 
        System.setProperty("org.slf4j.simpleLogger.log.ru.csc", "info");
        LOG.info("ENUM/EWH test");
@@ -66,17 +66,15 @@ public class SimpleTest
          te.setRequestSupplier( requestSupplier(test,1) );
         te.execute(1000000,100000);
 
-//        for(int i = 0; i < 100; i++) {
-//            LOG.info("NUMERIC/EWH test");
-//            test = SimpleTestBuilder.build(1)
-//                    .setTypeFrequence(StorageType.NUMERIC, 1.0)
-//                    .setValuesCount(StorageType.NUMERIC, 3000)
-//                    .init();
-//            te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newFixedThreadPool(4), new TinyOptimizer()));
-//            te.setDocumentSupplier(docSupplier(test));
-//            te.setRequestSupplier(requestSupplier(test, 1));
-//            te.execute(100000, 100000);
-//        }
+        LOG.info("NUMERIC/EWH test");
+        test = SimpleTestBuilder.build(1)
+                .setTypeFrequence(StorageType.NUMERIC, 1.0)
+                .setValuesCount(StorageType.NUMERIC, 3000)
+                .init();
+        te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newFixedThreadPool(4), new TinyOptimizer()));
+        te.setDocumentSupplier(docSupplier(test));
+        te.setRequestSupplier(requestSupplier(test, 1));
+        te.execute(100000, 100000);
 
         LOG.info("Complex/EWH test");
         test = SimpleTestBuilder.build(20)

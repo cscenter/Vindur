@@ -4,6 +4,7 @@ import static org.junit.Assert.*;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Random;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -40,7 +41,7 @@ public class IntegerRangeStoragesTest {
             }
         }
 
-        int val = (int) (Math.random() * VALUES_COUNT);
+        int val = new Random().nextInt(VALUES_COUNT);
 
         BitSet expected = bitSetFabric.newInstance();
         expected.set(val);
