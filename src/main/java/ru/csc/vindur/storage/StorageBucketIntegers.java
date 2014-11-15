@@ -95,8 +95,12 @@ public class StorageBucketIntegers implements RangeStorage {
         }
 
         // Get all from l to last record in lower bucket
-        BitSet lowerBucketLast = storage.get(lowerBucket).lastEntry().getValue();
-        BitSet result = h.or(l.xor(lowerBucketLast));
+        TreeMap<Integer, BitSet> lowerBuc = storage.get(lowerBucket);
+        BitSet result = h;
+        if(lowerBuc != null) {
+	        BitSet lowerBucketLast = lowerBuc.lastEntry().getValue();
+	        result = result.or(l.xor(lowerBucketLast));
+        }
         
         //Get all in middle buckets
         for(int i = lowerBucket + 1; i < upperBucket; i++) {
