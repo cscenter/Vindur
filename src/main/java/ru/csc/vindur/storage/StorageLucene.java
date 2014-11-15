@@ -31,24 +31,23 @@ public class StorageLucene implements Storage {
 	private static final String VALUE_FIELD_NAME = "text";
 	private final Directory luceneIndex;
 	private final BitSetFabric bitSetFabric;
+	private final AtomicInteger activeSearches = new AtomicInteger(0);
+	private final AtomicInteger activeWrites = new AtomicInteger(0);
+	private final AtomicInteger documentsCount = new AtomicInteger(0);
+	private final WhitespaceAnalyzer analyzer;
 	private IndexSearcher searcher;
 	private IndexWriter indexWriter;
 	private DirectoryReader indexReader;
-	private AtomicInteger activeSearches = new AtomicInteger(0);
-	private AtomicInteger activeWrites = new AtomicInteger(0);
-	private final WhitespaceAnalyzer analyzer;
 
 	public StorageLucene(BitSetFabric bitSetFabric) {
 		this.bitSetFabric = bitSetFabric;
 		luceneIndex = new RAMDirectory();
-
 		analyzer = new WhitespaceAnalyzer();
 	}
 
 	@Override
 	public long size() {
-		// TODO
-		return 0;
+		return documentsCount.longValue();
 	}
 
 	@Override
@@ -67,6 +66,7 @@ public class StorageLucene implements Storage {
 				}
 			}
 			indexWriter.addDocument(newDocument);
+			documentsCount.incrementAndGet();
 			activeWrites.decrementAndGet();
 		} catch (IOException e) {
 			// TODO investigate this
@@ -107,8 +107,7 @@ public class StorageLucene implements Storage {
 			try {
 				Query q = new QueryParser(VALUE_FIELD_NAME, analyzer).parse(match);
 				BitSet result = bitSetFabric.newInstance();
-				// TODO change 100 to documents count or some reasonable value
-				for (ScoreDoc doc : searcher.search(q, 100).scoreDocs) {
+				for (ScoreDoc doc : searcher.search(q, documentsCount.get()).scoreDocs) {
 					IndexableField f = indexReader.document(doc.doc).getField(
 							ID_FIELD_NAME);
 					result.set(f.numericValue().intValue());
