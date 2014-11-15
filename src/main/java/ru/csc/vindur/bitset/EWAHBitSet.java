@@ -86,4 +86,9 @@ public class EWAHBitSet implements BitSet {
 			return false;
 		return true;
 	}
+
+	@Override
+	public String toString() {
+		return bitSet.toString();
+	}
 }

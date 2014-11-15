@@ -5,6 +5,7 @@ import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.document.Value;
 
 import java.util.*;
+import java.util.Map.Entry;
 
 /**
  * @author Andrey Kokorev
@@ -48,7 +49,13 @@ public class StorageBucketIntegers implements RangeStorage {
             return;
         }
         //otherwise we should add new record to storage
-        BitSet bitSet = bitSetFabric.newInstance();
+        Entry<Integer, BitSet> lowerEntry = bucket.lowerEntry(newKey);
+        BitSet bitSet;
+        if(lowerEntry == null) {
+        	bitSet = bitSetFabric.newInstance();
+        } else {
+        	bitSet = lowerEntry.getValue().clone();
+        }
         bitSet.set(docId);
 
         bucket.put(newKey, bitSet);
