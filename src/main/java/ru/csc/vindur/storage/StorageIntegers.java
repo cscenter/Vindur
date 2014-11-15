@@ -45,7 +45,7 @@ public final class StorageIntegers implements RangeStorage {
         if(lowerEntry == null) {
         	bitSet = bitSetFabric.newInstance();
         } else {
-        	bitSet = lowerEntry.getValue().clone();
+        	bitSet = lowerEntry.getValue().copy();
         }
         bitSet.set(docId);
 
@@ -59,7 +59,7 @@ public final class StorageIntegers implements RangeStorage {
         BitSet exact = storage.get(key);
         if(exact == null) return bitSetFabric.newInstance();
 
-        if(storage.firstKey().equals(key)) return exact.clone();
+        if(storage.firstKey().equals(key)) return exact.copy();
         BitSet low = storage.lowerEntry(key).getValue();
         return exact.xor(low);  // everything including this or lower, except lower
     }
@@ -80,7 +80,7 @@ public final class StorageIntegers implements RangeStorage {
 
         Map.Entry<Integer, BitSet> lowerEntry = storage.lowerEntry(lowKey);
         if(lowerEntry == null) { //lowKey is lower than lowest stored value
-            return upperEntry.getValue().clone();
+            return upperEntry.getValue().copy();
         }
 
         //everything is alright

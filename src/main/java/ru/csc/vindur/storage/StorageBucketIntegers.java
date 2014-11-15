@@ -54,7 +54,7 @@ public class StorageBucketIntegers implements RangeStorage {
         if(lowerEntry == null) {
         	bitSet = bitSetFabric.newInstance();
         } else {
-        	bitSet = lowerEntry.getValue().clone();
+        	bitSet = lowerEntry.getValue().copy();
         }
         bitSet.set(docId);
 
@@ -71,7 +71,7 @@ public class StorageBucketIntegers implements RangeStorage {
         BitSet exact = bucket.get(key);
         if(exact == null) return bitSetFabric.newInstance();
 
-        if(bucket.firstKey().equals(key)) return exact.clone();
+        if(bucket.firstKey().equals(key)) return exact.copy();
         BitSet low = bucket.lowerEntry(key).getValue();
         return exact.xor(low);  // everything including this or lower, except lower
     }

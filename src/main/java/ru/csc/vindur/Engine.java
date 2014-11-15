@@ -2,10 +2,8 @@ package ru.csc.vindur;
 
 import java.util.Collections;
 import java.util.List;
-import java.util.concurrent.Callable;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
-import java.util.concurrent.Future;
 import java.util.concurrent.atomic.AtomicInteger;
 
 import javax.annotation.concurrent.ThreadSafe;
@@ -13,7 +11,6 @@ import javax.annotation.concurrent.ThreadSafe;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import ru.csc.vindur.Request.RequestPart;
 import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.document.Document;
 import ru.csc.vindur.document.StorageType;
@@ -113,7 +110,7 @@ public class Engine
             case EXACT: r = index.findSet(step.getFrom()); break;
             case RANGE: r= ((RangeStorage) index).findRangeSet(step.getFrom(), step.getTo());
         }
-        if (currentResultSet==null) return r.clone(); //копия первого запроса, на нее будем накладывать фильтры
+        if (currentResultSet==null) return r.copy(); //копия первого запроса, на нее будем накладывать фильтры
         return currentResultSet.and(r);
     }
 
