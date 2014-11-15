@@ -61,4 +61,34 @@ public class EWAHBitSet implements BitSet {
     public BitSet clone() {
     	return new EWAHBitSet(this.bitSet.clone());
     }
+
+	@Override
+	public int hashCode() {
+		final int prime = 31;
+		int result = 1;
+		result = prime * result + ((bitSet == null) ? 0 : bitSet.hashCode());
+		return result;
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		EWAHBitSet other = (EWAHBitSet) obj;
+		if (bitSet == null) {
+			if (other.bitSet != null)
+				return false;
+		} else if (!bitSet.equals(other.bitSet))
+			return false;
+		return true;
+	}
+
+	@Override
+	public String toString() {
+		return bitSet.toString();
+	}
 }

@@ -5,8 +5,7 @@ import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.document.Value;
 
 import java.util.*;
-
-import javax.annotation.concurrent.ThreadSafe;
+import java.util.Map.Entry;
 
 
 /**
@@ -41,7 +40,13 @@ public final class StorageIntegers implements RangeStorage {
             return;
         }
         //otherwise we should add new record to storage
-        BitSet bitSet = bitSetFabric.newInstance();
+        Entry<Integer, BitSet> lowerEntry = storage.lowerEntry(newKey);
+        BitSet bitSet;
+        if(lowerEntry == null) {
+        	bitSet = bitSetFabric.newInstance();
+        } else {
+        	bitSet = lowerEntry.getValue().clone();
+        }
         bitSet.set(docId);
 
         storage.put(newKey, bitSet);
@@ -64,7 +69,7 @@ public final class StorageIntegers implements RangeStorage {
         Integer lowKey = Integer.parseInt(low);
         Integer highKey = Integer.parseInt(high);
 
-        if(highKey > lowKey) { //that's not good
+        if(highKey < lowKey) { //that's not good
             return bitSetFabric.newInstance();
         }
 
