@@ -69,7 +69,7 @@ public final class StorageIntegers implements RangeStorage {
         Integer lowKey = Integer.parseInt(low);
         Integer highKey = Integer.parseInt(high);
 
-        if(highKey > lowKey) { //that's not good
+        if(highKey < lowKey) { //that's not good
             return bitSetFabric.newInstance();
         }
 

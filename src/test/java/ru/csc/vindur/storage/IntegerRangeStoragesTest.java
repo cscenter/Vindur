@@ -8,6 +8,7 @@ import java.util.List;
 import org.junit.Before;
 import org.junit.Test;
 
+import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.bitset.bitsetFabric.EWAHBitSetFabric;
 import ru.csc.vindur.document.Value;
@@ -36,7 +37,16 @@ public class IntegerRangeStoragesTest {
 				assertEquals(bitSetFabric.newInstance().set(i), storage.findSet(Integer.toString(i)));
 			}
 		}
+
+		int from = VALUES_COUNT / 3;
+		int to = 2 * VALUES_COUNT / 3;
 		
-		// TODO add range requests
+		BitSet expected = bitSetFabric.newInstance();
+		for(int i = from; i <= to; i ++) {
+			expected = expected.set(i);
+		}
+		for(RangeStorage storage: storages) {
+			assertEquals(expected, storage.findRangeSet(Integer.toString(from), Integer.toString(to)));
+		}
 	}
 }
