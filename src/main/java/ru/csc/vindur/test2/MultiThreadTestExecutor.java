@@ -55,7 +55,7 @@ public class MultiThreadTestExecutor extends TestExecutor
            {
                Stopwatch ltimer = Stopwatch.createUnstarted();
                Integer result = super.requestExec(reqNumber / threadCount, ltimer);
-               allTime.addAndGet(ltimer.elapsed(TimeUnit.MILLISECONDS));
+               allTime.addAndGet(ltimer.elapsed(TimeUnit.MICROSECONDS));
                return result;
            });
        }
@@ -72,8 +72,8 @@ public class MultiThreadTestExecutor extends TestExecutor
        }
 
        service.shutdown();
-       LOG.info("{} request executed for time {} and in time {}", reqNumber, allTime.get(), timer.elapsed(TimeUnit.MILLISECONDS));
-       LOG.info("Average time per request is {}ms", allTime.get() / (double)reqNumber);
+       LOG.info("{} request executed for time {} and in time {}", reqNumber, allTime.get()/1000, timer.elapsed(TimeUnit.MILLISECONDS));
+       LOG.info("Average time per request is {}ms", allTime.get() / (double)(reqNumber*1000));
 
    }
 
