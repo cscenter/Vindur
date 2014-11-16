@@ -31,6 +31,7 @@ public final class StorageIntegers implements RangeStorage {
 
     @Override
     public void add(int docId, Value value) {
+    	// TODO what if parse method throws NumberFormatException?
         Integer newKey = Integer.parseInt(value.getValue());
 
         for(Map.Entry<Integer, BitSet> e : storage.tailMap(newKey).entrySet()) {

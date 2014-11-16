@@ -11,7 +11,6 @@ import java.util.Map.Entry;
  * @author Andrey Kokorev
  *         Created on 08.11.2014.
  */
-//TODO тут уже сложная логика, хочу unit-testы )
 public class StorageBucketIntegers implements RangeStorage {
     private static final Integer DEFAULT_BUCKET_SIZE = 100;
     private final Integer bucketSize;
@@ -32,6 +31,7 @@ public class StorageBucketIntegers implements RangeStorage {
 
     @Override
     public synchronized void add(int docId, Value value) {
+    	// TODO what if parse method throws NumberFormatException?
         Integer newKey = Integer.parseInt(value.getValue());
         size++;
 

@@ -29,13 +29,13 @@ public class IntegerRangeStoragesTest {
 	}
 
     @Test
-    public void exactRequestTest() {
+    public void exactRequestTest() throws Exception {
 		for(RangeStorage storage: storages) {
 			exactRequestTest(storage);
 		}
     }
 
-	private void exactRequestTest(RangeStorage storage) {
+	private void exactRequestTest(RangeStorage storage) throws Exception {
 		fillUpStorage(storage);
 
         for(int i = 0; i < VALUES_COUNT; i ++) {
@@ -90,13 +90,13 @@ public class IntegerRangeStoragesTest {
 	}
 
     @Test
-    public void emptyResultTest() {
+    public void emptyResultTest() throws Exception {
         for(RangeStorage storage: storages) {
         	emptyResultTest(storage);
         }
     }
     
-    public void emptyResultTest(RangeStorage storage) {
+    public void emptyResultTest(RangeStorage storage) throws Exception {
     	fillUpStorage(storage);
 
     	checkForEmptyResult(storage, VALUES_COUNT + 1, VALUES_COUNT + 1);
@@ -109,7 +109,7 @@ public class IntegerRangeStoragesTest {
     private void checkForEmptyResult(RangeStorage storage, int from, int to) {
     	assertEquals(0, storage.findRangeSet(Integer.toString(from), Integer.toString(to)).cardinality());
     }
-    private void checkForEmptyResult(RangeStorage storage, int match) {
+    private void checkForEmptyResult(RangeStorage storage, int match) throws Exception {
     	assertEquals(0, storage.findSet(Integer.toString(match)).cardinality());
     }
 }

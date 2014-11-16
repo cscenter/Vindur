@@ -11,12 +11,10 @@ import javax.annotation.concurrent.ThreadSafe;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.ROBitSet;
 import ru.csc.vindur.document.Document;
 import ru.csc.vindur.document.StorageType;
 import ru.csc.vindur.document.Value;
-import ru.csc.vindur.optimizer.Optimizer;
 import ru.csc.vindur.optimizer.Plan;
 import ru.csc.vindur.optimizer.Step;
 import ru.csc.vindur.storage.RangeStorage;
@@ -78,30 +76,32 @@ public class Engine
         return storage;
 	}
 	
-    public List<Integer> executeRequest(Request request)
+    public List<Integer> executeRequest(Request request) throws Exception
     {
-        ROBitSet resultSet;
-        Optimizer optimizer = this.config.getOptimizer();
-        Plan plan = optimizer.generatePlan(request, this);
+        Plan plan = config.getOptimizer().generatePlan(request, this);
 
         Step step = plan.next();
-        resultSet = null;
-        while (step != null)
-        {
-            resultSet = executeStep(step, resultSet);
-            optimizer.updatePlan(plan, resultSet.cardinality());
-            if (resultSet.cardinality() == 0)
-                return Collections.emptyList();
-            step = plan.next();
-        }
-
+        ROBitSet resultSet = null;
+        try {
+	        while (step != null)
+	        {
+					resultSet = executeStep(step, resultSet);
+	            config.getOptimizer().updatePlan(plan, resultSet.cardinality());
+	            if (resultSet.cardinality() == 0)
+	                return Collections.emptyList();
+	            step = plan.next();
+	        }
+		} catch (Exception e) {
+			LOG.debug("Exception when executing request. Message: {}", e.getMessage());
+			throw e;
+		}
         if (resultSet == null)
             return Collections.emptyList();
 
         return resultSet.toIntList();
     }
 
-    public ROBitSet executeStep(Step step, ROBitSet currentResultSet)
+    public ROBitSet executeStep(Step step, ROBitSet currentResultSet) throws Exception
     {
         //todo добавить проверки на соответствие шагов и storage. Увы, в оптимизатор не вытащить (
         Storage index = findStorage(step.getStorageName());

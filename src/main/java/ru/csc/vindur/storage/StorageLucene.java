@@ -40,6 +40,12 @@ public class StorageLucene implements Storage {
 		this.bitSetFabric = bitSetFabric;
 		luceneIndex = new RAMDirectory();
 		analyzer = new WhitespaceAnalyzer();
+		try {
+			indexWriter = new IndexWriter(luceneIndex, new IndexWriterConfig(Version.LATEST, analyzer));
+		} catch (IOException e) {
+			// cannot happen because of using RAMDirectory as index
+			throw new RuntimeException(e);
+		}
 	}
 
 	@Override
@@ -59,7 +65,7 @@ public class StorageLucene implements Storage {
 			indexWriter.addDocument(newDocument);
 			documentsCount += 1;
 		} catch (IOException e) {
-			// TODO investigate this
+			// cannot happen because of using RAMDirectory as index
 			throw new RuntimeException(e);
 		}
 	}
@@ -68,12 +74,13 @@ public class StorageLucene implements Storage {
 	 * Method use classic Lucene query parser
 	 * It search through default field where the Value is stored
 	 * It supports many different searches
-	 * @param match query string
+	 * @param request query string
 	 * @return set of found document id's
+	 * @throws ParseException when request is not correct query string
 	 * @see http://lucene.apache.org/core/4_0_0/queryparser/index.html
 	 */
 	@Override
-	public BitSet findSet(String match) {
+	public BitSet findSet(String request) throws ParseException {
 		try {
 			if (indexWriter != null) {
 				indexWriter.close();
@@ -89,7 +96,7 @@ public class StorageLucene implements Storage {
 				searcher = new IndexSearcher(indexReader);
 			}
 
-			Query q = new QueryParser(VALUE_FIELD_NAME, analyzer).parse(match);
+			Query q = new QueryParser(VALUE_FIELD_NAME, analyzer).parse(request);
 			BitSet result = bitSetFabric.newInstance();
 			for (ScoreDoc doc : searcher.search(q, documentsCount).scoreDocs) {
 				IndexableField f = indexReader.document(doc.doc).getField(
@@ -98,11 +105,9 @@ public class StorageLucene implements Storage {
 			}
 			return result;
 		} catch (IOException e) {
-			// TODO investigate this
-			throw new RuntimeException(e);
-		} catch (ParseException e) {
-			// TODO move this exception out
+			// cannot happen because of using RAMDirectory as index
 			throw new RuntimeException(e);
 		}
 	}
+		
 }

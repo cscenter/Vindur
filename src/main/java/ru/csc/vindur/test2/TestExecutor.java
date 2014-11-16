@@ -1,8 +1,10 @@
 package ru.csc.vindur.test2;
 
 import com.google.common.base.Stopwatch;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
 import ru.csc.vindur.Engine;
 import ru.csc.vindur.EngineConfig;
 import ru.csc.vindur.Request;
@@ -81,7 +83,11 @@ public class TestExecutor
             Request request = requestSupplier.get();
             LOG.debug(" {}", request);
             timer.start();
-            size+=engine.executeRequest(request).size(); //даже не проверяем результат, только скорость
+            try {
+				size+=engine.executeRequest(request).size();
+			} catch (Exception e) {
+				LOG.error("Engine throw an exception: {}", e.getMessage());
+			} //даже не проверяем результат, только скорость
             timer.stop();
         }
         return size;

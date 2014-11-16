@@ -22,12 +22,12 @@ import com.google.common.base.Stopwatch;
 public class MobilePhoneTestRunner {
     private static final Logger LOG = LoggerFactory.getLogger(VindurEngineTest.class);
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         BitSetFabric fabric = new EWAHBitSetFabric();
         run(new MobilePhoneTest(10000, 100, 2, fabric));
     }
 
-    private static void run(TestHelper helper) {
+    private static void run(TestHelper helper) throws Exception {
         LOG.info("Test with\n{}\nstarted", helper);
         RandomUtils.setSeed(0);
         Engine engine = new Engine(helper.getEngineConfig());
