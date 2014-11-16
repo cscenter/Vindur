@@ -13,11 +13,13 @@ import java.util.Map;
 /**
  * Created by Pavel Chursin on 10.11.2014.
  */
-public class MobilePhoneTestBuilder implements TestBuilder {
+public class MobilePhoneTestBuilder {
 /*
     private AttributeDescriptor[] attributeDescriptors = new AttributeDescriptor[]{
             cost, manufacturer, model, isSmartphone, screenSize, color, operationSystem, ram
     };*/
+
+    private int count;
 
     private static Map<String, StorageType> storageTypes;
     private static int lowPriceBound = 3000, highPriceBound = 30000;
@@ -36,7 +38,8 @@ public class MobilePhoneTestBuilder implements TestBuilder {
     };
     private int minRAM = 128, maxRAM = 2048;
 
-    public MobilePhoneTestBuilder() {
+    private MobilePhoneTestBuilder(int count) {
+        this.count = count;
         storageTypes = new HashMap<>();
         storageTypes.put("Price", StorageType.NUMERIC);
         storageTypes.put("Manufacturer", StorageType.STRING);
@@ -48,26 +51,29 @@ public class MobilePhoneTestBuilder implements TestBuilder {
         storageTypes.put("RAM", StorageType.NUMERIC);
     }
 
+    public static MobilePhoneTestBuilder build(int n) {
+        return new MobilePhoneTestBuilder(n);
+    }
 
-    @Override
+    //TODO
+    public void generate() {
+        for (int i = 0; i < count; i++) {
+
+        }
+    }
+
     public Map<String, StorageType> getTypes() {
         return storageTypes;
     }
 
-    @Override
     public List<String> getStorages() {
         return Lists.newArrayList(storageTypes.keySet());
     }
 
-    @Override
-    public Value[] getValues(String key) {
-        return new Value[0];
-    }
-
-    @Override
-    public Double getProbability(String key) {
-        return 1.0;
-    }
+    //TODO
+//    public Value[] getValues(String key) {
+//        return new Value[0];
+//    }
 
     public Value priceSupplier()
     {
