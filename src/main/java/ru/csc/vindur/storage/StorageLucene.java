@@ -1,7 +1,6 @@
 package ru.csc.vindur.storage;
 
 import java.io.IOException;
-import java.util.concurrent.atomic.AtomicInteger;
 
 import org.apache.lucene.analysis.core.WhitespaceAnalyzer;
 import org.apache.lucene.document.Document;
@@ -31,10 +30,8 @@ public class StorageLucene implements Storage {
 	private static final String VALUE_FIELD_NAME = "text";
 	private final Directory luceneIndex;
 	private final BitSetFabric bitSetFabric;
-	private final AtomicInteger activeSearches = new AtomicInteger(0);
-	private final AtomicInteger activeWrites = new AtomicInteger(0);
-	private final AtomicInteger documentsCount = new AtomicInteger(0);
 	private final WhitespaceAnalyzer analyzer;
+	private int documentsCount = 0;
 	private IndexSearcher searcher;
 	private IndexWriter indexWriter;
 	private DirectoryReader indexReader;
@@ -47,27 +44,20 @@ public class StorageLucene implements Storage {
 
 	@Override
 	public long size() {
-		return documentsCount.longValue();
+		return documentsCount;
 	}
 
 	@Override
 	public void add(int docId, Value value) {
-		// TODO check synchronization
 		try {
 			Document newDocument = new Document();
 			newDocument.add(new TextField(VALUE_FIELD_NAME, value.getValue(), Store.NO));
 			newDocument.add(new IntField(ID_FIELD_NAME, docId, Store.YES));
-			activeWrites.incrementAndGet();
 			if (indexWriter == null) {
-				synchronized (this) {
-					if (indexWriter == null) {
-						indexWriter = new IndexWriter(luceneIndex, new IndexWriterConfig(Version.LATEST, analyzer));
-					}
-				}
+				indexWriter = new IndexWriter(luceneIndex, new IndexWriterConfig(Version.LATEST, analyzer));
 			}
 			indexWriter.addDocument(newDocument);
-			documentsCount.incrementAndGet();
-			activeWrites.decrementAndGet();
+			documentsCount += 1;
 		} catch (IOException e) {
 			// TODO investigate this
 			throw new RuntimeException(e);
@@ -84,38 +74,29 @@ public class StorageLucene implements Storage {
 	 */
 	@Override
 	public BitSet findSet(String match) {
-		// TODO check synchronization
 		try {
-			activeSearches.incrementAndGet();
-			synchronized (this) {
-				if (indexWriter != null && activeWrites.get() == 0) {
-					indexWriter.close();
-					indexWriter = null;
-				}
-				if (searcher != null && !indexReader.isCurrent()
-						&& activeSearches.get() == 1) {
-					indexReader.close();
-					searcher = null;
-				}
-
-				if (searcher == null) {
-					indexReader = DirectoryReader.open(luceneIndex);
-					searcher = new IndexSearcher(indexReader);
-				}
+			if (indexWriter != null) {
+				indexWriter.close();
+				indexWriter = null;
+			}
+			if (searcher != null && !indexReader.isCurrent()) {
+				indexReader.close();
+				searcher = null;
 			}
 
-			try {
-				Query q = new QueryParser(VALUE_FIELD_NAME, analyzer).parse(match);
-				BitSet result = bitSetFabric.newInstance();
-				for (ScoreDoc doc : searcher.search(q, documentsCount.get()).scoreDocs) {
-					IndexableField f = indexReader.document(doc.doc).getField(
-							ID_FIELD_NAME);
-					result.set(f.numericValue().intValue());
-				}
-				return result;
-			}  finally {
-				activeSearches.decrementAndGet();
+			if (searcher == null) {
+				indexReader = DirectoryReader.open(luceneIndex);
+				searcher = new IndexSearcher(indexReader);
 			}
+
+			Query q = new QueryParser(VALUE_FIELD_NAME, analyzer).parse(match);
+			BitSet result = bitSetFabric.newInstance();
+			for (ScoreDoc doc : searcher.search(q, documentsCount).scoreDocs) {
+				IndexableField f = indexReader.document(doc.doc).getField(
+						ID_FIELD_NAME);
+				result.set(f.numericValue().intValue());
+			}
+			return result;
 		} catch (IOException e) {
 			// TODO investigate this
 			throw new RuntimeException(e);
