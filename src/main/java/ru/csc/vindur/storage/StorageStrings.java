@@ -8,6 +8,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 import javax.annotation.concurrent.ThreadSafe;
 
 import ru.csc.vindur.bitset.BitSet;
+import ru.csc.vindur.bitset.ROBitSet;
 import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.document.Value;
 
@@ -42,7 +43,7 @@ public final class StorageStrings implements Storage {
 	}
 
 	@Override
-	public BitSet findSet(String strValue) {
+	public ROBitSet findSet(String strValue) {
 		BitSet valsSet = values.get(strValue);
 		if(valsSet == null) {
 			return bitSetFabric.newInstance();

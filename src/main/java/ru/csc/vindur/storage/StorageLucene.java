@@ -21,6 +21,7 @@ import org.apache.lucene.store.RAMDirectory;
 import org.apache.lucene.util.Version;
 
 import ru.csc.vindur.bitset.BitSet;
+import ru.csc.vindur.bitset.ROBitSet;
 import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.document.Value;
 
@@ -80,7 +81,7 @@ public class StorageLucene implements Storage {
 	 * @see http://lucene.apache.org/core/4_0_0/queryparser/index.html
 	 */
 	@Override
-	public BitSet findSet(String request) throws ParseException {
+	public ROBitSet findSet(String request) throws ParseException {
 		try {
 			if (indexWriter != null) {
 				indexWriter.close();

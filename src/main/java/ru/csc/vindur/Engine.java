@@ -106,13 +106,13 @@ public class Engine
     {
         //todo добавить проверки на соответствие шагов и storage. Увы, в оптимизатор не вытащить (
         Storage index = findStorage(step.getStorageName());
-        BitSet r = null;
+        ROBitSet r = null;
         switch (step.getType())
         {
-            case EXACT: r = index.findSet(step.getFrom()).copy(); break;
-            case RANGE: r = ((RangeStorage) index).findRangeSet(step.getFrom(), step.getTo()).copy();
+            case EXACT: r = index.findSet(step.getFrom()); break;
+            case RANGE: r = ((RangeStorage) index).findRangeSet(step.getFrom(), step.getTo());
         }
-        if (currentResultSet==null) return r; //копия первого запроса, на нее будем накладывать фильтры
+        if (currentResultSet == null) return r.copy(); //копия первого запроса, на нее будем накладывать фильтры
         return currentResultSet.and(r);
     }
 
