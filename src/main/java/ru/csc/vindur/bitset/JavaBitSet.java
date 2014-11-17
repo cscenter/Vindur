@@ -19,7 +19,7 @@ public class JavaBitSet implements BitSet
 	@Override
 	public List<Integer> toIntList() {
 		ArrayList<Integer> result = new ArrayList<>(bitSet.cardinality());
-		int id = 0;
+		int id = -1;
 		while((id = bitSet.nextSetBit(id + 1)) != -1) {
 			result.add(id);
 		}
