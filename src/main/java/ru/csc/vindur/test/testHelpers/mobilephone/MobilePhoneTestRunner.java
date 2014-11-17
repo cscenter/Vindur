@@ -13,14 +13,13 @@ import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.bitset.bitsetFabric.EWAHBitSetFabric;
 import ru.csc.vindur.document.Value;
 import ru.csc.vindur.test.GeneratorBase;
-import ru.csc.vindur.test.VindurEngineTest;
 import ru.csc.vindur.test.testHelpers.TestHelper;
 import ru.csc.vindur.test.utils.RandomUtils;
 
 import com.google.common.base.Stopwatch;
 
 public class MobilePhoneTestRunner {
-    private static final Logger LOG = LoggerFactory.getLogger(VindurEngineTest.class);
+    private static final Logger LOG = LoggerFactory.getLogger(MobilePhoneTestRunner.class);
 
     public static void main(String[] args) throws Exception {
         BitSetFabric fabric = new EWAHBitSetFabric();

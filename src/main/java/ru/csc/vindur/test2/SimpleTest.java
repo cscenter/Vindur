@@ -1,7 +1,15 @@
 package ru.csc.vindur.test2;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+import java.util.Random;
+import java.util.function.Supplier;
+import java.util.stream.Collectors;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
 import ru.csc.vindur.EngineConfig;
 import ru.csc.vindur.Request;
 import ru.csc.vindur.bitset.bitsetFabric.EWAHBitSetFabric;
@@ -9,11 +17,6 @@ import ru.csc.vindur.document.StorageType;
 import ru.csc.vindur.document.Value;
 import ru.csc.vindur.optimizer.TinyOptimizer;
 import ru.csc.vindur.test.utils.RandomUtils;
-
-import java.util.*;
-import java.util.concurrent.Executors;
-import java.util.function.Supplier;
-import java.util.stream.Collectors;
 
 /**
  * Created by jetbrains on 06.11.2014.
@@ -39,7 +42,7 @@ public class SimpleTest
                 .setValuesCount(StorageType.STRING, 30)
                 .setValuesCount(StorageType.NUMERIC, 30)
                 .init();
-        te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newSingleThreadExecutor(), new TinyOptimizer()));
+        te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), new TinyOptimizer()));
         te.setDocumentSupplier( docSupplier(test) );
         te.setRequestSupplier( requestSupplier(test,5) );
         te.execute(100000, 100000);
@@ -51,7 +54,7 @@ public class SimpleTest
             .setTypeFrequence(StorageType.ENUM,1.0)
             .setValuesCount(StorageType.ENUM,100)
             .init();
-        te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newFixedThreadPool(4),new TinyOptimizer()));
+        te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), new TinyOptimizer()));
          te.setDocumentSupplier( docSupplier(test) );
          te.setRequestSupplier( requestSupplier(test,1) );
         te.execute(1000000, 10000);
@@ -61,7 +64,7 @@ public class SimpleTest
                 .setTypeFrequence(StorageType.STRING,1.0)
                 .setValuesCount(StorageType.STRING,30000)
                 .init();
-        te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newFixedThreadPool(4),new TinyOptimizer()));
+        te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), new TinyOptimizer()));
          te.setDocumentSupplier( docSupplier(test) );
          te.setRequestSupplier( requestSupplier(test,1) );
         te.execute(1000000,100000);
@@ -71,7 +74,7 @@ public class SimpleTest
                 .setTypeFrequence(StorageType.NUMERIC, 1.0)
                 .setValuesCount(StorageType.NUMERIC, 3000)
                 .init();
-        te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newFixedThreadPool(4), new TinyOptimizer()));
+        te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), new TinyOptimizer()));
         te.setDocumentSupplier(docSupplier(test));
         te.setRequestSupplier(requestSupplier(test, 1));
         te.execute(100000, 100000);
@@ -85,13 +88,13 @@ public class SimpleTest
           .setValuesCount(StorageType.STRING, 30)
           .setValuesCount(StorageType.NUMERIC, 30)
           .init();
-        te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newFixedThreadPool(4), new TinyOptimizer()));
+        te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), new TinyOptimizer()));
         te.setDocumentSupplier( docSupplier(test) );
         te.setRequestSupplier( requestSupplier(test,5) );
         te.execute(100000, 100000);
 
         LOG.info("Complex/EWH test in 4 threads");
-        te = new MultiThreadTestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newSingleThreadExecutor(), new TinyOptimizer()),4);
+        te = new MultiThreadTestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), new TinyOptimizer()),4);
         te.setDocumentSupplier( docSupplier(test) );
         te.setRequestSupplier( requestSupplier(test,5) );
         te.execute(100000, 100000);

@@ -302,7 +302,7 @@ public class MobilePhoneTest implements TestHelper {
             indexes.put(desc.getAttributeName(), desc.getValueType());
         }
 
-        simpleEngineConfig = new EngineConfig(indexes, bitSetFabric, null, new TinyOptimizer());
+        simpleEngineConfig = new EngineConfig(indexes, bitSetFabric, new TinyOptimizer());
         currentArt = 0;
     }
 
