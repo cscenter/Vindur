@@ -11,6 +11,7 @@ import javax.annotation.concurrent.ThreadSafe;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.ROBitSet;
 import ru.csc.vindur.document.Document;
 import ru.csc.vindur.document.StorageType;
@@ -81,11 +82,11 @@ public class Engine
         Plan plan = config.getOptimizer().generatePlan(request, this);
 
         Step step = plan.next();
-        ROBitSet resultSet = null;
+        BitSet resultSet = null;
         try {
 	        while (step != null)
 	        {
-					resultSet = executeStep(step, resultSet);
+				resultSet = executeStep(step, resultSet);
 	            config.getOptimizer().updatePlan(plan, resultSet.cardinality());
 	            if (resultSet.cardinality() == 0)
 	                return Collections.emptyList();
@@ -101,17 +102,17 @@ public class Engine
         return resultSet.toIntList();
     }
 
-    public ROBitSet executeStep(Step step, ROBitSet currentResultSet) throws Exception
+    public BitSet executeStep(Step step, BitSet currentResultSet) throws Exception
     {
         //todo добавить проверки на соответствие шагов и storage. Увы, в оптимизатор не вытащить (
         Storage index = findStorage(step.getStorageName());
-        ROBitSet r = null;
+        BitSet r = null;
         switch (step.getType())
         {
-            case EXACT: r = index.findSet(step.getFrom()); break;
-            case RANGE: r= ((RangeStorage) index).findRangeSet(step.getFrom(), step.getTo());
+            case EXACT: r = index.findSet(step.getFrom()).copy(); break;
+            case RANGE: r = ((RangeStorage) index).findRangeSet(step.getFrom(), step.getTo()).copy();
         }
-        if (currentResultSet==null) return r.copy(); //копия первого запроса, на нее будем накладывать фильтры
+        if (currentResultSet==null) return r; //копия первого запроса, на нее будем накладывать фильтры
         return currentResultSet.and(r);
     }
 

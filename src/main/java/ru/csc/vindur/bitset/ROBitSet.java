@@ -16,11 +16,5 @@ public interface ROBitSet {
 
     public int cardinality();
 
-    public ROBitSet and(ROBitSet other);
-
-    public ROBitSet or(ROBitSet docsBitSet);
-
-    public ROBitSet xor(ROBitSet other);
-
-    public ROBitSet copy();
+    public BitSet copy();
 }
