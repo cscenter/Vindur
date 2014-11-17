@@ -11,15 +11,13 @@ public interface BitSet extends ROBitSet {
 	
 	public BitSet set(Collection<Integer> collection);
 
-    @Override
     public BitSet and(ROBitSet other);
 
-    @Override
     public BitSet or(ROBitSet docsBitSet);
 
-    @Override
     public BitSet xor(ROBitSet other);
 
-    @Override
-    public BitSet copy();
+    default ROBitSet asROBitSet() {
+        return this;
+    }
 }
