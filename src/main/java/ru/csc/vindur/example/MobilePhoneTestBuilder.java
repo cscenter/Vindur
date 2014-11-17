@@ -60,7 +60,7 @@ public class MobilePhoneTestBuilder {
     Map<String,List<Value>> getDocument()
     {
         Value v;
-        Map doc = new HashMap<String,List<Value>>();
+        Map<String,List<Value>> doc = new HashMap<>();
 
         v = isSmartSupplier();
 
@@ -78,21 +78,21 @@ public class MobilePhoneTestBuilder {
 
         v = modelSupplier();
         uniqueModels.add(v);
-        doc.put("Model", v);
+        doc.put("Model", SimpleTest.list(v));
 
         v = screenSizeSupplier();
         uniqueScreenSize.add(v);
-        doc.put("Screen Size", v);
+        doc.put("Screen Size", SimpleTest.list(v));
 
         v = colorSupplier();
-        doc.put("Color", v);
+        doc.put("Color", SimpleTest.list(v));
 
         v = osSupplier();
-        doc.put("Operation System", v);
+        doc.put("Operation System", SimpleTest.list(v));
 
         v = ramSupplier();
         uniqueRAM.add(v);
-        doc.put("RAM", v);
+        doc.put("RAM", SimpleTest.list(v));
 
        return doc;
     }
