@@ -38,7 +38,7 @@ public class MobilePhonesExample
             System.setProperty("org.slf4j.simpleLogger.log.ru.csc", "info");
 
             test = new MobilePhoneTestBuilder();
-            te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), Executors.newSingleThreadExecutor(), new TinyOptimizer()));
+            te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), new TinyOptimizer()));
             te.setDocumentSupplier( docSupplier(test) );
             te.setRequestSupplier( requestSupplier(test,5) );
             te.execute(100000, 0);
