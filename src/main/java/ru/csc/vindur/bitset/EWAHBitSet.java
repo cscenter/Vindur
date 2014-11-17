@@ -2,7 +2,6 @@ package ru.csc.vindur.bitset;
 
 import com.googlecode.javaewah.EWAHCompressedBitmap;
 
-import java.util.Collection;
 import java.util.List;
 
 public class EWAHBitSet implements BitSet {
@@ -15,13 +14,6 @@ public class EWAHBitSet implements BitSet {
 
     private EWAHBitSet(EWAHCompressedBitmap bitSet) {
 		this.bitSet = bitSet;
-	}
-	
-	public BitSet set(Collection<Integer> intList) {
-		for(int i: intList) {
-			bitSet.set(i);
-		}
-		return this;
 	}
 
 	@Override

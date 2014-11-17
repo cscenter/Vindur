@@ -1,15 +1,17 @@
 package ru.csc.vindur.bitset;
 
 import java.util.Collection;
-import java.util.List;
-
-//TODO я тут подумал, что еще неплохо бы иметь unmodifibleBitSet - с реализацией всего, кроме set
 
 public interface BitSet extends ROBitSet {
 
 	public BitSet set(int index);
 	
-	public BitSet set(Collection<Integer> collection);
+	default BitSet set(Collection<Integer> collection) {
+		for(Integer id: collection) {
+			set(id);
+		}
+		return this;
+	}
 
     public BitSet and(ROBitSet other);
 

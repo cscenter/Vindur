@@ -1,7 +1,6 @@
 package ru.csc.vindur.bitset;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.List;
 
 public class JavaBitSet implements BitSet
@@ -15,13 +14,6 @@ public class JavaBitSet implements BitSet
 
 	private JavaBitSet(java.util.BitSet bitSet) {
 		this.bitSet = bitSet;
-	}
-
-	public BitSet set(Collection<Integer> intCollection) {
-		for (int docId: intCollection) {
-			bitSet.set(docId);
-		}
-		return this;
 	}
 
 	@Override
