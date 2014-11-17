@@ -139,7 +139,8 @@ public class SimpleTest
     }
 
 
-    private static <T> List<T> list (T t)
+    //todo перенести в отдльный класс
+    public static <T> List<T> list (T t)
     {
         List<T> l = new ArrayList<>(1);
         l.add(t);

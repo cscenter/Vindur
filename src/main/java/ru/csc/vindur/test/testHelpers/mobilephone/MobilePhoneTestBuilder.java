@@ -4,9 +4,11 @@ import com.beust.jcommander.internal.Lists;
 import ru.csc.vindur.document.StorageType;
 import ru.csc.vindur.document.Value;
 import ru.csc.vindur.test.utils.RandomUtils;
+import ru.csc.vindur.test2.SimpleTest;
 import ru.csc.vindur.test2.TestBuilder;
 
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 
@@ -19,7 +21,6 @@ public class MobilePhoneTestBuilder {
             cost, manufacturer, model, isSmartphone, screenSize, color, operationSystem, ram
     };*/
 
-    private int count;
 
     private static Map<String, StorageType> storageTypes;
     private static int lowPriceBound = 3000, highPriceBound = 30000;
@@ -38,8 +39,9 @@ public class MobilePhoneTestBuilder {
     };
     private int minRAM = 128, maxRAM = 2048;
 
-    private MobilePhoneTestBuilder(int count) {
-        this.count = count;
+    private HashSet<Value> uniquePrices, uniqueModels, uniqueRAM, uniqueScreenSize;
+
+    public MobilePhoneTestBuilder() {
         storageTypes = new HashMap<>();
         storageTypes.put("Price", StorageType.NUMERIC);
         storageTypes.put("Manufacturer", StorageType.STRING);
@@ -49,31 +51,66 @@ public class MobilePhoneTestBuilder {
         storageTypes.put("Color", StorageType.ENUM);
         storageTypes.put("Operation System", StorageType.ENUM);
         storageTypes.put("RAM", StorageType.NUMERIC);
+
+        uniquePrices = new HashSet<>();
+        uniqueModels = new HashSet<>();
+        uniqueRAM = new HashSet<>();
+        uniqueScreenSize = new HashSet<>();
     }
 
-    public static MobilePhoneTestBuilder build(int n) {
-        return new MobilePhoneTestBuilder(n);
+
+    Map<String,List<Value>> getDocument()
+    {
+        Value v;
+        Map doc = new HashMap<String,List<Value>>();
+
+        v = isSmartSupplier();
+
+        doc.put("Smartphone", SimpleTest.list(v));
+
+       //price
+        // запоминать сгенерированные значения для запросов в дальнейшем
+        v = priceSupplier();
+        uniquePrices.add(v);
+        doc.put("Price", SimpleTest.list(v));
+        //
+
+        v = manufacturerSupplier();
+        doc.put("Manufacturer", SimpleTest.list(v));
+
+        v = modelSupplier();
+        uniqueModels.add(v);
+        doc.put("Model", v);
+
+        v = screenSizeSupplier();
+        uniqueScreenSize.add(v);
+        doc.put("Screen Size", v);
+
+        v = colorSupplier();
+        doc.put("Color", v);
+
+        v = osSupplier();
+        doc.put("Operation System", v);
+
+        v = ramSupplier();
+        uniqueRAM.add(v);
+        doc.put("RAM", v);
+
+       return doc;
     }
 
-    //TODO
-    public void generate() {
-        for (int i = 0; i < count; i++) {
 
-        }
-    }
+
+
+
+
+
+
+
 
     public Map<String, StorageType> getTypes() {
         return storageTypes;
     }
-
-    public List<String> getStorages() {
-        return Lists.newArrayList(storageTypes.keySet());
-    }
-
-    //TODO
-//    public Value[] getValues(String key) {
-//        return new Value[0];
-//    }
 
     public Value priceSupplier()
     {
