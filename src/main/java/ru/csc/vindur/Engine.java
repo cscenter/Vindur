@@ -70,7 +70,7 @@ public class Engine
         {
             StorageType type = config.getValueType(attribute);
             if (type==null) type=DEFAULT_STORAGE_TYPE;
-            Storage newStorage = StorageHelper.getColumn(type, config.getBitSetFabric());
+            Storage newStorage = StorageHelper.getColumn(type, config.getBitSetSupplier());
             columns.put(attribute,newStorage);
             storage = newStorage;
         }

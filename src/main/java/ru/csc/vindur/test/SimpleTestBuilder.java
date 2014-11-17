@@ -1,4 +1,4 @@
-package ru.csc.vindur.test2;
+package ru.csc.vindur.test;
 
 import com.google.common.collect.Lists;
 import org.slf4j.Logger;

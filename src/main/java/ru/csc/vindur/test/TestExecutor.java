@@ -1,4 +1,4 @@
-package ru.csc.vindur.test2;
+package ru.csc.vindur.test;
 
 import com.google.common.base.Stopwatch;
 

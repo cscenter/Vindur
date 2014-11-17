@@ -2,11 +2,11 @@ package ru.csc.vindur.storage;
 
 import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.ROBitSet;
-import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.document.Value;
 
 import java.util.*;
 import java.util.Map.Entry;
+import java.util.function.Supplier;
 
 
 /**
@@ -17,11 +17,12 @@ import java.util.Map.Entry;
  */
 public final class StorageIntegers implements RangeStorage {
     private TreeMap<Integer, BitSet> storage; //key -> bitset of all smaller
-    private BitSetFabric bitSetFabric;
+    private Supplier<BitSet> bitSetSupplier;
 
-    public StorageIntegers(BitSetFabric bitSetFabric) {
+    public StorageIntegers(Supplier<BitSet> bitSetSupplier)
+    {
         this.storage = new TreeMap<>();
-        this.bitSetFabric = bitSetFabric;
+        this.bitSetSupplier = bitSetSupplier;
     }
 
     @Override
@@ -45,7 +46,7 @@ public final class StorageIntegers implements RangeStorage {
         Entry<Integer, BitSet> lowerEntry = storage.lowerEntry(newKey);
         BitSet bitSet;
         if(lowerEntry == null) {
-        	bitSet = bitSetFabric.newInstance();
+        	bitSet = bitSetSupplier.get();
         } else {
         	bitSet = lowerEntry.getValue().copy();
         }
@@ -59,7 +60,7 @@ public final class StorageIntegers implements RangeStorage {
         Integer key = Integer.parseInt(strictMatch);
 
         BitSet exact = storage.get(key);
-        if(exact == null) return bitSetFabric.newInstance();
+        if(exact == null) return bitSetSupplier.get();
 
         if(storage.firstKey().equals(key)) return exact.asROBitSet();
         BitSet low = storage.lowerEntry(key).getValue();
@@ -72,12 +73,12 @@ public final class StorageIntegers implements RangeStorage {
         Integer highKey = Integer.parseInt(high);
 
         if(highKey < lowKey) { //that's not good
-            return bitSetFabric.newInstance();
+            return bitSetSupplier.get();
         }
 
         Map.Entry<Integer, BitSet> upperEntry = storage.floorEntry(highKey);
         if(upperEntry == null) { //highKey is lower than lowest stored value, or storage is empty
-            return bitSetFabric.newInstance();
+            return bitSetSupplier.get();
         }
 
         Map.Entry<Integer, BitSet> lowerEntry = storage.lowerEntry(lowKey);

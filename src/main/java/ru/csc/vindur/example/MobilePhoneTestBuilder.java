@@ -1,11 +1,9 @@
-package ru.csc.vindur.test.testHelpers.mobilephone;
+package ru.csc.vindur.example;
 
-import com.beust.jcommander.internal.Lists;
 import ru.csc.vindur.document.StorageType;
 import ru.csc.vindur.document.Value;
 import ru.csc.vindur.test.utils.RandomUtils;
-import ru.csc.vindur.test2.SimpleTest;
-import ru.csc.vindur.test2.TestBuilder;
+import ru.csc.vindur.test.SimpleTest;
 
 import java.util.HashMap;
 import java.util.HashSet;

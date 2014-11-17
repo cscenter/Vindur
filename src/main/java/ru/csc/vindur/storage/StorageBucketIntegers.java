@@ -2,26 +2,28 @@ package ru.csc.vindur.storage;
 
 import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.ROBitSet;
-import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.document.Value;
 
 import java.util.*;
 import java.util.Map.Entry;
+import java.util.function.Supplier;
 
 /**
  * @author Andrey Kokorev
  *         Created on 08.11.2014.
  */
-public class StorageBucketIntegers implements RangeStorage {
+public class StorageBucketIntegers implements RangeStorage
+{
     private static final Integer DEFAULT_BUCKET_SIZE = 100;
     private final Integer bucketSize;
     private HashMap<Integer, TreeMap<Integer, BitSet>> storage; //key hash -> bucket(key -> bitset of all smaller or eq)
-    private BitSetFabric bitSetFabric;
+    private Supplier<BitSet> bitSetSupplier;
     private int size = 0;
 
-    public StorageBucketIntegers(BitSetFabric bitSetFabric) {
+    public StorageBucketIntegers(Supplier<BitSet> bitSetSupplier)
+    {
         this.storage = new HashMap<>();
-        this.bitSetFabric = bitSetFabric;
+        this.bitSetSupplier=bitSetSupplier;
         this.bucketSize = DEFAULT_BUCKET_SIZE;
     }
 
@@ -53,7 +55,7 @@ public class StorageBucketIntegers implements RangeStorage {
         Entry<Integer, BitSet> lowerEntry = bucket.lowerEntry(newKey);
         BitSet bitSet;
         if(lowerEntry == null) {
-        	bitSet = bitSetFabric.newInstance();
+        	bitSet = bitSetSupplier.get();
         } else {
         	bitSet = lowerEntry.getValue().copy();
         }
@@ -67,10 +69,10 @@ public class StorageBucketIntegers implements RangeStorage {
         Integer key = Integer.parseInt(strictMatch);
 
         TreeMap<Integer, BitSet> bucket = getBucket(key);
-        if(bucket == null) return bitSetFabric.newInstance();
+        if(bucket == null) return bitSetSupplier.get();
 
         BitSet exact = bucket.get(key);
-        if(exact == null) return bitSetFabric.newInstance();
+        if(exact == null) return bitSetSupplier.get();
 
         if(bucket.firstKey().equals(key)) return exact.asROBitSet();
         BitSet low = bucket.lowerEntry(key).getValue();
@@ -83,7 +85,7 @@ public class StorageBucketIntegers implements RangeStorage {
         Integer highKey = Integer.parseInt(high);
 
         if(highKey < lowKey) { //that's not good
-            return bitSetFabric.newInstance();
+            return bitSetSupplier.get();
         }
 
         BitSet h = floorFromBucket(highKey);
@@ -116,22 +118,22 @@ public class StorageBucketIntegers implements RangeStorage {
 
     private BitSet floorFromBucket(Integer key) {
         TreeMap<Integer, BitSet> bucket = getBucket(key);
-        if(bucket == null) return bitSetFabric.newInstance();
+        if(bucket == null) return bitSetSupplier.get();
 
         Map.Entry<Integer, BitSet> upperEntry = bucket.floorEntry(key);
         if(upperEntry == null) { //high is lower than lowest stored value, or storage is empty
-            return bitSetFabric.newInstance();
+            return bitSetSupplier.get();
         }
         return upperEntry.getValue();
     }
 
     private BitSet lowerFromBucket(Integer key) {
         TreeMap<Integer, BitSet> bucket = getBucket(key);
-        if(bucket == null) return bitSetFabric.newInstance();
+        if(bucket == null) return bitSetSupplier.get();
 
         Map.Entry<Integer, BitSet> lowerEntry = bucket.lowerEntry(key);
         if(lowerEntry == null) { //high is lower than lowest stored value, or storage is empty
-            return bitSetFabric.newInstance();
+            return bitSetSupplier.get();
         }
         return lowerEntry.getValue();
     }

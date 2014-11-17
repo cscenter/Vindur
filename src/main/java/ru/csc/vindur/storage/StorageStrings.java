@@ -4,25 +4,26 @@ package ru.csc.vindur.storage;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.atomic.AtomicInteger;
+import java.util.function.Supplier;
 
 import javax.annotation.concurrent.ThreadSafe;
 
 import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.ROBitSet;
-import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.document.Value;
 
 /**
  * @author: Phillip Delgyado Date: 30.10.13 17:40
  */
 @ThreadSafe
-public final class StorageStrings implements Storage {
+public final class StorageStrings implements Storage
+{
 	private final Map<String, BitSet> values = new HashMap<>(); // strValue->{itemIds}
-	private final BitSetFabric bitSetFabric;
+	private final Supplier<BitSet> bitSetSupplier;
 	private AtomicInteger currentSize = new AtomicInteger();
 
-	public StorageStrings(BitSetFabric bitSetFabric) {
-		this.bitSetFabric = bitSetFabric;
+	public StorageStrings (Supplier<BitSet> bitSetSupplier) {
+		this.bitSetSupplier = bitSetSupplier;
 	}
 
 	@Override
@@ -35,7 +36,7 @@ public final class StorageStrings implements Storage {
 		String strValue = value.getValue();
 		BitSet valsSet = values.get(strValue);
 		if (valsSet == null) {
-			valsSet = bitSetFabric.newInstance();
+			valsSet = bitSetSupplier.get();
 			values.put(strValue, valsSet);
 		}
 		valsSet.set(docId);
@@ -46,7 +47,7 @@ public final class StorageStrings implements Storage {
 	public ROBitSet findSet(String strValue) {
 		BitSet valsSet = values.get(strValue);
 		if(valsSet == null) {
-			return bitSetFabric.newInstance();
+			return bitSetSupplier.get();
 		}
 		return valsSet;
 	}

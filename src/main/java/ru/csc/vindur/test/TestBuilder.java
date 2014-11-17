@@ -1,4 +1,4 @@
-package ru.csc.vindur.test2;
+package ru.csc.vindur.test;
 
 import ru.csc.vindur.document.StorageType;
 import ru.csc.vindur.document.Value;

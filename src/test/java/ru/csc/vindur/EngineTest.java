@@ -1,18 +1,16 @@
 package ru.csc.vindur;
 
-import static org.junit.Assert.*;
+import org.junit.Test;
+import ru.csc.vindur.bitset.EWAHBitSet;
+import ru.csc.vindur.document.StorageType;
+import ru.csc.vindur.document.Value;
+import ru.csc.vindur.optimizer.TinyOptimizer;
 
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-import org.junit.Test;
-
-import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
-import ru.csc.vindur.bitset.bitsetFabric.EWAHBitSetFabric;
-import ru.csc.vindur.document.StorageType;
-import ru.csc.vindur.document.Value;
-import ru.csc.vindur.optimizer.TinyOptimizer;
+import static org.junit.Assert.assertEquals;
 
 public class EngineTest {
 	private static final String INT_ATTR = "Int";
@@ -23,8 +21,7 @@ public class EngineTest {
 		Map<String, StorageType> indexes = new HashMap<>();
 		indexes.put(STR_ATTR, StorageType.STRING);
 		indexes.put(INT_ATTR, StorageType.NUMERIC);
-		BitSetFabric bitSetFabric = new EWAHBitSetFabric();
-		EngineConfig config = new EngineConfig(indexes , bitSetFabric, new TinyOptimizer());
+		EngineConfig config = new EngineConfig(indexes , EWAHBitSet::new, new TinyOptimizer());
 		Engine engine = new Engine(config);
 
 		int doc1 = engine.createDocument();

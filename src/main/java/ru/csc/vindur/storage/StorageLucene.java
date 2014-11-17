@@ -1,6 +1,7 @@
 package ru.csc.vindur.storage;
 
 import java.io.IOException;
+import java.util.function.Supplier;
 
 import org.apache.lucene.analysis.core.WhitespaceAnalyzer;
 import org.apache.lucene.document.Document;
@@ -22,7 +23,6 @@ import org.apache.lucene.util.Version;
 
 import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.ROBitSet;
-import ru.csc.vindur.bitset.bitsetFabric.BitSetFabric;
 import ru.csc.vindur.document.Value;
 
 public class StorageLucene implements Storage {
@@ -30,15 +30,15 @@ public class StorageLucene implements Storage {
 	private static final String ID_FIELD_NAME = "id";
 	private static final String VALUE_FIELD_NAME = "text";
 	private final Directory luceneIndex;
-	private final BitSetFabric bitSetFabric;
 	private final WhitespaceAnalyzer analyzer;
+    private final Supplier<BitSet> bitSetSupplier;
 	private int documentsCount = 0;
 	private IndexSearcher searcher;
 	private IndexWriter indexWriter;
 	private DirectoryReader indexReader;
 
-	public StorageLucene(BitSetFabric bitSetFabric) {
-		this.bitSetFabric = bitSetFabric;
+	public StorageLucene(Supplier<BitSet> bitSetSupplier) {
+		this.bitSetSupplier = bitSetSupplier;
 		luceneIndex = new RAMDirectory();
 		analyzer = new WhitespaceAnalyzer();
 		try {
@@ -98,7 +98,7 @@ public class StorageLucene implements Storage {
 			}
 
 			Query q = new QueryParser(VALUE_FIELD_NAME, analyzer).parse(request);
-			BitSet result = bitSetFabric.newInstance();
+			BitSet result = bitSetSupplier.get();
 			for (ScoreDoc doc : searcher.search(q, documentsCount).scoreDocs) {
 				IndexableField f = indexReader.document(doc.doc).getField(
 						ID_FIELD_NAME);

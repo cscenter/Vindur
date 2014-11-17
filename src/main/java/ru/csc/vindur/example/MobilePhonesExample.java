@@ -1,26 +1,17 @@
-package ru.csc.vindur.test.testHelpers.mobilephone;
+package ru.csc.vindur.example;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import ru.csc.vindur.EngineConfig;
 import ru.csc.vindur.Request;
-import ru.csc.vindur.bitset.bitsetFabric.EWAHBitSetFabric;
-import ru.csc.vindur.document.StorageType;
+import ru.csc.vindur.bitset.EWAHBitSet;
 import ru.csc.vindur.document.Value;
 import ru.csc.vindur.optimizer.TinyOptimizer;
-import ru.csc.vindur.test.utils.RandomUtils;
-import ru.csc.vindur.test2.MultiThreadTestExecutor;
-import ru.csc.vindur.test2.SimpleTestBuilder;
-import ru.csc.vindur.test2.TestBuilder;
-import ru.csc.vindur.test2.TestExecutor;
+import ru.csc.vindur.test.TestExecutor;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
-import java.util.Random;
-import java.util.concurrent.Executors;
 import java.util.function.Supplier;
-import java.util.stream.Collectors;
 
 /**
  * Created by Pavel Chursin on 17.11.2014.
@@ -38,7 +29,7 @@ public class MobilePhonesExample
             System.setProperty("org.slf4j.simpleLogger.log.ru.csc", "info");
 
             test = new MobilePhoneTestBuilder();
-            te = new TestExecutor(new EngineConfig(test.getTypes(), new EWAHBitSetFabric(), new TinyOptimizer()));
+            te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new TinyOptimizer()));
             te.setDocumentSupplier( docSupplier(test) );
             te.setRequestSupplier( requestSupplier(test,5) );
             te.execute(100000, 0);
