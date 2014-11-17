@@ -1,10 +1,10 @@
 package ru.csc.vindur.optimizer;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import ru.csc.vindur.Engine;
 import ru.csc.vindur.Request;
-import ru.csc.vindur.storage.Storage;
-
-import java.util.*;
 
 /**
  * Created by Edgar on 26.10.14.
@@ -32,7 +32,12 @@ public class TinyOptimizer implements Optimizer {
         Plan plan = new Plan();
 
         for (Request.RequestPart requestPart : lr) {
-            Step step = new Step(requestPart.getTag(), requestPart.getFrom(), requestPart.getFrom(), Step.Type.EXACT);
+        	Step step;
+        	if(requestPart.isExact()) {
+        		step = new Step(requestPart.getTag(), requestPart.getFrom(), requestPart.getFrom(), Step.Type.EXACT);
+        	} else {
+        		step = new Step(requestPart.getTag(), requestPart.getFrom(), requestPart.getTo(), Step.Type.RANGE);
+        	}
             plan.addStep(step);
         }
 
