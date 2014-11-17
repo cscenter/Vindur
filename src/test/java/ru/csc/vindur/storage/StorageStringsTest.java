@@ -20,7 +20,8 @@ public class StorageStringsTest
 	@Before
 	public void createStorage()
     {
-		storageStrings = new StorageStrings(EWAHBitSet::new);
+		bitSetSupplier = EWAHBitSet::new;
+		storageStrings = new StorageStrings(bitSetSupplier);
 	}
 	
 	@Test

@@ -2,7 +2,9 @@ package ru.csc.vindur.storage;
 
 import org.junit.Before;
 import org.junit.Test;
+
 import ru.csc.vindur.bitset.BitSet;
+import ru.csc.vindur.bitset.EWAHBitSet;
 import ru.csc.vindur.bitset.ROBitSet;
 import ru.csc.vindur.document.Value;
 
@@ -22,6 +24,7 @@ public class IntegerRangeStoragesTest
 	@Before
 	public void createStorage() {
 		storages = new ArrayList<>();
+		bitSetSupplier = EWAHBitSet::new;
 		storages.add(new StorageBucketIntegers(bitSetSupplier));
 		storages.add(new StorageIntegers(bitSetSupplier));
 	}
