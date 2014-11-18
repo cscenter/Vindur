@@ -1,7 +1,6 @@
 package ru.csc.vindur.bitset;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Iterator;
 
 public class JavaBitSet implements BitSet
 {
@@ -14,16 +13,6 @@ public class JavaBitSet implements BitSet
 
 	private JavaBitSet(java.util.BitSet bitSet) {
 		this.bitSet = bitSet;
-	}
-
-	@Override
-	public List<Integer> toIntList() {
-		ArrayList<Integer> result = new ArrayList<>(bitSet.cardinality());
-		int id = -1;
-		while((id = bitSet.nextSetBit(id + 1)) != -1) {
-			result.add(id);
-		}
-		return result;
 	}
 
 	@Override
@@ -86,6 +75,28 @@ public class JavaBitSet implements BitSet
 		} else if (!bitSet.equals(other.bitSet))
 			return false;
 		return true;
+	}
+
+	@Override
+	public Iterator<Integer> iterator() {
+		return new Iterator<Integer>() {
+			private int current = bitSet.nextSetBit(0);
+			
+			@Override
+			public boolean hasNext() {
+				return current != -1;
+			}
+
+			@Override
+			public Integer next() {
+				if(!hasNext()) {
+					throw new IllegalStateException();
+				}
+				int old = current;
+				current = bitSet.nextSetBit(current + 1);
+				return old;
+			}
+		};
 	}
 
 }

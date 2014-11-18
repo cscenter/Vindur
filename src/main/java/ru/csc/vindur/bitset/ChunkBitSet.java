@@ -114,4 +114,37 @@ public class ChunkBitSet implements BitSet {
 	public BitSet xor(ROBitSet other) {
 		return performOperation(other, (left, right) -> left.xor(right));
 	}
+
+	@Override
+	public Iterator<Integer> iterator() {
+		return new Iterator<Integer>() {
+
+			private final Iterator<BitSet> chunksIterator = chunks.values().iterator();
+			private Iterator<Integer> currentIterator = getNextIter();
+			
+			@Override
+			public boolean hasNext() {
+				return currentIterator != null && currentIterator.hasNext();
+			}
+
+			private Iterator<Integer> getNextIter() {
+				if(!chunksIterator.hasNext()) {
+					return null;
+				}
+				return chunksIterator.next().iterator();
+			}
+
+			@Override
+			public Integer next() {
+				if(!hasNext()) {
+					throw new IllegalStateException();
+				}
+				Integer id = currentIterator.next();
+				if(!currentIterator.hasNext()) {
+					currentIterator = getNextIter();
+				}
+				return id;
+			}
+		};
+	}
 }
