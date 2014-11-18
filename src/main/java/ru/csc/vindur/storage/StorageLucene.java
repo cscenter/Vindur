@@ -25,7 +25,7 @@ import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.ROBitSet;
 import ru.csc.vindur.document.Value;
 
-public class StorageLucene implements Storage {
+public class StorageLucene implements ExactStorage {
 
 	private static final String ID_FIELD_NAME = "id";
 	private static final String VALUE_FIELD_NAME = "text";

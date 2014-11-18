@@ -16,7 +16,7 @@ import ru.csc.vindur.document.Value;
  * @author: Phillip Delgyado Date: 30.10.13 17:40
  */
 @ThreadSafe
-public final class StorageStrings implements Storage
+public final class StorageStrings implements ExactStorage
 {
 	private final Map<String, BitSet> values = new HashMap<>(); // strValue->{itemIds}
 	private final Supplier<BitSet> bitSetSupplier;

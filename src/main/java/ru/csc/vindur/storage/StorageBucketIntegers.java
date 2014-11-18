@@ -12,7 +12,7 @@ import java.util.function.Supplier;
  * @author Andrey Kokorev
  *         Created on 08.11.2014.
  */
-public class StorageBucketIntegers implements RangeStorage
+public class StorageBucketIntegers implements RangeStorage, ExactStorage
 {
     private static final Integer DEFAULT_BUCKET_SIZE = 100;
     private final Integer bucketSize;

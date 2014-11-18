@@ -17,7 +17,7 @@ import ru.csc.vindur.optimizer.Optimizer;
 import ru.csc.vindur.optimizer.Plan;
 import ru.csc.vindur.optimizer.Step;
 import ru.csc.vindur.storage.RangeStorage;
-import ru.csc.vindur.storage.Storage;
+import ru.csc.vindur.storage.ExactStorage;
 import ru.csc.vindur.storage.StorageHelper;
 
 /**
@@ -28,7 +28,7 @@ public class Engine
 {
     private static final StorageType DEFAULT_STORAGE_TYPE = StorageType.STRING;
 	private final AtomicInteger documentsSequence = new AtomicInteger(0);
-    private final ConcurrentMap<String, Storage> columns = new ConcurrentHashMap<>();
+    private final ConcurrentMap<String, ExactStorage> columns = new ConcurrentHashMap<>();
     private final ConcurrentMap<Integer, Document> documents = new ConcurrentHashMap<>();
 	private final EngineConfig config;
 
@@ -49,7 +49,7 @@ public class Engine
             throw new IllegalArgumentException("There is no such document");
         }
         
-        Storage storage = findStorage(attribute);
+        ExactStorage storage = findStorage(attribute);
         documents.get(docId).setAttribute(attribute, value);
         storage.add(docId, value);
     }
@@ -59,15 +59,15 @@ public class Engine
      * @param attribute
      * @return
      */
-	private Storage findStorage(String attribute)
+	private ExactStorage findStorage(String attribute)
     {
-		Storage storage;
+		ExactStorage storage;
         storage = columns.get(attribute);
         if (storage==null)
         {
             StorageType type = config.getValueType(attribute);
             if (type==null) type=DEFAULT_STORAGE_TYPE;
-            Storage newStorage = StorageHelper.getColumn(type, config.getBitSetSupplier());
+            ExactStorage newStorage = StorageHelper.getColumn(type, config.getBitSetSupplier());
             columns.put(attribute,newStorage);
             storage = newStorage;
         }
@@ -100,7 +100,7 @@ public class Engine
     public BitSet executeStep(Step step, BitSet currentResultSet)
     {
         //todo добавить проверки на соответствие шагов и storage. Увы, в оптимизатор не вытащить (
-        Storage index = findStorage(step.getStorageName());
+        ExactStorage index = findStorage(step.getStorageName());
         ROBitSet r = null;
         switch (step.getType())
         {
@@ -160,7 +160,7 @@ public class Engine
         }
     }
 
-    public Storage getStorage(String attribute)
+    public ExactStorage getStorage(String attribute)
     {
         return findStorage(attribute);
     }

@@ -15,12 +15,11 @@ import java.util.function.Supplier;
  * For each attribute value stored a BitSet with every docId
  * with lower or equal attribute value
  */
-public final class StorageIntegers implements RangeStorage {
+public final class StorageIntegers implements RangeStorage, ExactStorage {
     private TreeMap<Integer, BitSet> storage; //key -> bitset of all smaller
     private Supplier<BitSet> bitSetSupplier;
 
-    public StorageIntegers(Supplier<BitSet> bitSetSupplier)
-    {
+    public StorageIntegers(Supplier<BitSet> bitSetSupplier) {
         this.storage = new TreeMap<>();
         this.bitSetSupplier = bitSetSupplier;
     }
