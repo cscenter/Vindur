@@ -48,6 +48,35 @@ public class Document
 		return values;
 	}
 
+	public boolean valueIsPresentByAttribute(String attribute, Value value)
+	{
+		List<Value> values = vals.get(attribute);
+		if (values != null)
+		{
+			return values.contains(value);
+		}
+		else
+		{
+			return false;
+		}
+	}
+
+	public boolean valueIsInRangeByAttribute(String attribute, Value from, Value to)
+	{
+		List<Value> values = vals.get(attribute);
+		for (Value value : values)
+		{
+			//<shitcode!>
+			//todo: how to compare????
+			if ((value.getValue().compareTo(to.getValue()) < 0) && (value.getValue().compareTo(from.getValue()) > 0))
+			{
+				return true;
+			}
+			//</shitcode>
+		}
+		return false;
+	}
+
     public int getId() {
         return id;
     }

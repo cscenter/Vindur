@@ -4,6 +4,7 @@ import ru.csc.vindur.Request;
 import ru.csc.vindur.bitset.BitSet;
 
 import java.awt.font.NumericShaper;
+import java.util.List;
 
 /**
  * Created by Edgar on 03.11.14.
@@ -14,11 +15,31 @@ public class Step {
     private String to;
     private Type type;
 
+    List<Step> stepList;
+
     public Step(String storageName, String from, String to, Type type) {
         this.storageName = storageName;
         this.from = from;
         this.to = to;
         this.type = type;
+    }
+
+    public Step(List<Step> stepList)
+    {
+        this.stepList = stepList;
+        this.type = Type.DIRECT;
+    }
+
+    public List<Step> getStepList() throws UnsupportedOperationException
+    {
+        if (this.type == Type.DIRECT)
+        {
+            return stepList;
+        }
+        else
+        {
+            throw new UnsupportedOperationException();
+        }
     }
 
     public String getStorageName() {
@@ -40,6 +61,7 @@ public class Step {
 
     public static enum Type {
         EXACT,
-        RANGE;
+        RANGE,
+        DIRECT
     }
 }

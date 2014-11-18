@@ -2,8 +2,10 @@ package ru.csc.vindur;
 
 import java.util.Collections;
 import java.util.List;
+import java.util.concurrent.Callable;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
+import java.util.concurrent.Future;
 import java.util.concurrent.atomic.AtomicInteger;
 
 import javax.annotation.concurrent.ThreadSafe;
@@ -11,11 +13,14 @@ import javax.annotation.concurrent.ThreadSafe;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import ru.csc.vindur.Request.RequestPart;
 import ru.csc.vindur.bitset.BitSet;
+import ru.csc.vindur.bitset.EWAHBitSet;
 import ru.csc.vindur.bitset.ROBitSet;
 import ru.csc.vindur.document.Document;
 import ru.csc.vindur.document.StorageType;
 import ru.csc.vindur.document.Value;
+import ru.csc.vindur.optimizer.Optimizer;
 import ru.csc.vindur.optimizer.Plan;
 import ru.csc.vindur.optimizer.Step;
 import ru.csc.vindur.storage.RangeStorage;
@@ -77,43 +82,94 @@ public class Engine
         return storage;
 	}
 	
-    public List<Integer> executeRequest(Request request) throws Exception
+    public List<Integer> executeRequest(Request request)
     {
-        Plan plan = config.getOptimizer().generatePlan(request, this);
+        BitSet resultSet;
+        Optimizer optimizer = this.config.getOptimizer();
+        Plan plan = optimizer.generatePlan(request, this);
 
         Step step = plan.next();
-        BitSet resultSet = null;
-        try {
-	        while (step != null)
-	        {
-				resultSet = executeStep(step, resultSet);
-	            config.getOptimizer().updatePlan(plan, resultSet.cardinality());
-	            if (resultSet.cardinality() == 0)
-	                return Collections.emptyList();
-	            step = plan.next();
-	        }
-		} catch (Exception e) {
-			LOG.debug("Exception when executing request. Message: {}", e.getMessage());
-			throw e;
-		}
+        resultSet = null;
+        while (step != null)
+        {
+            resultSet = executeStep(step, resultSet);
+            optimizer.updatePlan(plan, resultSet.cardinality());
+            if (resultSet.cardinality() == 0)
+                return Collections.emptyList();
+            step = plan.next();
+        }
+
         if (resultSet == null)
             return Collections.emptyList();
 
         return resultSet.toIntList();
     }
 
-    public BitSet executeStep(Step step, BitSet currentResultSet) throws Exception
+    public BitSet executeStep(Step step, BitSet currentResultSet)
     {
         //todo добавить проверки на соответствие шагов и storage. Увы, в оптимизатор не вытащить (
         Storage index = findStorage(step.getStorageName());
         ROBitSet r = null;
         switch (step.getType())
         {
-            case EXACT: r = index.findSet(step.getFrom()); break;
-            case RANGE: r = ((RangeStorage) index).findRangeSet(step.getFrom(), step.getTo());
+            case EXACT:
+                try
+                {
+                    r = index.findSet(step.getFrom());
+                } catch (Exception e)
+                {
+                    e.printStackTrace();
+                }
+                break;
+            case RANGE:
+            {
+                r = ((RangeStorage) index).findRangeSet(step.getFrom(), step.getTo());
+                break;
+            }
+            case DIRECT:
+            {
+                r = checkManually(currentResultSet, step);
+            }
         }
-        if (currentResultSet == null) return r.copy(); //копия первого запроса, на нее будем накладывать фильтры
+        if (currentResultSet==null) return r.copy(); //копия первого запроса, на нее будем накладывать фильтры
         return currentResultSet.and(r);
+    }
+
+
+    //как-то криво написано, если честно
+    public BitSet checkManually(BitSet bitset, Step step)
+    {
+        if (bitset == null || step.getType() == Step.Type.DIRECT)
+        {
+            throw new UnsupportedOperationException("Manual check is not implemented for null previous results");
+        }
+
+        else
+        {
+            BitSet resultSet = new EWAHBitSet();
+            for (Step restStep : step.getStepList())
+            {
+                for (int docId : bitset.toIntList())
+                {
+                    Document document = documents.get(docId);
+                    if (restStep.getType() == Step.Type.EXACT)
+                    {
+                        if (document.valueIsPresentByAttribute(step.getStorageName(), new Value(step.getFrom())))
+                        {
+                            resultSet.set(docId);
+                        }
+                    }
+                    else if (restStep.getType() == Step.Type.RANGE)
+                    {
+                        if (document.valueIsInRangeByAttribute(step.getStorageName(), new Value(step.getFrom()), new Value(step.getTo())))
+                        {
+                            resultSet.set(docId);
+                        }
+                    }
+                }
+            }
+            return bitset.and(resultSet);
+        }
     }
 
     public Storage getStorage(String attribute)

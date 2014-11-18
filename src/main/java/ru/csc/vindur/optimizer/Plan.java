@@ -19,6 +19,11 @@ public class Plan {
         steps.add(step);
     }
 
+    public List<Step> cutTail()
+    {
+        return steps.subList(currentStep, steps.size());
+    }
+
     public Step next()
     {
         if (currentStep >= steps.size() ) return null;
