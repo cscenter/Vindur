@@ -19,7 +19,7 @@ public class IntegerRangeStoragesTest
 {
 	private static final int VALUES_COUNT = 1000;
 	private Supplier<BitSet> bitSetSupplier;
-	private List<RangeStorage> storages;
+	private List<Storage> storages;
 
 	@Before
 	public void createStorage() {
@@ -31,16 +31,16 @@ public class IntegerRangeStoragesTest
 
     @Test
     public void exactRequestTest() throws Exception {
-		for(RangeStorage storage: storages) {
+		for(Storage storage: storages) {
 			exactRequestTest(storage);
 		}
     }
 
-	private void exactRequestTest(RangeStorage storage) throws Exception {
+	private void exactRequestTest(Storage storage) throws Exception {
 		fillUpStorage(storage);
 
         for(int i = 0; i < VALUES_COUNT; i ++) {
-        	assertEquals(bitSetSupplier.get().set(i), storage.findSet(Integer.toString(i)));
+        	assertEquals(bitSetSupplier.get().set(i), ((ExactStorage)storage).findSet(Integer.toString(i)));
         }
 
         Random random = new Random();
@@ -48,19 +48,19 @@ public class IntegerRangeStoragesTest
         for(int i = 0; i < VALUES_COUNT; i ++) {
         	int match = random.nextInt(VALUES_COUNT);
         	BitSet expected = bitSetSupplier.get().set(match);
-            assertEquals(expected, storage.findSet(Integer.toString(match)));
+            assertEquals(expected, ((ExactStorage)storage).findSet(Integer.toString(match)));
         }
 
 	}
 
 	@Test
 	public void rangeRequestTest() {
-		for(RangeStorage storage: storages) {
+		for(Storage storage: storages) {
 			rangeRequestTest(storage);
 		}
 	}
 	
-	private void rangeRequestTest(RangeStorage storage) {
+	private void rangeRequestTest(Storage storage) {
 		fillUpStorage(storage);
 
         Random random = new Random();
@@ -68,7 +68,7 @@ public class IntegerRangeStoragesTest
         for(int i = 0; i < VALUES_COUNT; i ++) {
         	int match = random.nextInt(VALUES_COUNT);
         	ROBitSet expected = bitSetSupplier.get().set(match);
-        	ROBitSet actual = storage.findRangeSet(Integer.toString(match), Integer.toString(match));
+        	ROBitSet actual = ((RangeStorage)storage).findRangeSet(Integer.toString(match), Integer.toString(match));
             assertEquals(expected, actual);
         }
 
@@ -80,11 +80,11 @@ public class IntegerRangeStoragesTest
 			for(int j = Math.max(0, from); j <= to && j < VALUES_COUNT; j ++) {
 				expected = expected.set(j);
 			}
-			assertEquals(expected, storage.findRangeSet(Integer.toString(from), Integer.toString(to)));
+			assertEquals(expected, ((RangeStorage)storage).findRangeSet(Integer.toString(from), Integer.toString(to)));
         }
 	}
 
-	private void fillUpStorage(RangeStorage storage) {
+	private void fillUpStorage(Storage storage) {
 		for(int i = 0; i < VALUES_COUNT; i ++) {
 				storage.add(i, new Value(Integer.toString(i)));
 		}
@@ -92,12 +92,12 @@ public class IntegerRangeStoragesTest
 
     @Test
     public void emptyResultTest() throws Exception {
-        for(RangeStorage storage: storages) {
+        for(Storage storage: storages) {
         	emptyResultTest(storage);
         }
     }
     
-    public void emptyResultTest(RangeStorage storage) throws Exception {
+    public void emptyResultTest(Storage storage) throws Exception {
     	fillUpStorage(storage);
 
     	checkForEmptyResult(storage, VALUES_COUNT + 1, VALUES_COUNT + 1);
@@ -107,10 +107,10 @@ public class IntegerRangeStoragesTest
     	checkForEmptyResult(storage, -1);
     }
 
-    private void checkForEmptyResult(RangeStorage storage, int from, int to) {
-    	assertEquals(0, storage.findRangeSet(Integer.toString(from), Integer.toString(to)).cardinality());
+    private void checkForEmptyResult(Storage storage, int from, int to) {
+    	assertEquals(0, ((RangeStorage)storage).findRangeSet(Integer.toString(from), Integer.toString(to)).cardinality());
     }
-    private void checkForEmptyResult(RangeStorage storage, int match) throws Exception {
-    	assertEquals(0, storage.findSet(Integer.toString(match)).cardinality());
+    private void checkForEmptyResult(Storage storage, int match) throws Exception {
+    	assertEquals(0, ((ExactStorage)storage).findSet(Integer.toString(match)).cardinality());
     }
 }
