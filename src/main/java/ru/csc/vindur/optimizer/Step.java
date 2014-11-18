@@ -15,7 +15,7 @@ public class Step {
     private String to;
     private Type type;
 
-    List<Step> stepList;
+    private List<Step> stepList;
 
     public Step(String storageName, String from, String to, Type type) {
         this.storageName = storageName;

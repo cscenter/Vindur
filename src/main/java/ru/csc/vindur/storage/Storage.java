@@ -14,5 +14,5 @@ public interface Storage
 {
     public long size();
     public void add(int docId, Value value);
-    public ROBitSet findSet(String match) throws Exception;
+    public ROBitSet findSet(String match);
 }

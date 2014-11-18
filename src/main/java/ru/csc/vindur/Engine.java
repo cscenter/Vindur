@@ -93,9 +93,9 @@ public class Engine
         while (step != null)
         {
             resultSet = executeStep(step, resultSet);
-            optimizer.updatePlan(plan, resultSet.cardinality());
             if (resultSet.cardinality() == 0)
                 return Collections.emptyList();
+            optimizer.updatePlan(plan, resultSet.cardinality());
             step = plan.next();
         }
 
@@ -113,14 +113,10 @@ public class Engine
         switch (step.getType())
         {
             case EXACT:
-                try
-                {
-                    r = index.findSet(step.getFrom());
-                } catch (Exception e)
-                {
-                    e.printStackTrace();
-                }
+            {
+                r = index.findSet(step.getFrom());
                 break;
+            }
             case RANGE:
             {
                 r = ((RangeStorage) index).findRangeSet(step.getFrom(), step.getTo());
