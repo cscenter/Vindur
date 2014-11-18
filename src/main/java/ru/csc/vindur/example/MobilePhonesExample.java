@@ -37,7 +37,7 @@ public class MobilePhonesExample
         {
             return () ->
             {
-                Request request = Request.build();
+                Request request = test.getRandomAttributesRequest();
 //                for (String attr : RandomUtils.getRandomStrings(test.getStorages(), partInRequest))
 //                {
 //                        Value val = RandomUtils.gaussianRandomElement(test.getValues(attr), 0.5, 1.0 / 6);

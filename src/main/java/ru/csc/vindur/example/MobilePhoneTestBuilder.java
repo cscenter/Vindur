@@ -1,14 +1,12 @@
 package ru.csc.vindur.example;
 
+import ru.csc.vindur.Request;
 import ru.csc.vindur.document.StorageType;
 import ru.csc.vindur.document.Value;
 import ru.csc.vindur.test.utils.RandomUtils;
 import ru.csc.vindur.test.SimpleTest;
 
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 /**
  * Created by Pavel Chursin on 10.11.2014.
@@ -36,6 +34,8 @@ public class MobilePhoneTestBuilder {
             "iOS", "Android", "Windows Phone"
     };
     private int minRAM = 128, maxRAM = 2048;
+
+    private int vetoAttributes = 1;
 
     private HashSet<Value> uniquePrices, uniqueModels, uniqueRAM, uniqueScreenSize;
 
@@ -67,7 +67,7 @@ public class MobilePhoneTestBuilder {
         doc.put("Smartphone", SimpleTest.list(v));
 
        //price
-        // запоминать сгенерированные значения для запросов в дальнейшем
+       // запоминать сгенерированные значения для запросов в дальнейшем
         v = priceSupplier();
         uniquePrices.add(v);
         doc.put("Price", SimpleTest.list(v));
@@ -97,14 +97,68 @@ public class MobilePhoneTestBuilder {
        return doc;
     }
 
+    public Request getRandomAttributesRequest() {
+        int attributes = (int) (Math.random()*(storageTypes.size() - vetoAttributes)) + 1;
+        return getMultiAttributesRequest(attributes);
+    }
 
+    public Request getMultiAttributesRequest(int n) {
+        if (n > storageTypes.size() - vetoAttributes) {
+            throw new IllegalArgumentException();
+        }
 
+        HashMap<String, Value> randomAttributes = new HashMap<>();
+        Value v;
 
+        v = isSmartSupplier();
+        randomAttributes.put("Smartphone", v);
 
+        do {
+            v = priceSupplier();
+        } while (!uniquePrices.contains(v));
+        randomAttributes.put("Price", v);
 
+        v = manufacturerSupplier();
+        randomAttributes.put("Manufacturer", v);
 
+        // я решил пока что не делать запросы по моделям, потому что таким образом
+        // их можно очень долго генерить до тех пор, пока мы не найдем существующую
+//        do {
+//            v = modelSupplier();
+//        } while (!uniqueModels.contains(v));
+//        randomAttributes.put("Model", v);
 
+        do {
+            v = screenSizeSupplier();
+        } while (!uniqueScreenSize.contains(v));
+        randomAttributes.put("Screen Size", v);
 
+        v = colorSupplier();
+        randomAttributes.put("Color", v);
+
+        v = osSupplier();
+        randomAttributes.put("Operation System", v);
+
+        do {
+            v = ramSupplier();
+        } while (!uniqueRAM.contains(v));
+        randomAttributes.put("RAM", v);
+
+        String[] types = (String[]) randomAttributes.keySet().toArray();
+        Request request = Request.build();
+
+        for (int i = 0; i < n; i++) {
+            String type;
+            do {
+                int randPos = (int) (Math.random() * types.length);
+                type = types[randPos];
+            } while (!randomAttributes.containsKey(type));
+            request.exact(type, randomAttributes.get(type).getValue());
+            randomAttributes.remove(type);
+        }
+
+        return request;
+    }
 
     public Map<String, StorageType> getTypes() {
         return storageTypes;
