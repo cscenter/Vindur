@@ -11,7 +11,6 @@ import java.util.stream.Collectors;
  */
 public class SmartOptimizer implements Optimizer
 {
-    //todo: здесь уже придется знать список частей запроса и размер текущего результата?
     @Override
     public Plan generatePlan(Request request, Engine engine)
     {
@@ -32,18 +31,14 @@ public class SmartOptimizer implements Optimizer
     }
 
 
-    //todo: а может возвращать лямбду, каким-нибудь образом?
-    //todo: то есть если результ небольшой - вернуть лямбду, которая бы проверяла все вручную?
-    //todo: а может научить движок проверять все вручную? - научил
     @Override
     public void updatePlan(Plan plan, int currentResultSize)
     {
-        if (currentResultSize < 5000)
+        if (currentResultSize < 5000) //todo эту константу надо бы куда-нибудь наружу выпихнуть. В конструктор?
         {
             List<Step> tail = plan.cutTail();
             Step directStep = new Step(tail);
             plan.addStep(directStep);
         }
-        // todo: здесь как-то надо понять, что результат небеольшой, остановиться и проверять вручную? Или проапдейтить размер результата?
     }
 }

@@ -81,7 +81,8 @@ public class StorageLucene implements Storage {
 	 * @see http://lucene.apache.org/core/4_0_0/queryparser/index.html
 	 */
 	@Override
-	public ROBitSet findSet(String request) throws ParseException {
+	public ROBitSet findSet(String request)
+    {
 		try {
 			if (indexWriter != null) {
 				indexWriter.close();
@@ -105,8 +106,9 @@ public class StorageLucene implements Storage {
 				result.set(f.numericValue().intValue());
 			}
 			return result;
-		} catch (IOException e) {
-			// cannot happen because of using RAMDirectory as index
+		}
+        catch (Exception e)
+        {
 			throw new RuntimeException(e);
 		}
 	}
