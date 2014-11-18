@@ -1,6 +1,5 @@
 package ru.csc.vindur.storage;
 
-import org.apache.lucene.queryparser.classic.ParseException;
 import org.junit.Before;
 import org.junit.Test;
 import ru.csc.vindur.bitset.BitSet;
@@ -18,7 +17,7 @@ public class StorageLuceneTest
 	}
 	
 	@Test
-	public void simpleTest() throws ParseException {
+	public void simpleTest() {
 		storageLucene.add(0, new Value("value0"));
 		storageLucene.add(1, new Value("value1"));
 		storageLucene.add(2, new Value("value0 value1"));
@@ -30,7 +29,7 @@ public class StorageLuceneTest
 	}
 	
 	@Test
-	public void wildcardSearchTest() throws ParseException {
+	public void wildcardSearchTest() {
 		storageLucene.add(0, new Value("value0"));
 		
 		BitSet expected = new EWAHBitSet().set(0);
@@ -38,25 +37,25 @@ public class StorageLuceneTest
 	}
 	
 	@Test
-	public void regExpSearchTest() throws ParseException {
+	public void regExpSearchTest() {
 		storageLucene.add(0, new Value("value0"));
 		
 		BitSet expected = new EWAHBitSet().set(0);
 		assertEquals(expected, storageLucene.findSet("/[fvs]alue./"));
 	}
 
-	@Test(expected = ParseException.class)
-	public void incorrectWildCardTest() throws ParseException {
+	@Test(expected = RuntimeException.class)
+	public void incorrectWildCardTest() {
 		storageLucene.findSet("*lue0");
 	}
 
-	@Test(expected = ParseException.class)
-	public void incorrectRegExp1Test() throws ParseException {
+	@Test(expected = RuntimeException.class)
+	public void incorrectRegExp1Test() {
 		storageLucene.findSet("/value0");
 	}
 	
-	@Test(expected = ParseException.class)
-	public void incorrectRegExp2Test() throws ParseException {
+	@Test(expected = RuntimeException.class)
+	public void incorrectRegExp2Test() {
 		storageLucene.findSet("/1/1/");
 	}
 }
