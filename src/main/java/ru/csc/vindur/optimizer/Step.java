@@ -1,9 +1,5 @@
 package ru.csc.vindur.optimizer;
 
-import ru.csc.vindur.Request;
-import ru.csc.vindur.bitset.BitSet;
-
-import java.awt.font.NumericShaper;
 import java.util.List;
 
 /**

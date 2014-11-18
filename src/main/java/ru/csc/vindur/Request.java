@@ -1,7 +1,5 @@
 package ru.csc.vindur;
 
-import com.google.common.base.Supplier;
-
 import java.util.Collection;
 import java.util.Collections;
 import java.util.HashMap;

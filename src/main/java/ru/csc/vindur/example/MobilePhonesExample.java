@@ -1,7 +1,9 @@
 package ru.csc.vindur.example;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+import java.util.List;
+import java.util.Map;
+import java.util.function.Supplier;
+
 import ru.csc.vindur.EngineConfig;
 import ru.csc.vindur.Request;
 import ru.csc.vindur.bitset.EWAHBitSet;
@@ -9,17 +11,11 @@ import ru.csc.vindur.document.Value;
 import ru.csc.vindur.optimizer.TinyOptimizer;
 import ru.csc.vindur.test.TestExecutor;
 
-import java.util.List;
-import java.util.Map;
-import java.util.function.Supplier;
-
 /**
  * Created by Pavel Chursin on 17.11.2014.
  */
 public class MobilePhonesExample
 {
-        private static final Logger LOG = LoggerFactory.getLogger(MobilePhoneTest.class);
-
         public static void main(String[] args)
         {
             MobilePhoneTestBuilder test;

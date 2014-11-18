@@ -2,7 +2,6 @@ package ru.csc.vindur.optimizer;
 
 import java.util.LinkedList;
 import java.util.List;
-import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * Created by Edgar on 26.10.14.

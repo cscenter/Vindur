@@ -2,20 +2,13 @@ package ru.csc.vindur;
 
 import java.util.Collections;
 import java.util.List;
-import java.util.concurrent.Callable;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
-import java.util.concurrent.Future;
 import java.util.concurrent.atomic.AtomicInteger;
 
 import javax.annotation.concurrent.ThreadSafe;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
-import ru.csc.vindur.Request.RequestPart;
 import ru.csc.vindur.bitset.BitSet;
-import ru.csc.vindur.bitset.EWAHBitSet;
 import ru.csc.vindur.bitset.ROBitSet;
 import ru.csc.vindur.document.Document;
 import ru.csc.vindur.document.StorageType;
@@ -33,7 +26,6 @@ import ru.csc.vindur.storage.StorageHelper;
 @ThreadSafe
 public class Engine
 {
-	private static final Logger LOG = LoggerFactory.getLogger(Engine.class);
     private static final StorageType DEFAULT_STORAGE_TYPE = StorageType.STRING;
 	private final AtomicInteger documentsSequence = new AtomicInteger(0);
     private final ConcurrentMap<String, Storage> columns = new ConcurrentHashMap<>();
@@ -137,7 +129,7 @@ public class Engine
 
 
     //как-то криво написано, если честно
-    public BitSet checkManually(BitSet bitset, Step step)
+    private BitSet checkManually(BitSet bitset, Step step)
     {
         if (bitset == null || step.getType() == Step.Type.DIRECT)
         {
@@ -146,10 +138,10 @@ public class Engine
 
         else
         {
-            BitSet resultSet = new EWAHBitSet();
+            BitSet resultSet = config.getBitSetSupplier().get();
             for (Step restStep : step.getStepList())
             {
-                for (int docId : bitset.toIntList())
+                for (int docId : bitset)
                 {
                     Document document = documents.get(docId);
                     if (restStep.getType() == Step.Type.EXACT)
