@@ -4,9 +4,7 @@ import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.ROBitSet;
 import ru.csc.vindur.document.Value;
 
-import javax.annotation.Nullable;
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 import java.util.function.Supplier;
 
 /**
@@ -15,23 +13,36 @@ import java.util.function.Supplier;
  */
 public class StorageHierarchy implements HierarchyStorage {
     private Supplier<BitSet> bitSetSupplier;
-    //These maps are sharing same Nodes
-    private Map<String, Node>  valueMap;   //value -> Node { BitSet{childTree ids}
-    private Map<Integer, Node> idMap;      //docId -> Node { BitSet{childTree ids}
+    private Map<String, BitSetNode> storage;   //value -> {BitSet of subtree, BitSet of node}
+    private Hierarchy hierarchy;
     private int size = 0;
 
-    public StorageHierarchy(Supplier<BitSet> bitSetSupplier) {
+    public StorageHierarchy(Supplier<BitSet> bitSetSupplier, Hierarchy hierarchy) {
         this.bitSetSupplier = bitSetSupplier;
-        this.valueMap = new HashMap<>();
-        this.idMap = new HashMap<>();
+        this.storage = new HashMap<>();
+        this.hierarchy = hierarchy;
+        initHierarchy();
+    }
+
+    private void initHierarchy() {
+        for(String node : hierarchy.getNodeSet())
+        {
+            storage.put(node, new BitSetNode(bitSetSupplier.get(), bitSetSupplier.get()));
+        }
     }
 
     @Override
     public ROBitSet findChildTree(String root) {
-        Node result = valueMap.get(root);
+        BitSetNode result = storage.get(root);
+        if(result == null) return bitSetSupplier.get();
+        return result.getSubTree().asROBitSet();
+    }
 
-        if(result != null) return result.getChildTree().asROBitSet();
-        return bitSetSupplier.get();
+    @Override
+    public ROBitSet findNode(String node) {
+        BitSetNode result = storage.get(node);
+        if(result == null) return bitSetSupplier.get();
+        return result.getNode().asROBitSet();
     }
 
     @Override
@@ -39,62 +50,80 @@ public class StorageHierarchy implements HierarchyStorage {
         return size;
     }
 
-    /**
-     * Adds value to storage. Values have to be added from root to leaves in hierarchy,
-     * otherwise findChildTree behaviour is undefined
-     */
     @Override
     public void add(int docId, Value value) {
-        Node parent = idMap.get(value.getParentId());
-        Node node = new Node(bitSetSupplier.get().set(docId), parent);
+        String val = value.getValue();
+        if(!storage.containsKey(val)) return; //TODO: error handling
+        //Set docId in node bitset
+        storage.get(val).getNode().set(docId);
 
-        //Mark that this is children of every parent Node
-        while(parent != null) {
-            parent.getChildTree().set(docId);
-            parent = parent.getParent();
+        //Set docId as member of all parent subtrees
+        List<String> pathToRoot = hierarchy.getPathToRoot(val);
+        for(String node : pathToRoot)
+        {
+
+            storage.get(node).setSubTree(docId);
         }
-
-        valueMap.put(value.getValue(), node);
-        idMap.put(docId, node);
-
         size++;
     }
 
-    private class Node {
-        private final BitSet childTree;
-        private Node parent;
+    public static class Hierarchy {
+        private Map<String, String> tree;  //node -> parent;
+        private String root;
 
-        Node(BitSet childTree, @Nullable Node parent) {
-            this.childTree = childTree;
-            this.parent = parent;
+        public Hierarchy(String root) {
+            this.root = root;
+            this.tree = new HashMap<>();
+            tree.put(root, null);
         }
 
-        public BitSet getChildTree() {
-            return childTree;
-        }
+        public List<String> getPathToRoot(String node) {
+            List<String> result = new ArrayList<>();
+            result.add(node);
+            if(node.equals(root)) return result;
 
-        public Node getParent() {
-            return parent;
-        }
+            node = tree.get(node);
+            while(node != null && !node.equals(root))
+            {
+                result.add(node);
+                node = tree.get(node);
+            }
 
-        @Override
-        public boolean equals(Object o) {
-            if (this == o) return true;
-            if (o == null || getClass() != o.getClass()) return false;
-
-            Node node = (Node) o;
-
-            if (!childTree.equals(node.childTree)) return false;
-            if (parent != null ? !parent.equals(node.parent) : node.parent != null) return false;
-
-            return true;
-        }
-
-        @Override
-        public int hashCode() {
-            int result = childTree.hashCode();
-            result = 31 * result + (parent != null ? parent.hashCode() : 0);
+            result.add(root);
             return result;
+        }
+
+        public String getRoot(String root) {
+            return root;
+        }
+
+        public void addChild(String parent, String child) {
+            tree.put(child, parent);
+        }
+
+        public Set<String> getNodeSet() {
+            return tree.keySet();
+        }
+    }
+
+    private class BitSetNode {
+        private BitSet node, subTree;
+
+        BitSetNode(BitSet node, BitSet subTree) {
+            this.node = node;
+            this.subTree = subTree;
+        }
+
+        BitSet getNode() {
+            return node;
+        }
+
+        BitSet getSubTree() {
+            return subTree;
+        }
+
+        void setSubTree(Integer id) {
+            subTree.set(id);
         }
     }
 }
