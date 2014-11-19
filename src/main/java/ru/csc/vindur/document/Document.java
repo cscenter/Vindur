@@ -51,14 +51,8 @@ public class Document
 	public boolean valueIsPresentByAttribute(String attribute, Value value)
 	{
 		List<Value> values = vals.get(attribute);
-		if (values != null)
-		{
-			return values.contains(value);
-		}
-		else
-		{
-			return false;
-		}
+        if (values==null) return false;
+    	return values.contains(value);
 	}
 
 	public boolean valueIsInRangeByAttribute(String attribute, Value from, Value to)

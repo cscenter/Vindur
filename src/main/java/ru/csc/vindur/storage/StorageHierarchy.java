@@ -11,7 +11,8 @@ import java.util.function.Supplier;
  * @author Andrey Kokorev
  *         Created on 19.11.2014.
  */
-public class StorageHierarchy implements HierarchyStorage {
+public class StorageHierarchy implements HierarchyStorage
+{
     private Supplier<BitSet> bitSetSupplier;
     private Map<String, BitSetNode> storage;   //value -> {BitSet of subtree, BitSet of node}
     private Hierarchy hierarchy;
@@ -67,6 +68,9 @@ public class StorageHierarchy implements HierarchyStorage {
         size++;
     }
 
+
+    //todo это, по сути, внутреннее представление, его не надо вытаскивать наружу.
+    //а вот функцию addChild - стоит вынести в Storage
     public static class Hierarchy {
         private Map<String, String> tree;  //node -> parent;
         private String root;

@@ -14,7 +14,7 @@ public interface ROBitSet extends Iterable<Integer> {
      * @return sorted by index collection of setted bits
      */
     default List<Integer> toIntList() {
-    	List<Integer> result = new ArrayList<Integer>(cardinality());
+    	List<Integer> result = new ArrayList<Integer>(cardinality()); //todo плохой код, слишком много места запрашиваем
     	for(Integer id: this) {
     		result.add(id);
     	}
