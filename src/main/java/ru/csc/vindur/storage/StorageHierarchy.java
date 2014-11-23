@@ -18,18 +18,11 @@ public class StorageHierarchy implements HierarchyStorage
     private Hierarchy hierarchy;
     private int size = 0;
 
-    public StorageHierarchy(Supplier<BitSet> bitSetSupplier, Hierarchy hierarchy) {
+    public StorageHierarchy(Supplier<BitSet> bitSetSupplier, String root) {
         this.bitSetSupplier = bitSetSupplier;
         this.storage = new HashMap<>();
-        this.hierarchy = hierarchy;
-        initHierarchy();
-    }
-
-    private void initHierarchy() {
-        for(String node : hierarchy.getNodeSet())
-        {
-            storage.put(node, new BitSetNode(bitSetSupplier.get(), bitSetSupplier.get()));
-        }
+        this.hierarchy = new Hierarchy(root);
+        storage.put(root, new BitSetNode(bitSetSupplier.get(), bitSetSupplier.get()));
     }
 
     @Override
@@ -62,16 +55,19 @@ public class StorageHierarchy implements HierarchyStorage
         List<String> pathToRoot = hierarchy.getPathToRoot(val);
         for(String node : pathToRoot)
         {
-
             storage.get(node).setSubTree(docId);
         }
         size++;
     }
 
+    public void addChild(String parent, String node) {
+        hierarchy.addChild(parent, node);
+        storage.put(node, new BitSetNode(bitSetSupplier.get(), bitSetSupplier.get()));
+    }
 
     //todo это, по сути, внутреннее представление, его не надо вытаскивать наружу.
     //а вот функцию addChild - стоит вынести в Storage
-    public static class Hierarchy {
+    private class Hierarchy {
         private Map<String, String> tree;  //node -> parent;
         private String root;
 

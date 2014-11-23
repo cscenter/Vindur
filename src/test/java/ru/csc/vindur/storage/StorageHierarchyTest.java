@@ -32,12 +32,10 @@ public class StorageHierarchyTest {
            |
            4
          */
-        StorageHierarchy.Hierarchy hierarchy = new StorageHierarchy.Hierarchy("1");
-        hierarchy.addChild("1", "2");
-        hierarchy.addChild("1", "3");
-        hierarchy.addChild("2", "4");
-
-        storageHierarchy = new StorageHierarchy(bitSetSupplier, hierarchy);
+        storageHierarchy = new StorageHierarchy(bitSetSupplier, "1");
+        storageHierarchy.addChild("1", "2");
+        storageHierarchy.addChild("1", "3");
+        storageHierarchy.addChild("2", "4");
 
         storageHierarchy.add(1, new Value("1"));
         storageHierarchy.add(2, new Value("1"));
@@ -71,18 +69,17 @@ public class StorageHierarchyTest {
                    |
                    8
         */
-        StorageHierarchy.Hierarchy hierarchy = new StorageHierarchy.Hierarchy("1");
-        hierarchy.addChild("1", "2");
-        hierarchy.addChild("1", "3");
-        hierarchy.addChild("1", "4");
+        storageHierarchy = new StorageHierarchy(bitSetSupplier, "1");
+        storageHierarchy.addChild("1", "2");
+        storageHierarchy.addChild("1", "3");
+        storageHierarchy.addChild("1", "4");
 
-        hierarchy.addChild("2", "5");
-        hierarchy.addChild("3", "6");
-        hierarchy.addChild("3", "7");
+        storageHierarchy.addChild("2", "5");
+        storageHierarchy.addChild("3", "6");
+        storageHierarchy.addChild("3", "7");
 
-        hierarchy.addChild("7", "8");
-
-        storageHierarchy = new StorageHierarchy(bitSetSupplier, hierarchy);
+        storageHierarchy.addChild("7", "8");
+        
         storageHierarchy.add(1, new Value("1"));
 
         storageHierarchy.add(2, new Value("2"));
@@ -112,9 +109,8 @@ public class StorageHierarchyTest {
     @Test
     public void emptyChildTreeResultTest() {
         BitSet childTreeEmpty = bitSetSupplier.get();
-        StorageHierarchy.Hierarchy hierarchy = new StorageHierarchy.Hierarchy("2");
-        storageHierarchy = new StorageHierarchy(bitSetSupplier, hierarchy);
-        assertEquals(childTreeEmpty, storageHierarchy.findChildTree("1"));
+        storageHierarchy = new StorageHierarchy(bitSetSupplier, "1");
+        assertEquals(childTreeEmpty, storageHierarchy.findChildTree("2"));
     }
 
     @Test
@@ -128,18 +124,15 @@ public class StorageHierarchyTest {
                    |
                    8
         */
-        StorageHierarchy.Hierarchy hierarchy = new StorageHierarchy.Hierarchy("1");
-        hierarchy.addChild("1", "2");
-        hierarchy.addChild("1", "3");
-        hierarchy.addChild("1", "4");
+        storageHierarchy = new StorageHierarchy(bitSetSupplier, "1");
+        storageHierarchy.addChild("1", "2");
+        storageHierarchy.addChild("1", "3");
+        storageHierarchy.addChild("1", "4");
+        storageHierarchy.addChild("2", "5");
+        storageHierarchy.addChild("3", "6");
+        storageHierarchy.addChild("3", "7");
+        storageHierarchy.addChild("7", "8");
 
-        hierarchy.addChild("2", "5");
-        hierarchy.addChild("3", "6");
-        hierarchy.addChild("3", "7");
-
-        hierarchy.addChild("7", "8");
-
-        storageHierarchy = new StorageHierarchy(bitSetSupplier, hierarchy);
         storageHierarchy.add(1, new Value("1"));
 
         storageHierarchy.add(2, new Value("2"));
@@ -174,12 +167,11 @@ public class StorageHierarchyTest {
            |
            4
          */
-        StorageHierarchy.Hierarchy hierarchy = new StorageHierarchy.Hierarchy("1");
-        hierarchy.addChild("1", "2");
-        hierarchy.addChild("1", "3");
-        hierarchy.addChild("2", "4");
+        storageHierarchy = new StorageHierarchy(bitSetSupplier, "1");
+        storageHierarchy.addChild("1", "3");
+        storageHierarchy.addChild("2", "4");
+        storageHierarchy.addChild("1", "2");
 
-        storageHierarchy = new StorageHierarchy(bitSetSupplier, hierarchy);
 
         storageHierarchy.add(1, new Value("1"));
         storageHierarchy.add(2, new Value("1"));
