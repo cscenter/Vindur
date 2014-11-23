@@ -60,6 +60,12 @@ public class StorageHierarchy implements HierarchyStorage
         size++;
     }
 
+    @Override
+    public long getComplexity()
+    {
+        return 100;
+    }
+
     public void addChild(String parent, String node) {
         hierarchy.addChild(parent, node);
         storage.put(node, new BitSetNode(bitSetSupplier.get(), bitSetSupplier.get()));
