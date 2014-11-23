@@ -19,4 +19,7 @@ public interface HierarchyStorage extends Storage
      * @return Returns ROBitSet of every document with attribute value in specified hierarchy position
      */
     public ROBitSet findNode(String node);
+
+
+    public void addChild(String parent, String node);
 }
