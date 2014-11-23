@@ -65,8 +65,6 @@ public class StorageHierarchy implements HierarchyStorage
         storage.put(node, new BitSetNode(bitSetSupplier.get(), bitSetSupplier.get()));
     }
 
-    //todo это, по сути, внутреннее представление, его не надо вытаскивать наружу.
-    //а вот функцию addChild - стоит вынести в Storage
     private class Hierarchy {
         private Map<String, String> tree;  //node -> parent;
         private String root;
