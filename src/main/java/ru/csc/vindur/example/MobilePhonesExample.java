@@ -16,35 +16,35 @@ import ru.csc.vindur.test.TestExecutor;
  */
 public class MobilePhonesExample
 {
-        public static void main(String[] args)
+    public static void main(String[] args)
+    {
+        MobilePhoneTestBuilder test;
+        TestExecutor te;
+
+        System.setProperty("org.slf4j.simpleLogger.defaultLogLevel", "debug");
+        System.setProperty("org.slf4j.simpleLogger.log.ru.csc", "info");
+
+        test = new MobilePhoneTestBuilder();
+        te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new TinyOptimizer()));
+        te.setDocumentSupplier(docSupplier(test));
+        te.setRequestSupplier(requestSupplier(test, 5));
+        te.execute(100000, 0);
+
+    }
+
+
+    private static Supplier<Request> requestSupplier(final MobilePhoneTestBuilder test, int partInRequest)
+    {
+        return () ->
         {
-            MobilePhoneTestBuilder test;
-            TestExecutor te;
+            Request request = test.getRandomAttributesRequest();
+            return request;
+        };
+    }
 
-            System.setProperty("org.slf4j.simpleLogger.defaultLogLevel", "debug");
-            System.setProperty("org.slf4j.simpleLogger.log.ru.csc", "info");
-
-            test = new MobilePhoneTestBuilder();
-            te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new TinyOptimizer()));
-            te.setDocumentSupplier( docSupplier(test) );
-            te.setRequestSupplier( requestSupplier(test,5) );
-            te.execute(100000, 0);
-
-        }
-
-
-        private static Supplier<Request> requestSupplier(final MobilePhoneTestBuilder test, int partInRequest)
-        {
-            return () ->
-            {
-                Request request = test.getRandomAttributesRequest();
-                return request;
-            };
-        }
-
-        private static Supplier<Map<String,List<Value>>> docSupplier(final MobilePhoneTestBuilder test)
-        {
-            return () -> test.getDocument();
-        }
+    private static Supplier<Map<String, List<Value>>> docSupplier(final MobilePhoneTestBuilder test)
+    {
+        return () -> test.getDocument();
+    }
 
 }

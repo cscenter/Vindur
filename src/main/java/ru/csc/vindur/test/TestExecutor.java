@@ -24,7 +24,7 @@ public class TestExecutor
     private static final Logger LOG = LoggerFactory.getLogger(TestExecutor.class);
 
     protected EngineConfig engineConfig;
-    private Supplier<Map<String,List<Value>>> documentSupplier;
+    private Supplier<Map<String, List<Value>>> documentSupplier;
     private Supplier<Request> requestSupplier;
 
     protected Engine engine;
@@ -42,32 +42,34 @@ public class TestExecutor
 
         //fill documents
         long attributesSetted = 0;
-        attributesSetted = documentExec(docNumber,timer);
+        attributesSetted = documentExec(docNumber, timer);
         LOG.info("{} documents with {} attributes values loaded", docNumber, attributesSetted);
-        LOG.info("Loading time is {}, average time is {}ms", timer, timer.elapsed(TimeUnit.MILLISECONDS) / (double)docNumber );
+        LOG.info("Loading time is {}, average time is {}ms", timer, timer.elapsed(TimeUnit.MILLISECONDS) / (double) docNumber);
 
         //run executors
         long reqSize;
-        reqSize=requestExec(reqNumber,timer);
+        reqSize = requestExec(reqNumber, timer);
         LOG.info("{} request executed for time {} with records {}", reqNumber, timer.elapsed(TimeUnit.MILLISECONDS), reqSize);
-        LOG.info("Average time per request is {}ms", timer.elapsed(TimeUnit.MILLISECONDS) / (double)reqNumber);
+        LOG.info("Average time per request is {}ms", timer.elapsed(TimeUnit.MILLISECONDS) / (double) reqNumber);
     }
 
     protected long documentExec(int docNumber, Stopwatch timer)
     {
         long attributesSetted = 0;
-        for (long i=0; i<docNumber; i++)
+        for (long i = 0; i < docNumber; i++)
         {
-            Map<String,List<Value>> document = documentSupplier.get();
+            Map<String, List<Value>> document = documentSupplier.get();
             LOG.debug("Document generated: {}", document);
             timer.start();
 
             int docId = engine.createDocument();
-            for(Map.Entry<String, List<Value>> attribute: document.entrySet())
+            for (Map.Entry<String, List<Value>> attribute : document.entrySet())
             {
                 attributesSetted += attribute.getValue().size();
-                for(Value value: attribute.getValue())
+                for (Value value : attribute.getValue())
+                {
                     engine.setAttributeByDocId(docId, attribute.getKey(), value);
+                }
             }
             timer.stop();
         }
@@ -76,24 +78,28 @@ public class TestExecutor
 
     protected Integer requestExec(int reqNumber, Stopwatch timer)
     {
-        int size=0;
+        int size = 0;
         timer.reset();
-        for (long i=0; i<reqNumber; i++)
+        for (long i = 0; i < reqNumber; i++)
         {
             Request request = requestSupplier.get();
             LOG.debug(" {}", request);
             timer.start();
-            try {
-				size+=engine.executeRequest(request).size();
-			} catch (Exception e) {
-				LOG.error("Engine throw an exception: {}", e.getMessage());
-			} //даже не проверяем результат, только скорость
+            try
+            {
+                size += engine.executeRequest(request).size();
+            }
+            catch (Exception e)
+            {
+                LOG.error("Engine throw an exception: {}", e.getMessage());
+            } //даже не проверяем результат, только скорость
             timer.stop();
         }
         return size;
     }
 
-    public TestExecutor setDocumentSupplier(Supplier<Map<String, List<Value>>> documentSupplier) {
+    public TestExecutor setDocumentSupplier(Supplier<Map<String, List<Value>>> documentSupplier)
+    {
         this.documentSupplier = documentSupplier;
         return this;
     }

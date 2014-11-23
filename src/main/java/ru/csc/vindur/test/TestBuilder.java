@@ -12,9 +12,9 @@ import java.util.Map;
 public interface TestBuilder
 {
     /**
-     *  All storages for EngineConfig
+     * All storages for EngineConfig
      */
-    Map<String,StorageType> getTypes();
+    Map<String, StorageType> getTypes();
 
     //
 

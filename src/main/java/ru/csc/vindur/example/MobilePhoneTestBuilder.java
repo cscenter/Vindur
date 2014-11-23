@@ -11,7 +11,8 @@ import java.util.*;
 /**
  * Created by Pavel Chursin on 10.11.2014.
  */
-public class MobilePhoneTestBuilder {
+public class MobilePhoneTestBuilder
+{
 /*
     private AttributeDescriptor[] attributeDescriptors = new AttributeDescriptor[]{
             cost, manufacturer, model, isSmartphone, screenSize, color, operationSystem, ram
@@ -39,7 +40,8 @@ public class MobilePhoneTestBuilder {
 
     private HashSet<Value> uniquePrices, uniqueModels, uniqueRAM, uniqueScreenSize;
 
-    public MobilePhoneTestBuilder() {
+    public MobilePhoneTestBuilder()
+    {
         storageTypes = new HashMap<>();
         storageTypes.put("Price", StorageType.NUMERIC);
         storageTypes.put("Manufacturer", StorageType.STRING);
@@ -57,17 +59,17 @@ public class MobilePhoneTestBuilder {
     }
 
 
-    Map<String,List<Value>> getDocument()
+    Map<String, List<Value>> getDocument()
     {
         Value v;
-        Map<String,List<Value>> doc = new HashMap<>();
+        Map<String, List<Value>> doc = new HashMap<>();
 
         v = isSmartSupplier();
 
         doc.put("Smartphone", SimpleTest.list(v));
 
-       //price
-       // запоминать сгенерированные значения для запросов в дальнейшем
+        //price
+        // запоминать сгенерированные значения для запросов в дальнейшем
         v = priceSupplier();
         uniquePrices.add(v);
         doc.put("Price", SimpleTest.list(v));
@@ -94,16 +96,19 @@ public class MobilePhoneTestBuilder {
         uniqueRAM.add(v);
         doc.put("RAM", SimpleTest.list(v));
 
-       return doc;
+        return doc;
     }
 
-    public Request getRandomAttributesRequest() {
-        int attributes = (int) (Math.random()*(storageTypes.size() - vetoAttributes)) + 1;
+    public Request getRandomAttributesRequest()
+    {
+        int attributes = (int) (Math.random() * (storageTypes.size() - vetoAttributes)) + 1;
         return getMultiAttributesRequest(attributes);
     }
 
-    public Request getMultiAttributesRequest(int n) {
-        if (n > storageTypes.size() - vetoAttributes) {
+    public Request getMultiAttributesRequest(int n)
+    {
+        if (n > storageTypes.size() - vetoAttributes)
+        {
             throw new IllegalArgumentException();
         }
 
@@ -113,7 +118,8 @@ public class MobilePhoneTestBuilder {
         v = isSmartSupplier();
         randomAttributes.put("Smartphone", v);
 
-        do {
+        do
+        {
             v = priceSupplier();
         } while (!uniquePrices.contains(v));
         randomAttributes.put("Price", v);
@@ -128,7 +134,8 @@ public class MobilePhoneTestBuilder {
 //        } while (!uniqueModels.contains(v));
 //        randomAttributes.put("Model", v);
 
-        do {
+        do
+        {
             v = screenSizeSupplier();
         } while (!uniqueScreenSize.contains(v));
         randomAttributes.put("Screen Size", v);
@@ -139,7 +146,8 @@ public class MobilePhoneTestBuilder {
         v = osSupplier();
         randomAttributes.put("Operation System", v);
 
-        do {
+        do
+        {
             v = ramSupplier();
         } while (!uniqueRAM.contains(v));
         randomAttributes.put("RAM", v);
@@ -147,9 +155,11 @@ public class MobilePhoneTestBuilder {
         String[] types = (String[]) randomAttributes.keySet().toArray();
         Request request = Request.build();
 
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++)
+        {
             String type;
-            do {
+            do
+            {
                 int randPos = (int) (Math.random() * types.length);
                 type = types[randPos];
             } while (!randomAttributes.containsKey(type));
@@ -160,45 +170,53 @@ public class MobilePhoneTestBuilder {
         return request;
     }
 
-    public Map<String, StorageType> getTypes() {
+    public Map<String, StorageType> getTypes()
+    {
         return storageTypes;
     }
 
     public Value priceSupplier()
     {
-        return new Value(Double.toString(lowPriceBound + Math.random()*(highPriceBound - lowPriceBound)));
+        return new Value(Double.toString(lowPriceBound + Math.random() * (highPriceBound - lowPriceBound)));
     }
 
-    public Value manufacturerSupplier() {
-        int index = (int) (Math.random()*manufacturers.length);
+    public Value manufacturerSupplier()
+    {
+        int index = (int) (Math.random() * manufacturers.length);
         return new Value(manufacturers[index]);
     }
 
-    public Value isSmartSupplier() {
+    public Value isSmartSupplier()
+    {
         return new Value(Math.random() < smartphoneProbability ? "Smartphone" : "Phone");
     }
 
-    public Value screenSizeSupplier() {
-        double screen = minScreenSize + Math.random()*(maxScreenSize - minScreenSize + 0.1);
+    public Value screenSizeSupplier()
+    {
+        double screen = minScreenSize + Math.random() * (maxScreenSize - minScreenSize + 0.1);
         return new Value(String.format("%1.1f", screen));
     }
 
-    public Value modelSupplier() {
+    public Value modelSupplier()
+    {
         return new Value(RandomUtils.getString(4, 10));
     }
 
-    public Value colorSupplier() {
-        int index = (int) (Math.random()*colors.length);
+    public Value colorSupplier()
+    {
+        int index = (int) (Math.random() * colors.length);
         return new Value(colors[index]);
     }
 
-    public Value osSupplier() {
-        int index = (int) (Math.random()*operationSystems.length);
+    public Value osSupplier()
+    {
+        int index = (int) (Math.random() * operationSystems.length);
         return new Value(operationSystems[index]);
     }
 
-    public Value ramSupplier() {
-        int ram = minRAM + (int) (Math.random()*(maxRAM - minRAM + 1));
+    public Value ramSupplier()
+    {
+        int ram = minRAM + (int) (Math.random() * (maxRAM - minRAM + 1));
         return new Value(Integer.toString(ram));
     }
 

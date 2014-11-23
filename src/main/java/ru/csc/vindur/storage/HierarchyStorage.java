@@ -6,7 +6,8 @@ import ru.csc.vindur.bitset.ROBitSet;
  * @author Andrey Kokorev
  *         Created on 19.11.2014.
  */
-public interface HierarchyStorage extends Storage {
+public interface HierarchyStorage extends Storage
+{
     /**
      * @param root of hierarchy child ree
      * @return Returns ROBitSet of every document with attribute values in hierarchy child tree
@@ -14,7 +15,6 @@ public interface HierarchyStorage extends Storage {
     public ROBitSet findChildTree(String root);
 
     /**
-     *
      * @param node of hierarchy tree
      * @return Returns ROBitSet of every document with attribute value in specified hierarchy position
      */

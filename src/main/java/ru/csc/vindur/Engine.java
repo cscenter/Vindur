@@ -27,13 +27,14 @@ import ru.csc.vindur.storage.StorageHelper;
 public class Engine
 {
     private static final StorageType DEFAULT_STORAGE_TYPE = StorageType.STRING;
-	private final AtomicInteger documentsSequence = new AtomicInteger(0);
+    private final AtomicInteger documentsSequence = new AtomicInteger(0);
     private final ConcurrentMap<String, ExactStorage> columns = new ConcurrentHashMap<>();
     private final ConcurrentMap<Integer, Document> documents = new ConcurrentHashMap<>();
-	private final EngineConfig config;
+    private final EngineConfig config;
 
-    public Engine(EngineConfig config) {
-    	this.config = config;
+    public Engine(EngineConfig config)
+    {
+        this.config = config;
     }
 
     public int createDocument()
@@ -44,11 +45,13 @@ public class Engine
         return document.getId();
     }
 
-    public void setAttributeByDocId(int docId, String attribute, Value value) {
-        if (!documents.containsKey(docId)) {
+    public void setAttributeByDocId(int docId, String attribute, Value value)
+    {
+        if (!documents.containsKey(docId))
+        {
             throw new IllegalArgumentException("There is no such document");
         }
-        
+
         ExactStorage storage = findStorage(attribute);
         documents.get(docId).setAttribute(attribute, value);
         storage.add(docId, value);
@@ -56,24 +59,25 @@ public class Engine
 
     /**
      * А если storage нету, то создаем новый
+     *
      * @param attribute
      * @return
      */
-	private ExactStorage findStorage(String attribute)
+    private ExactStorage findStorage(String attribute)
     {
-		ExactStorage storage;
+        ExactStorage storage;
         storage = columns.get(attribute);
-        if (storage==null)
+        if (storage == null)
         {
             StorageType type = config.getValueType(attribute);
-            if (type==null) type=DEFAULT_STORAGE_TYPE;
+            if (type == null) type = DEFAULT_STORAGE_TYPE;
             ExactStorage newStorage = StorageHelper.getColumn(type, config.getBitSetSupplier());
-            columns.put(attribute,newStorage);
+            columns.put(attribute, newStorage);
             storage = newStorage;
         }
         return storage;
-	}
-	
+    }
+
     public List<Integer> executeRequest(Request request)
     {
         BitSet resultSet;
@@ -86,13 +90,17 @@ public class Engine
         {
             resultSet = executeStep(step, resultSet);
             if (resultSet.cardinality() == 0)
+            {
                 return Collections.emptyList();
+            }
             optimizer.updatePlan(plan, resultSet.cardinality());
             step = plan.next();
         }
 
         if (resultSet == null)
+        {
             return Collections.emptyList();
+        }
 
         return resultSet.toIntList();
     }
@@ -119,7 +127,7 @@ public class Engine
                 r = checkManually(currentResultSet, step);
             }
         }
-        if (currentResultSet==null) return r.copy(); //копия первого запроса, на нее будем накладывать фильтры
+        if (currentResultSet == null) return r.copy(); //копия первого запроса, на нее будем накладывать фильтры
         return currentResultSet.and(r);
     }
 
@@ -127,37 +135,33 @@ public class Engine
     //как-то криво написано, если честно
     private BitSet checkManually(BitSet bitset, Step step)
     {
-        if (bitset == null || step.getType() == Step.Type.DIRECT)
+        if (bitset == null || step.getType() != Step.Type.DIRECT)
         {
             throw new UnsupportedOperationException("Manual check is not implemented for null previous results");
         }
 
-        else
+        for (Step restStep : step.getStepList())
         {
-            BitSet resultSet = config.getBitSetSupplier().get();
-            for (Step restStep : step.getStepList())
+            for (int docId : bitset)
             {
-                for (int docId : bitset)
+                Document document = documents.get(docId);
+                if (restStep.getType() == Step.Type.EXACT)
                 {
-                    Document document = documents.get(docId);
-                    if (restStep.getType() == Step.Type.EXACT)
+                    if (document.valueIsPresentByAttribute(step.getStorageName(), new Value(step.getFrom())))
                     {
-                        if (document.valueIsPresentByAttribute(step.getStorageName(), new Value(step.getFrom())))
-                        {
-                            resultSet.set(docId);
-                        }
+                        bitset.set(docId);
                     }
-                    else if (restStep.getType() == Step.Type.RANGE)
+                } else if (restStep.getType() == Step.Type.RANGE)
+                {
+                    if (document.valueIsInRangeByAttribute(step.getStorageName(), new Value(step.getFrom()), new Value(step.getTo())))
                     {
-                        if (document.valueIsInRangeByAttribute(step.getStorageName(), new Value(step.getFrom()), new Value(step.getTo())))
-                        {
-                            resultSet.set(docId);
-                        }
+                        bitset.set(docId);
                     }
                 }
             }
-            return bitset.and(resultSet);
         }
+        return bitset;
+
     }
 
     public ExactStorage getStorage(String attribute)

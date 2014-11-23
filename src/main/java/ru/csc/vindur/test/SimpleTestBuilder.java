@@ -27,7 +27,7 @@ public class SimpleTestBuilder implements TestBuilder
     public static SimpleTestBuilder build(int attributesCount)
     {
         SimpleTestBuilder t = new SimpleTestBuilder();
-        t.attributesCount=attributesCount;
+        t.attributesCount = attributesCount;
         t.types = new HashMap<>();
         t.values = new HashMap<>();
         return t;
@@ -35,57 +35,59 @@ public class SimpleTestBuilder implements TestBuilder
 
     public SimpleTestBuilder setValuesCount(StorageType type, Integer value)
     {
-        valuesCount.put(type,value);
+        valuesCount.put(type, value);
         return this;
     }
 
     public SimpleTestBuilder setTypeFrequence(StorageType type, Double value)
     {
-       typeFrequencies.put(type,value);
-       return this;
+        typeFrequencies.put(type, value);
+        return this;
     }
 
     public SimpleTestBuilder init()
     {
-       LOG.debug(" init storage for {} attributes", attributesCount);
-       for(int i = 0; i < attributesCount; i ++)
+        LOG.debug(" init storage for {} attributes", attributesCount);
+        for (int i = 0; i < attributesCount; i++)
         {
             String storageName = RandomUtils.getString(1, 10);
             StorageType storageType = RandomUtils.getFrec(typeFrequencies);
             types.put(storageName, storageType);
-            values.put(storageName,AttributeGenerator.generateValues(storageType, valuesCount.get(storageType)));
+            values.put(storageName, AttributeGenerator.generateValues(storageType, valuesCount.get(storageType)));
         }
 
         for (String key : types.keySet())
-            LOG.debug( "storage '{}'/{} with values {} ", key, types.get(key).name(), values.get(key) );
+        {
+            LOG.debug("storage '{}'/{} with values {} ", key, types.get(key).name(), values.get(key));
+        }
 
         return this;
     }
 
 
-
-   @Override
-   public Map<String,StorageType> getTypes()
+    @Override
+    public Map<String, StorageType> getTypes()
     {
-         return types;
+        return types;
     }
 
-   @Override
-   public List<String> getStorages()
+    @Override
+    public List<String> getStorages()
     {
         return Lists.newArrayList(types.keySet());
     }
 
-   @Override
-   public Value[] getValues(String key)
-   {
-       return values.get(key);
-   }
+    @Override
+    public Value[] getValues(String key)
+    {
+        return values.get(key);
+    }
 
     @Override
     public Double getProbability(String key)
     {
-        return 1.0;
+        Random random = new Random();
+        return random.nextDouble();
     }
 
 }

@@ -9,11 +9,14 @@ import java.util.function.Supplier;
  * @author Andrey Kokorev
  *         Created on 15.10.2014.
  */
-public class StorageHelper {
+public class StorageHelper
+{
 
-    public static ExactStorage getColumn(StorageType valueType, Supplier<BitSet> bitSetSupplier) {
+    public static ExactStorage getColumn(StorageType valueType, Supplier<BitSet> bitSetSupplier)
+    {
         ExactStorage storage;
-        switch (valueType) {
+        switch (valueType)
+        {
             case NUMERIC:
                 storage = new StorageBucketIntegers(bitSetSupplier); //todo если есть разные реализации, то лучше их через конфиг подключать или как-нибудь еще
 //                storage = new StorageIntegers(bitSetFabric);
