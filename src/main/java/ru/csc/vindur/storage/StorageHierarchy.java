@@ -13,39 +13,45 @@ import java.util.function.Supplier;
  */
 public class StorageHierarchy implements HierarchyStorage
 {
+    public final String ROOT = null;
     private Supplier<BitSet> bitSetSupplier;
     private Map<String, BitSetNode> storage;   //value -> {BitSet of subtree, BitSet of node}
     private Hierarchy hierarchy;
     private int size = 0;
 
-    public StorageHierarchy(Supplier<BitSet> bitSetSupplier, String root) {
+    public StorageHierarchy(Supplier<BitSet> bitSetSupplier)
+    {
         this.bitSetSupplier = bitSetSupplier;
         this.storage = new HashMap<>();
-        this.hierarchy = new Hierarchy(root);
-        storage.put(root, new BitSetNode(bitSetSupplier.get(), bitSetSupplier.get()));
+        this.hierarchy = new Hierarchy(ROOT);
+        storage.put(ROOT, new BitSetNode(bitSetSupplier.get(), bitSetSupplier.get()));
     }
 
     @Override
-    public ROBitSet findChildTree(String root) {
+    public ROBitSet findChildTree(String root)
+    {
         BitSetNode result = storage.get(root);
         if(result == null) return bitSetSupplier.get();
         return result.getSubTree().asROBitSet();
     }
 
     @Override
-    public ROBitSet findNode(String node) {
+    public ROBitSet findNode(String node)
+    {
         BitSetNode result = storage.get(node);
         if(result == null) return bitSetSupplier.get();
         return result.getNode().asROBitSet();
     }
 
     @Override
-    public long size() {
+    public long size()
+    {
         return size;
     }
 
     @Override
-    public void add(int docId, Value value) {
+    public void add(int docId, Value value)
+    {
         String val = value.getValue();
         if(!storage.containsKey(val)) return; //TODO: error handling
         //Set docId in node bitset
@@ -66,30 +72,45 @@ public class StorageHierarchy implements HierarchyStorage
         return 100;
     }
 
-    public void addChild(String parent, String node) {
+    public void addChild(String parent, String node)
+    {
+        if(node == null)
+            throw new IllegalArgumentException("'null' can't be value of 'node' argument");
         hierarchy.addChild(parent, node);
         storage.put(node, new BitSetNode(bitSetSupplier.get(), bitSetSupplier.get()));
     }
 
-    private class Hierarchy {
+    private class Hierarchy
+    {
         private Map<String, String> tree;  //node -> parent;
         private String root;
 
-        public Hierarchy(String root) {
+        public Hierarchy(String root)
+        {
             this.root = root;
             this.tree = new HashMap<>();
             tree.put(root, null);
         }
 
-        public List<String> getPathToRoot(String node) {
+        public List<String> getPathToRoot(String node)
+        {
+            HashSet<String> visited = new HashSet<>();
             List<String> result = new ArrayList<>();
+
+            visited.add(node);
             result.add(node);
+
             if(node.equals(root)) return result;
 
             node = tree.get(node);
             while(node != null && !node.equals(root))
             {
+                if(visited.contains(node))
+                { //cycle found
+                    throw new HierarchyCorruptedException();
+                }
                 result.add(node);
+                visited.add(node);
                 node = tree.get(node);
             }
 
@@ -97,36 +118,59 @@ public class StorageHierarchy implements HierarchyStorage
             return result;
         }
 
-        public String getRoot(String root) {
+        public String getRoot(String root)
+        {
             return root;
         }
 
-        public void addChild(String parent, String child) {
+        public void addChild(String parent, String child)
+        {
             tree.put(child, parent);
+            try
+            { //check if root is reachable
+                getPathToRoot(child);
+            } catch (HierarchyCorruptedException e) { //if not, roll back hierarchy state and pass exception
+                tree.remove(child);
+                throw e;
+            }
         }
 
-        public Set<String> getNodeSet() {
+        public Set<String> getNodeSet()
+        {
             return tree.keySet();
         }
     }
 
-    private class BitSetNode {
+    public static class HierarchyCorruptedException extends RuntimeException
+    {
+        public HierarchyCorruptedException()
+        {
+            super();
+        }
+    }
+
+    private class BitSetNode
+    {
         private BitSet node, subTree;
 
-        BitSetNode(BitSet node, BitSet subTree) {
+        BitSetNode(BitSet node, BitSet subTree)
+        {
             this.node = node;
             this.subTree = subTree;
         }
 
-        BitSet getNode() {
+        BitSet getNode()
+        {
             return node;
         }
 
-        BitSet getSubTree() {
+        BitSet getSubTree()
+        {
             return subTree;
         }
 
-        void setSubTree(Integer id) {
+        void setSubTree(Integer id)
+        {
             subTree.set(id);
         }
     }
