@@ -22,7 +22,7 @@ import org.apache.lucene.util.Version;
 import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.ROBitSet;
 
-public class StorageLucene implements Storage<String, Query>
+public class StorageLucene extends StorageBase<String, Query>
 {
 
     private static final String ID_FIELD_NAME = "id";
@@ -30,13 +30,13 @@ public class StorageLucene implements Storage<String, Query>
     private final Directory luceneIndex;
     private final WhitespaceAnalyzer analyzer;
     private final Supplier<BitSet> bitSetSupplier;
-    private int documentsCount = 0;
     private IndexSearcher searcher;
     private IndexWriter indexWriter;
     private DirectoryReader indexReader;
 
     public StorageLucene(Supplier<BitSet> bitSetSupplier)
     {
+    	super(String.class, Query.class);
         this.bitSetSupplier = bitSetSupplier;
         luceneIndex = new RAMDirectory();
         analyzer = new WhitespaceAnalyzer();
@@ -52,11 +52,6 @@ public class StorageLucene implements Storage<String, Query>
     }
 
     @Override
-    public int documentsCount() {
-        return documentsCount;
-    }
-
-    @Override
     public void add(int docId, String value)
     {
         try
@@ -69,7 +64,7 @@ public class StorageLucene implements Storage<String, Query>
                 indexWriter = new IndexWriter(luceneIndex, new IndexWriterConfig(Version.LATEST, analyzer));
             }
             indexWriter.addDocument(newDocument);
-            documentsCount += 1;
+           	incrementDocumentsCount();
         }
         catch (IOException e)
         {
@@ -101,7 +96,7 @@ public class StorageLucene implements Storage<String, Query>
             }
 
             BitSet result = bitSetSupplier.get();
-            for (ScoreDoc doc : searcher.search(q, documentsCount).scoreDocs)
+            for (ScoreDoc doc : searcher.search(q, documentsCount()).scoreDocs)
             {
                 IndexableField f = indexReader.document(doc.doc).getField(
                         ID_FIELD_NAME);
@@ -121,15 +116,4 @@ public class StorageLucene implements Storage<String, Query>
 		// TODO Auto-generated method stub
 		return false;
 	}
-
-	@Override
-	public boolean validateValueType(Object value) {
-		return value instanceof String;
-	}
-
-	@Override
-	public boolean validateRequestType(Object value) {
-		return value instanceof Query;
-	}
-
 }

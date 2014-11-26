@@ -10,16 +10,16 @@ import java.util.function.Supplier;
  * @author Andrey Kokorev
  *         Created on 19.11.2014.
  */
-public class StorageHierarchy implements Storage<String, String>
+public class StorageHierarchy extends StorageBase<String, String>
 {
     public final String ROOT = null;
     private Supplier<BitSet> bitSetSupplier;
     private Map<String, BitSetNode> storage;   //value -> {BitSet of subtree, BitSet of node}
     private Hierarchy hierarchy;
-    private int size = 0;
 
     public StorageHierarchy(Supplier<BitSet> bitSetSupplier)
     {
+    	super(String.class, String.class);
         this.bitSetSupplier = bitSetSupplier;
         this.storage = new HashMap<>();
         this.hierarchy = new Hierarchy(ROOT);
@@ -46,7 +46,7 @@ public class StorageHierarchy implements Storage<String, String>
         {
             storage.get(node).setSubTree(docId);
         }
-        size++;
+        incrementDocumentsCount();
     }
 
     public void addChild(String parent, String node)
@@ -56,16 +56,6 @@ public class StorageHierarchy implements Storage<String, String>
         hierarchy.addChild(parent, node);
         storage.put(node, new BitSetNode(bitSetSupplier.get(), bitSetSupplier.get()));
     }
-
-	@Override
-	public boolean validateValueType(Object value) {
-		return value instanceof String;
-	}
-
-	@Override
-	public boolean validateRequestType(Object value) {
-		return value instanceof String;
-	}
 
     private class Hierarchy
     {
@@ -168,10 +158,5 @@ public class StorageHierarchy implements Storage<String, String>
 	public boolean checkValue(String value, String request) {
 		// TODO Auto-generated method stub
 		return false;
-	}
-
-	@Override
-	public int documentsCount() {
-		return size;
 	}
 }

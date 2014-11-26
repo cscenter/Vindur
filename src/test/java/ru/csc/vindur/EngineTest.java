@@ -20,7 +20,7 @@ public class EngineTest {
 	public void simpleTest() throws Exception {
 		Map<String, StorageType> indexes = new HashMap<>();
 		indexes.put(STR_ATTR, StorageType.STRING);
-		indexes.put(INT_ATTR, StorageType.NUMERIC);
+		indexes.put(INT_ATTR, StorageType.RANGE_INTEGER);
 		EngineConfig config = new EngineConfig(indexes , EWAHBitSet::new, new DumbOptimizer());
 		Engine engine = new Engine(config);
 

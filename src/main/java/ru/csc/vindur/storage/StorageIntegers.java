@@ -15,13 +15,14 @@ import ru.csc.vindur.bitset.ROBitSet;
  *         For each attribute value stored a BitSet with every docId
  *         with lower or equal attribute value
  */
-public final class StorageIntegers implements Storage<Integer, Integer[]>
+public final class StorageIntegers extends StorageBase<Integer, Integer[]>
 {
     private TreeMap<Integer, BitSet> storage; //key -> bitset of all smaller
     private Supplier<BitSet> bitSetSupplier;
 
     public StorageIntegers(Supplier<BitSet> bitSetSupplier)
     {
+    	super(Integer.class, Integer[].class);
         this.storage = new TreeMap<>();
         this.bitSetSupplier = bitSetSupplier;
     }
@@ -29,6 +30,7 @@ public final class StorageIntegers implements Storage<Integer, Integer[]>
     @Override
     public void add(int docId, Integer value)
     {
+    	incrementDocumentsCount();
         for (Map.Entry<Integer, BitSet> e : storage.tailMap(value).entrySet())
         {
             e.getValue().set(docId);
@@ -83,23 +85,12 @@ public final class StorageIntegers implements Storage<Integer, Integer[]>
 	public boolean checkValue(Integer value, Integer[] request) {
 		return value.compareTo(request[0]) >= 0 && value.compareTo(request[1]) <= 0;
 	}
-
+	
 	@Override
-	public int documentsCount() {
-		// TODO fix. Should be documents count. Not values count
-		return storage.size();
-	}
-
-	@Override
-	public boolean validateValueType(Object value) {
-		return value instanceof Integer;
-	}
-
-	@Override
-	public boolean validateRequestType(Object value) {
-		if(!(value instanceof Integer[])) {
+	public boolean validateRequestType(Object request) {
+		if(!super.validateRequestType(request)) {
 			return false;
 		}
-		return ((Integer[]) value).length == 2;
+		return ((Integer[]) request).length == 2;
 	}
 }

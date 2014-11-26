@@ -13,17 +13,17 @@ import ru.csc.vindur.bitset.ROBitSet;
  * @author Andrey Kokorev
  *         Created on 08.11.2014.
  */
-public class StorageBucketIntegers implements Storage<Integer, Integer[]>
+public class StorageBucketIntegers extends StorageBase<Integer, Integer[]>
 {
 	// TODO test this parameter(find out the better value)
     private static final Integer DEFAULT_BUCKET_SIZE = 100;
     private final Integer bucketSize;
     private HashMap<Integer, TreeMap<Integer, BitSet>> storage; //key hash -> bucket(key -> bitset of all smaller or eq)
     private Supplier<BitSet> bitSetSupplier;
-    private int size = 0;
 
     public StorageBucketIntegers(Supplier<BitSet> bitSetSupplier)
     {
+    	super(Integer.class, Integer[].class);
         this.storage = new HashMap<>();
         this.bitSetSupplier = bitSetSupplier;
         this.bucketSize = DEFAULT_BUCKET_SIZE;
@@ -61,8 +61,7 @@ public class StorageBucketIntegers implements Storage<Integer, Integer[]>
 
 	@Override
 	public void add(int docId, Integer value) {
-        size++;
-
+		incrementDocumentsCount();
         TreeMap<Integer, BitSet> bucket = getBucket(value);
         if(bucket == null) {
             bucket = new TreeMap<>();
@@ -139,22 +138,12 @@ public class StorageBucketIntegers implements Storage<Integer, Integer[]>
 	public boolean checkValue(Integer value, Integer[] request) {
 		return value.compareTo(request[0]) >= 0 && value.compareTo(request[1]) <= 0;
 	}
-
+	
 	@Override
-	public int documentsCount() {
-		return size;
-	}
-
-	@Override
-	public boolean validateValueType(Object value) {
-		return value instanceof Integer;
-	}
-
-	@Override
-	public boolean validateRequestType(Object value) {
-		if(!(value instanceof Integer[])) {
+	public boolean validateRequestType(Object request) {
+		if(!super.validateRequestType(request)) {
 			return false;
 		}
-		return ((Integer[]) value).length == 2;
+		return ((Integer[]) request).length == 2;
 	}
 }

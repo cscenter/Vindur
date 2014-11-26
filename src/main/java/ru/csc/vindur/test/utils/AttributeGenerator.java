@@ -10,7 +10,7 @@ public class AttributeGenerator
     	Object[] values;
         switch (valueType)
         {
-            case NUMERIC:
+            case INTEGER:
                 values = generateNumericValues(valuesCount, 0, Integer.MAX_VALUE);
                 break;
             case STRING:

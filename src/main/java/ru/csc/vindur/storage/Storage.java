@@ -19,8 +19,8 @@ public interface Storage<V, R> {
      */
     public boolean validateValueType(Object value);
     /**
-     * @param value
-     * @return true if <code>value instanceof R</code>
+     * @param request
+     * @return true if <code>request instanceof R</code>
      */
-    public boolean validateRequestType(Object value);
+    public boolean validateRequestType(Object request);
 }

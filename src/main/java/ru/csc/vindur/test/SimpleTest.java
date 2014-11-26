@@ -32,9 +32,9 @@ public class SimpleTest
         //warm stage
         test = SimpleTestBuilder.build(20)
                 .setTypeFrequence(StorageType.STRING, 0.8)
-                .setTypeFrequence(StorageType.NUMERIC, 0.2)
+                .setTypeFrequence(StorageType.INTEGER, 0.2)
                 .setValuesCount(StorageType.STRING, 30)
-                .setValuesCount(StorageType.NUMERIC, 30)
+                .setValuesCount(StorageType.INTEGER, 30)
                 .init();
         te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new DumbOptimizer()));
         te.setDocumentSupplier(docSupplier(test));
@@ -53,8 +53,8 @@ public class SimpleTest
 
         LOG.info("NUMERIC/EWH test");
         test = SimpleTestBuilder.build(1)
-                .setTypeFrequence(StorageType.NUMERIC, 1.0)
-                .setValuesCount(StorageType.NUMERIC, 3000)
+                .setTypeFrequence(StorageType.INTEGER, 1.0)
+                .setValuesCount(StorageType.INTEGER, 3000)
                 .init();
         te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new DumbOptimizer()));
         te.setDocumentSupplier(docSupplier(test));
@@ -64,9 +64,9 @@ public class SimpleTest
         LOG.info("Complex/EWH test");
         test = SimpleTestBuilder.build(20)
                 .setTypeFrequence(StorageType.STRING, 0.8)
-                .setTypeFrequence(StorageType.NUMERIC, 0.2)
+                .setTypeFrequence(StorageType.INTEGER, 0.2)
                 .setValuesCount(StorageType.STRING, 30)
-                .setValuesCount(StorageType.NUMERIC, 30)
+                .setValuesCount(StorageType.INTEGER, 30)
                 .init();
         te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new DumbOptimizer()));
         te.setDocumentSupplier(docSupplier(test));

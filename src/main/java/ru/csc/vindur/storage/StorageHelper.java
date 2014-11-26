@@ -14,12 +14,14 @@ public class StorageHelper {
 	public static Storage getColumn(StorageType valueType, Supplier<BitSet> bitSetSupplier) {
     	Storage storage;
         switch (valueType) {
-            case NUMERIC:
-                storage = new StorageBucketIntegers(bitSetSupplier); //todo если есть разные реализации, то лучше их через конфиг подключать или как-нибудь еще
-//                storage = new StorageIntegers(bitSetFabric);
+            case INTEGER:
+                storage = new StorageIntegers(bitSetSupplier);
                 break;
             case STRING:
                 storage = new StorageStrings(bitSetSupplier);
+                break;
+            case RANGE_INTEGER:
+                storage = new StorageBucketIntegers(bitSetSupplier);
                 break;
             default:
             	throw new RuntimeException("Missing case");
