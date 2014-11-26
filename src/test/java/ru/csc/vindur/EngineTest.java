@@ -4,6 +4,7 @@ import org.junit.Test;
 
 import ru.csc.vindur.bitset.EWAHBitSet;
 import ru.csc.vindur.optimizer.DumbOptimizer;
+import ru.csc.vindur.storage.StorageLucene;
 import ru.csc.vindur.storage.StorageType;
 
 import java.util.Arrays;
@@ -16,6 +17,7 @@ public class EngineTest {
 	private static final String INT_ATTR = "Int";
 	private static final String STR_ATTR = "Str";
 	private static final String STR_ATTR2 = "SortedStr";
+	private static final String STR_ATTR3 = "LuceneStr";
 
 	@Test
 	public void simpleTest() throws Exception {
@@ -23,6 +25,7 @@ public class EngineTest {
 		indexes.put(STR_ATTR, StorageType.STRING);
 		indexes.put(INT_ATTR, StorageType.RANGE_INTEGER);
 		indexes.put(STR_ATTR2, StorageType.RANGE_STRING);
+		indexes.put(STR_ATTR3, StorageType.LUCENE_STRING);
 		EngineConfig config = new EngineConfig(indexes , EWAHBitSet::new, new DumbOptimizer());
 		Engine engine = new Engine(config);
 
@@ -43,6 +46,10 @@ public class EngineTest {
 		engine.setAttributeByDocId(doc2, STR_ATTR2, "aa");
 		engine.setAttributeByDocId(doc3, STR_ATTR2, "b");
 		engine.setAttributeByDocId(doc4, STR_ATTR2, "zxcvbnm");
+		engine.setAttributeByDocId(doc1, STR_ATTR3, "aa bb cc");
+		engine.setAttributeByDocId(doc2, STR_ATTR3, "aa");
+		engine.setAttributeByDocId(doc3, STR_ATTR3, "bb");
+		engine.setAttributeByDocId(doc4, STR_ATTR3, "cc bb");
 
 		Request r1 = Request.build().request(STR_ATTR, "value1").request(INT_ATTR, Arrays.asList(2, 2).toArray());
 		assertEquals(Arrays.asList(doc2), engine.executeRequest(r1));
@@ -61,5 +68,11 @@ public class EngineTest {
 
 		Request r6 = Request.build().request(STR_ATTR2, Arrays.asList("abc", "zxcvbnm").toArray());
 		assertEquals(Arrays.asList(doc1, doc3, doc4), engine.executeRequest(r6));
+
+		Request r7 = Request.build().request(STR_ATTR3, StorageLucene.generateRequest("aa"));
+		assertEquals(Arrays.asList(doc1, doc2), engine.executeRequest(r7));
+
+		Request r8 = Request.build().request(STR_ATTR3, StorageLucene.generateRequest("b*"));
+		assertEquals(Arrays.asList(doc1, doc3, doc4), engine.executeRequest(r8));
 	}
 }

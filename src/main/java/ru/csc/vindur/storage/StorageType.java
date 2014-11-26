@@ -21,5 +21,9 @@ public enum StorageType
 	/**
 	 * Value is String. Request is String[2](closed segment)
 	 */
-    RANGE_STRING
+    RANGE_STRING,
+	/**
+	 * Value is String. Request is constructed with {@code} StorageLucene::getRequest method
+	 */
+    LUCENE_STRING
 }

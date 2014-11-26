@@ -13,12 +13,12 @@ public abstract class StorageBase<V, R> implements Storage<V, R> {
 	
 	@Override
 	public boolean validateValueType(Object value) {
-		return value.getClass().equals(valueClazz);
+		return valueClazz.isAssignableFrom(value.getClass());
 	}
 
 	@Override
 	public boolean validateRequestType(Object request) {
-		return request.getClass().equals(requestClazz);
+		return requestClazz.isAssignableFrom(request.getClass());
 	}
 	@Override
 	public int documentsCount() {

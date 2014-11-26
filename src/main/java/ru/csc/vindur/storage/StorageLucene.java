@@ -12,6 +12,8 @@ import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.index.IndexableField;
+import org.apache.lucene.queryparser.classic.ParseException;
+import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
@@ -27,8 +29,9 @@ public class StorageLucene extends StorageBase<String, Query>
 
     private static final String ID_FIELD_NAME = "id";
     private static final String VALUE_FIELD_NAME = "text";
+    private static final WhitespaceAnalyzer ANALAYZER = new WhitespaceAnalyzer();
+    private static final QueryParser QUERY_PARSER = new QueryParser(VALUE_FIELD_NAME, ANALAYZER);
     private final Directory luceneIndex;
-    private final WhitespaceAnalyzer analyzer;
     private final Supplier<BitSet> bitSetSupplier;
     private IndexSearcher searcher;
     private IndexWriter indexWriter;
@@ -39,10 +42,9 @@ public class StorageLucene extends StorageBase<String, Query>
     	super(String.class, Query.class);
         this.bitSetSupplier = bitSetSupplier;
         luceneIndex = new RAMDirectory();
-        analyzer = new WhitespaceAnalyzer();
         try
         {
-            indexWriter = new IndexWriter(luceneIndex, new IndexWriterConfig(Version.LATEST, analyzer));
+            indexWriter = new IndexWriter(luceneIndex, new IndexWriterConfig(Version.LATEST, ANALAYZER));
         }
         catch (IOException e)
         {
@@ -61,7 +63,7 @@ public class StorageLucene extends StorageBase<String, Query>
             newDocument.add(new IntField(ID_FIELD_NAME, docId, Store.YES));
             if (indexWriter == null)
             {
-                indexWriter = new IndexWriter(luceneIndex, new IndexWriterConfig(Version.LATEST, analyzer));
+                indexWriter = new IndexWriter(luceneIndex, new IndexWriterConfig(Version.LATEST, ANALAYZER));
             }
             indexWriter.addDocument(newDocument);
            	incrementDocumentsCount();
@@ -115,5 +117,15 @@ public class StorageLucene extends StorageBase<String, Query>
 	public boolean checkValue(String value, Query request) {
 		// TODO Auto-generated method stub
 		return false;
+	}
+	
+	/**
+	 * 
+	 * @param requestString as described in Lucene query documentation
+	 * @return generated query
+	 * @throws ParseException 
+	 */
+	public static Query generateRequest(String requestString) throws ParseException {
+		return QUERY_PARSER.parse(requestString);
 	}
 }

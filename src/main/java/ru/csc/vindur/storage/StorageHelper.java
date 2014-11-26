@@ -26,6 +26,9 @@ public class StorageHelper {
             case RANGE_STRING:
                 storage = new StorageRange<String>(bitSetSupplier, String.class);
                 break;
+            case LUCENE_STRING:
+                storage = new StorageLucene(bitSetSupplier);
+                break;
             default:
             	throw new RuntimeException("Missing case");
         }
