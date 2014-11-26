@@ -15,10 +15,10 @@ public class StorageHelper {
     	Storage storage;
         switch (valueType) {
             case INTEGER:
-                storage = new StorageIntegers(bitSetSupplier);
+                storage = new StorageExact<Integer>(bitSetSupplier, Integer.class);
                 break;
             case STRING:
-                storage = new StorageStrings(bitSetSupplier);
+                storage = new StorageExact<String>(bitSetSupplier, String.class);
                 break;
             case RANGE_INTEGER:
                 storage = new StorageBucketIntegers(bitSetSupplier);

@@ -14,13 +14,13 @@ public class StorageStringsTest
 {
 	private static final int VALUES_COUNT = 1000;
 	private Supplier<BitSet> bitSetSupplier;
-	private StorageStrings storageStrings;
+	private StorageExact<String> storageStrings;
 
 	@Before
 	public void createStorage()
     {
 		bitSetSupplier = EWAHBitSet::new;
-		storageStrings = new StorageStrings(bitSetSupplier);
+		storageStrings = new StorageExact<String>(bitSetSupplier, String.class);
 	}
 	
 	@Test

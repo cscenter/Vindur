@@ -5,28 +5,25 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.function.Supplier;
 
-import javax.annotation.concurrent.ThreadSafe;
-
 import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.ROBitSet;
 
 /**
  * @author: Phillip Delgyado Date: 30.10.13 17:40
  */
-@ThreadSafe
-public final class StorageStrings extends StorageBase<String, String>
+public final class StorageExact<T> extends StorageBase<T, T>
 {
-    private final Map<String, BitSet> values = new HashMap<>(); // strValue->{itemIds}
+    private final Map<T, BitSet> values = new HashMap<>(); // strValue->{itemIds}
     private final Supplier<BitSet> bitSetSupplier;
 
-    public StorageStrings(Supplier<BitSet> bitSetSupplier)
+    public StorageExact(Supplier<BitSet> bitSetSupplier, Class<T> type)
     {
-    	super(String.class, String.class);
+    	super(type, type);
         this.bitSetSupplier = bitSetSupplier;
     }
 
     @Override
-    public synchronized void add(int docId, String value)
+    public synchronized void add(int docId, T value)
     {
     	BitSet valsSet = values.get(value);
         if (valsSet == null)
@@ -39,7 +36,7 @@ public final class StorageStrings extends StorageBase<String, String>
     }
 
     @Override
-    public ROBitSet findSet(String request)
+    public ROBitSet findSet(T request)
     {
         BitSet valsSet = values.get(request);
         if (valsSet == null)
@@ -50,7 +47,7 @@ public final class StorageStrings extends StorageBase<String, String>
     }
 
 	@Override
-	public boolean checkValue(String value, String request) {
+	public boolean checkValue(T value, T request) {
 		return value.equals(request);
 	}
 }
