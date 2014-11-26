@@ -23,7 +23,7 @@ public class IntegerRangeStoragesTest {
 		storages = new ArrayList<>();
 		bitSetSupplier = EWAHBitSet::new;
 		storages.add(new StorageBucketIntegers(bitSetSupplier));
-		storages.add(new StorageIntegers(bitSetSupplier));
+		storages.add(new StorageRange<Integer>(bitSetSupplier, Integer.class));
 	}
 
 	@Test

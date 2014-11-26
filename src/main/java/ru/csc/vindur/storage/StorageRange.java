@@ -15,23 +15,24 @@ import ru.csc.vindur.bitset.ROBitSet;
  *         For each attribute value stored a BitSet with every docId
  *         with lower or equal attribute value
  */
-public final class StorageIntegers extends StorageBase<Integer, Integer[]>
+public final class StorageRange<T extends Comparable<T>> extends StorageBase<T, T[]>
 {
-    private TreeMap<Integer, BitSet> storage; //key -> bitset of all smaller
+    private TreeMap<T, BitSet> storage; //key -> bitset of all smaller
     private Supplier<BitSet> bitSetSupplier;
 
-    public StorageIntegers(Supplier<BitSet> bitSetSupplier)
+    @SuppressWarnings("unchecked")
+	public StorageRange(Supplier<BitSet> bitSetSupplier, Class<T> type)
     {
-    	super(Integer.class, Integer[].class);
+    	super(type, (Class<T[]>) java.lang.reflect.Array.newInstance(type, 0).getClass());
         this.storage = new TreeMap<>();
         this.bitSetSupplier = bitSetSupplier;
     }
 
     @Override
-    public void add(int docId, Integer value)
+    public void add(int docId, T value)
     {
     	incrementDocumentsCount();
-        for (Map.Entry<Integer, BitSet> e : storage.tailMap(value).entrySet())
+        for (Map.Entry<T, BitSet> e : storage.tailMap(value).entrySet())
         {
             e.getValue().set(docId);
         }
@@ -41,7 +42,7 @@ public final class StorageIntegers extends StorageBase<Integer, Integer[]>
             return;
         }
         //otherwise we should add new record to storage
-        Entry<Integer, BitSet> lowerEntry = storage.lowerEntry(value);
+        Entry<T, BitSet> lowerEntry = storage.lowerEntry(value);
         BitSet bitSet;
         if (lowerEntry == null)
         {
@@ -55,23 +56,23 @@ public final class StorageIntegers extends StorageBase<Integer, Integer[]>
         storage.put(value, bitSet);
     }
     @Override
-    public ROBitSet findSet(Integer[] request)
+    public ROBitSet findSet(T[] request)
     {
-        Integer lowKey = request[0];
-        Integer highKey = request[1];
+        T lowKey = request[0];
+        T highKey = request[1];
 
-        if (highKey < lowKey)
+        if (highKey.compareTo(lowKey) < 0)
         { //that's not good
             return bitSetSupplier.get();
         }
 
-        Map.Entry<Integer, BitSet> upperEntry = storage.floorEntry(highKey);
+        Map.Entry<T, BitSet> upperEntry = storage.floorEntry(highKey);
         if (upperEntry == null)
         { //highKey is lower than lowest stored value, or storage is empty
             return bitSetSupplier.get();
         }
 
-        Map.Entry<Integer, BitSet> lowerEntry = storage.lowerEntry(lowKey);
+        Map.Entry<T, BitSet> lowerEntry = storage.lowerEntry(lowKey);
         if (lowerEntry == null)
         { //lowKey is lower than lowest stored value
             return upperEntry.getValue().asROBitSet();
@@ -82,15 +83,16 @@ public final class StorageIntegers extends StorageBase<Integer, Integer[]>
     }
 
 	@Override
-	public boolean checkValue(Integer value, Integer[] request) {
+	public boolean checkValue(T value, T[] request) {
 		return value.compareTo(request[0]) >= 0 && value.compareTo(request[1]) <= 0;
 	}
 	
+	@SuppressWarnings("unchecked")
 	@Override
 	public boolean validateRequestType(Object request) {
 		if(!super.validateRequestType(request)) {
 			return false;
 		}
-		return ((Integer[]) request).length == 2;
+		return ((T[]) request).length == 2;
 	}
 }

@@ -23,6 +23,9 @@ public class StorageHelper {
             case RANGE_INTEGER:
                 storage = new StorageBucketIntegers(bitSetSupplier);
                 break;
+            case RANGE_STRING:
+                storage = new StorageRange<String>(bitSetSupplier, String.class);
+                break;
             default:
             	throw new RuntimeException("Missing case");
         }

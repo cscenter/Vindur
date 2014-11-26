@@ -13,9 +13,13 @@ public enum StorageType
 	/**
 	 * Value is Integer. Request is Integer
 	 */
-    INTEGER, 
+    INTEGER,
 	/**
 	 * Value is Integer. Request is Integer[2](closed segment)
 	 */
-    RANGE_INTEGER
+    RANGE_INTEGER,
+	/**
+	 * Value is String. Request is String[2](closed segment)
+	 */
+    RANGE_STRING
 }
