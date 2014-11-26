@@ -11,8 +11,8 @@ import java.util.function.Supplier;
  */
 public class StorageHelper {
 
-    public static ExactStorage getColumn(StorageType valueType, Supplier<BitSet> bitSetSupplier) {
-        ExactStorage storage;
+    public static Storage getColumn(StorageType valueType, Supplier<BitSet> bitSetSupplier) {
+    	Storage storage;
         switch (valueType) {
             case NUMERIC:
                 storage = new StorageBucketIntegers(bitSetSupplier); //todo если есть разные реализации, то лучше их через конфиг подключать или как-нибудь еще

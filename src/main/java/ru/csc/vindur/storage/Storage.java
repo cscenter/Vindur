@@ -1,8 +1,26 @@
 package ru.csc.vindur.storage;
 
-import ru.csc.vindur.document.Value;
+import ru.csc.vindur.bitset.ROBitSet;
 
-public interface Storage {
-    public long size();
-    public void add(int docId, Value value);
+/**
+ * @param <V> Stored value type
+ * @param <R> Request type
+ */
+public interface Storage<V, R> {
+	// TODO find out the better way to check types
+	// default methods can't be used
+    public void add(int docId, V value);
+    public ROBitSet findSet(R request);
+    public boolean checkValue(V value, R request);
+    public int documentsCount();
+    /**
+     * @param value
+     * @return true if <code>value instanceof V</code>
+     */
+    public boolean validateValueType(Object value);
+    /**
+     * @param value
+     * @return true if <code>value instanceof R</code>
+     */
+    public boolean validateRequestType(Object value);
 }
