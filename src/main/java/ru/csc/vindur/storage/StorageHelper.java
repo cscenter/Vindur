@@ -1,7 +1,6 @@
 package ru.csc.vindur.storage;
 
 import ru.csc.vindur.bitset.BitSet;
-import ru.csc.vindur.document.StorageType;
 
 import java.util.function.Supplier;
 
@@ -11,7 +10,8 @@ import java.util.function.Supplier;
  */
 public class StorageHelper {
 
-    public static Storage getColumn(StorageType valueType, Supplier<BitSet> bitSetSupplier) {
+    @SuppressWarnings("rawtypes")
+	public static Storage getColumn(StorageType valueType, Supplier<BitSet> bitSetSupplier) {
     	Storage storage;
         switch (valueType) {
             case NUMERIC:

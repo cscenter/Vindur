@@ -1,12 +1,12 @@
 package ru.csc.vindur.storage;
 
+import java.util.Map;
+import java.util.Map.Entry;
+import java.util.TreeMap;
+import java.util.function.Supplier;
+
 import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.ROBitSet;
-import ru.csc.vindur.document.Value;
-
-import java.util.*;
-import java.util.Map.Entry;
-import java.util.function.Supplier;
 
 
 /**
@@ -15,7 +15,7 @@ import java.util.function.Supplier;
  *         For each attribute value stored a BitSet with every docId
  *         with lower or equal attribute value
  */
-public final class StorageIntegers implements RangeStorage, ExactStorage
+public final class StorageIntegers implements Storage<Integer, Integer[]>
 {
     private TreeMap<Integer, BitSet> storage; //key -> bitset of all smaller
     private Supplier<BitSet> bitSetSupplier;
@@ -27,28 +27,19 @@ public final class StorageIntegers implements RangeStorage, ExactStorage
     }
 
     @Override
-    public long size()
+    public void add(int docId, Integer value)
     {
-        return storage.size();
-    }
-
-    @Override
-    public void add(int docId, Value value)
-    {
-        // TODO what if parse method throws NumberFormatException?
-        Integer newKey = Integer.parseInt(value.getValue());
-
-        for (Map.Entry<Integer, BitSet> e : storage.tailMap(newKey).entrySet())
+        for (Map.Entry<Integer, BitSet> e : storage.tailMap(value).entrySet())
         {
             e.getValue().set(docId);
         }
 
-        if (storage.containsKey(newKey))
+        if (storage.containsKey(value))
         {
             return;
         }
         //otherwise we should add new record to storage
-        Entry<Integer, BitSet> lowerEntry = storage.lowerEntry(newKey);
+        Entry<Integer, BitSet> lowerEntry = storage.lowerEntry(value);
         BitSet bitSet;
         if (lowerEntry == null)
         {
@@ -59,33 +50,13 @@ public final class StorageIntegers implements RangeStorage, ExactStorage
         }
         bitSet.set(docId);
 
-        storage.put(newKey, bitSet);
+        storage.put(value, bitSet);
     }
-
     @Override
-    public long getComplexity()
+    public ROBitSet findSet(Integer[] request)
     {
-        return 10;
-    }
-
-    @Override
-    public ROBitSet findSet(String strictMatch)
-    {
-        Integer key = Integer.parseInt(strictMatch);
-
-        BitSet exact = storage.get(key);
-        if (exact == null) return bitSetSupplier.get();
-
-        if (storage.firstKey().equals(key)) return exact.asROBitSet();
-        BitSet low = storage.lowerEntry(key).getValue();
-        return exact.xor(low);  // everything including this or lower, except lower
-    }
-
-    @Override
-    public ROBitSet findRangeSet(String low, String high)
-    {
-        Integer lowKey = Integer.parseInt(low);
-        Integer highKey = Integer.parseInt(high);
+        Integer lowKey = request[0];
+        Integer highKey = request[1];
 
         if (highKey < lowKey)
         { //that's not good
@@ -104,8 +75,31 @@ public final class StorageIntegers implements RangeStorage, ExactStorage
             return upperEntry.getValue().asROBitSet();
         }
 
-        //everything is alright
+        //everything is ok
         return upperEntry.getValue().xor(lowerEntry.getValue());
     }
-}
 
+	@Override
+	public boolean checkValue(Integer value, Integer[] request) {
+		return value.compareTo(request[0]) >= 0 && value.compareTo(request[1]) <= 0;
+	}
+
+	@Override
+	public int documentsCount() {
+		// TODO fix. Should be documents count. Not values count
+		return storage.size();
+	}
+
+	@Override
+	public boolean validateValueType(Object value) {
+		return value instanceof Integer;
+	}
+
+	@Override
+	public boolean validateRequestType(Object value) {
+		if(!(value instanceof Integer[])) {
+			return false;
+		}
+		return ((Integer[]) value).length == 2;
+	}
+}

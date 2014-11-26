@@ -21,9 +21,8 @@ import org.apache.lucene.util.Version;
 
 import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.ROBitSet;
-import ru.csc.vindur.document.Value;
 
-public class StorageLucene implements Storage
+public class StorageLucene implements Storage<String, Query>
 {
 
     private static final String ID_FIELD_NAME = "id";
@@ -53,18 +52,17 @@ public class StorageLucene implements Storage
     }
 
     @Override
-    public long size()
-    {
+    public int documentsCount() {
         return documentsCount;
     }
 
     @Override
-    public void add(int docId, Value value)
+    public void add(int docId, String value)
     {
         try
         {
             Document newDocument = new Document();
-            newDocument.add(new TextField(VALUE_FIELD_NAME, value.getValue(), Store.NO));
+            newDocument.add(new TextField(VALUE_FIELD_NAME, value, Store.NO));
             newDocument.add(new IntField(ID_FIELD_NAME, docId, Store.YES));
             if (indexWriter == null)
             {
@@ -81,11 +79,6 @@ public class StorageLucene implements Storage
     }
 
     @Override
-    public long getComplexity()
-    {
-        return 1000;
-    }
-
     public ROBitSet findSet(Query q)
     {
         try
@@ -122,5 +115,21 @@ public class StorageLucene implements Storage
             throw new RuntimeException(e);
         }
     }
+
+	@Override
+	public boolean checkValue(String value, Query request) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public boolean validateValueType(Object value) {
+		return value instanceof String;
+	}
+
+	@Override
+	public boolean validateRequestType(Object value) {
+		return value instanceof Query;
+	}
 
 }

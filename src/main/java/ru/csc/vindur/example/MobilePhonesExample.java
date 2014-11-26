@@ -7,7 +7,6 @@ import java.util.function.Supplier;
 import ru.csc.vindur.EngineConfig;
 import ru.csc.vindur.Request;
 import ru.csc.vindur.bitset.EWAHBitSet;
-import ru.csc.vindur.document.Value;
 import ru.csc.vindur.optimizer.TinyOptimizer;
 import ru.csc.vindur.test.TestExecutor;
 
@@ -42,7 +41,7 @@ public class MobilePhonesExample
         };
     }
 
-    private static Supplier<Map<String, List<Value>>> docSupplier(final MobilePhoneTestBuilder test)
+    private static Supplier<Map<String, List<Object>>> docSupplier(final MobilePhoneTestBuilder test)
     {
         return () -> test.getDocument();
     }

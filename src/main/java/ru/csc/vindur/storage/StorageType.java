@@ -1,4 +1,4 @@
-package ru.csc.vindur.document;
+package ru.csc.vindur.storage;
 
 /**
  * Created by Pavel Chursin on 05.10.2014.

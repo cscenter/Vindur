@@ -4,8 +4,8 @@ import java.util.Map;
 import java.util.function.Supplier;
 
 import ru.csc.vindur.bitset.BitSet;
-import ru.csc.vindur.document.StorageType;
 import ru.csc.vindur.optimizer.Optimizer;
+import ru.csc.vindur.storage.StorageType;
 
 /**
  * Created by Pavel Chursin on 05.10.2014.

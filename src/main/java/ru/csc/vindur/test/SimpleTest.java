@@ -2,12 +2,12 @@ package ru.csc.vindur.test;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
 import ru.csc.vindur.EngineConfig;
 import ru.csc.vindur.Request;
 import ru.csc.vindur.bitset.EWAHBitSet;
-import ru.csc.vindur.document.StorageType;
-import ru.csc.vindur.document.Value;
-import ru.csc.vindur.optimizer.TinyOptimizer;
+import ru.csc.vindur.optimizer.DumbOptimizer;
+import ru.csc.vindur.storage.StorageType;
 import ru.csc.vindur.test.utils.RandomUtils;
 
 import java.util.*;
@@ -38,7 +38,7 @@ public class SimpleTest
                 .setValuesCount(StorageType.STRING, 30)
                 .setValuesCount(StorageType.NUMERIC, 30)
                 .init();
-        te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new TinyOptimizer()));
+        te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new DumbOptimizer()));
         te.setDocumentSupplier(docSupplier(test));
         te.setRequestSupplier(requestSupplier(test, 5));
         te.execute(100000, 100000);
@@ -50,7 +50,7 @@ public class SimpleTest
                 .setTypeFrequence(StorageType.ENUM, 1.0)
                 .setValuesCount(StorageType.ENUM, 100)
                 .init();
-        te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new TinyOptimizer()));
+        te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new DumbOptimizer()));
         te.setDocumentSupplier(docSupplier(test));
         te.setRequestSupplier(requestSupplier(test, 1));
         te.execute(1000000, 10000);
@@ -60,7 +60,7 @@ public class SimpleTest
                 .setTypeFrequence(StorageType.STRING, 1.0)
                 .setValuesCount(StorageType.STRING, 30000)
                 .init();
-        te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new TinyOptimizer()));
+        te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new DumbOptimizer()));
         te.setDocumentSupplier(docSupplier(test));
         te.setRequestSupplier(requestSupplier(test, 1));
         te.execute(1000000, 100000);
@@ -70,7 +70,7 @@ public class SimpleTest
                 .setTypeFrequence(StorageType.NUMERIC, 1.0)
                 .setValuesCount(StorageType.NUMERIC, 3000)
                 .init();
-        te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new TinyOptimizer()));
+        te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new DumbOptimizer()));
         te.setDocumentSupplier(docSupplier(test));
         te.setRequestSupplier(requestSupplier(test, 1));
         te.execute(100000, 100000);
@@ -84,13 +84,13 @@ public class SimpleTest
                 .setValuesCount(StorageType.STRING, 30)
                 .setValuesCount(StorageType.NUMERIC, 30)
                 .init();
-        te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new TinyOptimizer()));
+        te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new DumbOptimizer()));
         te.setDocumentSupplier(docSupplier(test));
         te.setRequestSupplier(requestSupplier(test, 5));
         te.execute(100000, 100000);
 
         LOG.info("Complex/EWH test in 4 threads");
-        te = new MultiThreadTestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new TinyOptimizer()), 4);
+        te = new MultiThreadTestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new DumbOptimizer()), 4);
         te.setDocumentSupplier(docSupplier(test));
         te.setRequestSupplier(requestSupplier(test, 5));
         te.execute(100000, 100000);
@@ -113,15 +113,15 @@ public class SimpleTest
 //                }
 //                else
                 {
-                    Value val = RandomUtils.gaussianRandomElement(test.getValues(attr), 0.5, 1.0 / 6);
-                    request.exact(attr, val.getValue());
+                	Object val = RandomUtils.gaussianRandomElement(test.getValues(attr), 0.5, 1.0 / 6);
+                    request.request(attr, val);
                 }
             }
             return request;
         };
     }
 
-    private static Supplier<Map<String, List<Value>>> docSupplier(final TestBuilder test)
+    private static Supplier<Map<String, List<Object>>> docSupplier(final TestBuilder test)
     {
         Random random = new Random();
         return () ->

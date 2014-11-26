@@ -5,8 +5,6 @@ import org.junit.Test;
 
 import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.EWAHBitSet;
-import ru.csc.vindur.bitset.ROBitSet;
-import ru.csc.vindur.document.Value;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -18,7 +16,7 @@ import static org.junit.Assert.assertEquals;
 public class IntegerRangeStoragesTest {
 	private static final int VALUES_COUNT = 1000;
 	private Supplier<BitSet> bitSetSupplier;
-	private List<Storage> storages;
+	private List<Storage<Integer, Integer[]>> storages;
 
 	@Before
 	public void createStorage() {
@@ -29,50 +27,16 @@ public class IntegerRangeStoragesTest {
 	}
 
 	@Test
-	public void exactRequestTest() throws Exception {
-		for (Storage storage : storages) {
-			exactRequestTest(storage);
-		}
-	}
-
-	private void exactRequestTest(Storage storage) throws Exception {
-		fillUpStorage(storage);
-
-		for (int i = 0; i < VALUES_COUNT; i++) {
-			assertEquals(bitSetSupplier.get().set(i),
-					((ExactStorage) storage).findSet(Integer.toString(i)));
-		}
-
-		Random random = new Random();
-
-		for (int i = 0; i < VALUES_COUNT; i++) {
-			int match = random.nextInt(VALUES_COUNT);
-			BitSet expected = bitSetSupplier.get().set(match);
-			assertEquals(expected,
-					((ExactStorage) storage).findSet(Integer.toString(match)));
-		}
-
-	}
-
-	@Test
 	public void rangeRequestTest() {
-		for (Storage storage : storages) {
+		for (Storage<Integer, Integer[]> storage : storages) {
 			rangeRequestTest(storage);
 		}
 	}
 
-	private void rangeRequestTest(Storage storage) {
+	private void rangeRequestTest(Storage<Integer, Integer[]> storage) {
 		fillUpStorage(storage);
 
 		Random random = new Random();
-
-		for (int i = 0; i < VALUES_COUNT; i++) {
-			int match = random.nextInt(VALUES_COUNT);
-			ROBitSet expected = bitSetSupplier.get().set(match);
-			ROBitSet actual = ((RangeStorage) storage).findRangeSet(
-					Integer.toString(match), Integer.toString(match));
-			assertEquals(expected, actual);
-		}
 
 		for (int i = 0; i < VALUES_COUNT; i++) {
 			int from = random.nextInt(2 * VALUES_COUNT) - VALUES_COUNT / 2;
@@ -84,45 +48,41 @@ public class IntegerRangeStoragesTest {
 			}
 			assertEquals(
 					expected,
-					((RangeStorage) storage).findRangeSet(
-							Integer.toString(from), Integer.toString(to)));
+					storage.findSet(toArr(from, to)));
 		}
 	}
 
-	private void fillUpStorage(Storage storage) {
+	private void fillUpStorage(Storage<Integer, Integer[]> storage) {
 		for (int i = 0; i < VALUES_COUNT; i++) {
-			storage.add(i, new Value(Integer.toString(i)));
+			storage.add(i, ((i)));
 		}
 	}
 
 	@Test
 	public void emptyResultTest() throws Exception {
-		for (Storage storage : storages) {
+		for (Storage<Integer, Integer[]> storage : storages) {
 			emptyResultTest(storage);
 		}
 	}
 
-	public void emptyResultTest(Storage storage) throws Exception {
+	public void emptyResultTest(Storage<Integer, Integer[]> storage) throws Exception {
 		fillUpStorage(storage);
 
 		checkForEmptyResult(storage, VALUES_COUNT + 1, VALUES_COUNT + 1);
 		checkForEmptyResult(storage, VALUES_COUNT, 0);
 		checkForEmptyResult(storage, -2, -1);
-		checkForEmptyResult(storage, VALUES_COUNT + 1);
-		checkForEmptyResult(storage, -1);
 	}
 
-	private void checkForEmptyResult(Storage storage, int from, int to) {
+	private void checkForEmptyResult(Storage<Integer, Integer[]> storage, int from, int to) {
 		assertEquals(
 				0,
-				((RangeStorage) storage).findRangeSet(Integer.toString(from),
-						Integer.toString(to)).cardinality());
+				storage.findSet(toArr(from, to)).cardinality());
 	}
-
-	private void checkForEmptyResult(Storage storage, int match)
-			throws Exception {
-		assertEquals(0,
-				((ExactStorage) storage).findSet(Integer.toString(match))
-						.cardinality());
+	
+	private Integer[] toArr(Integer from, Integer to) {
+		Integer[] result = new Integer[2];
+		result[0] = from;
+		result[1] = to;
+		return result;
 	}
 }

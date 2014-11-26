@@ -10,13 +10,12 @@ import javax.annotation.concurrent.ThreadSafe;
 
 import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.ROBitSet;
-import ru.csc.vindur.document.Value;
 
 /**
  * @author: Phillip Delgyado Date: 30.10.13 17:40
  */
 @ThreadSafe
-public final class StorageStrings implements ExactStorage
+public final class StorageStrings implements Storage<String, String>
 {
     private final Map<String, BitSet> values = new HashMap<>(); // strValue->{itemIds}
     private final Supplier<BitSet> bitSetSupplier;
@@ -28,40 +27,47 @@ public final class StorageStrings implements ExactStorage
     }
 
     @Override
-    public long size()
+    public synchronized void add(int docId, String value)
     {
-        return currentSize.longValue();
-    }
-
-    @Override
-    public synchronized void add(int docId, Value value)
-    {
-        String strValue = value.getValue();
-        BitSet valsSet = values.get(strValue);
+    	BitSet valsSet = values.get(value);
         if (valsSet == null)
         {
             valsSet = bitSetSupplier.get();
-            values.put(strValue, valsSet);
+            values.put(value, valsSet);
         }
         valsSet.set(docId);
         currentSize.incrementAndGet();
     }
 
     @Override
-    public long getComplexity()
+    public ROBitSet findSet(String request)
     {
-        return 10;
-    }
-
-    @Override
-    public ROBitSet findSet(String strValue)
-    {
-        BitSet valsSet = values.get(strValue);
+        BitSet valsSet = values.get(request);
         if (valsSet == null)
         {
             return bitSetSupplier.get();
         }
         return valsSet;
     }
+
+	@Override
+	public boolean checkValue(String value, String request) {
+		return value.equals(request);
+	}
+
+	@Override
+	public int documentsCount() {
+		return currentSize.get();
+	}
+
+	@Override
+	public boolean validateValueType(Object value) {
+		return value instanceof String;
+	}
+
+	@Override
+	public boolean validateRequestType(Object value) {
+		return value instanceof String;
+	}
 
 }
