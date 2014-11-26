@@ -18,12 +18,11 @@ public class StorageHelper {
                 storage = new StorageBucketIntegers(bitSetSupplier); //todo если есть разные реализации, то лучше их через конфиг подключать или как-нибудь еще
 //                storage = new StorageIntegers(bitSetFabric);
                 break;
-            case ENUM:
+            case STRING:
                 storage = new StorageStrings(bitSetSupplier);
                 break;
-            case STRING:
             default:
-                storage = new StorageStrings(bitSetSupplier);
+            	throw new RuntimeException("Missing case");
         }
         return storage;
     }

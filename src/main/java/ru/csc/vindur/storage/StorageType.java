@@ -7,6 +7,5 @@ package ru.csc.vindur.storage;
 public enum StorageType
 {
     STRING,
-    ENUM,
     NUMERIC
 }

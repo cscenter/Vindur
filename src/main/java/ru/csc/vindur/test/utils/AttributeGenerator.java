@@ -10,11 +10,8 @@ public class AttributeGenerator
     	Object[] values;
         switch (valueType)
         {
-            case ENUM:
-                values = generateStringValues(valuesCount, 1, 10);
-                break;
             case NUMERIC:
-                values = generateNumericValues(valuesCount, 1, 10);
+                values = generateNumericValues(valuesCount, 0, Integer.MAX_VALUE);
                 break;
             case STRING:
                 values = generateStringValues(valuesCount, 1, 10);
@@ -35,12 +32,12 @@ public class AttributeGenerator
         return values;
     }
 
-    public static Object[] generateNumericValues(int valuesCount, int minLen, int maxLen)
+    public static Object[] generateNumericValues(int valuesCount, int min, int max)
     {
     	Object[] values = new Object[valuesCount];
         for (int i = 0; i < valuesCount; i++)
         {
-            values[i] = RandomUtils.getNumericString(minLen, maxLen);
+            values[i] = RandomUtils.getNumber(min, max);
         }
         return values;
     }

@@ -31,10 +31,8 @@ public class SimpleTest
 
         //warm stage
         test = SimpleTestBuilder.build(20)
-                .setTypeFrequence(StorageType.STRING, 0.4)
-                .setTypeFrequence(StorageType.ENUM, 0.4)
+                .setTypeFrequence(StorageType.STRING, 0.8)
                 .setTypeFrequence(StorageType.NUMERIC, 0.2)
-                .setValuesCount(StorageType.ENUM, 5)
                 .setValuesCount(StorageType.STRING, 30)
                 .setValuesCount(StorageType.NUMERIC, 30)
                 .init();
@@ -42,18 +40,6 @@ public class SimpleTest
         te.setDocumentSupplier(docSupplier(test));
         te.setRequestSupplier(requestSupplier(test, 5));
         te.execute(100000, 100000);
-
-
-        System.setProperty("org.slf4j.simpleLogger.log.ru.csc", "info");
-        LOG.info("ENUM/EWH test");
-        test = SimpleTestBuilder.build(1)
-                .setTypeFrequence(StorageType.ENUM, 1.0)
-                .setValuesCount(StorageType.ENUM, 100)
-                .init();
-        te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new DumbOptimizer()));
-        te.setDocumentSupplier(docSupplier(test));
-        te.setRequestSupplier(requestSupplier(test, 1));
-        te.execute(1000000, 10000);
 
         LOG.info("STRING/EWH test");
         test = SimpleTestBuilder.build(1)
@@ -77,20 +63,12 @@ public class SimpleTest
 
         LOG.info("Complex/EWH test");
         test = SimpleTestBuilder.build(20)
-                .setTypeFrequence(StorageType.STRING, 0.4)
-                .setTypeFrequence(StorageType.ENUM, 0.4)
+                .setTypeFrequence(StorageType.STRING, 0.8)
                 .setTypeFrequence(StorageType.NUMERIC, 0.2)
-                .setValuesCount(StorageType.ENUM, 5)
                 .setValuesCount(StorageType.STRING, 30)
                 .setValuesCount(StorageType.NUMERIC, 30)
                 .init();
         te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new DumbOptimizer()));
-        te.setDocumentSupplier(docSupplier(test));
-        te.setRequestSupplier(requestSupplier(test, 5));
-        te.execute(100000, 100000);
-
-        LOG.info("Complex/EWH test in 4 threads");
-        te = new MultiThreadTestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new DumbOptimizer()), 4);
         te.setDocumentSupplier(docSupplier(test));
         te.setRequestSupplier(requestSupplier(test, 5));
         te.execute(100000, 100000);
@@ -105,17 +83,8 @@ public class SimpleTest
             Request request = Request.build();
             for (String attr : RandomUtils.getRandomStrings(test.getStorages(), partInRequest))
             {
-//                if ( (test.getTypes().get(attr) == StorageType.NUMERIC) && (Math.random() > 0.5))
-//                {
-//                        Value val1 = RandomUtils.gaussianRandomElement(test.getValues(attr), 0.5, 1.0 / 6);
-//                        Value val2 = RandomUtils.gaussianRandomElement(test.getValues(attr), 0.5, 1.0 / 6);
-//                        request.range(attr, val1.getValue(), val2.getValue());
-//                }
-//                else
-                {
                 	Object val = RandomUtils.gaussianRandomElement(test.getValues(attr), 0.5, 1.0 / 6);
                     request.request(attr, val);
-                }
             }
             return request;
         };
@@ -129,17 +98,8 @@ public class SimpleTest
                         .filter(attr -> random.nextDouble() < test.getProbability(attr)) // не каждый атрибут в этом документе
                         .collect(Collectors.toMap
                                         (e -> e,
-                                                e -> list(RandomUtils.gaussianRandomElement(test.getValues(e), 0.5, 1.0 / 6))
+                                                e -> Arrays.asList(RandomUtils.gaussianRandomElement(test.getValues(e), 0.5, 1.0 / 6))
                                         )
                         );
-    }
-
-
-    //todo перенести в отдльный класс
-    public static <T> List<T> list(T t)
-    {
-        List<T> l = new ArrayList<>(1);
-        l.add(t);
-        return l;
     }
 }

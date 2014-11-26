@@ -3,7 +3,6 @@ package ru.csc.vindur.example;
 import ru.csc.vindur.Request;
 import ru.csc.vindur.storage.StorageType;
 import ru.csc.vindur.test.utils.RandomUtils;
-import ru.csc.vindur.test.SimpleTest;
 
 import java.util.*;
 
@@ -42,14 +41,14 @@ public class MobilePhoneTestBuilder
     public MobilePhoneTestBuilder()
     {
         storageTypes = new HashMap<>();
-        storageTypes.put("Price", StorageType.NUMERIC);
+        storageTypes.put("Price", StorageType.STRING);
         storageTypes.put("Manufacturer", StorageType.STRING);
         storageTypes.put("Model", StorageType.STRING);
-        storageTypes.put("Smartphone", StorageType.ENUM);
+        storageTypes.put("Smartphone", StorageType.STRING);
         storageTypes.put("Screen Size", StorageType.STRING);
-        storageTypes.put("Color", StorageType.ENUM);
-        storageTypes.put("Operation System", StorageType.ENUM);
-        storageTypes.put("RAM", StorageType.NUMERIC);
+        storageTypes.put("Color", StorageType.STRING);
+        storageTypes.put("Operation System", StorageType.STRING);
+        storageTypes.put("RAM", StorageType.STRING);
 
         uniquePrices = new HashSet<>();
         uniqueModels = new HashSet<>();
@@ -65,35 +64,35 @@ public class MobilePhoneTestBuilder
 
         v = isSmartSupplier();
 
-        doc.put("Smartphone", SimpleTest.list(v));
+        doc.put("Smartphone", Arrays.asList(v));
 
         //price
         // запоминать сгенерированные значения для запросов в дальнейшем
         v = priceSupplier();
         uniquePrices.add(v);
-        doc.put("Price", SimpleTest.list(v));
+        doc.put("Price", Arrays.asList(v));
         //
 
         v = manufacturerSupplier();
-        doc.put("Manufacturer", SimpleTest.list(v));
+        doc.put("Manufacturer", Arrays.asList(v));
 
         v = modelSupplier();
         uniqueModels.add(v);
-        doc.put("Model", SimpleTest.list(v));
+        doc.put("Model", Arrays.asList(v));
 
         v = screenSizeSupplier();
         uniqueScreenSize.add(v);
-        doc.put("Screen Size", SimpleTest.list(v));
+        doc.put("Screen Size", Arrays.asList(v));
 
         v = colorSupplier();
-        doc.put("Color", SimpleTest.list(v));
+        doc.put("Color", Arrays.asList(v));
 
         v = osSupplier();
-        doc.put("Operation System", SimpleTest.list(v));
+        doc.put("Operation System", Arrays.asList(v));
 
         v = ramSupplier();
         uniqueRAM.add(v);
-        doc.put("RAM", SimpleTest.list(v));
+        doc.put("RAM", Arrays.asList(v));
 
         return doc;
     }
@@ -162,7 +161,7 @@ public class MobilePhoneTestBuilder
                 int randPos = (int) (Math.random() * types.length);
                 type = types[randPos];
             } while (!randomAttributes.containsKey(type));
-            request.exact(type, randomAttributes.get(type));
+            request.request(type, randomAttributes.get(type));
             randomAttributes.remove(type);
         }
 

@@ -7,7 +7,7 @@ import java.util.function.Supplier;
 import ru.csc.vindur.EngineConfig;
 import ru.csc.vindur.Request;
 import ru.csc.vindur.bitset.EWAHBitSet;
-import ru.csc.vindur.optimizer.TinyOptimizer;
+import ru.csc.vindur.optimizer.DumbOptimizer;
 import ru.csc.vindur.test.TestExecutor;
 
 /**
@@ -24,7 +24,7 @@ public class MobilePhonesExample
         System.setProperty("org.slf4j.simpleLogger.log.ru.csc", "info");
 
         test = new MobilePhoneTestBuilder();
-        te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new TinyOptimizer()));
+        te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new DumbOptimizer()));
         te.setDocumentSupplier(docSupplier(test));
         te.setRequestSupplier(requestSupplier(test, 5));
         te.execute(100000, 0);

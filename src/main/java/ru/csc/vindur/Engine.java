@@ -47,7 +47,8 @@ public class Engine {
 
 		Storage storage = findStorage(attribute);
 		if (!storage.validateValueType(value)) {
-			throw new IllegalArgumentException("Invalid value type");
+			throw new IllegalArgumentException("Invalid value type " + value.getClass().getName() + 
+					" for Storage " + storage.getClass().getName());
 		}
 		documents.get(docId).setAttribute(attribute, value);
 		storage.add(docId, value);
@@ -110,7 +111,8 @@ public class Engine {
 				throw new IllegalArgumentException("Storage for attribute " + part.getKey() + " is not created");
 			}
 			if(!storage.validateRequestType(part.getValue())) {
-				throw new IllegalArgumentException("Storage for attribute " + part.getKey() + " is uncompatible with request");
+				throw new IllegalArgumentException("Storage " + storage.getClass().getName() + " for attribute " 
+						+ part.getKey() + " is uncompatible with request " + part.getValue().getClass().getName());
 			}
 		}
 	}
