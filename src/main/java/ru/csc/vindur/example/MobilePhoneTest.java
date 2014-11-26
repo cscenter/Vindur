@@ -3,7 +3,8 @@ package ru.csc.vindur.example;
 /**
  * Created by Pavel Chursin on 29.10.2014.
  */
-public class MobilePhoneTest  {
+public class MobilePhoneTest
+{
 
 //    private final EngineConfig simpleEngineConfig;
 //    private final int documentsCount;

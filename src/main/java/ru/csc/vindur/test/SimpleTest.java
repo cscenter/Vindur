@@ -23,13 +23,13 @@ public class SimpleTest
 
     public static void main(String[] args)
     {
-       SimpleTestBuilder test;
-       TestExecutor te;
+        SimpleTestBuilder test;
+        TestExecutor te;
 
-       System.setProperty("org.slf4j.simpleLogger.defaultLogLevel", "debug");
-       System.setProperty("org.slf4j.simpleLogger.log.ru.csc", "info");
+        System.setProperty("org.slf4j.simpleLogger.defaultLogLevel", "debug");
+        System.setProperty("org.slf4j.simpleLogger.log.ru.csc", "info");
 
-       //warm stage
+        //warm stage
         test = SimpleTestBuilder.build(20)
                 .setTypeFrequence(StorageType.STRING, 0.4)
                 .setTypeFrequence(StorageType.ENUM, 0.4)
@@ -39,31 +39,31 @@ public class SimpleTest
                 .setValuesCount(StorageType.NUMERIC, 30)
                 .init();
         te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new TinyOptimizer()));
-        te.setDocumentSupplier( docSupplier(test) );
-        te.setRequestSupplier( requestSupplier(test,5) );
+        te.setDocumentSupplier(docSupplier(test));
+        te.setRequestSupplier(requestSupplier(test, 5));
         te.execute(100000, 100000);
 
 
-       System.setProperty("org.slf4j.simpleLogger.log.ru.csc", "info");
-       LOG.info("ENUM/EWH test");
-       test = SimpleTestBuilder.build(1)
-            .setTypeFrequence(StorageType.ENUM,1.0)
-            .setValuesCount(StorageType.ENUM,100)
-            .init();
-        te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new,new TinyOptimizer()));
-         te.setDocumentSupplier( docSupplier(test) );
-         te.setRequestSupplier( requestSupplier(test,1) );
+        System.setProperty("org.slf4j.simpleLogger.log.ru.csc", "info");
+        LOG.info("ENUM/EWH test");
+        test = SimpleTestBuilder.build(1)
+                .setTypeFrequence(StorageType.ENUM, 1.0)
+                .setValuesCount(StorageType.ENUM, 100)
+                .init();
+        te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new TinyOptimizer()));
+        te.setDocumentSupplier(docSupplier(test));
+        te.setRequestSupplier(requestSupplier(test, 1));
         te.execute(1000000, 10000);
 
         LOG.info("STRING/EWH test");
         test = SimpleTestBuilder.build(1)
-                .setTypeFrequence(StorageType.STRING,1.0)
-                .setValuesCount(StorageType.STRING,30000)
+                .setTypeFrequence(StorageType.STRING, 1.0)
+                .setValuesCount(StorageType.STRING, 30000)
                 .init();
-        te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new,new TinyOptimizer()));
-         te.setDocumentSupplier( docSupplier(test) );
-         te.setRequestSupplier( requestSupplier(test,1) );
-        te.execute(1000000,100000);
+        te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new TinyOptimizer()));
+        te.setDocumentSupplier(docSupplier(test));
+        te.setRequestSupplier(requestSupplier(test, 1));
+        te.execute(1000000, 100000);
 
         LOG.info("NUMERIC/EWH test");
         test = SimpleTestBuilder.build(1)
@@ -77,22 +77,22 @@ public class SimpleTest
 
         LOG.info("Complex/EWH test");
         test = SimpleTestBuilder.build(20)
-          .setTypeFrequence(StorageType.STRING, 0.4)
-          .setTypeFrequence(StorageType.ENUM, 0.4)
-          .setTypeFrequence(StorageType.NUMERIC, 0.2)
-          .setValuesCount(StorageType.ENUM, 5)
-          .setValuesCount(StorageType.STRING, 30)
-          .setValuesCount(StorageType.NUMERIC, 30)
-          .init();
+                .setTypeFrequence(StorageType.STRING, 0.4)
+                .setTypeFrequence(StorageType.ENUM, 0.4)
+                .setTypeFrequence(StorageType.NUMERIC, 0.2)
+                .setValuesCount(StorageType.ENUM, 5)
+                .setValuesCount(StorageType.STRING, 30)
+                .setValuesCount(StorageType.NUMERIC, 30)
+                .init();
         te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new TinyOptimizer()));
-        te.setDocumentSupplier( docSupplier(test) );
-        te.setRequestSupplier( requestSupplier(test,5) );
+        te.setDocumentSupplier(docSupplier(test));
+        te.setRequestSupplier(requestSupplier(test, 5));
         te.execute(100000, 100000);
 
         LOG.info("Complex/EWH test in 4 threads");
-        te = new MultiThreadTestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new TinyOptimizer()),4);
-        te.setDocumentSupplier( docSupplier(test) );
-        te.setRequestSupplier( requestSupplier(test,5) );
+        te = new MultiThreadTestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new TinyOptimizer()), 4);
+        te.setDocumentSupplier(docSupplier(test));
+        te.setRequestSupplier(requestSupplier(test, 5));
         te.execute(100000, 100000);
 
     }
@@ -100,8 +100,8 @@ public class SimpleTest
 
     private static Supplier<Request> requestSupplier(final TestBuilder test, int partInRequest)
     {
-       return () ->
-       {
+        return () ->
+        {
             Request request = Request.build();
             for (String attr : RandomUtils.getRandomStrings(test.getStorages(), partInRequest))
             {
@@ -112,31 +112,31 @@ public class SimpleTest
 //                        request.range(attr, val1.getValue(), val2.getValue());
 //                }
 //                else
-                  {
-                        Value val = RandomUtils.gaussianRandomElement(test.getValues(attr), 0.5, 1.0 / 6);
-                        request.exact(attr, val.getValue());
-                  }
+                {
+                    Value val = RandomUtils.gaussianRandomElement(test.getValues(attr), 0.5, 1.0 / 6);
+                    request.exact(attr, val.getValue());
+                }
             }
-           return request;
-       };
+            return request;
+        };
     }
 
-    private static Supplier<Map<String,List<Value>>> docSupplier(final TestBuilder test)
+    private static Supplier<Map<String, List<Value>>> docSupplier(final TestBuilder test)
     {
         Random random = new Random();
         return () ->
-          test.getStorages().stream()
-          .filter(attr -> random.nextDouble() < test.getProbability(attr) ) // не каждый атрибут в этом документе
-          .collect(Collectors.toMap
-                          (e -> e,
-                           e -> list(RandomUtils.gaussianRandomElement(test.getValues(e), 0.5, 1.0 / 6))
-                          )
-          );
+                test.getStorages().stream()
+                        .filter(attr -> random.nextDouble() < test.getProbability(attr)) // не каждый атрибут в этом документе
+                        .collect(Collectors.toMap
+                                        (e -> e,
+                                                e -> list(RandomUtils.gaussianRandomElement(test.getValues(e), 0.5, 1.0 / 6))
+                                        )
+                        );
     }
 
 
     //todo перенести в отдльный класс
-    public static <T> List<T> list (T t)
+    public static <T> List<T> list(T t)
     {
         List<T> l = new ArrayList<>(1);
         l.add(t);

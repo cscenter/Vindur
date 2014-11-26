@@ -6,15 +6,18 @@ import java.util.List;
 /**
  * Created by Edgar on 26.10.14.
  */
-public class Plan {
+public class Plan
+{
     private List<Step> steps;
     private Integer currentStep = 0;
 
-    public Plan() {
+    public Plan()
+    {
         steps = new LinkedList<>();
     }
 
-    public void addStep(Step step) {
+    public void addStep(Step step)
+    {
         steps.add(step);
     }
 
@@ -25,7 +28,7 @@ public class Plan {
 
     public Step next()
     {
-        if (currentStep >= steps.size() ) return null;
+        if (currentStep >= steps.size()) return null;
         return steps.get(currentStep++);
     }
 }

@@ -5,7 +5,8 @@ import java.util.List;
 /**
  * Created by Edgar on 03.11.14.
  */
-public class Step {
+public class Step
+{
     private String storageName;
     private String from;
     private String to;
@@ -13,7 +14,8 @@ public class Step {
 
     private List<Step> stepList;
 
-    public Step(String storageName, String from, String to, Type type) {
+    public Step(String storageName, String from, String to, Type type)
+    {
         this.storageName = storageName;
         this.from = from;
         this.to = to;
@@ -31,31 +33,35 @@ public class Step {
         if (this.type == Type.DIRECT)
         {
             return stepList;
-        }
-        else
+        } else
         {
             throw new UnsupportedOperationException();
         }
     }
 
-    public String getStorageName() {
+    public String getStorageName()
+    {
         return storageName;
     }
 
-    public String getFrom() {
+    public String getFrom()
+    {
         return from;
     }
 
-    public String getTo() {
+    public String getTo()
+    {
         return to;
     }
 
-    public Type getType() {
+    public Type getType()
+    {
         return type;
     }
 
 
-    public static enum Type {
+    public static enum Type
+    {
         EXACT,
         RANGE,
         DIRECT

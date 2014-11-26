@@ -25,7 +25,7 @@ public class StorageBucketIntegers implements Storage<Integer, Integer[]>
     public StorageBucketIntegers(Supplier<BitSet> bitSetSupplier)
     {
         this.storage = new HashMap<>();
-        this.bitSetSupplier=bitSetSupplier;
+        this.bitSetSupplier = bitSetSupplier;
         this.bucketSize = DEFAULT_BUCKET_SIZE;
     }
 
@@ -79,10 +79,12 @@ public class StorageBucketIntegers implements Storage<Integer, Integer[]>
         //otherwise we should add new record to storage
         Entry<Integer, BitSet> lowerEntry = bucket.lowerEntry(value);
         BitSet bitSet;
-        if(lowerEntry == null) {
-        	bitSet = bitSetSupplier.get();
-        } else {
-        	bitSet = lowerEntry.getValue().copy();
+        if (lowerEntry == null)
+        {
+            bitSet = bitSetSupplier.get();
+        } else
+        {
+            bitSet = lowerEntry.getValue().copy();
         }
         bitSet.set(docId);
 
@@ -94,8 +96,8 @@ public class StorageBucketIntegers implements Storage<Integer, Integer[]>
 	public ROBitSet findSet(Integer[] request) {
         Integer lowKey = request[0];
         Integer highKey = request[1];
-
-        if(highKey < lowKey) { //that's not good
+        if (highKey < lowKey)
+        { //that's not good
             return bitSetSupplier.get();
         }
 
@@ -104,25 +106,30 @@ public class StorageBucketIntegers implements Storage<Integer, Integer[]>
 
         Integer upperBucket = getBucketNum(highKey);
         Integer lowerBucket = getBucketNum(lowKey);
-        if(upperBucket == lowerBucket) { // values in the same bucket
+        if (upperBucket == lowerBucket)
+        { // values in the same bucket
             return h.xor(l); // return intersection
         }
 
         // Get all from l to last record in lower bucket
         TreeMap<Integer, BitSet> lowerBuc = storage.get(lowerBucket);
         BitSet result = h;
-        if(lowerBuc != null) {
-	        BitSet lowerBucketLast = lowerBuc.lastEntry().getValue();
-	        result = result.or(l.xor(lowerBucketLast));
+        if (lowerBuc != null)
+        {
+            BitSet lowerBucketLast = lowerBuc.lastEntry().getValue();
+            result = result.or(l.xor(lowerBucketLast));
         }
-        
+
         //Get all in middle buckets
-        for(int i = lowerBucket + 1; i < upperBucket; i++) {
+        for (int i = lowerBucket + 1; i < upperBucket; i++)
+        {
             TreeMap<Integer, BitSet> bucket = storage.get(i);
-            if(bucket == null) continue;
+            if (bucket == null) continue;
             BitSet c = bucket.lastEntry().getValue();
-            if(c != null)
+            if (c != null)
+            {
                 result = result.or(c);
+            }
         }
         return result;
 

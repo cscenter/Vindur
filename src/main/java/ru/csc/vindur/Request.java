@@ -4,6 +4,7 @@ import java.util.Collection;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
+
 /**
  * @author: Phillip Delgyado
  * Date: 30.10.13 23:36
@@ -11,7 +12,7 @@ import java.util.Map;
  */
 public class Request
 {
-    private final Map<String,RequestPart> reqs = new HashMap<>(); //aspect->RequestPart
+    private final Map<String, RequestPart> reqs = new HashMap<>(); //aspect->RequestPart
 
     public static Request build()
     {
@@ -21,10 +22,10 @@ public class Request
     public Request exact(String tag, String value)
     {
         RequestPart requestPart = new RequestPart();
-        requestPart.tag=tag;
-        requestPart.from=value;
-        requestPart.to=value;
-        requestPart.isExact=true;
+        requestPart.tag = tag;
+        requestPart.from = value;
+        requestPart.to = value;
+        requestPart.isExact = true;
         reqs.put(tag, requestPart);
         return this;
     }
@@ -32,10 +33,10 @@ public class Request
     public Request range(String tag, String from, String to)
     {
         RequestPart rp = new RequestPart();
-        rp.tag=tag;
-        rp.from=from;
-        rp.to=to;
-        rp.isExact=false;
+        rp.tag = tag;
+        rp.from = from;
+        rp.to = to;
+        rp.isExact = false;
         reqs.put(tag, rp);
         return this;
     }
@@ -57,36 +58,42 @@ public class Request
         private String to;
         private boolean isExact;
 
-        public boolean isExact() {
+        public boolean isExact()
+        {
             return isExact;
         }
 
-        public String getTag() {
+        public String getTag()
+        {
             return tag;
         }
 
-        public String getFrom() {
+        public String getFrom()
+        {
             return from;
         }
 
-        public String getTo() {
+        public String getTo()
+        {
             return to;
         }
 
         @Override
         public String toString()
         {
-        	if(isExact) {
-        		return String.format("search in '%s' for exact '%s'", tag, from);
-        	} else {
-        		return String.format("search in '%s' for range ['%s', '%s']", tag, from, to);
-        	}
+            if (isExact)
+            {
+                return String.format("search in '%s' for exact '%s'", tag, from);
+            } else
+            {
+                return String.format("search in '%s' for range ['%s', '%s']", tag, from, to);
+            }
         }
     }
 
     @Override
     public String toString()
     {
-        return "Request{" + reqs.values() +  '}';
+        return "Request{" + reqs.values() + '}';
     }
 }
