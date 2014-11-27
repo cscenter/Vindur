@@ -17,10 +17,9 @@ public class DumbOptimizer implements Optimizer
     public Plan generatePlan(Request request, @SuppressWarnings("rawtypes") ConcurrentMap<String, Storage> storages)
     {
         Plan plan = new Plan();
-        for (Entry<String, Object> requestPart : request.getRequestParts().entrySet()) {
-        	plan.addStep(()->{
-        		return storages.get(requestPart.getKey()).findSet(requestPart.getValue());
-        	});
+        for (Entry<String, Object> requestPart : request.getRequestParts().entrySet())
+        {
+        	plan.addStep(()-> storages.get(requestPart.getKey()).findSet(requestPart.getValue()));
         }
         return plan;
     }

@@ -57,6 +57,12 @@ public class StorageHierarchy extends StorageBase<String, String>
         storage.put(node, new BitSetNode(bitSetSupplier.get(), bitSetSupplier.get()));
     }
 
+    @Override
+    public int getComplexity()
+    {
+        return 50;
+    }
+
     private class Hierarchy
     {
         private Map<String, String> tree;  //node -> parent;

@@ -128,4 +128,10 @@ public class StorageLucene extends StorageBase<String, Query>
 	public static Query generateRequest(String requestString) throws ParseException {
 		return QUERY_PARSER.parse(requestString);
 	}
+
+    @Override
+    public int getComplexity()
+    {
+        return 1000;
+    }
 }

@@ -24,7 +24,10 @@ public abstract class StorageBase<V, R> implements Storage<V, R> {
 	public int documentsCount() {
 		return documentsCount;
 	}
-	
+
+	@Override
+	public int getComplexity()	{ return 0;	}
+
 	protected void incrementDocumentsCount() {
 		documentsCount += 1;
 	}

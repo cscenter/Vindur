@@ -13,11 +13,13 @@ public interface Storage<V, R> {
     public ROBitSet findSet(R request);
     public boolean checkValue(V value, R request);
     public int documentsCount();
+    public int getComplexity();
     /**
      * @param value
      * @return true if <code>value instanceof V</code>
      */
     public boolean validateValueType(Object value);
+
     /**
      * @param request
      * @return true if <code>request instanceof R</code>
