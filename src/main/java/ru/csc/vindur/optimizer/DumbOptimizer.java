@@ -4,7 +4,7 @@ import java.util.Map.Entry;
 import java.util.concurrent.ConcurrentMap;
 
 import ru.csc.vindur.Request;
-import ru.csc.vindur.storage.Storage;
+import ru.csc.vindur.storage.StorageBase;
 
 
 /**
@@ -14,7 +14,7 @@ public class DumbOptimizer implements Optimizer
 {
     @SuppressWarnings("unchecked")
 	@Override
-    public Plan generatePlan(Request request, @SuppressWarnings("rawtypes") ConcurrentMap<String, Storage> storages)
+    public Plan generatePlan(Request request, @SuppressWarnings("rawtypes") ConcurrentMap<String, StorageBase> storages)
     {
         Plan plan = new Plan();
         for (Entry<String, Object> requestPart : request.getRequestParts().entrySet()) {

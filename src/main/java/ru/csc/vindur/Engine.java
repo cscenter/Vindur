@@ -13,7 +13,7 @@ import ru.csc.vindur.document.Document;
 import ru.csc.vindur.optimizer.Optimizer;
 import ru.csc.vindur.optimizer.Plan;
 import ru.csc.vindur.optimizer.Step;
-import ru.csc.vindur.storage.Storage;
+import ru.csc.vindur.storage.StorageBase;
 import ru.csc.vindur.storage.StorageHelper;
 import ru.csc.vindur.storage.StorageType;
 
@@ -24,7 +24,7 @@ import ru.csc.vindur.storage.StorageType;
 public class Engine {
 	private static final StorageType DEFAULT_STORAGE_TYPE = StorageType.STRING;
 	private final AtomicInteger documentsSequence = new AtomicInteger(0);
-	private final ConcurrentMap<String, Storage> columns = new ConcurrentHashMap<>();
+	private final ConcurrentMap<String, StorageBase> columns = new ConcurrentHashMap<>();
 	private final ConcurrentMap<Integer, Document> documents = new ConcurrentHashMap<>();
 	private final EngineConfig config;
 
@@ -45,10 +45,10 @@ public class Engine {
 			throw new IllegalArgumentException("There is no such document");
 		}
 
-		Storage storage = findStorage(attribute);
+		StorageBase storage = findStorageBase(attribute);
 		if (!storage.validateValueType(value)) {
 			throw new IllegalArgumentException("Invalid value type " + value.getClass().getName() + 
-					" for Storage " + storage.getClass().getName());
+					" for StorageBase " + storage.getClass().getName());
 		}
 		documents.get(docId).setAttribute(attribute, value);
 		storage.add(docId, value);
@@ -60,17 +60,17 @@ public class Engine {
 	 * @param attribute
 	 * @return
 	 */
-	private Storage findStorage(String attribute) {
-		Storage storage;
+	private StorageBase findStorageBase(String attribute) {
+		StorageBase storage;
 		storage = columns.get(attribute);
 		if (storage == null) {
 			StorageType type = config.getValueType(attribute);
 			if (type == null)
 				type = DEFAULT_STORAGE_TYPE;
-			Storage newStorage = StorageHelper.getColumn(type,
+			StorageBase newStorageBase = StorageHelper.getColumn(type,
 					config.getBitSetSupplier());
-			columns.put(attribute, newStorage);
-			storage = newStorage;
+			columns.put(attribute, newStorageBase);
+			storage = newStorageBase;
 		}
 		return storage;
 	}
@@ -106,12 +106,12 @@ public class Engine {
 
 	private void checkRequest(Request request) throws IllegalArgumentException {
 		for(Entry<String, Object> part: request.getRequestParts().entrySet()) {
-			Storage storage = columns.get(part.getKey());
+			StorageBase storage = columns.get(part.getKey());
 			if(storage == null) {
-				throw new IllegalArgumentException("Storage for attribute " + part.getKey() + " is not created");
+				throw new IllegalArgumentException("StorageBase for attribute " + part.getKey() + " is not created");
 			}
 			if(!storage.validateRequestType(part.getValue())) {
-				throw new IllegalArgumentException("Storage " + storage.getClass().getName() + " for attribute " 
+				throw new IllegalArgumentException("StorageBase " + storage.getClass().getName() + " for attribute " 
 						+ part.getKey() + " is uncompatible with request " + part.getValue().getClass().getName());
 			}
 		}

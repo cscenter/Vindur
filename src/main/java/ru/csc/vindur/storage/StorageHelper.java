@@ -11,8 +11,8 @@ import java.util.function.Supplier;
 public class StorageHelper {
 
     @SuppressWarnings("rawtypes")
-	public static Storage getColumn(StorageType valueType, Supplier<BitSet> bitSetSupplier) {
-    	Storage storage;
+	public static StorageBase getColumn(StorageType valueType, Supplier<BitSet> bitSetSupplier) {
+    	StorageBase storage;
         switch (valueType) {
             case INTEGER:
                 storage = new StorageExact<Integer>(bitSetSupplier, Integer.class);

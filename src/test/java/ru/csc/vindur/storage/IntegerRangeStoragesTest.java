@@ -16,7 +16,7 @@ import static org.junit.Assert.assertEquals;
 public class IntegerRangeStoragesTest {
 	private static final int VALUES_COUNT = 1000;
 	private Supplier<BitSet> bitSetSupplier;
-	private List<Storage<Integer, Integer[]>> storages;
+	private List<StorageBase<Integer, Integer[]>> storages;
 
 	@Before
 	public void createStorage() {
@@ -28,12 +28,12 @@ public class IntegerRangeStoragesTest {
 
 	@Test
 	public void rangeRequestTest() {
-		for (Storage<Integer, Integer[]> storage : storages) {
+		for (StorageBase<Integer, Integer[]> storage : storages) {
 			rangeRequestTest(storage);
 		}
 	}
 
-	private void rangeRequestTest(Storage<Integer, Integer[]> storage) {
+	private void rangeRequestTest(StorageBase<Integer, Integer[]> storage) {
 		fillUpStorage(storage);
 
 		Random random = new Random();
@@ -52,7 +52,7 @@ public class IntegerRangeStoragesTest {
 		}
 	}
 
-	private void fillUpStorage(Storage<Integer, Integer[]> storage) {
+	private void fillUpStorage(StorageBase<Integer, Integer[]> storage) {
 		for (int i = 0; i < VALUES_COUNT; i++) {
 			storage.add(i, ((i)));
 		}
@@ -60,12 +60,12 @@ public class IntegerRangeStoragesTest {
 
 	@Test
 	public void emptyResultTest() throws Exception {
-		for (Storage<Integer, Integer[]> storage : storages) {
+		for (StorageBase<Integer, Integer[]> storage : storages) {
 			emptyResultTest(storage);
 		}
 	}
 
-	public void emptyResultTest(Storage<Integer, Integer[]> storage) throws Exception {
+	public void emptyResultTest(StorageBase<Integer, Integer[]> storage) throws Exception {
 		fillUpStorage(storage);
 
 		checkForEmptyResult(storage, VALUES_COUNT + 1, VALUES_COUNT + 1);
@@ -73,7 +73,7 @@ public class IntegerRangeStoragesTest {
 		checkForEmptyResult(storage, -2, -1);
 	}
 
-	private void checkForEmptyResult(Storage<Integer, Integer[]> storage, int from, int to) {
+	private void checkForEmptyResult(StorageBase<Integer, Integer[]> storage, int from, int to) {
 		assertEquals(
 				0,
 				storage.findSet(toArr(from, to)).cardinality());
