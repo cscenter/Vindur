@@ -95,4 +95,10 @@ public final class StorageRange<T extends Comparable<T>> extends StorageBase<T, 
 		}
 		return ((T[]) request).length == 2;
 	}
+
+    @Override
+    public int getComplexity()
+    {
+        return 20;
+    }
 }

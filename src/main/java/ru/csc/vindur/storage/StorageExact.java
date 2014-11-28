@@ -50,4 +50,10 @@ public final class StorageExact<T> extends StorageBase<T, T>
 	public boolean checkValue(T value, T request) {
 		return value.equals(request);
 	}
+
+    @Override
+    public int getComplexity()
+    {
+        return 10;
+    }
 }

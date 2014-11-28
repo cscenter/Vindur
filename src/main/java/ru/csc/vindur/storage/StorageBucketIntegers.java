@@ -134,6 +134,11 @@ public class StorageBucketIntegers extends StorageBase<Integer, Integer[]>
 
 	}
 
+    public int getComplexity()
+    {
+        return 10;
+    }
+
 	@Override
 	public boolean checkValue(Integer value, Integer[] request) {
 		return value.compareTo(request[0]) >= 0 && value.compareTo(request[1]) <= 0;

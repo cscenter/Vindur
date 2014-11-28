@@ -90,7 +90,10 @@ public class TestExecutor
             }
             catch (Exception e)
             {
-                LOG.error("Engine throw an exception: {}", e.getMessage());
+                LOG.error("Engine throw an exception: {}", e);
+                LOG.error("Stack trace: \n");
+                e.printStackTrace();
+                return 0;
             } //даже не проверяем результат, только скорость
             timer.stop();
         }

@@ -36,7 +36,9 @@ public abstract class StorageBase<V, R> {
 	public int documentsCount() {
 		return documentsCount;
 	}
-	
+
+	public int getComplexity()	{ return 0;	}
+
 	protected void incrementDocumentsCount() {
 		documentsCount += 1;
 	}
