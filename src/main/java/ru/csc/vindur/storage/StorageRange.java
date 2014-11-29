@@ -15,15 +15,14 @@ import ru.csc.vindur.bitset.ROBitSet;
  *         For each attribute value stored a BitSet with every docId
  *         with lower or equal attribute value
  */
-public final class StorageRange<T extends Comparable<T>> extends StorageBase<T, T[]>
+public final class StorageRange<T extends Comparable<T>> extends StorageRangeBase<T>
 {
     private TreeMap<T, BitSet> storage; //key -> bitset of all smaller
     private Supplier<BitSet> bitSetSupplier;
 
-    @SuppressWarnings("unchecked")
-	public StorageRange(Supplier<BitSet> bitSetSupplier, Class<T> type)
+    public StorageRange(Supplier<BitSet> bitSetSupplier, Class<T> type)
     {
-    	super(type, (Class<T[]>) java.lang.reflect.Array.newInstance(type, 0).getClass());
+    	super(type);
         this.storage = new TreeMap<>();
         this.bitSetSupplier = bitSetSupplier;
     }
@@ -55,11 +54,12 @@ public final class StorageRange<T extends Comparable<T>> extends StorageBase<T, 
 
         storage.put(value, bitSet);
     }
-    @Override
-    public ROBitSet findSet(T[] request)
+    @SuppressWarnings("unchecked")
+	@Override
+    public ROBitSet findSet(RangeRequest request)
     {
-        T lowKey = request[0];
-        T highKey = request[1];
+        T lowKey = (T) request.getLowBound();
+        T highKey = (T) request.getUpperBound();
 
         if (highKey.compareTo(lowKey) < 0)
         { //that's not good
@@ -81,21 +81,6 @@ public final class StorageRange<T extends Comparable<T>> extends StorageBase<T, 
         //everything is ok
         return upperEntry.getValue().xor(lowerEntry.getValue());
     }
-
-	@Override
-	public boolean checkValue(T value, T[] request) {
-		return value.compareTo(request[0]) >= 0 && value.compareTo(request[1]) <= 0;
-	}
-	
-	@SuppressWarnings("unchecked")
-	@Override
-	public boolean validateRequestType(Object request) {
-		if(!super.validateRequestType(request)) {
-			return false;
-		}
-		return ((T[]) request).length == 2;
-	}
-
     @Override
     public int getComplexity()
     {

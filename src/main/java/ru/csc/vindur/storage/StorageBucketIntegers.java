@@ -13,7 +13,7 @@ import ru.csc.vindur.bitset.ROBitSet;
  * @author Andrey Kokorev
  *         Created on 08.11.2014.
  */
-public class StorageBucketIntegers extends StorageBase<Integer, Integer[]>
+public class StorageBucketIntegers extends StorageRangeBase<Integer>
 {
 	// TODO test this parameter(find out the better value)
     private static final Integer DEFAULT_BUCKET_SIZE = 100;
@@ -23,7 +23,7 @@ public class StorageBucketIntegers extends StorageBase<Integer, Integer[]>
 
     public StorageBucketIntegers(Supplier<BitSet> bitSetSupplier)
     {
-    	super(Integer.class, Integer[].class);
+    	super(Integer.class);
         this.storage = new HashMap<>();
         this.bitSetSupplier = bitSetSupplier;
         this.bucketSize = DEFAULT_BUCKET_SIZE;
@@ -92,9 +92,9 @@ public class StorageBucketIntegers extends StorageBase<Integer, Integer[]>
 	}
 
 	@Override
-	public ROBitSet findSet(Integer[] request) {
-        Integer lowKey = request[0];
-        Integer highKey = request[1];
+	public ROBitSet findSet(RangeRequest request) {
+        Integer lowKey = (Integer) request.getLowBound();
+        Integer highKey = (Integer) request.getUpperBound();
         if (highKey < lowKey)
         { //that's not good
             return bitSetSupplier.get();
@@ -138,17 +138,4 @@ public class StorageBucketIntegers extends StorageBase<Integer, Integer[]>
     {
         return 10;
     }
-
-	@Override
-	public boolean checkValue(Integer value, Integer[] request) {
-		return value.compareTo(request[0]) >= 0 && value.compareTo(request[1]) <= 0;
-	}
-	
-	@Override
-	public boolean validateRequestType(Object request) {
-		if(!super.validateRequestType(request)) {
-			return false;
-		}
-		return ((Integer[]) request).length == 2;
-	}
 }

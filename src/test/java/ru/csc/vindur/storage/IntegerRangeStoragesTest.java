@@ -16,7 +16,7 @@ import static org.junit.Assert.assertEquals;
 public class IntegerRangeStoragesTest {
 	private static final int VALUES_COUNT = 1000;
 	private Supplier<BitSet> bitSetSupplier;
-	private List<StorageBase<Integer, Integer[]>> storages;
+	private List<StorageBase<Integer, RangeRequest>> storages;
 
 	@Before
 	public void createStorage() {
@@ -28,12 +28,12 @@ public class IntegerRangeStoragesTest {
 
 	@Test
 	public void rangeRequestTest() {
-		for (StorageBase<Integer, Integer[]> storage : storages) {
+		for (StorageBase<Integer, RangeRequest> storage : storages) {
 			rangeRequestTest(storage);
 		}
 	}
 
-	private void rangeRequestTest(StorageBase<Integer, Integer[]> storage) {
+	private void rangeRequestTest(StorageBase<Integer, RangeRequest> storage) {
 		fillUpStorage(storage);
 
 		Random random = new Random();
@@ -48,11 +48,11 @@ public class IntegerRangeStoragesTest {
 			}
 			assertEquals(
 					expected,
-					storage.findSet(toArr(from, to)));
+					storage.findSet(toRequest(from, to)));
 		}
 	}
 
-	private void fillUpStorage(StorageBase<Integer, Integer[]> storage) {
+	private void fillUpStorage(StorageBase<Integer, RangeRequest> storage) {
 		for (int i = 0; i < VALUES_COUNT; i++) {
 			storage.add(i, ((i)));
 		}
@@ -60,12 +60,12 @@ public class IntegerRangeStoragesTest {
 
 	@Test
 	public void emptyResultTest() throws Exception {
-		for (StorageBase<Integer, Integer[]> storage : storages) {
+		for (StorageBase<Integer, RangeRequest> storage : storages) {
 			emptyResultTest(storage);
 		}
 	}
 
-	public void emptyResultTest(StorageBase<Integer, Integer[]> storage) throws Exception {
+	public void emptyResultTest(StorageBase<Integer, RangeRequest> storage) throws Exception {
 		fillUpStorage(storage);
 
 		checkForEmptyResult(storage, VALUES_COUNT + 1, VALUES_COUNT + 1);
@@ -73,16 +73,13 @@ public class IntegerRangeStoragesTest {
 		checkForEmptyResult(storage, -2, -1);
 	}
 
-	private void checkForEmptyResult(StorageBase<Integer, Integer[]> storage, int from, int to) {
+	private void checkForEmptyResult(StorageBase<Integer, RangeRequest> storage, int from, int to) {
 		assertEquals(
 				0,
-				storage.findSet(toArr(from, to)).cardinality());
+				storage.findSet(toRequest(from, to)).cardinality());
 	}
 	
-	private Integer[] toArr(Integer from, Integer to) {
-		Integer[] result = new Integer[2];
-		result[0] = from;
-		result[1] = to;
-		return result;
+	private RangeRequest toRequest(Integer from, Integer to) {
+		return StorageRangeBase.generateRequest(from, to);
 	}
 }

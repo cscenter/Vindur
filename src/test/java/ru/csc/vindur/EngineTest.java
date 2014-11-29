@@ -5,6 +5,7 @@ import org.junit.Test;
 import ru.csc.vindur.bitset.EWAHBitSet;
 import ru.csc.vindur.optimizer.DumbOptimizer;
 import ru.csc.vindur.storage.StorageLucene;
+import ru.csc.vindur.storage.StorageRangeBase;
 import ru.csc.vindur.storage.StorageType;
 
 import java.util.Arrays;
@@ -51,22 +52,22 @@ public class EngineTest {
 		engine.setAttributeByDocId(doc3, STR_ATTR3, "bb");
 		engine.setAttributeByDocId(doc4, STR_ATTR3, "cc bb");
 
-		Request r1 = Request.build().request(STR_ATTR, "value1").request(INT_ATTR, Arrays.asList(2, 2).toArray());
+		Request r1 = Request.build().request(STR_ATTR, "value1").request(INT_ATTR, StorageRangeBase.generateRequest(2, 2));
 		assertEquals(Arrays.asList(doc2), engine.executeRequest(r1));
 		
-		Request r2 = Request.build().request(STR_ATTR, "value1").request(INT_ATTR, Arrays.asList(1, 2).toArray());
+		Request r2 = Request.build().request(STR_ATTR, "value1").request(INT_ATTR, StorageRangeBase.generateRequest(1, 2));
 		assertEquals(Arrays.asList(doc1, doc2), engine.executeRequest(r2));
 		
-		Request r3 = Request.build().request(STR_ATTR, "value2").request(INT_ATTR, Arrays.asList(2, 2).toArray());
+		Request r3 = Request.build().request(STR_ATTR, "value2").request(INT_ATTR, StorageRangeBase.generateRequest(2, 2));
 		assertEquals(Arrays.asList(doc3, doc4), engine.executeRequest(r3));
 
-		Request r4 = Request.build().request(INT_ATTR, Arrays.asList(3, 3).toArray());
+		Request r4 = Request.build().request(INT_ATTR, StorageRangeBase.generateRequest(3, 3));
 		assertEquals(Arrays.asList(), engine.executeRequest(r4));
 
-		Request r5 = Request.build().request(INT_ATTR, Arrays.asList(1, 1).toArray()).request(STR_ATTR, "value2");
+		Request r5 = Request.build().request(INT_ATTR, StorageRangeBase.generateRequest(1, 1)).request(STR_ATTR, "value2");
 		assertEquals(Arrays.asList(), engine.executeRequest(r5));
 
-		Request r6 = Request.build().request(STR_ATTR2, Arrays.asList("abc", "zxcvbnm").toArray());
+		Request r6 = Request.build().request(STR_ATTR2, StorageRangeBase.generateRequest("abc", "zxcvbnm"));
 		assertEquals(Arrays.asList(doc1, doc3, doc4), engine.executeRequest(r6));
 
 		Request r7 = Request.build().request(STR_ATTR3, StorageLucene.generateRequest("aa"));
