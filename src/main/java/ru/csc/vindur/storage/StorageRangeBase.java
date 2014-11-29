@@ -9,7 +9,7 @@ public abstract class StorageRangeBase<T extends Comparable<T>> extends StorageB
 
 	@SuppressWarnings("unchecked")
 	@Override
-	public boolean checkValue(T value, RangeRequest request) {
+	public boolean checkValue(int docId, T value, RangeRequest request) {
 		return value.compareTo((T) request.getLowBound()) >= 0 && value.compareTo((T) request.getUpperBound()) <= 0;
 	}
 	

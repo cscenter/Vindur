@@ -49,4 +49,15 @@ public class StorageLuceneTest {
 		assertEquals(expected, storageLucene.findSet(new QueryParser("text",
 				new WhitespaceAnalyzer()).parse("/[fvs]alue./")));
 	}
+	
+	@Test
+	public void checkValueTest() throws ParseException {
+		storageLucene.add(0, "aa bb cc dd");
+		assertEquals(false, storageLucene.checkValue(0, "aa bb cc dd", StorageLucene.generateRequest("ff")));
+		assertEquals(false, storageLucene.checkValue(0, "aa bb cc dd", StorageLucene.generateRequest("ad")));
+		assertEquals(true, storageLucene.checkValue(0, "aa bb cc dd", StorageLucene.generateRequest("bb")));
+		assertEquals(true, storageLucene.checkValue(0, "aa bb cc dd", StorageLucene.generateRequest("cc")));
+		assertEquals(true, storageLucene.checkValue(0, "aa bb cc dd", StorageLucene.generateRequest("aa dd")));
+		assertEquals(true, storageLucene.checkValue(0, "aa bb cc dd", StorageLucene.generateRequest("d*")));
+	}
 }

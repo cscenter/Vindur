@@ -161,7 +161,7 @@ public class StorageHierarchy extends StorageBase<String, String>
 	}
 
 	@Override
-	public boolean checkValue(String value, String request) {
+	public boolean checkValue(int docId, String value, String request) {
 		// TODO Auto-generated method stub
 		return false;
 	}

@@ -10,7 +10,7 @@ public abstract class StorageBase<V, R> {
 
     public abstract void add(int docId, V value);
     public abstract ROBitSet findSet(R request);
-    public abstract boolean checkValue(V value, R request);
+    public abstract boolean checkValue(int docId, V value, R request);
     
 	public StorageBase(Class<V> valueClazz, Class<R> requestClazz) {
 		this.valueClazz = valueClazz;

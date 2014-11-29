@@ -47,7 +47,7 @@ public final class StorageExact<T> extends StorageBase<T, T>
     }
 
 	@Override
-	public boolean checkValue(T value, T request) {
+	public boolean checkValue(int docId, T value, T request) {
 		return value.equals(request);
 	}
 

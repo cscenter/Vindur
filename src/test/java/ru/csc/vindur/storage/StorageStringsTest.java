@@ -39,4 +39,12 @@ public class StorageStringsTest
         }
 
 	}
+	
+	@Test
+	public void checkValueTest() {
+		storageStrings.add(0, "value");
+		assertEquals(false, storageStrings.checkValue(0, "value", "123"));
+		assertEquals(false, storageStrings.checkValue(0, "value", "321"));
+		assertEquals(true, storageStrings.checkValue(0, "value", "value"));
+	}
 }

@@ -12,11 +12,16 @@ import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.index.IndexableField;
+import org.apache.lucene.index.Term;
 import org.apache.lucene.queryparser.classic.ParseException;
 import org.apache.lucene.queryparser.classic.QueryParser;
+import org.apache.lucene.search.BooleanQuery;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
+import org.apache.lucene.search.BooleanClause.Occur;
+import org.apache.lucene.search.TermQuery;
+import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
 import org.apache.lucene.util.Version;
@@ -80,22 +85,7 @@ public class StorageLucene extends StorageBase<String, Query>
     {
         try
         {
-            if (indexWriter != null)
-            {
-                indexWriter.close();
-                indexWriter = null;
-            }
-            if (searcher != null && !indexReader.isCurrent())
-            {
-                indexReader.close();
-                searcher = null;
-            }
-
-            if (searcher == null)
-            {
-                indexReader = DirectoryReader.open(luceneIndex);
-                searcher = new IndexSearcher(indexReader);
-            }
+            createSeacher();
 
             BitSet result = bitSetSupplier.get();
             for (ScoreDoc doc : searcher.search(q, documentsCount()).scoreDocs)
@@ -113,10 +103,38 @@ public class StorageLucene extends StorageBase<String, Query>
         }
     }
 
+	private void createSeacher() throws IOException {
+		if (indexWriter != null)
+		{
+		    indexWriter.close();
+		    indexWriter = null;
+		}
+		if (searcher != null && !indexReader.isCurrent())
+		{
+		    indexReader.close();
+		    searcher = null;
+		}
+
+		if (searcher == null)
+		{
+		    indexReader = DirectoryReader.open(luceneIndex);
+		    searcher = new IndexSearcher(indexReader);
+		}
+	}
+
 	@Override
-	public boolean checkValue(String value, Query request) {
-		// TODO Auto-generated method stub
-		return false;
+	public boolean checkValue(int docId, String value, Query request) {
+		try {
+			BooleanQuery requestWithId = new BooleanQuery();
+			requestWithId.add(new TermQuery(new Term(ID_FIELD_NAME, Integer.toString(docId))), Occur.SHOULD);
+			requestWithId.add(request, Occur.SHOULD);
+            createSeacher();
+            TopDocs result = searcher.search(requestWithId, 1);
+			return result.totalHits == 1;
+		} catch (IOException e) {
+            // cannot happen because of using RAMDirectory as index
+            throw new RuntimeException(e);
+		}
 	}
 	
 	/**

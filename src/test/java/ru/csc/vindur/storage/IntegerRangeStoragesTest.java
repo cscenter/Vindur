@@ -82,4 +82,19 @@ public class IntegerRangeStoragesTest {
 	private RangeRequest toRequest(Integer from, Integer to) {
 		return StorageRangeBase.generateRequest(from, to);
 	}
+	
+	@Test
+	public void checkValueTest() {
+		for (StorageBase<Integer, RangeRequest> storage : storages) {
+			storage.add(0, 10);
+			assertEquals(false, storage.checkValue(0, 10, toRequest(9, 9)));
+			assertEquals(false, storage.checkValue(0, 10, toRequest(-123, 9)));
+			assertEquals(false, storage.checkValue(0, 10, toRequest(99, 999)));
+			assertEquals(false, storage.checkValue(0, 10, toRequest(12, 21)));
+			assertEquals(true, storage.checkValue(0, 10, toRequest(0, 21)));
+			assertEquals(true, storage.checkValue(0, 10, toRequest(0, 11)));
+			assertEquals(true, storage.checkValue(0, 10, toRequest(10, 121)));
+			assertEquals(true, storage.checkValue(0, 10, toRequest(-123, 10)));
+		}
+	}
 }
