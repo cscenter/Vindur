@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="97212">
+    <title>D-link DES-1016A</title>
+    <model>DES-1016A</model>
+    <marka>D-link</marka>
+    <catalog id="922278">Маршрутизаторы, коммутаторы, хабы</catalog>
+    
+    <price1>758</price1>
+    <price2>1920</price2>
+    <description>
+коммутатор (switch), 16 портов Ethernet 10/100 Мбит/сек,  монтируется в стойку
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>коммутатор (switch)</value>
+        </item>
+        <item>
+          <name>Возможность установки в стойку</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>LAN</name>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>16 x Ethernet 10/100 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Внутренняя пропускная способность</name>
+          <value>3.2 Гбит/сек</value>
+        </item>
+        <item>
+          <name>Размер таблицы MAC адресов</name>
+          <value>8192</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>Auto MDI/MDIX</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>280 x 44 x 126 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97215">
+    <title>D-link DES-1050G</title>
+    <model>DES-1050G</model>
+    <marka>D-link</marka>
+    <catalog id="922278">Маршрутизаторы, коммутаторы, хабы</catalog>
+    
+    <price1>4997</price1>
+    <price2>9430</price2>
+    <description>
+коммутатор (switch), 48 портов Ethernet 10/100 Мбит/сек, uplink: 2 x Ethernet 10/100/1000 Мбит/сек,  монтируется в стойку
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>коммутатор (switch)</value>
+        </item>
+        <item>
+          <name>Возможность установки в стойку</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>3.20 Мб</value>
+        </item>
+      </items>
+      <items>
+        <name>LAN</name>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>48 x Ethernet 10/100 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Количество uplink/стек/SFP-портов и модулей</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Максимальная скорость uplink/SFP-портов</name>
+          <value>10/100/1000 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Внутренняя пропускная способность</name>
+          <value>13.6 Гбит/сек</value>
+        </item>
+        <item>
+          <name>Размер таблицы MAC адресов</name>
+          <value>8192</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>Auto MDI/MDIX</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>441 x 44 x 309 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.7 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>2 порта 10/100/1000 Мбит/сек</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97219">
+    <title>D-link DES-1210-28</title>
+    <model>DES-1210-28</model>
+    <marka>D-link</marka>
+    <catalog id="922278">Маршрутизаторы, коммутаторы, хабы</catalog>
+    
+    <price1>4756</price1>
+    <price2>9418</price2>
+    <description>
+коммутатор (switch), 24 порта Ethernet 10/100 Мбит/сек,  монтируется в стойку
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>коммутатор (switch)</value>
+        </item>
+        <item>
+          <name>Возможность установки в стойку</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>LAN</name>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>24 x Ethernet 10/100 Мбит/сек</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Telnet</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SNMP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>Auto MDI/MDIX, IEEE 802.1p (Priority tags), IEEE 802.1q (VLAN), IEEE 802.1d (Spanning Tree)</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>440 x 44 x 210 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.6 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>2 порта 10/100/1000 base-T (Gigabit Ethernet) + 2 комбо-порта (Gigabit Ethernet/SFP)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97221">
+    <title>D-link DIR-100</title>
+    <model>DIR-100</model>
+    <marka>D-link</marka>
+    <catalog id="922278">Маршрутизаторы, коммутаторы, хабы</catalog>
+    
+    <price1>690</price1>
+    <price2>1780</price2>
+    <description>
+маршрутизатор (router), LAN: 4 Ethernet 10/100 Мбит/сек, WAN: Ethernet 10/100 Мбит/сек
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>маршрутизатор (router)</value>
+        </item>
+      </items>
+      <items>
+        <name>LAN</name>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>4 x Ethernet 10/100 Мбит/сек</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>WAN-порт</name>
+          <value>Ethernet 10/100 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (Firewall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>SPI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Демилитаризованная зона (DMZ)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Статическая маршрутизация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка VPN pass through</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>Auto MDI/MDIX</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>142 x 31 x 109 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.213 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>В зависимости от версии программного обеспечения устройство может также выполнять функции коммутатора VLAN или маршрутизатора Triple Play. 1 WAN порт 10/100BASE-TX Ethernet</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97226">
+    <title>D-link DGS-1016D</title>
+    <model>DGS-1016D</model>
+    <marka>D-link</marka>
+    <catalog id="922278">Маршрутизаторы, коммутаторы, хабы</catalog>
+    
+    <price1>2671</price1>
+    <price2>7310</price2>
+    <description>
+коммутатор (switch), 16 портов Ethernet 10/100/1000 Мбит/сек,  монтируется в стойку
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>коммутатор (switch)</value>
+        </item>
+        <item>
+          <name>Возможность установки в стойку</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>512 Кб</value>
+        </item>
+      </items>
+      <items>
+        <name>LAN</name>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>16 x Ethernet 10/100/1000 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Внутренняя пропускная способность</name>
+          <value>32 Гбит/сек</value>
+        </item>
+        <item>
+          <name>Размер таблицы MAC адресов</name>
+          <value>8192</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>Auto MDI/MDIX</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>280 x 44 x 180 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.748 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97228">
+    <title>D-link DES-3200-26</title>
+    <model>DES-3200-26</model>
+    <marka>D-link</marka>
+    <catalog id="922278">Маршрутизаторы, коммутаторы, хабы</catalog>
+    
+    <price1>7793</price1>
+    <price2>13000</price2>
+    <description>
+коммутатор (switch), 24 порта Ethernet 10/100 Мбит/сек, 2 слот(а),  монтируется в стойку
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>коммутатор (switch)</value>
+        </item>
+        <item>
+          <name>Возможность установки в стойку</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество слотов для дополнительных интерфейсов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>128 Мб</value>
+        </item>
+        <item>
+          <name>Объем флеш-памяти</name>
+          <value>16 Мб</value>
+        </item>
+      </items>
+      <items>
+        <name>LAN</name>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>24 x Ethernet 10/100 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Внутренняя пропускная способность</name>
+          <value>8.8 Гбит/сек</value>
+        </item>
+        <item>
+          <name>Размер таблицы MAC адресов</name>
+          <value>8192</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Консольный порт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Telnet</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SNMP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Протоколы управления группами интернета</name>
+          <value>IGMP v1, IGMP v2, IGMP v3</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка IPv6</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>Auto MDI/MDIX, Jumbo Frame, IEEE 802.1p (Priority tags), IEEE 802.1q (VLAN), IEEE 802.1d (Spanning Tree), IEEE 802.1s (Multiple Spanning Tree)</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>441 x 44 x 207 мм</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>2 комбо-порта 1000Base-T/SFP</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97229">
+    <title>D-link DGS-1008D</title>
+    <model>DGS-1008D</model>
+    <marka>D-link</marka>
+    <catalog id="922278">Маршрутизаторы, коммутаторы, хабы</catalog>
+    
+    <price1>939</price1>
+    <price2>1850</price2>
+    <description>
+коммутатор (switch), 8 портов Ethernet 10/100/1000 Мбит/сек
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>коммутатор (switch)</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>102.40 Кб</value>
+        </item>
+      </items>
+      <items>
+        <name>LAN</name>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>8 x Ethernet 10/100/1000 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Размер таблицы MAC адресов</name>
+          <value>8192</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>Auto MDI/MDIX</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>235 x 36 x 162 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97233">
+    <title>D-link DGS-1210-16</title>
+    <model>DGS-1210-16</model>
+    <marka>D-link</marka>
+    <catalog id="922278">Маршрутизаторы, коммутаторы, хабы</catalog>
+    
+    <price1>4940</price1>
+    <price2>10960</price2>
+    <description>
+коммутатор (switch), 16 портов Ethernet 10/100/1000 Мбит/сек, 4 слот(а),  монтируется в стойку
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>коммутатор (switch)</value>
+        </item>
+        <item>
+          <name>Возможность установки в стойку</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество слотов для дополнительных интерфейсов</name>
+          <value>4</value>
+        </item>
+      </items>
+      <items>
+        <name>LAN</name>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>16 x Ethernet 10/100/1000 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Внутренняя пропускная способность</name>
+          <value>32 Гбит/сек</value>
+        </item>
+        <item>
+          <name>Размер таблицы MAC адресов</name>
+          <value>8192</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Telnet</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SNMP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Протоколы управления группами интернета</name>
+          <value>IGMP v1, IGMP v2</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>Auto MDI/MDIX, IEEE 802.1p (Priority tags), IEEE 802.1q (VLAN), IEEE 802.1d (Spanning Tree)</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>440 x 44 x 210 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.87 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97243">
+    <title>D-link DES-1026G</title>
+    <model>DES-1026G</model>
+    <marka>D-link</marka>
+    <catalog id="922278">Маршрутизаторы, коммутаторы, хабы</catalog>
+    
+    <price1>2374</price1>
+    <price2>6630</price2>
+    <description>
+коммутатор (switch), 24 порта Ethernet 10/100 Мбит/сек, uplink: 2 x Ethernet 10/100/1000 Мбит/сек,  монтируется в стойку
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>коммутатор (switch)</value>
+        </item>
+        <item>
+          <name>Возможность установки в стойку</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>2 Мб</value>
+        </item>
+      </items>
+      <items>
+        <name>LAN</name>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>24 x Ethernet 10/100 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Внутренняя пропускная способность</name>
+          <value>8.8 Гбит/сек</value>
+        </item>
+        <item>
+          <name>Размер таблицы MAC адресов</name>
+          <value>8192</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>Auto MDI/MDIX</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>440 x 44 x 200 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.8 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>2 порта 10/100/1000 Мбит/с</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97246">
+    <title>D-link DES-1210-52</title>
+    <model>DES-1210-52</model>
+    <marka>D-link</marka>
+    <catalog id="922278">Маршрутизаторы, коммутаторы, хабы</catalog>
+    
+    <price1>8036</price1>
+    <price2>13532</price2>
+    <description>
+коммутатор (switch), 48 портов Ethernet 10/100 Мбит/сек, uplink: 2 x Ethernet 10/100/1000 Мбит/сек, 2 слот(а),  монтируется в стойку
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>коммутатор (switch)</value>
+        </item>
+        <item>
+          <name>Возможность установки в стойку</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество слотов для дополнительных интерфейсов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>1 Мб</value>
+        </item>
+      </items>
+      <items>
+        <name>LAN</name>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>48 x Ethernet 10/100 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Количество uplink/стек/SFP-портов и модулей</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Максимальная скорость uplink/SFP-портов</name>
+          <value>10/100/1000 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Внутренняя пропускная способность</name>
+          <value>17.6 Гбит/сек</value>
+        </item>
+        <item>
+          <name>Размер таблицы MAC адресов</name>
+          <value>8196</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Telnet</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SNMP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>Auto MDI/MDIX, IEEE 802.1p (Priority tags), IEEE 802.1q (VLAN), IEEE 802.1d (Spanning Tree), IEEE 802.1s (Multiple Spanning Tree)</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>441 x 44 x 250 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.3 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>2 комбо-порта 10/100/1000BASE-T/SFP</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97252">
+    <title>ASUS GigaX 1005</title>
+    <model>GigaX 1005</model>
+    <marka>ASUS</marka>
+    <catalog id="922278">Маршрутизаторы, коммутаторы, хабы</catalog>
+    
+    <price1>348</price1>
+    <price2>1120</price2>
+    <description>
+коммутатор (switch), 5 портов Ethernet 10/100 Мбит/сек
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>коммутатор (switch)</value>
+        </item>
+      </items>
+      <items>
+        <name>LAN</name>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>5 x Ethernet 10/100 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Внутренняя пропускная способность</name>
+          <value>1 Гбит/сек</value>
+        </item>
+        <item>
+          <name>Размер таблицы MAC адресов</name>
+          <value>1024</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>Auto MDI/MDIX</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>92 x 24 x 67 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.2 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97255">
+    <title>D-link DGS-1210-10P</title>
+    <model>DGS-1210-10P</model>
+    <marka>D-link</marka>
+    <catalog id="922278">Маршрутизаторы, коммутаторы, хабы</catalog>
+    
+    <price1>6900</price1>
+    <price2>14360</price2>
+    <description>
+коммутатор (switch), 10 портов Ethernet 10/100/1000 Мбит/сек, uplink: 2 x Ethernet 10/100/1000 Мбит/сек,  монтируется в стойку
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>коммутатор (switch)</value>
+        </item>
+        <item>
+          <name>Возможность установки в стойку</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>LAN</name>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>10 x Ethernet 10/100/1000 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Количество uplink/стек/SFP-портов и модулей</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Максимальная скорость uplink/SFP-портов</name>
+          <value>10/100/1000 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Внутренняя пропускная способность</name>
+          <value>20 Гбит/сек</value>
+        </item>
+        <item>
+          <name>Размер таблицы MAC адресов</name>
+          <value>8192</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Telnet</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SNMP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>Auto MDI/MDIX, Power Over Ethernet, IEEE 802.1p (Priority tags), IEEE 802.1q (VLAN), IEEE 802.1d (Spanning Tree)</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.84 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97261">
+    <title>D-link DGS-1024D</title>
+    <model>DGS-1024D</model>
+    <marka>D-link</marka>
+    <catalog id="922278">Маршрутизаторы, коммутаторы, хабы</catalog>
+    
+    <price1>3441</price1>
+    <price2>8228</price2>
+    <description>
+коммутатор (switch), 24 порта Ethernet 10/100/1000 Мбит/сек,  монтируется в стойку
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>коммутатор (switch)</value>
+        </item>
+        <item>
+          <name>Возможность установки в стойку</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>512 Кб</value>
+        </item>
+      </items>
+      <items>
+        <name>LAN</name>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>24 x Ethernet 10/100/1000 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Внутренняя пропускная способность</name>
+          <value>48 Гбит/сек</value>
+        </item>
+        <item>
+          <name>Размер таблицы MAC адресов</name>
+          <value>8192</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>Auto MDI/MDIX, Jumbo Frame, IEEE 802.1p (Priority tags)</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>280 x 44 x 180 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.811 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>2 вентилятора 40 x 40 мм.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97265">
+    <title>D-link DES-1100-24</title>
+    <model>DES-1100-24</model>
+    <marka>D-link</marka>
+    <catalog id="922278">Маршрутизаторы, коммутаторы, хабы</catalog>
+    
+    <price1>2099</price1>
+    <price2>6392</price2>
+    <description>
+коммутатор (switch), 24 порта Ethernet 10/100 Мбит/сек,  монтируется в стойку
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>коммутатор (switch)</value>
+        </item>
+        <item>
+          <name>Возможность установки в стойку</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Объем флеш-памяти</name>
+          <value>1 Мб</value>
+        </item>
+      </items>
+      <items>
+        <name>LAN</name>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>24 x Ethernet 10/100 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Внутренняя пропускная способность</name>
+          <value>4.8 Гбит/сек</value>
+        </item>
+        <item>
+          <name>Размер таблицы MAC адресов</name>
+          <value>8192</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>Auto MDI/MDIX, IEEE 802.1p (Priority tags), IEEE 802.1q (VLAN)</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>280 x 44 x 125 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97268">
+    <title>HP ProCurve 1810G-8</title>
+    <model>ProCurve 1810G-8</model>
+    <marka>HP</marka>
+    <catalog id="922278">Маршрутизаторы, коммутаторы, хабы</catalog>
+    
+    <price1>3200</price1>
+    <price2>7323</price2>
+    <description>
+коммутатор (switch), 8 портов Ethernet 10/100/1000 Мбит/сек
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>коммутатор (switch)</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>16 Мб</value>
+        </item>
+        <item>
+          <name>Объем флеш-памяти</name>
+          <value>8 Мб</value>
+        </item>
+      </items>
+      <items>
+        <name>LAN</name>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>8 x Ethernet 10/100/1000 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Внутренняя пропускная способность</name>
+          <value>16 Гбит/сек</value>
+        </item>
+        <item>
+          <name>Размер таблицы MAC адресов</name>
+          <value>8192</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>Auto MDI/MDIX, Jumbo Frame, IEEE 802.1p (Priority tags), IEEE 802.1q (VLAN)</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>197 x 44 x 117 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.54 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97273">
+    <title>D-link DES-3200-10</title>
+    <model>DES-3200-10</model>
+    <marka>D-link</marka>
+    <catalog id="922278">Маршрутизаторы, коммутаторы, хабы</catalog>
+    
+    <price1>5542</price1>
+    <price2>8370</price2>
+    <description>
+коммутатор (switch), 8 портов Ethernet 10/100 Мбит/сек, 2 слот(а)
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>коммутатор (switch)</value>
+        </item>
+        <item>
+          <name>Количество слотов для дополнительных интерфейсов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>128 Мб</value>
+        </item>
+        <item>
+          <name>Объем флеш-памяти</name>
+          <value>16 Мб</value>
+        </item>
+      </items>
+      <items>
+        <name>LAN</name>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>8 x Ethernet 10/100 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Поддержка работы в стеке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя пропускная способность</name>
+          <value>5.6 Гбит/сек</value>
+        </item>
+        <item>
+          <name>Размер таблицы MAC адресов</name>
+          <value>8192</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Консольный порт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Telnet</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SNMP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Протоколы управления группами интернета</name>
+          <value>IGMP v1, IGMP v2, IGMP v3</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка IPv6</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>Auto MDI/MDIX, Jumbo Frame, IEEE 802.1p (Priority tags), IEEE 802.1q (VLAN), IEEE 802.1d (Spanning Tree), IEEE 802.1s (Multiple Spanning Tree)</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>228 x 44 x 180 мм</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>2 комбо-порта 1000BASE-T/SFP</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97277">
+    <title>D-link DES-3028P</title>
+    <model>DES-3028P</model>
+    <marka>D-link</marka>
+    <catalog id="922278">Маршрутизаторы, коммутаторы, хабы</catalog>
+    
+    <price1>16961</price1>
+    <price2>20880</price2>
+    <description>
+коммутатор (switch), 24 порта Ethernet 10/100 Мбит/сек, uplink: 2 x Ethernet 10/100/1000 Мбит/сек, 2 слот(а),  монтируется в стойку
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>коммутатор (switch)</value>
+        </item>
+        <item>
+          <name>Возможность установки в стойку</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество слотов для дополнительных интерфейсов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>64 Мб</value>
+        </item>
+        <item>
+          <name>Объем флеш-памяти</name>
+          <value>8 Мб</value>
+        </item>
+      </items>
+      <items>
+        <name>LAN</name>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>24 x Ethernet 10/100 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Количество uplink/стек/SFP-портов и модулей</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Максимальная скорость uplink/SFP-портов</name>
+          <value>10/100/1000 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Внутренняя пропускная способность</name>
+          <value>12.8 Гбит/сек</value>
+        </item>
+        <item>
+          <name>Размер таблицы MAC адресов</name>
+          <value>8192</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Консольный порт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Telnet</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SNMP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Протоколы управления группами интернета</name>
+          <value>IGMP v1, IGMP v2</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>Auto MDI/MDIX, Power Over Ethernet, Jumbo Frame, IEEE 802.1p (Priority tags), IEEE 802.1q (VLAN), IEEE 802.1d (Spanning Tree), IEEE 802.1s (Multiple Spanning Tree)</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>440 x 44 x 309 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4.5 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>2 комбо-порта: 10/100/1000Base-T или SFP (всего 4 гигабитных порта Uplink)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97282">
+    <title>D-link DES-1228</title>
+    <model>DES-1228</model>
+    <marka>D-link</marka>
+    <catalog id="922278">Маршрутизаторы, коммутаторы, хабы</catalog>
+    
+    <price1>5000</price1>
+    <price2>8460</price2>
+    <description>
+коммутатор (switch), 24 порта Ethernet 10/100 Мбит/сек, 4 слот(а)
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>коммутатор (switch)</value>
+        </item>
+        <item>
+          <name>Количество слотов для дополнительных интерфейсов</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>LAN</name>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>24 x Ethernet 10/100 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Количество uplink/стек/SFP-портов и модулей</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Максимальная скорость uplink/SFP-портов</name>
+          <value>10/100/1000 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Внутренняя пропускная способность</name>
+          <value>12.8 Гбит/сек</value>
+        </item>
+        <item>
+          <name>Размер таблицы MAC адресов</name>
+          <value>8192</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SNMP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>Auto MDI/MDIX, IEEE 802.1p (Priority tags), IEEE 802.1q (VLAN), IEEE 802.1d (Spanning Tree)</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>440 x 44 x 140 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.088 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>2 порта 1000Base-T + 2 комбо-порта 1000Base-T/SFP</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97292">
+    <title>HP ProCurve 1810G-24</title>
+    <model>ProCurve 1810G-24</model>
+    <marka>HP</marka>
+    <catalog id="922278">Маршрутизаторы, коммутаторы, хабы</catalog>
+    
+    <price1>8138</price1>
+    <price2>16589</price2>
+    <description>
+коммутатор (switch), 22 порта Ethernet 10/100/1000 Мбит/сек, 2 слот(а),  монтируется в стойку
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>коммутатор (switch)</value>
+        </item>
+        <item>
+          <name>Возможность установки в стойку</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество слотов для дополнительных интерфейсов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>16 Мб</value>
+        </item>
+        <item>
+          <name>Объем флеш-памяти</name>
+          <value>8 Мб</value>
+        </item>
+      </items>
+      <items>
+        <name>LAN</name>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>22 x Ethernet 10/100/1000 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Внутренняя пропускная способность</name>
+          <value>48 Гбит/сек</value>
+        </item>
+        <item>
+          <name>Размер таблицы MAC адресов</name>
+          <value>8192</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>Auto MDI/MDIX, Jumbo Frame, IEEE 802.1p (Priority tags), IEEE 802.1q (VLAN)</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>443 x 44 x 171 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.96 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>2 порта двойного назначения – каждый может использоваться как порт RJ-45 10/100/1000 или как свободный отсек mini-GBIC</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97340">
+    <title>D-link DGS-3200-10</title>
+    <model>DGS-3200-10</model>
+    <marka>D-link</marka>
+    <catalog id="922278">Маршрутизаторы, коммутаторы, хабы</catalog>
+    
+    <price1>7414</price1>
+    <price2>9820</price2>
+    <description>
+коммутатор (switch), 8 портов Ethernet 10/100/1000 Мбит/сек, 2 слот(а),  монтируется в стойку
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>коммутатор (switch)</value>
+        </item>
+        <item>
+          <name>Возможность установки в стойку</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество слотов для дополнительных интерфейсов</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>LAN</name>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>8 x Ethernet 10/100/1000 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Поддержка работы в стеке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размер таблицы MAC адресов</name>
+          <value>8192</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Консольный порт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Telnet</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SNMP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Статическая маршрутизация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Протоколы управления группами интернета</name>
+          <value>IGMP v1, IGMP v2</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка IPv6</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>Auto MDI/MDIX, Jumbo Frame, IEEE 802.1p (Priority tags), IEEE 802.1q (VLAN), IEEE 802.1d (Spanning Tree), IEEE 802.1s (Multiple Spanning Tree)</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>280 x 23 x 180 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.69 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

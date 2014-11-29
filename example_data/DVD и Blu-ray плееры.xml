@@ -1,0 +1,1869 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="29946">
+    <title>Dune HD Max без HDD</title>
+    <model>HD Max без HDD</model>
+    <marka>Dune</marka>
+    <catalog id="140982">DVD и Blu-ray плееры</catalog>
+    
+    <price1>19990</price1>
+    <price2>29780</price2>
+    <description>
+Blu-ray-плеер, MP3, MPEG4, JPEG, Dolby TrueHD, DTS-HD, HDMI, 7.1CH, USB, Ethernet, кардридер
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Blu-ray-плеер</value>
+        </item>
+        <item>
+          <name>Масштабирование изображения</name>
+          <value>HDTV</value>
+        </item>
+        <item>
+          <name>Декодеры</name>
+          <value>Dolby Digital, DTS, Dolby Digital Plus, Dolby TrueHD, DTS-HD</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разрешение выходного сигнала (HD)</name>
+          <value>720p, 1080i, 1080p</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>BD (Blu-ray Disc), DVD</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, AAC, FLAC, APE, WAV, MKV, AVCHD, H.264, VC-1, MPEG2, MPEG4, MPEG4 HD, DivX, XviD, WMV HD, JPEG</value>
+        </item>
+        <item>
+          <name>Устройство для чтения карт памяти</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы флэш-карт</name>
+          <value>SD, SDHC</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Выходы</name>
+          <value>композитный, S-video, компонентный, HDMI, аудио стерео, аудио 7.1CH, аудио оптический, аудио коаксиальный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A x3, USB Type B, Ethernet</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>DLNA</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>429x56x299 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4.8 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка BD-Live</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка 24p True Cinema</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Обновление ПО</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>60 Вт</value>
+        </item>
+        <item>
+          <name>Дополнительная информация </name>
+          <value>поддержка IPTV; поддержка DTS-WAV, DTS, AC3</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="29948">
+    <title>Samsung BD-E6500</title>
+    <model>BD-E6500</model>
+    <marka>Samsung</marka>
+    <catalog id="140982">DVD и Blu-ray плееры</catalog>
+    
+    <price1>3900</price1>
+    <price2>7990</price2>
+    <description>
+Blu-ray-плеер, 3D, MP3, MPEG4, JPEG, HDMI, USB, Wi-Fi, Ethernet
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Blu-ray-плеер</value>
+        </item>
+        <item>
+          <name>Масштабирование изображения</name>
+          <value>HDTV</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Разрешение выходного сигнала (HD)</name>
+          <value>720p, 1080i, 1080p</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>BD (Blu-ray Disc), Blu-Ray 3D, DVD R, DVD RW, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MKV, AVCHD, MPEG2, MPEG4, VideoCD, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Выходы</name>
+          <value>HDMI, аудио оптический</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A, Ethernet, Wi-Fi</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>430x33x206 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.8 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Управление по HDMI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>19 Вт / 0.8 Вт (в режиме ожидания)</value>
+        </item>
+        <item>
+          <name>Дополнительная информация </name>
+          <value>2 входа HDMI</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="29953">
+    <title>Samsung BD-ES6000</title>
+    <model>BD-ES6000</model>
+    <marka>Samsung</marka>
+    <catalog id="140982">DVD и Blu-ray плееры</catalog>
+    
+    <price1>6160</price1>
+    <price2>7000</price2>
+    <description>
+Blu-ray-плеер, 3D, MP3, MPEG4, JPEG, HDMI, USB, Wi-Fi, Ethernet
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Blu-ray-плеер</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>BD (Blu-ray Disc), Blu-Ray 3D, DVD R, DVD RW, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MKV, AVCHD, MPEG2, MPEG4, DivX, DivX HD, VideoCD, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Выходы</name>
+          <value>HDMI, аудио оптический</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A, Ethernet, Wi-Fi</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>187x56x187 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.06 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Управление по HDMI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Быстрый старт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>14.7 Вт / 0.5 Вт (в режиме ожидания)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="29957">
+    <title>Onkyo BD-SP809</title>
+    <model>BD-SP809</model>
+    <marka>Onkyo</marka>
+    <catalog id="140982">DVD и Blu-ray плееры</catalog>
+    
+    <price1>26900</price1>
+    <price2>38115</price2>
+    <description>
+Blu-ray-плеер, 3D, MP3, MPEG4, JPEG, HDMI, USB, Ethernet
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Blu-ray-плеер</value>
+        </item>
+        <item>
+          <name>Масштабирование изображения</name>
+          <value>HDTV</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разрешение выходного сигнала (HD)</name>
+          <value>720p, 1080i, 1080p</value>
+        </item>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.005 %</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум (аудио)</name>
+          <value>100 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон</name>
+          <value>98 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>BD (Blu-ray Disc), Blu-Ray 3D, BD-R, BD-Re, DVD, DVD R, DVD RW, CD, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, AVCHD, MPEG2, MPEG4, DivX, DivX HD, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Выходы</name>
+          <value>композитный, компонентный, HDMI x2, аудио стерео, аудио оптический, аудио коаксиальный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A, Ethernet, RS-232</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>DLNA</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>435x104x313 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4.7 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка BD-Live</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка 24p True Cinema</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Универсальный (мультибрендовый) пульт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Обновление ПО</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>23 Вт / 0.1 Вт (в режиме ожидания)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="29960">
+    <title>Samsung BD-E5300</title>
+    <model>BD-E5300</model>
+    <marka>Samsung</marka>
+    <catalog id="140982">DVD и Blu-ray плееры</catalog>
+    
+    <price1>2200</price1>
+    <price2>4200</price2>
+    <description>
+Blu-ray-плеер, MP3, MPEG4, JPEG, HDMI, USB, Ethernet
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Blu-ray-плеер</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>BD (Blu-ray Disc), DVD R, DVD RW, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MKV, AVCHD, MPEG2, MPEG4, DivX, DivX HD, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Выходы</name>
+          <value>HDMI, аудио коаксиальный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A, Ethernet</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>DLNA</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>360x37x193 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.3 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Управление по HDMI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>12.6 Вт / 0.3 Вт (в режиме ожидания)</value>
+        </item>
+        <item>
+          <name>Дополнительная информация </name>
+          <value>поддержка VCD 1.1</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="29963">
+    <title>LG BD650K</title>
+    <model>BD650K</model>
+    <marka>LG</marka>
+    <catalog id="140982">DVD и Blu-ray плееры</catalog>
+    
+    <price1>2090</price1>
+    <price2>5000</price2>
+    <description>
+Blu-ray-плеер, 3D, MP3, MPEG4, JPEG, караоке, HDMI, USB, Ethernet
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Blu-ray-плеер</value>
+        </item>
+        <item>
+          <name>Масштабирование изображения</name>
+          <value>HDTV</value>
+        </item>
+        <item>
+          <name>Караоке</name>
+          <value>есть, два микрофонных входа</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>BD (Blu-ray Disc), Blu-Ray 3D, BD-R, BD-Re, DVD, DVD R, DVD RW, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MKV, AVCHD, H.264, VC-1, MPEG2, MPEG4, DivX, DivX HD, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Выходы</name>
+          <value>композитный, HDMI, аудио стерео, аудио оптический</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A, Ethernet</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>DLNA</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>430x45x190 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.6 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка BD-Live</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конвертирование CD в MP3</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция увеличения изображения (ZOOM)</name>
+          <value>есть, при проигрывании, при паузе</value>
+        </item>
+        <item>
+          <name>Управление по HDMI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Обновление ПО</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>16 Вт / 1.35 Вт (в режиме ожидания)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="29965">
+    <title>Onkyo BD-SP309</title>
+    <model>BD-SP309</model>
+    <marka>Onkyo</marka>
+    <catalog id="140982">DVD и Blu-ray плееры</catalog>
+    
+    <price1>8650</price1>
+    <price2>12115</price2>
+    <description>
+Blu-ray-плеер, 3D, MP3, MPEG4, JPEG, HDMI, USB, Ethernet
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Blu-ray-плеер</value>
+        </item>
+        <item>
+          <name>Масштабирование изображения</name>
+          <value>HDTV</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разрешение выходного сигнала (HD)</name>
+          <value>720p, 1080i, 1080p</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>BD (Blu-ray Disc), Blu-Ray 3D, BD-R, BD-Re, DVD, DVD R, DVD RW, CD, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MKV, AVCHD, H.264, MPEG4, DivX, DivX HD, XviD, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Выходы</name>
+          <value>HDMI, аудио оптический</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A x2, Ethernet</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>435x57x201 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.7 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка BD-Live</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка 24p True Cinema</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от детей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Универсальный (мультибрендовый) пульт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Обновление ПО</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>16 Вт / 0.4 Вт (в режиме ожидания)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="29967">
+    <title>Pioneer DV-3022KV</title>
+    <model>DV-3022KV</model>
+    <marka>Pioneer</marka>
+    <catalog id="140982">DVD и Blu-ray плееры</catalog>
+    
+    <price1>1310</price1>
+    <price2>3000</price2>
+    <description>
+DVD-плеер, MP3, MPEG4, JPEG, караоке, HDMI, USB
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>DVD-плеер</value>
+        </item>
+        <item>
+          <name>Караоке</name>
+          <value>есть, один микрофонный вход</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Видео ЦАП</name>
+          <value>12 бит / 108 МГц</value>
+        </item>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.0065 %</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум (аудио)</name>
+          <value>115 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон</name>
+          <value>88 дБ</value>
+        </item>
+        <item>
+          <name>Аудио ЦАП</name>
+          <value>24 бит / 96 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>DVD, DVD R, DVD RW, CD, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MPEG4, DivX, VideoCD, SVCD, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Выходы</name>
+          <value>композитный, компонентный, HDMI, аудио стерео, аудио коаксиальный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>360x42x200 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.3 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Конвертирование CD в MP3</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>11 Вт / 0.7 Вт (в режиме ожидания)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="29971">
+    <title>LG DKS-9500H</title>
+    <model>DKS-9500H</model>
+    <marka>LG</marka>
+    <catalog id="140982">DVD и Blu-ray плееры</catalog>
+    
+    <price1>3190</price1>
+    <price2>6500</price2>
+    <description>
+DVD-плеер, MP3, JPEG, караоке, HDMI, 5.1CH, USB
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>DVD-плеер</value>
+        </item>
+        <item>
+          <name>Масштабирование изображения</name>
+          <value>HDTV</value>
+        </item>
+        <item>
+          <name>Декодеры</name>
+          <value>Dolby Digital, DTS, Dolby ProLogic II</value>
+        </item>
+        <item>
+          <name>Караоке</name>
+          <value>есть, два микрофонных входа</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разрешение выходного сигнала (HD)</name>
+          <value>720p, 1080i, 1080p</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>DVD, DVD R, DVD RW, CD, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, DivX, JPEG, Picture CD</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Выходы</name>
+          <value>композитный, компонентный, SCART, HDMI, аудио стерео, аудио 5.1CH, аудио оптический, аудио коаксиальный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>430x45x254 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.3 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Управление по HDMI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>черный, серебристый</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="29979">
+    <title>LG DVX-632</title>
+    <model>DVX-632</model>
+    <marka>LG</marka>
+    <catalog id="140982">DVD и Blu-ray плееры</catalog>
+    
+    <price1>890</price1>
+    <price2>1705</price2>
+    <description>
+DVD-плеер, MP3, MPEG4, JPEG, USB
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>DVD-плеер</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>DVD, DVD R, DVD RW, CD, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MPEG4, DivX, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>11 Вт</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="29983">
+    <title>LG DVX-647K</title>
+    <model>DVX-647K</model>
+    <marka>LG</marka>
+    <catalog id="140982">DVD и Blu-ray плееры</catalog>
+    
+    <price1>1124</price1>
+    <price2>1800</price2>
+    <description>
+DVD-плеер, MP3, MPEG4, JPEG, караоке, USB
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>DVD-плеер</value>
+        </item>
+        <item>
+          <name>Караоке</name>
+          <value>есть, один микрофонный вход</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Видео ЦАП</name>
+          <value>10 бит / 108 МГц</value>
+        </item>
+        <item>
+          <name>Аудио ЦАП</name>
+          <value>24 бит / 192 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>DVD, DVD R, DVD RW, CD, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MPEG4, DivX, VideoCD, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Выходы</name>
+          <value>композитный, компонентный, SCART, аудио стерео, аудио коаксиальный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>360x35x200 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.4 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>11 Вт / 1 Вт (в режиме ожидания)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="29986">
+    <title>LG BP620</title>
+    <model>BP620</model>
+    <marka>LG</marka>
+    <catalog id="140982">DVD и Blu-ray плееры</catalog>
+    
+    <price1>3500</price1>
+    <price2>4633</price2>
+    <description>
+Blu-ray-плеер, 3D, MP3, MPEG4, JPEG, HDMI, USB, Wi-Fi
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Blu-ray-плеер</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Аудио ЦАП</name>
+          <value>24 бит / 192 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>BD (Blu-ray Disc), Blu-Ray 3D, BD-R, BD-Re, DVD, DVD R, DVD RW, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MKV, AVCHD, H.264, VC-1, MPEG2, MPEG4, MPEG2 HD, MPEG4 HD, DivX, XviD, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Выходы</name>
+          <value>композитный, HDMI, аудио стерео, аудио оптический</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A, Wi-Fi</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>DLNA</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Управление при помощи смартфона</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Управление по HDMI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>17 Вт / 0.5 Вт (в режиме ожидания)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="29995">
+    <title>LG BP420K</title>
+    <model>BP420K</model>
+    <marka>LG</marka>
+    <catalog id="140982">DVD и Blu-ray плееры</catalog>
+    
+    <price1>3005</price1>
+    <price2>4588</price2>
+    <description>
+Blu-ray-плеер, 3D, MP3, MPEG4, JPEG, караоке, HDMI, Ethernet
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Blu-ray-плеер</value>
+        </item>
+        <item>
+          <name>Масштабирование изображения</name>
+          <value>HDTV</value>
+        </item>
+        <item>
+          <name>Караоке</name>
+          <value>есть, два микрофонных входа</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Разрешение выходного сигнала (HD)</name>
+          <value>720p, 1080i, 1080p</value>
+        </item>
+        <item>
+          <name>Видео ЦАП</name>
+          <value>12 бит / 162 МГц</value>
+        </item>
+        <item>
+          <name>Аудио ЦАП</name>
+          <value>24 бит / 192 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>BD (Blu-ray Disc), Blu-Ray 3D, BD-R, BD-Re, DVD, DVD R, DVD RW, CD, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MKV, AVCHD, H.264, MPEG2, MPEG4, DivX, XviD, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Выходы</name>
+          <value>композитный, HDMI, аудио стерео, аудио оптический</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A, Ethernet</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>DLNA</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>430x40x190 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.6 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка BD-Live</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Управление при помощи смартфона</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Управление по HDMI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>12 Вт</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="29996">
+    <title>LG DP527</title>
+    <model>DP527</model>
+    <marka>LG</marka>
+    <catalog id="140982">DVD и Blu-ray плееры</catalog>
+    
+    <price1>1000</price1>
+    <price2>1225</price2>
+    <description>
+DVD-плеер, MP3, MPEG4, JPEG, караоке, USB
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>DVD-плеер</value>
+        </item>
+        <item>
+          <name>Караоке</name>
+          <value>есть, один микрофонный вход</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>DVD, CD</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MPEG4, DivX, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Выходы</name>
+          <value>композитный, компонентный, аудио стерео, аудио коаксиальный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>360x35x200 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="30003">
+    <title>LG DP-671D</title>
+    <model>DP-671D</model>
+    <marka>LG</marka>
+    <catalog id="140982">DVD и Blu-ray плееры</catalog>
+    
+    <price1>3700</price1>
+    <price2>4890</price2>
+    <description>
+портативный DVD-плеер, экран 7&amp;quot;, MP3, MPEG4, JPEG, USB, 0.73 кг
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>портативный DVD-плеер</value>
+        </item>
+        <item>
+          <name>Экран</name>
+          <value>7", 480x234 пикс.</value>
+        </item>
+        <item>
+          <name>TV-тюнер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>DVD, DVD R, DVD RW, CD, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MPEG4, DivX, DivX HD, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Выходы</name>
+          <value>композитный, аудио стерео, наушники x2</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>239x46x158 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.73 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Объемное звучание</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Время работы от аккумулятора</name>
+          <value>5 ч</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>10 Вт</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="30006">
+    <title>LG BD660K</title>
+    <model>BD660K</model>
+    <marka>LG</marka>
+    <catalog id="140982">DVD и Blu-ray плееры</catalog>
+    
+    <price1>4390</price1>
+    <price2>8500</price2>
+    <description>
+Blu-ray-плеер, 3D, MP3, MPEG4, JPEG, караоке, HDMI, USB, Ethernet
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Blu-ray-плеер</value>
+        </item>
+        <item>
+          <name>Масштабирование изображения</name>
+          <value>HDTV</value>
+        </item>
+        <item>
+          <name>Караоке</name>
+          <value>есть, два микрофонных входа</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>BD (Blu-ray Disc), Blu-Ray 3D, BD-R, BD-Re, DVD, DVD R, DVD RW, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MKV, AVCHD, H.264, VC-1, MPEG2, MPEG4, DivX, DivX HD, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Выходы</name>
+          <value>композитный, компонентный, HDMI, аудио стерео, аудио оптический</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A, Ethernet</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>DLNA</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>430x45x190 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.6 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка BD-Live</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конвертирование CD в MP3</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Управление по HDMI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Обновление ПО</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>16 Вт / 1.35 Вт (в режиме ожидания)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="30007">
+    <title>LG DVX-689H</title>
+    <model>DVX-689H</model>
+    <marka>LG</marka>
+    <catalog id="140982">DVD и Blu-ray плееры</catalog>
+    
+    <price1>2040</price1>
+    <price2>2255</price2>
+    <description>
+DVD-плеер, MP3, MPEG4, JPEG, HDMI, USB
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>DVD-плеер</value>
+        </item>
+        <item>
+          <name>Масштабирование изображения</name>
+          <value>HDTV</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>DVD, DVD R, DVD RW, CD, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MKV, H.264, MPEG2, MPEG4, DivX, DivX HD, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Выходы</name>
+          <value>композитный, компонентный, SCART, HDMI, аудио стерео, аудио коаксиальный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>430x35x230 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Конвертирование CD в MP3</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Универсальный (мультибрендовый) пульт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Управление по HDMI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>14 Вт</value>
+        </item>
+        <item>
+          <name>Дополнительная информация </name>
+          <value>поддержка внешних жестких дисков</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="30010">
+    <title>Philips BDP5500</title>
+    <model>BDP5500</model>
+    <marka>Philips</marka>
+    <catalog id="140982">DVD и Blu-ray плееры</catalog>
+    
+    <price1>3740</price1>
+    <price2>4980</price2>
+    <description>
+Blu-ray-плеер, 3D, MP3, MPEG4, JPEG, HDMI, USB, Wi-Fi, Ethernet, кардридер
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Blu-ray-плеер</value>
+        </item>
+        <item>
+          <name>Масштабирование изображения</name>
+          <value>HDTV</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разрешение выходного сигнала (HD)</name>
+          <value>720p, 1080i, 1080p</value>
+        </item>
+        <item>
+          <name>Видео ЦАП</name>
+          <value>12 бит / 148 МГц</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум (аудио)</name>
+          <value>100 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон</name>
+          <value>90 дБ</value>
+        </item>
+        <item>
+          <name>Аудио ЦАП</name>
+          <value>24 бит / 192 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>BD (Blu-ray Disc), Blu-Ray 3D, BD-R, BD-Re, DVD, DVD R, DVD RW, CD, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MKV, AVCHD, H.264, MPEG2, MPEG4, DivX, XviD, VideoCD, SVCD, JPEG</value>
+        </item>
+        <item>
+          <name>Устройство для чтения карт памяти</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы флэш-карт</name>
+          <value>SD, SDHC</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Выходы</name>
+          <value>композитный, HDMI, аудио стерео, аудио коаксиальный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A, Ethernet, Wi-Fi</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>DLNA</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>435x38x213 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.82 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка BD-Live</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция увеличения изображения (ZOOM)</name>
+          <value>есть, при проигрывании</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Обновление ПО</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Быстрый старт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>20 Вт / 0.3 Вт (в режиме ожидания)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="30022">
+    <title>Yamaha BD-A1010</title>
+    <model>BD-A1010</model>
+    <marka>Yamaha</marka>
+    <catalog id="140982">DVD и Blu-ray плееры</catalog>
+    
+    <price1>16810</price1>
+    <price2>17490</price2>
+    <description>
+Blu-ray-плеер, 3D, MP3, MPEG4, JPEG, Dolby TrueHD, DTS-HD, HDMI, 7.1CH, USB, Ethernet
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Blu-ray-плеер</value>
+        </item>
+        <item>
+          <name>Масштабирование изображения</name>
+          <value>HDTV</value>
+        </item>
+        <item>
+          <name>Декодеры</name>
+          <value>Dolby Digital, DTS, Dolby TrueHD, DTS-HD</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разрешение выходного сигнала (HD)</name>
+          <value>720p, 1080i, 1080p</value>
+        </item>
+        <item>
+          <name>Аудио ЦАП</name>
+          <value>24 бит / 192 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>BD (Blu-ray Disc), Blu-Ray 3D, BD-R, BD-Re, DVD, DVD R, DVD RW, CD, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, AVCHD, H.264, MPEG2, MPEG4, DivX, DivX HD, XviD, SACD, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Выходы</name>
+          <value>композитный, компонентный, HDMI, аудио стерео, аудио 7.1CH, аудио оптический, аудио коаксиальный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A x2, Ethernet, RS-232</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>DLNA</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>435x95x318 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>7 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка BD-Live</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Управление при помощи смартфона</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Управление по HDMI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>25 Вт / 0.5 Вт (в режиме ожидания)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="30023">
+    <title>Samsung BD-ES7000</title>
+    <model>BD-ES7000</model>
+    <marka>Samsung</marka>
+    <catalog id="140982">DVD и Blu-ray плееры</catalog>
+    
+    <price1>9990</price1>
+    <price2>13990</price2>
+    <description>
+Blu-ray-плеер, 3D, MP3, MPEG4, JPEG, HDMI, Wi-Fi, Ethernet
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Blu-ray-плеер</value>
+        </item>
+        <item>
+          <name>Масштабирование изображения</name>
+          <value>HDTV</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>BD (Blu-ray Disc), Blu-Ray 3D, DVD R, DVD RW, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MKV, AVCHD, MPEG2, MPEG4, DivX, DivX HD, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Выходы</name>
+          <value>HDMI, аудио оптический</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Ethernet, Wi-Fi</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>380x23x158 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Управление по HDMI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Быстрый старт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>17 Вт / 0.5 Вт (в режиме ожидания)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

@@ -1,0 +1,2471 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="46505">
+    <title>PocketBook Touch</title>
+    <model>Touch</model>
+    <marka>PocketBook</marka>
+    <catalog id="2666443">Устройства для чтения электронных книг</catalog>
+    
+    <price1>4073</price1>
+    <price2>9799</price2>
+    <description>
+
+
+
+дисплей: E-Ink, сенсорный, 6&amp;quot;, 600x800, microSDHC, TXT, fb2, MP3, JPEG, Wi-Fi
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики дисплея</name>
+        <item>
+          <name>Тип</name>
+          <value>E-Ink, емкостный, Pearl, сенсорный, градаций серого: 16</value>
+        </item>
+        <item>
+          <name>Параметры</name>
+          <value>6 дюймов, 600x800, 167 ppi</value>
+        </item>
+        <item>
+          <name>Встроенная подсветка</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Текстовые</name>
+          <value>TXT, DOC, PDF, fb2, ePub, DjVu, RTF, DOCX, TCR</value>
+        </item>
+        <item>
+          <name>Графические</name>
+          <value>JPEG, BMP, TIFF, PNG</value>
+        </item>
+        <item>
+          <name>Звуковые</name>
+          <value>MP3</value>
+        </item>
+        <item>
+          <name>Другие</name>
+          <value>HTML, CHM, ZIP, RSS</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Преобразование текста в голос</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор и память</name>
+        <item>
+          <name>Частота процессора</name>
+          <value>800 МГц</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>128 Мб</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>2048 Мб</value>
+        </item>
+        <item>
+          <name>Карта памяти</name>
+          <value>microSDHC, MicroSD</value>
+        </item>
+        <item>
+          <name>Максимальный объем карты памяти</name>
+          <value>32 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение и зарядка</name>
+        <item>
+          <name>Интерфейс USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Wi-Fi</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1100 мАч</value>
+        </item>
+        <item>
+          <name>Продолжительность работы</name>
+          <value>8000 страниц</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция и габариты</name>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопки листания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxT)</name>
+          <value>115x175x10 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>195 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="46506">
+    <title>PocketBook 613 Basic New</title>
+    <model>613 Basic New</model>
+    <marka>PocketBook</marka>
+    <catalog id="2666443">Устройства для чтения электронных книг</catalog>
+    
+    <price1>3790</price1>
+    <price2>5503</price2>
+    <description>
+
+
+
+дисплей: E-Ink, 6&amp;quot;, 600x800, microSDHC, TXT, fb2, JPEG
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики дисплея</name>
+        <item>
+          <name>Тип</name>
+          <value>E-Ink, Vizplex, градаций серого: 16</value>
+        </item>
+        <item>
+          <name>Параметры</name>
+          <value>6 дюймов, 600x800, 167 ppi</value>
+        </item>
+        <item>
+          <name>Встроенная подсветка</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Текстовые</name>
+          <value>TXT, DOC, PDF, fb2, ePub, DjVu, RTF, DOCX, TCR, MOBI</value>
+        </item>
+        <item>
+          <name>Графические</name>
+          <value>JPEG, BMP, TIFF, PNG</value>
+        </item>
+        <item>
+          <name>Другие</name>
+          <value>HTML, CHM, ZIP</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Диктофон</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор и память</name>
+        <item>
+          <name>Частота процессора</name>
+          <value>800 МГц</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>128 Мб</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>2048 Мб</value>
+        </item>
+        <item>
+          <name>Карта памяти</name>
+          <value>microSDHC, MicroSD</value>
+        </item>
+        <item>
+          <name>Максимальный объем карты памяти</name>
+          <value>32 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение и зарядка</name>
+        <item>
+          <name>Интерфейс USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Wi-Fi</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Bluetooth</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>3G</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1000 мАч</value>
+        </item>
+        <item>
+          <name>Продолжительность работы</name>
+          <value>8000 страниц</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция и габариты</name>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопки листания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxT)</name>
+          <value>123x176x10 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>180 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="46514">
+    <title>Wexler Book T7055</title>
+    <model>Book T7055</model>
+    <marka>Wexler</marka>
+    <catalog id="2666443">Устройства для чтения электронных книг</catalog>
+    
+    <price1>2290</price1>
+    <price2>3600</price2>
+    <description>
+
+
+
+дисплей: LCD (цветной), сенсорный, 7&amp;quot;, 480x800, microSDHC, TXT, fb2, MP3, JPEG
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики дисплея</name>
+        <item>
+          <name>Тип</name>
+          <value>LCD (цветной), сенсорный</value>
+        </item>
+        <item>
+          <name>Параметры</name>
+          <value>7 дюймов, 480x800, 133 ppi</value>
+        </item>
+        <item>
+          <name>Встроенная подсветка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Текстовые</name>
+          <value>TXT, DOC, PalmDOC, PDF, fb2, ePub, ANSI</value>
+        </item>
+        <item>
+          <name>Графические</name>
+          <value>JPEG, BMP, GIF</value>
+        </item>
+        <item>
+          <name>Звуковые</name>
+          <value>MP3, AAC</value>
+        </item>
+        <item>
+          <name>Другие</name>
+          <value>HTML</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор и память</name>
+        <item>
+          <name>Встроенная память</name>
+          <value>8192 Мб</value>
+        </item>
+        <item>
+          <name>Карта памяти</name>
+          <value>microSDHC, MicroSD</value>
+        </item>
+        <item>
+          <name>Максимальный объем карты памяти</name>
+          <value>32 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение и зарядка</name>
+        <item>
+          <name>Интерфейс USB</name>
+          <value>есть, с возможностью зарядки</value>
+        </item>
+        <item>
+          <name>Возможность зарядки от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Wi-Fi</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>2800 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция и габариты</name>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопки листания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита в комплекте</name>
+          <value>чехол</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxT)</name>
+          <value>125x190x12 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>300 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>динамик; поддержка форматов WMV, RM, AVI, RMVB, 3GP, FLV, MP4, MPEG, MKV, WMA, FLAC, WAV</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="46518">
+    <title>Wexler Flex ONE</title>
+    <model>Flex ONE</model>
+    <marka>Wexler</marka>
+    <catalog id="2666443">Устройства для чтения электронных книг</catalog>
+    
+    <price1>2648</price1>
+    <price2>4000</price2>
+    <description>
+
+
+
+дисплей: E-Ink Flex, 6&amp;quot;, 768x1024, TXT, fb2
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики дисплея</name>
+        <item>
+          <name>Тип</name>
+          <value>E-Ink Flex</value>
+        </item>
+        <item>
+          <name>Параметры</name>
+          <value>6 дюймов, 768x1024, 213 ppi</value>
+        </item>
+        <item>
+          <name>Встроенная подсветка</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Текстовые</name>
+          <value>TXT, DOC, PDF, fb2, ePub, DjVu, RTF</value>
+        </item>
+        <item>
+          <name>Другие</name>
+          <value>HTML, CHM</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Диктофон</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор и память</name>
+        <item>
+          <name>Встроенная память</name>
+          <value>8192 Мб</value>
+        </item>
+        <item>
+          <name>Карта памяти</name>
+          <value>не поддерживается</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение и зарядка</name>
+        <item>
+          <name>Интерфейс USB</name>
+          <value>есть, с возможностью зарядки</value>
+        </item>
+        <item>
+          <name>Возможность зарядки от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Wi-Fi</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>600 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция и габариты</name>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Защита в комплекте</name>
+          <value>обложка</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxT)</name>
+          <value>134x151x4 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>110 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>экран E-ink Flex контрастностью 12:1</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="46530">
+    <title>Ritmix RBK-420</title>
+    <model>RBK-420</model>
+    <marka>Ritmix</marka>
+    <catalog id="2666443">Устройства для чтения электронных книг</catalog>
+    
+    <price1>2130</price1>
+    <price2>3650</price2>
+    <description>
+
+
+
+дисплей: LCD (цветной), 7&amp;quot;, 480x800, TXT, fb2, MP3, JPEG
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики дисплея</name>
+        <item>
+          <name>Тип</name>
+          <value>LCD (цветной)</value>
+        </item>
+        <item>
+          <name>Параметры</name>
+          <value>7 дюймов, 480x800, 133 ppi</value>
+        </item>
+        <item>
+          <name>Встроенная подсветка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Текстовые</name>
+          <value>TXT, PalmDOC, PDF, fb2, ePub, RTF, MOBI, LRC</value>
+        </item>
+        <item>
+          <name>Графические</name>
+          <value>JPEG, BMP, GIF, PNG</value>
+        </item>
+        <item>
+          <name>Звуковые</name>
+          <value>MP3, AAC</value>
+        </item>
+        <item>
+          <name>Другие</name>
+          <value>HTML</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диктофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор и память</name>
+        <item>
+          <name>Оперативная память</name>
+          <value>256 Мб</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>4096 Мб</value>
+        </item>
+        <item>
+          <name>Карта памяти</name>
+          <value>MicroSD</value>
+        </item>
+        <item>
+          <name>Максимальный объем карты памяти</name>
+          <value>16 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение и зарядка</name>
+        <item>
+          <name>Интерфейс USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность зарядки от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Wi-Fi</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>2000 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция и габариты</name>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопки листания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита в комплекте</name>
+          <value>чехол</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxT)</name>
+          <value>122x194x13 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>270 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>поддержка игр; поддержка форматов AVI, MPG, RMVB, FLC, ASF, WMV, MP4, 3GP, RM, WMA, OGG, WAV, FLAC</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="46533">
+    <title>Ritmix RBK-330</title>
+    <model>RBK-330</model>
+    <marka>Ritmix</marka>
+    <catalog id="2666443">Устройства для чтения электронных книг</catalog>
+    
+    <price1>1400</price1>
+    <price2>2360</price2>
+    <description>
+
+
+
+дисплей: LCD (цветной), сенсорный, 5&amp;quot;, 480x800, TXT, fb2, MP3, JPEG
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики дисплея</name>
+        <item>
+          <name>Тип</name>
+          <value>LCD (цветной), сенсорный</value>
+        </item>
+        <item>
+          <name>Параметры</name>
+          <value>5 дюймов, 480x800, 187 ppi</value>
+        </item>
+        <item>
+          <name>Встроенная подсветка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Текстовые</name>
+          <value>TXT, DOC, PalmDOC, PDF, fb2, ePub, DjVu, RTF, LRC, MOBI</value>
+        </item>
+        <item>
+          <name>Графические</name>
+          <value>JPEG, BMP, GIF, PNG</value>
+        </item>
+        <item>
+          <name>Звуковые</name>
+          <value>MP3</value>
+        </item>
+        <item>
+          <name>Другие</name>
+          <value>HTML, CHM</value>
+        </item>
+        <item>
+          <name>Диктофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор и память</name>
+        <item>
+          <name>Оперативная память</name>
+          <value>256 Мб</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>4096 Мб</value>
+        </item>
+        <item>
+          <name>Карта памяти</name>
+          <value>MicroSD</value>
+        </item>
+        <item>
+          <name>Максимальный объем карты памяти</name>
+          <value>16 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение и зарядка</name>
+        <item>
+          <name>Интерфейс USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность зарядки от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Wi-Fi</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1800 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция и габариты</name>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопки листания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита в комплекте</name>
+          <value>чехол</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxT)</name>
+          <value>92x145x12 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>175 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>поддержка форматов RMVB, AVI, H.264, DAT, MPEG, FLV, WMV,</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="46544">
+    <title>Digma a700</title>
+    <model>a700</model>
+    <marka>Digma</marka>
+    <catalog id="2666443">Устройства для чтения электронных книг</catalog>
+    
+    <price1>1690</price1>
+    <price2>2840</price2>
+    <description>
+
+
+
+дисплей: LCD (цветной), 7&amp;quot;, 480x800, TXT, fb2, MP3, JPEG
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики дисплея</name>
+        <item>
+          <name>Тип</name>
+          <value>LCD (цветной)</value>
+        </item>
+        <item>
+          <name>Параметры</name>
+          <value>7 дюймов, 480x800, 133 ppi</value>
+        </item>
+        <item>
+          <name>Встроенная подсветка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Текстовые</name>
+          <value>TXT, PalmDOC, PDF, fb2, ePub, MOBI, XML, LCR</value>
+        </item>
+        <item>
+          <name>Графические</name>
+          <value>JPEG, BMP, GIF</value>
+        </item>
+        <item>
+          <name>Звуковые</name>
+          <value>MP3, AAC</value>
+        </item>
+        <item>
+          <name>Другие</name>
+          <value>HTML</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диктофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор и память</name>
+        <item>
+          <name>Частота процессора</name>
+          <value>400 МГц</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>256 Мб</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>2048 Мб</value>
+        </item>
+        <item>
+          <name>Карта памяти</name>
+          <value>MicroSD</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение и зарядка</name>
+        <item>
+          <name>Интерфейс USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Wi-Fi</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>2000 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция и габариты</name>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопки листания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxT)</name>
+          <value>120x189x9 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>279 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>поддержка форматов WMA, FLAC, WAV, OGG, APE, WMV, RM, AVI, RMVB, 3GP, FLV, MP4, DAT, VOB, MPG, MPEG, MKV, MOV</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="46560">
+    <title>Sony PRS-T2</title>
+    <model>PRS-T2</model>
+    <marka>Sony</marka>
+    <catalog id="2666443">Устройства для чтения электронных книг</catalog>
+    
+    <price1>4025</price1>
+    <price2>7100</price2>
+    <description>
+
+
+
+дисплей: E-Ink, сенсорный, 6&amp;quot;, 600x800, microSDHC, TXT, JPEG, Wi-Fi
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики дисплея</name>
+        <item>
+          <name>Тип</name>
+          <value>E-Ink, инфракрасный, Pearl, сенсорный, градаций серого: 16</value>
+        </item>
+        <item>
+          <name>Параметры</name>
+          <value>6 дюймов, 600x800, 167 ppi</value>
+        </item>
+        <item>
+          <name>Встроенная подсветка</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Текстовые</name>
+          <value>TXT, PDF, fb2, ePub</value>
+        </item>
+        <item>
+          <name>Графические</name>
+          <value>JPEG, BMP, GIF, PNG</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор и память</name>
+        <item>
+          <name>Встроенная память</name>
+          <value>1331 Мб</value>
+        </item>
+        <item>
+          <name>Карта памяти</name>
+          <value>microSDHC, MicroSD</value>
+        </item>
+        <item>
+          <name>Максимальный объем карты памяти</name>
+          <value>32 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение и зарядка</name>
+        <item>
+          <name>Интерфейс USB</name>
+          <value>есть, с возможностью зарядки</value>
+        </item>
+        <item>
+          <name>Возможность зарядки от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Wi-Fi</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Bluetooth</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>3G</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1000 мАч</value>
+        </item>
+        <item>
+          <name>Продолжительность работы</name>
+          <value>30000 страниц</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция и габариты</name>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопки листания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxT)</name>
+          <value>110x173x9 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>164 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="46567">
+    <title>ONYX BOOX i62M Dream</title>
+    <model>BOOX i62M Dream</model>
+    <marka>ONYX</marka>
+    <catalog id="2666443">Устройства для чтения электронных книг</catalog>
+    
+    <price1>6990</price1>
+    <price2>7490</price2>
+    <description>
+
+
+
+дисплей: E-Ink, сенсорный, 6&amp;quot;, 600x800, microSDHC, TXT, fb2, JPEG, Wi-Fi
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики дисплея</name>
+        <item>
+          <name>Тип</name>
+          <value>E-Ink, инфракрасный, Pearl, сенсорный, градаций серого: 16</value>
+        </item>
+        <item>
+          <name>Параметры</name>
+          <value>6 дюймов, 600x800, 167 ppi</value>
+        </item>
+        <item>
+          <name>Автоматический поворот экрана</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Встроенная подсветка</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Текстовые</name>
+          <value>TXT, DOC, PalmDOC, fb2, ePub, RTF, MOBIPOCKET, DOCX, XLSX, PPT, PPTX</value>
+        </item>
+        <item>
+          <name>Графические</name>
+          <value>JPEG, BMP, TIFF, GIF, PNG</value>
+        </item>
+        <item>
+          <name>Другие</name>
+          <value>HTML, CHM, ZIP</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Диктофон</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор и память</name>
+        <item>
+          <name>Частота процессора</name>
+          <value>800 МГц</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>128 Мб</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>4096 Мб</value>
+        </item>
+        <item>
+          <name>Карта памяти</name>
+          <value>microSDHC, MicroSD</value>
+        </item>
+        <item>
+          <name>Максимальный объем карты памяти</name>
+          <value>32 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение и зарядка</name>
+        <item>
+          <name>Интерфейс USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Wi-Fi</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1600 мАч</value>
+        </item>
+        <item>
+          <name>Продолжительность работы</name>
+          <value>15000 страниц</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция и габариты</name>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопки листания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxT)</name>
+          <value>125x171x11 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>250 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="46570">
+    <title>LBook V60</title>
+    <model>V60</model>
+    <marka>LBook</marka>
+    <catalog id="2666443">Устройства для чтения электронных книг</catalog>
+    
+    <price1>3400</price1>
+    <price2>6000</price2>
+    <description>
+
+
+
+дисплей: E-Ink, 6&amp;quot;, 600x800, Secure Digital, Secure Digital HC, TXT, fb2, MP3, JPEG, Wi-Fi, 3G
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики дисплея</name>
+        <item>
+          <name>Тип</name>
+          <value>E-Ink, Pearl, градаций серого: 16</value>
+        </item>
+        <item>
+          <name>Параметры</name>
+          <value>6 дюймов, 600x800, 167 ppi</value>
+        </item>
+        <item>
+          <name>Автоматический поворот экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенная подсветка</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Текстовые</name>
+          <value>TXT, DOC, PDF, fb2, ePub, DjVu, RTF</value>
+        </item>
+        <item>
+          <name>Графические</name>
+          <value>JPEG, BMP, TIFF, GIF, PNG</value>
+        </item>
+        <item>
+          <name>Звуковые</name>
+          <value>MP3</value>
+        </item>
+        <item>
+          <name>Другие</name>
+          <value>HTML, RSS</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Диктофон</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор и память</name>
+        <item>
+          <name>Частота процессора</name>
+          <value>400 МГц</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>128 Мб</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>2048 Мб</value>
+        </item>
+        <item>
+          <name>Карта памяти</name>
+          <value>Secure Digital, Secure Digital HC</value>
+        </item>
+        <item>
+          <name>Максимальный объем карты памяти</name>
+          <value>16 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение и зарядка</name>
+        <item>
+          <name>Интерфейс USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность зарядки от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Wi-Fi</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>3G</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1600 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция и габариты</name>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Кнопки листания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxT)</name>
+          <value>125x185x11 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>260 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>3G опционально; поддержка формата PPT</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="46582">
+    <title>Ectaco jetBook Color</title>
+    <model>jetBook Color</model>
+    <marka>Ectaco</marka>
+    <catalog id="2666443">Устройства для чтения электронных книг</catalog>
+    
+    <price1>14990</price1>
+    <price2>22850</price2>
+    <description>
+
+
+
+дисплей: E-Ink (цветной), сенсорный, 9.68&amp;quot;, 1200x1600, microSDHC, TXT, MP3, JPEG, Wi-Fi
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики дисплея</name>
+        <item>
+          <name>Тип</name>
+          <value>E-Ink (цветной), сенсорный</value>
+        </item>
+        <item>
+          <name>Параметры</name>
+          <value>9.68 дюймов, 1200x1600, 207 ppi</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Текстовые</name>
+          <value>TXT, DOC, PDF, ePub, Adobe DRM, HTXT</value>
+        </item>
+        <item>
+          <name>Графические</name>
+          <value>JPEG, BMP, TIFF, GIF, PNG</value>
+        </item>
+        <item>
+          <name>Звуковые</name>
+          <value>MP3</value>
+        </item>
+        <item>
+          <name>Другие</name>
+          <value>XLS, HTML</value>
+        </item>
+        <item>
+          <name>Диктофон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Преобразование текста в голос</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор и память</name>
+        <item>
+          <name>Частота процессора</name>
+          <value>800 МГц</value>
+        </item>
+        <item>
+          <name>Карта памяти</name>
+          <value>microSDHC, MicroSD</value>
+        </item>
+        <item>
+          <name>Максимальный объем карты памяти</name>
+          <value>32 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение и зарядка</name>
+        <item>
+          <name>Интерфейс USB</name>
+          <value>есть, с возможностью зарядки</value>
+        </item>
+        <item>
+          <name>Возможность зарядки от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Wi-Fi</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Продолжительность работы</name>
+          <value>10000 страниц</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция и габариты</name>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопки листания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита в комплекте</name>
+          <value>чехол</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxT)</name>
+          <value>188x270x12 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>662 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>словарь; динамик; микрофон; GPS; модуль 3G опционально; поддержка форматов WAV, WMA</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="46586">
+    <title>ONYX BOOX M92SM Titan</title>
+    <model>BOOX M92SM Titan</model>
+    <marka>ONYX</marka>
+    <catalog id="2666443">Устройства для чтения электронных книг</catalog>
+    
+    <description>
+
+
+
+дисплей: E-Ink, 9.7&amp;quot;, 825x1200, Secure Digital, Secure Digital HC, TXT, fb2, JPEG
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики дисплея</name>
+        <item>
+          <name>Тип</name>
+          <value>E-Ink, Pearl, градаций серого: 16</value>
+        </item>
+        <item>
+          <name>Параметры</name>
+          <value>9.7 дюймов, 825x1200, 150 ppi</value>
+        </item>
+        <item>
+          <name>Автоматический поворот экрана</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Встроенная подсветка</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Текстовые</name>
+          <value>TXT, DOC, PalmDOC, PDF, fb2, ePub, DjVu, RTF, DOCX, MOBIPOCKET, CBR, CB7, CBZ, PPT, PPTX, XLSX</value>
+        </item>
+        <item>
+          <name>Графические</name>
+          <value>JPEG, BMP, TIFF, GIF, PNG</value>
+        </item>
+        <item>
+          <name>Другие</name>
+          <value>XLS, HTML, CHM, ZIP</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Диктофон</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор и память</name>
+        <item>
+          <name>Частота процессора</name>
+          <value>800 МГц</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>256 Мб</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>4096 Мб</value>
+        </item>
+        <item>
+          <name>Карта памяти</name>
+          <value>Secure Digital, Secure Digital HC</value>
+        </item>
+        <item>
+          <name>Максимальный объем карты памяти</name>
+          <value>32 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение и зарядка</name>
+        <item>
+          <name>Интерфейс USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Wi-Fi</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1600 мАч</value>
+        </item>
+        <item>
+          <name>Продолжительность работы</name>
+          <value>15000 страниц</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция и габариты</name>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопки листания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxT)</name>
+          <value>179x243x12 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>490 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="46590">
+    <title>Ritmix RBK-750</title>
+    <model>RBK-750</model>
+    <marka>Ritmix</marka>
+    <catalog id="2666443">Устройства для чтения электронных книг</catalog>
+    
+    <price1>2590</price1>
+    <price2>4550</price2>
+    <description>
+
+
+
+дисплей: E-Ink, 6&amp;quot;, 600x800, TXT, fb2, MP3, JPEG, Wi-Fi
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики дисплея</name>
+        <item>
+          <name>Тип</name>
+          <value>E-Ink, Pearl, градаций серого: 16</value>
+        </item>
+        <item>
+          <name>Параметры</name>
+          <value>6 дюймов, 600x800, 167 ppi</value>
+        </item>
+        <item>
+          <name>Автоматический поворот экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенная подсветка</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Текстовые</name>
+          <value>TXT, DOC, PDF, fb2, ePub, DjVu, RTF, MOBI, DOCX, XLSX, PPS, PPSX</value>
+        </item>
+        <item>
+          <name>Графические</name>
+          <value>JPEG, BMP, GIF, PNG</value>
+        </item>
+        <item>
+          <name>Звуковые</name>
+          <value>MP3</value>
+        </item>
+        <item>
+          <name>Другие</name>
+          <value>XLS, HTML, ZIP</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор и память</name>
+        <item>
+          <name>Частота процессора</name>
+          <value>533 МГц</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>128 Мб</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>4096 Мб</value>
+        </item>
+        <item>
+          <name>Карта памяти</name>
+          <value>MicroSD</value>
+        </item>
+        <item>
+          <name>Максимальный объем карты памяти</name>
+          <value>32 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение и зарядка</name>
+        <item>
+          <name>Интерфейс USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность зарядки от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Wi-Fi</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1500 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция и габариты</name>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Кнопки листания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита в комплекте</name>
+          <value>обложка</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxT)</name>
+          <value>116x189x8 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>210 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>поддержка форматов WMA, WAV, OGG, RAR, 7Z</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="46592">
+    <title>Ritmix RBK-600</title>
+    <model>RBK-600</model>
+    <marka>Ritmix</marka>
+    <catalog id="2666443">Устройства для чтения электронных книг</catalog>
+    
+    <price1>3267</price1>
+    <price2>4290</price2>
+    <description>
+
+
+
+дисплей: E-Ink, 6&amp;quot;, 600x800, TXT, fb2, MP3, JPEG
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики дисплея</name>
+        <item>
+          <name>Тип</name>
+          <value>E-Ink, Pearl, градаций серого: 16</value>
+        </item>
+        <item>
+          <name>Параметры</name>
+          <value>6 дюймов, 600x800, 167 ppi</value>
+        </item>
+        <item>
+          <name>Встроенная подсветка</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Текстовые</name>
+          <value>TXT, DOC, PDF, fb2, ePub</value>
+        </item>
+        <item>
+          <name>Графические</name>
+          <value>JPEG, BMP, GIF</value>
+        </item>
+        <item>
+          <name>Звуковые</name>
+          <value>MP3</value>
+        </item>
+        <item>
+          <name>Другие</name>
+          <value>HTML, CHM, ZIP</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор и память</name>
+        <item>
+          <name>Оперативная память</name>
+          <value>64 Мб</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>4096 Мб</value>
+        </item>
+        <item>
+          <name>Карта памяти</name>
+          <value>MicroSD</value>
+        </item>
+        <item>
+          <name>Максимальный объем карты памяти</name>
+          <value>16 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение и зарядка</name>
+        <item>
+          <name>Интерфейс USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность зарядки от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Wi-Fi</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Bluetooth</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>3G</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1200 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция и габариты</name>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопки листания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита в комплекте</name>
+          <value>чехол</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxT)</name>
+          <value>115x178x10 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>165 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>игры; поддержка форматов WMA</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="46603">
+    <title>Prology Latitude I-603T</title>
+    <model>Latitude I-603T</model>
+    <marka>Prology</marka>
+    <catalog id="2666443">Устройства для чтения электронных книг</catalog>
+    
+    <price1>2496</price1>
+    <price2>3110</price2>
+    <description>
+
+
+
+дисплей: E-Ink, сенсорный, 6&amp;quot;, 600x800, TXT, fb2, MP3, JPEG
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики дисплея</name>
+        <item>
+          <name>Тип</name>
+          <value>E-Ink, сенсорный</value>
+        </item>
+        <item>
+          <name>Параметры</name>
+          <value>6 дюймов, 600x800, 167 ppi</value>
+        </item>
+        <item>
+          <name>Встроенная подсветка</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Текстовые</name>
+          <value>TXT, DOC, PDF, fb2, ePub, DjVu</value>
+        </item>
+        <item>
+          <name>Графические</name>
+          <value>JPEG, BMP, GIF, PNG</value>
+        </item>
+        <item>
+          <name>Звуковые</name>
+          <value>MP3</value>
+        </item>
+        <item>
+          <name>Другие</name>
+          <value>HTML</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диктофон</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор и память</name>
+        <item>
+          <name>Встроенная память</name>
+          <value>4096 Мб</value>
+        </item>
+        <item>
+          <name>Карта памяти</name>
+          <value>MicroSD</value>
+        </item>
+        <item>
+          <name>Максимальный объем карты памяти</name>
+          <value>16 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение и зарядка</name>
+        <item>
+          <name>Интерфейс USB</name>
+          <value>есть, с возможностью зарядки</value>
+        </item>
+        <item>
+          <name>Возможность зарядки от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Wi-Fi</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1200 мАч</value>
+        </item>
+        <item>
+          <name>Продолжительность работы</name>
+          <value>7000 страниц</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция и габариты</name>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопки листания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита в комплекте</name>
+          <value>чехол</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxT)</name>
+          <value>122x189x11 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>300 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>динамик; поддержка формата WMA</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="46606">
+    <title>teXet TB-126</title>
+    <model>TB-126</model>
+    <marka>teXet</marka>
+    <catalog id="2666443">Устройства для чтения электронных книг</catalog>
+    
+    <price1>2250</price1>
+    <price2>3900</price2>
+    <description>
+
+
+
+дисплей: E-Ink, 6&amp;quot;, 600x800, microSDHC, TXT, fb2, MP3, JPEG
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики дисплея</name>
+        <item>
+          <name>Тип</name>
+          <value>E-Ink, градаций серого: 16</value>
+        </item>
+        <item>
+          <name>Параметры</name>
+          <value>6 дюймов, 600x800, 167 ppi</value>
+        </item>
+        <item>
+          <name>Автоматический поворот экрана</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Встроенная подсветка</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Текстовые</name>
+          <value>TXT, PalmDOC, PDF, fb2, ePub, RTF, WTXT, MOBI</value>
+        </item>
+        <item>
+          <name>Графические</name>
+          <value>JPEG, BMP, GIF, PNG</value>
+        </item>
+        <item>
+          <name>Звуковые</name>
+          <value>MP3, AAC</value>
+        </item>
+        <item>
+          <name>Другие</name>
+          <value>HTML</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диктофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор и память</name>
+        <item>
+          <name>Встроенная память</name>
+          <value>2048 Мб</value>
+        </item>
+        <item>
+          <name>Карта памяти</name>
+          <value>microSDHC, MicroSD</value>
+        </item>
+        <item>
+          <name>Максимальный объем карты памяти</name>
+          <value>16 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение и зарядка</name>
+        <item>
+          <name>Интерфейс USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность зарядки от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Wi-Fi</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция и габариты</name>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопки листания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита в комплекте</name>
+          <value>чехол</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxT)</name>
+          <value>124x160x9 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>179 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>динамик; форматирование PDF-файлов; поддержка форматов WMA, FLAC, OGG, WAV, APE</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="46608">
+    <title>Inch S6t</title>
+    <model>S6t</model>
+    <marka>Inch</marka>
+    <catalog id="2666443">Устройства для чтения электронных книг</catalog>
+    
+    <price1>2390</price1>
+    <price2>6000</price2>
+    <description>
+
+
+
+дисплей: E-Ink, сенсорный, 6&amp;quot;, 600x800, TXT, fb2, MP3, JPEG, Wi-Fi
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики дисплея</name>
+        <item>
+          <name>Тип</name>
+          <value>E-Ink, индуктивный, сенсорный, градаций серого: 16</value>
+        </item>
+        <item>
+          <name>Параметры</name>
+          <value>6 дюймов, 600x800, 167 ppi</value>
+        </item>
+        <item>
+          <name>Автоматический поворот экрана</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Встроенная подсветка</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Текстовые</name>
+          <value>TXT, PalmDOC, PDF, fb2, ePub, DjVu, RTF, TCR, HTM, PRC, IW44, IW4, DJV</value>
+        </item>
+        <item>
+          <name>Графические</name>
+          <value>JPEG, BMP, TIFF, GIF, PNG</value>
+        </item>
+        <item>
+          <name>Звуковые</name>
+          <value>MP3</value>
+        </item>
+        <item>
+          <name>Другие</name>
+          <value>HTML, CHM</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Преобразование текста в голос</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор и память</name>
+        <item>
+          <name>Частота процессора</name>
+          <value>360 МГц</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>512 Мб</value>
+        </item>
+        <item>
+          <name>Карта памяти</name>
+          <value>MicroSD</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение и зарядка</name>
+        <item>
+          <name>Интерфейс USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность зарядки от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Wi-Fi</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>2350 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция и габариты</name>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопки листания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxT)</name>
+          <value>125x178x11 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>300 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>динамики; распознание рукописного текста</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="46610">
+    <title>teXet TB-840HD</title>
+    <model>TB-840HD</model>
+    <marka>teXet</marka>
+    <catalog id="2666443">Устройства для чтения электронных книг</catalog>
+    
+    <price1>2959</price1>
+    <price2>4290</price2>
+    <description>
+
+
+
+дисплей: LCD (цветной), сенсорный, 8&amp;quot;, 600x800, microSDHC, TXT, fb2, MP3, JPEG
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики дисплея</name>
+        <item>
+          <name>Тип</name>
+          <value>LCD (цветной), сенсорный</value>
+        </item>
+        <item>
+          <name>Параметры</name>
+          <value>8 дюймов, 600x800, 125 ppi</value>
+        </item>
+        <item>
+          <name>Встроенная подсветка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Текстовые</name>
+          <value>TXT, PalmDOC, PDF, fb2, ePub, DjVu, RTF, MOBI</value>
+        </item>
+        <item>
+          <name>Графические</name>
+          <value>JPEG, BMP, GIF, PNG</value>
+        </item>
+        <item>
+          <name>Звуковые</name>
+          <value>MP3, AAC</value>
+        </item>
+        <item>
+          <name>Другие</name>
+          <value>HTML</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диктофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор и память</name>
+        <item>
+          <name>Частота процессора</name>
+          <value>600 МГц</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>4096 Мб</value>
+        </item>
+        <item>
+          <name>Карта памяти</name>
+          <value>microSDHC, MicroSD</value>
+        </item>
+        <item>
+          <name>Максимальный объем карты памяти</name>
+          <value>32 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение и зарядка</name>
+        <item>
+          <name>Интерфейс USB</name>
+          <value>есть, с возможностью зарядки</value>
+        </item>
+        <item>
+          <name>Wi-Fi</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция и габариты</name>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопки листания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита в комплекте</name>
+          <value>чехол</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxT)</name>
+          <value>166x213x12 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>476 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>динамик; словари; калькулятор; игры; TV-выход; поддержка форматов MKV, AVI, H.264, M2TS, FLV, MP4, MOV, MPG, RM/RMVB, WMV, TS/TP, VOB, PMP, SRT, SSA, ASS, WMA, OGG, APE, FLAC, WAV</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="46611">
+    <title>Digma s602W</title>
+    <model>s602W</model>
+    <marka>Digma</marka>
+    <catalog id="2666443">Устройства для чтения электронных книг</catalog>
+    
+    <price1>4280</price1>
+    <price2>6490</price2>
+    <description>
+
+
+
+дисплей: E-Ink, 6&amp;quot;, 768x1024, microSDHC, TXT, fb2, MP3, JPEG, Wi-Fi
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики дисплея</name>
+        <item>
+          <name>Тип</name>
+          <value>E-Ink, Pearl, градаций серого: 16</value>
+        </item>
+        <item>
+          <name>Параметры</name>
+          <value>6 дюймов, 768x1024, 213 ppi</value>
+        </item>
+        <item>
+          <name>Встроенная подсветка</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Текстовые</name>
+          <value>TXT, DOC, PalmDOC, PDF, fb2, ePub, DjVu, RTF, DJV, MOBI, DOCX</value>
+        </item>
+        <item>
+          <name>Графические</name>
+          <value>JPEG, BMP, TIFF, GIF, PNG</value>
+        </item>
+        <item>
+          <name>Звуковые</name>
+          <value>MP3</value>
+        </item>
+        <item>
+          <name>Другие</name>
+          <value>XLS, HTML, CHM, ZIP</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диктофон</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор и память</name>
+        <item>
+          <name>Встроенная память</name>
+          <value>4096 Мб</value>
+        </item>
+        <item>
+          <name>Карта памяти</name>
+          <value>microSDHC, MicroSD</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение и зарядка</name>
+        <item>
+          <name>Интерфейс USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность зарядки от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Wi-Fi</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция и габариты</name>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Кнопки листания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита в комплекте</name>
+          <value>чехол</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxT)</name>
+          <value>119x188x9 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>210 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>модели с 2Гб встроенной памяти комплектуются картой памяти на 2Гб; поддержка форматов XLSX, PPT, PPTX, WMA, WAV, OGG, RAR</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="46615">
+    <title>Ritmix RBK-520</title>
+    <model>RBK-520</model>
+    <marka>Ritmix</marka>
+    <catalog id="2666443">Устройства для чтения электронных книг</catalog>
+    
+    <price1>2980</price1>
+    <price2>2999</price2>
+    <description>
+
+
+
+дисплей: E-Ink, 6&amp;quot;, 600x800, TXT, fb2, MP3, JPEG
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики дисплея</name>
+        <item>
+          <name>Тип</name>
+          <value>E-Ink, градаций серого: 16</value>
+        </item>
+        <item>
+          <name>Параметры</name>
+          <value>6 дюймов, 600x800, 167 ppi</value>
+        </item>
+        <item>
+          <name>Встроенная подсветка</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Текстовые</name>
+          <value>TXT, PalmDOC, PDF, fb2, ePub, DjVu, RTF, MOBI, HTM, LRC, TCR, OPF, PRC, IW4, OEB</value>
+        </item>
+        <item>
+          <name>Графические</name>
+          <value>JPEG, BMP, TIFF, GIF, PNG</value>
+        </item>
+        <item>
+          <name>Звуковые</name>
+          <value>MP3</value>
+        </item>
+        <item>
+          <name>Другие</name>
+          <value>HTML, CHM</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Диктофон</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор и память</name>
+        <item>
+          <name>Оперативная память</name>
+          <value>64 Мб</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>4096 Мб</value>
+        </item>
+        <item>
+          <name>Карта памяти</name>
+          <value>MicroSD</value>
+        </item>
+        <item>
+          <name>Максимальный объем карты памяти</name>
+          <value>8 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение и зарядка</name>
+        <item>
+          <name>Интерфейс USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Wi-Fi</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1900 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция и габариты</name>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Кнопки листания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxT)</name>
+          <value>122x188x10 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>198 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

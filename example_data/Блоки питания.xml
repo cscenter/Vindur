@@ -1,0 +1,2348 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="55976">
+    <title>FSP Group ATX-550PNR 550W</title>
+    <model>ATX-550PNR 550W</model>
+    <marka>FSP Group</marka>
+    <catalog id="1596134">Блоки питания</catalog>
+    
+    <price1>1508</price1>
+    <price2>4040</price2>
+    <description>
+
+
+
+мощность 550 Вт, ATX12V 2.2, активный PFC, система охлаждения: 1 вентилятор (120 мм)
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>550 Вт</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>ATX12V 2.2</value>
+        </item>
+        <item>
+          <name>PFC</name>
+          <value>активный</value>
+        </item>
+        <item>
+          <name>Система охлаждения</name>
+          <value>1 вентилятор (120 мм)</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Тип разъема для материнской платы</name>
+          <value>20+4 pin</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin CPU</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 8-pin PCI-E</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 15-pin SATA</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin IDE</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin Floppy</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Сила тока</name>
+        <item>
+          <name>Ток по линии +3.3 В</name>
+          <value>24 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В</name>
+          <value>20 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 1</name>
+          <value>25 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 2</name>
+          <value>25 A</value>
+        </item>
+        <item>
+          <name>Ток по линии -12 В</name>
+          <value>0.3 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В Standby</name>
+          <value>2.5 A</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Защита от перенапряжения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ВxШxГ)</name>
+          <value>86x150x140 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55978">
+    <title>Thermaltake TR2 RX 1000W</title>
+    <model>TR2 RX 1000W</model>
+    <marka>Thermaltake</marka>
+    <catalog id="1596134">Блоки питания</catalog>
+    
+    <price1>5989</price1>
+    <price2>8567</price2>
+    <description>
+
+
+
+мощность 1000 Вт, ATX12V 2.3, активный PFC, система охлаждения: 1 вентилятор (140 мм), отстегивающиеся кабели
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>1000 Вт</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>ATX12V 2.3 / EPS12V</value>
+        </item>
+        <item>
+          <name>PFC</name>
+          <value>активный</value>
+        </item>
+        <item>
+          <name>Система охлаждения</name>
+          <value>1 вентилятор (140 мм)</value>
+        </item>
+        <item>
+          <name>Скорость вращения вентилятора</name>
+          <value>1800 об/мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Тип разъема для материнской платы</name>
+          <value>24 pin</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin CPU</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 8-pin CPU</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 6-pin PCI-E</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Количество разъемов 8-pin PCI-E</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Количество разъемов 15-pin SATA</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin IDE</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin Floppy</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Сила тока</name>
+        <item>
+          <name>Ток по линии +3.3 В</name>
+          <value>30 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В</name>
+          <value>30 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 1</name>
+          <value>50 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 2</name>
+          <value>50 A</value>
+        </item>
+        <item>
+          <name>Ток по линии -12 В</name>
+          <value>0.8 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В Standby</name>
+          <value>4 A</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Сертификат 80 PLUS</name>
+          <value>Bronze</value>
+        </item>
+        <item>
+          <name>Отстегивающиеся кабели</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от перенапряжения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ВxШxГ)</name>
+          <value>86x150x180 мм</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>3 адаптера 6pin-&gt;8pin</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55979">
+    <title>FSP Group ATX-500PNR 500W</title>
+    <model>ATX-500PNR 500W</model>
+    <marka>FSP Group</marka>
+    <catalog id="1596134">Блоки питания</catalog>
+    
+    <price1>1270</price1>
+    <price2>3604</price2>
+    <description>
+
+
+
+мощность 500 Вт, ATX12V 2.2, активный PFC, система охлаждения: 1 вентилятор (120 мм)
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>500 Вт</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>ATX12V 2.2</value>
+        </item>
+        <item>
+          <name>PFC</name>
+          <value>активный</value>
+        </item>
+        <item>
+          <name>Система охлаждения</name>
+          <value>1 вентилятор (120 мм)</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Тип разъема для материнской платы</name>
+          <value>20+4 pin</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin CPU</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 6+2-pin PCI-E</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 15-pin SATA</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin IDE</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin Floppy</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Сила тока</name>
+        <item>
+          <name>Ток по линии +3.3 В</name>
+          <value>24 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В</name>
+          <value>20 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 1</name>
+          <value>18 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 2</name>
+          <value>18 A</value>
+        </item>
+        <item>
+          <name>Ток по линии -12 В</name>
+          <value>0.3 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В Standby</name>
+          <value>2.5 A</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Защита от перенапряжения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ВxШxГ)</name>
+          <value>86x150x140 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55985">
+    <title>FSP Group SPI PRO 600 600W</title>
+    <model>SPI PRO 600 600W</model>
+    <marka>FSP Group</marka>
+    <catalog id="1596134">Блоки питания</catalog>
+    
+    <price1>2320</price1>
+    <price2>3130</price2>
+    <description>
+
+
+
+мощность 600 Вт, ATX12V 2.2, активный PFC, система охлаждения: 1 вентилятор (120 мм)
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>600 Вт</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>ATX12V 2.2</value>
+        </item>
+        <item>
+          <name>PFC</name>
+          <value>активный</value>
+        </item>
+        <item>
+          <name>Система охлаждения</name>
+          <value>1 вентилятор (120 мм)</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Тип разъема для материнской платы</name>
+          <value>20+4 pin</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4+4 pin CPU</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 6-pin PCI-E</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 15-pin SATA</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin IDE</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin Floppy</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Уровень шума</name>
+          <value>38 дБА</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебряный</value>
+        </item>
+        <item>
+          <name>Защита от перенапряжения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ВxШxГ)</name>
+          <value>86x140x150 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55986">
+    <title>FSP Group SPI PRO 550 550W</title>
+    <model>SPI PRO 550 550W</model>
+    <marka>FSP Group</marka>
+    <catalog id="1596134">Блоки питания</catalog>
+    
+    <price1>1926</price1>
+    <price2>2370</price2>
+    <description>
+
+
+
+мощность 550 Вт, ATX12V 2.2, активный PFC, система охлаждения: 1 вентилятор (120 мм)
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>550 Вт</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>ATX12V 2.2</value>
+        </item>
+        <item>
+          <name>PFC</name>
+          <value>активный</value>
+        </item>
+        <item>
+          <name>Система охлаждения</name>
+          <value>1 вентилятор (120 мм)</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Тип разъема для материнской платы</name>
+          <value>20+4 pin</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4+4 pin CPU</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 6-pin PCI-E</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 15-pin SATA</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin IDE</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin Floppy</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Уровень шума</name>
+          <value>38 дБА</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебряный</value>
+        </item>
+        <item>
+          <name>Защита от перенапряжения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ВxШxГ)</name>
+          <value>86x140x150 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55987">
+    <title>FSP Group ATX-450PNF 450W</title>
+    <model>ATX-450PNF 450W</model>
+    <marka>FSP Group</marka>
+    <catalog id="1596134">Блоки питания</catalog>
+    
+    <price1>1380</price1>
+    <price2>3650</price2>
+    <description>
+
+
+
+мощность 450 Вт, ATX12V 2.2, активный PFC, система охлаждения: 1 вентилятор (120 мм)
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>450 Вт</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>ATX12V 2.2</value>
+        </item>
+        <item>
+          <name>PFC</name>
+          <value>активный</value>
+        </item>
+        <item>
+          <name>Система охлаждения</name>
+          <value>1 вентилятор (120 мм)</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Тип разъема для материнской платы</name>
+          <value>20+4 pin</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin CPU</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 6-pin PCI-E</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 15-pin SATA</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin IDE</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin Floppy</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Сила тока</name>
+        <item>
+          <name>Ток по линии +3.3 В</name>
+          <value>22 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В</name>
+          <value>15 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 1</name>
+          <value>18 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 2</name>
+          <value>18 A</value>
+        </item>
+        <item>
+          <name>Ток по линии -12 В</name>
+          <value>0.3 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В Standby</name>
+          <value>2.5 A</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Цвет</name>
+          <value>серый</value>
+        </item>
+        <item>
+          <name>Защита от перенапряжения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ВxШxГ)</name>
+          <value>86x140x150 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55998">
+    <title>Thermaltake TR2 RX 1200W</title>
+    <model>TR2 RX 1200W</model>
+    <marka>Thermaltake</marka>
+    <catalog id="1596134">Блоки питания</catalog>
+    
+    <price1>6630</price1>
+    <price2>9852</price2>
+    <description>
+
+
+
+мощность 1200 Вт, ATX12V 2.3, активный PFC, система охлаждения: 1 вентилятор (140 мм), отстегивающиеся кабели
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>1200 Вт</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>ATX12V 2.3 / EPS12V</value>
+        </item>
+        <item>
+          <name>PFC</name>
+          <value>активный</value>
+        </item>
+        <item>
+          <name>Система охлаждения</name>
+          <value>1 вентилятор (140 мм)</value>
+        </item>
+        <item>
+          <name>Скорость вращения вентилятора</name>
+          <value>1800 об/мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Тип разъема для материнской платы</name>
+          <value>24 pin</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin CPU</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 8-pin CPU</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 6-pin PCI-E</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Количество разъемов 8-pin PCI-E</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Количество разъемов 15-pin SATA</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin IDE</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin Floppy</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Сила тока</name>
+        <item>
+          <name>Ток по линии +3.3 В</name>
+          <value>30 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В</name>
+          <value>30 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 1</name>
+          <value>60 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 2</name>
+          <value>60 A</value>
+        </item>
+        <item>
+          <name>Ток по линии -12 В</name>
+          <value>0.8 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В Standby</name>
+          <value>4 A</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Сертификат 80 PLUS</name>
+          <value>простой</value>
+        </item>
+        <item>
+          <name>Отстегивающиеся кабели</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от перенапряжения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ВxШxГ)</name>
+          <value>86x150x180 мм</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>3 адаптера 8pin-&gt;6pin</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="56003">
+    <title>FSP Group ATX-600PNR 600W</title>
+    <model>ATX-600PNR 600W</model>
+    <marka>FSP Group</marka>
+    <catalog id="1596134">Блоки питания</catalog>
+    
+    <price1>1788</price1>
+    <price2>4490</price2>
+    <description>
+
+
+
+мощность 600 Вт, ATX12V 2.2, активный PFC, система охлаждения: 1 вентилятор (120 мм)
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>600 Вт</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>ATX12V 2.2</value>
+        </item>
+        <item>
+          <name>PFC</name>
+          <value>активный</value>
+        </item>
+        <item>
+          <name>Система охлаждения</name>
+          <value>1 вентилятор (120 мм)</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Тип разъема для материнской платы</name>
+          <value>24 pin</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4+4 pin CPU</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 8-pin PCI-E</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество разъемов 15-pin SATA</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin IDE</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin Floppy</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Сила тока</name>
+        <item>
+          <name>Ток по линии +3.3 В</name>
+          <value>26 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В</name>
+          <value>24 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 1</name>
+          <value>18 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 2</name>
+          <value>18 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 3</name>
+          <value>18 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 4</name>
+          <value>18 A</value>
+        </item>
+        <item>
+          <name>Ток по линии -12 В</name>
+          <value>0.3 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В Standby</name>
+          <value>2.5 A</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Защита от перенапряжения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ВxШxГ)</name>
+          <value>86x150x140 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="56008">
+    <title>Corsair CMPSU-1200AX 1200W</title>
+    <model>CMPSU-1200AX 1200W</model>
+    <marka>Corsair</marka>
+    <catalog id="1596134">Блоки питания</catalog>
+    
+    <price1>9015</price1>
+    <price2>11750</price2>
+    <description>
+
+
+
+мощность 1200 Вт, ATX12V 2.3, активный PFC, система охлаждения: 1 вентилятор (140 мм), отстегивающиеся кабели
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>1200 Вт</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>ATX12V 2.3 / EPS12V</value>
+        </item>
+        <item>
+          <name>PFC</name>
+          <value>активный</value>
+        </item>
+        <item>
+          <name>Система охлаждения</name>
+          <value>1 вентилятор (140 мм)</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Тип разъема для материнской платы</name>
+          <value>20+4 pin</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4+4 pin CPU</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество разъемов 8-pin PCI-E</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Количество разъемов 15-pin SATA</name>
+          <value>16</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin IDE</name>
+          <value>12</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin Floppy</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Сила тока</name>
+        <item>
+          <name>Ток по линии +3.3 В</name>
+          <value>30 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В</name>
+          <value>30 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 1</name>
+          <value>100 A</value>
+        </item>
+        <item>
+          <name>Ток по линии -12 В</name>
+          <value>0.8 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В Standby</name>
+          <value>3.5 A</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Сертификат 80 PLUS</name>
+          <value>Gold</value>
+        </item>
+        <item>
+          <name>Отстегивающиеся кабели</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от перенапряжения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ВxШxГ)</name>
+          <value>86x150x200 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="56010">
+    <title>Thermaltake Grand 850W ( TPG-850M)</title>
+    <model>Grand 850W ( TPG-850M)</model>
+    <marka>Thermaltake</marka>
+    <catalog id="1596134">Блоки питания</catalog>
+    
+    <price1>5654</price1>
+    <price2>9424</price2>
+    <description>
+
+
+
+мощность 850 Вт, ATX12V 2.3, активный PFC, система охлаждения: 1 вентилятор (140 мм), отстегивающиеся кабели
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>850 Вт</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>ATX12V 2.3 / EPS12V</value>
+        </item>
+        <item>
+          <name>PFC</name>
+          <value>активный</value>
+        </item>
+        <item>
+          <name>Система охлаждения</name>
+          <value>1 вентилятор (140 мм)</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Тип разъема для материнской платы</name>
+          <value>24 pin</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4+4 pin CPU</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 8-pin CPU</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 8-pin PCI-E</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Количество разъемов 15-pin SATA</name>
+          <value>12</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin IDE</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin Floppy</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Сила тока</name>
+        <item>
+          <name>Ток по линии +3.3 В</name>
+          <value>25 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В</name>
+          <value>25 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 1</name>
+          <value>71 A</value>
+        </item>
+        <item>
+          <name>Ток по линии -12 В</name>
+          <value>0.8 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В Standby</name>
+          <value>6 A</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Сертификат 80 PLUS</name>
+          <value>Gold</value>
+        </item>
+        <item>
+          <name>Отстегивающиеся кабели</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от перенапряжения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ВxШxГ)</name>
+          <value>86x150x180 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="56012">
+    <title>Thermaltake TR2 800W</title>
+    <model>TR2 800W</model>
+    <marka>Thermaltake</marka>
+    <catalog id="1596134">Блоки питания</catalog>
+    
+    <price1>2974</price1>
+    <price2>4950</price2>
+    <description>
+
+
+
+мощность 800 Вт, ATX12V 2.3, активный PFC, система охлаждения: 1 вентилятор (120 мм)
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>800 Вт</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>ATX12V 2.3 / EPS12V</value>
+        </item>
+        <item>
+          <name>PFC</name>
+          <value>активный</value>
+        </item>
+        <item>
+          <name>Система охлаждения</name>
+          <value>1 вентилятор (120 мм)</value>
+        </item>
+        <item>
+          <name>Скорость вращения вентилятора</name>
+          <value>2700 об/мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Тип разъема для материнской платы</name>
+          <value>24 pin</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin CPU</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 8-pin CPU</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 6-pin PCI-E</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество разъемов 8-pin PCI-E</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество разъемов 15-pin SATA</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin IDE</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin Floppy</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Сила тока</name>
+        <item>
+          <name>Ток по линии +3.3 В</name>
+          <value>30 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В</name>
+          <value>30 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 1</name>
+          <value>60 A</value>
+        </item>
+        <item>
+          <name>Ток по линии -12 В</name>
+          <value>1 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В Standby</name>
+          <value>3 A</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Сертификат 80 PLUS</name>
+          <value>Bronze</value>
+        </item>
+        <item>
+          <name>Защита от перенапряжения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ВxШxГ)</name>
+          <value>86x150x140 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="56015">
+    <title>Thermaltake TR2 700W</title>
+    <model>TR2 700W</model>
+    <marka>Thermaltake</marka>
+    <catalog id="1596134">Блоки питания</catalog>
+    
+    <price1>2875</price1>
+    <price2>4420</price2>
+    <description>
+
+
+
+мощность 700 Вт, ATX12V 2.3, активный PFC, система охлаждения: 1 вентилятор (120 мм)
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>700 Вт</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>ATX12V 2.3 / EPS12V</value>
+        </item>
+        <item>
+          <name>PFC</name>
+          <value>активный</value>
+        </item>
+        <item>
+          <name>Система охлаждения</name>
+          <value>1 вентилятор (120 мм)</value>
+        </item>
+        <item>
+          <name>Скорость вращения вентилятора</name>
+          <value>2700 об/мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Тип разъема для материнской платы</name>
+          <value>24 pin</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4+4 pin CPU</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 6-pin PCI-E</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество разъемов 8-pin PCI-E</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество разъемов 15-pin SATA</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin IDE</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin Floppy</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Сила тока</name>
+        <item>
+          <name>Ток по линии +3.3 В</name>
+          <value>30 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В</name>
+          <value>30 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 1</name>
+          <value>55 A</value>
+        </item>
+        <item>
+          <name>Ток по линии -12 В</name>
+          <value>0.8 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В Standby</name>
+          <value>3 A</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Сертификат 80 PLUS</name>
+          <value>Bronze</value>
+        </item>
+        <item>
+          <name>Защита от перенапряжения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ВxШxГ)</name>
+          <value>86x150x140 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="56016">
+    <title>FSP Group ATX-450PNR 450W</title>
+    <model>ATX-450PNR 450W</model>
+    <marka>FSP Group</marka>
+    <catalog id="1596134">Блоки питания</catalog>
+    
+    <price1>1003</price1>
+    <price2>3502</price2>
+    <description>
+
+
+
+мощность 450 Вт, нет PFC, система охлаждения: 1 вентилятор (120 мм)
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>450 Вт</value>
+        </item>
+        <item>
+          <name>PFC</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Система охлаждения</name>
+          <value>1 вентилятор (120 мм)</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Тип разъема для материнской платы</name>
+          <value>20+4 pin</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin CPU</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 15-pin SATA</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin IDE</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin Floppy</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Сила тока</name>
+        <item>
+          <name>Ток по линии +3.3 В</name>
+          <value>22 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В</name>
+          <value>16 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 1</name>
+          <value>14 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 2</name>
+          <value>16 A</value>
+        </item>
+        <item>
+          <name>Ток по линии -12 В</name>
+          <value>0.8 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В Standby</name>
+          <value>2.5 A</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Цвет</name>
+          <value>стальной</value>
+        </item>
+        <item>
+          <name>Защита от перенапряжения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ВxШxГ)</name>
+          <value>86x150x140 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="56023">
+    <title>FSP Group FSP550-80GLN 550W</title>
+    <model>FSP550-80GLN 550W</model>
+    <marka>FSP Group</marka>
+    <catalog id="1596134">Блоки питания</catalog>
+    
+    <price1>2110</price1>
+    <price2>3774</price2>
+    <description>
+
+
+
+мощность 550 Вт, ATX12V 2.01, активный PFC, система охлаждения: 1 вентилятор (120 мм)
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>550 Вт</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>ATX12V 2.01</value>
+        </item>
+        <item>
+          <name>PFC</name>
+          <value>активный</value>
+        </item>
+        <item>
+          <name>Система охлаждения</name>
+          <value>1 вентилятор (120 мм)</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Тип разъема для материнской платы</name>
+          <value>20+4 pin</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4+4 pin CPU</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 6-pin PCI-E</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 15-pin SATA</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin IDE</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin Floppy</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Сила тока</name>
+        <item>
+          <name>Ток по линии +3.3 В</name>
+          <value>36 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В</name>
+          <value>30 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 1</name>
+          <value>18 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 2</name>
+          <value>18 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 3</name>
+          <value>18 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 4</name>
+          <value>18 A</value>
+        </item>
+        <item>
+          <name>Ток по линии -12 В</name>
+          <value>0.5 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В Standby</name>
+          <value>3 A</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Цвет</name>
+          <value>серый</value>
+        </item>
+        <item>
+          <name>Защита от перенапряжения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ВxШxГ)</name>
+          <value>86x150x140 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="56024">
+    <title>Thermaltake Toughpower Grand 750W</title>
+    <model>Toughpower Grand 750W</model>
+    <marka>Thermaltake</marka>
+    <catalog id="1596134">Блоки питания</catalog>
+    
+    <price1>4760</price1>
+    <price2>6800</price2>
+    <description>
+
+
+
+мощность 750 Вт, ATX12V 2.3, активный PFC, система охлаждения: 1 вентилятор (140 мм), отстегивающиеся кабели
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>750 Вт</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>ATX12V 2.3 / EPS12V</value>
+        </item>
+        <item>
+          <name>PFC</name>
+          <value>активный</value>
+        </item>
+        <item>
+          <name>Система охлаждения</name>
+          <value>1 вентилятор (140 мм)</value>
+        </item>
+        <item>
+          <name>Скорость вращения вентилятора</name>
+          <value>1900 об/мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Тип разъема для материнской платы</name>
+          <value>24 pin</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4+4 pin CPU</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 8-pin CPU</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 6-pin PCI-E</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество разъемов 8-pin PCI-E</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество разъемов 15-pin SATA</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin IDE</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin Floppy</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Сила тока</name>
+        <item>
+          <name>Ток по линии +3.3 В</name>
+          <value>25 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В</name>
+          <value>25 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 1</name>
+          <value>60 A</value>
+        </item>
+        <item>
+          <name>Ток по линии -12 В</name>
+          <value>0.8 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В Standby</name>
+          <value>3 A</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Сертификат 80 PLUS</name>
+          <value>Gold</value>
+        </item>
+        <item>
+          <name>Отстегивающиеся кабели</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от перенапряжения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ВxШxГ)</name>
+          <value>86x150x180 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="56025">
+    <title>Thermaltake TR2 RX 750W</title>
+    <model>TR2 RX 750W</model>
+    <marka>Thermaltake</marka>
+    <catalog id="1596134">Блоки питания</catalog>
+    
+    <price1>3408</price1>
+    <price2>4480</price2>
+    <description>
+
+
+
+мощность 750 Вт, ATX12V 2.3, активный PFC, система охлаждения: 1 вентилятор (140 мм), отстегивающиеся кабели
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>750 Вт</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>ATX12V 2.3 / EPS12V</value>
+        </item>
+        <item>
+          <name>PFC</name>
+          <value>активный</value>
+        </item>
+        <item>
+          <name>Система охлаждения</name>
+          <value>1 вентилятор (140 мм)</value>
+        </item>
+        <item>
+          <name>Скорость вращения вентилятора</name>
+          <value>2200 об/мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Тип разъема для материнской платы</name>
+          <value>24 pin</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4+4 pin CPU</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 6-pin PCI-E</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество разъемов 8-pin PCI-E</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество разъемов 15-pin SATA</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin IDE</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin Floppy</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Сила тока</name>
+        <item>
+          <name>Ток по линии +3.3 В</name>
+          <value>24 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В</name>
+          <value>20 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 1</name>
+          <value>56 A</value>
+        </item>
+        <item>
+          <name>Ток по линии -12 В</name>
+          <value>0.3 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В Standby</name>
+          <value>2.5 A</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Сертификат 80 PLUS</name>
+          <value>Bronze</value>
+        </item>
+        <item>
+          <name>Отстегивающиеся кабели</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от перенапряжения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ВxШxГ)</name>
+          <value>86x150x160 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="56027">
+    <title>FSP Group FSP500-60GLN 500W</title>
+    <model>FSP500-60GLN 500W</model>
+    <marka>FSP Group</marka>
+    <catalog id="1596134">Блоки питания</catalog>
+    
+    <price1>1567</price1>
+    <price2>2060</price2>
+    <description>
+
+
+
+мощность 500 Вт, активный PFC, система охлаждения: 1 вентилятор (120 мм)
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>500 Вт</value>
+        </item>
+        <item>
+          <name>PFC</name>
+          <value>активный</value>
+        </item>
+        <item>
+          <name>Система охлаждения</name>
+          <value>1 вентилятор (120 мм)</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Тип разъема для материнской платы</name>
+          <value>20+4 pin</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin CPU</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 6-pin PCI-E</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 15-pin SATA</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin IDE</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin Floppy</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Сила тока</name>
+        <item>
+          <name>Ток по линии +3.3 В</name>
+          <value>30 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В</name>
+          <value>30 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 1</name>
+          <value>18 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 2</name>
+          <value>18 A</value>
+        </item>
+        <item>
+          <name>Ток по линии -12 В</name>
+          <value>0.8 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В Standby</name>
+          <value>2.5 A</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Размеры (ВxШxГ)</name>
+          <value>86x150x140 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="56035">
+    <title>Thermaltake Grand 1200W (TPG-1200M)</title>
+    <model>Grand 1200W (TPG-1200M)</model>
+    <marka>Thermaltake</marka>
+    <catalog id="1596134">Блоки питания</catalog>
+    
+    <price1>7846</price1>
+    <price2>11016</price2>
+    <description>
+
+
+
+мощность 1200 Вт, ATX12V 2.3, активный PFC, система охлаждения: 1 вентилятор (140 мм), отстегивающиеся кабели
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>1200 Вт</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>ATX12V 2.3 / EPS12V</value>
+        </item>
+        <item>
+          <name>PFC</name>
+          <value>активный</value>
+        </item>
+        <item>
+          <name>Система охлаждения</name>
+          <value>1 вентилятор (140 мм)</value>
+        </item>
+        <item>
+          <name>Скорость вращения вентилятора</name>
+          <value>1900 об/мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Тип разъема для материнской платы</name>
+          <value>24 pin</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4+4 pin CPU</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 8-pin CPU</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 8-pin PCI-E</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Количество разъемов 15-pin SATA</name>
+          <value>12</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin IDE</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin Floppy</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Сила тока</name>
+        <item>
+          <name>Ток по линии +3.3 В</name>
+          <value>25 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В</name>
+          <value>25 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 1</name>
+          <value>40 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 2</name>
+          <value>85 A</value>
+        </item>
+        <item>
+          <name>Ток по линии -12 В</name>
+          <value>0.8 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В Standby</name>
+          <value>6 A</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Сертификат 80 PLUS</name>
+          <value>Gold</value>
+        </item>
+        <item>
+          <name>Отстегивающиеся кабели</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от перенапряжения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ВxШxГ)</name>
+          <value>86x150x180 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="56036">
+    <title>Chieftec APS-650C 650W</title>
+    <model>APS-650C 650W</model>
+    <marka>Chieftec</marka>
+    <catalog id="1596134">Блоки питания</catalog>
+    
+    <price1>2518</price1>
+    <price2>3431</price2>
+    <description>
+
+
+
+мощность 650 Вт, ATX12V 2.3, активный PFC, система охлаждения: 1 вентилятор (140 мм), отстегивающиеся кабели
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>650 Вт</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>ATX12V 2.3</value>
+        </item>
+        <item>
+          <name>PFC</name>
+          <value>активный</value>
+        </item>
+        <item>
+          <name>Система охлаждения</name>
+          <value>1 вентилятор (140 мм)</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Тип разъема для материнской платы</name>
+          <value>24 pin</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin CPU</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 8-pin CPU</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 6-pin PCI-E</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 8-pin PCI-E</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 15-pin SATA</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin IDE</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin Floppy</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Сила тока</name>
+        <item>
+          <name>Ток по линии +3.3 В</name>
+          <value>25 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В</name>
+          <value>25 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 1</name>
+          <value>25 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 2</name>
+          <value>25 A</value>
+        </item>
+        <item>
+          <name>Ток по линии -12 В</name>
+          <value>0.3 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В Standby</name>
+          <value>2.5 A</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Сертификат 80 PLUS</name>
+          <value>простой</value>
+        </item>
+        <item>
+          <name>Отстегивающиеся кабели</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серый</value>
+        </item>
+        <item>
+          <name>Защита от перенапряжения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ВxШxГ)</name>
+          <value>85x150x155 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="56041">
+    <title>Thermaltake TR2 500W</title>
+    <model>TR2 500W</model>
+    <marka>Thermaltake</marka>
+    <catalog id="1596134">Блоки питания</catalog>
+    
+    <price1>2064</price1>
+    <price2>3920</price2>
+    <description>
+
+
+
+мощность 500 Вт, ATX12V 2.3, активный PFC, система охлаждения: 1 вентилятор (120 мм)
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>500 Вт</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>ATX12V 2.3 / EPS12V</value>
+        </item>
+        <item>
+          <name>PFC</name>
+          <value>активный</value>
+        </item>
+        <item>
+          <name>Система охлаждения</name>
+          <value>1 вентилятор (120 мм)</value>
+        </item>
+        <item>
+          <name>Скорость вращения вентилятора</name>
+          <value>2200 об/мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Тип разъема для материнской платы</name>
+          <value>24 pin</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4+4 pin CPU</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 6-pin PCI-E</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 8-pin PCI-E</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество разъемов 15-pin SATA</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin IDE</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Количество разъемов 4-pin Floppy</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Сила тока</name>
+        <item>
+          <name>Ток по линии +3.3 В</name>
+          <value>24 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В</name>
+          <value>24 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +12 В 1</name>
+          <value>36 A</value>
+        </item>
+        <item>
+          <name>Ток по линии -12 В</name>
+          <value>0.5 A</value>
+        </item>
+        <item>
+          <name>Ток по линии +5 В Standby</name>
+          <value>2.5 A</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Сертификат 80 PLUS</name>
+          <value>Bronze</value>
+        </item>
+        <item>
+          <name>Защита от перенапряжения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ВxШxГ)</name>
+          <value>86x150x140 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

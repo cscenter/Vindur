@@ -1,0 +1,2272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="67080">
+    <title>Samsung S23B300B</title>
+    <model>S23B300B</model>
+    <marka>Samsung</marka>
+    <catalog id="106905">Мониторы</catalog>
+    
+    <price1>5750</price1>
+    <price2>8236</price2>
+    <description>
+ЖК (TFT TN) 23&amp;quot;, широкоформатный, 1920x1080, LED-подсветка, 250 кд/м2, 5 мс, 170°/160°, DVI, VGA
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-монитор, широкоформатный
+</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>23"</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080 (16:9)
+</value>
+        </item>
+        <item>
+          <name>Тип ЖК-матрицы</name>
+          <value>TFT TN</value>
+        </item>
+        <item>
+          <name>Подсветка</name>
+          <value>WLED</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Яркость</name>
+          <value>250 кд/м2</value>
+        </item>
+        <item>
+          <name>Время отклика</name>
+          <value>5 мс</value>
+        </item>
+        <item>
+          <name>Область обзора</name>
+          <value>по горизонтали: 170&amp;deg;; по вертикали: 160&amp;deg;</value>
+        </item>
+        <item>
+          <name>Максимальное количество цветов </name>
+          <value>16.7 млн.</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>DVI-D, VGA (D-Sub)</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>при работе: 30 Вт, в режиме ожидания: 0.30 Вт, в спящем режиме: 0.30 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Стандарты</name>
+          <value>энергосбережения: Energy Star 5.0</value>
+        </item>
+        <item>
+          <name>Размеры, вес</name>
+          <value>547x405x197 мм, 2.90 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67100">
+    <title>Samsung SyncMaster S22A100N</title>
+    <model>SyncMaster S22A100N</model>
+    <marka>Samsung</marka>
+    <catalog id="106905">Мониторы</catalog>
+    
+    <price1>4038</price1>
+    <price2>11500</price2>
+    <description>
+ЖК (TFT TN) 21.5&amp;quot;, широкоформатный, 1920x1080, LED-подсветка, 200 кд/м2, 600:1, 5 мс, 90°/65°, VGA
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-монитор, широкоформатный
+</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>21.5"</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080 (16:9)
+</value>
+        </item>
+        <item>
+          <name>Тип ЖК-матрицы</name>
+          <value>TFT TN</value>
+        </item>
+        <item>
+          <name>Подсветка</name>
+          <value>WLED</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Яркость</name>
+          <value>200 кд/м2</value>
+        </item>
+        <item>
+          <name>Контрастность</name>
+          <value>600:1</value>
+        </item>
+        <item>
+          <name>Динамическая контрастность</name>
+          <value>5000000:1</value>
+        </item>
+        <item>
+          <name>Время отклика</name>
+          <value>5 мс</value>
+        </item>
+        <item>
+          <name>Область обзора</name>
+          <value>по горизонтали: 90&amp;deg;; по вертикали: 65&amp;deg;</value>
+        </item>
+        <item>
+          <name>Максимальное количество цветов </name>
+          <value>16.7 млн.</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>VGA (D-Sub)</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>при работе: 28 Вт, в спящем режиме: 0.30 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Стандарты</name>
+          <value>Plug&amp;Play: DDC 2B</value>
+        </item>
+        <item>
+          <name>Размеры, вес</name>
+          <value>510x405x239 мм, 2.60 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67110">
+    <title>Acer V193HQVb</title>
+    <model>V193HQVb</model>
+    <marka>Acer</marka>
+    <catalog id="106905">Мониторы</catalog>
+    
+    <price1>3215</price1>
+    <price2>4296</price2>
+    <description>
+ЖК (TFT TN) 18.5&amp;quot;, широкоформатный, 1366x768, 200 кд/м2, 5 мс, 90°/50°, VGA
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-монитор, широкоформатный
+</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>18.5"</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1366x768 (16:9)
+</value>
+        </item>
+        <item>
+          <name>Тип ЖК-матрицы</name>
+          <value>TFT TN</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Шаг точки по горизонтали</name>
+          <value>0.3 мм</value>
+        </item>
+        <item>
+          <name>Шаг точки по вертикали</name>
+          <value>0.3 мм</value>
+        </item>
+        <item>
+          <name>Яркость</name>
+          <value>200 кд/м2</value>
+        </item>
+        <item>
+          <name>Динамическая контрастность</name>
+          <value>5000:1</value>
+        </item>
+        <item>
+          <name>Время отклика</name>
+          <value>5 мс</value>
+        </item>
+        <item>
+          <name>Область обзора</name>
+          <value>по горизонтали: 90&amp;deg;; по вертикали: 50&amp;deg;</value>
+        </item>
+        <item>
+          <name>Максимальное количество цветов </name>
+          <value>16.7 млн.</value>
+        </item>
+        <item>
+          <name>Покрытие экрана</name>
+          <value>антибликовое</value>
+        </item>
+      </items>
+      <items>
+        <name>Развертка</name>
+        <item>
+          <name>Частота развертки</name>
+          <value>горизонтальная: 30-80 кГц; вертикальная: 55-75 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>VGA (D-Sub)</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>при работе: 21 Вт, в режиме ожидания: 0.67 Вт, в спящем режиме: 0.67 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Стандарты</name>
+          <value>экологический: MPR-II, TCO''03; энергосбережения: EPA Energy Star</value>
+        </item>
+        <item>
+          <name>Настенное крепление</name>
+          <value>есть, 100x100 мм</value>
+        </item>
+        <item>
+          <name>Размеры, вес</name>
+          <value>444x335x177 мм, 3.50 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67137">
+    <title>Samsung S22B370B</title>
+    <model>S22B370B</model>
+    <marka>Samsung</marka>
+    <catalog id="106905">Мониторы</catalog>
+    
+    <price1>5350</price1>
+    <price2>6733</price2>
+    <description>
+ЖК (TFT TN) 21.5&amp;quot;, широкоформатный, 1920x1080, LED-подсветка, 250 кд/м2, 1000:1, 5 мс, 170°/160°, DVI, VGA
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-монитор, широкоформатный
+</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>21.5"</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080 (16:9)
+</value>
+        </item>
+        <item>
+          <name>Тип ЖК-матрицы</name>
+          <value>TFT TN</value>
+        </item>
+        <item>
+          <name>Подсветка</name>
+          <value>WLED</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Яркость</name>
+          <value>250 кд/м2</value>
+        </item>
+        <item>
+          <name>Контрастность</name>
+          <value>1000:1</value>
+        </item>
+        <item>
+          <name>Время отклика</name>
+          <value>5 мс</value>
+        </item>
+        <item>
+          <name>Область обзора</name>
+          <value>по горизонтали: 170&amp;deg;; по вертикали: 160&amp;deg;</value>
+        </item>
+        <item>
+          <name>Максимальное количество цветов </name>
+          <value>16.7 млн.</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>DVI-D (HDCP), VGA (D-Sub)</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Функциональность</name>
+          <value>калибровка цвета</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>при работе: 30 Вт, в режиме ожидания: 0.30 Вт, в спящем режиме: 0.30 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Стандарты</name>
+          <value>энергосбережения: Energy Star 5.0</value>
+        </item>
+        <item>
+          <name>Размеры, вес</name>
+          <value>524x403x197 мм, 3.10 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67161">
+    <title>LG Flatron E2041S</title>
+    <model>Flatron E2041S</model>
+    <marka>LG</marka>
+    <catalog id="106905">Мониторы</catalog>
+    
+    <price1>4039</price1>
+    <price2>4530</price2>
+    <description>
+ЖК (TFT TN) 20&amp;quot;, широкоформатный, 1600x900, LED-подсветка, 250 кд/м2, 5 мс, 170°/160°, VGA
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-монитор, широкоформатный
+</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>20"</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1600x900 (16:9)
+</value>
+        </item>
+        <item>
+          <name>Тип ЖК-матрицы</name>
+          <value>TFT TN</value>
+        </item>
+        <item>
+          <name>Подсветка</name>
+          <value>WLED</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Яркость</name>
+          <value>250 кд/м2</value>
+        </item>
+        <item>
+          <name>Динамическая контрастность</name>
+          <value>5000000:1</value>
+        </item>
+        <item>
+          <name>Время отклика</name>
+          <value>5 мс</value>
+        </item>
+        <item>
+          <name>Область обзора</name>
+          <value>по горизонтали: 170&amp;deg;; по вертикали: 160&amp;deg;</value>
+        </item>
+        <item>
+          <name>Максимальное количество цветов </name>
+          <value>16.7 млн.</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>VGA (D-Sub)</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>при работе: 20 Вт, в режиме ожидания: 0.30 Вт, в спящем режиме: 0.30 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Стандарты</name>
+          <value>экологический: MPR-II, TCO 5.0; Plug&amp;Play: DDC/CI; энергосбережения: Energy Star 5.0</value>
+        </item>
+        <item>
+          <name>Настенное крепление</name>
+          <value>есть, 75x75 мм</value>
+        </item>
+        <item>
+          <name>Размеры, вес</name>
+          <value>476x364x166 мм, 2.70 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67173">
+    <title>Samsung S19B370B</title>
+    <model>S19B370B</model>
+    <marka>Samsung</marka>
+    <catalog id="106905">Мониторы</catalog>
+    
+    <price1>3084</price1>
+    <price2>5247</price2>
+    <description>
+ЖК (TFT TN) 18.5&amp;quot;, широкоформатный, 1366x768, LED-подсветка, 250 кд/м2, 1000:1, 5 мс, 170°/160°, DVI, VGA
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-монитор, широкоформатный
+</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>18.5"</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1366x768 (16:9)
+</value>
+        </item>
+        <item>
+          <name>Тип ЖК-матрицы</name>
+          <value>TFT TN</value>
+        </item>
+        <item>
+          <name>Подсветка</name>
+          <value>WLED</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Яркость</name>
+          <value>250 кд/м2</value>
+        </item>
+        <item>
+          <name>Контрастность</name>
+          <value>1000:1</value>
+        </item>
+        <item>
+          <name>Время отклика</name>
+          <value>5 мс</value>
+        </item>
+        <item>
+          <name>Область обзора</name>
+          <value>по горизонтали: 170&amp;deg;; по вертикали: 160&amp;deg;</value>
+        </item>
+        <item>
+          <name>Максимальное количество цветов </name>
+          <value>16.7 млн.</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>DVI-D (HDCP), VGA (D-Sub)</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Функциональность</name>
+          <value>меню на русском языке, калибровка цвета</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>при работе: 20 Вт, в режиме ожидания: 0.30 Вт, в спящем режиме: 0.30 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Стандарты</name>
+          <value>энергосбережения: Energy Star 5.0</value>
+        </item>
+        <item>
+          <name>Размеры, вес</name>
+          <value>455x366x177 мм, 2.45 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67181">
+    <title>DELL U2312HM</title>
+    <model>U2312HM</model>
+    <marka>DELL</marka>
+    <catalog id="106905">Мониторы</catalog>
+    
+    <price1>8770</price1>
+    <price2>12410</price2>
+    <description>
+ЖК (TFT IPS) 23&amp;quot;, широкоформатный, 1920x1080, LED-подсветка, 300 кд/м2, 1000:1, 8 мс, 178°/178°, USB-концентратор, DVI, DisplayPort, VGA
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-монитор, широкоформатный
+</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>23"</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080 (16:9)
+</value>
+        </item>
+        <item>
+          <name>Тип ЖК-матрицы</name>
+          <value>TFT IPS</value>
+        </item>
+        <item>
+          <name>Подсветка</name>
+          <value>WLED</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Шаг точки по горизонтали</name>
+          <value>0.265 мм</value>
+        </item>
+        <item>
+          <name>Шаг точки по вертикали</name>
+          <value>0.265 мм</value>
+        </item>
+        <item>
+          <name>Яркость</name>
+          <value>300 кд/м2</value>
+        </item>
+        <item>
+          <name>Контрастность</name>
+          <value>1000:1</value>
+        </item>
+        <item>
+          <name>Динамическая контрастность</name>
+          <value>2000000:1</value>
+        </item>
+        <item>
+          <name>Время отклика</name>
+          <value>8 мс</value>
+        </item>
+        <item>
+          <name>Область обзора</name>
+          <value>по горизонтали: 178&amp;deg;; по вертикали: 178&amp;deg;</value>
+        </item>
+        <item>
+          <name>Максимальное количество цветов </name>
+          <value>16.7 млн.</value>
+        </item>
+        <item>
+          <name>Покрытие экрана</name>
+          <value>антибликовое</value>
+        </item>
+      </items>
+      <items>
+        <name>Развертка</name>
+        <item>
+          <name>Частота развертки</name>
+          <value>горизонтальная: 30-80 кГц; вертикальная: 56-76 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>DVI-D (HDCP), DisplayPort, VGA (D-Sub)</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A x4</value>
+        </item>
+        <item>
+          <name>USB-концентратор</name>
+          <value>есть, количество портов: 4</value>
+        </item>
+        <item>
+          <name>Версия USB</name>
+          <value>USB 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Функциональность</name>
+          <value>меню на русском языке, калибровка цвета</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>при работе: 30 Вт, в режиме ожидания: 0.50 Вт, в спящем режиме: 0.50 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Стандарты</name>
+          <value>энергосбережения: ENERGY STAR 5.1</value>
+        </item>
+        <item>
+          <name>Регулировка по высоте</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поворот на 90 градусов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Настенное крепление</name>
+          <value>есть, 100x100 мм</value>
+        </item>
+        <item>
+          <name>Размеры, вес</name>
+          <value>546x365x185 мм, 5.18 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67188">
+    <title>Philips 196V3LSB</title>
+    <model>196V3LSB</model>
+    <marka>Philips</marka>
+    <catalog id="106905">Мониторы</catalog>
+    
+    <price1>3204</price1>
+    <price2>6392</price2>
+    <description>
+ЖК (TFT TN) 18.5&amp;quot;, широкоформатный, 1366x768, LED-подсветка, 250 кд/м2, 1000:1, 5 мс, 170°/160°, DVI, VGA
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-монитор, широкоформатный
+</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>18.5"</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1366x768 (16:9)
+</value>
+        </item>
+        <item>
+          <name>Тип ЖК-матрицы</name>
+          <value>TFT TN</value>
+        </item>
+        <item>
+          <name>Подсветка</name>
+          <value>WLED</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Шаг точки по горизонтали</name>
+          <value>0.3 мм</value>
+        </item>
+        <item>
+          <name>Шаг точки по вертикали</name>
+          <value>0.3 мм</value>
+        </item>
+        <item>
+          <name>Яркость</name>
+          <value>250 кд/м2</value>
+        </item>
+        <item>
+          <name>Контрастность</name>
+          <value>1000:1</value>
+        </item>
+        <item>
+          <name>Динамическая контрастность</name>
+          <value>10000000:1</value>
+        </item>
+        <item>
+          <name>Время отклика</name>
+          <value>5 мс</value>
+        </item>
+        <item>
+          <name>Область обзора</name>
+          <value>по горизонтали: 170&amp;deg;; по вертикали: 160&amp;deg;</value>
+        </item>
+        <item>
+          <name>Максимальное количество цветов </name>
+          <value>16.7 млн.</value>
+        </item>
+        <item>
+          <name>Покрытие экрана</name>
+          <value>антибликовое</value>
+        </item>
+      </items>
+      <items>
+        <name>Развертка</name>
+        <item>
+          <name>Частота развертки</name>
+          <value>горизонтальная: 30-83 кГц; вертикальная: 56-75 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>DVI-D (HDCP), VGA (D-Sub)</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Функциональность</name>
+          <value>меню на русском языке</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>при работе: 14 Вт, в режиме ожидания: 0.50 Вт, в спящем режиме: 0.50 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Стандарты</name>
+          <value>Plug&amp;Play: DDC CI; энергосбережения: Energy Star 5.0</value>
+        </item>
+        <item>
+          <name>Размеры, вес</name>
+          <value>463x358x204 мм, 2.39 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67199">
+    <title>BenQ GL2450HM</title>
+    <model>GL2450HM</model>
+    <marka>BenQ</marka>
+    <catalog id="106905">Мониторы</catalog>
+    
+    <price1>5280</price1>
+    <price2>8942</price2>
+    <description>
+ЖК (TFT TN) 24&amp;quot;, широкоформатный, 1920x1080, LED-подсветка, 250 кд/м2, 1000:1, 2 мс, 170°/160°, стереоколонки, DVI, HDMI, VGA
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-монитор, широкоформатный
+</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>24"</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080 (16:9)
+</value>
+        </item>
+        <item>
+          <name>Тип ЖК-матрицы</name>
+          <value>TFT TN</value>
+        </item>
+        <item>
+          <name>Подсветка</name>
+          <value>WLED</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Шаг точки по горизонтали</name>
+          <value>0.276 мм</value>
+        </item>
+        <item>
+          <name>Шаг точки по вертикали</name>
+          <value>0.276 мм</value>
+        </item>
+        <item>
+          <name>Яркость</name>
+          <value>250 кд/м2</value>
+        </item>
+        <item>
+          <name>Контрастность</name>
+          <value>1000:1</value>
+        </item>
+        <item>
+          <name>Динамическая контрастность</name>
+          <value>12000000:1</value>
+        </item>
+        <item>
+          <name>Время отклика</name>
+          <value>2 мс (g to g), 5 мс (on/off)</value>
+        </item>
+        <item>
+          <name>Область обзора</name>
+          <value>по горизонтали: 170&amp;deg;; по вертикали: 160&amp;deg;</value>
+        </item>
+        <item>
+          <name>Максимальное количество цветов </name>
+          <value>16.7 млн.</value>
+        </item>
+      </items>
+      <items>
+        <name>Развертка</name>
+        <item>
+          <name>Частота развертки</name>
+          <value>горизонтальная: 30-83 кГц; вертикальная: 50-76 Гц</value>
+        </item>
+        <item>
+          <name>Полоса пропускания</name>
+          <value>205 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>DVI-D (HDCP), HDMI, VGA (D-Sub), аудио стерео</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>на наушники</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Мультимедиа</name>
+          <value>стереоколонки (2x2 Вт)</value>
+        </item>
+        <item>
+          <name>Функциональность</name>
+          <value>калибровка цвета</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>при работе: 42 Вт, в режиме ожидания: 0.30 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Стандарты</name>
+          <value>экологический: MPR-II, TCO 5.0</value>
+        </item>
+        <item>
+          <name>Настенное крепление</name>
+          <value>есть, 100x100 мм</value>
+        </item>
+        <item>
+          <name>Размеры, вес</name>
+          <value>580x436x179 мм, 4.10 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67207">
+    <title>Samsung S23B370H</title>
+    <model>S23B370H</model>
+    <marka>Samsung</marka>
+    <catalog id="106905">Мониторы</catalog>
+    
+    <price1>6212</price1>
+    <price2>6840</price2>
+    <description>
+ЖК (TFT TN) 23&amp;quot;, широкоформатный, 1920x1080, LED-подсветка, 250 кд/м2, 1000:1, 2 мс, 170°/160°, HDMI, VGA
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-монитор, широкоформатный
+</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>23"</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080 (16:9)
+</value>
+        </item>
+        <item>
+          <name>Тип ЖК-матрицы</name>
+          <value>TFT TN</value>
+        </item>
+        <item>
+          <name>Подсветка</name>
+          <value>WLED</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Яркость</name>
+          <value>250 кд/м2</value>
+        </item>
+        <item>
+          <name>Контрастность</name>
+          <value>1000:1</value>
+        </item>
+        <item>
+          <name>Время отклика</name>
+          <value>2 мс</value>
+        </item>
+        <item>
+          <name>Область обзора</name>
+          <value>по горизонтали: 170&amp;deg;; по вертикали: 160&amp;deg;</value>
+        </item>
+        <item>
+          <name>Максимальное количество цветов </name>
+          <value>16.7 млн.</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>HDMI, VGA (D-Sub)</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Функциональность</name>
+          <value>калибровка цвета</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>при работе: 30 Вт, в режиме ожидания: 0.30 Вт, в спящем режиме: 0.30 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Стандарты</name>
+          <value>энергосбережения: Energy Star 5.0</value>
+        </item>
+        <item>
+          <name>Размеры, вес</name>
+          <value>556x421x197 мм, 3 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67209">
+    <title>NEC MultiSync PA241W</title>
+    <model>MultiSync PA241W</model>
+    <marka>NEC</marka>
+    <catalog id="106905">Мониторы</catalog>
+    
+    <price1>29460</price1>
+    <price2>51693</price2>
+    <description>
+ЖК (TFT P-IPS) 24.1&amp;quot;, широкоформатный, 1920x1200, 360 кд/м2, 1000:1, 8 мс, 178°/178°, USB-концентратор, DVI x2, DisplayPort, VGA
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-монитор, широкоформатный
+</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>24.1"</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1200 (16:10)
+</value>
+        </item>
+        <item>
+          <name>Тип ЖК-матрицы</name>
+          <value>TFT P-IPS</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Шаг точки по горизонтали</name>
+          <value>0.27 мм</value>
+        </item>
+        <item>
+          <name>Шаг точки по вертикали</name>
+          <value>0.27 мм</value>
+        </item>
+        <item>
+          <name>Яркость</name>
+          <value>360 кд/м2</value>
+        </item>
+        <item>
+          <name>Контрастность</name>
+          <value>1000:1</value>
+        </item>
+        <item>
+          <name>Время отклика</name>
+          <value>8 мс</value>
+        </item>
+        <item>
+          <name>Область обзора</name>
+          <value>по горизонтали: 178&amp;deg;; по вертикали: 178&amp;deg;</value>
+        </item>
+        <item>
+          <name>Максимальное количество цветов </name>
+          <value>более 1 млрд.</value>
+        </item>
+      </items>
+      <items>
+        <name>Развертка</name>
+        <item>
+          <name>Частота развертки</name>
+          <value>горизонтальная: 32-118 кГц; вертикальная: 51-85 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>DVI-D (HDCP), DisplayPort, VGA (D-Sub)</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A x3</value>
+        </item>
+        <item>
+          <name>USB-концентратор</name>
+          <value>есть, количество портов: 3</value>
+        </item>
+        <item>
+          <name>Версия USB</name>
+          <value>USB 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Функциональность</name>
+          <value>калибровка цвета</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>при работе: 95 Вт, в режиме ожидания: 1 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Стандарты</name>
+          <value>экологический: MPR-II, TCO 5.0; Plug&amp;Play: DDC/CI</value>
+        </item>
+        <item>
+          <name>Регулировка по высоте</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поворот на 90 градусов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Настенное крепление</name>
+          <value>есть, 100x100 мм</value>
+        </item>
+        <item>
+          <name>Размеры, вес</name>
+          <value>556x379x229 мм, 10.60 кг</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>таймер отключения</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67226">
+    <title>Acer V223HQVbd</title>
+    <model>V223HQVbd</model>
+    <marka>Acer</marka>
+    <catalog id="106905">Мониторы</catalog>
+    
+    <price1>4360</price1>
+    <price2>4797</price2>
+    <description>
+ЖК (TFT TN) 21.5&amp;quot;, широкоформатный, 1920x1080, 200 кд/м2, 5 мс, 90°/65°, DVI, VGA
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-монитор, широкоформатный
+</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>21.5"</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080 (16:9)
+</value>
+        </item>
+        <item>
+          <name>Тип ЖК-матрицы</name>
+          <value>TFT TN</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Шаг точки по горизонтали</name>
+          <value>0.248 мм</value>
+        </item>
+        <item>
+          <name>Шаг точки по вертикали</name>
+          <value>0.248 мм</value>
+        </item>
+        <item>
+          <name>Яркость</name>
+          <value>200 кд/м2</value>
+        </item>
+        <item>
+          <name>Контрастность</name>
+          <value>1000:1</value>
+        </item>
+        <item>
+          <name>Динамическая контрастность</name>
+          <value>20000:1</value>
+        </item>
+        <item>
+          <name>Время отклика</name>
+          <value>5 мс</value>
+        </item>
+        <item>
+          <name>Максимальное количество цветов </name>
+          <value>16.7 млн.</value>
+        </item>
+      </items>
+      <items>
+        <name>Развертка</name>
+        <item>
+          <name>Частота развертки</name>
+          <value>горизонтальная: 30-80 кГц; вертикальная: 55-75 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>DVI-D, VGA (D-Sub)</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Функциональность</name>
+          <value>калибровка цвета</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>при работе: 33 Вт, в режиме ожидания: 0.49 Вт, в спящем режиме: 0.32 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Стандарты</name>
+          <value>экологический: MPR-II; Plug&amp;Play: VESA DDC2B; DDC / CI; энергосбережения: Energy Star</value>
+        </item>
+        <item>
+          <name>Настенное крепление</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры, вес</name>
+          <value>508x372x195 мм, 4.50 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67259">
+    <title>DELL U2412M</title>
+    <model>U2412M</model>
+    <marka>DELL</marka>
+    <catalog id="106905">Мониторы</catalog>
+    
+    <price1>9999</price1>
+    <price2>14620</price2>
+    <description>
+ЖК (TFT E-IPS) 24&amp;quot;, широкоформатный, 1920x1200, LED-подсветка, 300 кд/м2, 1000:1, 8 мс, 178°/178°, USB-концентратор, DVI, DisplayPort, VGA
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-монитор, широкоформатный
+</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>24"</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1200 (16:10)
+</value>
+        </item>
+        <item>
+          <name>Тип ЖК-матрицы</name>
+          <value>TFT E-IPS</value>
+        </item>
+        <item>
+          <name>Подсветка</name>
+          <value>WLED</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Шаг точки по горизонтали</name>
+          <value>0.27 мм</value>
+        </item>
+        <item>
+          <name>Шаг точки по вертикали</name>
+          <value>0.27 мм</value>
+        </item>
+        <item>
+          <name>Яркость</name>
+          <value>300 кд/м2</value>
+        </item>
+        <item>
+          <name>Контрастность</name>
+          <value>1000:1</value>
+        </item>
+        <item>
+          <name>Динамическая контрастность</name>
+          <value>2000000:1</value>
+        </item>
+        <item>
+          <name>Время отклика</name>
+          <value>8 мс</value>
+        </item>
+        <item>
+          <name>Область обзора</name>
+          <value>по горизонтали: 178&amp;deg;; по вертикали: 178&amp;deg;</value>
+        </item>
+        <item>
+          <name>Максимальное количество цветов </name>
+          <value>16.7 млн.</value>
+        </item>
+        <item>
+          <name>Покрытие экрана</name>
+          <value>антибликовое</value>
+        </item>
+      </items>
+      <items>
+        <name>Развертка</name>
+        <item>
+          <name>Частота развертки</name>
+          <value>горизонтальная: 30-83 кГц; вертикальная: 50-61 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>DVI-D (HDCP), DisplayPort, VGA (D-Sub)</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A x4, USB Type B</value>
+        </item>
+        <item>
+          <name>USB-концентратор</name>
+          <value>есть, количество портов: 4</value>
+        </item>
+        <item>
+          <name>Версия USB</name>
+          <value>USB 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Функциональность</name>
+          <value>меню на русском языке, калибровка цвета</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>при работе: 38 Вт, в режиме ожидания: 0.50 Вт, в спящем режиме: 0.50 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Стандарты</name>
+          <value>экологический: MPR-II, TCO 5.0; энергосбережения: Energy Star  5.1</value>
+        </item>
+        <item>
+          <name>Регулировка по высоте</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поворот на 90 градусов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Настенное крепление</name>
+          <value>есть, 100x100 мм</value>
+        </item>
+        <item>
+          <name>Размеры, вес</name>
+          <value>556x514x180 мм, 6.24 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67267">
+    <title>Philips 273E3LSB(S)</title>
+    <model>273E3LSB(S)</model>
+    <marka>Philips</marka>
+    <catalog id="106905">Мониторы</catalog>
+    
+    <price1>11220</price1>
+    <price2>11968</price2>
+    <description>
+ЖК 27&amp;quot;, широкоформатный, 1920x1080, 300 кд/м2, 1200:1, 4 мс, DVI, VGA
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-монитор, широкоформатный
+</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>27"</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080 (16:9)
+</value>
+        </item>
+        <item>
+          <name>Тип ЖК-матрицы</name>
+          <value>TFT TN</value>
+        </item>
+        <item>
+          <name>Подсветка</name>
+          <value>WLED</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Шаг точки по горизонтали</name>
+          <value>0.311 мм</value>
+        </item>
+        <item>
+          <name>Шаг точки по вертикали</name>
+          <value>0.311 мм</value>
+        </item>
+        <item>
+          <name>Яркость</name>
+          <value>300 кд/м2</value>
+        </item>
+        <item>
+          <name>Контрастность</name>
+          <value>1200:1</value>
+        </item>
+        <item>
+          <name>Динамическая контрастность</name>
+          <value>20000000:1</value>
+        </item>
+        <item>
+          <name>Время отклика</name>
+          <value>4 мс</value>
+        </item>
+        <item>
+          <name>Максимальное количество цветов </name>
+          <value>16.7 млн.</value>
+        </item>
+        <item>
+          <name>Покрытие экрана</name>
+          <value>антибликовое</value>
+        </item>
+      </items>
+      <items>
+        <name>Развертка</name>
+        <item>
+          <name>Частота развертки</name>
+          <value>горизонтальная: 30-83 кГц; вертикальная: 56-75 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>DVI-D (HDCP), VGA (D-Sub)</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Функциональность</name>
+          <value>меню на русском языке, калибровка цвета</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>при работе: 20 Вт, в режиме ожидания: 0.50 Вт, в спящем режиме: 0.50 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Стандарты</name>
+          <value>экологический: MPR-II, TCO 5.1; Plug&amp;Play: DDC CI; энергосбережения: Energy Star 5.0</value>
+        </item>
+        <item>
+          <name>Настенное крепление</name>
+          <value>есть, 100x100 мм</value>
+        </item>
+        <item>
+          <name>Размеры, вес</name>
+          <value>642x440x227 мм, 8.20 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67270">
+    <title>Viewsonic VX2453mh-LED</title>
+    <model>VX2453mh-LED</model>
+    <marka>Viewsonic</marka>
+    <catalog id="106905">Мониторы</catalog>
+    
+    <price1>6399</price1>
+    <price2>7560</price2>
+    <description>
+ЖК (TFT TN) 23.6&amp;quot;, широкоформатный, 1920x1080, LED-подсветка, 300 кд/м2, 1000:1, 2 мс, 170°/160°, стереоколонки, HDMI x2, VGA
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-монитор, широкоформатный
+</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>23.6"</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080 (16:9)
+</value>
+        </item>
+        <item>
+          <name>Тип ЖК-матрицы</name>
+          <value>TFT TN</value>
+        </item>
+        <item>
+          <name>Подсветка</name>
+          <value>WLED</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Шаг точки по горизонтали</name>
+          <value>0.2715 мм</value>
+        </item>
+        <item>
+          <name>Шаг точки по вертикали</name>
+          <value>0.2715 мм</value>
+        </item>
+        <item>
+          <name>Яркость</name>
+          <value>300 кд/м2</value>
+        </item>
+        <item>
+          <name>Контрастность</name>
+          <value>1000:1</value>
+        </item>
+        <item>
+          <name>Динамическая контрастность</name>
+          <value>30000000:1</value>
+        </item>
+        <item>
+          <name>Время отклика</name>
+          <value>2 мс</value>
+        </item>
+        <item>
+          <name>Область обзора</name>
+          <value>по горизонтали: 170&amp;deg;; по вертикали: 160&amp;deg;</value>
+        </item>
+        <item>
+          <name>Покрытие экрана</name>
+          <value>антибликовое</value>
+        </item>
+      </items>
+      <items>
+        <name>Развертка</name>
+        <item>
+          <name>Частота развертки</name>
+          <value>горизонтальная: 24-83 кГц; вертикальная: 50-75 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>HDMI x2, VGA (D-Sub)</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>на наушники</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Мультимедиа</name>
+          <value>стереоколонки (2x2 Вт)</value>
+        </item>
+        <item>
+          <name>Функциональность</name>
+          <value>калибровка цвета</value>
+        </item>
+        <item>
+          <name>Цветовая температура</name>
+          <value>sRGB, 9300K, 7500K, 6500K, 5400K</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>при работе: 30 Вт, в спящем режиме: 0.50 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Стандарты</name>
+          <value>экологический: MPR-II; энергосбережения: Energy Star; ISO 13406-2</value>
+        </item>
+        <item>
+          <name>Размеры, вес</name>
+          <value>574x429x196 мм, 4.11 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67274">
+    <title>LG Flatron E2210S</title>
+    <model>Flatron E2210S</model>
+    <marka>LG</marka>
+    <catalog id="106905">Мониторы</catalog>
+    
+    <price1>4550</price1>
+    <price2>5680</price2>
+    <description>
+ЖК (TFT TN) 22&amp;quot;, широкоформатный, 1680x1050, LED-подсветка, 250 кд/м2, 5 мс, 170°/160°, VGA
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-монитор, широкоформатный
+</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>22"</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1680x1050 (16:10)
+</value>
+        </item>
+        <item>
+          <name>Тип ЖК-матрицы</name>
+          <value>TFT TN</value>
+        </item>
+        <item>
+          <name>Подсветка</name>
+          <value>WLED</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Яркость</name>
+          <value>250 кд/м2</value>
+        </item>
+        <item>
+          <name>Динамическая контрастность</name>
+          <value>5000000:1</value>
+        </item>
+        <item>
+          <name>Время отклика</name>
+          <value>5 мс</value>
+        </item>
+        <item>
+          <name>Область обзора</name>
+          <value>по горизонтали: 170&amp;deg;; по вертикали: 160&amp;deg;</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>VGA (D-Sub)</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Стандарты</name>
+          <value>экологический: MPR-II, TCO 5.0; энергосбережения: Energy Star 5.0</value>
+        </item>
+        <item>
+          <name>Настенное крепление</name>
+          <value>есть, 75x75 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67281">
+    <title>DELL U2711</title>
+    <model>U2711</model>
+    <marka>DELL</marka>
+    <catalog id="106905">Мониторы</catalog>
+    
+    <price1>27700</price1>
+    <price2>29190</price2>
+    <description>
+ЖК (TFT H-IPS) 27&amp;quot;, широкоформатный, 2560x1440, 350 кд/м2, 1000:1, 6 мс, 178°/178°, USB-концентратор, DVI x2, HDMI, DisplayPort, VGA, композитный вход, компонентный вход
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-монитор, широкоформатный
+</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>27"</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>2560x1440 (16:9)
+</value>
+        </item>
+        <item>
+          <name>Тип ЖК-матрицы</name>
+          <value>TFT H-IPS</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Шаг точки по горизонтали</name>
+          <value>0.233 мм</value>
+        </item>
+        <item>
+          <name>Шаг точки по вертикали</name>
+          <value>0.233 мм</value>
+        </item>
+        <item>
+          <name>Яркость</name>
+          <value>350 кд/м2</value>
+        </item>
+        <item>
+          <name>Контрастность</name>
+          <value>1000:1</value>
+        </item>
+        <item>
+          <name>Динамическая контрастность</name>
+          <value>80000:1</value>
+        </item>
+        <item>
+          <name>Время отклика</name>
+          <value>6 мс</value>
+        </item>
+        <item>
+          <name>Область обзора</name>
+          <value>по горизонтали: 178&amp;deg;; по вертикали: 178&amp;deg;</value>
+        </item>
+        <item>
+          <name>Максимальное количество цветов </name>
+          <value>более 1 млрд.</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>DVI-D (HDCP), HDMI, DisplayPort, VGA (D-Sub), композитный, компонентный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A x4</value>
+        </item>
+        <item>
+          <name>USB-концентратор</name>
+          <value>есть, количество портов: 4</value>
+        </item>
+        <item>
+          <name>Версия USB</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Устройство для чтения карт памяти</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>при работе: 113 Вт, в режиме ожидания: 2 Вт, в спящем режиме: 2 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Стандарты</name>
+          <value>экологический: MPR-II, TCO''03</value>
+        </item>
+        <item>
+          <name>Регулировка по высоте</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Настенное крепление</name>
+          <value>есть, 100x100 мм</value>
+        </item>
+        <item>
+          <name>Размеры, вес</name>
+          <value>647x428x200 мм, 7.72 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67290">
+    <title>Acer HS244HQbmii</title>
+    <model>HS244HQbmii</model>
+    <marka>Acer</marka>
+    <catalog id="106905">Мониторы</catalog>
+    
+    <price1>10700</price1>
+    <price2>15080</price2>
+    <description>
+ЖК 23.6&amp;quot;, 3D, широкоформатный, 1920x1080, LED-подсветка, 300 кд/м2, 2 мс, стереоколонки, HDMI, VGA
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-монитор, широкоформатный
+</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>23.6"</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080 (16:9)
+</value>
+        </item>
+        <item>
+          <name>Подсветка</name>
+          <value>WLED</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть, затворная технология</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Яркость</name>
+          <value>300 кд/м2</value>
+        </item>
+        <item>
+          <name>Динамическая контрастность</name>
+          <value>12000000:1</value>
+        </item>
+        <item>
+          <name>Время отклика</name>
+          <value>2 мс</value>
+        </item>
+        <item>
+          <name>Максимальное количество цветов </name>
+          <value>16.7 млн.</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>HDMI, VGA (D-Sub)</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Мультимедиа</name>
+          <value>стереоколонки</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>при работе: 35 Вт, в режиме ожидания: 1.69 Вт, в спящем режиме: 0.69 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Стандарты</name>
+          <value>энергосбережения: Energy Star; ISO 13406-2</value>
+        </item>
+        <item>
+          <name>Настенное крепление</name>
+          <value>есть, 100x100 мм</value>
+        </item>
+        <item>
+          <name>Размеры, вес</name>
+          <value>575x423x172 мм, 5.20 кг</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>модель не совместима с Nvidia 3D; 3D-очки Acer в комплекте</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67305">
+    <title>Viewsonic VX2753mh-LED</title>
+    <model>VX2753mh-LED</model>
+    <marka>Viewsonic</marka>
+    <catalog id="106905">Мониторы</catalog>
+    
+    <price1>9180</price1>
+    <price2>9680</price2>
+    <description>
+ЖК (TFT TN) 27&amp;quot;, широкоформатный, 1920x1080, LED-подсветка, 300 кд/м2, 1200:1, 1 мс, 170°/160°, стереоколонки, HDMI x2, VGA
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-монитор, широкоформатный
+</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>27"</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080 (16:9)
+</value>
+        </item>
+        <item>
+          <name>Тип ЖК-матрицы</name>
+          <value>TFT TN</value>
+        </item>
+        <item>
+          <name>Подсветка</name>
+          <value>WLED</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Шаг точки по горизонтали</name>
+          <value>0.3114 мм</value>
+        </item>
+        <item>
+          <name>Шаг точки по вертикали</name>
+          <value>0.3114 мм</value>
+        </item>
+        <item>
+          <name>Яркость</name>
+          <value>300 кд/м2</value>
+        </item>
+        <item>
+          <name>Контрастность</name>
+          <value>1200:1</value>
+        </item>
+        <item>
+          <name>Динамическая контрастность</name>
+          <value>30000000:1</value>
+        </item>
+        <item>
+          <name>Время отклика</name>
+          <value>1 мс</value>
+        </item>
+        <item>
+          <name>Область обзора</name>
+          <value>по горизонтали: 170&amp;deg;; по вертикали: 160&amp;deg;</value>
+        </item>
+        <item>
+          <name>Покрытие экрана</name>
+          <value>антибликовое</value>
+        </item>
+      </items>
+      <items>
+        <name>Развертка</name>
+        <item>
+          <name>Частота развертки</name>
+          <value>горизонтальная: 24-83 кГц; вертикальная: 50-75 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>HDMI x2, VGA (D-Sub)</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>на наушники</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Мультимедиа</name>
+          <value>стереоколонки (2x2 Вт)</value>
+        </item>
+        <item>
+          <name>Функциональность</name>
+          <value>калибровка цвета</value>
+        </item>
+        <item>
+          <name>Цветовая температура</name>
+          <value>sRGB, 9300K, 7500K, 6500K, 5400K</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>при работе: 36 Вт, в спящем режиме: 1 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Стандарты</name>
+          <value>экологический: MPR-II; энергосбережения: Energy Star; ISO 13406-2</value>
+        </item>
+        <item>
+          <name>Размеры, вес</name>
+          <value>658x480x212 мм, 4.70 кг</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>мощность 20 Вт типовое 36 Вт максимальное</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67332">
+    <title>Acer V203HVCb</title>
+    <model>V203HVCb</model>
+    <marka>Acer</marka>
+    <catalog id="106905">Мониторы</catalog>
+    
+    <price1>3784</price1>
+    <price2>4760</price2>
+    <description>
+ЖК (TFT TN) 20&amp;quot;, широкоформатный, 1600x900, 250 кд/м2, 5 мс, 170°/160°, VGA
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-монитор, широкоформатный
+</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>20"</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1600x900 (16:9)
+</value>
+        </item>
+        <item>
+          <name>Тип ЖК-матрицы</name>
+          <value>TFT TN</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Шаг точки по горизонтали</name>
+          <value>0.276 мм</value>
+        </item>
+        <item>
+          <name>Шаг точки по вертикали</name>
+          <value>0.276 мм</value>
+        </item>
+        <item>
+          <name>Яркость</name>
+          <value>250 кд/м2</value>
+        </item>
+        <item>
+          <name>Динамическая контрастность</name>
+          <value>10000:1</value>
+        </item>
+        <item>
+          <name>Время отклика</name>
+          <value>5 мс</value>
+        </item>
+        <item>
+          <name>Область обзора</name>
+          <value>по горизонтали: 170&amp;deg;; по вертикали: 160&amp;deg;</value>
+        </item>
+        <item>
+          <name>Максимальное количество цветов </name>
+          <value>16.7 млн.</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>VGA (D-Sub)</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>при работе: 19 Вт, в режиме ожидания: 0.47 Вт, в спящем режиме: 0.33 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры, вес</name>
+          <value>474x354x195 мм, 4.10 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

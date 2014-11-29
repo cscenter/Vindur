@@ -1,0 +1,1612 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="21994">
+    <title>Kenwood CP707</title>
+    <model>CP707</model>
+    <marka>Kenwood</marka>
+    <catalog id="6161840">Электроварки</catalog>
+    
+    <price1>4147</price1>
+    <price2>6530</price2>
+    <description>
+
+
+медленноварка, объем 4.5 л, мощность 350 Вт, электронное управление
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>медленноварка</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>350 Вт</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>4.5 л</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Покрытие чаши</name>
+          <value>керамическое</value>
+        </item>
+        <item>
+          <name>Съемная верхняя крышка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Смотровое окно</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>3D нагрев</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Автоматические программы</name>
+          <value>тушение</value>
+        </item>
+        <item>
+          <name>Максимальное время установки таймера</name>
+          <value>10 ч</value>
+        </item>
+        <item>
+          <name>Поддержание тепла</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенный старт</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты и вес</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>33x24.5x30 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>5.4 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="21996">
+    <title>Panasonic SR-TMH18LTW</title>
+    <model>SR-TMH18LTW</model>
+    <marka>Panasonic</marka>
+    <catalog id="6161840">Электроварки</catalog>
+    
+    <price1>1920</price1>
+    <price2>5190</price2>
+    <description>
+
+
+мультиварка, объем 4.5 л, мощность 670 Вт, электронное управление
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>мультиварка</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>670 Вт</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>4.5 л</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Покрытие чаши</name>
+          <value>тефлоновое</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>3D нагрев</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Автоматических программ</name>
+          <value>6, включая: выпечка, каша, крупа, тушение, приготовление на пару</value>
+        </item>
+        <item>
+          <name>Максимальное время установки таймера</name>
+          <value>13 ч</value>
+        </item>
+        <item>
+          <name>Поддержание тепла</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенный старт</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты и вес</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>27.5x27.6x27.4 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.8 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="21999">
+    <title>Philips HD3025/03</title>
+    <model>HD3025/03</model>
+    <marka>Philips</marka>
+    <catalog id="6161840">Электроварки</catalog>
+    
+    <price1>890</price1>
+    <price2>3147</price2>
+    <description>
+
+
+мультиварка, объем 4 л, мощность 650 Вт, механическое управление
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>мультиварка</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>650 Вт</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>4 л</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Покрытие чаши</name>
+          <value>тефлоновое</value>
+        </item>
+        <item>
+          <name>Внутренняя крышка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>3D нагрев</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержание тепла</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенный старт</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты и вес</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>26.9x23.3x26.9 см</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="22008">
+    <title>REDMOND RMC-M70</title>
+    <model>RMC-M70</model>
+    <marka>REDMOND</marka>
+    <catalog id="6161840">Электроварки</catalog>
+    
+    <price1>4499</price1>
+    <price2>10990</price2>
+    <description>
+
+
+мультиварка, объем 5 л, мощность 860 Вт, электронное управление
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>мультиварка</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>860 Вт</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>5 л</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Покрытие чаши</name>
+          <value>керамическое</value>
+        </item>
+        <item>
+          <name>Внутренняя крышка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>3D нагрев</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматических программ</name>
+          <value>16, включая: выпечка, каша, крупа, тушение, приготовление на пару, фритюр, плов, жарка, йогурт</value>
+        </item>
+        <item>
+          <name>Максимальное время установки таймера</name>
+          <value>24 ч</value>
+        </item>
+        <item>
+          <name>Ручная регулировка</name>
+          <value>температуры, времени приготовления</value>
+        </item>
+        <item>
+          <name>Поддержание тепла</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенный старт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>книга на 200 рецептов; 42 программы; функция "Мультиповар": 26 комбинаций ручных настроек; запоминание последних настроек; энергонезависимая память; адаптация для слабовидящих (Шрифт Брайля)</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты и вес</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>31x25x40 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>5 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="22016">
+    <title>Kenwood CP658</title>
+    <model>CP658</model>
+    <marka>Kenwood</marka>
+    <catalog id="6161840">Электроварки</catalog>
+    
+    <price1>2930</price1>
+    <price2>4131</price2>
+    <description>
+
+
+медленноварка, объем 6.5 л, мощность 2000 Вт, механическое управление
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>медленноварка</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>2000 Вт</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>6.5 л</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Покрытие чаши</name>
+          <value>тефлоновое</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>3D нагрев</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержание тепла</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенный старт</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты и вес</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>48x19.5x32 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6.19 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="22021">
+    <title>REDMOND RMC-M4502</title>
+    <model>RMC-M4502</model>
+    <marka>REDMOND</marka>
+    <catalog id="6161840">Электроварки</catalog>
+    
+    <price1>3570</price1>
+    <price2>10270</price2>
+    <description>
+
+
+мультиварка, объем 5 л, мощность 860 Вт, электронное управление
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>мультиварка</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>860 Вт</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>5 л</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Покрытие чаши</name>
+          <value>тефлоновое</value>
+        </item>
+        <item>
+          <name>Внутренняя крышка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>3D нагрев</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматических программ</name>
+          <value>16, включая: выпечка, каша, крупа, тушение, приготовление на пару, фритюр, жарка, йогурт, паста, тесто, пастеризация</value>
+        </item>
+        <item>
+          <name>Максимальное время установки таймера</name>
+          <value>24 ч</value>
+        </item>
+        <item>
+          <name>Ручная регулировка</name>
+          <value>температуры, времени приготовления</value>
+        </item>
+        <item>
+          <name>Поддержание тепла</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенный старт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>18 программ с ручными настройками; книга рецептов; защита от включения без чаши; комплектация: ложка, черпак, мерный стакан, контейнер для приготовления на пару</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты и вес</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>31x25x40 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>5 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="22027">
+    <title>Cuckoo CMC-HE1054F</title>
+    <model>CMC-HE1054F</model>
+    <marka>Cuckoo</marka>
+    <catalog id="6161840">Электроварки</catalog>
+    
+    <description>
+
+
+мультиварка, объем 4.1 л, мощность 1400 Вт, электронное управление
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>скороварка/мультиварка</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>1400 Вт</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>5 л</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Покрытие чаши</name>
+          <value>тефлоновое</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>3D нагрев</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Автоматические программы</name>
+          <value>выпечка, каша, крупа, тушение, приготовление на пару</value>
+        </item>
+        <item>
+          <name>Ручная регулировка</name>
+          <value>температуры</value>
+        </item>
+        <item>
+          <name>Поддержание тепла</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенный старт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>в комплекте: ложка для риса, мерный стаканчик, паровая пластина; голосовой гид; кнопки "ВАРКА" и "ОТМЕНА" с выпуклыми точками Брайля для слепых и слабовидящих людей; система "Мягкого выпуска пара"; контейнер для слива конденсата; режим "Варка/Турбо"; покрытие чаши 5-тислойное с мраморным напылением</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты и вес</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>31.3x29.9x42 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6.9 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="22039">
+    <title>Philips HD3027/03</title>
+    <model>HD3027/03</model>
+    <marka>Philips</marka>
+    <catalog id="6161840">Электроварки</catalog>
+    
+    <price1>950</price1>
+    <price2>3412</price2>
+    <description>
+
+
+мультиварка, объем 5 л, мощность 650 Вт, механическое управление
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>мультиварка</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>650 Вт</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>5 л</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Покрытие чаши</name>
+          <value>тефлоновое</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>3D нагрев</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматические программы</name>
+          <value>приготовление на пару</value>
+        </item>
+        <item>
+          <name>Максимальное время установки таймера</name>
+          <value>12 ч</value>
+        </item>
+        <item>
+          <name>Поддержание тепла</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенный старт</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты и вес</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>25.3x26.9x26.9 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.7 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="22045">
+    <title>Philips HD3039/00</title>
+    <model>HD3039/00</model>
+    <marka>Philips</marka>
+    <catalog id="6161840">Электроварки</catalog>
+    
+    <price1>2668</price1>
+    <price2>5200</price2>
+    <description>
+
+
+мультиварка, объем 4 л, мощность 980 Вт, электронное управление
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>мультиварка</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>980 Вт</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>4 л</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>3D нагрев</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматических программ</name>
+          <value>8, включая: выпечка, крупа, тушение, приготовление на пару</value>
+        </item>
+        <item>
+          <name>Ручная регулировка</name>
+          <value>времени приготовления</value>
+        </item>
+        <item>
+          <name>Поддержание тепла</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенный старт</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты и вес</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>23x29.1x38.9 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4.3 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="22046">
+    <title>Cuckoo CR-0331</title>
+    <model>CR-0331</model>
+    <marka>Cuckoo</marka>
+    <catalog id="6161840">Электроварки</catalog>
+    
+    <price1>3479</price1>
+    <price2>4219</price2>
+    <description>
+
+
+рисоварка, объем 1 л, мощность 360 Вт, механическое управление
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>рисоварка</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>350 Вт</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>1 л</value>
+        </item>
+        <item>
+          <name>Покрытие чаши</name>
+          <value>тефлоновое</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>3D нагрев</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержание тепла</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенный старт</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>ложка для риса, мерный стаканчик</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты и вес</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>27.1x25x25.4 см</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="22050">
+    <title>Cuckoo CR-1051</title>
+    <model>CR-1051</model>
+    <marka>Cuckoo</marka>
+    <catalog id="6161840">Электроварки</catalog>
+    
+    <price1>3899</price1>
+    <price2>6250</price2>
+    <description>
+
+
+рисоварка, объем 1.8 л, мощность 650 Вт, механическое управление
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>рисоварка</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>845 Вт</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>3.5 л</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Покрытие чаши</name>
+          <value>тефлоновое</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>3D нагрев</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержание тепла</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенный старт</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>мерный стакан; ложка; паровая пластина</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты и вес</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>35.6x29.5x33.5 см</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="22052">
+    <title>Cuckoo CR-0632</title>
+    <model>CR-0632</model>
+    <marka>Cuckoo</marka>
+    <catalog id="6161840">Электроварки</catalog>
+    
+    <price1>4750</price1>
+    <price2>4990</price2>
+    <description>
+
+
+рисоварка, объем 1 л, мощность 500 Вт, механическое управление
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>рисоварка</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>500 Вт</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>1 л</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Покрытие чаши</name>
+          <value>тефлоновое</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>3D нагрев</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержание тепла</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенный старт</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>мерный стакан; ложка; паровая пластина</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты и вес</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>27.1x25x25.4 см</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="22054">
+    <title>Moulinex CE 4000</title>
+    <model>CE 4000</model>
+    <marka>Moulinex</marka>
+    <catalog id="6161840">Электроварки</catalog>
+    
+    <price1>2900</price1>
+    <price2>8167</price2>
+    <description>
+
+
+мультиварка, объем 6 л, мощность 1000 Вт, электронное управление
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>скороварка/мультиварка</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>1000 Вт</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>6 л</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Покрытие чаши</name>
+          <value>тефлоновое</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>3D нагрев</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Автоматических программ</name>
+          <value>6, включая: тушение, приготовление на пару</value>
+        </item>
+        <item>
+          <name>Ручная регулировка</name>
+          <value>времени приготовления</value>
+        </item>
+        <item>
+          <name>Поддержание тепла</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенный старт</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="22057">
+    <title>REDMOND RMC-M11</title>
+    <model>RMC-M11</model>
+    <marka>REDMOND</marka>
+    <catalog id="6161840">Электроварки</catalog>
+    
+    <price1>1758</price1>
+    <price2>4540</price2>
+    <description>
+
+
+мультиварка, объем 3 л, мощность 500 Вт, электронное управление
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>мультиварка</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>500 Вт</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>3 л</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Покрытие чаши</name>
+          <value>тефлоновое</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>3D нагрев</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Автоматических программ</name>
+          <value>10, включая: выпечка, каша, крупа, тушение, приготовление на пару, плов, жарка, йогурт, тесто</value>
+        </item>
+        <item>
+          <name>Максимальное время установки таймера</name>
+          <value>24 ч</value>
+        </item>
+        <item>
+          <name>Ручная регулировка</name>
+          <value>времени приготовления</value>
+        </item>
+        <item>
+          <name>Поддержание тепла</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенный старт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>в комплекте: мерный стаканчик, плоская ложечка, черпачок</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты и вес</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>25x25x25 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.4 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="22067">
+    <title>Zigmund &amp;amp;amp; Shtain MC-DS38P</title>
+    <model>Zigmund &amp;amp;amp; Shtain MC-DS38P</model>
+    <marka>Zigmund &amp;amp; Shtain</marka>
+    <catalog id="6161840">Электроварки</catalog>
+    
+    <price1>2691</price1>
+    <price2>4990</price2>
+    <description>
+
+
+мультиварка, объем 5 л, мощность 860 Вт, электронное управление
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>мультиварка</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>860 Вт</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>5 л</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл/пластик</value>
+        </item>
+        <item>
+          <name>Покрытие чаши</name>
+          <value>керамическое</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>3D нагрев</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Автоматических программ</name>
+          <value>10, включая: выпечка, каша, крупа, тушение, приготовление на пару, фритюр, жарка, йогурт</value>
+        </item>
+        <item>
+          <name>Максимальное время установки таймера</name>
+          <value>24 ч</value>
+        </item>
+        <item>
+          <name>Поддержание тепла</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенный старт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>в комплекте: половник, ложка, мерный стакан,  пароварка</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="22073">
+    <title>REDMOND RMC-M4504</title>
+    <model>RMC-M4504</model>
+    <marka>REDMOND</marka>
+    <catalog id="6161840">Электроварки</catalog>
+    
+    <price1>2928</price1>
+    <price2>9099</price2>
+    <description>
+
+
+мультиварка, объем 5 л, мощность 900 Вт, электронное управление
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>скороварка/мультиварка</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>900 Вт</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>5 л</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Покрытие чаши</name>
+          <value>тефлоновое</value>
+        </item>
+        <item>
+          <name>Съемная верхняя крышка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>3D нагрев</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Автоматических программ</name>
+          <value>5, включая: крупа, тушение, приготовление на пару, пастеризация</value>
+        </item>
+        <item>
+          <name>Максимальное время установки таймера</name>
+          <value>9 ч</value>
+        </item>
+        <item>
+          <name>Ручная регулировка</name>
+          <value>времени приготовления</value>
+        </item>
+        <item>
+          <name>Поддержание тепла</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенный старт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>антипригарное покрытие чаши; съемная чаша; съемный паровой клапан</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="22077">
+    <title>Philips HD3033/00</title>
+    <model>HD3033/00</model>
+    <marka>Philips</marka>
+    <catalog id="6161840">Электроварки</catalog>
+    
+    <price1>1800</price1>
+    <price2>6076</price2>
+    <description>
+
+
+мультиварка, объем 4 л, мощность 980 Вт, электронное управление
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>мультиварка</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>980 Вт</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>4 л</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Покрытие чаши</name>
+          <value>тефлоновое</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>3D нагрев</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматические программы</name>
+          <value>выпечка, каша, крупа, тушение, приготовление на пару</value>
+        </item>
+        <item>
+          <name>Ручная регулировка</name>
+          <value>времени приготовления</value>
+        </item>
+        <item>
+          <name>Поддержание тепла</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенный старт</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты и вес</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>29.1x23x37.5 см</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="22086">
+    <title>REDMOND RMC-M20</title>
+    <model>RMC-M20</model>
+    <marka>REDMOND</marka>
+    <catalog id="6161840">Электроварки</catalog>
+    
+    <price1>1900</price1>
+    <price2>4990</price2>
+    <description>
+
+
+мультиварка, объем 5 л, мощность 800 Вт, электронное управление
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>мультиварка</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>800 Вт</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>5 л</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Покрытие чаши</name>
+          <value>тефлоновое</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>3D нагрев</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Автоматических программ</name>
+          <value>10, включая: выпечка, каша, крупа, тушение, приготовление на пару, плов, жарка, йогурт, тесто, пастеризация</value>
+        </item>
+        <item>
+          <name>Максимальное время установки таймера</name>
+          <value>24 ч</value>
+        </item>
+        <item>
+          <name>Ручная регулировка</name>
+          <value>времени приготовления</value>
+        </item>
+        <item>
+          <name>Поддержание тепла</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенный старт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>комплектация: ложка, черпак, мерный стакан, контейнер для приготовления на пару, книга "120 рецептов"</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты и вес</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>28x29x28 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.65 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="22090">
+    <title>Oursson MP5005PSD</title>
+    <model>MP5005PSD</model>
+    <marka>Oursson</marka>
+    <catalog id="6161840">Электроварки</catalog>
+    
+    <price1>6920</price1>
+    <price2>11730</price2>
+    <description>
+
+
+мультиварка, объем 5 л, мощность 1000 Вт, электронное управление
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>мультиварка</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>1200 Вт</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>5 л</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Покрытие чаши</name>
+          <value>керамическое</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>3D нагрев</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Автоматических программ</name>
+          <value>11, включая: выпечка, каша, крупа, тушение, приготовление на пару</value>
+        </item>
+        <item>
+          <name>Максимальное время установки таймера</name>
+          <value>13 ч</value>
+        </item>
+        <item>
+          <name>Поддержание тепла</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенный старт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>возможность отложить начало приготовления от 1 часа до 8 часов 50 минут; поддержание тепла до 12 часов</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты и вес</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>33x30.4x30 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>5.2 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="22106">
+    <title>VES SK-A14</title>
+    <model>SK-A14</model>
+    <marka>VES</marka>
+    <catalog id="6161840">Электроварки</catalog>
+    
+    <price1>1779</price1>
+    <price2>3347</price2>
+    <description>
+
+
+мультиварка, объем 6 л, мощность 900 Вт, электронное управление
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>мультиварка</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>900 Вт</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>6 л</value>
+        </item>
+        <item>
+          <name>Покрытие чаши</name>
+          <value>тефлоновое</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>3D нагрев</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматических программ</name>
+          <value>8, включая: выпечка, каша, крупа, тушение, приготовление на пару, плов, жарка, йогурт</value>
+        </item>
+        <item>
+          <name>Максимальное время установки таймера</name>
+          <value>16 ч</value>
+        </item>
+        <item>
+          <name>Поддержание тепла</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенный старт</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

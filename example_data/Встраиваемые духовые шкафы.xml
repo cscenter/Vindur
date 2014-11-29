@@ -1,0 +1,1998 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="12966">
+    <title>Bosch HBB43C350</title>
+    <model>HBB43C350</model>
+    <marka>Bosch</marka>
+    <catalog id="153977">Встраиваемые духовые шкафы</catalog>
+    
+    <price1>18760</price1>
+    <price2>27990</price2>
+    <description>
+
+электрическая многофункциональная, независимая, конвекция, объём 60 л, таймер с отключением, размеры (ВхШхГ): 59.5x59.5x51.5 см, цвет: серебристый
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Духовка</name>
+          <value>электрическая независимая</value>
+        </item>
+        <item>
+          <name>Объём духовки</name>
+          <value>53 л</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс А, мощность подключения 3.58 кВт</value>
+        </item>
+        <item>
+          <name>Размеры (ВхШхГ)</name>
+          <value>59.5 х 59.5 x 51.5 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы</name>
+        <item>
+          <name>Режимов нагрева</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Гриль</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конвекция</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размораживание</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальная температура</name>
+          <value>250 °С</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Переключатели</name>
+          <value>утапливаемые</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть, с отключением</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть, символьный</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Вертел</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дверца духовки</name>
+          <value>выдвижная</value>
+        </item>
+        <item>
+          <name>Число стекол дверцы</name>
+          <value>два</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>подсветка камеры,  вентилятор охлаждения,  система защиты от детей,  защитное отключение</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть, электронные</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="12968">
+    <title>Bosch HBB33C550</title>
+    <model>HBB33C550</model>
+    <marka>Bosch</marka>
+    <catalog id="153977">Встраиваемые духовые шкафы</catalog>
+    
+    <price1>21686</price1>
+    <price2>31990</price2>
+    <description>
+
+электрическая многофункциональная, независимая, конвекция, объём 65 л, таймер с отключением, размеры (ВхШхГ): 59.5x59.5x54.8 см, цвет: серебристый
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Духовка</name>
+          <value>электрическая независимая</value>
+        </item>
+        <item>
+          <name>Объём духовки</name>
+          <value>65 л</value>
+        </item>
+        <item>
+          <name>Размеры (ВхШхГ)</name>
+          <value>59.5 х 59.5 x 54.8 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы</name>
+        <item>
+          <name>Режимов нагрева</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Гриль</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конвекция</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Переключатели</name>
+          <value>утапливаемые</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть, с отключением</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть, символьный</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Вертел</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дверца духовки</name>
+          <value>выдвижная</value>
+        </item>
+        <item>
+          <name>Число стекол дверцы</name>
+          <value>три</value>
+        </item>
+        <item>
+          <name>Очистка духовки</name>
+          <value>каталитическая</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>подсветка камеры,  вентилятор охлаждения,  система защиты от детей</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть, электронные</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>система "Multifunction 3D Plus"; автоматический быстрый разогрев; эмалированный противень; универсальный противень; решетка</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="12972">
+    <title>Bosch HBA23RN61</title>
+    <model>HBA23RN61</model>
+    <marka>Bosch</marka>
+    <catalog id="153977">Встраиваемые духовые шкафы</catalog>
+    
+    <price1>15030</price1>
+    <price2>26990</price2>
+    <description>
+
+электрическая многофункциональная, независимая, конвекция, объём 53 л, таймер с отключением, размеры (ВхШхГ): 59.5x59.5x51.5 см, цвет: чёрный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Духовка</name>
+          <value>электрическая независимая</value>
+        </item>
+        <item>
+          <name>Объём духовки</name>
+          <value>53 л</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс А, мощность подключения 2.35 кВт</value>
+        </item>
+        <item>
+          <name>Размеры (ВхШхГ)</name>
+          <value>59.5 х 59.5 x 51.5 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы</name>
+        <item>
+          <name>Режимов нагрева</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Гриль</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конвекция</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальная температура</name>
+          <value>270 °С</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Переключатели</name>
+          <value>поворотные</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть, с отключением</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Вертел</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Телескопические направляющие</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>подсветка камеры,  вентилятор охлаждения</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть, аналоговые</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>чёрный</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>эмаль "GranitEmail"</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="12974">
+    <title>Bosch HBA23BN61</title>
+    <model>HBA23BN61</model>
+    <marka>Bosch</marka>
+    <catalog id="153977">Встраиваемые духовые шкафы</catalog>
+    
+    <price1>15948</price1>
+    <price2>24490</price2>
+    <description>
+
+электрическая многофункциональная, независимая, конвекция, таймер с отключением, размеры (ВхШхГ): 59.5x59.5x51.5 см, цвет: чёрный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Духовка</name>
+          <value>электрическая независимая</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс А, мощность подключения 2.35 кВт</value>
+        </item>
+        <item>
+          <name>Размеры (ВхШхГ)</name>
+          <value>59.5 х 59.5 x 51.5 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы</name>
+        <item>
+          <name>Режимов нагрева</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Гриль</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конвекция</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Переключатели</name>
+          <value>поворотные</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть, с отключением</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Вертел</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>подсветка камеры,  вентилятор охлаждения</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть, аналоговые</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>чёрный</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>эмаль "GranitEmail"; телескопические направляющие опция</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="12981">
+    <title>Bosch HBG33B560</title>
+    <model>HBG33B560</model>
+    <marka>Bosch</marka>
+    <catalog id="153977">Встраиваемые духовые шкафы</catalog>
+    
+    <price1>17090</price1>
+    <price2>25990</price2>
+    <description>
+
+электрическая многофункциональная, независимая, конвекция, объём 67 л, размеры (ВхШхГ): 59.5x59.5x54.8 см, цвет: чёрный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Духовка</name>
+          <value>электрическая независимая</value>
+        </item>
+        <item>
+          <name>Объём духовки</name>
+          <value>67 л</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс А, мощность подключения 3.50 кВт</value>
+        </item>
+        <item>
+          <name>Размеры (ВхШхГ)</name>
+          <value>59.5 х 59.5 x 54.8 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы</name>
+        <item>
+          <name>Режимов нагрева</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Гриль</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конвекция</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размораживание</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Переключатели</name>
+          <value>утапливаемые</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть, цифровой</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Вертел</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дверца духовки</name>
+          <value>откидная</value>
+        </item>
+        <item>
+          <name>Число стекол дверцы</name>
+          <value>три</value>
+        </item>
+        <item>
+          <name>Очистка духовки</name>
+          <value>каталитическая</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>подсветка камеры,  вентилятор охлаждения,  система защиты от детей</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть, электронные</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>чёрный</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="12985">
+    <title>Bosch HBG33B520</title>
+    <model>HBG33B520</model>
+    <marka>Bosch</marka>
+    <catalog id="153977">Встраиваемые духовые шкафы</catalog>
+    
+    <price1>17286</price1>
+    <price2>25990</price2>
+    <description>
+
+электрическая многофункциональная, независимая, конвекция, объём 67 л, размеры (ВхШхГ): 59.5x59.5x54.8 см, цвет: белый
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Духовка</name>
+          <value>электрическая независимая</value>
+        </item>
+        <item>
+          <name>Объём духовки</name>
+          <value>67 л</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс А, мощность подключения 3.50 кВт</value>
+        </item>
+        <item>
+          <name>Размеры (ВхШхГ)</name>
+          <value>59.5 х 59.5 x 54.8 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы</name>
+        <item>
+          <name>Режимов нагрева</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Гриль</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конвекция</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размораживание</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Переключатели</name>
+          <value>утапливаемые</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть, цифровой</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Вертел</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дверца духовки</name>
+          <value>откидная</value>
+        </item>
+        <item>
+          <name>Число стекол дверцы</name>
+          <value>три</value>
+        </item>
+        <item>
+          <name>Очистка духовки</name>
+          <value>каталитическая</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>подсветка камеры,  вентилятор охлаждения,  система защиты от детей</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть, электронные</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>белый</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="12988">
+    <title>Bosch HBG36T650</title>
+    <model>HBG36T650</model>
+    <marka>Bosch</marka>
+    <catalog id="153977">Встраиваемые духовые шкафы</catalog>
+    
+    <price1>28310</price1>
+    <price2>44990</price2>
+    <description>
+
+электрическая многофункциональная, независимая, конвекция, объём 67 л, размеры (ВхШхГ): 59.5x59.5x55 см, цвет: серебристый
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Духовка</name>
+          <value>электрическая независимая</value>
+        </item>
+        <item>
+          <name>Объём духовки</name>
+          <value>67 л</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс А, мощность подключения 3.65 кВт</value>
+        </item>
+        <item>
+          <name>Размеры (ВхШхГ)</name>
+          <value>59.5 х 59.5 x 55 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы</name>
+        <item>
+          <name>Режимов нагрева</name>
+          <value>10</value>
+        </item>
+        <item>
+          <name>Автоматических программ</name>
+          <value>40</value>
+        </item>
+        <item>
+          <name>Гриль</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конвекция</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размораживание</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальная температура</name>
+          <value>275 °С</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Переключатели</name>
+          <value>утапливаемые</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть, символьный</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Вертел</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дверца духовки</name>
+          <value>откидная</value>
+        </item>
+        <item>
+          <name>Телескопические направляющие</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Число стекол дверцы</name>
+          <value>четыре</value>
+        </item>
+        <item>
+          <name>Очистка духовки</name>
+          <value>каталитическая</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>подсветка камеры,  вентилятор охлаждения,  система защиты от детей,  защитное отключение</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть, электронные</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="12992">
+    <title>Bosch HBC33B550</title>
+    <model>HBC33B550</model>
+    <marka>Bosch</marka>
+    <catalog id="153977">Встраиваемые духовые шкафы</catalog>
+    
+    <price1>18753</price1>
+    <price2>27990</price2>
+    <description>
+
+электрическая многофункциональная, независимая, конвекция, объём 45 л, таймер с отключением, размеры (ВхШхГ): 45.4x59.5x55 см, цвет: серебристый
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Духовка</name>
+          <value>электрическая независимая</value>
+        </item>
+        <item>
+          <name>Объём духовки</name>
+          <value>45 л</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс А, мощность подключения 2.80 кВт</value>
+        </item>
+        <item>
+          <name>Размеры (ВхШхГ)</name>
+          <value>45.4 х 59.5 x 55 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы</name>
+        <item>
+          <name>Режимов нагрева</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Гриль</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конвекция</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размораживание</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Переключатели</name>
+          <value>утапливаемые</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть, с отключением</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть, символьный</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Вертел</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дверца духовки</name>
+          <value>откидная</value>
+        </item>
+        <item>
+          <name>Число стекол дверцы</name>
+          <value>три</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>подсветка камеры,  вентилятор охлаждения,  система защиты от детей</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть, электронные</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>система "Multifunction 3D Plus"; автоматический быстрый разогрев; температура фронта дверцы духовки до 50°С; эмалированный противень; универсальный противень; решетка; эмаль "GranitEmail"; самоочистка "EcoClean" (задняя стенка духовки); телескопические направляющие опция</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="12994">
+    <title>Hotpoint-Ariston FTR 850 (AN)</title>
+    <model>FTR 850 (AN)</model>
+    <marka>Hotpoint-Ariston</marka>
+    <catalog id="153977">Встраиваемые духовые шкафы</catalog>
+    
+    <price1>12043</price1>
+    <price2>14910</price2>
+    <description>
+
+электрическая многофункциональная, независимая, гриль электрический, конвекция, объём 56 л, таймер с отключением, размеры (ВхШхГ): 60x60x-- см, цвет: чёрный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Духовка</name>
+          <value>электрическая независимая</value>
+        </item>
+        <item>
+          <name>Объём духовки</name>
+          <value>56 л</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс А</value>
+        </item>
+        <item>
+          <name>Размеры (ВхШ)</name>
+          <value>60 х 60 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы</name>
+        <item>
+          <name>Режимов нагрева</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Гриль</name>
+          <value>есть, электрический</value>
+        </item>
+        <item>
+          <name>Конвекция</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Переключатели</name>
+          <value>поворотные</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть, с отключением</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Вертел</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дверца духовки</name>
+          <value>откидная</value>
+        </item>
+        <item>
+          <name>Число стекол дверцы</name>
+          <value>три</value>
+        </item>
+        <item>
+          <name>Очистка духовки</name>
+          <value>традиционная</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>подсветка камеры,  вентилятор охлаждения</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть, аналоговые</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>чёрный</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="13001">
+    <title>Bosch HBC84K563</title>
+    <model>HBC84K563</model>
+    <marka>Bosch</marka>
+    <catalog id="153977">Встраиваемые духовые шкафы</catalog>
+    
+    <price1>29745</price1>
+    <price2>44990</price2>
+    <description>
+
+электрическая многофункциональная, независимая, функция СВЧ, конвекция, объём 42 л, таймер с отключением, размеры (ВхШхГ): 45.4x59.5x53.1 см, цвет: чёрный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Духовка</name>
+          <value>электрическая независимая</value>
+        </item>
+        <item>
+          <name>Объём духовки</name>
+          <value>42 л</value>
+        </item>
+        <item>
+          <name>Размеры (ВхШхГ)</name>
+          <value>45.4 х 59.5 x 53.1 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы</name>
+        <item>
+          <name>Режимов нагрева</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Автоматических программ</name>
+          <value>20</value>
+        </item>
+        <item>
+          <name>Функция СВЧ</name>
+          <value> есть, 900 Вт</value>
+        </item>
+        <item>
+          <name>Гриль</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конвекция</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Переключатели</name>
+          <value>утапливаемые</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть, с отключением</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть, цифровой</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Вертел</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дверца духовки</name>
+          <value>откидная</value>
+        </item>
+        <item>
+          <name>Очистка духовки</name>
+          <value>каталитическая</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>подсветка камеры,  вентилятор охлаждения,  система защиты от детей,  защитное отключение</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть, электронные</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>чёрный</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>5 уровней СВЧ</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="13025">
+    <title>Bosch HBN231E0</title>
+    <model>HBN231E0</model>
+    <marka>Bosch</marka>
+    <catalog id="153977">Встраиваемые духовые шкафы</catalog>
+    
+    <price1>10950</price1>
+    <price2>15490</price2>
+    <description>
+
+электрическая многофункциональная, независимая, конвекция, объём 52 л, размеры (ВхШхГ): 59.5x59.5x54.8 см, цвет: серебристый
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Духовка</name>
+          <value>электрическая независимая</value>
+        </item>
+        <item>
+          <name>Объём духовки</name>
+          <value>52 л</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>мощность подключения 2.80 кВт</value>
+        </item>
+        <item>
+          <name>Размеры (ВхШхГ)</name>
+          <value>59.5 х 59.5 x 54.8 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы</name>
+        <item>
+          <name>Режимов нагрева</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Гриль</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конвекция</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Переключатели</name>
+          <value>поворотные</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть, цифровой</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Вертел</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дверца духовки</name>
+          <value>откидная</value>
+        </item>
+        <item>
+          <name>Число стекол дверцы</name>
+          <value>два</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>подсветка камеры,  вентилятор охлаждения,  система защиты от детей,  защитное отключение</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть, электронные</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>Гладкие стенки духовки с хромированными лестничками; Универсальный противень; Алюминиевый противень; Комбинированная решетка</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="13029">
+    <title>Bosch HBA42S350E</title>
+    <model>HBA42S350E</model>
+    <marka>Bosch</marka>
+    <catalog id="153977">Встраиваемые духовые шкафы</catalog>
+    
+    <price1>15547</price1>
+    <price2>23990</price2>
+    <description>
+
+электрическая многофункциональная, независимая, конвекция, объём 53 л, размеры (ВхШхГ): 59.5x59.5x51.5 см, цвет: серебристый
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Духовка</name>
+          <value>электрическая независимая</value>
+        </item>
+        <item>
+          <name>Объём духовки</name>
+          <value>53 л</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс А, мощность подключения 3.58 кВт</value>
+        </item>
+        <item>
+          <name>Размеры (ВхШхГ)</name>
+          <value>59.5 х 59.5 x 51.5 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы</name>
+        <item>
+          <name>Режимов нагрева</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Гриль</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конвекция</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размораживание</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальная температура</name>
+          <value>270 °С</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Переключатели</name>
+          <value>утапливаемые</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть, цифровой</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Вертел</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дверца духовки</name>
+          <value>откидная</value>
+        </item>
+        <item>
+          <name>Телескопические направляющие</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Число стекол дверцы</name>
+          <value>два</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>подсветка камеры,  вентилятор охлаждения,  система защиты от детей,  защитное отключение</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>система Multifunction 2D; автоматический быстрый разогрев; система очистки EcoClean</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="13048">
+    <title>Bosch HBG33B550</title>
+    <model>HBG33B550</model>
+    <marka>Bosch</marka>
+    <catalog id="153977">Встраиваемые духовые шкафы</catalog>
+    
+    <price1>17400</price1>
+    <price2>26990</price2>
+    <description>
+
+электрическая многофункциональная, независимая, конвекция, объём 67 л, размеры (ВхШхГ): 59.5x59.5x54.8 см, цвет: серебристый
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Духовка</name>
+          <value>электрическая независимая</value>
+        </item>
+        <item>
+          <name>Объём духовки</name>
+          <value>67 л</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс А, мощность подключения 3.50 кВт</value>
+        </item>
+        <item>
+          <name>Размеры (ВхШхГ)</name>
+          <value>59.5 х 59.5 x 54.8 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы</name>
+        <item>
+          <name>Режимов нагрева</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Гриль</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конвекция</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размораживание</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Переключатели</name>
+          <value>утапливаемые</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть, цифровой</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Вертел</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дверца духовки</name>
+          <value>откидная</value>
+        </item>
+        <item>
+          <name>Число стекол дверцы</name>
+          <value>три</value>
+        </item>
+        <item>
+          <name>Очистка духовки</name>
+          <value>каталитическая</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>подсветка камеры,  вентилятор охлаждения,  система защиты от детей</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть, электронные</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="13060">
+    <title>Bosch HBA24U250</title>
+    <model>HBA24U250</model>
+    <marka>Bosch</marka>
+    <catalog id="153977">Встраиваемые духовые шкафы</catalog>
+    
+    <price1>18480</price1>
+    <price2>29490</price2>
+    <description>
+
+электрическая многофункциональная, независимая, конвекция, объём 58 л, таймер с отключением, размеры (ВхШхГ): 59.5x59.5x58.4 см, цвет: серебристый
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Духовка</name>
+          <value>электрическая независимая</value>
+        </item>
+        <item>
+          <name>Объём духовки</name>
+          <value>67 л</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс А, мощность подключения 3.50 кВт</value>
+        </item>
+        <item>
+          <name>Размеры (ВхШхГ)</name>
+          <value>59.5 х 59.5 x 54.8 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы</name>
+        <item>
+          <name>Режимов нагрева</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Автоматических программ</name>
+          <value>10</value>
+        </item>
+        <item>
+          <name>Гриль</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конвекция</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальная температура</name>
+          <value>270 °С</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Переключатели</name>
+          <value>утапливаемые</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть, с отключением</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть, символьный</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Вертел</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дверца духовки</name>
+          <value>откидная</value>
+        </item>
+        <item>
+          <name>Телескопические направляющие</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Число стекол дверцы</name>
+          <value>два</value>
+        </item>
+        <item>
+          <name>Очистка духовки</name>
+          <value>традиционная</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>подсветка камеры,  вентилятор охлаждения,  система защиты от детей,  защитное отключение</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть, электронные</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="13067">
+    <title>Bosch HBG43T450</title>
+    <model>HBG43T450</model>
+    <marka>Bosch</marka>
+    <catalog id="153977">Встраиваемые духовые шкафы</catalog>
+    
+    <price1>15300</price1>
+    <price2>25490</price2>
+    <description>
+
+электрическая многофункциональная, независимая, конвекция, объём 62 л, размеры (ВхШхГ): 59.5x59.5x51.5 см, цвет: серебристый
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Духовка</name>
+          <value>электрическая независимая</value>
+        </item>
+        <item>
+          <name>Объём духовки</name>
+          <value>62 л</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс А, мощность подключения 3.85 кВт</value>
+        </item>
+        <item>
+          <name>Размеры (ВхШхГ)</name>
+          <value>59.5 х 59.5 x 51.5 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы</name>
+        <item>
+          <name>Режимов нагрева</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Гриль</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конвекция</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размораживание</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальная температура</name>
+          <value>270 °С</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Переключатели</name>
+          <value>утапливаемые</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть, символьный</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Вертел</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дверца духовки</name>
+          <value>откидная</value>
+        </item>
+        <item>
+          <name>Телескопические направляющие</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Число стекол дверцы</name>
+          <value>два</value>
+        </item>
+        <item>
+          <name>Очистка духовки</name>
+          <value>каталитическая</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>подсветка камеры,  вентилятор охлаждения,  система защиты от детей,  защитное отключение</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть, электронные</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="13070">
+    <title>Hotpoint-Ariston FHR G (AN)</title>
+    <model>FHR G (AN)</model>
+    <marka>Hotpoint-Ariston</marka>
+    <catalog id="153977">Встраиваемые духовые шкафы</catalog>
+    
+    <price1>11950</price1>
+    <price2>14795</price2>
+    <description>
+
+газовая, независимая, объём 58 л, газ-контроль, таймер звуковой, размеры (ВхШхГ): 60x60x56 см, цвет: чёрный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Духовка</name>
+          <value>газовая независимая</value>
+        </item>
+        <item>
+          <name>Объём духовки</name>
+          <value>58 л</value>
+        </item>
+        <item>
+          <name>Размеры (ВхШхГ)</name>
+          <value>60 х 60 x 56 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы</name>
+        <item>
+          <name>Режимов нагрева</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Гриль</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конвекция</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Переключатели</name>
+          <value>поворотные</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть, звуковой</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Газ-контроль</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Вертел</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дверца духовки</name>
+          <value>откидная</value>
+        </item>
+        <item>
+          <name>Число стекол дверцы</name>
+          <value>два</value>
+        </item>
+        <item>
+          <name>Очистка духовки</name>
+          <value>традиционная</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>подсветка камеры,  вентилятор охлаждения</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>чёрный</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="13072">
+    <title>Bosch HBN231S0</title>
+    <model>HBN231S0</model>
+    <marka>Bosch</marka>
+    <catalog id="153977">Встраиваемые духовые шкафы</catalog>
+    
+    <price1>10750</price1>
+    <price2>14490</price2>
+    <description>
+
+электрическая многофункциональная, независимая, конвекция, объём 52 л, размеры (ВхШхГ): 59.5x59.5x54.8 см, цвет: чёрный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Духовка</name>
+          <value>электрическая независимая</value>
+        </item>
+        <item>
+          <name>Объём духовки</name>
+          <value>52 л</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>мощность подключения 2.80 кВт</value>
+        </item>
+        <item>
+          <name>Размеры (ВхШхГ)</name>
+          <value>59.5 х 59.5 x 54.8 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы</name>
+        <item>
+          <name>Режимов нагрева</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Гриль</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конвекция</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Переключатели</name>
+          <value>поворотные</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть, цифровой</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Вертел</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дверца духовки</name>
+          <value>откидная</value>
+        </item>
+        <item>
+          <name>Число стекол дверцы</name>
+          <value>два</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>подсветка камеры,  вентилятор охлаждения,  система защиты от детей,  защитное отключение</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть, электронные</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>чёрный</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>Гладкие стенки духовки с хромированными лестничками; Универсальный противень; Алюминиевый противень; Комбинированная решетка</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="13074">
+    <title>Hotpoint-Ariston FHR G (OW)</title>
+    <model>FHR G (OW)</model>
+    <marka>Hotpoint-Ariston</marka>
+    <catalog id="153977">Встраиваемые духовые шкафы</catalog>
+    
+    <price1>11620</price1>
+    <price2>15035</price2>
+    <description>
+
+газовая, независимая, объём 58 л, газ-контроль, таймер звуковой, размеры (ВхШхГ): 60x60x56 см, цвет: белый
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Духовка</name>
+          <value>газовая независимая</value>
+        </item>
+        <item>
+          <name>Объём духовки</name>
+          <value>58 л</value>
+        </item>
+        <item>
+          <name>Размеры (ВхШхГ)</name>
+          <value>60 х 60 x 56 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы</name>
+        <item>
+          <name>Режимов нагрева</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Гриль</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конвекция</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Переключатели</name>
+          <value>поворотные</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть, звуковой</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Газ-контроль</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Вертел</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дверца духовки</name>
+          <value>откидная</value>
+        </item>
+        <item>
+          <name>Число стекол дверцы</name>
+          <value>два</value>
+        </item>
+        <item>
+          <name>Очистка духовки</name>
+          <value>традиционная</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>подсветка камеры,  вентилятор охлаждения</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>белый</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="13076">
+    <title>Gorenje BO 71-ORA-B</title>
+    <model>BO 71-ORA-B</model>
+    <marka>Gorenje</marka>
+    <catalog id="153977">Встраиваемые духовые шкафы</catalog>
+    
+    <price1>17595</price1>
+    <price2>21314</price2>
+    <description>
+
+электрическая многофункциональная, независимая, конвекция, размеры (ВхШхГ): 59.5x59.7x56.5 см, цвет: чёрный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Духовка</name>
+          <value>электрическая независимая</value>
+        </item>
+        <item>
+          <name>Объём духовки</name>
+          <value>65 л</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс А, мощность подключения 3.30 кВт</value>
+        </item>
+        <item>
+          <name>Размеры (ВхШхГ)</name>
+          <value>59.5 х 59.7 x 56.5 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы</name>
+        <item>
+          <name>Режимов нагрева</name>
+          <value>9</value>
+        </item>
+        <item>
+          <name>Гриль</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конвекция</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размораживание</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Переключатели</name>
+          <value>утапливаемые</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Вертел</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дверца духовки</name>
+          <value>откидная</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>подсветка камеры,  вентилятор охлаждения,  система защиты от детей</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>чёрный</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="13105">
+    <title>Hotpoint-Ariston FTR 850 (OW)</title>
+    <model>FTR 850 (OW)</model>
+    <marka>Hotpoint-Ariston</marka>
+    <catalog id="153977">Встраиваемые духовые шкафы</catalog>
+    
+    <price1>12798</price1>
+    <price2>15420</price2>
+    <description>
+
+электрическая многофункциональная, независимая, гриль электрический, конвекция, объём 56 л, таймер с отключением, размеры (ВхШхГ): 60x60x-- см, цвет: белый
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Духовка</name>
+          <value>электрическая независимая</value>
+        </item>
+        <item>
+          <name>Объём духовки</name>
+          <value>56 л</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс А</value>
+        </item>
+        <item>
+          <name>Размеры (ВхШ)</name>
+          <value>60 х 60 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы</name>
+        <item>
+          <name>Режимов нагрева</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Гриль</name>
+          <value>есть, электрический</value>
+        </item>
+        <item>
+          <name>Конвекция</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Переключатели</name>
+          <value>поворотные</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть, с отключением</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Вертел</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дверца духовки</name>
+          <value>откидная</value>
+        </item>
+        <item>
+          <name>Число стекол дверцы</name>
+          <value>три</value>
+        </item>
+        <item>
+          <name>Очистка духовки</name>
+          <value>традиционная</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>подсветка камеры,  вентилятор охлаждения</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть, аналоговые</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>бежевый</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

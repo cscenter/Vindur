@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="100426">
+    <title>Makita GA9020</title>
+    <model>GA9020</model>
+    <marka>Makita</marka>
+    <catalog id="948421">Шлифовальные машины</catalog>
+    
+    <price1>3684</price1>
+    <price2>6590</price2>
+    <description>
+угловая, мощность 2200 Вт, частота вращения 6600 об/мин, резьба шпинделя M14, диаметр диска 230 мм, вес 4.7 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип машины</name>
+          <value>угловая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>2200 Вт</value>
+        </item>
+        <item>
+          <name>Макс. частота вращения диска</name>
+          <value>6600 об/мин</value>
+        </item>
+        <item>
+          <name>Макс. диаметр диска</name>
+          <value>230 мм</value>
+        </item>
+        <item>
+          <name>Резьба шпинделя</name>
+          <value>M14</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value> от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции и возможности</name>
+        <item>
+          <name>Возможности</name>
+          <value> фиксация шпинделя,  система стабилизации оборотов</value>
+        </item>
+        <item>
+          <name>Дополнительная рукоятка</name>
+          <value>трехпозиционная</value>
+        </item>
+        <item>
+          <name>Длина сетевого кабеля</name>
+          <value>2.5 м</value>
+        </item>
+        <item>
+          <name>Размеры (Д х В)</name>
+          <value>473 x 140 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4.7 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="100428">
+    <title>Makita 9069</title>
+    <model>9069</model>
+    <marka>Makita</marka>
+    <catalog id="948421">Шлифовальные машины</catalog>
+    
+    <price1>3560</price1>
+    <price2>5631</price2>
+    <description>
+угловая, мощность 2000 Вт, частота вращения 6600 об/мин, резьба шпинделя M14, диаметр диска 230 мм, вес 4.2 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип машины</name>
+          <value>угловая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>2000 Вт</value>
+        </item>
+        <item>
+          <name>Макс. частота вращения диска</name>
+          <value>6600 об/мин</value>
+        </item>
+        <item>
+          <name>Макс. диаметр диска</name>
+          <value>230 мм</value>
+        </item>
+        <item>
+          <name>Резьба шпинделя</name>
+          <value>M14</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value> от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции и возможности</name>
+        <item>
+          <name>Возможности</name>
+          <value> ограничение пускового тока,  блокировка кнопки включения</value>
+        </item>
+        <item>
+          <name>Дополнительная рукоятка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4.2 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Особенности</name>
+          <value>Лабиринтное уплотнение для защиты от пыли и грязи. Заменяемые снаружи угольные щетки.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="100431">
+    <title>Makita 9555HN</title>
+    <model>9555HN</model>
+    <marka>Makita</marka>
+    <catalog id="948421">Шлифовальные машины</catalog>
+    
+    <price1>2139</price1>
+    <price2>3462</price2>
+    <description>
+угловая, мощность 710 Вт, частота вращения 10000 об/мин, резьба шпинделя M14, диаметр диска 125 мм, вес 1.4 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип машины</name>
+          <value>угловая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>710 Вт</value>
+        </item>
+        <item>
+          <name>Макс. частота вращения диска</name>
+          <value>10000 об/мин</value>
+        </item>
+        <item>
+          <name>Макс. диаметр диска</name>
+          <value>125 мм</value>
+        </item>
+        <item>
+          <name>Резьба шпинделя</name>
+          <value>M14</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value> от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции и возможности</name>
+        <item>
+          <name>Возможности</name>
+          <value> фиксация шпинделя,  блокировка кнопки включения</value>
+        </item>
+        <item>
+          <name>Дополнительная рукоятка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Длина сетевого кабеля</name>
+          <value>2.5 м</value>
+        </item>
+        <item>
+          <name>Длина</name>
+          <value>258 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.4 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="100434">
+    <title>Makita 9910</title>
+    <model>9910</model>
+    <marka>Makita</marka>
+    <catalog id="948421">Шлифовальные машины</catalog>
+    
+    <price1>3733</price1>
+    <price2>11604</price2>
+    <description>
+ленточная, мощность 650 Вт, скорость ленты 270 м/мин, длина ленты 457 мм, ширина  ленты 76 мм, вес 2.6 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип машины</name>
+          <value>ленточная</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>650 Вт</value>
+        </item>
+        <item>
+          <name>Макс. скорость ленты</name>
+          <value>270 м/мин</value>
+        </item>
+        <item>
+          <name>Длина ленты</name>
+          <value>457 мм</value>
+        </item>
+        <item>
+          <name>Ширина ленты</name>
+          <value>76 мм</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value> от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции и возможности</name>
+        <item>
+          <name>Возможности</name>
+          <value> пылесборник</value>
+        </item>
+        <item>
+          <name>Размеры (Д х В)</name>
+          <value>262 x 130 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.6 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Особенности</name>
+          <value>Автоматическая центровка ленты. Двойная защитная изоляция.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="100440">
+    <title>Makita 9554HN</title>
+    <model>9554HN</model>
+    <marka>Makita</marka>
+    <catalog id="948421">Шлифовальные машины</catalog>
+    
+    <price1>2180</price1>
+    <price2>2780</price2>
+    <description>
+угловая, мощность 710 Вт, частота вращения 10000 об/мин, резьба шпинделя M14, диаметр диска 115 мм, вес 1.4 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип машины</name>
+          <value>угловая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>710 Вт</value>
+        </item>
+        <item>
+          <name>Макс. частота вращения диска</name>
+          <value>10000 об/мин</value>
+        </item>
+        <item>
+          <name>Макс. диаметр диска</name>
+          <value>115 мм</value>
+        </item>
+        <item>
+          <name>Резьба шпинделя</name>
+          <value>M14</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value> от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции и возможности</name>
+        <item>
+          <name>Возможности</name>
+          <value> фиксация шпинделя,  блокировка кнопки включения</value>
+        </item>
+        <item>
+          <name>Дополнительная рукоятка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.4 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="100446">
+    <title>Makita 9911</title>
+    <model>9911</model>
+    <marka>Makita</marka>
+    <catalog id="948421">Шлифовальные машины</catalog>
+    
+    <price1>4459</price1>
+    <price2>7230</price2>
+    <description>
+ленточная, мощность 650 Вт, скорость ленты 270 м/мин, длина ленты 457 мм, ширина  ленты 76 мм, вес 2.6 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип машины</name>
+          <value>ленточная</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>650 Вт</value>
+        </item>
+        <item>
+          <name>Макс. скорость ленты</name>
+          <value>270 м/мин</value>
+        </item>
+        <item>
+          <name>Длина ленты</name>
+          <value>457 мм</value>
+        </item>
+        <item>
+          <name>Ширина ленты</name>
+          <value>76 мм</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value> от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции и возможности</name>
+        <item>
+          <name>Возможности</name>
+          <value> регулировка частоты вращения,  пылесборник</value>
+        </item>
+        <item>
+          <name>Размеры (Д х В)</name>
+          <value>262 x 130 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.6 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Особенности</name>
+          <value>автоматическая центровка ленты, двойная защитная изоляция</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="100449">
+    <title>Makita 9565</title>
+    <model>9565</model>
+    <marka>Makita</marka>
+    <catalog id="948421">Шлифовальные машины</catalog>
+    
+    <price1>3820</price1>
+    <price2>7590</price2>
+    <description>
+угловая, мощность 1400 Вт, частота вращения 10500 об/мин, резьба шпинделя M14, диаметр диска 125 мм, вес 1.8 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип машины</name>
+          <value>угловая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>1400 Вт</value>
+        </item>
+        <item>
+          <name>Макс. частота вращения диска</name>
+          <value>10500 об/мин</value>
+        </item>
+        <item>
+          <name>Макс. диаметр диска</name>
+          <value>125 мм</value>
+        </item>
+        <item>
+          <name>Резьба шпинделя</name>
+          <value>M14</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value> от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции и возможности</name>
+        <item>
+          <name>Возможности</name>
+          <value> ограничение пускового тока,  фиксация шпинделя,  система стабилизации оборотов</value>
+        </item>
+        <item>
+          <name>Дополнительная рукоятка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (Д х В)</name>
+          <value>299 x 139 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.8 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="100452">
+    <title>Makita 9558HN</title>
+    <model>9558HN</model>
+    <marka>Makita</marka>
+    <catalog id="948421">Шлифовальные машины</catalog>
+    
+    <price1>2789</price1>
+    <price2>4206</price2>
+    <description>
+угловая, мощность 840 Вт, частота вращения 11000 об/мин, резьба шпинделя M14, диаметр диска 125 мм, вес 1.6 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип машины</name>
+          <value>угловая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>840 Вт</value>
+        </item>
+        <item>
+          <name>Макс. частота вращения диска</name>
+          <value>11000 об/мин</value>
+        </item>
+        <item>
+          <name>Макс. диаметр диска</name>
+          <value>125 мм</value>
+        </item>
+        <item>
+          <name>Резьба шпинделя</name>
+          <value>M14</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value> от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции и возможности</name>
+        <item>
+          <name>Возможности</name>
+          <value> фиксация шпинделя,  блокировка кнопки включения</value>
+        </item>
+        <item>
+          <name>Дополнительная рукоятка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.6 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="100459">
+    <title>Makita 9069SF</title>
+    <model>9069SF</model>
+    <marka>Makita</marka>
+    <catalog id="948421">Шлифовальные машины</catalog>
+    
+    <price1>3930</price1>
+    <price2>6270</price2>
+    <description>
+угловая, мощность 2000 Вт, частота вращения 6600 об/мин, резьба шпинделя M14, диаметр диска 230 мм, вес 4.2 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип машины</name>
+          <value>угловая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>2000 Вт</value>
+        </item>
+        <item>
+          <name>Макс. частота вращения диска</name>
+          <value>6600 об/мин</value>
+        </item>
+        <item>
+          <name>Макс. диаметр диска</name>
+          <value>230 мм</value>
+        </item>
+        <item>
+          <name>Резьба шпинделя</name>
+          <value>M14</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value> от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции и возможности</name>
+        <item>
+          <name>Возможности</name>
+          <value> ограничение пускового тока,  фиксация шпинделя,  блокировка кнопки включения</value>
+        </item>
+        <item>
+          <name>Дополнительная рукоятка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4.2 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Особенности</name>
+          <value>Лабиринтное уплотнение для защиты от пыли и грязи. Быстрозажимная гайка "Суперфланец". Заменяемые снаружи угольные щетки.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="100470">
+    <title>Makita GA9020SF</title>
+    <model>GA9020SF</model>
+    <marka>Makita</marka>
+    <catalog id="948421">Шлифовальные машины</catalog>
+    
+    <price1>4555</price1>
+    <price2>7210</price2>
+    <description>
+угловая, мощность 2200 Вт, частота вращения 6600 об/мин, резьба шпинделя M14, диаметр диска 230 мм, вес 4.7 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип машины</name>
+          <value>угловая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>2200 Вт</value>
+        </item>
+        <item>
+          <name>Макс. частота вращения диска</name>
+          <value>6600 об/мин</value>
+        </item>
+        <item>
+          <name>Макс. диаметр диска</name>
+          <value>230 мм</value>
+        </item>
+        <item>
+          <name>Резьба шпинделя</name>
+          <value>M14</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value> от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции и возможности</name>
+        <item>
+          <name>Возможности</name>
+          <value> ограничение пускового тока,  фиксация шпинделя</value>
+        </item>
+        <item>
+          <name>Дополнительная рукоятка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4.7 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="100474">
+    <title>Makita 9227CB</title>
+    <model>9227CB</model>
+    <marka>Makita</marka>
+    <catalog id="948421">Шлифовальные машины</catalog>
+    
+    <price1>8940</price1>
+    <price2>12325</price2>
+    <description>
+полировальная, мощность 1200 Вт, частота вращения 3000 об/мин, диаметр диска 185 мм, вес 3 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип машины</name>
+          <value>полировальная</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>1200 Вт</value>
+        </item>
+        <item>
+          <name>Макс. частота вращения диска</name>
+          <value>3000 об/мин</value>
+        </item>
+        <item>
+          <name>Макс. диаметр диска</name>
+          <value>185 мм</value>
+        </item>
+        <item>
+          <name>Крепление листа</name>
+          <value>липучка</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value> от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции и возможности</name>
+        <item>
+          <name>Возможности</name>
+          <value> фиксация шпинделя,  регулировка частоты вращения,  система стабилизации оборотов</value>
+        </item>
+        <item>
+          <name>Дополнительная рукоятка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="100475">
+    <title>Makita BO5020</title>
+    <model>BO5020</model>
+    <marka>Makita</marka>
+    <catalog id="948421">Шлифовальные машины</catalog>
+    
+    <price1>3178</price1>
+    <price2>5563</price2>
+    <description>
+эксцентриковая, мощность 260 Вт, частота вращения 12000 об/мин, частота колебаний 12000 об/мин, диаметр диска 125 мм, вес 1.4 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип машины</name>
+          <value>эксцентриковая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>260 Вт</value>
+        </item>
+        <item>
+          <name>Макс. частота вращения диска</name>
+          <value>12000 об/мин</value>
+        </item>
+        <item>
+          <name>Макс. частота колебания платформы</name>
+          <value>12000 кол/мин</value>
+        </item>
+        <item>
+          <name>Макс. диаметр диска</name>
+          <value>125 мм</value>
+        </item>
+        <item>
+          <name>Крепление листа</name>
+          <value>липучка</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value> от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции и возможности</name>
+        <item>
+          <name>Возможности</name>
+          <value> пылесборник</value>
+        </item>
+        <item>
+          <name>Дополнительная рукоятка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.4 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="100482">
+    <title>Bosch GWS 1400</title>
+    <model>GWS 1400</model>
+    <marka>Bosch</marka>
+    <catalog id="948421">Шлифовальные машины</catalog>
+    
+    <price1>4142</price1>
+    <price2>7448</price2>
+    <description>
+угловая, мощность 1400 Вт, частота вращения 11000 об/мин, резьба шпинделя M14, диаметр диска 125 мм, вес 2.2 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип машины</name>
+          <value>угловая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>1400 Вт</value>
+        </item>
+        <item>
+          <name>Макс. частота вращения диска</name>
+          <value>11000 об/мин</value>
+        </item>
+        <item>
+          <name>Макс. диаметр диска</name>
+          <value>125 мм</value>
+        </item>
+        <item>
+          <name>Резьба шпинделя</name>
+          <value>M14</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value> от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции и возможности</name>
+        <item>
+          <name>Возможности</name>
+          <value> фиксация шпинделя,  защита от перегрузок,  система стабилизации оборотов,  блокировка кнопки включения</value>
+        </item>
+        <item>
+          <name>Дополнительная рукоятка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.2 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="100485">
+    <title>Makita GA6021C</title>
+    <model>GA6021C</model>
+    <marka>Makita</marka>
+    <catalog id="948421">Шлифовальные машины</catalog>
+    
+    <price1>4790</price1>
+    <price2>7878</price2>
+    <description>
+угловая, мощность 1450 Вт, частота вращения 9000 об/мин, резьба шпинделя M14, диаметр диска 150 мм, вес 2.5 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип машины</name>
+          <value>угловая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>1450 Вт</value>
+        </item>
+        <item>
+          <name>Макс. частота вращения диска</name>
+          <value>9000 об/мин</value>
+        </item>
+        <item>
+          <name>Макс. диаметр диска</name>
+          <value>150 мм</value>
+        </item>
+        <item>
+          <name>Резьба шпинделя</name>
+          <value>M14</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value> от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции и возможности</name>
+        <item>
+          <name>Возможности</name>
+          <value> ограничение пускового тока,  фиксация шпинделя,  система стабилизации оборотов,  блокировка кнопки включения</value>
+        </item>
+        <item>
+          <name>Дополнительная рукоятка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Длина сетевого кабеля</name>
+          <value>2.5 м</value>
+        </item>
+        <item>
+          <name>Длина</name>
+          <value>390 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.5 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="100488">
+    <title>Makita GA9030SF01</title>
+    <model>GA9030SF01</model>
+    <marka>Makita</marka>
+    <catalog id="948421">Шлифовальные машины</catalog>
+    
+    <price1>6128</price1>
+    <price2>7650</price2>
+    <description>
+угловая, мощность 2400 Вт, частота вращения 6600 об/мин, резьба шпинделя M14, диаметр диска 230 мм, вес 5.1 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип машины</name>
+          <value>угловая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>2400 Вт</value>
+        </item>
+        <item>
+          <name>Макс. частота вращения диска</name>
+          <value>6600 об/мин</value>
+        </item>
+        <item>
+          <name>Макс. диаметр диска</name>
+          <value>230 мм</value>
+        </item>
+        <item>
+          <name>Резьба шпинделя</name>
+          <value>M14</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value> от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции и возможности</name>
+        <item>
+          <name>Возможности</name>
+          <value> ограничение пускового тока,  фиксация шпинделя</value>
+        </item>
+        <item>
+          <name>Дополнительная рукоятка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>5.1 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="100491">
+    <title>Makita BO6040</title>
+    <model>BO6040</model>
+    <marka>Makita</marka>
+    <catalog id="948421">Шлифовальные машины</catalog>
+    
+    <price1>12830</price1>
+    <price2>15500</price2>
+    <description>
+эксцентриковая, мощность 750 Вт, частота вращения 5800 об/мин, ход платформы 5.5 мм, диаметр диска 150 мм, вес 2.7 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип машины</name>
+          <value>эксцентриковая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>750 Вт</value>
+        </item>
+        <item>
+          <name>Макс. частота вращения диска</name>
+          <value>5800 об/мин</value>
+        </item>
+        <item>
+          <name>Размер хода платформы</name>
+          <value>5.5 мм</value>
+        </item>
+        <item>
+          <name>Макс. диаметр диска</name>
+          <value>150 мм</value>
+        </item>
+        <item>
+          <name>Крепление листа</name>
+          <value>липучка</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value> от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции и возможности</name>
+        <item>
+          <name>Возможности</name>
+          <value> ограничение пускового тока,  регулировка частоты вращения,  система стабилизации оборотов,  тормоз двигателя</value>
+        </item>
+        <item>
+          <name>Кейс в комплекте</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.7 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Особенности</name>
+          <value>Пылеудаление через опорную плиту. Возможность подключения пылесоса. Двойная защитная изоляция.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="100499">
+    <title>Makita 9565CVL</title>
+    <model>9565CVL</model>
+    <marka>Makita</marka>
+    <catalog id="948421">Шлифовальные машины</catalog>
+    
+    <price1>6218</price1>
+    <price2>9201</price2>
+    <description>
+угловая, мощность 1400 Вт, частота вращения 6800 об/мин, резьба шпинделя M14, диаметр диска 125 мм, вес 1.8 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип машины</name>
+          <value>угловая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>1400 Вт</value>
+        </item>
+        <item>
+          <name>Макс. частота вращения диска</name>
+          <value>6800 об/мин</value>
+        </item>
+        <item>
+          <name>Макс. диаметр диска</name>
+          <value>125 мм</value>
+        </item>
+        <item>
+          <name>Резьба шпинделя</name>
+          <value>M14</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value> от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции и возможности</name>
+        <item>
+          <name>Возможности</name>
+          <value> регулировка частоты вращения</value>
+        </item>
+        <item>
+          <name>Дополнительная рукоятка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.8 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="100503">
+    <title>Makita GA9040SF01</title>
+    <model>GA9040SF01</model>
+    <marka>Makita</marka>
+    <catalog id="948421">Шлифовальные машины</catalog>
+    
+    <price1>7287</price1>
+    <price2>9990</price2>
+    <description>
+угловая, мощность 2600 Вт, частота вращения 6600 об/мин, резьба шпинделя M14, диаметр диска 230 мм, вес 5.6 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип машины</name>
+          <value>угловая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>2600 Вт</value>
+        </item>
+        <item>
+          <name>Макс. частота вращения диска</name>
+          <value>6600 об/мин</value>
+        </item>
+        <item>
+          <name>Макс. диаметр диска</name>
+          <value>230 мм</value>
+        </item>
+        <item>
+          <name>Резьба шпинделя</name>
+          <value>M14</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value> от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции и возможности</name>
+        <item>
+          <name>Возможности</name>
+          <value> ограничение пускового тока,  фиксация шпинделя,  система стабилизации оборотов</value>
+        </item>
+        <item>
+          <name>Дополнительная рукоятка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>5.6 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="100504">
+    <title>Makita 9031</title>
+    <model>9031</model>
+    <marka>Makita</marka>
+    <catalog id="948421">Шлифовальные машины</catalog>
+    
+    <price1>8990</price1>
+    <price2>10516</price2>
+    <description>
+ленточная, мощность 550 Вт, скорость ленты 1000 м/мин, длина ленты 533 мм, ширина  ленты 30 мм, вес 2.1 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип машины</name>
+          <value>ленточная</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>550 Вт</value>
+        </item>
+        <item>
+          <name>Макс. скорость ленты</name>
+          <value>1000 м/мин</value>
+        </item>
+        <item>
+          <name>Длина ленты</name>
+          <value>533 мм</value>
+        </item>
+        <item>
+          <name>Ширина ленты</name>
+          <value>30 мм</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value> от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции и возможности</name>
+        <item>
+          <name>Возможности</name>
+          <value> регулировка частоты вращения,  блокировка кнопки включения,  пылесборник</value>
+        </item>
+        <item>
+          <name>Дополнительная рукоятка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (Д х В)</name>
+          <value>380 x 90 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.1 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="100509">
+    <title>Makita BO4556</title>
+    <model>BO4556</model>
+    <marka>Makita</marka>
+    <catalog id="948421">Шлифовальные машины</catalog>
+    
+    <price1>2291</price1>
+    <price2>2990</price2>
+    <description>
+вибрационная, мощность 200 Вт, частота колебаний 14000 об/мин, ход платформы 1.5 мм, длина листа 114 мм, ширина  листа 102 мм, вес 1.1 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип машины</name>
+          <value>вибрационная</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>200 Вт</value>
+        </item>
+        <item>
+          <name>Макс. частота колебания платформы</name>
+          <value>14000 кол/мин</value>
+        </item>
+        <item>
+          <name>Размер хода платформы</name>
+          <value>1.5 мм</value>
+        </item>
+        <item>
+          <name>Длина листа</name>
+          <value>114 мм</value>
+        </item>
+        <item>
+          <name>Ширина листа</name>
+          <value>102 мм</value>
+        </item>
+        <item>
+          <name>Крепление листа</name>
+          <value>зажимы, липучка</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value> от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции и возможности</name>
+        <item>
+          <name>Возможности</name>
+          <value> пылесборник</value>
+        </item>
+        <item>
+          <name>Длина сетевого кабеля</name>
+          <value>2 м</value>
+        </item>
+        <item>
+          <name>Размеры (Д х В)</name>
+          <value>142 x 131 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.1 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

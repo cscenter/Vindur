@@ -1,0 +1,1706 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="97064">
+    <title>ZyXEL Prestige 791R EE</title>
+    <model>Prestige 791R EE</model>
+    <marka>ZyXEL</marka>
+    <catalog id="106824">Модемы</catalog>
+    
+    <price1>6139</price1>
+    <price2>9119</price2>
+    <description>
+SHDSL-модем, маршутизатор, Ethernet 10/100 Base-T
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>SHDSL</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>Ethernet 10/100 Base-T</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Telnet</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SNMP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Встроенный маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (Firewall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>VPN</name>
+        <item>
+          <name>Поддержка VPN pass through</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка VPN-туннелей</name>
+          <value>есть (10 туннелей)</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие характеристики</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>180 x 36 x 127 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>309 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>поддержка широковещательных протоколов (IP multicast), возможность резервирования выделенной линии через WAN-интерфейс, модернизация микропрограммы по FTP/TFTP</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97066">
+    <title>D-link DSL-2500U</title>
+    <model>DSL-2500U</model>
+    <marka>D-link</marka>
+    <catalog id="106824">Модемы</catalog>
+    
+    <price1>564</price1>
+    <price2>1090</price2>
+    <description>
+ADSL-модем, маршутизатор, Ethernet 10/100 Base-T
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ADSL</value>
+        </item>
+        <item>
+          <name>Поддержка ADSL2+</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>Ethernet 10/100 Base-T</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SNMP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Встроенный маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (Firewall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>SPI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Демилитаризованная зона (DMZ)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Статическая маршрутизация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Протоколы динамической маршрутизации</name>
+          <value>IGMP v2, RIP v1, RIP v2</value>
+        </item>
+      </items>
+      <items>
+        <name>VPN</name>
+        <item>
+          <name>Поддержка VPN pass through</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие характеристики</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>147 x 32 x 113 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>215 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>адаптирован для работы с российскими операторами связи</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97071">
+    <title>D-link DSL-2540U</title>
+    <model>DSL-2540U</model>
+    <marka>D-link</marka>
+    <catalog id="106824">Модемы</catalog>
+    
+    <price1>579</price1>
+    <price2>2660</price2>
+    <description>
+ADSL-модем, маршутизатор, коммутатор 4xLAN, Ethernet 10/100 Base-T
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ADSL</value>
+        </item>
+        <item>
+          <name>Поддержка ADSL2+</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>Ethernet 10/100 Base-T</value>
+        </item>
+      </items>
+      <items>
+        <name>Опции цифрового модема</name>
+        <item>
+          <name>Встроенный коммутатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>4 x Ethernet 10/100 Base-T</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SNMP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Встроенный маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (Firewall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>SPI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Демилитаризованная зона (DMZ)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Статическая маршрутизация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Протоколы динамической маршрутизации</name>
+          <value>IGMP v2, RIP v1</value>
+        </item>
+      </items>
+      <items>
+        <name>VPN</name>
+        <item>
+          <name>Поддержка VPN pass through</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие характеристики</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>196 x 32 x 121 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>308 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>адаптирован для работы с российскими операторами связи</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97074">
+    <title>ZyXEL P660RU3 EE</title>
+    <model>P660RU3 EE</model>
+    <marka>ZyXEL</marka>
+    <catalog id="106824">Модемы</catalog>
+    
+    <price1>1068</price1>
+    <price2>1950</price2>
+    <description>
+ADSL-модем, маршутизатор, Ethernet 10/100 Base-T, USB
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ADSL</value>
+        </item>
+        <item>
+          <name>Поддержка ADSL2+</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>Ethernet 10/100 Base-T, USB</value>
+        </item>
+        <item>
+          <name>Память</name>
+          <value>8 Мб RAM / 2 Мб Flash</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Telnet</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SNMP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Встроенный маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (Firewall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>SPI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Демилитаризованная зона (DMZ)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Статическая маршрутизация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Протоколы динамической маршрутизации</name>
+          <value>IGMP v1, IGMP v2, IGMP v3, RIP v1, RIP v2</value>
+        </item>
+      </items>
+      <items>
+        <name>VPN</name>
+        <item>
+          <name>Поддержка VPN pass through</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие характеристики</name>
+        <item>
+          <name>Факс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>106 x 35 x 111 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>175 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>адаптирован для работы с российскими операторами связи</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97077">
+    <title>ZyXEL P660RT3 EE</title>
+    <model>P660RT3 EE</model>
+    <marka>ZyXEL</marka>
+    <catalog id="106824">Модемы</catalog>
+    
+    <price1>1211</price1>
+    <price2>1510</price2>
+    <description>
+ADSL-модем, маршутизатор, Ethernet 10/100 Base-T
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ADSL</value>
+        </item>
+        <item>
+          <name>Поддержка ADSL2+</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>Ethernet 10/100 Base-T</value>
+        </item>
+        <item>
+          <name>Память</name>
+          <value>8 Мб RAM / 2 Мб Flash</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Telnet</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SNMP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Встроенный маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (Firewall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>SPI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Демилитаризованная зона (DMZ)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Статическая маршрутизация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Протоколы динамической маршрутизации</name>
+          <value>IGMP v1, IGMP v2, IGMP v3, RIP v1, RIP v2</value>
+        </item>
+      </items>
+      <items>
+        <name>VPN</name>
+        <item>
+          <name>Поддержка VPN pass through</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие характеристики</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>106 x 35 x 111 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>170 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>адаптирован для работы с российскими операторами связи</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97081">
+    <title>ZyXEL MAX-206M2</title>
+    <model>MAX-206M2</model>
+    <marka>ZyXEL</marka>
+    <catalog id="106824">Модемы</catalog>
+    
+    <price1>2176</price1>
+    <price2>5434</price2>
+    <description>
+WiMAX-модем, маршутизатор, коммутатор 2xLAN, Ethernet 10/100 Base-T
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>WiMAX</value>
+        </item>
+        <item>
+          <name>Стандарт WiMAX</name>
+          <value>802.16e</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>Ethernet 10/100 Base-T</value>
+        </item>
+      </items>
+      <items>
+        <name>Опции цифрового модема</name>
+        <item>
+          <name>Встроенный коммутатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>2 x Ethernet 10/100 Base-T</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Telnet</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SNMP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Встроенный маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>VoIP</name>
+        <item>
+          <name>Встроенный VoIP-адаптер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество портов FXS</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие характеристики</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>164 x 164 x 118 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>534 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>адаптирован для работы с российскими операторами связи, технология MIMO, 2 встроенные антенны 4.5 дБи, 2 разъема RP-SMA для подключение внешних антенн, 2.5 - 2.7 ГГц</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97093">
+    <title>ZyXEL P-871M</title>
+    <model>P-871M</model>
+    <marka>ZyXEL</marka>
+    <catalog id="106824">Модемы</catalog>
+    
+    <price1>5170</price1>
+    <price2>9140</price2>
+    <description>
+VDSL2-модем, Ethernet 10/100 Base-T
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>VDSL2</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>Ethernet 10/100 Base-T</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Консольный порт</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие характеристики</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>189 x 40 x 132 мм</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>адаптирован для работы с российскими операторами связи, Модем создан для организации высокоскоростных соединений «точка–точка» по выделенным и телефонным линиям, для подключения внешнего сплиттера (или сухой пары) и локальной сети предусмотрены два разъема RJ-45 и порт RS-232 для управляющей консоли</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97096">
+    <title>ZyXEL P-793H</title>
+    <model>P-793H</model>
+    <marka>ZyXEL</marka>
+    <catalog id="106824">Модемы</catalog>
+    
+    <price1>11870</price1>
+    <price2>18661</price2>
+    <description>
+SHDSL-модем, маршутизатор, коммутатор 4xLAN, Ethernet 10/100 Base-T
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>SHDSL</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>Ethernet 10/100 Base-T</value>
+        </item>
+      </items>
+      <items>
+        <name>Опции цифрового модема</name>
+        <item>
+          <name>Встроенный коммутатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>4 x Ethernet 10/100 Base-T</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Консольный порт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Telnet</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SNMP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Встроенный маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (Firewall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>SPI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Статическая маршрутизация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Протоколы динамической маршрутизации</name>
+          <value>IGMP v1, IGMP v2, RIP v1, RIP v2</value>
+        </item>
+      </items>
+      <items>
+        <name>VPN</name>
+        <item>
+          <name>Поддержка VPN-туннелей</name>
+          <value>есть (10 туннелей)</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие характеристики</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>178 x 36 x 125 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>345 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>адаптирован для работы с российскими операторами связи, Максимальная скорость 11,38 Мбит/с. Двухрежимный порт &amp;amp;quot;Console/Aux&amp;amp;quot; для локального управления или резервирования SHDSL-подключения по коммутируемой линии. Поддержка SHDSL.bis.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97099">
+    <title>ZyXEL P660HT3 EE</title>
+    <model>P660HT3 EE</model>
+    <marka>ZyXEL</marka>
+    <catalog id="106824">Модемы</catalog>
+    
+    <price1>1529</price1>
+    <price2>1750</price2>
+    <description>
+ADSL-модем, маршутизатор, коммутатор 4xLAN, Ethernet 10/100 Base-T
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ADSL</value>
+        </item>
+        <item>
+          <name>Поддержка ADSL2+</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>Ethernet 10/100 Base-T</value>
+        </item>
+        <item>
+          <name>Память</name>
+          <value>8 Мб RAM / 2 Мб Flash</value>
+        </item>
+      </items>
+      <items>
+        <name>Опции цифрового модема</name>
+        <item>
+          <name>Встроенный коммутатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>4 x Ethernet 10/100 Base-T</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Telnet</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SNMP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Встроенный маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (Firewall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>SPI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Демилитаризованная зона (DMZ)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Статическая маршрутизация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Протоколы динамической маршрутизации</name>
+          <value>IGMP v1, IGMP v2, RIP v1, RIP v2</value>
+        </item>
+      </items>
+      <items>
+        <name>VPN</name>
+        <item>
+          <name>Поддержка VPN pass through</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие характеристики</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>180 x 36 x 127 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>275 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>адаптирован для работы с российскими операторами связи, Поддержка IP-телевидения</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97105">
+    <title>D-link DFM-562IS</title>
+    <model>DFM-562IS</model>
+    <marka>D-link</marka>
+    <catalog id="106824">Модемы</catalog>
+    
+    <price1>200</price1>
+    <price2>896</price2>
+    <description>
+аналоговый модем, V.92, PCI
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>аналоговый</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>внутренний</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI</value>
+        </item>
+      </items>
+      <items>
+        <name>Протоколы</name>
+        <item>
+          <name>Протоколы передачи данных</name>
+          <value>V92, V90 (56-28 Kbps)&lt;br/&gt;V34bis (33.6-2.4 Kbps)&lt;br/&gt;V34 (28.8-16.8 Kbps)&lt;br/&gt;V32bis (14.4-7.2 Kbps)&lt;br/&gt;V32 (9.6-4.8 Kbps)&lt;br/&gt;</value>
+        </item>
+        <item>
+          <name>Протоколы коррекции ошибок</name>
+          <value>V.42, MNP3-4</value>
+        </item>
+        <item>
+          <name>Протоколы сжатия данных</name>
+          <value>V.44, V.42bis, MNP 5</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие характеристики</name>
+        <item>
+          <name>Факс</name>
+          <value>14400 бит/c</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>автоотвечик, голосовой модем</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>Поддержка протокола Video-Ready V.80, поддержка голосовых функций через звуковую карту.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97112">
+    <title>ZyXEL P-792H v2</title>
+    <model>P-792H v2</model>
+    <marka>ZyXEL</marka>
+    <catalog id="106824">Модемы</catalog>
+    
+    <price1>7636</price1>
+    <price2>10668</price2>
+    <description>
+SHDSL-модем, маршутизатор, коммутатор 4xLAN, Ethernet 10/100 Base-T
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>SHDSL</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>Ethernet 10/100 Base-T</value>
+        </item>
+      </items>
+      <items>
+        <name>Опции цифрового модема</name>
+        <item>
+          <name>Встроенный коммутатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>4 x Ethernet 10/100 Base-T</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Telnet</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SNMP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Встроенный маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (Firewall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>SPI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Протоколы динамической маршрутизации</name>
+          <value>IGMP v1, IGMP v2, RIP v1, RIP v2</value>
+        </item>
+      </items>
+      <items>
+        <name>VPN</name>
+        <item>
+          <name>Поддержка VPN-туннелей</name>
+          <value>есть (10 туннелей)</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие характеристики</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>181 x 37 x 128 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>250 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>адаптирован для работы с российскими операторами связи, Возможность работы в режиме моста. Внешний блок питания 12V AC. Скорость передачи и приема данных до 5,7 Мбит/с по одной медной паре</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97123">
+    <title>TP-LINK TD-8840T</title>
+    <model>TD-8840T</model>
+    <marka>TP-LINK</marka>
+    <catalog id="106824">Модемы</catalog>
+    
+    <price1>651</price1>
+    <price2>1440</price2>
+    <description>
+ADSL-модем, маршутизатор, коммутатор 4xLAN
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ADSL</value>
+        </item>
+        <item>
+          <name>Поддержка ADSL2+</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>внешний</value>
+        </item>
+      </items>
+      <items>
+        <name>Опции цифрового модема</name>
+        <item>
+          <name>Встроенный коммутатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>4</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Встроенный маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Демилитаризованная зона (DMZ)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Статическая маршрутизация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Протоколы динамической маршрутизации</name>
+          <value>RIP v1, RIP v2</value>
+        </item>
+      </items>
+      <items>
+        <name>VPN</name>
+        <item>
+          <name>Поддержка VPN pass through</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие характеристики</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>165 x 28 x 108 мм</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>адаптирован для работы с российскими операторами связи</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97127">
+    <title>Archos G9 3G stick</title>
+    <model>G9 3G stick</model>
+    <marka>Archos</marka>
+    <catalog id="106824">Модемы</catalog>
+    
+    <price1>1690</price1>
+    <price2>1785</price2>
+    <description>
+GSM/GPRS/3G-модем, USB
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>GSM</value>
+        </item>
+        <item>
+          <name>Поддерживаемые стандарты</name>
+          <value>GSM, GPRS, 3G</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие характеристики</name>
+        <item>
+          <name>Питание через USB</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97133">
+    <title>TP-LINK TD-8816</title>
+    <model>TD-8816</model>
+    <marka>TP-LINK</marka>
+    <catalog id="106824">Модемы</catalog>
+    
+    <price1>488</price1>
+    <price2>1260</price2>
+    <description>
+ADSL-модем, маршутизатор, Ethernet 10/100 Base-T
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ADSL</value>
+        </item>
+        <item>
+          <name>Поддержка ADSL2+</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>Ethernet 10/100 Base-T</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Telnet</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SNMP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Встроенный маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (Firewall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>SPI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Демилитаризованная зона (DMZ)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Статическая маршрутизация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Протоколы динамической маршрутизации</name>
+          <value>RIP v1, RIP v2</value>
+        </item>
+      </items>
+      <items>
+        <name>VPN</name>
+        <item>
+          <name>Поддержка VPN pass through</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие характеристики</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>165 x 30 x 115 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97146">
+    <title>AnyDATA ADU-510A</title>
+    <model>ADU-510A</model>
+    <marka>AnyDATA</marka>
+    <catalog id="106824">Модемы</catalog>
+    
+    <price1>2250</price1>
+    <price2>3400</price2>
+    <description>
+CDMA/EV-DO Rev A-модем, USB
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>CDMA</value>
+        </item>
+        <item>
+          <name>Поддерживаемые стандарты</name>
+          <value>CDMA, EV-DO Rev A</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие характеристики</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>93 x 10 x 35 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>48 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97168">
+    <title>Novacom Wireless GNS-ER75i</title>
+    <model>GNS-ER75i</model>
+    <marka>Novacom Wireless</marka>
+    <catalog id="106824">Модемы</catalog>
+    
+    <price1>8000</price1>
+    <price2>15000</price2>
+    <description>
+GSM/GPRS/EDGE-модем, маршутизатор, Ethernet 10/100 Base-T
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>GSM</value>
+        </item>
+        <item>
+          <name>Поддерживаемые стандарты</name>
+          <value>GSM, GPRS, EDGE</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>Ethernet 10/100 Base-T</value>
+        </item>
+        <item>
+          <name>Память</name>
+          <value>64 Мб RAM / 8 Мб Flash</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Встроенный маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие характеристики</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>76 x 30 x 110 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>190 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97171">
+    <title>AnyDATA ADU-310A</title>
+    <model>ADU-310A</model>
+    <marka>AnyDATA</marka>
+    <catalog id="106824">Модемы</catalog>
+    
+    <price1>1700</price1>
+    <price2>2610</price2>
+    <description>
+CDMA/EV-DO-модем, USB
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>CDMA</value>
+        </item>
+        <item>
+          <name>Поддерживаемые стандарты</name>
+          <value>CDMA, EV-DO</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие характеристики</name>
+        <item>
+          <name>Питание через USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>93 x 35 x 10 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>25 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97177">
+    <title>TRENDnet TDM-C504</title>
+    <model>TDM-C504</model>
+    <marka>TRENDnet</marka>
+    <catalog id="106824">Модемы</catalog>
+    
+    <price1>1050</price1>
+    <price2>2820</price2>
+    <description>
+ADSL-модем, маршутизатор, коммутатор 4xLAN, Ethernet 10/100 Base-T
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ADSL</value>
+        </item>
+        <item>
+          <name>Поддержка ADSL2+</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>Ethernet 10/100 Base-T</value>
+        </item>
+      </items>
+      <items>
+        <name>Опции цифрового модема</name>
+        <item>
+          <name>Встроенный коммутатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество портов коммутатора</name>
+          <value>4 x Ethernet 10/100 Base-T</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Telnet</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SNMP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Встроенный маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>SPI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Демилитаризованная зона (DMZ)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Статическая маршрутизация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Протоколы динамической маршрутизации</name>
+          <value>IGMP v1, IGMP v2, RIP v1, RIP v2</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие характеристики</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>адаптирован для работы с российскими операторами связи</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97181">
+    <title>ZTE AC5730</title>
+    <model>AC5730</model>
+    <marka>ZTE</marka>
+    <catalog id="106824">Модемы</catalog>
+    
+    <price1>1800</price1>
+    <price2>1990</price2>
+    <description>
+CDMA/EV-DO Rev A-модем, USB
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>CDMA</value>
+        </item>
+        <item>
+          <name>Поддерживаемые стандарты</name>
+          <value>CDMA, EV-DO Rev A</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие характеристики</name>
+        <item>
+          <name>Питание через USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>90 x 30 x 11 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>40 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>исходящая скорость до 1,8 Мбит/сек, входящая скорость до 3,1 Мбит/сек</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97187">
+    <title>Yota LU150</title>
+    <model>LU150</model>
+    <marka>Yota</marka>
+    <catalog id="106824">Модемы</catalog>
+    
+    <price1>1900</price1>
+    <price2>3900</price2>
+    <description>
+LTE-модем, USB
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>LTE</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие характеристики</name>
+        <item>
+          <name>Питание через USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>78 x 12 x 28 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>17 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>адаптирован для работы с российскими операторами связи</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

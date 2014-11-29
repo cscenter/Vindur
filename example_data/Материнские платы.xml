@@ -1,0 +1,2734 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="58650">
+    <title>ASUS P8H61-M LX</title>
+    <model>P8H61-M LX</model>
+    <marka>ASUS</marka>
+    <catalog id="754893">Материнские платы</catalog>
+    
+    <price1>1300</price1>
+    <price2>2090</price2>
+    <description>
+Intel H61, 1xLGA1155, 2xDDR3 DIMM, 1xPCI-E x16, встроенный звук: HDA, 7.1, Ethernet: 1000 Мбит/с, форм-фактор mATX
+</description>
+    <specification>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA1155</value>
+        </item>
+        <item>
+          <name>Поддерживаемые процессоры</name>
+          <value>Intel Core i7/Core i5/Core i3</value>
+        </item>
+        <item>
+          <name>Поддержка многоядерных процессоров</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Чипсет</name>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel H61</value>
+        </item>
+        <item>
+          <name>Поддержка EFI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SLI/CrossFire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>DDR3 DIMM, 1066 - 1333 МГц</value>
+        </item>
+        <item>
+          <name>Количество слотов памяти</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Поддержка двухканального режима</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальный объем памяти</name>
+          <value>16 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Дисковые контроллеры</name>
+        <item>
+          <name>IDE</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>SATA</name>
+          <value>количество разъемов SATA 3Gb/s: 4</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Слоты расширения</name>
+          <value>1xPCI-E x16, 3xPCI-E x1</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 2.0</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио/видео</name>
+        <item>
+          <name>Звук</name>
+          <value>7.1CH, HDA, на основе Realtek ALC 887</value>
+        </item>
+      </items>
+      <items>
+        <name>Сеть</name>
+        <item>
+          <name>Ethernet</name>
+          <value>1000 Мбит/с, на основе Realtek 8111E</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Наличие интерфейсов</name>
+          <value>10 USB, выход S/PDIF, 1xCOM, D-Sub, Ethernet, PS/2 (клавиатура), PS/2 (мышь), LPT</value>
+        </item>
+        <item>
+          <name>Разъемы на задней панели</name>
+          <value>4 USB, 1xCOM, D-Sub, Ethernet, PS/2 (клавиатура), PS/2 (мышь), LPT</value>
+        </item>
+        <item>
+          <name>Основной разъем питания</name>
+          <value>24-pin</value>
+        </item>
+        <item>
+          <name>Разъем питания процессора</name>
+          <value>4-pin</value>
+        </item>
+        <item>
+          <name>Тип системы охлаждения</name>
+          <value>пассивное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные параметры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>microATX</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58653">
+    <title>ASUS P8H77-M LE</title>
+    <model>P8H77-M LE</model>
+    <marka>ASUS</marka>
+    <catalog id="754893">Материнские платы</catalog>
+    
+    <price1>2385</price1>
+    <price2>6050</price2>
+    <description>
+Intel H77, 1xLGA1155, 2xDDR3 DIMM, 1xPCI-E x16, встроенный звук: HDA, 7.1, Ethernet: 1000 Мбит/с, форм-фактор microATX, DVI, HDMI, USB 3.0
+</description>
+    <specification>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA1155</value>
+        </item>
+        <item>
+          <name>Поддерживаемые процессоры</name>
+          <value>Intel 22 nm/32 nm</value>
+        </item>
+        <item>
+          <name>Поддержка многоядерных процессоров</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Чипсет</name>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel H77</value>
+        </item>
+        <item>
+          <name>BIOS</name>
+          <value>AMI </value>
+        </item>
+        <item>
+          <name>Поддержка SLI/CrossFire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>DDR3 DIMM, </value>
+        </item>
+        <item>
+          <name>Количество слотов памяти</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Поддержка двухканального режима</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальный объем памяти</name>
+          <value>16 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Дисковые контроллеры</name>
+        <item>
+          <name>IDE</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>SATA</name>
+          <value>количество разъемов SATA 3Gb/s: 4, количество разъемов SATA 6Gb/s: 2</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Слоты расширения</name>
+          <value>1xPCI-E x16, 1xPCI-E x4, 1xPCI-E x1, 1xPCI</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 2.0</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 3.0</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио/видео</name>
+        <item>
+          <name>Звук</name>
+          <value>7.1CH, HDA, на основе Realtek ALC887</value>
+        </item>
+      </items>
+      <items>
+        <name>Сеть</name>
+        <item>
+          <name>Ethernet</name>
+          <value>1000 Мбит/с, на основе Realtek 8111F</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Наличие интерфейсов</name>
+          <value>14 USB, из них 4 USB 3.0 (2 на задней панели), выход S/PDIF, D-Sub, DVI, HDMI, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Разъемы на задней панели</name>
+          <value>6 USB, из них 2 USB 3.0, D-Sub, DVI, HDMI, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Основной разъем питания</name>
+          <value>24-pin</value>
+        </item>
+        <item>
+          <name>Разъем питания процессора</name>
+          <value>8-pin</value>
+        </item>
+        <item>
+          <name>Тип системы охлаждения</name>
+          <value>пассивное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные параметры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>microATX</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58660">
+    <title>ASUS P8H77-M</title>
+    <model>P8H77-M</model>
+    <marka>ASUS</marka>
+    <catalog id="754893">Материнские платы</catalog>
+    
+    <price1>2886</price1>
+    <price2>3280</price2>
+    <description>
+Intel H77, 1xLGA1155, 4xDDR3 DIMM, 2xPCI-E x16, встроенный звук: HDA, 7.1, Ethernet: 1000 Мбит/с, форм-фактор microATX, DVI, HDMI, USB 3.0
+</description>
+    <specification>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA1155</value>
+        </item>
+        <item>
+          <name>Поддерживаемые процессоры</name>
+          <value>Intel 22 nm/32 nm</value>
+        </item>
+        <item>
+          <name>Поддержка многоядерных процессоров</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Чипсет</name>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel H77</value>
+        </item>
+        <item>
+          <name>BIOS</name>
+          <value>AMI c возможностью аварийного восстановления</value>
+        </item>
+        <item>
+          <name>Поддержка EFI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SLI/CrossFire</name>
+          <value>CrossFire X</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>DDR3 DIMM, </value>
+        </item>
+        <item>
+          <name>Количество слотов памяти</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Поддержка двухканального режима</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальный объем памяти</name>
+          <value>32 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Дисковые контроллеры</name>
+        <item>
+          <name>IDE</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>SATA</name>
+          <value>количество разъемов SATA 3Gb/s: 4, количество разъемов SATA 6Gb/s: 2, RAID: 0, 1, 5, 10</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Слоты расширения</name>
+          <value>2xPCI-E x16, 1xPCI-E x1, 1xPCI</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 2.0</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 3.0</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио/видео</name>
+        <item>
+          <name>Звук</name>
+          <value>7.1CH, HDA, на основе Realtek ALC887</value>
+        </item>
+      </items>
+      <items>
+        <name>Сеть</name>
+        <item>
+          <name>Ethernet</name>
+          <value>1000 Мбит/с, на основе Realtek 8111F</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Наличие интерфейсов</name>
+          <value>14 USB, из них 4 USB 3.0 (2 на задней панели), выход S/PDIF, 1xCOM, D-Sub, DVI, HDMI, Ethernet, PS/2 (клавиатура), PS/2 (мышь), LPT</value>
+        </item>
+        <item>
+          <name>Разъемы на задней панели</name>
+          <value>6 USB, из них 2 USB 3.0, оптический выход, D-Sub, DVI, HDMI, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Основной разъем питания</name>
+          <value>24-pin</value>
+        </item>
+        <item>
+          <name>Разъем питания процессора</name>
+          <value>8-pin</value>
+        </item>
+        <item>
+          <name>Тип системы охлаждения</name>
+          <value>пассивное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные параметры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>microATX</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>1 слот PCIe 2.0 x16 работает в режиме x4</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58662">
+    <title>ASUS SABERTOOTH X79</title>
+    <model>SABERTOOTH X79</model>
+    <marka>ASUS</marka>
+    <catalog id="754893">Материнские платы</catalog>
+    
+    <price1>10384</price1>
+    <price2>14994</price2>
+    <description>
+Intel X79, 1xLGA2011, 8xDDR3 DIMM, 3xPCI-E x16, встроенный звук: HDA, 7.1, Ethernet: 1000 Мбит/с, форм-фактор ATX, eSATA, USB 3.0
+</description>
+    <specification>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA2011</value>
+        </item>
+        <item>
+          <name>Поддерживаемые процессоры</name>
+          <value>Intel Core i7</value>
+        </item>
+        <item>
+          <name>Системная шина</name>
+          <value>QuickPath Interconnect</value>
+        </item>
+        <item>
+          <name>Поддержка многоядерных процессоров</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Чипсет</name>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel X79</value>
+        </item>
+        <item>
+          <name>Поддержка SLI/CrossFire</name>
+          <value>SLI/CrossFireX</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>DDR3 DIMM, 1066 - 1866 МГц</value>
+        </item>
+        <item>
+          <name>Количество слотов памяти</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Поддержка четырехканального режима</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальный объем памяти</name>
+          <value>64 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Дисковые контроллеры</name>
+        <item>
+          <name>IDE</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>SATA</name>
+          <value>количество разъемов SATA 3Gb/s: 4, количество разъемов SATA 6Gb/s: 4, RAID: 0, 1, 5, 10</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Слоты расширения</name>
+          <value>3xPCI-E x16, 2xPCI-E x1, 1xPCI</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 2.0</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 3.0</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые режимы PCI-Express</name>
+          <value>dual: x16</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио/видео</name>
+        <item>
+          <name>Звук</name>
+          <value>7.1CH, HDA, на основе Realtek ALC892</value>
+        </item>
+      </items>
+      <items>
+        <name>Сеть</name>
+        <item>
+          <name>Ethernet</name>
+          <value>1000 Мбит/с, на основе Intel 82579V</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Наличие интерфейсов</name>
+          <value>20 USB, из них 6 USB 3.0 (4 на задней панели), 2xFireWire (IEEE1394a), выход S/PDIF, 1xCOM, 2xeSATA, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Разъемы на задней панели</name>
+          <value>10 USB, из них 4 USB 3.0, 1xFireWire (IEEE1394a), оптический выход, 2xeSATA, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Основной разъем питания</name>
+          <value>24-pin</value>
+        </item>
+        <item>
+          <name>Разъем питания процессора</name>
+          <value>8-pin</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные параметры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>ATX</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>1 x PS/2 порт - комбинированный</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58664">
+    <title>ASUS P8H61</title>
+    <model>P8H61</model>
+    <marka>ASUS</marka>
+    <catalog id="754893">Материнские платы</catalog>
+    
+    <price1>2159</price1>
+    <price2>2670</price2>
+    <description>
+Intel H61, 1xLGA1155, 2xDDR3 DIMM, 1xPCI-E x16, встроенный звук: HDA, 7.1, Ethernet: 1000 Мбит/с, форм-фактор ATX
+</description>
+    <specification>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA1155</value>
+        </item>
+        <item>
+          <name>Поддерживаемые процессоры</name>
+          <value>Intel Core i7/Core i5/Core i3</value>
+        </item>
+        <item>
+          <name>Поддержка многоядерных процессоров</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Чипсет</name>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel H61</value>
+        </item>
+        <item>
+          <name>Поддержка SLI/CrossFire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>DDR3 DIMM, 1066 - 1333 МГц</value>
+        </item>
+        <item>
+          <name>Количество слотов памяти</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Поддержка двухканального режима</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальный объем памяти</name>
+          <value>16 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Дисковые контроллеры</name>
+        <item>
+          <name>IDE</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>SATA</name>
+          <value>количество разъемов SATA 3Gb/s: 4</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Слоты расширения</name>
+          <value>1xPCI-E x16, 2xPCI-E x1, 3xPCI</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 2.0</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио/видео</name>
+        <item>
+          <name>Звук</name>
+          <value>7.1CH, HDA, на основе Realtek ALC887</value>
+        </item>
+      </items>
+      <items>
+        <name>Сеть</name>
+        <item>
+          <name>Ethernet</name>
+          <value>1000 Мбит/с, на основе Realtek 8111E</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Наличие интерфейсов</name>
+          <value>10 USB, выход S/PDIF, 1xCOM, Ethernet, PS/2 (клавиатура), PS/2 (мышь), LPT</value>
+        </item>
+        <item>
+          <name>Разъемы на задней панели</name>
+          <value>4 USB, 1xCOM, Ethernet, PS/2 (клавиатура), PS/2 (мышь), LPT</value>
+        </item>
+        <item>
+          <name>Основной разъем питания</name>
+          <value>24-pin</value>
+        </item>
+        <item>
+          <name>Разъем питания процессора</name>
+          <value>4-pin</value>
+        </item>
+        <item>
+          <name>Тип системы охлаждения</name>
+          <value>пассивное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные параметры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>ATX</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58674">
+    <title>ASUS P8H77-V</title>
+    <model>P8H77-V</model>
+    <marka>ASUS</marka>
+    <catalog id="754893">Материнские платы</catalog>
+    
+    <price1>2834</price1>
+    <price2>5338</price2>
+    <description>
+Intel H77, 1xLGA1155, 4xDDR3 DIMM, 2xPCI-E x16, встроенный звук: HDA, 7.1, Ethernet: 1000 Мбит/с, форм-фактор ATX, DVI, HDMI, DisplayPort, USB 3.0
+</description>
+    <specification>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA1155</value>
+        </item>
+        <item>
+          <name>Поддерживаемые процессоры</name>
+          <value>Intel 22 nm/32 nm</value>
+        </item>
+        <item>
+          <name>Поддержка многоядерных процессоров</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Чипсет</name>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel H77</value>
+        </item>
+        <item>
+          <name>BIOS</name>
+          <value>AMI </value>
+        </item>
+        <item>
+          <name>Поддержка EFI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SLI/CrossFire</name>
+          <value>CrossFire X</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>DDR3 DIMM, </value>
+        </item>
+        <item>
+          <name>Количество слотов памяти</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Поддержка двухканального режима</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальный объем памяти</name>
+          <value>32 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Дисковые контроллеры</name>
+        <item>
+          <name>IDE</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>SATA</name>
+          <value>количество разъемов SATA 3Gb/s: 4, количество разъемов SATA 6Gb/s: 2, RAID: 0, 1, 5, 10 на основе Intel H77</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Слоты расширения</name>
+          <value>2xPCI-E x16, 2xPCI-E x1, 3xPCI</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 2.0</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 3.0</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио/видео</name>
+        <item>
+          <name>Звук</name>
+          <value>7.1CH, HDA, на основе VIA VT1708S</value>
+        </item>
+      </items>
+      <items>
+        <name>Сеть</name>
+        <item>
+          <name>Ethernet</name>
+          <value>1000 Мбит/с, на основе Qualcomm Atheros</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Наличие интерфейсов</name>
+          <value>14 USB, из них 4 USB 3.0 (2 на задней панели), выход S/PDIF, 1xCOM, D-Sub, DVI, DisplayPort, HDMI, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Разъемы на задней панели</name>
+          <value>6 USB, из них 2 USB 3.0, оптический выход, D-Sub, DVI, HDMI, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Основной разъем питания</name>
+          <value>24-pin</value>
+        </item>
+        <item>
+          <name>Разъем питания процессора</name>
+          <value>8-pin</value>
+        </item>
+        <item>
+          <name>Тип системы охлаждения</name>
+          <value>пассивное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные параметры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>ATX</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>1 слот PCIe 2.0 x16 работает в режиме x4</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58678">
+    <title>ASUS P8B75-M</title>
+    <model>P8B75-M</model>
+    <marka>ASUS</marka>
+    <catalog id="754893">Материнские платы</catalog>
+    
+    <price1>2100</price1>
+    <price2>2478</price2>
+    <description>
+Intel B75, 1xLGA1155, 4xDDR3 DIMM, 1xPCI-E x16, встроенный звук: HDA, 7.1, Ethernet: 1000 Мбит/с, форм-фактор microATX, DVI, HDMI, USB 3.0
+</description>
+    <specification>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA1155</value>
+        </item>
+        <item>
+          <name>Поддерживаемые процессоры</name>
+          <value>Intel 22 nm/32 nm</value>
+        </item>
+        <item>
+          <name>Поддержка многоядерных процессоров</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Чипсет</name>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel B75</value>
+        </item>
+        <item>
+          <name>Поддержка EFI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SLI/CrossFire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>DDR3 DIMM, 1066 - 1600 МГц</value>
+        </item>
+        <item>
+          <name>Количество слотов памяти</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Поддержка двухканального режима</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальный объем памяти</name>
+          <value>32 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Дисковые контроллеры</name>
+        <item>
+          <name>IDE</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>SATA</name>
+          <value>количество разъемов SATA 3Gb/s: 5, количество разъемов SATA 6Gb/s: 1</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Слоты расширения</name>
+          <value>1xPCI-E x16, 1xPCI-E x4, 2xPCI</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 2.0</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 3.0</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио/видео</name>
+        <item>
+          <name>Звук</name>
+          <value>7.1CH, HDA, на основе VIA VT1708S</value>
+        </item>
+      </items>
+      <items>
+        <name>Сеть</name>
+        <item>
+          <name>Ethernet</name>
+          <value>1000 Мбит/с, на основе Realtek 8111F-VB-CG</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Наличие интерфейсов</name>
+          <value>12 USB, из них 4 USB 3.0 (2 на задней панели), выход S/PDIF, 1xCOM, D-Sub, DVI, HDMI, Ethernet, PS/2 (клавиатура), PS/2 (мышь), LPT</value>
+        </item>
+        <item>
+          <name>Разъемы на задней панели</name>
+          <value>6 USB, из них 2 USB 3.0, D-Sub, DVI, HDMI, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Основной разъем питания</name>
+          <value>24-pin</value>
+        </item>
+        <item>
+          <name>Разъем питания процессора</name>
+          <value>4-pin</value>
+        </item>
+        <item>
+          <name>Тип системы охлаждения</name>
+          <value>пассивное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные параметры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>microATX</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58681">
+    <title>GIGABYTE GA-X79-UD3 (rev. 1.0)</title>
+    <model>GA-X79-UD3 (rev. 1.0)</model>
+    <marka>GIGABYTE</marka>
+    <catalog id="754893">Материнские платы</catalog>
+    
+    <price1>6745</price1>
+    <price2>8150</price2>
+    <description>
+Intel X79, 1xLGA2011, 4xDDR3 DIMM, 4xPCI-E x16, встроенный звук: HDA, 7.1, Ethernet: 1000 Мбит/с, форм-фактор ATX, eSATA, USB 3.0
+</description>
+    <specification>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA2011</value>
+        </item>
+        <item>
+          <name>Поддерживаемые процессоры</name>
+          <value>Intel Core i7</value>
+        </item>
+        <item>
+          <name>Системная шина</name>
+          <value>QuickPath Interconnect</value>
+        </item>
+        <item>
+          <name>Поддержка многоядерных процессоров</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Чипсет</name>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel X79</value>
+        </item>
+        <item>
+          <name>BIOS</name>
+          <value>c возможностью аварийного восстановления</value>
+        </item>
+        <item>
+          <name>Поддержка SLI/CrossFire</name>
+          <value>SLI/CrossFireX</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>DDR3 DIMM, 1066 - 2133 МГц</value>
+        </item>
+        <item>
+          <name>Количество слотов памяти</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Поддержка четырехканального режима</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальный объем памяти</name>
+          <value>32 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Дисковые контроллеры</name>
+        <item>
+          <name>IDE</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>SATA</name>
+          <value>количество разъемов SATA 3Gb/s: 4, количество разъемов SATA 6Gb/s: 6, RAID: 0, 1, 5, 10 на основе Intel X79, Marvell 88SE9172</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Слоты расширения</name>
+          <value>4xPCI-E x16, 2xPCI-E x1, 1xPCI</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 2.0</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 3.0</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио/видео</name>
+        <item>
+          <name>Звук</name>
+          <value>7.1CH, HDA, на основе Realtek ALC898</value>
+        </item>
+      </items>
+      <items>
+        <name>Сеть</name>
+        <item>
+          <name>Ethernet</name>
+          <value>1000 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Наличие интерфейсов</name>
+          <value>18 USB, из них 4 USB 3.0 (2 на задней панели), выход S/PDIF, 1xCOM, 2xeSATA, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Разъемы на задней панели</name>
+          <value>10 USB, из них 2 USB 3.0, коаксиальный выход, оптический выход, 2xeSATA, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Основной разъем питания</name>
+          <value>24-pin</value>
+        </item>
+        <item>
+          <name>Разъем питания процессора</name>
+          <value>8-pin</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные параметры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>ATX</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58685">
+    <title>GIGABYTE GA-Z77MX-D3H (rev. 1.0)</title>
+    <model>GA-Z77MX-D3H (rev. 1.0)</model>
+    <marka>GIGABYTE</marka>
+    <catalog id="754893">Материнские платы</catalog>
+    
+    <price1>3005</price1>
+    <price2>5510</price2>
+    <description>
+Intel Z77, 1xLGA1155, 4xDDR3 DIMM, 3xPCI-E x16, встроенный звук: HDA, 7.1, Ethernet: 1000 Мбит/с, форм-фактор microATX, DVI, HDMI, USB 3.0
+</description>
+    <specification>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA1155</value>
+        </item>
+        <item>
+          <name>Поддерживаемые процессоры</name>
+          <value>Intel Core i7/Core i5/Core i3/Pentium/Celeron</value>
+        </item>
+        <item>
+          <name>Поддержка многоядерных процессоров</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Чипсет</name>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel Z77</value>
+        </item>
+        <item>
+          <name>BIOS</name>
+          <value>AMI c возможностью аварийного восстановления</value>
+        </item>
+        <item>
+          <name>Поддержка EFI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SLI/CrossFire</name>
+          <value>SLI/CrossFireX</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>DDR3 DIMM, 1066 - 1600 МГц</value>
+        </item>
+        <item>
+          <name>Количество слотов памяти</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Поддержка двухканального режима</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальный объем памяти</name>
+          <value>32 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Дисковые контроллеры</name>
+        <item>
+          <name>IDE</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>SATA</name>
+          <value>количество разъемов SATA 3Gb/s: 4, количество разъемов SATA 6Gb/s: 2, RAID: 0, 1, 5, 10</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Слоты расширения</name>
+          <value>3xPCI-E x16, 1xPCI-E x1</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 2.0</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 3.0</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио/видео</name>
+        <item>
+          <name>Звук</name>
+          <value>7.1CH, HDA, на основе VIA VT2021</value>
+        </item>
+      </items>
+      <items>
+        <name>Сеть</name>
+        <item>
+          <name>Ethernet</name>
+          <value>1000 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Наличие интерфейсов</name>
+          <value>14 USB, из них 4 USB 3.0 (2 на задней панели), выход S/PDIF, D-Sub, DVI, HDMI, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Разъемы на задней панели</name>
+          <value>8 USB, из них 2 USB 3.0, оптический выход, D-Sub, DVI, HDMI, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Основной разъем питания</name>
+          <value>24-pin</value>
+        </item>
+        <item>
+          <name>Разъем питания процессора</name>
+          <value>4-pin</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные параметры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>microATX</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>1 слот PCI Express x16 работает в режиме x8; 1 слот PCI Express x16 работает в режиме x4</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58687">
+    <title>MSI H61M-P20 (G3)</title>
+    <model>H61M-P20 (G3)</model>
+    <marka>MSI</marka>
+    <catalog id="754893">Материнские платы</catalog>
+    
+    <price1>1090</price1>
+    <price2>3434</price2>
+    <description>
+Intel H61, 1xLGA1155, 2xDDR3 DIMM, 1xPCI-E x16, встроенный звук: HDA, 7.1, Ethernet: 10/100 Мбит/с, форм-фактор microATX, DVI
+</description>
+    <specification>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA1155</value>
+        </item>
+        <item>
+          <name>Поддерживаемые процессоры</name>
+          <value>Intel Core i7/Core i5/Core i3/Pentium/Celeron</value>
+        </item>
+        <item>
+          <name>Поддержка многоядерных процессоров</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Чипсет</name>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel H61</value>
+        </item>
+        <item>
+          <name>Поддержка SLI/CrossFire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>DDR3 DIMM, 1066 - 1333 МГц</value>
+        </item>
+        <item>
+          <name>Количество слотов памяти</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Поддержка двухканального режима</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальный объем памяти</name>
+          <value>16 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Дисковые контроллеры</name>
+        <item>
+          <name>IDE</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>SATA</name>
+          <value>количество разъемов SATA 3Gb/s: 4</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Слоты расширения</name>
+          <value>1xPCI-E x16, 1xPCI-E x1</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 2.0</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 3.0</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио/видео</name>
+        <item>
+          <name>Звук</name>
+          <value>7.1CH, HDA, на основе Realtek ALC887</value>
+        </item>
+      </items>
+      <items>
+        <name>Сеть</name>
+        <item>
+          <name>Ethernet</name>
+          <value>10/100 Мбит/с, на основе Realtek 8105E</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Наличие интерфейсов</name>
+          <value>10 USB, 1xCOM, D-Sub, DVI, Ethernet, PS/2 (клавиатура), PS/2 (мышь), LPT</value>
+        </item>
+        <item>
+          <name>Разъемы на задней панели</name>
+          <value>6 USB, D-Sub, DVI, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Основной разъем питания</name>
+          <value>24-pin</value>
+        </item>
+        <item>
+          <name>Разъем питания процессора</name>
+          <value>4-pin</value>
+        </item>
+        <item>
+          <name>Тип системы охлаждения</name>
+          <value>пассивное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные параметры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>microATX</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58688">
+    <title>ASUS Rampage IV Extreme</title>
+    <model>Rampage IV Extreme</model>
+    <marka>ASUS</marka>
+    <catalog id="754893">Материнские платы</catalog>
+    
+    <price1>13162</price1>
+    <price2>19516</price2>
+    <description>
+Intel X79, 1xLGA2011, 8xDDR3 DIMM, 5xPCI-E x16, встроенный звук: HDA, 7.1, Ethernet: 1000 Мбит/с, форм-фактор EATX, eSATA, USB 3.0
+</description>
+    <specification>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA2011</value>
+        </item>
+        <item>
+          <name>Поддерживаемые процессоры</name>
+          <value>Intel Core i7</value>
+        </item>
+        <item>
+          <name>Поддержка многоядерных процессоров</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Чипсет</name>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel X79</value>
+        </item>
+        <item>
+          <name>BIOS</name>
+          <value>c возможностью аварийного восстановления</value>
+        </item>
+        <item>
+          <name>Поддержка SLI/CrossFire</name>
+          <value>SLI/CrossFireX</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>DDR3 DIMM, 1066 - 2400 МГц</value>
+        </item>
+        <item>
+          <name>Количество слотов памяти</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Поддержка четырехканального режима</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальный объем памяти</name>
+          <value>64 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Дисковые контроллеры</name>
+        <item>
+          <name>IDE</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>SATA</name>
+          <value>количество разъемов SATA 3Gb/s: 4, количество разъемов SATA 6Gb/s: 4, RAID: 0, 1, 5, 10</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Слоты расширения</name>
+          <value>5xPCI-E x16, 1xPCI-E x1</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 2.0</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 3.0</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио/видео</name>
+        <item>
+          <name>Звук</name>
+          <value>7.1CH, HDA, на основе Realtek ALC898</value>
+        </item>
+      </items>
+      <items>
+        <name>Сеть</name>
+        <item>
+          <name>Ethernet</name>
+          <value>1000 Мбит/с</value>
+        </item>
+        <item>
+          <name>Bluetooth</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Наличие интерфейсов</name>
+          <value>20 USB, из них 8 USB 3.0 (4 на задней панели), выход S/PDIF, 2xeSATA, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Разъемы на задней панели</name>
+          <value>12 USB, из них 4 USB 3.0, оптический выход, 2xeSATA, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Основной разъем питания</name>
+          <value>24-pin</value>
+        </item>
+        <item>
+          <name>Разъем питания процессора</name>
+          <value>8-pin + 4-pin</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные параметры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>EATX</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58689">
+    <title>GIGABYTE GA-Z77X-UD3H (rev. 1.0)</title>
+    <model>GA-Z77X-UD3H (rev. 1.0)</model>
+    <marka>GIGABYTE</marka>
+    <catalog id="754893">Материнские платы</catalog>
+    
+    <price1>5340</price1>
+    <price2>6300</price2>
+    <description>
+Intel Z77, 1xLGA1155, 4xDDR3 DIMM, 3xPCI-E x16, встроенный звук: HDA, 7.1, Ethernet: 1000 Мбит/с, форм-фактор ATX, DVI, HDMI, DisplayPort, eSATA, USB 3.0
+</description>
+    <specification>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA1155</value>
+        </item>
+        <item>
+          <name>Поддерживаемые процессоры</name>
+          <value>Intel Core i7/Core i5/Core i3/Pentium/Celeron</value>
+        </item>
+        <item>
+          <name>Поддержка многоядерных процессоров</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Чипсет</name>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel Z77</value>
+        </item>
+        <item>
+          <name>BIOS</name>
+          <value>AMI c возможностью аварийного восстановления</value>
+        </item>
+        <item>
+          <name>Поддержка EFI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SLI/CrossFire</name>
+          <value>SLI/CrossFireX</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>DDR3 DIMM, 1066 - 2800 МГц</value>
+        </item>
+        <item>
+          <name>Количество слотов памяти</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Поддержка двухканального режима</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальный объем памяти</name>
+          <value>32 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Дисковые контроллеры</name>
+        <item>
+          <name>IDE</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>SATA</name>
+          <value>количество разъемов SATA 3Gb/s: 4, количество разъемов SATA 6Gb/s: 2, RAID: 0, 1, 5, 10</value>
+        </item>
+        <item>
+          <name>Количество разъемов mSATA</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Слоты расширения</name>
+          <value>3xPCI-E x16, 3xPCI-E x1, 1xPCI</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 2.0</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 3.0</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио/видео</name>
+        <item>
+          <name>Звук</name>
+          <value>7.1CH, HDA, на основе VIA VT2021</value>
+        </item>
+      </items>
+      <items>
+        <name>Сеть</name>
+        <item>
+          <name>Ethernet</name>
+          <value>1000 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Наличие интерфейсов</name>
+          <value>14 USB, из них 8 USB 3.0 (6 на задней панели), выход S/PDIF, D-Sub, DVI, DisplayPort, HDMI, 2xeSATA, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Разъемы на задней панели</name>
+          <value>6 USB, из них 6 USB 3.0, оптический выход, D-Sub, DVI, HDMI, 2xeSATA, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Основной разъем питания</name>
+          <value>24-pin</value>
+        </item>
+        <item>
+          <name>Разъем питания процессора</name>
+          <value>8-pin</value>
+        </item>
+        <item>
+          <name>Тип системы охлаждения</name>
+          <value>пассивное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные параметры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>ATX</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>1 слот PCI Express x16 работает в режиме x8; 1 слот PCI Express x16 работает в режиме x4</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58704">
+    <title>ASUS P8Z77-V PRO</title>
+    <model>P8Z77-V PRO</model>
+    <marka>ASUS</marka>
+    <catalog id="754893">Материнские платы</catalog>
+    
+    <price1>6350</price1>
+    <price2>7699</price2>
+    <description>
+Intel Z77, 1xLGA1155, 4xDDR3 DIMM, 3xPCI-E x16, встроенный звук: HDA, 7.1, Ethernet: 1000 Мбит/с, форм-фактор ATX, DVI, HDMI, DisplayPort, USB 3.0
+</description>
+    <specification>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA1155</value>
+        </item>
+        <item>
+          <name>Поддерживаемые процессоры</name>
+          <value>Intel 22 nm/Intel 32 nm</value>
+        </item>
+        <item>
+          <name>Поддержка многоядерных процессоров</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Чипсет</name>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel Z77</value>
+        </item>
+        <item>
+          <name>BIOS</name>
+          <value>AMI </value>
+        </item>
+        <item>
+          <name>Поддержка EFI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SLI/CrossFire</name>
+          <value>SLI/CrossFireX</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>DDR3 DIMM, 1066 - 2400 МГц</value>
+        </item>
+        <item>
+          <name>Количество слотов памяти</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Поддержка двухканального режима</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальный объем памяти</name>
+          <value>32 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Дисковые контроллеры</name>
+        <item>
+          <name>IDE</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>SATA</name>
+          <value>количество разъемов SATA 3Gb/s: 4, количество разъемов SATA 6Gb/s: 4, RAID: 0, 1, 5, 10 на основе Intel Z77</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Слоты расширения</name>
+          <value>3xPCI-E x16, 2xPCI-E x1, 2xPCI</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 2.0</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 3.0</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио/видео</name>
+        <item>
+          <name>Звук</name>
+          <value>7.1CH, HDA, на основе Realtek ALC892</value>
+        </item>
+      </items>
+      <items>
+        <name>Сеть</name>
+        <item>
+          <name>Ethernet</name>
+          <value>1000 Мбит/с, на основе Intel 82579V</value>
+        </item>
+        <item>
+          <name>Wi-Fi</name>
+          <value>802.11n</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Наличие интерфейсов</name>
+          <value>18 USB, из них 8 USB 3.0 (4 на задней панели), выход S/PDIF, D-Sub, DVI, DisplayPort, HDMI, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Разъемы на задней панели</name>
+          <value>6 USB, из них 4 USB 3.0, оптический выход, D-Sub, DVI, HDMI, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Основной разъем питания</name>
+          <value>24-pin</value>
+        </item>
+        <item>
+          <name>Разъем питания процессора</name>
+          <value>8-pin</value>
+        </item>
+        <item>
+          <name>Тип системы охлаждения</name>
+          <value>пассивное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные параметры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>ATX</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58705">
+    <title>ASRock P4i65G</title>
+    <model>P4i65G</model>
+    <marka>ASRock</marka>
+    <catalog id="754893">Материнские платы</catalog>
+    
+    <price1>2066</price1>
+    <price2>4284</price2>
+    <description>
+Intel 865G, 1xS478, 2xDDR DIMM, AGP, встроенный звук: AC&amp;apos;97, 5.1, встроенная графика, Ethernet: 10/100 Мбит/с, форм-фактор microATX
+</description>
+    <specification>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Socket</name>
+          <value>S478</value>
+        </item>
+        <item>
+          <name>Поддерживаемые процессоры</name>
+          <value>Intel Pentium 4/Celeron D</value>
+        </item>
+        <item>
+          <name>Системная шина</name>
+          <value>533 МГц - 800 МГц</value>
+        </item>
+        <item>
+          <name>Поддержка Hyper-Threading</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Чипсет</name>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel 865G</value>
+        </item>
+        <item>
+          <name>BIOS</name>
+          <value>AMI </value>
+        </item>
+        <item>
+          <name>Поддержка SLI/CrossFire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>DDR DIMM, 266 - 400 МГц</value>
+        </item>
+        <item>
+          <name>Количество слотов памяти</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Поддержка двухканального режима</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальный объем памяти</name>
+          <value>2 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Дисковые контроллеры</name>
+        <item>
+          <name>IDE</name>
+          <value>количество слотов: 2, UltraDMA 100</value>
+        </item>
+        <item>
+          <name>SATA</name>
+          <value>количество разъемов SATA 1.5Gb/s: 2, </value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Слоты расширения</name>
+          <value>AGP, 3xPCI</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио/видео</name>
+        <item>
+          <name>Звук</name>
+          <value>5.1CH, AC'97, на основе Cmedia 9761A</value>
+        </item>
+        <item>
+          <name>Встроенный видеоадаптер</name>
+          <value>есть, на основе Intel Extreme Graphics 2</value>
+        </item>
+      </items>
+      <items>
+        <name>Сеть</name>
+        <item>
+          <name>Ethernet</name>
+          <value>10/100 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Наличие интерфейсов</name>
+          <value>10 USB, 1xCOM, D-Sub, Ethernet, PS/2 (клавиатура), PS/2 (мышь), LPT</value>
+        </item>
+        <item>
+          <name>Разъемы на задней панели</name>
+          <value>6 USB, D-Sub, Ethernet, PS/2 (клавиатура), PS/2 (мышь), LPT</value>
+        </item>
+        <item>
+          <name>Основной разъем питания</name>
+          <value>20-pin</value>
+        </item>
+        <item>
+          <name>Разъем питания процессора</name>
+          <value>4-pin</value>
+        </item>
+        <item>
+          <name>Тип системы охлаждения</name>
+          <value>пассивное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные параметры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>microATX</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>1 AMR слот</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58706">
+    <title>ASUS P8H61-MX</title>
+    <model>P8H61-MX</model>
+    <marka>ASUS</marka>
+    <catalog id="754893">Материнские платы</catalog>
+    
+    <price1>1500</price1>
+    <price2>1527</price2>
+    <description>
+Intel H61, 1xLGA1155, 2xDDR3 DIMM, 1xPCI-E x16, встроенный звук: HDA, 7.1, Ethernet: 1000 Мбит/с, форм-фактор mATX, DVI
+</description>
+    <specification>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA1155</value>
+        </item>
+        <item>
+          <name>Поддерживаемые процессоры</name>
+          <value>Intel Core i3/Core i5/Core i7/Celeron/Pentium</value>
+        </item>
+        <item>
+          <name>Поддержка многоядерных процессоров</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Чипсет</name>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel H61</value>
+        </item>
+        <item>
+          <name>Поддержка EFI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SLI/CrossFire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>DDR3 DIMM, 1066 - 1333 МГц</value>
+        </item>
+        <item>
+          <name>Количество слотов памяти</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Поддержка двухканального режима</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальный объем памяти</name>
+          <value>16 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Дисковые контроллеры</name>
+        <item>
+          <name>IDE</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>SATA</name>
+          <value>количество разъемов SATA 3Gb/s: 4</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Слоты расширения</name>
+          <value>1xPCI-E x16, 1xPCI-E x4, 1xPCI-E x1</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 2.0</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио/видео</name>
+        <item>
+          <name>Звук</name>
+          <value>7.1CH, HDA, на основе VIA VT1708S</value>
+        </item>
+      </items>
+      <items>
+        <name>Сеть</name>
+        <item>
+          <name>Ethernet</name>
+          <value>1000 Мбит/с, на основе Realtek 8111E</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Наличие интерфейсов</name>
+          <value>10 USB, выход S/PDIF, D-Sub, DVI, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Разъемы на задней панели</name>
+          <value>6 USB, D-Sub, DVI, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Основной разъем питания</name>
+          <value>24-pin</value>
+        </item>
+        <item>
+          <name>Разъем питания процессора</name>
+          <value>4-pin</value>
+        </item>
+        <item>
+          <name>Тип системы охлаждения</name>
+          <value>пассивное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные параметры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>microATX</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58718">
+    <title>ASUS P8Z77-V LX</title>
+    <model>P8Z77-V LX</model>
+    <marka>ASUS</marka>
+    <catalog id="754893">Материнские платы</catalog>
+    
+    <price1>2988</price1>
+    <price2>6358</price2>
+    <description>
+Intel Z77, 1xLGA1155, 4xDDR3 DIMM, 2xPCI-E x16, встроенный звук: HDA, 7.1, Ethernet: 1000 Мбит/с, форм-фактор ATX, DVI, HDMI, USB 3.0
+</description>
+    <specification>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA1155</value>
+        </item>
+        <item>
+          <name>Поддерживаемые процессоры</name>
+          <value>Intel 22 nm/32 nm</value>
+        </item>
+        <item>
+          <name>Поддержка многоядерных процессоров</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Чипсет</name>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel Z77</value>
+        </item>
+        <item>
+          <name>BIOS</name>
+          <value>AMI c возможностью аварийного восстановления</value>
+        </item>
+        <item>
+          <name>Поддержка EFI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SLI/CrossFire</name>
+          <value>CrossFire X</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>DDR3 DIMM, 1066 - 2400 МГц</value>
+        </item>
+        <item>
+          <name>Количество слотов памяти</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Поддержка двухканального режима</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальный объем памяти</name>
+          <value>32 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Дисковые контроллеры</name>
+        <item>
+          <name>IDE</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>SATA</name>
+          <value>количество разъемов SATA 3Gb/s: 4, количество разъемов SATA 6Gb/s: 2, RAID: 0, 1, 5, 10 на основе Intel Z77</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Слоты расширения</name>
+          <value>2xPCI-E x16, 2xPCI-E x1, 3xPCI</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 2.0</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 3.0</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио/видео</name>
+        <item>
+          <name>Звук</name>
+          <value>7.1CH, HDA, на основе Realtek ALC887</value>
+        </item>
+      </items>
+      <items>
+        <name>Сеть</name>
+        <item>
+          <name>Ethernet</name>
+          <value>1000 Мбит/с, на основе Realtek 8111E</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Наличие интерфейсов</name>
+          <value>14 USB, из них 4 USB 3.0 (2 на задней панели), выход S/PDIF, 1xCOM, D-Sub, DVI, HDMI, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Разъемы на задней панели</name>
+          <value>6 USB, из них 2 USB 3.0, оптический выход, D-Sub, DVI, HDMI, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Основной разъем питания</name>
+          <value>24-pin</value>
+        </item>
+        <item>
+          <name>Разъем питания процессора</name>
+          <value>8-pin</value>
+        </item>
+        <item>
+          <name>Тип системы охлаждения</name>
+          <value>пассивное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные параметры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>ATX</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>1 слот PCIe 2.0 x16 работает в режиме x4</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58726">
+    <title>GIGABYTE GA-990FXA-UD5 (rev. 1.0)</title>
+    <model>GA-990FXA-UD5 (rev. 1.0)</model>
+    <marka>GIGABYTE</marka>
+    <catalog id="754893">Материнские платы</catalog>
+    
+    <price1>4640</price1>
+    <price2>8649</price2>
+    <description>
+AMD 990FX, 1xAM3+, 4xDDR3 DIMM, 5xPCI-E x16, встроенный звук: HDA, 7.1, Ethernet: 1000 Мбит/с, форм-фактор ATX, eSATA, USB 3.0
+</description>
+    <specification>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Socket</name>
+          <value>AM3+</value>
+        </item>
+        <item>
+          <name>Поддерживаемые процессоры</name>
+          <value>AMD Phenom II/Athlon II</value>
+        </item>
+        <item>
+          <name>Системная шина</name>
+          <value>HyperTransport</value>
+        </item>
+        <item>
+          <name>Поддержка многоядерных процессоров</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Чипсет</name>
+        <item>
+          <name>Чипсет</name>
+          <value>AMD 990FX</value>
+        </item>
+        <item>
+          <name>BIOS</name>
+          <value>Award c возможностью аварийного восстановления</value>
+        </item>
+        <item>
+          <name>Поддержка SLI/CrossFire</name>
+          <value>SLI/CrossFireX</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>DDR3 DIMM, 1066 - 2000 МГц</value>
+        </item>
+        <item>
+          <name>Количество слотов памяти</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Поддержка двухканального режима</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальный объем памяти</name>
+          <value>32 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Дисковые контроллеры</name>
+        <item>
+          <name>IDE</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>SATA</name>
+          <value>количество разъемов SATA 6Gb/s: 8, RAID: 0, 1, 5, 10, JBOD на основе AMD SB950</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Слоты расширения</name>
+          <value>5xPCI-E x16, 1xPCI-E x1, 1xPCI</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 2.0</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио/видео</name>
+        <item>
+          <name>Звук</name>
+          <value>7.1CH, HDA, на основе Realtek ALC889</value>
+        </item>
+      </items>
+      <items>
+        <name>Сеть</name>
+        <item>
+          <name>Ethernet</name>
+          <value>1000 Мбит/с, на основе Realtek RTL8111E</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Наличие интерфейсов</name>
+          <value>18 USB, из них 4 USB 3.0 (2 на задней панели), 2xFireWire (IEEE1394a), выход S/PDIF, 1xCOM, 2xeSATA, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Разъемы на задней панели</name>
+          <value>10 USB, из них 2 USB 3.0, 1xFireWire (IEEE1394a), оптический выход, 2xeSATA, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Основной разъем питания</name>
+          <value>24-pin</value>
+        </item>
+        <item>
+          <name>Разъем питания процессора</name>
+          <value>8-pin</value>
+        </item>
+        <item>
+          <name>Тип системы охлаждения</name>
+          <value>пассивное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные параметры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>ATX</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>2 слота PCI Express x16 работают в режиме x4, 1 слот PCI Express x16 работает в режиме x8; 1 x PS/2 порт - комбинированный</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58735">
+    <title>ASUS M5A97 PRO</title>
+    <model>M5A97 PRO</model>
+    <marka>ASUS</marka>
+    <catalog id="754893">Материнские платы</catalog>
+    
+    <price1>2864</price1>
+    <price2>3968</price2>
+    <description>
+AMD 970, 1xAM3+, 4xDDR3 DIMM, 2xPCI-E x16, встроенный звук: HDA, 7.1, Ethernet: 1000 Мбит/с, форм-фактор ATX, eSATA, USB 3.0
+</description>
+    <specification>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Socket</name>
+          <value>AM3+</value>
+        </item>
+        <item>
+          <name>Поддерживаемые процессоры</name>
+          <value>AMD FX/Phenom II/Athlon II/Sempron 100 Series</value>
+        </item>
+        <item>
+          <name>Системная шина</name>
+          <value>HyperTransport</value>
+        </item>
+        <item>
+          <name>Поддержка многоядерных процессоров</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Чипсет</name>
+        <item>
+          <name>Чипсет</name>
+          <value>AMD 970</value>
+        </item>
+        <item>
+          <name>Поддержка SLI/CrossFire</name>
+          <value>CrossFire X</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>DDR3 DIMM, 1066 - 2133 МГц</value>
+        </item>
+        <item>
+          <name>Тип памяти</name>
+          <value>ECC/non-ECC</value>
+        </item>
+        <item>
+          <name>Количество слотов памяти</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Поддержка двухканального режима</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальный объем памяти</name>
+          <value>32 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Дисковые контроллеры</name>
+        <item>
+          <name>IDE</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>SATA</name>
+          <value>количество разъемов SATA 6Gb/s: 6, RAID: 0, 1, 5, 10 на основе AMD SB950</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Слоты расширения</name>
+          <value>2xPCI-E x16, 2xPCI-E x1, 2xPCI</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 2.0</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио/видео</name>
+        <item>
+          <name>Звук</name>
+          <value>7.1CH, HDA, на основе Realtek ALC 892</value>
+        </item>
+      </items>
+      <items>
+        <name>Сеть</name>
+        <item>
+          <name>Ethernet</name>
+          <value>1000 Мбит/с, на основе Realtek 8111E</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Наличие интерфейсов</name>
+          <value>16 USB, из них 2 USB 3.0 (2 на задней панели), выход S/PDIF, 1xCOM, 2xeSATA, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Разъемы на задней панели</name>
+          <value>10 USB, из них 2 USB 3.0, оптический выход, 2xeSATA, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Основной разъем питания</name>
+          <value>24-pin</value>
+        </item>
+        <item>
+          <name>Разъем питания процессора</name>
+          <value>8-pin</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные параметры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>ATX</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>1 слот PCIe 2.0 x16 работает в режиме x4; 1 x PS/2 порт - комбинированный</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58745">
+    <title>GIGABYTE GA-P75-D3 (rev. 1.0)</title>
+    <model>GA-P75-D3 (rev. 1.0)</model>
+    <marka>GIGABYTE</marka>
+    <catalog id="754893">Материнские платы</catalog>
+    
+    <price1>2190</price1>
+    <price2>3390</price2>
+    <description>
+Intel B75, 1xLGA1155, 4xDDR3 DIMM, 2xPCI-E x16, встроенный звук: HDA, 7.1, Ethernet: 1000 Мбит/с, форм-фактор ATX, USB 3.0
+</description>
+    <specification>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA1155</value>
+        </item>
+        <item>
+          <name>Поддерживаемые процессоры</name>
+          <value>Intel Core i7/Core i5/Core i3/Pentium/Celeron</value>
+        </item>
+        <item>
+          <name>Поддержка многоядерных процессоров</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Чипсет</name>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel B75</value>
+        </item>
+        <item>
+          <name>BIOS</name>
+          <value>AMI c возможностью аварийного восстановления</value>
+        </item>
+        <item>
+          <name>Поддержка EFI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SLI/CrossFire</name>
+          <value>CrossFire X</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>DDR3 DIMM, 1066 - 1600 МГц</value>
+        </item>
+        <item>
+          <name>Количество слотов памяти</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Поддержка двухканального режима</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальный объем памяти</name>
+          <value>32 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Дисковые контроллеры</name>
+        <item>
+          <name>IDE</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>SATA</name>
+          <value>количество разъемов SATA 3Gb/s: 4, количество разъемов SATA 6Gb/s: 1</value>
+        </item>
+        <item>
+          <name>Количество разъемов mSATA</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Слоты расширения</name>
+          <value>2xPCI-E x16, 1xPCI-E x1, 4xPCI</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 2.0</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка PCI Express 3.0</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио/видео</name>
+        <item>
+          <name>Звук</name>
+          <value>7.1CH, HDA, на основе Realtek ALC887</value>
+        </item>
+      </items>
+      <items>
+        <name>Сеть</name>
+        <item>
+          <name>Ethernet</name>
+          <value>1000 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Наличие интерфейсов</name>
+          <value>12 USB, из них 4 USB 3.0 (2 на задней панели), выход S/PDIF, 1xCOM, Ethernet, PS/2 (клавиатура), PS/2 (мышь), LPT</value>
+        </item>
+        <item>
+          <name>Разъемы на задней панели</name>
+          <value>4 USB, из них 2 USB 3.0, коаксиальный выход, 1xCOM, Ethernet, PS/2 (клавиатура), PS/2 (мышь), LPT</value>
+        </item>
+        <item>
+          <name>Основной разъем питания</name>
+          <value>24-pin</value>
+        </item>
+        <item>
+          <name>Разъем питания процессора</name>
+          <value>4-pin</value>
+        </item>
+        <item>
+          <name>Тип системы охлаждения</name>
+          <value>пассивное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные параметры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>ATX</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58752">
+    <title>ASUS M5A78L-M/USB3</title>
+    <model>M5A78L-M/USB3</model>
+    <marka>ASUS</marka>
+    <catalog id="754893">Материнские платы</catalog>
+    
+    <price1>1836</price1>
+    <price2>4080</price2>
+    <description>
+AMD 760G, 1xAM3+, 4xDDR3 DIMM, 1xPCI-E x16, встроенный звук: HDA, 7.1, встроенная графика, Ethernet: 1000 Мбит/с, форм-фактор microATX, DVI, HDMI, USB 3.0
+</description>
+    <specification>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Socket</name>
+          <value>AM3+</value>
+        </item>
+        <item>
+          <name>Поддерживаемые процессоры</name>
+          <value>AMD FX/Phenom II/Athlon II/Sempron 100 Series</value>
+        </item>
+        <item>
+          <name>Системная шина</name>
+          <value>HyperTransport</value>
+        </item>
+        <item>
+          <name>Поддержка многоядерных процессоров</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Чипсет</name>
+        <item>
+          <name>Чипсет</name>
+          <value>AMD 760G</value>
+        </item>
+        <item>
+          <name>BIOS</name>
+          <value>AMI </value>
+        </item>
+        <item>
+          <name>Поддержка SLI/CrossFire</name>
+          <value>Hybrid CrossFireX</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>DDR3 DIMM, 1066 - 2000 МГц</value>
+        </item>
+        <item>
+          <name>Тип памяти</name>
+          <value>ECC/non-ECC</value>
+        </item>
+        <item>
+          <name>Количество слотов памяти</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Поддержка двухканального режима</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальный объем памяти</name>
+          <value>32 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Дисковые контроллеры</name>
+        <item>
+          <name>IDE</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>SATA</name>
+          <value>количество разъемов SATA 3Gb/s: 6, RAID: 0, 1, 10, JBOD на основе AMD SB710</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Слоты расширения</name>
+          <value>1xPCI-E x16, 1xPCI-E x1, 2xPCI</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио/видео</name>
+        <item>
+          <name>Звук</name>
+          <value>7.1CH, HDA, на основе VIA VT1708S</value>
+        </item>
+        <item>
+          <name>Встроенный видеоадаптер</name>
+          <value>есть, на основе ATI Radeon HD3000</value>
+        </item>
+      </items>
+      <items>
+        <name>Сеть</name>
+        <item>
+          <name>Ethernet</name>
+          <value>1000 Мбит/с, на основе Realtek 8111E</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Наличие интерфейсов</name>
+          <value>12 USB, из них 2 USB 3.0 (2 на задней панели), выход S/PDIF, 1xCOM, D-Sub, DVI, HDMI, Ethernet, PS/2 (клавиатура), PS/2 (мышь), LPT</value>
+        </item>
+        <item>
+          <name>Разъемы на задней панели</name>
+          <value>6 USB, из них 2 USB 3.0, оптический выход, D-Sub, DVI, HDMI, Ethernet, PS/2 (клавиатура), PS/2 (мышь)</value>
+        </item>
+        <item>
+          <name>Основной разъем питания</name>
+          <value>24-pin</value>
+        </item>
+        <item>
+          <name>Разъем питания процессора</name>
+          <value>4-pin</value>
+        </item>
+        <item>
+          <name>Тип системы охлаждения</name>
+          <value>пассивное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные параметры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>microATX</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

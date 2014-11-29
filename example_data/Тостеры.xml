@@ -1,0 +1,2006 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="20936">
+    <title>Bosch TAT 8611/8613</title>
+    <model>TAT 8611/8613</model>
+    <marka>Bosch</marka>
+    <catalog id="118513">Тостеры</catalog>
+    
+    <price1>2510</price1>
+    <price2>4655</price2>
+    <description>
+
+
+
+ мощность 860 Вт, число отделений - 2, число тостов - 2, электронное управление, функция размораживания, решётка для подогрева булочек, термоизолированный корпус 
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>860 Вт</value>
+        </item>
+        <item>
+          <name>Количество отделений</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество тостов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Регулировка степени поджаривания</name>
+          <value>есть, плавная</value>
+        </item>
+        <item>
+          <name>Одностороннее обжаривание</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопка отмены</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция размораживания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция подогрева</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Термоизолированный корпус</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Автоматическое центрирование тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое поднятие тостов</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Решетка для подогрева булочек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддон для крошек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Отсек для сетевого шнура</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>5 степеней обжаривания, автоматическое отключение при застревании тоста или опрокидывании прибора</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="20968">
+    <title>Bosch TAT 4610/4620</title>
+    <model>TAT 4610/4620</model>
+    <marka>Bosch</marka>
+    <catalog id="118513">Тостеры</catalog>
+    
+    <price1>1210</price1>
+    <price2>1731</price2>
+    <description>
+
+
+
+ мощность 950 Вт, число отделений - 2, число тостов - 2, механическое управление, решётка для подогрева булочек 
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>950 Вт</value>
+        </item>
+        <item>
+          <name>Количество отделений</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество тостов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Регулировка степени поджаривания</name>
+          <value>есть, плавная</value>
+        </item>
+        <item>
+          <name>Одностороннее обжаривание</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопка отмены</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция размораживания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция подогрева</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Автоматическое центрирование тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>"Экстра-подъем" тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое поднятие тостов</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Решетка для подогрева булочек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддон для крошек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>6 степеней обжаривания</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="20970">
+    <title>Philips HD 2630</title>
+    <model>HD 2630</model>
+    <marka>Philips</marka>
+    <catalog id="118513">Тостеры</catalog>
+    
+    <price1>1240</price1>
+    <price2>2190</price2>
+    <description>
+
+
+
+ мощность 1000 Вт, число отделений - 2, число тостов - 2, механическое управление, функция размораживания, решётка для подогрева булочек 
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>1000 Вт</value>
+        </item>
+        <item>
+          <name>Количество отделений</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество тостов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Регулировка степени поджаривания</name>
+          <value>есть, плавная</value>
+        </item>
+        <item>
+          <name>Одностороннее обжаривание</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопка отмены</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция размораживания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция подогрева</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Автоматическое центрирование тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>"Экстра-подъем" тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое поднятие тостов</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Решетка для подогрева булочек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддон для крошек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Отсек для сетевого шнура</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Длина сетевого шнура</name>
+          <value>85 см</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>7 степеней обжаривания</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="20971">
+    <title>Bosch TAT 6101/6103/6104/6108/61088</title>
+    <model>TAT 6101/6103/6104/6108/61088</model>
+    <marka>Bosch</marka>
+    <catalog id="118513">Тостеры</catalog>
+    
+    <price1>1085</price1>
+    <price2>2300</price2>
+    <description>
+
+
+
+ мощность 900 Вт, число отделений - 2, число тостов - 2, механическое управление, функция размораживания, решётка для подогрева булочек, термоизолированный корпус 
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>900 Вт</value>
+        </item>
+        <item>
+          <name>Количество отделений</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество тостов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Регулировка степени поджаривания</name>
+          <value>есть, плавная</value>
+        </item>
+        <item>
+          <name>Одностороннее обжаривание</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопка отмены</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция размораживания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция подогрева</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Термоизолированный корпус</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Автоматическое центрирование тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>"Экстра-подъем" тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое поднятие тостов</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Решетка для подогрева булочек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддон для крошек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Отсек для сетевого шнура</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Габариты (ВхШхГ)</name>
+          <value>21.2x19 см</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>6 степеней обжаривания, автоматическое отключение при застревании тостов</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="20975">
+    <title>Bosch TAT 6901</title>
+    <model>TAT 6901</model>
+    <marka>Bosch</marka>
+    <catalog id="118513">Тостеры</catalog>
+    
+    <price1>1881</price1>
+    <price2>3290</price2>
+    <description>
+
+
+
+ мощность 900 Вт, число отделений - 2, число тостов - 2, механическое управление, функция размораживания, решётка для подогрева булочек, термоизолированный корпус 
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>900 Вт</value>
+        </item>
+        <item>
+          <name>Количество отделений</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество тостов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Регулировка степени поджаривания</name>
+          <value>есть, плавная</value>
+        </item>
+        <item>
+          <name>Одностороннее обжаривание</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопка отмены</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция размораживания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция подогрева</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Термоизолированный корпус</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Автоматическое центрирование тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>"Экстра-подъем" тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое поднятие тостов</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Решетка для подогрева булочек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддон для крошек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Подсветка элементов управления</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отсек для сетевого шнура</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>6 степеней обжаривания, автoмaтичecкoe oтключeниe пpи зacтpeвaнии тocтoв</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="20982">
+    <title>Philips HD 2627</title>
+    <model>HD 2627</model>
+    <marka>Philips</marka>
+    <catalog id="118513">Тостеры</catalog>
+    
+    <price1>1467</price1>
+    <price2>2700</price2>
+    <description>
+
+
+
+ мощность 900 Вт, число отделений - 2, число тостов - 2, механическое управление, функция размораживания, решётка для подогрева булочек 
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>900 Вт</value>
+        </item>
+        <item>
+          <name>Количество отделений</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество тостов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Регулировка степени поджаривания</name>
+          <value>есть, плавная</value>
+        </item>
+        <item>
+          <name>Одностороннее обжаривание</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопка отмены</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция размораживания</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Автоматическое центрирование тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>"Экстра-подъем" тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое поднятие тостов</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Решетка для подогрева булочек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддон для крошек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Подсветка элементов управления</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отсек для сетевого шнура</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Длина сетевого шнура</name>
+          <value>75 см</value>
+        </item>
+        <item>
+          <name>Габариты (ВхШхГ)</name>
+          <value>23x19.5 см</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>7 степеней обжаривания</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="20986">
+    <title>Philips HD 2636</title>
+    <model>HD 2636</model>
+    <marka>Philips</marka>
+    <catalog id="118513">Тостеры</catalog>
+    
+    <price1>1392</price1>
+    <price2>3611</price2>
+    <description>
+
+
+
+ мощность 1000 Вт, число отделений - 2, число тостов - 2, электронное управление, функция размораживания, решётка для подогрева булочек, термоизолированный корпус 
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>1000 Вт</value>
+        </item>
+        <item>
+          <name>Количество отделений</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество тостов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Регулировка степени поджаривания</name>
+          <value>есть, плавная</value>
+        </item>
+        <item>
+          <name>Одностороннее обжаривание</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопка отмены</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция размораживания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция подогрева</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Термоизолированный корпус</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Автоматическое центрирование тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>"Экстра-подъем" тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое поднятие тостов</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Решетка для подогрева булочек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддон для крошек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Подсветка элементов управления</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отсек для сетевого шнура</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Длина сетевого шнура</name>
+          <value>85 см</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>7 степеней обжаривания</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="21002">
+    <title>Philips HD 2566</title>
+    <model>HD 2566</model>
+    <marka>Philips</marka>
+    <catalog id="118513">Тостеры</catalog>
+    
+    <price1>680</price1>
+    <price2>1195</price2>
+    <description>
+
+
+
+ мощность 950 Вт, число отделений - 2, число тостов - 2, механическое управление, функция размораживания 
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>950 Вт</value>
+        </item>
+        <item>
+          <name>Количество отделений</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество тостов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Регулировка степени поджаривания</name>
+          <value>есть, плавная</value>
+        </item>
+        <item>
+          <name>Одностороннее обжаривание</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопка отмены</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция размораживания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция подогрева</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Термоизолированный корпус</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Автоматическое центрирование тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>"Экстра-подъем" тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое поднятие тостов</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Решетка для подогрева булочек</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддон для крошек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Отсек для сетевого шнура</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Длина сетевого шнура</name>
+          <value>90 см</value>
+        </item>
+        <item>
+          <name>Габариты (ВхШхГ)</name>
+          <value>12x13 см</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>7 степеней обжаривания</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="21008">
+    <title>Delonghi CTO 2003</title>
+    <model>CTO 2003</model>
+    <marka>Delonghi</marka>
+    <catalog id="118513">Тостеры</catalog>
+    
+    <price1>2690</price1>
+    <price2>4662</price2>
+    <description>
+
+
+
+ мощность 900 Вт, число отделений - 2, число тостов - 2, механическое управление, функция размораживания 
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>900 Вт</value>
+        </item>
+        <item>
+          <name>Количество отделений</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество тостов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Регулировка степени поджаривания</name>
+          <value>есть, плавная</value>
+        </item>
+        <item>
+          <name>Одностороннее обжаривание</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Кнопка отмены</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция размораживания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция подогрева</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Автоматическое центрирование тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>"Экстра-подъем" тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое поднятие тостов</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Решетка для подогрева булочек</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддон для крошек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Габариты (ВхШхГ)</name>
+          <value>21x18.5 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>6 степеней обжаривания</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="21010">
+    <title>Moulinex TT 1100 Principio</title>
+    <model>TT 1100 Principio</model>
+    <marka>Moulinex</marka>
+    <catalog id="118513">Тостеры</catalog>
+    
+    <price1>879</price1>
+    <price2>1020</price2>
+    <description>
+
+
+
+ мощность 850 Вт, число отделений - 2, число тостов - 2, механическое управление, функция размораживания 
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>850 Вт</value>
+        </item>
+        <item>
+          <name>Количество отделений</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество тостов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Регулировка степени поджаривания</name>
+          <value>есть, плавная</value>
+        </item>
+        <item>
+          <name>Одностороннее обжаривание</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопка отмены</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция размораживания</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Автоматическое центрирование тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>"Экстра-подъем" тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое поднятие тостов</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Решетка для подогрева булочек</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддон для крошек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>6 степеней обжаривания</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="21026">
+    <title>Tefal 5396 Delfini</title>
+    <model>5396 Delfini</model>
+    <marka>Tefal</marka>
+    <catalog id="118513">Тостеры</catalog>
+    
+    <price1>1320</price1>
+    <price2>1940</price2>
+    <description>
+
+
+
+ мощность 800 Вт, число отделений - 2, число тостов - 2, механическое управление, функция размораживания, решётка для подогрева булочек, термоизолированный корпус 
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>800 Вт</value>
+        </item>
+        <item>
+          <name>Количество отделений</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество тостов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Регулировка степени поджаривания</name>
+          <value>есть, плавная</value>
+        </item>
+        <item>
+          <name>Одностороннее обжаривание</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопка отмены</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция размораживания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция подогрева</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Термоизолированный корпус</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Автоматическое центрирование тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>"Экстра-подъем" тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое поднятие тостов</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Решетка для подогрева булочек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддон для крошек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Отсек для сетевого шнура</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>7 степеней обжаривания</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="21030">
+    <title>Tefal TT 3571 Express</title>
+    <model>TT 3571 Express</model>
+    <marka>Tefal</marka>
+    <catalog id="118513">Тостеры</catalog>
+    
+    <price1>1108</price1>
+    <price2>1623</price2>
+    <description>
+
+
+
+ мощность 850 Вт, число отделений - 2, число тостов - 2, электронное управление, функция размораживания 
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>850 Вт</value>
+        </item>
+        <item>
+          <name>Количество отделений</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество тостов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Регулировка степени поджаривания</name>
+          <value>есть, плавная</value>
+        </item>
+        <item>
+          <name>Одностороннее обжаривание</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопка отмены</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция размораживания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция подогрева</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Автоматическое центрирование тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое поднятие тостов</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Решетка для подогрева булочек</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддон для крошек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Подсветка элементов управления</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отсек для сетевого шнура</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>7 степеней обжаривания</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="21032">
+    <title>Moulinex TT 1761 Subito</title>
+    <model>TT 1761 Subito</model>
+    <marka>Moulinex</marka>
+    <catalog id="118513">Тостеры</catalog>
+    
+    <price1>1240</price1>
+    <price2>2022</price2>
+    <description>
+
+
+
+ мощность 850 Вт, число отделений - 2, число тостов - 2, функция размораживания 
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>850 Вт</value>
+        </item>
+        <item>
+          <name>Количество отделений</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество тостов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Регулировка степени поджаривания</name>
+          <value>есть, плавная</value>
+        </item>
+        <item>
+          <name>Кнопка отмены</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция размораживания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция подогрева</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Автоматическое центрирование тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>"Экстра-подъем" тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое поднятие тостов</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Решетка для подогрева булочек</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддон для крошек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>6 степеней обжаривания</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="21042">
+    <title>Tefal TT 2251</title>
+    <model>TT 2251</model>
+    <marka>Tefal</marka>
+    <catalog id="118513">Тостеры</catalog>
+    
+    <price1>1390</price1>
+    <price2>1690</price2>
+    <description>
+
+
+
+ мощность 800 Вт, число отделений - 2, число тостов - 2, механическое управление 
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>800 Вт</value>
+        </item>
+        <item>
+          <name>Количество отделений</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество тостов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Регулировка степени поджаривания</name>
+          <value>есть, плавная</value>
+        </item>
+        <item>
+          <name>Одностороннее обжаривание</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопка отмены</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция размораживания</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Функция подогрева</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Автоматическое центрирование тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>"Экстра-подъем" тостов</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Автоматическое поднятие тостов</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Решетка для подогрева булочек</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддон для крошек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>щипцы для выемки тостов, 6 степеней обжаривания</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="21044">
+    <title>Kenwood TTM021</title>
+    <model>TTM021</model>
+    <marka>Kenwood</marka>
+    <catalog id="118513">Тостеры</catalog>
+    
+    <price1>2800</price1>
+    <price2>4492</price2>
+    <description>
+
+
+
+ мощность 900 Вт, число отделений - 2, число тостов - 2, механическое управление, функция размораживания, решётка для подогрева булочек 
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>900 Вт</value>
+        </item>
+        <item>
+          <name>Количество отделений</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество тостов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Регулировка степени поджаривания</name>
+          <value>есть, плавная</value>
+        </item>
+        <item>
+          <name>Одностороннее обжаривание</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопка отмены</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция размораживания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция подогрева</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Термоизолированный корпус</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Автоматическое центрирование тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>"Экстра-подъем" тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое поднятие тостов</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Решетка для подогрева булочек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддон для крошек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Габариты (ВхШхГ)</name>
+          <value>16.5x15.3 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.9 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>7 степеней обжаривания</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="21052">
+    <title>Kenwood TTM024A</title>
+    <model>TTM024A</model>
+    <marka>Kenwood</marka>
+    <catalog id="118513">Тостеры</catalog>
+    
+    <price1>4320</price1>
+    <price2>4590</price2>
+    <description>
+
+
+
+ мощность 900 Вт, число отделений - 2, число тостов - 2, механическое управление, функция размораживания, решётка для подогрева булочек 
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>900 Вт</value>
+        </item>
+        <item>
+          <name>Количество отделений</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество тостов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Регулировка степени поджаривания</name>
+          <value>есть, плавная</value>
+        </item>
+        <item>
+          <name>Одностороннее обжаривание</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопка отмены</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция размораживания</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Автоматическое центрирование тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>"Экстра-подъем" тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое поднятие тостов</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Решетка для подогрева булочек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддон для крошек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Отсек для сетевого шнура</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Габариты (ВхШхГ)</name>
+          <value>16.5x15 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.9 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>7 степеней обжаривания</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="21055">
+    <title>Kenwood TTM023</title>
+    <model>TTM023</model>
+    <marka>Kenwood</marka>
+    <catalog id="118513">Тостеры</catalog>
+    
+    <price1>3910</price1>
+    <price2>4990</price2>
+    <description>
+
+
+
+ мощность 900 Вт, число отделений - 2, число тостов - 2, механическое управление, функция размораживания, решётка для подогрева булочек, термоизолированный корпус 
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>900 Вт</value>
+        </item>
+        <item>
+          <name>Количество отделений</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество тостов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Регулировка степени поджаривания</name>
+          <value>есть, плавная</value>
+        </item>
+        <item>
+          <name>Одностороннее обжаривание</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопка отмены</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция размораживания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция подогрева</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Термоизолированный корпус</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Автоматическое центрирование тостов</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>"Экстра-подъем" тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое поднятие тостов</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Решетка для подогрева булочек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддон для крошек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Отсек для сетевого шнура</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Габариты (ВхШхГ)</name>
+          <value>16.5x15 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.9 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>7 степеней обжаривания</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="21058">
+    <title>Kenwood TTM020A</title>
+    <model>TTM020A</model>
+    <marka>Kenwood</marka>
+    <catalog id="118513">Тостеры</catalog>
+    
+    <price1>3080</price1>
+    <price2>4590</price2>
+    <description>
+
+
+
+ мощность 900 Вт, число отделений - 2, число тостов - 2, механическое управление, функция размораживания, решётка для подогрева булочек 
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>900 Вт</value>
+        </item>
+        <item>
+          <name>Количество отделений</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество тостов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Регулировка степени поджаривания</name>
+          <value>есть, плавная</value>
+        </item>
+        <item>
+          <name>Одностороннее обжаривание</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопка отмены</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция размораживания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция подогрева</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Термоизолированный корпус</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Автоматическое центрирование тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>"Экстра-подъем" тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое поднятие тостов</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Решетка для подогрева булочек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддон для крошек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Габариты (ВхШхГ)</name>
+          <value>16.5x15.3 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.9 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>7 степеней обжаривания</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="21062">
+    <title>Philips HD 2586</title>
+    <model>HD 2586</model>
+    <marka>Philips</marka>
+    <catalog id="118513">Тостеры</catalog>
+    
+    <price1>1260</price1>
+    <price2>2190</price2>
+    <description>
+
+
+
+ мощность 950 Вт, число отделений - 2, число тостов - 2, электронное управление, функция размораживания, термоизолированный корпус 
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>950 Вт</value>
+        </item>
+        <item>
+          <name>Количество отделений</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество тостов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Регулировка степени поджаривания</name>
+          <value>есть, плавная</value>
+        </item>
+        <item>
+          <name>Одностороннее обжаривание</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопка отмены</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция размораживания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция подогрева</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Термоизолированный корпус</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Автоматическое центрирование тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>"Экстра-подъем" тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое поднятие тостов</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Решетка для подогрева булочек</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддон для крошек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Отсек для сетевого шнура</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Длина сетевого шнура</name>
+          <value>80 см</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>7 степеней обжаривания</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="21066">
+    <title>Kenwood TTM025</title>
+    <model>TTM025</model>
+    <marka>Kenwood</marka>
+    <catalog id="118513">Тостеры</catalog>
+    
+    <price1>4650</price1>
+    <price2>4990</price2>
+    <description>
+
+
+
+ мощность 900 Вт, число отделений - 2, число тостов - 2, механическое управление, функция размораживания, решётка для подогрева булочек, термоизолированный корпус 
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>900 Вт</value>
+        </item>
+        <item>
+          <name>Количество отделений</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество тостов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Регулировка степени поджаривания</name>
+          <value>есть, плавная</value>
+        </item>
+        <item>
+          <name>Одностороннее обжаривание</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Кнопка отмены</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция размораживания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция подогрева</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Термоизолированный корпус</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Автоматическое центрирование тостов</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>"Экстра-подъем" тостов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое поднятие тостов</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Решетка для подогрева булочек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддон для крошек</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Отсек для сетевого шнура</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Габариты (ВхШхГ)</name>
+          <value>16.5x15 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.9 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>7 степеней обжаривания</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

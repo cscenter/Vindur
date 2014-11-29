@@ -1,0 +1,2374 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="8925">
+    <title>Indesit TT 85</title>
+    <model>TT 85</model>
+    <marka>Indesit</marka>
+    <catalog id="107500">Холодильники</catalog>
+    
+    <price1>7850</price1>
+    <price2>13050</price2>
+    <description>
+
+холодильник с морозильником, отдельно стоящий, морозильник сверху, общий объем 108 л, 1-камерный, электромеханическое управление, габариты (ШxГxВ): 60x62x85 см, цвет: белый
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>холодильник с морозильником</value>
+        </item>
+        <item>
+          <name>Расположение</name>
+          <value>отдельно стоящий</value>
+        </item>
+        <item>
+          <name>Расположение морозильной камеры</name>
+          <value>сверху</value>
+        </item>
+        <item>
+          <name>Цвет / Материал покрытия</name>
+          <value>белый
+  / пластик</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электромеханическое</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс B
+</value>
+        </item>
+        <item>
+          <name>Количество компрессоров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Хладагент</name>
+          <value>R600a (изобутан)</value>
+        </item>
+        <item>
+          <name>Количество камер</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество дверей</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Габариты (ШxГxВ)</name>
+          <value>60x62x85 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Холод</name>
+        <item>
+          <name>Размораживание морозильной камеры</name>
+          <value>ручное</value>
+        </item>
+        <item>
+          <name>Размораживание холодильной камеры</name>
+          <value>капельная система</value>
+        </item>
+        <item>
+          <name>Минимальная температура в морозильной камере</name>
+          <value>-12 °C</value>
+        </item>
+      </items>
+      <items>
+        <name>Объем</name>
+        <item>
+          <name>Общий объем</name>
+          <value>120 л</value>
+        </item>
+        <item>
+          <name>Объем холодильной камеры</name>
+          <value>106 л</value>
+        </item>
+        <item>
+          <name>Объем морозильной камеры</name>
+          <value>14 л</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Возможность перевешивания двери</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Климатический класс</name>
+          <value>N</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="8931">
+    <title>Bosch KAN58A45</title>
+    <model>KAN58A45</model>
+    <marka>Bosch</marka>
+    <catalog id="107500">Холодильники</catalog>
+    
+    <price1>63300</price1>
+    <price2>183720</price2>
+    <description>
+
+холодильник с морозильником, отдельно стоящий, Side by Side, общий объем 531 л, 2-камерный, электронное управление, генератор льда, система подачи холодной воды, габариты (ШxГxВ): 90x67x180 см, цвет: серый
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>холодильник с морозильником</value>
+        </item>
+        <item>
+          <name>Расположение</name>
+          <value>отдельно стоящий</value>
+        </item>
+        <item>
+          <name>Расположение морозильной камеры</name>
+          <value>Side by Side</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серый
+</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс A+
+ (438 кВтч/год)</value>
+        </item>
+        <item>
+          <name>Количество компрессоров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество камер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество дверей</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Габариты (ШxГxВ)</name>
+          <value>90x67x180 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Холод</name>
+        <item>
+          <name>Размораживание морозильной камеры</name>
+          <value>No Frost</value>
+        </item>
+        <item>
+          <name>Автономное сохранение холода</name>
+          <value>до 5 ч</value>
+        </item>
+        <item>
+          <name>Мощность замораживания</name>
+          <value>до 10 кг/cутки</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>суперохлаждение, суперзаморозка, индикация температуры</value>
+        </item>
+      </items>
+      <items>
+        <name>Объем</name>
+        <item>
+          <name>Общий объем</name>
+          <value>531 л</value>
+        </item>
+        <item>
+          <name>Объем холодильной камеры</name>
+          <value>356 л</value>
+        </item>
+        <item>
+          <name>Объем морозильной камеры</name>
+          <value>175 л</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Генератор льда</name>
+          <value>в комплекте</value>
+        </item>
+        <item>
+          <name>Система подачи холодной воды</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал полок</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>до 45 дБ</value>
+        </item>
+        <item>
+          <name>Климатический класс</name>
+          <value>SN, T</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>108 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="8933">
+    <title>Bosch KGN36S55</title>
+    <model>KGN36S55</model>
+    <marka>Bosch</marka>
+    <catalog id="107500">Холодильники</catalog>
+    
+    <price1>35980</price1>
+    <price2>54895</price2>
+    <description>
+
+холодильник с морозильником, отдельно стоящий, морозильник снизу, общий объем 289 л, 2-камерный, электронное управление, зона свежести, габариты (ШxГxВ): 60x64x185 см, цвет: серебристый
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>холодильник с морозильником</value>
+        </item>
+        <item>
+          <name>Расположение</name>
+          <value>отдельно стоящий</value>
+        </item>
+        <item>
+          <name>Расположение морозильной камеры</name>
+          <value>снизу</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый
+</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс A+
+ (281 кВтч/год)</value>
+        </item>
+        <item>
+          <name>Количество компрессоров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество камер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество дверей</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Габариты (ШxГxВ)</name>
+          <value>60x64x185 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Холод</name>
+        <item>
+          <name>Зона свежести</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размораживание морозильной камеры</name>
+          <value>No Frost</value>
+        </item>
+        <item>
+          <name>Автономное сохранение холода</name>
+          <value>до 17 ч</value>
+        </item>
+        <item>
+          <name>Мощность замораживания</name>
+          <value>до 8 кг/cутки</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>суперохлаждение, суперзаморозка, индикация температуры</value>
+        </item>
+      </items>
+      <items>
+        <name>Объем</name>
+        <item>
+          <name>Общий объем</name>
+          <value>289 л</value>
+        </item>
+        <item>
+          <name>Объем холодильной камеры</name>
+          <value>223 л</value>
+        </item>
+        <item>
+          <name>Объем морозильной камеры</name>
+          <value>66 л</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Антибактериальное покрытие</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал полок</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Возможность перевешивания двери</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Климатический класс</name>
+          <value>SN, T</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>двери красное стекло</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="8936">
+    <title>Bosch KGS36XL20</title>
+    <model>KGS36XL20</model>
+    <marka>Bosch</marka>
+    <catalog id="107500">Холодильники</catalog>
+    
+    <price1>18930</price1>
+    <price2>24410</price2>
+    <description>
+
+холодильник с морозильником, отдельно стоящий, морозильник снизу, общий объем 318 л, 2-камерный, электронное управление, габариты (ШxГxВ): 60x65x185 см, цвет: серебристый
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>холодильник с морозильником</value>
+        </item>
+        <item>
+          <name>Расположение</name>
+          <value>отдельно стоящий</value>
+        </item>
+        <item>
+          <name>Расположение морозильной камеры</name>
+          <value>снизу</value>
+        </item>
+        <item>
+          <name>Цвет / Материал покрытия</name>
+          <value>серебристый
+  / пластик</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс A+
+ (291 кВтч/год)</value>
+        </item>
+        <item>
+          <name>Количество компрессоров</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество камер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество дверей</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Габариты (ШxГxВ)</name>
+          <value>60x65x185 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Холод</name>
+        <item>
+          <name>Размораживание морозильной камеры</name>
+          <value>ручное</value>
+        </item>
+        <item>
+          <name>Размораживание холодильной камеры</name>
+          <value>капельная система</value>
+        </item>
+        <item>
+          <name>Автономное сохранение холода</name>
+          <value>до 22 ч</value>
+        </item>
+        <item>
+          <name>Мощность замораживания</name>
+          <value>до 9 кг/cутки</value>
+        </item>
+        <item>
+          <name>Сигнализация</name>
+          <value>открытой двери - звуковая</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>суперохлаждение, суперзаморозка, индикация температуры</value>
+        </item>
+      </items>
+      <items>
+        <name>Объем</name>
+        <item>
+          <name>Общий объем</name>
+          <value>318 л</value>
+        </item>
+        <item>
+          <name>Объем холодильной камеры</name>
+          <value>223 л</value>
+        </item>
+        <item>
+          <name>Объем морозильной камеры</name>
+          <value>95 л</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Материал полок</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Возможность перевешивания двери</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Климатический класс</name>
+          <value>SN, T</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="8946">
+    <title>Bosch KGS39XW20</title>
+    <model>KGS39XW20</model>
+    <marka>Bosch</marka>
+    <catalog id="107500">Холодильники</catalog>
+    
+    <price1>18590</price1>
+    <price2>24150</price2>
+    <description>
+
+холодильник с морозильником, отдельно стоящий, морозильник снизу, общий объем 352 л, 2-камерный, электронное управление, габариты (ШxГxВ): 60x65x200 см, цвет: белый
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>холодильник с морозильником</value>
+        </item>
+        <item>
+          <name>Расположение</name>
+          <value>отдельно стоящий</value>
+        </item>
+        <item>
+          <name>Расположение морозильной камеры</name>
+          <value>снизу</value>
+        </item>
+        <item>
+          <name>Цвет / Материал покрытия</name>
+          <value>белый
+  / пластик</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс A+
+ (304 кВтч/год)</value>
+        </item>
+        <item>
+          <name>Количество компрессоров</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество камер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество дверей</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Габариты (ШxГxВ)</name>
+          <value>60x65x200 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Холод</name>
+        <item>
+          <name>Размораживание морозильной камеры</name>
+          <value>ручное</value>
+        </item>
+        <item>
+          <name>Размораживание холодильной камеры</name>
+          <value>капельная система</value>
+        </item>
+        <item>
+          <name>Автономное сохранение холода</name>
+          <value>до 22 ч</value>
+        </item>
+        <item>
+          <name>Мощность замораживания</name>
+          <value>до 9 кг/cутки</value>
+        </item>
+        <item>
+          <name>Сигнализация</name>
+          <value>открытой двери - звуковая</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>суперохлаждение, суперзаморозка, индикация температуры</value>
+        </item>
+      </items>
+      <items>
+        <name>Объем</name>
+        <item>
+          <name>Общий объем</name>
+          <value>352 л</value>
+        </item>
+        <item>
+          <name>Объем холодильной камеры</name>
+          <value>257 л</value>
+        </item>
+        <item>
+          <name>Объем морозильной камеры</name>
+          <value>95 л</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Материал полок</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Возможность перевешивания двери</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Климатический класс</name>
+          <value>SN, T</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="8950">
+    <title>Bosch KGE36AW20</title>
+    <model>KGE36AW20</model>
+    <marka>Bosch</marka>
+    <catalog id="107500">Холодильники</catalog>
+    
+    <price1>17690</price1>
+    <price2>22560</price2>
+    <description>
+
+холодильник с морозильником, отдельно стоящий, морозильник снизу, общий объем 318 л, 2-камерный, электронное управление, габариты (ШxГxВ): 60x65x185 см, цвет: белый
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>холодильник с морозильником</value>
+        </item>
+        <item>
+          <name>Расположение</name>
+          <value>отдельно стоящий</value>
+        </item>
+        <item>
+          <name>Расположение морозильной камеры</name>
+          <value>снизу</value>
+        </item>
+        <item>
+          <name>Цвет / Материал покрытия</name>
+          <value>белый
+  / пластик</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс A+
+ (291 кВтч/год)</value>
+        </item>
+        <item>
+          <name>Количество компрессоров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество камер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество дверей</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Габариты (ШxГxВ)</name>
+          <value>60x65x185 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Холод</name>
+        <item>
+          <name>Размораживание морозильной камеры</name>
+          <value>ручное</value>
+        </item>
+        <item>
+          <name>Размораживание холодильной камеры</name>
+          <value>капельная система</value>
+        </item>
+        <item>
+          <name>Автономное сохранение холода</name>
+          <value>до 22 ч</value>
+        </item>
+        <item>
+          <name>Режим «Отпуск»</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мощность замораживания</name>
+          <value>до 9 кг/cутки</value>
+        </item>
+        <item>
+          <name>Сигнализация</name>
+          <value>открытой двери - звуковая</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>суперохлаждение, суперзаморозка, индикация температуры</value>
+        </item>
+      </items>
+      <items>
+        <name>Объем</name>
+        <item>
+          <name>Общий объем</name>
+          <value>318 л</value>
+        </item>
+        <item>
+          <name>Объем холодильной камеры</name>
+          <value>223 л</value>
+        </item>
+        <item>
+          <name>Объем морозильной камеры</name>
+          <value>95 л</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Материал полок</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Возможность перевешивания двери</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Климатический класс</name>
+          <value>SN, T</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="8958">
+    <title>Bosch GID14A50</title>
+    <model>GID14A50</model>
+    <marka>Bosch</marka>
+    <catalog id="107500">Холодильники</catalog>
+    
+    <price1>17375</price1>
+    <price2>27650</price2>
+    <description>
+
+морозильник-шкаф, встраиваемый, общий объем 74 л, 1-камерный, электромеханическое управление, габариты (ШxГxВ): 54.1x54.2x71.2 см, цвет: белый
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>морозильник-шкаф</value>
+        </item>
+        <item>
+          <name>Расположение</name>
+          <value>встраиваемый</value>
+        </item>
+        <item>
+          <name>Цвет / Материал покрытия</name>
+          <value>белый
+  / пластик/металл</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электромеханическое</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс A+
+ (177 кВтч/год)</value>
+        </item>
+        <item>
+          <name>Количество компрессоров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество камер</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество дверей</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Габариты (ШxГxВ)</name>
+          <value>54.1x54.2x71.2 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Холод</name>
+        <item>
+          <name>Размораживание морозильной камеры</name>
+          <value>ручное</value>
+        </item>
+        <item>
+          <name>Автономное сохранение холода</name>
+          <value>до 25 ч</value>
+        </item>
+        <item>
+          <name>Мощность замораживания</name>
+          <value>до 10 кг/cутки</value>
+        </item>
+        <item>
+          <name>Сигнализация</name>
+          <value>повышения температуры - световая и звуковая</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>суперзаморозка</value>
+        </item>
+      </items>
+      <items>
+        <name>Объем</name>
+        <item>
+          <name>Общий объем</name>
+          <value>70 л</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Возможность перевешивания двери</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Климатический класс</name>
+          <value>SN, ST</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="8964">
+    <title>Indesit SB 15040</title>
+    <model>SB 15040</model>
+    <marka>Indesit</marka>
+    <catalog id="107500">Холодильники</catalog>
+    
+    <price1>10200</price1>
+    <price2>12800</price2>
+    <description>
+
+холодильник с морозильником, отдельно стоящий, морозильник снизу, общий объем 263 л, 2-камерный, электромеханическое управление, габариты (ШxГxВ): 60x66.5x150 см, цвет: белый
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>холодильник с морозильником</value>
+        </item>
+        <item>
+          <name>Расположение</name>
+          <value>отдельно стоящий</value>
+        </item>
+        <item>
+          <name>Расположение морозильной камеры</name>
+          <value>снизу</value>
+        </item>
+        <item>
+          <name>Цвет / Материал покрытия</name>
+          <value>белый
+  / пластик/металл</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электромеханическое</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс B
+ (401.50 кВтч/год)</value>
+        </item>
+        <item>
+          <name>Количество компрессоров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество камер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество дверей</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Габариты (ШxГxВ)</name>
+          <value>60x66.5x150 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Холод</name>
+        <item>
+          <name>Размораживание холодильной камеры</name>
+          <value>капельная система</value>
+        </item>
+        <item>
+          <name>Автономное сохранение холода</name>
+          <value>до 15 ч</value>
+        </item>
+        <item>
+          <name>Мощность замораживания</name>
+          <value>до 5 кг/cутки</value>
+        </item>
+      </items>
+      <items>
+        <name>Объем</name>
+        <item>
+          <name>Общий объем</name>
+          <value>263 л</value>
+        </item>
+        <item>
+          <name>Объем холодильной камеры</name>
+          <value>191 л</value>
+        </item>
+        <item>
+          <name>Объем морозильной камеры</name>
+          <value>72 л</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Возможность перевешивания двери</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Климатический класс</name>
+          <value>SN, ST</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="8986">
+    <title>Bosch KGS36XW20</title>
+    <model>KGS36XW20</model>
+    <marka>Bosch</marka>
+    <catalog id="107500">Холодильники</catalog>
+    
+    <price1>16999</price1>
+    <price2>23270</price2>
+    <description>
+
+холодильник с морозильником, отдельно стоящий, морозильник снизу, общий объем 318 л, 2-камерный, электронное управление, габариты (ШxГxВ): 60x65x185 см, цвет: белый
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>холодильник с морозильником</value>
+        </item>
+        <item>
+          <name>Расположение</name>
+          <value>отдельно стоящий</value>
+        </item>
+        <item>
+          <name>Расположение морозильной камеры</name>
+          <value>снизу</value>
+        </item>
+        <item>
+          <name>Цвет / Материал покрытия</name>
+          <value>белый
+  / пластик</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс A+
+ (291 кВтч/год)</value>
+        </item>
+        <item>
+          <name>Количество компрессоров</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество камер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество дверей</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Габариты (ШxГxВ)</name>
+          <value>60x65x185 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Холод</name>
+        <item>
+          <name>Размораживание морозильной камеры</name>
+          <value>ручное</value>
+        </item>
+        <item>
+          <name>Размораживание холодильной камеры</name>
+          <value>капельная система</value>
+        </item>
+        <item>
+          <name>Автономное сохранение холода</name>
+          <value>до 22 ч</value>
+        </item>
+        <item>
+          <name>Мощность замораживания</name>
+          <value>до 9 кг/cутки</value>
+        </item>
+        <item>
+          <name>Сигнализация</name>
+          <value>открытой двери - звуковая</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>суперохлаждение, суперзаморозка, индикация температуры</value>
+        </item>
+      </items>
+      <items>
+        <name>Объем</name>
+        <item>
+          <name>Общий объем</name>
+          <value>318 л</value>
+        </item>
+        <item>
+          <name>Объем холодильной камеры</name>
+          <value>223 л</value>
+        </item>
+        <item>
+          <name>Объем морозильной камеры</name>
+          <value>95 л</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Материал полок</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Возможность перевешивания двери</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Климатический класс</name>
+          <value>SN, T</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="8990">
+    <title>Bosch KGE39AW20</title>
+    <model>KGE39AW20</model>
+    <marka>Bosch</marka>
+    <catalog id="107500">Холодильники</catalog>
+    
+    <price1>18980</price1>
+    <price2>26390</price2>
+    <description>
+
+холодильник с морозильником, отдельно стоящий, морозильник снизу, общий объем 352 л, 2-камерный, электронное управление, габариты (ШxГxВ): 60x65x200 см, цвет: белый
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>холодильник с морозильником</value>
+        </item>
+        <item>
+          <name>Расположение</name>
+          <value>отдельно стоящий</value>
+        </item>
+        <item>
+          <name>Расположение морозильной камеры</name>
+          <value>снизу</value>
+        </item>
+        <item>
+          <name>Цвет / Материал покрытия</name>
+          <value>белый
+  / пластик</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс A+
+ (304 кВтч/год)</value>
+        </item>
+        <item>
+          <name>Количество компрессоров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество камер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество дверей</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Габариты (ШxГxВ)</name>
+          <value>60x65x200 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Холод</name>
+        <item>
+          <name>Размораживание морозильной камеры</name>
+          <value>ручное</value>
+        </item>
+        <item>
+          <name>Размораживание холодильной камеры</name>
+          <value>капельная система</value>
+        </item>
+        <item>
+          <name>Автономное сохранение холода</name>
+          <value>до 22 ч</value>
+        </item>
+        <item>
+          <name>Режим «Отпуск»</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мощность замораживания</name>
+          <value>до 9 кг/cутки</value>
+        </item>
+        <item>
+          <name>Сигнализация</name>
+          <value>открытой двери - звуковая</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>суперохлаждение, суперзаморозка, индикация температуры</value>
+        </item>
+      </items>
+      <items>
+        <name>Объем</name>
+        <item>
+          <name>Общий объем</name>
+          <value>352 л</value>
+        </item>
+        <item>
+          <name>Объем холодильной камеры</name>
+          <value>257 л</value>
+        </item>
+        <item>
+          <name>Объем морозильной камеры</name>
+          <value>95 л</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Материал полок</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Возможность перевешивания двери</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Климатический класс</name>
+          <value>SN, T</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="8995">
+    <title>Bosch KGS39XL20</title>
+    <model>KGS39XL20</model>
+    <marka>Bosch</marka>
+    <catalog id="107500">Холодильники</catalog>
+    
+    <price1>20440</price1>
+    <price2>26460</price2>
+    <description>
+
+холодильник с морозильником, отдельно стоящий, морозильник снизу, общий объем 352 л, 2-камерный, электронное управление, габариты (ШxГxВ): 60x65x200 см, цвет: серебристый
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>холодильник с морозильником</value>
+        </item>
+        <item>
+          <name>Расположение</name>
+          <value>отдельно стоящий</value>
+        </item>
+        <item>
+          <name>Расположение морозильной камеры</name>
+          <value>снизу</value>
+        </item>
+        <item>
+          <name>Цвет / Материал покрытия</name>
+          <value>серебристый
+  / пластик</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс A+
+ (307 кВтч/год)</value>
+        </item>
+        <item>
+          <name>Количество компрессоров</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество камер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество дверей</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Габариты (ШxГxВ)</name>
+          <value>60x65x200 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Холод</name>
+        <item>
+          <name>Размораживание морозильной камеры</name>
+          <value>ручное</value>
+        </item>
+        <item>
+          <name>Размораживание холодильной камеры</name>
+          <value>капельная система</value>
+        </item>
+        <item>
+          <name>Автономное сохранение холода</name>
+          <value>до 22 ч</value>
+        </item>
+        <item>
+          <name>Мощность замораживания</name>
+          <value>до 8.5 кг/cутки</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>суперохлаждение, суперзаморозка, индикация температуры</value>
+        </item>
+      </items>
+      <items>
+        <name>Объем</name>
+        <item>
+          <name>Общий объем</name>
+          <value>352 л</value>
+        </item>
+        <item>
+          <name>Объем холодильной камеры</name>
+          <value>257 л</value>
+        </item>
+        <item>
+          <name>Объем морозильной камеры</name>
+          <value>95 л</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Материал полок</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Возможность перевешивания двери</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Климатический класс</name>
+          <value>SN, T</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="9087">
+    <title>Bosch KGE39AL20</title>
+    <model>KGE39AL20</model>
+    <marka>Bosch</marka>
+    <catalog id="107500">Холодильники</catalog>
+    
+    <price1>22100</price1>
+    <price2>24990</price2>
+    <description>
+
+холодильник с морозильником, отдельно стоящий, морозильник снизу, общий объем 352 л, 2-камерный, электронное управление, габариты (ШxГxВ): 60x65x200 см, цвет: серебристый
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>холодильник с морозильником</value>
+        </item>
+        <item>
+          <name>Расположение</name>
+          <value>отдельно стоящий</value>
+        </item>
+        <item>
+          <name>Расположение морозильной камеры</name>
+          <value>снизу</value>
+        </item>
+        <item>
+          <name>Цвет / Материал покрытия</name>
+          <value>серебристый
+  / пластик</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс A+
+ (304 кВтч/год)</value>
+        </item>
+        <item>
+          <name>Количество компрессоров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество камер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество дверей</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Габариты (ШxГxВ)</name>
+          <value>60x65x200 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Холод</name>
+        <item>
+          <name>Размораживание морозильной камеры</name>
+          <value>ручное</value>
+        </item>
+        <item>
+          <name>Размораживание холодильной камеры</name>
+          <value>капельная система</value>
+        </item>
+        <item>
+          <name>Автономное сохранение холода</name>
+          <value>до 22 ч</value>
+        </item>
+        <item>
+          <name>Режим «Отпуск»</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мощность замораживания</name>
+          <value>до 9 кг/cутки</value>
+        </item>
+        <item>
+          <name>Сигнализация</name>
+          <value>открытой двери - звуковая</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>суперохлаждение, суперзаморозка, индикация температуры</value>
+        </item>
+      </items>
+      <items>
+        <name>Объем</name>
+        <item>
+          <name>Общий объем</name>
+          <value>352 л</value>
+        </item>
+        <item>
+          <name>Объем холодильной камеры</name>
+          <value>257 л</value>
+        </item>
+        <item>
+          <name>Объем морозильной камеры</name>
+          <value>95 л</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Материал полок</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Возможность перевешивания двери</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Климатический класс</name>
+          <value>SN, T</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="9090">
+    <title>Indesit ST 14510</title>
+    <model>ST 14510</model>
+    <marka>Indesit</marka>
+    <catalog id="107500">Холодильники</catalog>
+    
+    <price1>10449</price1>
+    <price2>12172</price2>
+    <description>
+
+холодильник с морозильником, отдельно стоящий, морозильник сверху, общий объем 249 л, 2-камерный, электромеханическое управление, габариты (ШxГxВ): 60x67x146 см, цвет: белый
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>холодильник с морозильником</value>
+        </item>
+        <item>
+          <name>Расположение</name>
+          <value>отдельно стоящий</value>
+        </item>
+        <item>
+          <name>Расположение морозильной камеры</name>
+          <value>сверху</value>
+        </item>
+        <item>
+          <name>Цвет / Материал покрытия</name>
+          <value>белый
+  / пластик</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электромеханическое</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс B
+ (365 кВтч/год)</value>
+        </item>
+        <item>
+          <name>Количество компрессоров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Хладагент</name>
+          <value>R134a (HFC)</value>
+        </item>
+        <item>
+          <name>Количество камер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество дверей</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Габариты (ШxГxВ)</name>
+          <value>60x66.5x145 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Холод</name>
+        <item>
+          <name>Размораживание морозильной камеры</name>
+          <value>ручное</value>
+        </item>
+        <item>
+          <name>Размораживание холодильной камеры</name>
+          <value>капельная система</value>
+        </item>
+        <item>
+          <name>Автономное сохранение холода</name>
+          <value>до 17 ч</value>
+        </item>
+        <item>
+          <name>Мощность замораживания</name>
+          <value>до 2 кг/cутки</value>
+        </item>
+      </items>
+      <items>
+        <name>Объем</name>
+        <item>
+          <name>Общий объем</name>
+          <value>249 л</value>
+        </item>
+        <item>
+          <name>Объем холодильной камеры</name>
+          <value>196 л</value>
+        </item>
+        <item>
+          <name>Объем морозильной камеры</name>
+          <value>53 л</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Материал полок</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Возможность перевешивания двери</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>до 39 дБ</value>
+        </item>
+        <item>
+          <name>Климатический класс</name>
+          <value>N, ST</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="9091">
+    <title>Bosch KGE36AL20</title>
+    <model>KGE36AL20</model>
+    <marka>Bosch</marka>
+    <catalog id="107500">Холодильники</catalog>
+    
+    <price1>15550</price1>
+    <price2>26486</price2>
+    <description>
+
+холодильник с морозильником, отдельно стоящий, морозильник снизу, общий объем 318 л, 2-камерный, электронное управление, габариты (ШxГxВ): 60x65x185 см, цвет: серебристый
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>холодильник с морозильником</value>
+        </item>
+        <item>
+          <name>Расположение</name>
+          <value>отдельно стоящий</value>
+        </item>
+        <item>
+          <name>Расположение морозильной камеры</name>
+          <value>снизу</value>
+        </item>
+        <item>
+          <name>Цвет / Материал покрытия</name>
+          <value>серебристый
+  / пластик</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс A+
+ (291 кВтч/год)</value>
+        </item>
+        <item>
+          <name>Количество компрессоров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество камер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество дверей</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Габариты (ШxГxВ)</name>
+          <value>60x65x185 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Холод</name>
+        <item>
+          <name>Размораживание морозильной камеры</name>
+          <value>ручное</value>
+        </item>
+        <item>
+          <name>Размораживание холодильной камеры</name>
+          <value>капельная система</value>
+        </item>
+        <item>
+          <name>Автономное сохранение холода</name>
+          <value>до 22 ч</value>
+        </item>
+        <item>
+          <name>Режим «Отпуск»</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мощность замораживания</name>
+          <value>до 9 кг/cутки</value>
+        </item>
+        <item>
+          <name>Сигнализация</name>
+          <value>открытой двери - звуковая</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>суперохлаждение, суперзаморозка, индикация температуры</value>
+        </item>
+      </items>
+      <items>
+        <name>Объем</name>
+        <item>
+          <name>Общий объем</name>
+          <value>318 л</value>
+        </item>
+        <item>
+          <name>Объем холодильной камеры</name>
+          <value>223 л</value>
+        </item>
+        <item>
+          <name>Объем морозильной камеры</name>
+          <value>95 л</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Материал полок</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Возможность перевешивания двери</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Климатический класс</name>
+          <value>SN, T</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="9093">
+    <title>Liebherr Ces 4023</title>
+    <model>Ces 4023</model>
+    <marka>Liebherr</marka>
+    <catalog id="107500">Холодильники</catalog>
+    
+    <price1>35766</price1>
+    <price2>46250</price2>
+    <description>
+
+холодильник с морозильником, отдельно стоящий, морозильник снизу, общий объем 372 л, 2-камерный, электронное управление, габариты (ШxГxВ): 60x63.2x201.1 см, цвет: серебристый
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>холодильник с морозильником</value>
+        </item>
+        <item>
+          <name>Расположение</name>
+          <value>отдельно стоящий</value>
+        </item>
+        <item>
+          <name>Расположение морозильной камеры</name>
+          <value>снизу</value>
+        </item>
+        <item>
+          <name>Цвет / Материал покрытия</name>
+          <value>серебристый
+  / металл</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс A+
+ (310 кВтч/год)</value>
+        </item>
+        <item>
+          <name>Количество компрессоров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Хладагент</name>
+          <value>R600a (изобутан)</value>
+        </item>
+        <item>
+          <name>Количество камер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество дверей</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Габариты (ШxГxВ)</name>
+          <value>60x63.2x201.1 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Холод</name>
+        <item>
+          <name>Размораживание морозильной камеры</name>
+          <value>ручное</value>
+        </item>
+        <item>
+          <name>Размораживание холодильной камеры</name>
+          <value>капельная система</value>
+        </item>
+        <item>
+          <name>Автономное сохранение холода</name>
+          <value>до 25 ч</value>
+        </item>
+        <item>
+          <name>Мощность замораживания</name>
+          <value>до 12 кг/cутки</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>суперзаморозка, индикация температуры</value>
+        </item>
+      </items>
+      <items>
+        <name>Объем</name>
+        <item>
+          <name>Общий объем</name>
+          <value>372 л</value>
+        </item>
+        <item>
+          <name>Объем холодильной камеры</name>
+          <value>281 л</value>
+        </item>
+        <item>
+          <name>Объем морозильной камеры</name>
+          <value>91 л</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Материал полок</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Возможность перевешивания двери</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Климатический класс</name>
+          <value>SN, T</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="9101">
+    <title>Bosch KGV36VL20</title>
+    <model>KGV36VL20</model>
+    <marka>Bosch</marka>
+    <catalog id="107500">Холодильники</catalog>
+    
+    <price1>16940</price1>
+    <price2>23760</price2>
+    <description>
+
+холодильник с морозильником, отдельно стоящий, морозильник снизу, общий объем 318 л, 2-камерный, электронное управление, габариты (ШxГxВ): 60x65x185 см, цвет: серебристый
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>холодильник с морозильником</value>
+        </item>
+        <item>
+          <name>Расположение</name>
+          <value>отдельно стоящий</value>
+        </item>
+        <item>
+          <name>Расположение морозильной камеры</name>
+          <value>снизу</value>
+        </item>
+        <item>
+          <name>Цвет / Материал покрытия</name>
+          <value>серебристый
+  / пластик</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс A+
+ (289 кВтч/год)</value>
+        </item>
+        <item>
+          <name>Количество компрессоров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество камер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество дверей</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Габариты (ШxГxВ)</name>
+          <value>60x65x185 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Холод</name>
+        <item>
+          <name>Размораживание морозильной камеры</name>
+          <value>ручное</value>
+        </item>
+        <item>
+          <name>Размораживание холодильной камеры</name>
+          <value>капельная система</value>
+        </item>
+        <item>
+          <name>Автономное сохранение холода</name>
+          <value>до 22 ч</value>
+        </item>
+        <item>
+          <name>Мощность замораживания</name>
+          <value>до 4.5 кг/cутки</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>суперохлаждение, суперзаморозка, индикация температуры</value>
+        </item>
+      </items>
+      <items>
+        <name>Объем</name>
+        <item>
+          <name>Общий объем</name>
+          <value>318 л</value>
+        </item>
+        <item>
+          <name>Объем холодильной камеры</name>
+          <value>223 л</value>
+        </item>
+        <item>
+          <name>Объем морозильной камеры</name>
+          <value>95 л</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Материал полок</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Возможность перевешивания двери</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Климатический класс</name>
+          <value>SN, ST</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="9104">
+    <title>Bosch KAN58A55</title>
+    <model>KAN58A55</model>
+    <marka>Bosch</marka>
+    <catalog id="107500">Холодильники</catalog>
+    
+    <price1>65200</price1>
+    <price2>84500</price2>
+    <description>
+
+холодильник с морозильником, отдельно стоящий, Side by Side, общий объем 531 л, 2-камерный, электронное управление, генератор льда, система подачи холодной воды, габариты (ШxГxВ): 90x73x180 см, цвет: чёрный
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>холодильник с морозильником</value>
+        </item>
+        <item>
+          <name>Расположение</name>
+          <value>отдельно стоящий</value>
+        </item>
+        <item>
+          <name>Расположение морозильной камеры</name>
+          <value>Side by Side</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>чёрный
+</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс A+
+ (438 кВтч/год)</value>
+        </item>
+        <item>
+          <name>Количество компрессоров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество камер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество дверей</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Габариты (ШxГxВ)</name>
+          <value>90x73x180 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Холод</name>
+        <item>
+          <name>Размораживание морозильной камеры</name>
+          <value>No Frost</value>
+        </item>
+        <item>
+          <name>Автономное сохранение холода</name>
+          <value>до 5 ч</value>
+        </item>
+        <item>
+          <name>Мощность замораживания</name>
+          <value>до 10 кг/cутки</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>суперохлаждение, суперзаморозка, индикация температуры</value>
+        </item>
+      </items>
+      <items>
+        <name>Объем</name>
+        <item>
+          <name>Общий объем</name>
+          <value>531 л</value>
+        </item>
+        <item>
+          <name>Объем холодильной камеры</name>
+          <value>356 л</value>
+        </item>
+        <item>
+          <name>Объем морозильной камеры</name>
+          <value>175 л</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Генератор льда</name>
+          <value>в комплекте</value>
+        </item>
+        <item>
+          <name>Система подачи холодной воды</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал полок</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>до 45 дБ</value>
+        </item>
+        <item>
+          <name>Климатический класс</name>
+          <value>SN, T</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>108 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="9111">
+    <title>NEFF G4344X7</title>
+    <model>G4344X7</model>
+    <marka>NEFF</marka>
+    <catalog id="107500">Холодильники</catalog>
+    
+    <price1>27370</price1>
+    <price2>32990</price2>
+    <description>
+
+морозильник-шкаф, встраиваемый, общий объем 100 л, 1-камерный, электромеханическое управление, габариты (ШxГxВ): 60x55x82 см, цвет: серебристый
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>морозильник-шкаф</value>
+        </item>
+        <item>
+          <name>Расположение</name>
+          <value>встраиваемый</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый
+</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электромеханическое</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>
+211 кВтч/год</value>
+        </item>
+        <item>
+          <name>Количество компрессоров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество камер</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество дверей</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Габариты (ШxГxВ)</name>
+          <value>60x55x82 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Холод</name>
+        <item>
+          <name>Размораживание морозильной камеры</name>
+          <value>ручное</value>
+        </item>
+        <item>
+          <name>Автономное сохранение холода</name>
+          <value>до 24 ч</value>
+        </item>
+        <item>
+          <name>Мощность замораживания</name>
+          <value>до 12 кг/cутки</value>
+        </item>
+        <item>
+          <name>Аккумулятор холода в комплекте</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>суперзаморозка, индикация температуры</value>
+        </item>
+      </items>
+      <items>
+        <name>Объем</name>
+        <item>
+          <name>Общий объем</name>
+          <value>100 л</value>
+        </item>
+        <item>
+          <name>Объем морозильной камеры</name>
+          <value>98 л</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Возможность перевешивания двери</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="9119">
+    <title>Bosch KGN36S51</title>
+    <model>KGN36S51</model>
+    <marka>Bosch</marka>
+    <catalog id="107500">Холодильники</catalog>
+    
+    <price1>40636</price1>
+    <price2>49950</price2>
+    <description>
+
+холодильник с морозильником, отдельно стоящий, морозильник снизу, общий объем 289 л, 2-камерный, электронное управление, зона свежести, габариты (ШxГxВ): 60x64x185 см, цвет: серебристый
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>холодильник с морозильником</value>
+        </item>
+        <item>
+          <name>Расположение</name>
+          <value>отдельно стоящий</value>
+        </item>
+        <item>
+          <name>Расположение морозильной камеры</name>
+          <value>снизу</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый
+</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс A+
+ (281 кВтч/год)</value>
+        </item>
+        <item>
+          <name>Количество компрессоров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество камер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество дверей</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Габариты (ШxГxВ)</name>
+          <value>60x64x185 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Холод</name>
+        <item>
+          <name>Зона свежести</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размораживание морозильной камеры</name>
+          <value>No Frost</value>
+        </item>
+        <item>
+          <name>Автономное сохранение холода</name>
+          <value>до 17 ч</value>
+        </item>
+        <item>
+          <name>Мощность замораживания</name>
+          <value>до 8 кг/cутки</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>суперохлаждение, суперзаморозка, индикация температуры</value>
+        </item>
+      </items>
+      <items>
+        <name>Объем</name>
+        <item>
+          <name>Общий объем</name>
+          <value>289 л</value>
+        </item>
+        <item>
+          <name>Объем холодильной камеры</name>
+          <value>223 л</value>
+        </item>
+        <item>
+          <name>Объем морозильной камеры</name>
+          <value>66 л</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Антибактериальное покрытие</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал полок</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Возможность перевешивания двери</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Климатический класс</name>
+          <value>SN, T</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>двери черное стекло</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="9122">
+    <title>Liebherr CBNes 3656</title>
+    <model>CBNes 3656</model>
+    <marka>Liebherr</marka>
+    <catalog id="107500">Холодильники</catalog>
+    
+    <price1>50000</price1>
+    <price2>72620</price2>
+    <description>
+
+холодильник с морозильником, отдельно стоящий, морозильник снизу, общий объем 298 л, 2-камерный, электронное управление, зона свежести, габариты (ШxГxВ): 60x63x181.7 см, цвет: серебристый
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>холодильник с морозильником</value>
+        </item>
+        <item>
+          <name>Расположение</name>
+          <value>отдельно стоящий</value>
+        </item>
+        <item>
+          <name>Расположение морозильной камеры</name>
+          <value>снизу</value>
+        </item>
+        <item>
+          <name>Цвет / Материал покрытия</name>
+          <value>серебристый
+  / металл</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Энергопотребление</name>
+          <value>класс A+
+ (307 кВтч/год)</value>
+        </item>
+        <item>
+          <name>Количество компрессоров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Хладагент</name>
+          <value>R600a (изобутан)</value>
+        </item>
+        <item>
+          <name>Количество камер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество дверей</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Габариты (ШxГxВ)</name>
+          <value>60x63x181.7 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Холод</name>
+        <item>
+          <name>Зона свежести</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размораживание морозильной камеры</name>
+          <value>No Frost</value>
+        </item>
+        <item>
+          <name>Размораживание холодильной камеры</name>
+          <value>капельная система</value>
+        </item>
+        <item>
+          <name>Автономное сохранение холода</name>
+          <value>до 20 ч</value>
+        </item>
+        <item>
+          <name>Мощность замораживания</name>
+          <value>до 8 кг/cутки</value>
+        </item>
+        <item>
+          <name>Сигнализация</name>
+          <value>повышения температуры - световая и звуковая, открытой двери - звуковая</value>
+        </item>
+        <item>
+          <name>Аккумулятор холода в комплекте</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>суперохлаждение, суперзаморозка, индикация температуры</value>
+        </item>
+      </items>
+      <items>
+        <name>Объем</name>
+        <item>
+          <name>Общий объем</name>
+          <value>298 л</value>
+        </item>
+        <item>
+          <name>Объем холодильной камеры</name>
+          <value>157 л</value>
+        </item>
+        <item>
+          <name>Объем морозильной камеры</name>
+          <value>55 л</value>
+        </item>
+        <item>
+          <name>Объем нулевой камеры</name>
+          <value>86 л</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал полок</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Возможность перевешивания двери</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Климатический класс</name>
+          <value>SN, T</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

@@ -1,0 +1,2111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="63021">
+    <title>Apple MacBook Air SuperDrive</title>
+    <model>MacBook Air SuperDrive</model>
+    <marka>Apple</marka>
+    <catalog id="755736">Оптические приводы</catalog>
+    
+    <price1>2798</price1>
+    <price2>4623</price2>
+    <description>
+
+DVD RW DL, внешний, USB, скорость чтения CD: 24x, DVD: 8x, габариты: 17x139x139 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип привода</name>
+          <value>DVD RW DL</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Тип размещения</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>серебристый</value>
+        </item>
+        <item>
+          <name>Механизм загрузки дисков</name>
+          <value>щелевой</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>139x17x139 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>320 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость записи</name>
+        <item>
+          <name>Максимальная скорость записи CD-R</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи CD-RW</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R DL</name>
+          <value>4x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RW</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R DL</name>
+          <value>4x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+RW</name>
+          <value>8x</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость чтения</name>
+        <item>
+          <name>Максимальная скорость чтения CD</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость чтения DVD</name>
+          <value>8x</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>для MacBook Air</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63022">
+    <title>Sony NEC Optiarc AD-7280S Black</title>
+    <model>AD-7280S Black</model>
+    <marka>Sony NEC Optiarc</marka>
+    <catalog id="755736">Оптические приводы</catalog>
+    
+    <price1>644</price1>
+    <price2>1160</price2>
+    <description>
+
+DVD RW DL, внутренний, SATA, скорость чтения CD: 48x, DVD: 16x, габариты: 41x146x170 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип привода</name>
+          <value>DVD RW DL</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения</name>
+          <value>SATA</value>
+        </item>
+        <item>
+          <name>Тип размещения</name>
+          <value>внутренний</value>
+        </item>
+        <item>
+          <name>Предназначение</name>
+          <value>для настольного компьютера</value>
+        </item>
+        <item>
+          <name>Цвет передней панели</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Объем буфера</name>
+          <value>1 Мб</value>
+        </item>
+        <item>
+          <name>Механизм загрузки дисков</name>
+          <value>автоматический лоток</value>
+        </item>
+        <item>
+          <name>Поддержка DVD-RAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>146x41x170 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>630 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость записи</name>
+        <item>
+          <name>Максимальная скорость записи CD-R</name>
+          <value>48x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи CD-RW</name>
+          <value>32x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R DL</name>
+          <value>12x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RW</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R DL</name>
+          <value>12x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+RW</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RAM</name>
+          <value>12x</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость чтения</name>
+        <item>
+          <name>Максимальная скорость чтения CD</name>
+          <value>48x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость чтения DVD</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения CD</name>
+          <value>140 мс</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения DVD</name>
+          <value>160 мс</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63023">
+    <title>Transcend TS8XDVDRW-K Black</title>
+    <model>TS8XDVDRW-K Black</model>
+    <marka>Transcend</marka>
+    <catalog id="755736">Оптические приводы</catalog>
+    
+    <price1>1238</price1>
+    <price2>1500</price2>
+    <description>
+
+DVD RW DL, внешний, USB, скорость чтения CD: 24x, DVD: 8x, габариты: 22x142x156 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип привода</name>
+          <value>DVD RW DL</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Тип размещения</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Механизм загрузки дисков</name>
+          <value>полуавтоматический лоток</value>
+        </item>
+        <item>
+          <name>Поддержка DVD-RAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>142x22x156 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>375 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость записи</name>
+        <item>
+          <name>Максимальная скорость записи CD-R</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи CD-RW</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R DL</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RW</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R DL</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+RW</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RAM</name>
+          <value>5x</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость чтения</name>
+        <item>
+          <name>Максимальная скорость чтения CD</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость чтения DVD</name>
+          <value>8x</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63024">
+    <title>Toshiba Samsung Storage Technology SE-208AB Black</title>
+    <model>SE-208AB Black</model>
+    <marka>Toshiba Samsung Storage Technology</marka>
+    <catalog id="755736">Оптические приводы</catalog>
+    
+    <price1>1350</price1>
+    <price2>1450</price2>
+    <description>
+
+DVD RW DL, внешний, USB, скорость чтения CD: 24x, DVD: 8x, габариты: 21x146x144 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип привода</name>
+          <value>DVD RW DL</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Тип размещения</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Объем буфера</name>
+          <value>1 Мб</value>
+        </item>
+        <item>
+          <name>Механизм загрузки дисков</name>
+          <value>полуавтоматический лоток</value>
+        </item>
+        <item>
+          <name>Поддержка DVD-RAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>146x21x144 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>300 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость записи</name>
+        <item>
+          <name>Максимальная скорость записи CD-R</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи CD-RW</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R DL</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RW</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R DL</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+RW</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RAM</name>
+          <value>5x</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость чтения</name>
+        <item>
+          <name>Максимальная скорость чтения CD</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость чтения DVD</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения CD</name>
+          <value>150 мс</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения DVD</name>
+          <value>150 мс</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63027">
+    <title>ASUS SDRW-08D2S-U Black</title>
+    <model>SDRW-08D2S-U Black</model>
+    <marka>ASUS</marka>
+    <catalog id="755736">Оптические приводы</catalog>
+    
+    <price1>1170</price1>
+    <price2>2190</price2>
+    <description>
+
+DVD RW DL, внешний, USB, скорость чтения CD: 24x, DVD: 8x, габариты: 21x142x157 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип привода</name>
+          <value>DVD RW DL</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Тип размещения</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Объем буфера</name>
+          <value>1 Мб</value>
+        </item>
+        <item>
+          <name>Механизм загрузки дисков</name>
+          <value>полуавтоматический лоток</value>
+        </item>
+        <item>
+          <name>Поддержка DVD-RAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>142x21x157 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>313 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость записи</name>
+        <item>
+          <name>Максимальная скорость записи CD-R</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи CD-RW</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R DL</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RW</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R DL</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+RW</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RAM</name>
+          <value>5x</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость чтения</name>
+        <item>
+          <name>Максимальная скорость чтения CD</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость чтения DVD</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения CD</name>
+          <value>140 мс</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения DVD</name>
+          <value>160 мс</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63030">
+    <title>Sony NEC Optiarc AD-5280S Black</title>
+    <model>AD-5280S Black</model>
+    <marka>Sony NEC Optiarc</marka>
+    <catalog id="755736">Оптические приводы</catalog>
+    
+    <price1>790</price1>
+    <price2>1160</price2>
+    <description>
+
+DVD RW DL, внутренний, SATA, скорость чтения CD: 48x, DVD: 16x, габариты: 42x148x170 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип привода</name>
+          <value>DVD RW DL</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения</name>
+          <value>SATA</value>
+        </item>
+        <item>
+          <name>Тип размещения</name>
+          <value>внутренний</value>
+        </item>
+        <item>
+          <name>Предназначение</name>
+          <value>для настольного компьютера</value>
+        </item>
+        <item>
+          <name>Цвет передней панели</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Объем буфера</name>
+          <value>1 Мб</value>
+        </item>
+        <item>
+          <name>Механизм загрузки дисков</name>
+          <value>автоматический лоток</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>148x42x170 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>630 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость записи</name>
+        <item>
+          <name>Максимальная скорость записи CD-R</name>
+          <value>48x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи CD-RW</name>
+          <value>32x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R DL</name>
+          <value>12x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RW</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R DL</name>
+          <value>12x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+RW</name>
+          <value>8x</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость чтения</name>
+        <item>
+          <name>Максимальная скорость чтения CD</name>
+          <value>48x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость чтения DVD</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения CD</name>
+          <value>140 мс</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения DVD</name>
+          <value>160 мс</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63033">
+    <title>ASUS SDRW-08D2S-U LITE Black</title>
+    <model>SDRW-08D2S-U LITE Black</model>
+    <marka>ASUS</marka>
+    <catalog id="755736">Оптические приводы</catalog>
+    
+    <price1>1128</price1>
+    <price2>1650</price2>
+    <description>
+
+DVD RW DL, внешний, USB, скорость чтения CD: 24x, DVD: 8x, габариты: 20x142x142 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип привода</name>
+          <value>DVD RW DL</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Тип размещения</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Объем буфера</name>
+          <value>1 Мб</value>
+        </item>
+        <item>
+          <name>Механизм загрузки дисков</name>
+          <value>полуавтоматический лоток</value>
+        </item>
+        <item>
+          <name>Поддержка DVD-RAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>142x20x142 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>280 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость записи</name>
+        <item>
+          <name>Максимальная скорость записи CD-R</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи CD-RW</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R DL</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RW</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R DL</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+RW</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RAM</name>
+          <value>5x</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость чтения</name>
+        <item>
+          <name>Максимальная скорость чтения CD</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость чтения DVD</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения CD</name>
+          <value>140 мс</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения DVD</name>
+          <value>160 мс</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63254">
+    <title>LITE-ON eSAU108 Black</title>
+    <model>eSAU108 Black</model>
+    <marka>LITE-ON</marka>
+    <catalog id="755736">Оптические приводы</catalog>
+    
+    <price1>1132</price1>
+    <price2>1400</price2>
+    <description>
+
+DVD RW DL, внешний, USB, скорость чтения CD: 24x, DVD: 8x, габариты: 21x145x155 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип привода</name>
+          <value>DVD RW DL</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Тип размещения</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Объем буфера</name>
+          <value>2 Мб</value>
+        </item>
+        <item>
+          <name>Механизм загрузки дисков</name>
+          <value>полуавтоматический лоток</value>
+        </item>
+        <item>
+          <name>Поддержка DVD-RAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>145x21x155 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>350 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость записи</name>
+        <item>
+          <name>Максимальная скорость записи CD-R</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи CD-RW</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R DL</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RW</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R DL</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+RW</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RAM</name>
+          <value>5x</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость чтения</name>
+        <item>
+          <name>Максимальная скорость чтения CD</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость чтения DVD</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения CD</name>
+          <value>110 мс</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения DVD</name>
+          <value>130 мс</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Среднее время наработки на отказ (MTBF)</name>
+          <value>60000 ч</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63256">
+    <title>ASUS BW-12B1ST Black</title>
+    <model>BW-12B1ST Black</model>
+    <marka>ASUS</marka>
+    <catalog id="755736">Оптические приводы</catalog>
+    
+    <price1>3002</price1>
+    <price2>3649</price2>
+    <description>
+
+BD-RE, внутренний, SATA, скорость чтения CD: 48x, DVD: 16x, BD: 8x, габариты: 41x146x170 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип привода</name>
+          <value>BD-RE</value>
+        </item>
+        <item>
+          <name>Запись на двухслойные диски Blu-ray</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения</name>
+          <value>SATA</value>
+        </item>
+        <item>
+          <name>Тип размещения</name>
+          <value>внутренний</value>
+        </item>
+        <item>
+          <name>Предназначение</name>
+          <value>для настольного компьютера</value>
+        </item>
+        <item>
+          <name>Цвет передней панели</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Объем буфера</name>
+          <value>8 Мб</value>
+        </item>
+        <item>
+          <name>Механизм загрузки дисков</name>
+          <value>автоматический лоток</value>
+        </item>
+        <item>
+          <name>Поддержка DVD-RAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>146x41x170 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>650 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость записи</name>
+        <item>
+          <name>Максимальная скорость записи CD-R</name>
+          <value>48x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи CD-RW</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R DL</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RW</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R DL</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+RW</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RAM</name>
+          <value>12x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи BD-R</name>
+          <value>12x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи BD-R DL</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи BD-RE</name>
+          <value>2x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи BD-RE DL</name>
+          <value>2x</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость чтения</name>
+        <item>
+          <name>Максимальная скорость чтения CD</name>
+          <value>48x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость чтения DVD</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость чтения BD-ROM</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения CD</name>
+          <value>150 мс</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения DVD</name>
+          <value>150 мс</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения BD</name>
+          <value>250 мс</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63260">
+    <title>Pioneer DVR-219LBK Black</title>
+    <model>DVR-219LBK Black</model>
+    <marka>Pioneer</marka>
+    <catalog id="755736">Оптические приводы</catalog>
+    
+    <price1>803</price1>
+    <price2>1031</price2>
+    <description>
+
+DVD RW DL, внутренний, SATA, скорость чтения CD: 40x, DVD: 16x, габариты: 42x148x171 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип привода</name>
+          <value>DVD RW DL</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения</name>
+          <value>SATA</value>
+        </item>
+        <item>
+          <name>Тип размещения</name>
+          <value>внутренний</value>
+        </item>
+        <item>
+          <name>Предназначение</name>
+          <value>для настольного компьютера</value>
+        </item>
+        <item>
+          <name>Цвет передней панели</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Объем буфера</name>
+          <value>2 Мб</value>
+        </item>
+        <item>
+          <name>Механизм загрузки дисков</name>
+          <value>автоматический лоток</value>
+        </item>
+        <item>
+          <name>Поддержка DVD-RAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Технология маркировки дисков</name>
+          <value>LabelFlash</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>148x42x171 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>650 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость записи</name>
+        <item>
+          <name>Максимальная скорость записи CD-R</name>
+          <value>40x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи CD-RW</name>
+          <value>32x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R DL</name>
+          <value>12x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RW</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R DL</name>
+          <value>12x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+RW</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RAM</name>
+          <value>12x</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость чтения</name>
+        <item>
+          <name>Максимальная скорость чтения CD</name>
+          <value>40x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость чтения DVD</name>
+          <value>16x</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63288">
+    <title>LITE-ON iHAS122 Black</title>
+    <model>iHAS122 Black</model>
+    <marka>LITE-ON</marka>
+    <catalog id="755736">Оптические приводы</catalog>
+    
+    <price1>523</price1>
+    <price2>1080</price2>
+    <description>
+
+DVD RW DL, внутренний, SATA, скорость чтения CD: 48x, DVD: 16x, габариты: 41x146x170 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип привода</name>
+          <value>DVD RW DL</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения</name>
+          <value>SATA</value>
+        </item>
+        <item>
+          <name>Тип размещения</name>
+          <value>внутренний</value>
+        </item>
+        <item>
+          <name>Предназначение</name>
+          <value>для настольного компьютера</value>
+        </item>
+        <item>
+          <name>Цвет передней панели</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Объем буфера</name>
+          <value>2 Мб</value>
+        </item>
+        <item>
+          <name>Механизм загрузки дисков</name>
+          <value>автоматический лоток</value>
+        </item>
+        <item>
+          <name>Поддержка DVD-RAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>146x41x170 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>900 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость записи</name>
+        <item>
+          <name>Максимальная скорость записи CD-R</name>
+          <value>48x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи CD-RW</name>
+          <value>32x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R</name>
+          <value>22x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R DL</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RW</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R</name>
+          <value>22x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R DL</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+RW</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RAM</name>
+          <value>12x</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость чтения</name>
+        <item>
+          <name>Максимальная скорость чтения CD</name>
+          <value>48x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость чтения DVD</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения CD</name>
+          <value>140 мс</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения DVD</name>
+          <value>160 мс</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Среднее время наработки на отказ (MTBF)</name>
+          <value>70000 ч</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63312">
+    <title>ASUS SDRW-08D2S-U LITE White</title>
+    <model>SDRW-08D2S-U LITE White</model>
+    <marka>ASUS</marka>
+    <catalog id="755736">Оптические приводы</catalog>
+    
+    <price1>1084</price1>
+    <price2>3660</price2>
+    <description>
+
+DVD RW DL, внешний, USB, скорость чтения CD: 24x, DVD: 8x, габариты: 20x142x142 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип привода</name>
+          <value>DVD RW DL</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Тип размещения</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>белый</value>
+        </item>
+        <item>
+          <name>Объем буфера</name>
+          <value>1 Мб</value>
+        </item>
+        <item>
+          <name>Механизм загрузки дисков</name>
+          <value>полуавтоматический лоток</value>
+        </item>
+        <item>
+          <name>Поддержка DVD-RAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>142x20x142 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>280 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость записи</name>
+        <item>
+          <name>Максимальная скорость записи CD-R</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи CD-RW</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R DL</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RW</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R DL</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+RW</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RAM</name>
+          <value>5x</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость чтения</name>
+        <item>
+          <name>Максимальная скорость чтения CD</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость чтения DVD</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения CD</name>
+          <value>140 мс</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения DVD</name>
+          <value>160 мс</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63334">
+    <title>3Q 3QODD-T103-TB08 Black</title>
+    <model>ODD-T103-TB08 Black</model>
+    <marka>3Q</marka>
+    <catalog id="755736">Оптические приводы</catalog>
+    
+    <price1>1160</price1>
+    <price2>1510</price2>
+    <description>
+
+DVD RW DL, внешний, USB, скорость чтения CD: 24x, DVD: 8x, габариты: 21x140x151 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип привода</name>
+          <value>DVD RW DL</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Тип размещения</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Объем буфера</name>
+          <value>2 Мб</value>
+        </item>
+        <item>
+          <name>Механизм загрузки дисков</name>
+          <value>полуавтоматический лоток</value>
+        </item>
+        <item>
+          <name>Поддержка DVD-RAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>140x21x151 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>453 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость записи</name>
+        <item>
+          <name>Максимальная скорость записи CD-R</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи CD-RW</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R DL</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RW</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R DL</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+RW</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RAM</name>
+          <value>5x</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость чтения</name>
+        <item>
+          <name>Максимальная скорость чтения CD</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость чтения DVD</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения CD</name>
+          <value>190 мс</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения DVD</name>
+          <value>190 мс</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63344">
+    <title>Lenovo 46M0901 Black</title>
+    <model>46M0901 Black</model>
+    <marka>Lenovo</marka>
+    <catalog id="755736">Оптические приводы</catalog>
+    
+    <price1>2940</price1>
+    <price2>3893</price2>
+    <description>
+
+DVD-ROM, внутренний slim, SATA
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип привода</name>
+          <value>DVD-ROM</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения</name>
+          <value>SATA</value>
+        </item>
+        <item>
+          <name>Тип размещения</name>
+          <value>внутренний slim</value>
+        </item>
+        <item>
+          <name>Цвет передней панели</name>
+          <value>черный</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63354">
+    <title>ASUS BW-12D1S-U Black</title>
+    <model>BW-12D1S-U Black</model>
+    <marka>ASUS</marka>
+    <catalog id="755736">Оптические приводы</catalog>
+    
+    <price1>4021</price1>
+    <price2>5240</price2>
+    <description>
+
+BD-RE, внешний, USB, скорость чтения CD: 40x, DVD: 16x, BD: 8x, габариты: 63x165x243 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип привода</name>
+          <value>BD-RE</value>
+        </item>
+        <item>
+          <name>Запись на двухслойные диски Blu-ray</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения</name>
+          <value>USB 3.0</value>
+        </item>
+        <item>
+          <name>Тип размещения</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Объем буфера</name>
+          <value>4 Мб</value>
+        </item>
+        <item>
+          <name>Поддержка DVD-RAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>165x63x243 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1160 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость записи</name>
+        <item>
+          <name>Максимальная скорость записи CD-R</name>
+          <value>40x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи CD-RW</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R DL</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RW</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R DL</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+RW</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RAM</name>
+          <value>5x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи BD-R</name>
+          <value>12x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи BD-R DL</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи BD-RE</name>
+          <value>2x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи BD-RE DL</name>
+          <value>2x</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость чтения</name>
+        <item>
+          <name>Максимальная скорость чтения CD</name>
+          <value>40x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость чтения DVD</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость чтения BD-ROM</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения CD</name>
+          <value>150 мс</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения DVD</name>
+          <value>170 мс</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения BD</name>
+          <value>250 мс</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>адаптер питания в комплекте</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63357">
+    <title>HP 481043-B21 Black</title>
+    <model>481043-B21 Black</model>
+    <marka>HP</marka>
+    <catalog id="755736">Оптические приводы</catalog>
+    
+    <price1>4760</price1>
+    <price2>7807</price2>
+    <description>
+
+DVD RW, внутренний slim, SATA
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип привода</name>
+          <value>DVD RW</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения</name>
+          <value>SATA</value>
+        </item>
+        <item>
+          <name>Тип размещения</name>
+          <value>внутренний slim</value>
+        </item>
+        <item>
+          <name>Предназначение</name>
+          <value>для сервера</value>
+        </item>
+        <item>
+          <name>Цвет передней панели</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Механизм загрузки дисков</name>
+          <value>полуавтоматический лоток</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>совместимость с серверами HP ProLiant DL120 G5, DL180 G5, DL180 G6, DL320 G5p, DL320 G6, DL370 G6, DL380 G6, DL385 G5p, DL385 G6, DL580 G5, ML370 G6</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63361">
+    <title>HP 481047-B21 Black</title>
+    <model>481047-B21 Black</model>
+    <marka>HP</marka>
+    <catalog id="755736">Оптические приводы</catalog>
+    
+    <price1>5497</price1>
+    <price2>8556</price2>
+    <description>
+
+DVD RW, внутренний slim, SATA
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип привода</name>
+          <value>DVD RW</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения</name>
+          <value>SATA</value>
+        </item>
+        <item>
+          <name>Тип размещения</name>
+          <value>внутренний slim</value>
+        </item>
+        <item>
+          <name>Предназначение</name>
+          <value>для сервера</value>
+        </item>
+        <item>
+          <name>Цвет передней панели</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Механизм загрузки дисков</name>
+          <value>полуавтоматический лоток</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>совместимость с серверами HP ProLiant DL160 G6 и HP ProLiant DL320 G6</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63370">
+    <title>3Q 3QODD-T105-YCB08 Cambridge Blue</title>
+    <model>ODD-T105-YCB08 Cambridge Blue</model>
+    <marka>3Q</marka>
+    <catalog id="755736">Оптические приводы</catalog>
+    
+    <price1>979</price1>
+    <price2>997</price2>
+    <description>
+
+DVD RW DL, внешний, USB, скорость чтения CD: 24x, DVD: 8x, габариты: 18x138x138 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип привода</name>
+          <value>DVD RW DL</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Тип размещения</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>синий</value>
+        </item>
+        <item>
+          <name>Объем буфера</name>
+          <value>2 Мб</value>
+        </item>
+        <item>
+          <name>Механизм загрузки дисков</name>
+          <value>полуавтоматический лоток</value>
+        </item>
+        <item>
+          <name>Поддержка DVD-RAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>138x18x138 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>380 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость записи</name>
+        <item>
+          <name>Максимальная скорость записи CD-R</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи CD-RW</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R DL</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RW</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R DL</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+RW</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RAM</name>
+          <value>5x</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость чтения</name>
+        <item>
+          <name>Максимальная скорость чтения CD</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость чтения DVD</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения CD</name>
+          <value>190 мс</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения DVD</name>
+          <value>190 мс</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63376">
+    <title>3Q 3QODD-T105-EB08 Black</title>
+    <model>ODD-T105-EB08 Black</model>
+    <marka>3Q</marka>
+    <catalog id="755736">Оптические приводы</catalog>
+    
+    <price1>954</price1>
+    <price2>2630</price2>
+    <description>
+
+DVD RW DL, внешний, USB, скорость чтения CD: 24x, DVD: 8x, габариты: 18x138x138 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип привода</name>
+          <value>DVD RW DL</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Тип размещения</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Объем буфера</name>
+          <value>2 Мб</value>
+        </item>
+        <item>
+          <name>Механизм загрузки дисков</name>
+          <value>полуавтоматический лоток</value>
+        </item>
+        <item>
+          <name>Поддержка DVD-RAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>138x18x138 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>380 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость записи</name>
+        <item>
+          <name>Максимальная скорость записи CD-R</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи CD-RW</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-R DL</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RW</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+R DL</name>
+          <value>6x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD+RW</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость записи DVD-RAM</name>
+          <value>5x</value>
+        </item>
+      </items>
+      <items>
+        <name>Скорость чтения</name>
+        <item>
+          <name>Максимальная скорость чтения CD</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Максимальная скорость чтения DVD</name>
+          <value>8x</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения CD</name>
+          <value>190 мс</value>
+        </item>
+        <item>
+          <name>Время доступа в режиме чтения DVD</name>
+          <value>190 мс</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63379">
+    <title>HP 532066-B21 Black</title>
+    <model>532066-B21 Black</model>
+    <marka>HP</marka>
+    <catalog id="755736">Оптические приводы</catalog>
+    
+    <price1>3950</price1>
+    <price2>5069</price2>
+    <description>
+
+DVD-ROM, внутренний slim, SATA
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип привода</name>
+          <value>DVD-ROM</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения</name>
+          <value>SATA</value>
+        </item>
+        <item>
+          <name>Тип размещения</name>
+          <value>внутренний slim</value>
+        </item>
+        <item>
+          <name>Предназначение</name>
+          <value>для сервера</value>
+        </item>
+        <item>
+          <name>Цвет передней панели</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Механизм загрузки дисков</name>
+          <value>полуавтоматический лоток</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>совместимость с серверами HP ProLiant DL360 G6</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

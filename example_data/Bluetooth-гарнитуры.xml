@@ -1,0 +1,2002 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="97715">
+    <title>AKG K 830 BT</title>
+    <model>K 830 BT</model>
+    <marka>AKG</marka>
+    <catalog id="938245">Bluetooth-гарнитуры</catalog>
+    
+    <price1>3688</price1>
+    <price2>8091</price2>
+    <description>
+
+
+стерео, Bluetooth 2.1, вес 145 г, время работы в режиме разговора: 8 ч
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Версия Bluetooth</name>
+          <value>2.1</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Вид наушников гарнитуры</name>
+          <value>накладные</value>
+        </item>
+        <item>
+          <name>Профиль</name>
+          <value>Handsfree, Headset, A2DP</value>
+        </item>
+        <item>
+          <name>Дальность действия</name>
+          <value>10 м</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>145 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы в режиме разговора</name>
+          <value>8 ч</value>
+        </item>
+        <item>
+          <name>Возможность подзарядки от USB</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Ответить/закончить разговор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ожидание/удержание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Голосовой набор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Повтор последнего номера</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные возможности</name>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97718">
+    <title>Plantronics Marque M155</title>
+    <model>Marque M155</model>
+    <marka>Plantronics</marka>
+    <catalog id="938245">Bluetooth-гарнитуры</catalog>
+    
+    <price1>1106</price1>
+    <price2>2400</price2>
+    <description>
+
+
+моно, Bluetooth 3.0, вес 7 г
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Версия Bluetooth</name>
+          <value>3.0</value>
+        </item>
+        <item>
+          <name>Multipoint</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>моно</value>
+        </item>
+        <item>
+          <name>Профиль</name>
+          <value>Handsfree, Headset, A2DP</value>
+        </item>
+        <item>
+          <name>Дальность действия</name>
+          <value>10 м</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>7 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Возможность подзарядки от USB</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Ответить/закончить разговор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ожидание/удержание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Голосовой набор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Повтор последнего номера</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные возможности</name>
+        <item>
+          <name>Крепление</name>
+          <value>с заушиной</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Сменные панели</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>гарнитура, USB-кабель, заушная дужка, насадки, документация</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97720">
+    <title>Jabra STONE2</title>
+    <model>STONE2</model>
+    <marka>Jabra</marka>
+    <catalog id="938245">Bluetooth-гарнитуры</catalog>
+    
+    <price1>3100</price1>
+    <price2>4900</price2>
+    <description>
+
+
+моно, Bluetooth 2.1, вес 7 г, время работы в режиме разговора / ожидания: 10 / 360 ч
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Версия Bluetooth</name>
+          <value>2.1</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>моно</value>
+        </item>
+        <item>
+          <name>Профиль</name>
+          <value>Handsfree, Headset, A2DP</value>
+        </item>
+        <item>
+          <name>Дальность действия</name>
+          <value>10 м</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВ)</name>
+          <value>25x58 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>7 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы в режиме разговора / ожидания</name>
+          <value>2 / 120 ч</value>
+        </item>
+        <item>
+          <name>Время зарядки</name>
+          <value>2 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Ответить/закончить разговор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ожидание/удержание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Голосовой набор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Повтор последнего номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные функции</name>
+          <value>индикатор состояния</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные возможности</name>
+        <item>
+          <name>Крепление</name>
+          <value>с заушиной</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Сменные панели</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>переносное зарядное устройство</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97728">
+    <title>Plantronics Voyager PRO HD</title>
+    <model>Voyager PRO HD</model>
+    <marka>Plantronics</marka>
+    <catalog id="938245">Bluetooth-гарнитуры</catalog>
+    
+    <price1>1810</price1>
+    <price2>3999</price2>
+    <description>
+
+
+моно, Bluetooth 2.1, вес 17.5 г, время работы в режиме разговора / ожидания: 6 / 120 ч
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Версия Bluetooth</name>
+          <value>2.1</value>
+        </item>
+        <item>
+          <name>Multipoint</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>моно</value>
+        </item>
+        <item>
+          <name>Профиль</name>
+          <value>Handsfree, Headset, A2DP</value>
+        </item>
+        <item>
+          <name>Дальность действия</name>
+          <value>10 м</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>17.5 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы в режиме разговора / ожидания</name>
+          <value>6 / 120 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Ответить/закончить разговор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ожидание/удержание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Голосовой набор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Повтор последнего номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные функции</name>
+          <value>автоматическое парное соединение, отключение микрофона, шумоподавление, индикатор состояния</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные возможности</name>
+        <item>
+          <name>Крепление</name>
+          <value>с заушиной</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Сменные панели</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>гарнитура, сетевое зарядное устройство, автомобильное зарядное устройство, 3 гелевые подушечки, поролоновые покрытия для подушечек, инструкция</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97733">
+    <title>Plantronics BackBeat 903+</title>
+    <model>BackBeat 903+</model>
+    <marka>Plantronics</marka>
+    <catalog id="938245">Bluetooth-гарнитуры</catalog>
+    
+    <price1>2112</price1>
+    <price2>5000</price2>
+    <description>
+
+
+стерео, Bluetooth 2.1, вес 34 г, время работы в режиме разговора / ожидания: 7 / 188 ч
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Версия Bluetooth</name>
+          <value>2.1</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Вид наушников гарнитуры</name>
+          <value>вставные ("затычки")</value>
+        </item>
+        <item>
+          <name>Профиль</name>
+          <value>Handsfree, Headset, A2DP, AVRCP</value>
+        </item>
+        <item>
+          <name>Дальность действия</name>
+          <value>10 м</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>34 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+        <item>
+          <name>Время работы в режиме разговора / ожидания</name>
+          <value>7 / 188 ч</value>
+        </item>
+        <item>
+          <name>Время зарядки</name>
+          <value>3 ч</value>
+        </item>
+        <item>
+          <name>Съемный аккумулятор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Возможность подзарядки от USB</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Ответить/закончить разговор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ожидание/удержание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Голосовой набор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Повтор последнего номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные функции</name>
+          <value>автоматическое парное соединение, шумоподавление, индикатор состояния</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные возможности</name>
+        <item>
+          <name>Крепление</name>
+          <value>с заушиной</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Сменные панели</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97739">
+    <title>Jawbone ICON</title>
+    <model>ICON</model>
+    <marka>Jawbone</marka>
+    <catalog id="938245">Bluetooth-гарнитуры</catalog>
+    
+    <price1>2650</price1>
+    <price2>5999</price2>
+    <description>
+
+
+моно, Bluetooth 2.1, вес 8.2 г, время работы в режиме разговора / ожидания: 4.50 / 240 ч
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Версия Bluetooth</name>
+          <value>2.1</value>
+        </item>
+        <item>
+          <name>Multipoint</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>моно</value>
+        </item>
+        <item>
+          <name>Профиль</name>
+          <value>Handsfree, Headset</value>
+        </item>
+        <item>
+          <name>Дальность действия</name>
+          <value>10 м</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхТ)</name>
+          <value>24x45x18.25 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>8.2 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+        <item>
+          <name>Время работы в режиме разговора / ожидания</name>
+          <value>4.50 / 240 ч</value>
+        </item>
+        <item>
+          <name>Съемный аккумулятор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Возможность подзарядки от USB</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Ответить/закончить разговор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ожидание/удержание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Голосовой набор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Повтор последнего номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные функции</name>
+          <value>автоматическая подстройка громкости, шумоподавление, индикатор состояния</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные возможности</name>
+        <item>
+          <name>Крепление</name>
+          <value>с заушиной</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Сменные панели</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>гарнитура, три ушных вкладыша, четыре круглых ушных вкладыша, кабель MicroUSB, сетевое зарядное устройство, инструкция</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97743">
+    <title>Jabra BT2080</title>
+    <model>BT2080</model>
+    <marka>Jabra</marka>
+    <catalog id="938245">Bluetooth-гарнитуры</catalog>
+    
+    <price1>888</price1>
+    <price2>1500</price2>
+    <description>
+
+
+моно, Bluetooth 2.1, вес 8 г, время работы в режиме разговора / ожидания: 6 / 200 ч
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Версия Bluetooth</name>
+          <value>2.1</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>моно</value>
+        </item>
+        <item>
+          <name>Профиль</name>
+          <value>Handsfree, Headset</value>
+        </item>
+        <item>
+          <name>Дальность действия</name>
+          <value>10 м</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхТ)</name>
+          <value>16x52.7x8.7 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>8 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы в режиме разговора / ожидания</name>
+          <value>6 / 200 ч</value>
+        </item>
+        <item>
+          <name>Съемный аккумулятор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Возможность подзарядки от USB</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Ответить/закончить разговор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ожидание/удержание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Голосовой набор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Повтор последнего номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные функции</name>
+          <value>индикатор состояния</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные возможности</name>
+        <item>
+          <name>Крепление</name>
+          <value>с заушиной</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Сменные панели</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>гарнитура, руководство пользователя, зарядное устройство, заушины двух размеров, ушная вставка</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>беззвучный режим</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97746">
+    <title>Jabra HALO2</title>
+    <model>HALO2</model>
+    <marka>Jabra</marka>
+    <catalog id="938245">Bluetooth-гарнитуры</catalog>
+    
+    <price1>2662</price1>
+    <price2>5070</price2>
+    <description>
+
+
+стерео, Bluetooth 3.0, вес 80 г, время работы в режиме разговора / ожидания: 8 / 432 ч
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Версия Bluetooth</name>
+          <value>3.0</value>
+        </item>
+        <item>
+          <name>Multipoint</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Вид наушников гарнитуры</name>
+          <value>накладные</value>
+        </item>
+        <item>
+          <name>Профиль</name>
+          <value>Handsfree, Headset, A2DP</value>
+        </item>
+        <item>
+          <name>Дальность действия</name>
+          <value>10 м</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхТ)</name>
+          <value>136x190x45 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>80 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы в режиме разговора / ожидания</name>
+          <value>8 / 432 ч</value>
+        </item>
+        <item>
+          <name>Время зарядки</name>
+          <value>2 ч</value>
+        </item>
+        <item>
+          <name>Возможность подзарядки от USB</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Ответить/закончить разговор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ожидание/удержание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Повтор последнего номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные функции</name>
+          <value>автоматическая подстройка громкости, шумоподавление, индикатор состояния</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные возможности</name>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Сменные панели</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97750">
+    <title>Jabra Clipper</title>
+    <model>Clipper</model>
+    <marka>Jabra</marka>
+    <catalog id="938245">Bluetooth-гарнитуры</catalog>
+    
+    <price1>829</price1>
+    <price2>2499</price2>
+    <description>
+
+
+стерео, Bluetooth 2.1, вес 20 г, время работы в режиме разговора / ожидания: 6 / 192 ч, разъем для наушников 3.5 мм
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Версия Bluetooth</name>
+          <value>2.1</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Вид наушников гарнитуры</name>
+          <value>вкладыши</value>
+        </item>
+        <item>
+          <name>Профиль</name>
+          <value>Handsfree, Headset, A2DP, AVRCP</value>
+        </item>
+        <item>
+          <name>Дальность действия</name>
+          <value>10 м</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхТ)</name>
+          <value>25.5x47.95x16.45 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>20 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы в режиме разговора / ожидания</name>
+          <value>6 / 192 ч</value>
+        </item>
+        <item>
+          <name>Время зарядки</name>
+          <value>2 ч</value>
+        </item>
+        <item>
+          <name>Съемный аккумулятор</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Ответить/закончить разговор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ожидание/удержание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Голосовой набор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Повтор последнего номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные функции</name>
+          <value>автоматическое парное соединение, индикатор состояния</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные возможности</name>
+        <item>
+          <name>Разъем для наушников 3.5 мм</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Сменные панели</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>гарнитура, стереонаушники, два дополнительных набора ушных вкладок, сетевое зарядное устройство, инструкция</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97767">
+    <title>Sony DR-BT21G</title>
+    <model>DR-BT21G</model>
+    <marka>Sony</marka>
+    <catalog id="938245">Bluetooth-гарнитуры</catalog>
+    
+    <price1>2005</price1>
+    <price2>3005</price2>
+    <description>
+
+
+стерео, Bluetooth 2.0, вес 65 г, время работы в режиме разговора / ожидания: 11 / 100 ч
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Версия Bluetooth</name>
+          <value>2.0</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Вид наушников гарнитуры</name>
+          <value>накладные</value>
+        </item>
+        <item>
+          <name>Профиль</name>
+          <value>Handsfree, Headset, A2DP, AVRCP</value>
+        </item>
+        <item>
+          <name>Дальность действия</name>
+          <value>10 м</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>65 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы в режиме разговора / ожидания</name>
+          <value>11 / 100 ч</value>
+        </item>
+        <item>
+          <name>Время зарядки</name>
+          <value>2.5 ч</value>
+        </item>
+        <item>
+          <name>Съемный аккумулятор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Возможность подзарядки от USB</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Ответить/закончить разговор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ожидание/удержание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Голосовой набор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Повтор последнего номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные функции</name>
+          <value>индикатор состояния</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные возможности</name>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Сменные панели</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97769">
+    <title>Jawbone Prime</title>
+    <model>Prime</model>
+    <marka>Jawbone</marka>
+    <catalog id="938245">Bluetooth-гарнитуры</catalog>
+    
+    <price1>1700</price1>
+    <price2>5899</price2>
+    <description>
+
+
+моно, Bluetooth 2.0, вес 9 г, время работы в режиме разговора / ожидания: 4.50 / 192 ч
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Версия Bluetooth</name>
+          <value>2.0</value>
+        </item>
+        <item>
+          <name>Multipoint</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>моно</value>
+        </item>
+        <item>
+          <name>Профиль</name>
+          <value>Handsfree, Headset</value>
+        </item>
+        <item>
+          <name>Дальность действия</name>
+          <value>10 м</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>9 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Pol</value>
+        </item>
+        <item>
+          <name>Время работы в режиме разговора / ожидания</name>
+          <value>4.50 / 192 ч</value>
+        </item>
+        <item>
+          <name>Время зарядки</name>
+          <value>1 ч</value>
+        </item>
+        <item>
+          <name>Возможность подзарядки от USB</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Ответить/закончить разговор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ожидание/удержание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Голосовой набор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Повтор последнего номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные функции</name>
+          <value>автоматическая подстройка громкости, автоматическое парное соединение, шумоподавление, индикатор состояния</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные возможности</name>
+        <item>
+          <name>Количество микрофонов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Крепление</name>
+          <value>с заушиной</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Сменные панели</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97772">
+    <title>Plantronics Savor M1100</title>
+    <model>Savor M1100</model>
+    <marka>Plantronics</marka>
+    <catalog id="938245">Bluetooth-гарнитуры</catalog>
+    
+    <price1>1590</price1>
+    <price2>3130</price2>
+    <description>
+
+
+моно, вес 9 г, время работы в режиме разговора: 4 ч
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Multipoint</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>моно</value>
+        </item>
+        <item>
+          <name>Профиль</name>
+          <value>Handsfree, Headset, A2DP</value>
+        </item>
+        <item>
+          <name>Дальность действия</name>
+          <value>10 м</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>9 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы в режиме разговора</name>
+          <value>4 ч</value>
+        </item>
+        <item>
+          <name>Возможность подзарядки от USB</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Ответить/закончить разговор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ожидание/удержание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Голосовой набор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Повтор последнего номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные функции</name>
+          <value>автоматическое парное соединение, отключение микрофона, шумоподавление</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные возможности</name>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Сменные панели</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97775">
+    <title>Jabra SPORT</title>
+    <model>SPORT</model>
+    <marka>Jabra</marka>
+    <catalog id="938245">Bluetooth-гарнитуры</catalog>
+    
+    <price1>1800</price1>
+    <price2>5999</price2>
+    <description>
+
+
+стерео, Bluetooth 3.0, вес 24 г, время работы в режиме разговора / ожидания: 4.50 / 92 ч
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Версия Bluetooth</name>
+          <value>3.0</value>
+        </item>
+        <item>
+          <name>Multipoint</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Вид наушников гарнитуры</name>
+          <value>вкладыши</value>
+        </item>
+        <item>
+          <name>Профиль</name>
+          <value>Handsfree, Headset, A2DP, AVRCP</value>
+        </item>
+        <item>
+          <name>Дальность действия</name>
+          <value>10 м</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхТ)</name>
+          <value>43.2x63.4x12.4 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>24 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы в режиме разговора / ожидания</name>
+          <value>4.50 / 92 ч</value>
+        </item>
+        <item>
+          <name>Время зарядки</name>
+          <value>2 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Ответить/закончить разговор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ожидание/удержание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Голосовой набор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Повтор последнего номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные функции</name>
+          <value>индикатор состояния</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные возможности</name>
+        <item>
+          <name>Крепление</name>
+          <value>с заушиной</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>FM-радио</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Сменные панели</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Влагозащищенный корпус</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>гарнитура, сетевое зарядное устройство, ушные вкладыши, инструкция</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97778">
+    <title>Plantronics Discovery 975</title>
+    <model>Discovery 975</model>
+    <marka>Plantronics</marka>
+    <catalog id="938245">Bluetooth-гарнитуры</catalog>
+    
+    <price1>1950</price1>
+    <price2>3999</price2>
+    <description>
+
+
+моно, Bluetooth 2.1, вес 8 г, время работы в режиме разговора / ожидания: 5 / 170 ч
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Версия Bluetooth</name>
+          <value>2.1</value>
+        </item>
+        <item>
+          <name>Multipoint</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>моно</value>
+        </item>
+        <item>
+          <name>Профиль</name>
+          <value>Handsfree, Headset</value>
+        </item>
+        <item>
+          <name>Дальность действия</name>
+          <value>10 м</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>8 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы в режиме разговора / ожидания</name>
+          <value>5 / 170 ч</value>
+        </item>
+        <item>
+          <name>Съемный аккумулятор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Возможность подзарядки от USB</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Голосовой набор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Повтор последнего номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные функции</name>
+          <value>автоматическая подстройка громкости, автоматическое парное соединение, отключение микрофона, шумоподавление, индикатор состояния</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные возможности</name>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Сменные панели</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>гарнитура, зарядный чехол, зарядное устройство от сети 220В, гелевые подушечки (3 разных размера), инструкция</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97781">
+    <title>Plantronics ML10</title>
+    <model>ML10</model>
+    <marka>Plantronics</marka>
+    <catalog id="938245">Bluetooth-гарнитуры</catalog>
+    
+    <price1>520</price1>
+    <price2>1210</price2>
+    <description>
+
+
+моно, Bluetooth 2.0, вес 11.5 г, время работы в режиме разговора / ожидания: 7 / 192 ч
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Версия Bluetooth</name>
+          <value>2.0</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>моно</value>
+        </item>
+        <item>
+          <name>Профиль</name>
+          <value>Handsfree, Headset</value>
+        </item>
+        <item>
+          <name>Дальность действия</name>
+          <value>10 м</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>11.5 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+        <item>
+          <name>Время работы в режиме разговора / ожидания</name>
+          <value>7 / 192 ч</value>
+        </item>
+        <item>
+          <name>Время зарядки</name>
+          <value>2 ч</value>
+        </item>
+        <item>
+          <name>Возможность подзарядки от USB</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Ответить/закончить разговор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Повтор последнего номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные функции</name>
+          <value>индикатор состояния</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные возможности</name>
+        <item>
+          <name>Крепление</name>
+          <value>с заушиной</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Сменные панели</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97785">
+    <title>Jabra ARROW</title>
+    <model>ARROW</model>
+    <marka>Jabra</marka>
+    <catalog id="938245">Bluetooth-гарнитуры</catalog>
+    
+    <price1>1890</price1>
+    <price2>2387</price2>
+    <description>
+
+
+моно, Bluetooth 2.1, вес 8 г, время работы в режиме разговора / ожидания: 4.50 / 132 ч
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Версия Bluetooth</name>
+          <value>2.1</value>
+        </item>
+        <item>
+          <name>Multipoint</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>моно</value>
+        </item>
+        <item>
+          <name>Профиль</name>
+          <value>Handsfree, Headset</value>
+        </item>
+        <item>
+          <name>Дальность действия</name>
+          <value>10 м</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхТ)</name>
+          <value>23.5x38.5x18 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>8 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы в режиме разговора / ожидания</name>
+          <value>4.50 / 132 ч</value>
+        </item>
+        <item>
+          <name>Съемный аккумулятор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Возможность подзарядки от USB</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Ответить/закончить разговор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ожидание/удержание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Голосовой набор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Повтор последнего номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные функции</name>
+          <value>автоматическая подстройка громкости, шумоподавление, индикатор состояния</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные возможности</name>
+        <item>
+          <name>Крепление</name>
+          <value>с заушиной</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Сменные панели</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>bluetooth-гарнитура, адаптер, автомобильное зарядное устройсво, 2 заушных крючка разных размеров, 4 гелевых ушных вкладыша, шнурок для переноски, руководство пользователя</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97789">
+    <title>Jabra EXTREME2</title>
+    <model>EXTREME2</model>
+    <marka>Jabra</marka>
+    <catalog id="938245">Bluetooth-гарнитуры</catalog>
+    
+    <price1>1230</price1>
+    <price2>3198</price2>
+    <description>
+
+
+моно, Bluetooth 3.0, вес 10 г, время работы в режиме разговора / ожидания: 5.50 / 252 ч
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Версия Bluetooth</name>
+          <value>3.0</value>
+        </item>
+        <item>
+          <name>Multipoint</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>моно</value>
+        </item>
+        <item>
+          <name>Профиль</name>
+          <value>Handsfree, Headset, A2DP</value>
+        </item>
+        <item>
+          <name>Дальность действия</name>
+          <value>10 м</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхТ)</name>
+          <value>23x48.3x17.9 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>10 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы в режиме разговора / ожидания</name>
+          <value>5.50 / 252 ч</value>
+        </item>
+        <item>
+          <name>Время зарядки</name>
+          <value>2 ч</value>
+        </item>
+        <item>
+          <name>Возможность подзарядки от USB</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Ответить/закончить разговор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ожидание/удержание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Голосовой набор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Повтор последнего номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные функции</name>
+          <value>автоматическая подстройка громкости, автоматическое парное соединение, шумоподавление</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные возможности</name>
+        <item>
+          <name>Крепление</name>
+          <value>с заушиной</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Сменные панели</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>гарнитура, две гелевых подушечки, сетевое зарядное устройство, зардяное устройство USB, автомобильное зарядное устройство, гарантия</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97805">
+    <title>Jabra Wave</title>
+    <model>Wave</model>
+    <marka>Jabra</marka>
+    <catalog id="938245">Bluetooth-гарнитуры</catalog>
+    
+    <price1>1947</price1>
+    <price2>3699</price2>
+    <description>
+
+
+моно, Bluetooth 2.1, вес 13 г, время работы в режиме разговора / ожидания: 6 / 192 ч
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Версия Bluetooth</name>
+          <value>2.1</value>
+        </item>
+        <item>
+          <name>Multipoint</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>моно</value>
+        </item>
+        <item>
+          <name>Профиль</name>
+          <value>Handsfree, Headset, A2DP</value>
+        </item>
+        <item>
+          <name>Дальность действия</name>
+          <value>10 м</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхТ)</name>
+          <value>45x100x12 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>13 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы в режиме разговора / ожидания</name>
+          <value>6 / 192 ч</value>
+        </item>
+        <item>
+          <name>Время зарядки</name>
+          <value>3 ч</value>
+        </item>
+        <item>
+          <name>Съемный аккумулятор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Возможность подзарядки от USB</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Ответить/закончить разговор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ожидание/удержание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Голосовой набор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Повтор последнего номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные функции</name>
+          <value>шумоподавление, индикатор состояния</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные возможности</name>
+        <item>
+          <name>Крепление</name>
+          <value>с заушиной</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Сменные панели</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>потоковая передача мультимедийного контента</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97808">
+    <title>Plantronics M50</title>
+    <model>M50</model>
+    <marka>Plantronics</marka>
+    <catalog id="938245">Bluetooth-гарнитуры</catalog>
+    
+    <price1>1200</price1>
+    <price2>1350</price2>
+    <description>
+
+
+моно, Bluetooth 3.0, вес 11 г, время работы в режиме разговора: 11 ч
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Версия Bluetooth</name>
+          <value>3.0</value>
+        </item>
+        <item>
+          <name>Multipoint</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>моно</value>
+        </item>
+        <item>
+          <name>Профиль</name>
+          <value>Handsfree, Headset, A2DP</value>
+        </item>
+        <item>
+          <name>Дальность действия</name>
+          <value>10 м</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>11 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Pol</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>180 мА*ч</value>
+        </item>
+        <item>
+          <name>Время работы в режиме разговора</name>
+          <value>11 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Ответить/закончить разговор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ожидание/удержание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Голосовой набор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Повтор последнего номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные функции</name>
+          <value>шумоподавление</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные возможности</name>
+        <item>
+          <name>Крепление</name>
+          <value>с заушиной</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Сменные панели</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97811">
+    <title>HTC BH M500</title>
+    <model>BH M500</model>
+    <marka>HTC</marka>
+    <catalog id="938245">Bluetooth-гарнитуры</catalog>
+    
+    <price1>1350</price1>
+    <price2>1850</price2>
+    <description>
+
+
+моно, Bluetooth 2.1, вес 42 г, время работы в режиме разговора / ожидания: 6 / 200 ч
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Версия Bluetooth</name>
+          <value>2.1</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>моно</value>
+        </item>
+        <item>
+          <name>Профиль</name>
+          <value>Handsfree, Headset</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхТ)</name>
+          <value>16x42x26 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы в режиме разговора / ожидания</name>
+          <value>6 / 200 ч</value>
+        </item>
+        <item>
+          <name>Возможность подзарядки от USB</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Ответить/закончить разговор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ожидание/удержание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Голосовой набор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Повтор последнего номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные функции</name>
+          <value>автоматическое парное соединение, индикатор состояния</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные возможности</name>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Сменные панели</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>гарнитура, кабель мини-USB, инструкция</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

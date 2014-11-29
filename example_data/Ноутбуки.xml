@@ -1,0 +1,3550 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="67764">
+    <title>Lenovo IdeaPad S110</title>
+    <model>IdeaPad S110</model>
+    <marka>Lenovo</marka>
+    <catalog id="432460">Ноутбуки</catalog>
+    
+    <price1>7960</price1>
+    <price2>12400</price2>
+    <description>Atom, 1600-1860 МГц, 2048 Мб, 320 Гб, 10.1 дюйм, Intel GMA 3600, 1.16 кг, DVD нет, Wi-Fi</description>
+    <specification>
+      <items>
+        <name>Тип</name>
+        <item>
+          <name>Тип</name>
+          <value>нетбук</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>MeeGo</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Atom N2600 1600 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>1 Мб</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>2 Гб DDR3 1333 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Экран</name>
+          <value>10.1 дюймов, 1024x600, широкоформатный</value>
+        </item>
+        <item>
+          <name>Тип экрана</name>
+          <value>глянцевый</value>
+        </item>
+        <item>
+          <name>Подсветка экрана</name>
+          <value>светодиодная</value>
+        </item>
+        <item>
+          <name>Тип видеоадаптера</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>Intel GMA 3600</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value> SMA </value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства хранения данных</name>
+        <item>
+          <name>Оптический привод</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Объем накопителя (HDD)</name>
+          <value>320 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс накопителя</name>
+          <value>Serial ATA</value>
+        </item>
+        <item>
+          <name>Скорость вращения жесткого диска</name>
+          <value>5400 об/мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>LAN/Modem</name>
+          <value>сетевая карта 10/100 Мбит/c</value>
+        </item>
+        <item>
+          <name>Беспроводная связь</name>
+          <value>Wi-Fi IEEE 802.11n</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0x3, VGA (D-Sub), вход микрофонный, выход аудио/наушники, LAN (RJ-45)</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Устройство для чтения флэш-карт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>MS, MS PRO, SD</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы от аккумулятора</name>
+          <value>8 ч</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>4400 мАч</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства ввода</name>
+        <item>
+          <name>Устройства позиционирования</name>
+          <value>Touchpad</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные колонки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Веб-камера</name>
+          <value>есть, 1.3 млн пикс.</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>слот блокировки</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхТ)</name>
+          <value>270x168x24 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.16 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67809">
+    <title>Apple MacBook Pro 15 Mid 2012</title>
+    <model>MacBook Pro 15 Mid 2012</model>
+    <marka>Apple</marka>
+    <catalog id="432460">Ноутбуки</catalog>
+    
+    <price1>63790</price1>
+    <price2>87006</price2>
+    <description>Core i7, 2300-2600 МГц, 4096-8192 Мб, 500-750 Гб, 15.4 дюйм, NVIDIA GeForce GT 650M, 2.56 кг, DVD-RW, Bluetooth, Wi-Fi</description>
+    <specification>
+      <items>
+        <name>Тип</name>
+        <item>
+          <name>Тип</name>
+          <value>ноутбук</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>MacOS X</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Core i7 2300 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>1 Мб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>6 Мб</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>4 Гб DDR3 1600 МГц</value>
+        </item>
+        <item>
+          <name>Максимальный размер</name>
+          <value>8 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Экран</name>
+          <value>15.4 дюймов, 1440x900, широкоформатный</value>
+        </item>
+        <item>
+          <name>Тип экрана</name>
+          <value>глянцевый</value>
+        </item>
+        <item>
+          <name>Подсветка экрана</name>
+          <value>светодиодная</value>
+        </item>
+        <item>
+          <name>Тип видеоадаптера</name>
+          <value>дискретный и встроенный</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>NVIDIA GeForce GT 650M</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value>512 Мб  GDDR5 </value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства хранения данных</name>
+        <item>
+          <name>Оптический привод</name>
+          <value>DVD-RW, внутренний</value>
+        </item>
+        <item>
+          <name>Объем накопителя (HDD)</name>
+          <value>500 Гб</value>
+        </item>
+        <item>
+          <name>Скорость вращения жесткого диска</name>
+          <value>5400 об/мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>LAN/Modem</name>
+          <value>сетевая карта 1000 Мбит/c</value>
+        </item>
+        <item>
+          <name>Беспроводная связь</name>
+          <value>Wi-Fi IEEE 802.11n, Bluetooth 4.0</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 3.0x2, FireWire 800, вход аудио, вход микр./вых. на наушники Combo, S/PDIF, LAN (RJ-45), Thunderbolt</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Устройство для чтения флэш-карт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>SD, SDHC, SDXC</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы от аккумулятора</name>
+          <value>7 ч</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Pol</value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства ввода</name>
+        <item>
+          <name>Устройства позиционирования</name>
+          <value>Touchpad</value>
+        </item>
+        <item>
+          <name>Количество клавиш клавиатуры</name>
+          <value>79</value>
+        </item>
+        <item>
+          <name>Подсветка клавиатуры</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные колонки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный сабвуфер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Веб-камера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value> металлический корпус, слот блокировки</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхТ)</name>
+          <value>364x249x24.1 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.56 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67815">
+    <title>Apple MacBook Pro 13 Mid 2012</title>
+    <model>MacBook Pro 13 Mid 2012</model>
+    <marka>Apple</marka>
+    <catalog id="432460">Ноутбуки</catalog>
+    
+    <price1>37990</price1>
+    <price2>66990</price2>
+    <description>Core i5 / Core i7, 2500-2900 МГц, 4096-8192 Мб, 500-750 Гб, 13.3 дюйм, Intel HD Graphics 4000, 2.06 кг, DVD-RW, Bluetooth, Wi-Fi</description>
+    <specification>
+      <items>
+        <name>Тип</name>
+        <item>
+          <name>Тип</name>
+          <value>ноутбук</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>MacOS X</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Core i5 2500 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>512 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>6 Мб</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>4 Гб DDR3 1600 МГц</value>
+        </item>
+        <item>
+          <name>Максимальный размер</name>
+          <value>8 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Экран</name>
+          <value>13.3 дюймов, 1280x800, широкоформатный</value>
+        </item>
+        <item>
+          <name>Тип экрана</name>
+          <value>глянцевый</value>
+        </item>
+        <item>
+          <name>Подсветка экрана</name>
+          <value>светодиодная</value>
+        </item>
+        <item>
+          <name>Тип видеоадаптера</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>Intel HD Graphics 4000</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value> SMA </value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства хранения данных</name>
+        <item>
+          <name>Оптический привод</name>
+          <value>DVD-RW, внутренний</value>
+        </item>
+        <item>
+          <name>Объем накопителя (HDD)</name>
+          <value>500 Гб</value>
+        </item>
+        <item>
+          <name>Скорость вращения жесткого диска</name>
+          <value>5400 об/мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>LAN/Modem</name>
+          <value>сетевая карта 1000 Мбит/c</value>
+        </item>
+        <item>
+          <name>Беспроводная связь</name>
+          <value>Wi-Fi IEEE 802.11n, Bluetooth 4.0</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 3.0x2, FireWire 800, вход микр./вых. на наушники Combo, S/PDIF, LAN (RJ-45), Thunderbolt</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Устройство для чтения флэш-карт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>SD, SDHC, SDXC</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы от аккумулятора</name>
+          <value>7 ч</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Pol</value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства ввода</name>
+        <item>
+          <name>Устройства позиционирования</name>
+          <value>Touchpad</value>
+        </item>
+        <item>
+          <name>Количество клавиш клавиатуры</name>
+          <value>79</value>
+        </item>
+        <item>
+          <name>Подсветка клавиатуры</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные колонки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный сабвуфер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Веб-камера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value> металлический корпус, слот блокировки</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхТ)</name>
+          <value>325x227x24.1 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.06 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67983">
+    <title>Sony VAIO SVE1511T1R</title>
+    <model>VAIO SVE1511T1R</model>
+    <marka>Sony</marka>
+    <catalog id="432460">Ноутбуки</catalog>
+    
+    <price1>24330</price1>
+    <price2>26400</price2>
+    <description>Core i3, 2400 МГц, 4096 Мб, 500 Гб, 15.5 дюйм, AMD Radeon HD 7650M, 2.7 кг, DVD-RW, Bluetooth, Wi-Fi</description>
+    <specification>
+      <items>
+        <name>Тип</name>
+        <item>
+          <name>Тип</name>
+          <value>ноутбук</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Win 7 Home Premium 64</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Core i3 2370M 2400 МГц</value>
+        </item>
+        <item>
+          <name>Ядро процессора</name>
+          <value>Sandy Bridge</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>512 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>3 Мб</value>
+        </item>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel HM76</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>4 Гб DDR3 1600 МГц</value>
+        </item>
+        <item>
+          <name>Максимальный размер</name>
+          <value>8 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Экран</name>
+          <value>15.5 дюймов, 1366x768, широкоформатный</value>
+        </item>
+        <item>
+          <name>Тип видеоадаптера</name>
+          <value>дискретный</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>AMD Radeon HD 7650M</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value>1024 Мб </value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства хранения данных</name>
+        <item>
+          <name>Оптический привод</name>
+          <value>DVD-RW, внутренний</value>
+        </item>
+        <item>
+          <name>Объем накопителя (HDD)</name>
+          <value>500 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс накопителя</name>
+          <value>Serial ATA</value>
+        </item>
+        <item>
+          <name>Скорость вращения жесткого диска</name>
+          <value>5400 об/мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>LAN/Modem</name>
+          <value>сетевая карта 1000 Мбит/c</value>
+        </item>
+        <item>
+          <name>Беспроводная связь</name>
+          <value>Wi-Fi IEEE 802.11n, Bluetooth 4.0</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0x3, USB 3.0, VGA (D-Sub), HDMI, вход микрофонный, выход аудио/наушники, LAN (RJ-45)</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Устройство для чтения флэш-карт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>MS PRO Duo, SD, SDHC, SDXC</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+        <item>
+          <name>Время зарядки аккумулятора</name>
+          <value>3.5 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства ввода</name>
+        <item>
+          <name>Устройства позиционирования</name>
+          <value>Touchpad</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные колонки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Веб-камера</name>
+          <value>есть, 1.31 млн пикс.</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>слот блокировки</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхТ)</name>
+          <value>371.9x253.5x35.1 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.7 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="68005">
+    <title>Sony VAIO SVE14A1V6R</title>
+    <model>VAIO SVE14A1V6R</model>
+    <marka>Sony</marka>
+    <catalog id="432460">Ноутбуки</catalog>
+    
+    <price1>32850</price1>
+    <price2>33660</price2>
+    <description>Core i5, 2500 МГц, 4096 Мб, 500 Гб, 14 дюйм, AMD Radeon HD 7670M, 2.3 кг, DVD-RW, Bluetooth, Wi-Fi</description>
+    <specification>
+      <items>
+        <name>Тип</name>
+        <item>
+          <name>Тип</name>
+          <value>ноутбук</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Win 7 Home Premium 64</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Core i5 2450M 2500 МГц</value>
+        </item>
+        <item>
+          <name>Ядро процессора</name>
+          <value>Sandy Bridge</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>512 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>3 Мб</value>
+        </item>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel HM76</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>4 Гб DDR3 1600 МГц</value>
+        </item>
+        <item>
+          <name>Максимальный размер</name>
+          <value>16 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Экран</name>
+          <value>14 дюймов, 1366x768, широкоформатный</value>
+        </item>
+        <item>
+          <name>Тип видеоадаптера</name>
+          <value>дискретный и встроенный</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>AMD Radeon HD 7670M</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value>1024 Мб </value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства хранения данных</name>
+        <item>
+          <name>Оптический привод</name>
+          <value>DVD-RW, внутренний</value>
+        </item>
+        <item>
+          <name>Объем накопителя (HDD)</name>
+          <value>500 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс накопителя</name>
+          <value>Serial ATA</value>
+        </item>
+        <item>
+          <name>Скорость вращения жесткого диска</name>
+          <value>5400 об/мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>LAN/Modem</name>
+          <value>сетевая карта 1000 Мбит/c</value>
+        </item>
+        <item>
+          <name>Беспроводная связь</name>
+          <value>Wi-Fi IEEE 802.11n, Bluetooth 4.0</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0x2, USB 3.0x2, VGA (D-Sub), HDMI, вход микрофонный, выход аудио/наушники, LAN (RJ-45)</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Устройство для чтения флэш-карт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>MS PRO Duo, MS Pro-HG Duo, SD, SDHC, SDXC</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы от аккумулятора</name>
+          <value>7 ч</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+        <item>
+          <name>Время зарядки аккумулятора</name>
+          <value>4.5 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства ввода</name>
+        <item>
+          <name>Устройства позиционирования</name>
+          <value>Touchpad</value>
+        </item>
+        <item>
+          <name>Подсветка клавиатуры</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные колонки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Веб-камера</name>
+          <value>есть, 1.31 млн пикс.</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>слот блокировки</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхТ)</name>
+          <value>341x245x22.4 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.3 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="68020">
+    <title>Sony VAIO VPC-SB4M1R</title>
+    <model>VAIO VPC-SB4M1R</model>
+    <marka>Sony</marka>
+    <catalog id="432460">Ноутбуки</catalog>
+    
+    <price1>33800</price1>
+    <price2>34650</price2>
+    <description>Core i3, 2300 МГц, 4096 Мб, 500 Гб, 13.3 дюйм, ATI Radeon HD 6470M, 1.72 кг, DVD-RW, Bluetooth, Wi-Fi</description>
+    <specification>
+      <items>
+        <name>Тип</name>
+        <item>
+          <name>Тип</name>
+          <value>ноутбук</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Win 7 Home Premium</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Core i3 2350M 2300 МГц</value>
+        </item>
+        <item>
+          <name>Ядро процессора</name>
+          <value>Sandy Bridge</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>512 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>3 Мб</value>
+        </item>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel HM67</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>4 Гб DDR3 1333 МГц</value>
+        </item>
+        <item>
+          <name>Максимальный размер</name>
+          <value>8 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Экран</name>
+          <value>13.3 дюймов, 1366x768, широкоформатный</value>
+        </item>
+        <item>
+          <name>Тип видеоадаптера</name>
+          <value>дискретный и встроенный</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>ATI Radeon HD 6470M</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value>512 Мб </value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства хранения данных</name>
+        <item>
+          <name>Оптический привод</name>
+          <value>DVD-RW, внутренний</value>
+        </item>
+        <item>
+          <name>Объем накопителя (HDD)</name>
+          <value>500 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс накопителя</name>
+          <value>Serial ATA</value>
+        </item>
+        <item>
+          <name>Скорость вращения жесткого диска</name>
+          <value>5400 об/мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>LAN/Modem</name>
+          <value>сетевая карта 1000 Мбит/c</value>
+        </item>
+        <item>
+          <name>Беспроводная связь</name>
+          <value>Wi-Fi IEEE 802.11n, Bluetooth 3.0 HS</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0x2, USB 3.0, разъем для док-станции, VGA (D-Sub), HDMI, выход аудио/наушники, LAN (RJ-45)</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Устройство для чтения флэш-карт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>MS PRO Duo, MS Pro-HG Duo, SD, SDHC, SDXC</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы от аккумулятора</name>
+          <value>7 ч</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Pol</value>
+        </item>
+        <item>
+          <name>Время зарядки аккумулятора</name>
+          <value>3 ч</value>
+        </item>
+        <item>
+          <name>Время работы с доп. аккумулятором</name>
+          <value>7 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства ввода</name>
+        <item>
+          <name>Устройства позиционирования</name>
+          <value>Touchpad</value>
+        </item>
+        <item>
+          <name>Подсветка клавиатуры</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные колонки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Веб-камера</name>
+          <value>есть, 0.3 млн пикс.</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value> металлический корпус, слот блокировки</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхТ)</name>
+          <value>331x224.5x23.9 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.72 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="68074">
+    <title>Sony VAIO SVS13A1V8R</title>
+    <model>VAIO SVS13A1V8R</model>
+    <marka>Sony</marka>
+    <catalog id="432460">Ноутбуки</catalog>
+    
+    <price1>55050</price1>
+    <price2>56430</price2>
+    <description>Core i5, 2500 МГц, 4096 Мб, 128 Гб, 13.3 дюйм, NVIDIA GeForce GT 640M LE, DVD-RW, Bluetooth, Wi-Fi</description>
+    <specification>
+      <items>
+        <name>Тип</name>
+        <item>
+          <name>Тип</name>
+          <value>ноутбук</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Win 7 Professional 64</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Core i5 3210M 2500 МГц</value>
+        </item>
+        <item>
+          <name>Ядро процессора</name>
+          <value>Ivy Bridge</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>512 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>3 Мб</value>
+        </item>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel HM77</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>4 Гб DDR3L 1333 МГц</value>
+        </item>
+        <item>
+          <name>Максимальный размер</name>
+          <value>12 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Экран</name>
+          <value>13.3 дюймов, 1600x900, широкоформатный</value>
+        </item>
+        <item>
+          <name>Тип видеоадаптера</name>
+          <value>дискретный и встроенный</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>NVIDIA GeForce GT 640M LE</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value>1024 Мб </value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства хранения данных</name>
+        <item>
+          <name>Оптический привод</name>
+          <value>DVD-RW, внутренний</value>
+        </item>
+        <item>
+          <name>Объем накопителя (SSD)</name>
+          <value>128 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>LAN/Modem</name>
+          <value>сетевая карта 1000 Мбит/c</value>
+        </item>
+        <item>
+          <name>Беспроводная связь</name>
+          <value>Wi-Fi IEEE 802.11n, Bluetooth 4.0, GSM/GPRS, 3G (UMTS), EDGE, HSDPA</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0, USB 3.0x2, разъем для док-станции, VGA (D-Sub), HDMI, выход аудио/наушники, LAN (RJ-45)</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Устройство для чтения флэш-карт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>MS PRO Duo, MS Pro-HG Duo, SD, SDHC, SDXC</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Pol</value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства ввода</name>
+        <item>
+          <name>Устройства позиционирования</name>
+          <value>Touchpad</value>
+        </item>
+        <item>
+          <name>Подсветка клавиатуры</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные колонки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Веб-камера</name>
+          <value>есть, 1.31 млн пикс.</value>
+        </item>
+        <item>
+          <name>Сканер отпечатка пальца</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value> металлический корпус, слот блокировки</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхТ)</name>
+          <value>331x224.6x22.8 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="68082">
+    <title>Samsung 700Z5A</title>
+    <model>700Z5A</model>
+    <marka>Samsung</marka>
+    <catalog id="432460">Ноутбуки</catalog>
+    
+    <price1>38990</price1>
+    <price2>41400</price2>
+    <description>Core i5, 2400-2500 МГц, 4096-6144 Мб, 500-1000 Гб, 15.6 дюйм, ATI Radeon HD 6750M, 2.29 кг, DVD-RW, Bluetooth, Wi-Fi</description>
+    <specification>
+      <items>
+        <name>Тип</name>
+        <item>
+          <name>Тип</name>
+          <value>ноутбук</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Win 7 Professional</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Core i5 2450M 2500 МГц</value>
+        </item>
+        <item>
+          <name>Ядро процессора</name>
+          <value>Sandy Bridge</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>512 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>3 Мб</value>
+        </item>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel HM65</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>6 Гб DDR3 1333 МГц</value>
+        </item>
+        <item>
+          <name>Количество слотов</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Экран</name>
+          <value>15.6 дюймов, 1600x900, широкоформатный</value>
+        </item>
+        <item>
+          <name>Тип экрана</name>
+          <value>матовый</value>
+        </item>
+        <item>
+          <name>Подсветка экрана</name>
+          <value>светодиодная</value>
+        </item>
+        <item>
+          <name>Тип видеоадаптера</name>
+          <value>дискретный и встроенный</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>ATI Radeon HD 6750M</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value>1024 Мб  GDDR5 </value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства хранения данных</name>
+        <item>
+          <name>Оптический привод</name>
+          <value>DVD-RW, внутренний</value>
+        </item>
+        <item>
+          <name>Объем накопителя (HDD)</name>
+          <value>1000 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс накопителя</name>
+          <value>Serial ATA</value>
+        </item>
+        <item>
+          <name>Скорость вращения жесткого диска</name>
+          <value>5400 об/мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>LAN/Modem</name>
+          <value>сетевая карта 1000 Мбит/c</value>
+        </item>
+        <item>
+          <name>Беспроводная связь</name>
+          <value>Wi-Fi IEEE 802.11n, Bluetooth 3.0 HS</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0, USB 3.0x2, VGA (D-Sub), HDMI, вход микрофонный, выход аудио/наушники, LAN (RJ-45)</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Устройство для чтения флэш-карт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>SD, SDHC, SDXC</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>8000 мАч</value>
+        </item>
+        <item>
+          <name>Количество ячеек аккумулятора</name>
+          <value>8</value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства ввода</name>
+        <item>
+          <name>Устройства позиционирования</name>
+          <value>Touchpad</value>
+        </item>
+        <item>
+          <name>Количество клавиш клавиатуры</name>
+          <value>102</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные колонки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Веб-камера</name>
+          <value>есть, 1.3 млн пикс.</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>слот блокировки</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхТ)</name>
+          <value>362.1x238.5x23.9 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.29 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="68092">
+    <title>Samsung 550P5C</title>
+    <model>550P5C</model>
+    <marka>Samsung</marka>
+    <catalog id="432460">Ноутбуки</catalog>
+    
+    <price1>30900</price1>
+    <price2>42275</price2>
+    <description>Core i5 / Core i7, 2300-2500 МГц, 8192 Мб, 1000 Гб, 15.6 дюйм, NVIDIA GeForce GT 650M, 2.5 кг, Blu-Ray, Bluetooth, Wi-Fi</description>
+    <specification>
+      <items>
+        <name>Тип</name>
+        <item>
+          <name>Тип</name>
+          <value>ноутбук</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Win 7 Home Premium 64</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Core i5 3210M 2500 МГц</value>
+        </item>
+        <item>
+          <name>Ядро процессора</name>
+          <value>Ivy Bridge</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>1 Мб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>3 Мб</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>8 Гб DDR3 1600 МГц</value>
+        </item>
+        <item>
+          <name>Максимальный размер</name>
+          <value>8 Гб</value>
+        </item>
+        <item>
+          <name>Количество слотов</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Экран</name>
+          <value>15.6 дюймов, 1600x900, широкоформатный</value>
+        </item>
+        <item>
+          <name>Тип экрана</name>
+          <value>матовый</value>
+        </item>
+        <item>
+          <name>Подсветка экрана</name>
+          <value>светодиодная</value>
+        </item>
+        <item>
+          <name>Тип видеоадаптера</name>
+          <value>дискретный</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>NVIDIA GeForce GT 650M</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value>2048 Мб  GDDR3 </value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства хранения данных</name>
+        <item>
+          <name>Оптический привод</name>
+          <value>Blu-Ray, внутренний</value>
+        </item>
+        <item>
+          <name>Объем накопителя (HDD)</name>
+          <value>1000 Гб</value>
+        </item>
+        <item>
+          <name>Скорость вращения жесткого диска</name>
+          <value>5400 об/мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>LAN/Modem</name>
+          <value>сетевая карта 1000 Мбит/c</value>
+        </item>
+        <item>
+          <name>Беспроводная связь</name>
+          <value>Wi-Fi IEEE 802.11n, Bluetooth 4.0</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0x2, USB 3.0x2, VGA (D-Sub), HDMI, вход микрофонный, выход аудио/наушники, LAN (RJ-45)</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Устройство для чтения флэш-карт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>SD, SDHC, SDXC</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы от аккумулятора</name>
+          <value>3 ч</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>4400 мАч</value>
+        </item>
+        <item>
+          <name>Количество ячеек аккумулятора</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства ввода</name>
+        <item>
+          <name>Устройства позиционирования</name>
+          <value>Touchpad</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные колонки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный сабвуфер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Веб-камера</name>
+          <value>есть, 1.3 млн пикс.</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>слот блокировки</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхТ)</name>
+          <value>367.9x242.8x30.4 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.5 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="68096">
+    <title>Samsung RC530</title>
+    <model>RC530</model>
+    <marka>Samsung</marka>
+    <catalog id="432460">Ноутбуки</catalog>
+    
+    <price1>22720</price1>
+    <price2>38590</price2>
+    <description>Core i3 / Core i5 / Core i7, 2000-2500 МГц, 4096-6144 Мб, 500-1000 Гб, 15.6 дюйм, NVIDIA GeForce GT 540M, 2.6 кг, DVD-RW, Bluetooth, Wi-Fi</description>
+    <specification>
+      <items>
+        <name>Тип</name>
+        <item>
+          <name>Тип</name>
+          <value>ноутбук</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Win 7 Home Basic 64</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Core i3 2350M 2300 МГц</value>
+        </item>
+        <item>
+          <name>Ядро процессора</name>
+          <value>Sandy Bridge</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>3 Мб</value>
+        </item>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel HM65</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>4 Гб DDR3</value>
+        </item>
+        <item>
+          <name>Количество слотов</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Экран</name>
+          <value>15.6 дюймов, 1366x768, широкоформатный</value>
+        </item>
+        <item>
+          <name>Тип экрана</name>
+          <value>глянцевый</value>
+        </item>
+        <item>
+          <name>Подсветка экрана</name>
+          <value>светодиодная</value>
+        </item>
+        <item>
+          <name>Тип видеоадаптера</name>
+          <value>дискретный и встроенный</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>NVIDIA GeForce GT 540M</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value> GDDR3 </value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства хранения данных</name>
+        <item>
+          <name>Оптический привод</name>
+          <value>DVD-RW, внутренний</value>
+        </item>
+        <item>
+          <name>Объем накопителя (HDD)</name>
+          <value>1000 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс накопителя</name>
+          <value>Serial ATA</value>
+        </item>
+        <item>
+          <name>Скорость вращения жесткого диска</name>
+          <value>5400 об/мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>LAN/Modem</name>
+          <value>сетевая карта 1000 Мбит/c</value>
+        </item>
+        <item>
+          <name>Беспроводная связь</name>
+          <value>Wi-Fi IEEE 802.11n, Bluetooth 3.0 HS</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0x4, VGA (D-Sub), HDMI, вход микрофонный, выход аудио/наушники, LAN (RJ-45)</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Устройство для чтения флэш-карт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>SD, SDHC, SDXC</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Количество ячеек аккумулятора</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства ввода</name>
+        <item>
+          <name>Устройства позиционирования</name>
+          <value>Touchpad</value>
+        </item>
+        <item>
+          <name>Количество клавиш клавиатуры</name>
+          <value>104</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные колонки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Веб-камера</name>
+          <value>есть, 1.3 млн пикс.</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>слот блокировки</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхТ)</name>
+          <value>379.6x255.5x37 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.6 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="68098">
+    <title>Sony VAIO SVE1511X1R</title>
+    <model>VAIO SVE1511X1R</model>
+    <marka>Sony</marka>
+    <catalog id="432460">Ноутбуки</catalog>
+    
+    <price1>19390</price1>
+    <price2>51590</price2>
+    <description>Core i5, 2500 МГц, 6144 Мб, 640 Гб, 15.5 дюйм, AMD Radeon HD 7650M, 2.7 кг, Blu-Ray, Bluetooth, Wi-Fi</description>
+    <specification>
+      <items>
+        <name>Тип</name>
+        <item>
+          <name>Тип</name>
+          <value>ноутбук</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Win 7 Home Premium 64</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Core i5 2450M 2500 МГц</value>
+        </item>
+        <item>
+          <name>Ядро процессора</name>
+          <value>Sandy Bridge</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>512 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>3 Мб</value>
+        </item>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel HM76</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>6 Гб DDR3 1600 МГц</value>
+        </item>
+        <item>
+          <name>Максимальный размер</name>
+          <value>8 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Экран</name>
+          <value>15.5 дюймов, 1366x768, широкоформатный</value>
+        </item>
+        <item>
+          <name>Тип видеоадаптера</name>
+          <value>дискретный</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>AMD Radeon HD 7650M</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value>1024 Мб </value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства хранения данных</name>
+        <item>
+          <name>Оптический привод</name>
+          <value>Blu-Ray, внутренний</value>
+        </item>
+        <item>
+          <name>Объем накопителя (HDD)</name>
+          <value>640 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс накопителя</name>
+          <value>Serial ATA</value>
+        </item>
+        <item>
+          <name>Скорость вращения жесткого диска</name>
+          <value>5400 об/мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>LAN/Modem</name>
+          <value>сетевая карта 1000 Мбит/c</value>
+        </item>
+        <item>
+          <name>Беспроводная связь</name>
+          <value>Wi-Fi IEEE 802.11n, Bluetooth 4.0</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0x3, USB 3.0, VGA (D-Sub), HDMI, вход микрофонный, выход аудио/наушники, LAN (RJ-45)</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Устройство для чтения флэш-карт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>MS PRO Duo, SD, SDHC, SDXC</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+        <item>
+          <name>Время зарядки аккумулятора</name>
+          <value>3.5 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства ввода</name>
+        <item>
+          <name>Устройства позиционирования</name>
+          <value>Touchpad</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные колонки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Веб-камера</name>
+          <value>есть, 1.31 млн пикс.</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>слот блокировки</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхТ)</name>
+          <value>371.9x253.5x35.1 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.7 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="68102">
+    <title>Sony VAIO SVS1311L9R</title>
+    <model>VAIO SVS1311L9R</model>
+    <marka>Sony</marka>
+    <catalog id="432460">Ноутбуки</catalog>
+    
+    <price1>34460</price1>
+    <price2>35310</price2>
+    <description>Core i3, 2300 МГц, 4096 Мб, 500 Гб, 13.3 дюйм, Intel HD Graphics 3000, DVD-RW, Bluetooth, Wi-Fi</description>
+    <specification>
+      <items>
+        <name>Тип</name>
+        <item>
+          <name>Тип</name>
+          <value>ноутбук</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Win 7 Professional 64</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Core i3 2350M 2300 МГц</value>
+        </item>
+        <item>
+          <name>Ядро процессора</name>
+          <value>Sandy Bridge</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>512 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>3 Мб</value>
+        </item>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel HM76</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>4 Гб DDR3 1333 МГц</value>
+        </item>
+        <item>
+          <name>Максимальный размер</name>
+          <value>12 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Экран</name>
+          <value>13.3 дюймов, 1366x768, широкоформатный</value>
+        </item>
+        <item>
+          <name>Тип видеоадаптера</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>Intel HD Graphics 3000</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value> SMA </value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства хранения данных</name>
+        <item>
+          <name>Оптический привод</name>
+          <value>DVD-RW, внутренний</value>
+        </item>
+        <item>
+          <name>Объем накопителя (HDD)</name>
+          <value>500 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс накопителя</name>
+          <value>Serial ATA</value>
+        </item>
+        <item>
+          <name>Скорость вращения жесткого диска</name>
+          <value>5400 об/мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>LAN/Modem</name>
+          <value>сетевая карта 1000 Мбит/c</value>
+        </item>
+        <item>
+          <name>Беспроводная связь</name>
+          <value>Wi-Fi IEEE 802.11n, Bluetooth 4.0</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0, USB 3.0x2, разъем для док-станции, VGA (D-Sub), HDMI, выход аудио/наушники, LAN (RJ-45)</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Устройство для чтения флэш-карт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>MS PRO Duo, MS Pro-HG Duo, SD, SDHC, SDXC</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Pol</value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства ввода</name>
+        <item>
+          <name>Устройства позиционирования</name>
+          <value>Touchpad</value>
+        </item>
+        <item>
+          <name>Подсветка клавиатуры</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные колонки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Веб-камера</name>
+          <value>есть, 1.31 млн пикс.</value>
+        </item>
+        <item>
+          <name>Сканер отпечатка пальца</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value> металлический корпус, слот блокировки</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхТ)</name>
+          <value>331x224.6x23.9 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="68119">
+    <title>Sony VAIO VPC-SA3Z9R</title>
+    <model>VAIO VPC-SA3Z9R</model>
+    <marka>Sony</marka>
+    <catalog id="432460">Ноутбуки</catalog>
+    
+    <price1>68200</price1>
+    <price2>89990</price2>
+    <description>Core i7, 2800 МГц, 8192 Мб, 256 Гб, 13.3 дюйм, ATI Radeon HD 6630M, 1.68 кг, BD-RE, Bluetooth, Wi-Fi</description>
+    <specification>
+      <items>
+        <name>Тип</name>
+        <item>
+          <name>Тип</name>
+          <value>ноутбук</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Win 7 Professional</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Core i7 2640M 2800 МГц</value>
+        </item>
+        <item>
+          <name>Ядро процессора</name>
+          <value>Sandy Bridge</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>512 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>4 Мб</value>
+        </item>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel HM67</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>8 Гб DDR3 1333 МГц</value>
+        </item>
+        <item>
+          <name>Максимальный размер</name>
+          <value>8 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Экран</name>
+          <value>13.3 дюймов, 1600x900, широкоформатный</value>
+        </item>
+        <item>
+          <name>Тип видеоадаптера</name>
+          <value>дискретный и встроенный</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>ATI Radeon HD 6630M</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value>1024 Мб </value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства хранения данных</name>
+        <item>
+          <name>Оптический привод</name>
+          <value>BD-RE, внутренний</value>
+        </item>
+        <item>
+          <name>Объем накопителя (SSD)</name>
+          <value>256 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс накопителя</name>
+          <value>Serial ATA</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>LAN/Modem</name>
+          <value>сетевая карта 1000 Мбит/c</value>
+        </item>
+        <item>
+          <name>Беспроводная связь</name>
+          <value>Wi-Fi IEEE 802.11n, Bluetooth 2.1 EDR, WiMAX</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0x2, USB 3.0, разъем для док-станции, VGA (D-Sub), HDMI, выход аудио/наушники, LAN (RJ-45)</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Устройство для чтения флэш-карт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>MS PRO Duo, MS Pro-HG Duo, SD, SDHC, SDXC</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы от аккумулятора</name>
+          <value>6 ч</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Pol</value>
+        </item>
+        <item>
+          <name>Время зарядки аккумулятора</name>
+          <value>4 ч</value>
+        </item>
+        <item>
+          <name>Время работы с доп. аккумулятором</name>
+          <value>12 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства ввода</name>
+        <item>
+          <name>Устройства позиционирования</name>
+          <value>Touchpad</value>
+        </item>
+        <item>
+          <name>Подсветка клавиатуры</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные колонки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Веб-камера</name>
+          <value>есть, 1.31 млн пикс.</value>
+        </item>
+        <item>
+          <name>Сканер отпечатка пальца</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value> металлический корпус, слот блокировки</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхТ)</name>
+          <value>331x224.5x23.3 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.68 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="68129">
+    <title>Sony VAIO VPC-EH3M1R</title>
+    <model>VAIO VPC-EH3M1R</model>
+    <marka>Sony</marka>
+    <catalog id="432460">Ноутбуки</catalog>
+    
+    <price1>25080</price1>
+    <price2>26400</price2>
+    <description>Core i3, 2300 МГц, 4096 Мб, 500 Гб, 15.5 дюйм, NVIDIA GeForce 410M, 2.7 кг, DVD-RW, Bluetooth, Wi-Fi</description>
+    <specification>
+      <items>
+        <name>Тип</name>
+        <item>
+          <name>Тип</name>
+          <value>ноутбук</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Win 7 Home Premium</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Core i3 2350M 2300 МГц</value>
+        </item>
+        <item>
+          <name>Ядро процессора</name>
+          <value>Sandy Bridge</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>512 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>3 Мб</value>
+        </item>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel HM65</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>4 Гб DDR3 1333 МГц</value>
+        </item>
+        <item>
+          <name>Максимальный размер</name>
+          <value>8 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Экран</name>
+          <value>15.5 дюймов, 1366x768, широкоформатный</value>
+        </item>
+        <item>
+          <name>Тип видеоадаптера</name>
+          <value>дискретный</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>NVIDIA GeForce 410M</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value>1024 Мб </value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства хранения данных</name>
+        <item>
+          <name>Оптический привод</name>
+          <value>DVD-RW, внутренний</value>
+        </item>
+        <item>
+          <name>Объем накопителя (HDD)</name>
+          <value>500 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс накопителя</name>
+          <value>Serial ATA</value>
+        </item>
+        <item>
+          <name>Скорость вращения жесткого диска</name>
+          <value>5400 об/мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>LAN/Modem</name>
+          <value>сетевая карта 1000 Мбит/c</value>
+        </item>
+        <item>
+          <name>Беспроводная связь</name>
+          <value>Wi-Fi IEEE 802.11n, Bluetooth 3.0 HS</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0x4, VGA (D-Sub), HDMI, вход микрофонный, выход аудио/наушники, LAN (RJ-45)</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Устройство для чтения флэш-карт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>MS PRO Duo, SD, SDHC, SDXC</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы от аккумулятора</name>
+          <value>4 ч</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+        <item>
+          <name>Время зарядки аккумулятора</name>
+          <value>3 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства ввода</name>
+        <item>
+          <name>Устройства позиционирования</name>
+          <value>Touchpad</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные колонки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Веб-камера</name>
+          <value>есть, 0.3 млн пикс.</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>слот блокировки</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхТ)</name>
+          <value>369.8x248.4x31.3 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.7 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="68130">
+    <title>Sony VAIO VPC-YB3Q1R</title>
+    <model>VAIO VPC-YB3Q1R</model>
+    <marka>Sony</marka>
+    <catalog id="432460">Ноутбуки</catalog>
+    
+    <price1>15850</price1>
+    <price2>16500</price2>
+    <description>E-450, 1650 МГц, 2048 Мб, 320 Гб, 11.6 дюйм, ATI Radeon HD 6320, 1.46 кг, DVD нет, Bluetooth, Wi-Fi</description>
+    <specification>
+      <items>
+        <name>Тип</name>
+        <item>
+          <name>Тип</name>
+          <value>ноутбук</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Win 7 Home Basic</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>E-450 1650 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>1 Мб</value>
+        </item>
+        <item>
+          <name>Чипсет</name>
+          <value>AMD A50M (Hudson M1)</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>2 Гб DDR3 1333 МГц</value>
+        </item>
+        <item>
+          <name>Максимальный размер</name>
+          <value>4 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Экран</name>
+          <value>11.6 дюймов, 1366x768, широкоформатный</value>
+        </item>
+        <item>
+          <name>Тип видеоадаптера</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>ATI Radeon HD 6320</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value> SMA </value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства хранения данных</name>
+        <item>
+          <name>Оптический привод</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Объем накопителя (HDD)</name>
+          <value>320 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс накопителя</name>
+          <value>Serial ATA</value>
+        </item>
+        <item>
+          <name>Скорость вращения жесткого диска</name>
+          <value>5400 об/мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>LAN/Modem</name>
+          <value>сетевая карта 1000 Мбит/c</value>
+        </item>
+        <item>
+          <name>Беспроводная связь</name>
+          <value>Wi-Fi IEEE 802.11n, Bluetooth 2.1 EDR</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0x3, VGA (D-Sub), HDMI, вход микрофонный, выход аудио/наушники, LAN (RJ-45)</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Устройство для чтения флэш-карт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>MS PRO Duo, SD, SDHC</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства ввода</name>
+        <item>
+          <name>Устройства позиционирования</name>
+          <value>Touchpad</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные колонки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Веб-камера</name>
+          <value>есть, 0.3 млн пикс.</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхТ)</name>
+          <value>290x202.8x25 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.46 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="68187">
+    <title>Lenovo THINKPAD X230 Tablet</title>
+    <model>THINKPAD X230 Tablet</model>
+    <marka>Lenovo</marka>
+    <catalog id="432460">Ноутбуки</catalog>
+    
+    <price1>32404</price1>
+    <price2>50326</price2>
+    <description>Core i3, 2400 МГц, 4096 Мб, 500 Гб, 12.5 дюйм, Intel HD Graphics 3000, 1.66 кг, DVD нет, Bluetooth, Wi-Fi</description>
+    <specification>
+      <items>
+        <name>Тип</name>
+        <item>
+          <name>Тип</name>
+          <value>Tablet PC</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Win 7 Professional 64</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Core i3 2370M 2400 МГц</value>
+        </item>
+        <item>
+          <name>Ядро процессора</name>
+          <value>Sandy Bridge</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>512 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>3 Мб</value>
+        </item>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel QM77</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>4 Гб DDR3 1600 МГц</value>
+        </item>
+        <item>
+          <name>Максимальный размер</name>
+          <value>16 Гб</value>
+        </item>
+        <item>
+          <name>Количество слотов</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Экран</name>
+          <value>12.5 дюймов, 1366x768, широкоформатный, сенсорный, мультитач</value>
+        </item>
+        <item>
+          <name>Подсветка экрана</name>
+          <value>светодиодная</value>
+        </item>
+        <item>
+          <name>Тип видеоадаптера</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>Intel HD Graphics 3000</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value> SMA </value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства хранения данных</name>
+        <item>
+          <name>Оптический привод</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Объем накопителя (HDD)</name>
+          <value>500 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>LAN/Modem</name>
+          <value>сетевая карта 1000 Мбит/c</value>
+        </item>
+        <item>
+          <name>Беспроводная связь</name>
+          <value>Wi-Fi, Bluetooth</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0, USB 3.0x2, VGA (D-Sub), DisplayPort, вход микрофонный, выход аудио/наушники, LAN (RJ-45)</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Слот ExpressCard</name>
+          <value>ExpressCard/54</value>
+        </item>
+        <item>
+          <name>Устройство для чтения флэш-карт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>SD, SDHC, SDXC</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы от аккумулятора</name>
+          <value>8 ч</value>
+        </item>
+        <item>
+          <name>Время работы с доп. аккумулятором</name>
+          <value>18 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства ввода</name>
+        <item>
+          <name>Устройства позиционирования</name>
+          <value>PointStick and Touchpad</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные колонки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Веб-камера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>слот блокировки</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхТ)</name>
+          <value>305x228.7x31.3 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.66 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="68189">
+    <title>Sony VAIO VPC-Z23Q9R</title>
+    <model>VAIO VPC-Z23Q9R</model>
+    <marka>Sony</marka>
+    <catalog id="432460">Ноутбуки</catalog>
+    
+    <price1>37600</price1>
+    <price2>112490</price2>
+    <description>Core i5, 2500 МГц, 4096 Мб, 128 Гб, 13.1 дюйм, Intel HD Graphics 3000, 1.17 кг, DVD нет, Bluetooth, Wi-Fi</description>
+    <specification>
+      <items>
+        <name>Тип</name>
+        <item>
+          <name>Тип</name>
+          <value>ноутбук</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Win 7 Professional</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Core i5 2450M 2500 МГц</value>
+        </item>
+        <item>
+          <name>Ядро процессора</name>
+          <value>Sandy Bridge</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>512 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>3 Мб</value>
+        </item>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel HM67</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>4 Гб DDR3 1333 МГц</value>
+        </item>
+        <item>
+          <name>Максимальный размер</name>
+          <value>4 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Экран</name>
+          <value>13.1 дюймов, 1600x900, широкоформатный</value>
+        </item>
+        <item>
+          <name>Тип видеоадаптера</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>Intel HD Graphics 3000</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value> SMA </value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства хранения данных</name>
+        <item>
+          <name>Оптический привод</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Объем накопителя (SSD)</name>
+          <value>128 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>LAN/Modem</name>
+          <value>сетевая карта 1000 Мбит/c</value>
+        </item>
+        <item>
+          <name>Беспроводная связь</name>
+          <value>Wi-Fi IEEE 802.11n, Bluetooth 3.0 HS, 3G (UMTS), EDGE, HSDPA</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0, разъем для док-станции, VGA (D-Sub), HDMI, выход аудио/наушники, LAN (RJ-45)</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Устройство для чтения флэш-карт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>MS PRO Duo, MS Pro-HG Duo, SD, SDHC, SDXC</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы от аккумулятора</name>
+          <value>7 ч</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Pol</value>
+        </item>
+        <item>
+          <name>Время зарядки аккумулятора</name>
+          <value>2.5 ч</value>
+        </item>
+        <item>
+          <name>Время работы с доп. аккумулятором</name>
+          <value>14 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства ввода</name>
+        <item>
+          <name>Устройства позиционирования</name>
+          <value>Touchpad</value>
+        </item>
+        <item>
+          <name>Подсветка клавиатуры</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные колонки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Веб-камера</name>
+          <value>есть, 1.31 млн пикс.</value>
+        </item>
+        <item>
+          <name>Сканер отпечатка пальца</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхТ)</name>
+          <value>330x210x16.65 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.175 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="68196">
+    <title>Sony VAIO SVE1511S9R</title>
+    <model>VAIO SVE1511S9R</model>
+    <marka>Sony</marka>
+    <catalog id="432460">Ноутбуки</catalog>
+    
+    <price1>32170</price1>
+    <price2>32967</price2>
+    <description>Core i5, 2500 МГц, 4096 Мб, 500 Гб, 15.5 дюйм, AMD Radeon HD 7650M, 2.7 кг, DVD-RW, Bluetooth, Wi-Fi</description>
+    <specification>
+      <items>
+        <name>Тип</name>
+        <item>
+          <name>Тип</name>
+          <value>ноутбук</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Win 7 Professional 64</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Core i5 2450M 2500 МГц</value>
+        </item>
+        <item>
+          <name>Ядро процессора</name>
+          <value>Sandy Bridge</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>512 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>3 Мб</value>
+        </item>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel HM76</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>4 Гб DDR3 1600 МГц</value>
+        </item>
+        <item>
+          <name>Максимальный размер</name>
+          <value>8 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Экран</name>
+          <value>15.5 дюймов, 1366x768, широкоформатный</value>
+        </item>
+        <item>
+          <name>Тип видеоадаптера</name>
+          <value>дискретный</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>AMD Radeon HD 7650M</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value>1024 Мб </value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства хранения данных</name>
+        <item>
+          <name>Оптический привод</name>
+          <value>DVD-RW, внутренний</value>
+        </item>
+        <item>
+          <name>Объем накопителя (HDD)</name>
+          <value>500 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс накопителя</name>
+          <value>Serial ATA</value>
+        </item>
+        <item>
+          <name>Скорость вращения жесткого диска</name>
+          <value>5400 об/мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>LAN/Modem</name>
+          <value>сетевая карта 1000 Мбит/c</value>
+        </item>
+        <item>
+          <name>Беспроводная связь</name>
+          <value>Wi-Fi IEEE 802.11n, Bluetooth 4.0</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0x3, USB 3.0, VGA (D-Sub), HDMI, вход микрофонный, выход аудио/наушники, LAN (RJ-45)</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Устройство для чтения флэш-карт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>MS PRO Duo, SD, SDHC, SDXC</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+        <item>
+          <name>Время зарядки аккумулятора</name>
+          <value>3.5 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства ввода</name>
+        <item>
+          <name>Устройства позиционирования</name>
+          <value>Touchpad</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные колонки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Веб-камера</name>
+          <value>есть, 1.31 млн пикс.</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>слот блокировки</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхТ)</name>
+          <value>371.9x253.5x35.1 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.7 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="68202">
+    <title>Acer Aspire One AO725-C61kk</title>
+    <model>Aspire One AO725-C61kk</model>
+    <marka>Acer</marka>
+    <catalog id="432460">Ноутбуки</catalog>
+    
+    <price1>10820</price1>
+    <price2>14554</price2>
+    <description>C-60, 1000 МГц, 2048 Мб, 500 Гб, 11.6 дюйм, ATI Radeon HD 6290, 1.35 кг, DVD нет, Bluetooth, Wi-Fi</description>
+    <specification>
+      <items>
+        <name>Тип</name>
+        <item>
+          <name>Тип</name>
+          <value>нетбук</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Win 7 Home Basic</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>C-60 1000 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>1 Мб</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>2 Гб DDR3 1066 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Экран</name>
+          <value>11.6 дюймов, 1366x768, широкоформатный</value>
+        </item>
+        <item>
+          <name>Тип экрана</name>
+          <value>глянцевый</value>
+        </item>
+        <item>
+          <name>Подсветка экрана</name>
+          <value>светодиодная</value>
+        </item>
+        <item>
+          <name>Тип видеоадаптера</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>ATI Radeon HD 6290</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value> SMA </value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства хранения данных</name>
+        <item>
+          <name>Оптический привод</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Объем накопителя (HDD)</name>
+          <value>500 Гб</value>
+        </item>
+        <item>
+          <name>Скорость вращения жесткого диска</name>
+          <value>5400 об/мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>LAN/Modem</name>
+          <value>сетевая карта 10/100 Мбит/c</value>
+        </item>
+        <item>
+          <name>Беспроводная связь</name>
+          <value>Wi-Fi IEEE 802.11n, Bluetooth 4.0</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0x2, USB 3.0, VGA (D-Sub), HDMI, вход микрофонный, выход аудио/наушники, LAN (RJ-45)</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Устройство для чтения флэш-карт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>MS, MS PRO, SD, xD-Picture Card</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы от аккумулятора</name>
+          <value>3 ч</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>2500 мАч</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства ввода</name>
+        <item>
+          <name>Устройства позиционирования</name>
+          <value>Touchpad</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные колонки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Веб-камера</name>
+          <value>есть, 0.3 млн пикс.</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>слот блокировки</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхТ)</name>
+          <value>283x193x27 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.35 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="68216">
+    <title>Sony VAIO SVT1111X1R</title>
+    <model>VAIO SVT1111X1R</model>
+    <marka>Sony</marka>
+    <catalog id="432460">Ноутбуки</catalog>
+    
+    <price1>26790</price1>
+    <price2>37045</price2>
+    <description>Core i5, 1700 МГц, 4096 Мб, 352 Гб, 11.6 дюйм, Intel HD Graphics 4000, 1.42 кг, DVD нет, Bluetooth, Wi-Fi</description>
+    <specification>
+      <items>
+        <name>Тип</name>
+        <item>
+          <name>Тип</name>
+          <value>ноутбук, ультрабук</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Win 7 Home Premium 64</value>
+        </item>
+      </items>
+      <items>
+        <name>Процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Core i5 3317U 1700 МГц</value>
+        </item>
+        <item>
+          <name>Ядро процессора</name>
+          <value>Ivy Bridge</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>512 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>3 Мб</value>
+        </item>
+        <item>
+          <name>Чипсет</name>
+          <value>Intel HM77</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Память</name>
+          <value>4 Гб DDR3L 1333 МГц</value>
+        </item>
+        <item>
+          <name>Максимальный размер</name>
+          <value>8 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Экран</name>
+          <value>11.6 дюймов, 1366x768, широкоформатный</value>
+        </item>
+        <item>
+          <name>Тип видеоадаптера</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>Intel HD Graphics 4000</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value> SMA </value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства хранения данных</name>
+        <item>
+          <name>Оптический привод</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Общий объем накопителей (HDD+SSD Cache)</name>
+          <value>352 Гб</value>
+        </item>
+        <item>
+          <name>Объем первого накопителя (HDD)</name>
+          <value>320 Гб</value>
+        </item>
+        <item>
+          <name>Объем SSD Cache</name>
+          <value>32 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс накопителя</name>
+          <value>Serial ATA</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>LAN/Modem</name>
+          <value>сетевая карта 1000 Мбит/c</value>
+        </item>
+        <item>
+          <name>Беспроводная связь</name>
+          <value>Wi-Fi IEEE 802.11n, Bluetooth 4.0</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0, USB 3.0, VGA (D-Sub), HDMI, выход аудио/наушники, LAN (RJ-45)</value>
+        </item>
+      </items>
+      <items>
+        <name>Слоты расширения</name>
+        <item>
+          <name>Устройство для чтения флэш-карт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>MS PRO Duo, SD, SDHC, SDXC</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Pol</value>
+        </item>
+      </items>
+      <items>
+        <name>Устройства ввода</name>
+        <item>
+          <name>Устройства позиционирования</name>
+          <value>Touchpad</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные колонки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Веб-камера</name>
+          <value>есть, 1.31 млн пикс.</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value> металлический корпус, слот блокировки</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхТ)</name>
+          <value>297x214.4x17.8 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.42 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>SSD Cache диск</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

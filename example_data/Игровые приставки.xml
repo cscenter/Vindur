@@ -1,0 +1,2248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="55858">
+    <title>Sony PlayStation Vita Wi-Fi</title>
+    <model>PlayStation Vita Wi-Fi</model>
+    <marka>Sony</marka>
+    <catalog id="1040442">Игровые приставки</catalog>
+    
+    <price1>6000</price1>
+    <price2>12750</price2>
+    <description>
+портативная, экран 5&amp;amp;quot, 960x544 пикс., Bluetooth, Wi-Fi (802.11b/g/n), USB, разъем для наушников
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>портативная</value>
+        </item>
+        <item>
+          <name>Экран</name>
+          <value>5", 960x544 пикс.</value>
+        </item>
+        <item>
+          <name>Сенсорный экран</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип процессора</name>
+          <value>ARM CortexTM A9 (4 ядра)</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>SGX543MP4+</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>512 Мб</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value>128 Мб</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Разъемы</name>
+          <value>USB, выход для наушников</value>
+        </item>
+        <item>
+          <name>Коммуникации</name>
+          <value>Bluetooth, Wi-Fi (802.11b/g/n)</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, JPEG</value>
+        </item>
+        <item>
+          <name>Устройство для чтения карт памяти</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы карт памяти</name>
+          <value>PS Vita Card</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный динамик</name>
+          <value>стерео</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Источник питания</name>
+          <value>собственный Li-Ion</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>182x84x19 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>260 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Совместимость с играми для приставок</name>
+          <value>PlayStation Portable, PlayStation Vita</value>
+        </item>
+        <item>
+          <name>Варианты цветового оформления</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>2 встроенные камеры (передняя и задняя); трехосевой гироскоп и акселерометр; трехосный электронный компас; задняя сенсорная панель; многофункциональный разъем для обмена данными: USB, питание, звук; поддерживаемые форматы видео: MPEG-4 Simple Profile (AAC), H.264/MPEG-4 AVC Hi/Main/Baseline Profile (AAC), изображения: JPEG (Exif 2.2.1), TIFF, BMP, GIF, PNG</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55860">
+    <title>Sony PlayStation 3 Slim 320Gb</title>
+    <model>PlayStation 3 Slim 320Gb</model>
+    <marka>Sony</marka>
+    <catalog id="1040442">Игровые приставки</catalog>
+    
+    <price1>12340</price1>
+    <price2>15990</price2>
+    <description>
+стационарная, жесткий диск 320 Гб, поддержка HD, поддержка 3D, Bluetooth, Wi-Fi (802.11b/g), Ethernet, AV-выход, HDMI, USB, оптический аудиовыход, контроллер в комплекте
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>стационарная</value>
+        </item>
+        <item>
+          <name>Поддержка HD (High Definition)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Жесткий диск</name>
+          <value>есть, 320 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип процессора</name>
+          <value>Cell</value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>3.20 ГГц</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>NVIDIA RSX</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>256 Мб, XDR</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value>256 Мб, GDDR3</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Разъемы</name>
+          <value>AV-выход, HDMI, USB x2, оптический аудиовыход</value>
+        </item>
+        <item>
+          <name>Коммуникации</name>
+          <value>Bluetooth, Wi-Fi (802.11b/g), Ethernet</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>Blu-ray, DVD, DVD R, DVD RW, CD, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>WMA, MP3, SACD, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>290x65x290 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.20 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Контроллер в комплекте</name>
+          <value>есть, беспроводной</value>
+        </item>
+        <item>
+          <name>Аксессуары в комплекте</name>
+          <value>композитный AV-кабель, USB-кабель</value>
+        </item>
+        <item>
+          <name>Тип носителя для игр</name>
+          <value>BD (Blu-ray Disc)</value>
+        </item>
+        <item>
+          <name>Совместимость с играми для приставок</name>
+          <value>PlayStation One, PlayStation 3</value>
+        </item>
+        <item>
+          <name>Варианты цветового оформления</name>
+          <value>черный, красный, серебристый</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>возможность вертикальной установки с помощью специальной подставки</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55861">
+    <title>Sony PlayStation Portable E1000</title>
+    <model>PlayStation Portable E1000</model>
+    <marka>Sony</marka>
+    <catalog id="1040442">Игровые приставки</catalog>
+    
+    <price1>3333</price1>
+    <price2>7086</price2>
+    <description>
+портативная, экран 4.3&amp;amp;quot, 480x272 пикс., USB, разъем для наушников
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>портативная</value>
+        </item>
+        <item>
+          <name>Экран</name>
+          <value>4.3", 480x272 пикс.</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Частота процессора</name>
+          <value>333 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Разъемы</name>
+          <value>USB, выход для наушников</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>UMD</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>WMA, MP3, JPEG</value>
+        </item>
+        <item>
+          <name>Устройство для чтения карт памяти</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы карт памяти</name>
+          <value>MS Duo</value>
+        </item>
+        <item>
+          <name>Встроенный динамик</name>
+          <value>моно</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Источник питания</name>
+          <value>собственный Li-Ion</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>173x74x22 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>223 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Тип носителя для игр</name>
+          <value>UMD</value>
+        </item>
+        <item>
+          <name>Совместимость с играми для приставок</name>
+          <value>PlayStation Portable</value>
+        </item>
+        <item>
+          <name>Варианты цветового оформления</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>USB-коннектор, возможность зарядки батареи от USB; поддержка форматов видео: H.264 MPEG-4 AVC, MPEG-4 SP; поддержка форматов аудио: ATRAC3, ATRAC3plus, MP4; поддержка графических форматов: TIFF, BMP, GIF, PNG; поддержка карт памяти Memory Stick Pro Duo</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55865">
+    <title>Microsoft Xbox 360 250Gb</title>
+    <model>Xbox 360 250Gb</model>
+    <marka>Microsoft</marka>
+    <catalog id="1040442">Игровые приставки</catalog>
+    
+    <price1>9490</price1>
+    <price2>16989</price2>
+    <description>
+стационарная, жесткий диск 250 Гб, поддержка HD, Wi-Fi (802.11b/g/n), Ethernet, AV-выход, HDMI, USB, оптический аудиовыход
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>стационарная</value>
+        </item>
+        <item>
+          <name>Поддержка HD (High Definition)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Жесткий диск</name>
+          <value>есть, 250 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип процессора</name>
+          <value>Power PC (трехъядерный)</value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>3.20 ГГц</value>
+        </item>
+        <item>
+          <name>Производительность системы при вычислениях с плавающей точкой</name>
+          <value>1 терафлоп</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>ATI C1/Xenos</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>512 Мб, 700 МГц, GDDR3</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value>10 Мб, eDRAM</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Разъемы</name>
+          <value>AV-выход, HDMI, USB x5, оптический аудиовыход</value>
+        </item>
+        <item>
+          <name>Коммуникации</name>
+          <value>Wi-Fi (802.11b/g/n), Ethernet</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>DVD, DVD R, DVD RW, CD, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>WMA, MP3, JPEG</value>
+        </item>
+        <item>
+          <name>Устройство для чтения карт памяти</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы карт памяти</name>
+          <value>Xbox 360 Memory Unit</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Контроллер в комплекте</name>
+          <value>есть, беспроводной</value>
+        </item>
+        <item>
+          <name>Аксессуары в комплекте</name>
+          <value>гарнитура, композитный AV-кабель</value>
+        </item>
+        <item>
+          <name>Тип носителя для игр</name>
+          <value>DVD</value>
+        </item>
+        <item>
+          <name>Совместимость с играми для приставок</name>
+          <value>Xbox, Xbox360</value>
+        </item>
+        <item>
+          <name>Варианты цветового оформления</name>
+          <value>черный</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55866">
+    <title>Microsoft Xbox 360 4Gb</title>
+    <model>Xbox 360 4Gb</model>
+    <marka>Microsoft</marka>
+    <catalog id="1040442">Игровые приставки</catalog>
+    
+    <price1>6950</price1>
+    <price2>13900</price2>
+    <description>
+стационарная, поддержка HD, Wi-Fi (802.11b/g/n), Ethernet, AV-выход, HDMI, USB, оптический аудиовыход
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>стационарная</value>
+        </item>
+        <item>
+          <name>Поддержка HD (High Definition)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Объем встроенной флэш-памяти</name>
+          <value>4 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип процессора</name>
+          <value>Power PC (трехъядерный)</value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>3.20 ГГц</value>
+        </item>
+        <item>
+          <name>Производительность системы при вычислениях с плавающей точкой</name>
+          <value>1 терафлоп</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>ATI C1/Xenos</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>512 Мб, 700 МГц, GDDR3</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value>10 Мб, eDRAM</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Разъемы</name>
+          <value>AV-выход, HDMI, USB x5, оптический аудиовыход</value>
+        </item>
+        <item>
+          <name>Коммуникации</name>
+          <value>Wi-Fi (802.11b/g/n), Ethernet</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>DVD, DVD R, DVD RW, CD, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>WMA, MP3, JPEG</value>
+        </item>
+        <item>
+          <name>Устройство для чтения карт памяти</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы карт памяти</name>
+          <value>Xbox 360 Memory Unit</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Контроллер в комплекте</name>
+          <value>есть, беспроводной</value>
+        </item>
+        <item>
+          <name>Аксессуары в комплекте</name>
+          <value>композитный AV-кабель</value>
+        </item>
+        <item>
+          <name>Тип носителя для игр</name>
+          <value>DVD</value>
+        </item>
+        <item>
+          <name>Совместимость с играми для приставок</name>
+          <value>Xbox, Xbox360</value>
+        </item>
+        <item>
+          <name>Варианты цветового оформления</name>
+          <value>черный</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55868">
+    <title>Sony PlayStation Vita 3G/Wi-Fi</title>
+    <model>PlayStation Vita 3G/Wi-Fi</model>
+    <marka>Sony</marka>
+    <catalog id="1040442">Игровые приставки</catalog>
+    
+    <price1>6390</price1>
+    <price2>14643</price2>
+    <description>
+портативная, экран 5&amp;amp;quot, 960x544 пикс., Bluetooth, Wi-Fi (802.11b/g/n), USB, разъем для наушников
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>портативная</value>
+        </item>
+        <item>
+          <name>Экран</name>
+          <value>5", 960x544 пикс.</value>
+        </item>
+        <item>
+          <name>Сенсорный экран</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип процессора</name>
+          <value>ARM CortexTM A9 (4 ядра)</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>SGX543MP4+</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>512 Мб</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value>128 Мб</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Разъемы</name>
+          <value>USB, выход для наушников</value>
+        </item>
+        <item>
+          <name>Коммуникации</name>
+          <value>Bluetooth, Wi-Fi (802.11b/g/n), 3G</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, JPEG</value>
+        </item>
+        <item>
+          <name>Устройство для чтения карт памяти</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы карт памяти</name>
+          <value>PS Vita Card</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный динамик</name>
+          <value>стерео</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Источник питания</name>
+          <value>собственный Li-Ion</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>182x84x19 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>279 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Совместимость с играми для приставок</name>
+          <value>PlayStation Portable, PlayStation Vita</value>
+        </item>
+        <item>
+          <name>Варианты цветового оформления</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>2 встроенные камеры (передняя и задняя); трехосевой гироскоп и акселерометр; трехосный электронный компас; задняя сенсорная панель; GPS; многофункциональный разъем для обмена данными: USB, питание, звук; поддерживаемые форматы видео: MPEG-4 Simple Profile (AAC), H.264/MPEG-4 AVC Hi/Main/Baseline Profile (AAC), изображения: JPEG (Exif 2.2.1), TIFF, BMP, GIF, PNG</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55870">
+    <title>Sony PlayStation 3 Slim 160Gb</title>
+    <model>PlayStation 3 Slim 160Gb</model>
+    <marka>Sony</marka>
+    <catalog id="1040442">Игровые приставки</catalog>
+    
+    <price1>9990</price1>
+    <price2>14930</price2>
+    <description>
+стационарная, жесткий диск 160 Гб, поддержка HD, поддержка 3D, Bluetooth, Wi-Fi (802.11b/g), Ethernet, AV-выход, HDMI, USB, оптический аудиовыход, контроллер в комплекте
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>стационарная</value>
+        </item>
+        <item>
+          <name>Поддержка HD (High Definition)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Жесткий диск</name>
+          <value>есть, 160 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип процессора</name>
+          <value>Cell</value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>3.20 ГГц</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>NVIDIA RSX</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>256 Мб, XDR</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value>256 Мб, GDDR3</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Разъемы</name>
+          <value>AV-выход, HDMI, USB x2, оптический аудиовыход</value>
+        </item>
+        <item>
+          <name>Коммуникации</name>
+          <value>Bluetooth, Wi-Fi (802.11b/g), Ethernet</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>Blu-ray, DVD, DVD R, DVD RW, CD, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>WMA, MP3, SACD, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>290x65x290 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.20 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Контроллер в комплекте</name>
+          <value>есть, беспроводной</value>
+        </item>
+        <item>
+          <name>Аксессуары в комплекте</name>
+          <value>композитный AV-кабель, USB-кабель</value>
+        </item>
+        <item>
+          <name>Тип носителя для игр</name>
+          <value>BD (Blu-ray Disc)</value>
+        </item>
+        <item>
+          <name>Совместимость с играми для приставок</name>
+          <value>PlayStation One, PlayStation 2, PlayStation 3</value>
+        </item>
+        <item>
+          <name>Варианты цветового оформления</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>возможность вертикальной установки с помощью специальной подставки</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55875">
+    <title>Sony PlayStation 2 Slim</title>
+    <model>PlayStation 2 Slim</model>
+    <marka>Sony</marka>
+    <catalog id="1040442">Игровые приставки</catalog>
+    
+    <price1>4440</price1>
+    <price2>5190</price2>
+    <description>
+стационарная, IRDA, Ethernet, AV-выход, USB, оптический аудиовыход, контроллер в комплекте
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>стационарная</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип процессора</name>
+          <value>Emotion Engine</value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>295 МГц</value>
+        </item>
+        <item>
+          <name>Производительность системы при вычислениях с плавающей точкой</name>
+          <value>6.20 гигафлоп</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>32 Мб</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value>4 Мб, 148 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Разъемы</name>
+          <value>AV-выход, USB x2, оптический аудиовыход</value>
+        </item>
+        <item>
+          <name>Коммуникации</name>
+          <value>инфракрасный порт, Ethernet</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>DVD, DVD R, DVD RW, CD, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Устройство для чтения карт памяти</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы карт памяти</name>
+          <value>PlayStation 2 Memory Card</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>230x28x152 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>900 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Контроллер в комплекте</name>
+          <value>есть, проводной</value>
+        </item>
+        <item>
+          <name>Аксессуары в комплекте</name>
+          <value>композитный AV-кабель</value>
+        </item>
+        <item>
+          <name>Тип носителя для игр</name>
+          <value>DVD</value>
+        </item>
+        <item>
+          <name>Совместимость с играми для приставок</name>
+          <value>PlayStation One, PlayStation 2</value>
+        </item>
+        <item>
+          <name>Варианты цветового оформления</name>
+          <value>черный, серебристый</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55882">
+    <title>Nintendo 3DS</title>
+    <model>3DS</model>
+    <marka>Nintendo</marka>
+    <catalog id="1040442">Игровые приставки</catalog>
+    
+    <price1>3990</price1>
+    <price2>8990</price2>
+    <description>
+портативная, экран 3.53&amp;amp;quot, 800x240 пикс., поддержка 3D, Wi-Fi (802.11b/g), разъем для наушников
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>портативная</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Карта памяти в комплекте</name>
+          <value>2 Гб SDHC</value>
+        </item>
+        <item>
+          <name>Экран</name>
+          <value>3.53", 800x240 пикс.</value>
+        </item>
+        <item>
+          <name>Сенсорный экран</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Разъемы</name>
+          <value>выход для наушников</value>
+        </item>
+        <item>
+          <name>Коммуникации</name>
+          <value>Wi-Fi (802.11b/g)</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Устройство для чтения карт памяти</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы карт памяти</name>
+          <value>SD, SDHC</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный динамик</name>
+          <value>стерео</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Источник питания</name>
+          <value>собственный Li-Ion</value>
+        </item>
+        <item>
+          <name>Время работы</name>
+          <value>3.5 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>135x74x20 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Совместимость с играми для приставок</name>
+          <value>Nintendo DS, Nintendo 3DS</value>
+        </item>
+        <item>
+          <name>Варианты цветового оформления</name>
+          <value>черный, синий</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>1 внутренняя камера и 2 наружные стерео камеры (640x480 пкс); нижний экран: 3.02 дюйма (320x240 пкс); встроенный сенсор движения, гироскоп</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55885">
+    <title>Sony PlayStation 3 160Gb</title>
+    <model>PlayStation 3 160Gb</model>
+    <marka>Sony</marka>
+    <catalog id="1040442">Игровые приставки</catalog>
+    
+    <price1>10350</price1>
+    <price2>14846</price2>
+    <description>
+стационарная, жесткий диск 160 Гб, поддержка HD, поддержка 3D, Bluetooth, Wi-Fi (802.11b/g), Ethernet, AV-выход, HDMI, USB, оптический аудиовыход, контроллер в комплекте
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>стационарная</value>
+        </item>
+        <item>
+          <name>Поддержка HD (High Definition)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Жесткий диск</name>
+          <value>есть, 160 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип процессора</name>
+          <value>Cell</value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>3.20 ГГц</value>
+        </item>
+        <item>
+          <name>Производительность системы при вычислениях с плавающей точкой</name>
+          <value>2 терафлоп</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>NVIDIA RSX</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>256 Мб, 400 МГц, XDR</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value>256 Мб, GDDR3</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Разъемы</name>
+          <value>AV-выход, HDMI, USB x2, оптический аудиовыход</value>
+        </item>
+        <item>
+          <name>Коммуникации</name>
+          <value>Bluetooth, Wi-Fi (802.11b/g), Ethernet</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>Blu-ray, DVD, DVD R, DVD RW, CD, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>WMA, MP3, SACD, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>325x98x274 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Контроллер в комплекте</name>
+          <value>есть, беспроводной</value>
+        </item>
+        <item>
+          <name>Аксессуары в комплекте</name>
+          <value>композитный AV-кабель, Ethernet-кабель, USB-кабель</value>
+        </item>
+        <item>
+          <name>Тип носителя для игр</name>
+          <value>BD (Blu-ray Disc)</value>
+        </item>
+        <item>
+          <name>Совместимость с играми для приставок</name>
+          <value>PlayStation One, PlayStation 3</value>
+        </item>
+        <item>
+          <name>Варианты цветового оформления</name>
+          <value>черный, белый, серебристый</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55888">
+    <title>Sony PlayStation Portable Slim &amp;amp;amp; Lite (PSP-3000)</title>
+    <model>PlayStation Portable Slim &amp;amp;amp; Lite (PSP-3000)</model>
+    <marka>Sony</marka>
+    <catalog id="1040442">Игровые приставки</catalog>
+    
+    <price1>4249</price1>
+    <price2>5799</price2>
+    <description>
+портативная, экран 4.3&amp;amp;quot, 480x272 пикс., Wi-Fi (802.11b), AV-выход, USB, разъем для наушников
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>портативная</value>
+        </item>
+        <item>
+          <name>Экран</name>
+          <value>4.3", 480x272 пикс.</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Частота процессора</name>
+          <value>333 МГц</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>64 Мб</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value>eDRAM</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Разъемы</name>
+          <value>AV-выход, USB, выход для наушников</value>
+        </item>
+        <item>
+          <name>Коммуникации</name>
+          <value>Wi-Fi (802.11b)</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>UMD</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>WMA, MP3, JPEG</value>
+        </item>
+        <item>
+          <name>Устройство для чтения карт памяти</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы карт памяти</name>
+          <value>MS Duo</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный динамик</name>
+          <value>стерео</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Источник питания</name>
+          <value>собственный Li-Ion</value>
+        </item>
+        <item>
+          <name>Время работы</name>
+          <value>6 ч</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1200 мА*ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>169x71x19 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>189 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Тип носителя для игр</name>
+          <value>UMD</value>
+        </item>
+        <item>
+          <name>Совместимость с играми для приставок</name>
+          <value>PlayStation Portable</value>
+        </item>
+        <item>
+          <name>Варианты цветового оформления</name>
+          <value>черный, красный, серебристый, бирюзовый</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>USB-коннектор, возможность зарядки батареи от USB; поддержка форматов видео: H.264 MPEG-4 AVC, MPEG-4 SP; поддержка форматов аудио: ATRAC3, ATRAC3plus, MP4; поддержка графических форматов: TIFF, BMP, GIF, PNG; поддержка карт памяти Memory Stick Pro Duo</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55892">
+    <title>Nintendo Wii</title>
+    <model>Wii</model>
+    <marka>Nintendo</marka>
+    <catalog id="1040442">Игровые приставки</catalog>
+    
+    <price1>2990</price1>
+    <price2>7000</price2>
+    <description>
+стационарная, Wi-Fi (802.11b/g), AV-выход, USB, контроллер в комплекте
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>стационарная</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип процессора</name>
+          <value>Power PC Broadway</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>ATI Hollywood</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Разъемы</name>
+          <value>AV-выход, USB x2</value>
+        </item>
+        <item>
+          <name>Коммуникации</name>
+          <value>Wi-Fi (802.11b/g)</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Устройство для чтения карт памяти</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы карт памяти</name>
+          <value>SD</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Контроллер в комплекте</name>
+          <value>есть, Wii Remote + Nunchuk</value>
+        </item>
+        <item>
+          <name>Аксессуары в комплекте</name>
+          <value>композитный AV-кабель</value>
+        </item>
+        <item>
+          <name>Тип носителя для игр</name>
+          <value>Wii Optical Disc</value>
+        </item>
+        <item>
+          <name>Совместимость с играми для приставок</name>
+          <value>Nintendo GameCube, Nintendo Wii</value>
+        </item>
+        <item>
+          <name>Варианты цветового оформления</name>
+          <value>черный, голубой</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>внутренная флэш-память объемом 512 Мб</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55893">
+    <title>SEGA MegaDrive Gopher</title>
+    <model>MegaDrive Gopher</model>
+    <marka>SEGA</marka>
+    <catalog id="1040442">Игровые приставки</catalog>
+    
+    <price1>1350</price1>
+    <price2>2090</price2>
+    <description>
+портативная, экран 2.5&amp;amp;quot, 360x240 пикс., AV-выход, вход для микрофона, разъем для наушников
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>портативная</value>
+        </item>
+        <item>
+          <name>Экран</name>
+          <value>2.8", 360x240 пикс.</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип процессора</name>
+          <value>Motorola 68000</value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>7.61 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Разъемы</name>
+          <value>AV-выход, выход для наушников, вход для микрофона</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Устройство для чтения карт памяти</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы карт памяти</name>
+          <value>SD</value>
+        </item>
+        <item>
+          <name>Встроенный динамик</name>
+          <value>моно</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Источник питания</name>
+          <value>собственный Li-Ion</value>
+        </item>
+        <item>
+          <name>Время работы</name>
+          <value>10 ч</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>750 мА*ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Аксессуары в комплекте</name>
+          <value>композитный AV-кабель, наушники, чехол</value>
+        </item>
+        <item>
+          <name>Тип носителя для игр</name>
+          <value>картридж</value>
+        </item>
+        <item>
+          <name>Совместимость с играми для приставок</name>
+          <value>MegaDrive Portable</value>
+        </item>
+        <item>
+          <name>Варианты цветового оформления</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>20 встроенных игр; встроенный ИК-приемник для подключения джойстиков дистанционного управления</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55895">
+    <title>Microsoft Xbox 360 250Gb + Kinect</title>
+    <model>Xbox 360 250Gb + Kinect</model>
+    <marka>Microsoft</marka>
+    <catalog id="1040442">Игровые приставки</catalog>
+    
+    <price1>13590</price1>
+    <price2>14899</price2>
+    <description>
+стационарная, жесткий диск 250 Гб, поддержка HD, Wi-Fi (802.11b/g/n), Ethernet, AV-выход, HDMI, USB, оптический аудиовыход
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>стационарная</value>
+        </item>
+        <item>
+          <name>Поддержка HD (High Definition)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Жесткий диск</name>
+          <value>есть, 250 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип процессора</name>
+          <value>Power PC (трехъядерный)</value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>3.20 ГГц</value>
+        </item>
+        <item>
+          <name>Производительность системы при вычислениях с плавающей точкой</name>
+          <value>1 терафлоп</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>ATI C1/Xenos</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>512 Мб, 700 МГц, GDDR3</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value>10 Мб, eDRAM</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Разъемы</name>
+          <value>AV-выход, HDMI, USB x5, оптический аудиовыход</value>
+        </item>
+        <item>
+          <name>Коммуникации</name>
+          <value>Wi-Fi (802.11b/g/n), Ethernet</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>DVD, DVD R, DVD RW, CD, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>WMA, MP3, JPEG</value>
+        </item>
+        <item>
+          <name>Устройство для чтения карт памяти</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы карт памяти</name>
+          <value>Xbox 360 Memory Unit</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Контроллер в комплекте</name>
+          <value>есть, беспроводной</value>
+        </item>
+        <item>
+          <name>Аксессуары в комплекте</name>
+          <value>гарнитура, композитный AV-кабель</value>
+        </item>
+        <item>
+          <name>Тип носителя для игр</name>
+          <value>DVD</value>
+        </item>
+        <item>
+          <name>Совместимость с играми для приставок</name>
+          <value>Xbox, Xbox360</value>
+        </item>
+        <item>
+          <name>Варианты цветового оформления</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>сенсор Kinect и игра Kinect Adventures в комплекте</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55897">
+    <title>Microsoft Xbox 360 4Gb + Kinect</title>
+    <model>Xbox 360 4Gb + Kinect</model>
+    <marka>Microsoft</marka>
+    <catalog id="1040442">Игровые приставки</catalog>
+    
+    <price1>8790</price1>
+    <price2>14990</price2>
+    <description>
+стационарная, поддержка HD, Wi-Fi (802.11b/g/n), Ethernet, AV-выход, HDMI, USB, оптический аудиовыход
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>стационарная</value>
+        </item>
+        <item>
+          <name>Поддержка HD (High Definition)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Объем встроенной флэш-памяти</name>
+          <value>4 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип процессора</name>
+          <value>Power PC (трехъядерный)</value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>3.20 ГГц</value>
+        </item>
+        <item>
+          <name>Производительность системы при вычислениях с плавающей точкой</name>
+          <value>1 терафлоп</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>ATI C1/Xenos</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>512 Мб, 700 МГц, GDDR3</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value>10 Мб, eDRAM</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Разъемы</name>
+          <value>AV-выход, HDMI, USB x5, оптический аудиовыход</value>
+        </item>
+        <item>
+          <name>Коммуникации</name>
+          <value>Wi-Fi (802.11b/g/n), Ethernet</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>DVD, DVD R, DVD RW, CD, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>WMA, MP3, JPEG</value>
+        </item>
+        <item>
+          <name>Устройство для чтения карт памяти</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы карт памяти</name>
+          <value>Xbox 360 Memory Unit</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Контроллер в комплекте</name>
+          <value>есть, беспроводной</value>
+        </item>
+        <item>
+          <name>Аксессуары в комплекте</name>
+          <value>композитный AV-кабель</value>
+        </item>
+        <item>
+          <name>Тип носителя для игр</name>
+          <value>DVD</value>
+        </item>
+        <item>
+          <name>Совместимость с играми для приставок</name>
+          <value>Xbox, Xbox360</value>
+        </item>
+        <item>
+          <name>Варианты цветового оформления</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>сенсор Kinect и игра Kinect Adventures в комплекте</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55902">
+    <title>SEGA MegaDrive Portable</title>
+    <model>MegaDrive Portable</model>
+    <marka>SEGA</marka>
+    <catalog id="1040442">Игровые приставки</catalog>
+    
+    <price1>1155</price1>
+    <price2>1490</price2>
+    <description>
+портативная, экран 2.5&amp;amp;quot, 360x240 пикс., AV-выход, разъем для наушников
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>портативная</value>
+        </item>
+        <item>
+          <name>Экран</name>
+          <value>2.5", 360x240 пикс.</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип процессора</name>
+          <value>Motorola 68000</value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>7.61 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Разъемы</name>
+          <value>AV-выход, выход для наушников</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Встроенный динамик</name>
+          <value>моно</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Источник питания</name>
+          <value>4xAAA</value>
+        </item>
+        <item>
+          <name>Время работы</name>
+          <value>10 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>142x82x26 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Аксессуары в комплекте</name>
+          <value>композитный AV-кабель, наушники</value>
+        </item>
+        <item>
+          <name>Тип носителя для игр</name>
+          <value>картридж</value>
+        </item>
+        <item>
+          <name>Совместимость с играми для приставок</name>
+          <value>MegaDrive Portable</value>
+        </item>
+        <item>
+          <name>Варианты цветового оформления</name>
+          <value>черный, серебристый, фиолетовый</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>объем оперативной памяти 64 кБ</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55905">
+    <title>Sony PlayStation Portable Slim &amp;amp;amp; Lite</title>
+    <model>PlayStation Portable Slim &amp;amp;amp; Lite</model>
+    <marka>Sony</marka>
+    <catalog id="1040442">Игровые приставки</catalog>
+    
+    <price1>4500</price1>
+    <price2>9790</price2>
+    <description>
+портативная, экран 4.3&amp;amp;quot, 480x272 пикс., Wi-Fi (802.11b), AV-выход, USB, разъем для наушников
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>портативная</value>
+        </item>
+        <item>
+          <name>Экран</name>
+          <value>4.3", 480x272 пикс.</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Частота процессора</name>
+          <value>333 МГц</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>64 Мб</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value>eDRAM</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Разъемы</name>
+          <value>AV-выход, USB, выход для наушников</value>
+        </item>
+        <item>
+          <name>Коммуникации</name>
+          <value>Wi-Fi (802.11b)</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>UMD</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, JPEG</value>
+        </item>
+        <item>
+          <name>Устройство для чтения карт памяти</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы карт памяти</name>
+          <value>MS Duo</value>
+        </item>
+        <item>
+          <name>Встроенный динамик</name>
+          <value>стерео</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Источник питания</name>
+          <value>собственный Li-Ion</value>
+        </item>
+        <item>
+          <name>Время работы</name>
+          <value>6 ч</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1200 мА*ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>170x74x19 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>189 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Тип носителя для игр</name>
+          <value>UMD</value>
+        </item>
+        <item>
+          <name>Совместимость с играми для приставок</name>
+          <value>PlayStation Portable</value>
+        </item>
+        <item>
+          <name>Варианты цветового оформления</name>
+          <value>черный, белый, розовый, голубой, серебристый, синий, серый</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>USB-коннектор, возможность зарядки батареи от USB</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55906">
+    <title>Nintendo DSi</title>
+    <model>DSi</model>
+    <marka>Nintendo</marka>
+    <catalog id="1040442">Игровые приставки</catalog>
+    
+    <price1>5500</price1>
+    <price2>7410</price2>
+    <description>
+портативная, экран 3.25&amp;amp;quot, Wi-Fi, вход для микрофона, разъем для наушников
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>портативная</value>
+        </item>
+        <item>
+          <name>Экран</name>
+          <value>3.25"</value>
+        </item>
+        <item>
+          <name>Сенсорный экран</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип процессора</name>
+          <value>1xARM9 + 1xARM7</value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>133 МГц</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>16 Мб</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Разъемы</name>
+          <value>выход для наушников, вход для микрофона</value>
+        </item>
+        <item>
+          <name>Коммуникации</name>
+          <value>Wi-Fi</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Устройство для чтения карт памяти</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы карт памяти</name>
+          <value>SD</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный динамик</name>
+          <value>стерео</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Источник питания</name>
+          <value>собственный Li-Ion</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>137x19x75 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>214 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Тип носителя для игр</name>
+          <value>картридж</value>
+        </item>
+        <item>
+          <name>Совместимость с играми для приставок</name>
+          <value>Nintendo DS</value>
+        </item>
+        <item>
+          <name>Варианты цветового оформления</name>
+          <value>черный, белый</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>2 камеры: внешняя 0.3-мегапиксельная и внутренняя 0.3-мегапиксельная; предустановленный веб-браузер; полная интеграция с домашней игровой системой Nintendo Wii</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55910">
+    <title>Nintendo Wii 2009</title>
+    <model>Wii 2009</model>
+    <marka>Nintendo</marka>
+    <catalog id="1040442">Игровые приставки</catalog>
+    
+    <price1>3290</price1>
+    <price2>7390</price2>
+    <description>
+стационарная, Wi-Fi (802.11b/g), AV-выход, USB, контроллер в комплекте
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>стационарная</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип процессора</name>
+          <value>Power PC Broadway</value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>729 МГц</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>ATI Hollywood</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>64 Мб, GDDR3</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value>24 Мб, 234 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Разъемы</name>
+          <value>AV-выход, USB x2</value>
+        </item>
+        <item>
+          <name>Коммуникации</name>
+          <value>Wi-Fi (802.11b/g)</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>JPEG</value>
+        </item>
+        <item>
+          <name>Устройство для чтения карт памяти</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы карт памяти</name>
+          <value>SD, GameCube Memory Card</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>57x152x215 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Контроллер в комплекте</name>
+          <value>есть, Wii Remote + Nunchuk</value>
+        </item>
+        <item>
+          <name>Аксессуары в комплекте</name>
+          <value>композитный AV-кабель</value>
+        </item>
+        <item>
+          <name>Тип носителя для игр</name>
+          <value>Wii Optical Disc</value>
+        </item>
+        <item>
+          <name>Совместимость с играми для приставок</name>
+          <value>Nintendo GameCube, Nintendo Wii</value>
+        </item>
+        <item>
+          <name>Варианты цветового оформления</name>
+          <value>черный, белый</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>внутренная флэш-память объемом 512 Мб; 4 разъема для подключения контроллеров GameCube</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55920">
+    <title>Sony PlayStation 3 Slim 320Gb + Move + Camera + Sports Champions</title>
+    <model>PlayStation 3 Slim 320Gb + Move + Camera + Sports Champions</model>
+    <marka>Sony</marka>
+    <catalog id="1040442">Игровые приставки</catalog>
+    
+    <price1>12800</price1>
+    <price2>14670</price2>
+    <description>
+стационарная, жесткий диск 320 Гб, поддержка HD, поддержка 3D, Bluetooth, Wi-Fi (802.11b/g), Ethernet, AV-выход, HDMI, USB, оптический аудиовыход, контроллер в комплекте
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>стационарная</value>
+        </item>
+        <item>
+          <name>Поддержка HD (High Definition)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Жесткий диск</name>
+          <value>есть, 320 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип процессора</name>
+          <value>Cell</value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>3.20 ГГц</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>NVIDIA RSX</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>256 Мб, XDR</value>
+        </item>
+        <item>
+          <name>Видеопамять</name>
+          <value>256 Мб, GDDR3</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Разъемы</name>
+          <value>AV-выход, HDMI, USB x2, оптический аудиовыход</value>
+        </item>
+        <item>
+          <name>Коммуникации</name>
+          <value>Bluetooth, Wi-Fi (802.11b/g), Ethernet</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>Blu-ray, DVD, DVD R, DVD RW, CD, CD-R, CD-RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>WMA, MP3, SACD, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>290x65x290 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.20 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Контроллер в комплекте</name>
+          <value>есть, беспроводной</value>
+        </item>
+        <item>
+          <name>Аксессуары в комплекте</name>
+          <value>композитный AV-кабель, USB-кабель</value>
+        </item>
+        <item>
+          <name>Тип носителя для игр</name>
+          <value>BD (Blu-ray Disc)</value>
+        </item>
+        <item>
+          <name>Совместимость с играми для приставок</name>
+          <value>PlayStation One, PlayStation 3</value>
+        </item>
+        <item>
+          <name>Варианты цветового оформления</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>в комплекте контроллер PlayStation Move, камера PlayStation Eye и игра Sports Champions (Праздник Спорта)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

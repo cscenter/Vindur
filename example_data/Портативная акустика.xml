@@ -1,0 +1,1870 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="38867">
+    <title>JBL Radial</title>
+    <model>Radial</model>
+    <marka>JBL</marka>
+    <catalog id="2637859">Портативная акустика</catalog>
+    
+    <price1>1500</price1>
+    <price2>6390</price2>
+    <description>
+
+
+
+звук стерео, поддержка iPod, питание от сети, подключение к компьютеру по USB, пульт ДУ
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>30 Вт</value>
+        </item>
+        <item>
+          <name>Поддержка iPod/iPhone</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети, от USB</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>40 - 20000 Гц</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>85 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Количество полос AC</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>ВЧ-динамик</name>
+          <value>25 мм</value>
+        </item>
+        <item>
+          <name>НЧ-динамик</name>
+          <value>45 мм</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>линейный (разъем mini jack)</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>S-Video</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB (для подключения к компьютеру)</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>305x270x135 мм</value>
+        </item>
+        <item>
+          <name>Совместимые модели</name>
+          <value>iPod 5G, iPod nano, iPod shuffle</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>4 НЧ динамика</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="38869">
+    <title>JBL On Stage Micro III</title>
+    <model>On Stage Micro III</model>
+    <marka>JBL</marka>
+    <catalog id="2637859">Портативная акустика</catalog>
+    
+    <price1>568</price1>
+    <price2>3932</price2>
+    <description>
+
+
+
+звук стерео, мощность 2x2 Вт, поддержка iPod, питание от батарей, питание от сети, пульт ДУ
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Мощность колонок</name>
+          <value>2x2 Вт</value>
+        </item>
+        <item>
+          <name>Поддержка iPod/iPhone</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети, от батарей</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>110 - 20000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Количество полос AC</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип элементов питания</name>
+          <value>AAA</value>
+        </item>
+        <item>
+          <name>Количество элементов питания</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Время работы</name>
+          <value>12 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>линейный (разъем mini jack)</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>168x54x168 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.36 кг</value>
+        </item>
+        <item>
+          <name>Совместимые модели</name>
+          <value>все док-версии iPod  и iPhone 4 и более поздних поколений</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>подзарядка аккумулятора iPod/iPhone; USB-синхронизация iPod/iPhone с программой iTunes</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="38873">
+    <title>JBL OnBeat</title>
+    <model>OnBeat</model>
+    <marka>JBL</marka>
+    <catalog id="2637859">Портативная акустика</catalog>
+    
+    <price1>510</price1>
+    <price2>4490</price2>
+    <description>
+
+
+
+звук стерео, мощность 2x6.50 Вт, поддержка iPod, питание от сети, подключение к компьютеру по USB, пульт ДУ
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Мощность колонок</name>
+          <value>2x6.50 Вт</value>
+        </item>
+        <item>
+          <name>Поддержка iPod/iPhone</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>70 - 20000 Гц</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>80 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Количество полос AC</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>линейный (разъем mini jack)</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>видео композитный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB (для подключения к компьютеру)</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>275x146x135 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.88 кг</value>
+        </item>
+        <item>
+          <name>Совместимые модели</name>
+          <value>iPad Wi-Fi +3G, iPad Wi-Fi, iPhone 4, iPhone 3GS, iPhone 3G, iPhone, iPod touch 2G, iPod touch, iPod nano 5G, iPod nano 4G, iPod nano 3G, iPod nano 2G, iPod nano, iPod Classic</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="38878">
+    <title>JBL Radial Micro</title>
+    <model>Radial Micro</model>
+    <marka>JBL</marka>
+    <catalog id="2637859">Портативная акустика</catalog>
+    
+    <price1>648</price1>
+    <price2>3990</price2>
+    <description>
+
+
+
+звук стерео, мощность 2x10 Вт, поддержка iPod, питание от сети, подключение к компьютеру по USB, пульт ДУ
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Мощность колонок</name>
+          <value>2x10 Вт</value>
+        </item>
+        <item>
+          <name>Поддержка iPod/iPhone</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>60 - 20000 Гц</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>85 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Количество полос AC</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>линейный (разъем mini jack)</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>видео композитный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB (для подключения к компьютеру)</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>200x200x90 мм</value>
+        </item>
+        <item>
+          <name>Совместимые модели</name>
+          <value>iPod 5G, iPod nano</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="38895">
+    <title>JBL On Stage IV</title>
+    <model>On Stage IV</model>
+    <marka>JBL</marka>
+    <catalog id="2637859">Портативная акустика</catalog>
+    
+    <price1>1560</price1>
+    <price2>4590</price2>
+    <description>
+
+
+
+звук стерео, мощность 2x10 Вт, поддержка iPod, питание от батарей, питание от сети, пульт ДУ
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Мощность колонок</name>
+          <value>2x10 Вт</value>
+        </item>
+        <item>
+          <name>Поддержка iPod/iPhone</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети, от батарей</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>85 - 20000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Количество полос AC</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Широкополосный динамик</name>
+          <value>25 мм</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип элементов питания</name>
+          <value>AA</value>
+        </item>
+        <item>
+          <name>Количество элементов питания</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Время работы</name>
+          <value>16 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>линейный (разъем mini jack)</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>210x68x210 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.70 кг</value>
+        </item>
+        <item>
+          <name>Совместимые модели</name>
+          <value>все док-версии iPod  и iPhone 4 и более поздних поколений</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>подзарядка аккумулятора iPod/iPhone; USB-синхронизация iPod/iPhone с программой iTunes</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="38900">
+    <title>JBL On Stage IIIP</title>
+    <model>On Stage IIIP</model>
+    <marka>JBL</marka>
+    <catalog id="2637859">Портативная акустика</catalog>
+    
+    <price1>1780</price1>
+    <price2>5320</price2>
+    <description>
+
+
+
+звук стерео, поддержка iPod, питание от батарей, питание от сети, пульт ДУ
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>20 Вт</value>
+        </item>
+        <item>
+          <name>Поддержка iPod/iPhone</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети, от батарей</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>70 - 20000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип элементов питания</name>
+          <value>AA</value>
+        </item>
+        <item>
+          <name>Количество элементов питания</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Время работы</name>
+          <value>12 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>линейный (разъем mini jack)</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>190x54x190 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.51 кг</value>
+        </item>
+        <item>
+          <name>Совместимые модели</name>
+          <value>iPod Touch, iPod Classic, iPod Nano G3, iPhone 3G</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="38910">
+    <title>JBL On Time</title>
+    <model>On Time</model>
+    <marka>JBL</marka>
+    <catalog id="2637859">Портативная акустика</catalog>
+    
+    <price1>6000</price1>
+    <price2>8990</price2>
+    <description>
+
+
+
+звук стерео, мощность 2x6 Вт, поддержка iPod, питание от сети, радиотюнер, будильник
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Мощность колонок</name>
+          <value>2x6 Вт</value>
+        </item>
+        <item>
+          <name>Поддержка iPod/iPhone</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+        <item>
+          <name>Радиотюнер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>70 - 20000 Гц</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>80 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Количество полос AC</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Магнитное экранирование</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>линейный (разъем mini jack)</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>на сабвуфер</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Функции</name>
+          <value>часы, будильник</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>254x254x254 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.20 кг</value>
+        </item>
+        <item>
+          <name>Совместимые модели</name>
+          <value>iPod 5G, iPod nano, iPod shuffle</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>динамики в форме ореола обеспечивают звуковое поле 360 градусов; функция TimeCrawler (система получает точное значение времени по частотам местных радиостанций)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="38913">
+    <title>JBL On Air Wireless</title>
+    <model>On Air Wireless</model>
+    <marka>JBL</marka>
+    <catalog id="2637859">Портативная акустика</catalog>
+    
+    <price1>9890</price1>
+    <price2>11690</price2>
+    <description>
+
+
+
+звук стерео, поддержка iPod, питание от сети, радиотюнер, пульт ДУ, будильник
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Поддержка iPod/iPhone</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+        <item>
+          <name>Радиотюнер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>20 - 20000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Wi-Fi</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка AirPlay</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Функции</name>
+          <value>часы, будильник</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>238x279x198 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.69 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>цветной LCD дисплей; USB порт для обновления прошивки</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="38914">
+    <title>Bowers &amp;amp;amp; Wilkins Zeppelin Air</title>
+    <model>Bowers &amp;amp;amp; Wilkins Zeppelin Air</model>
+    <marka>Bowers &amp;amp; Wilkins</marka>
+    <catalog id="2637859">Портативная акустика</catalog>
+    
+    <price1>22990</price1>
+    <price2>32600</price2>
+    <description>
+
+
+
+звук 2.1, суммарная мощность 150 Вт, поддержка iPod, питание от сети, подключение к компьютеру по USB, пульт ДУ
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Звук</name>
+          <value>2.1</value>
+        </item>
+        <item>
+          <name>Мощность колонок</name>
+          <value>2x50 Вт</value>
+        </item>
+        <item>
+          <name>Мощность сабвуфера</name>
+          <value>50 Вт</value>
+        </item>
+        <item>
+          <name>Поддержка iPod/iPhone</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>51 - 36000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Количество полос AC</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>ВЧ-динамик</name>
+          <value>25 мм</value>
+        </item>
+        <item>
+          <name>НЧ-динамик</name>
+          <value>75 мм</value>
+        </item>
+        <item>
+          <name>Динамик сабвуфера</name>
+          <value>125 мм</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>оптический, линейный (разъем mini jack)</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>видео композитный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB (для подключения к компьютеру)</value>
+        </item>
+        <item>
+          <name>Wi-Fi</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка AirPlay</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>640x173x208 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6.20 кг</value>
+        </item>
+        <item>
+          <name>Совместимые модели</name>
+          <value>iPhone 4, iPhone 3GS, iPhone 3G, iPhone, iPod touch 4th generation, iPod touch 3rd generation, iPod touch 2nd generation, iPod touch 1st generation, iPod classic, iPod nano 6th generation, iPod nano 5th generation, iPod nano 4th generation, iPod nano 3rd generation, iPod nano 2nd generation, iPad</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>разъем RJ45 Ethernet</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="38916">
+    <title>Harman/Kardon Go + Play Micro</title>
+    <model>Go + Play Micro</model>
+    <marka>Harman/Kardon</marka>
+    <catalog id="2637859">Портативная акустика</catalog>
+    
+    <price1>6390</price1>
+    <price2>10290</price2>
+    <description>
+
+
+
+звук 2.1, суммарная мощность 60 Вт, поддержка iPod, питание от батарей, питание от сети, подключение к компьютеру по USB, пульт ДУ
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Звук</name>
+          <value>2.1</value>
+        </item>
+        <item>
+          <name>Мощность колонок</name>
+          <value>2x15 Вт</value>
+        </item>
+        <item>
+          <name>Мощность сабвуфера</name>
+          <value>30 Вт</value>
+        </item>
+        <item>
+          <name>Поддержка iPod/iPhone</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети, от батарей</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>70 - 20000 Гц</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>85 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Количество полос AC</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Количество элементов питания</name>
+          <value>8</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>линейный (разъем mini jack)</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>S-Video</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB (для подключения к компьютеру)</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>500x230x240 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.90 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="38928">
+    <title>JBL OnBeat Air</title>
+    <model>OnBeat Air</model>
+    <marka>JBL</marka>
+    <catalog id="2637859">Портативная акустика</catalog>
+    
+    <price1>1308</price1>
+    <price2>8090</price2>
+    <description>
+
+
+
+звук стерео, мощность 2x7.50 Вт, поддержка iPod, питание от сети, подключение к компьютеру по USB, пульт ДУ
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Мощность колонок</name>
+          <value>2x7.50 Вт</value>
+        </item>
+        <item>
+          <name>Поддержка iPod/iPhone</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>70 - 20000 Гц</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>80 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Количество полос AC</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>линейный (разъем mini jack)</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>видео композитный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB (для подключения к компьютеру)</value>
+        </item>
+        <item>
+          <name>Wi-Fi</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка AirPlay</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>275x146x135 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.88 кг</value>
+        </item>
+        <item>
+          <name>Совместимые модели</name>
+          <value>iPad 2, iPad Wi-Fi + 3G, iPad Wi-Fi, iPhone 4, iPhone 3GS, iPhone 3G, iPhone, iPod touch 4G, iPod touch 3G, iPod  touch 2G**, iPod touch**, iPod nano 5G, iPod nano 4G, iPod nano 3G, iPod nano 2G, iPod nano</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="38931">
+    <title>Yamaha PDX-11</title>
+    <model>PDX-11</model>
+    <marka>Yamaha</marka>
+    <catalog id="2637859">Портативная акустика</catalog>
+    
+    <price1>3490</price1>
+    <price2>4495</price2>
+    <description>
+
+
+
+звук моно, поддержка iPod, питание от батарей, питание от сети
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Звук</name>
+          <value>моно</value>
+        </item>
+        <item>
+          <name>Поддержка iPod/iPhone</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети, от батарей</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Количество полос AC</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>ВЧ-динамик</name>
+          <value>35 мм</value>
+        </item>
+        <item>
+          <name>НЧ-динамик</name>
+          <value>102 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип элементов питания</name>
+          <value>AA</value>
+        </item>
+        <item>
+          <name>Количество элементов питания</name>
+          <value>6</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>линейный (разъем mini jack)</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>237x240x211 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.50 кг</value>
+        </item>
+        <item>
+          <name>Совместимые модели</name>
+          <value>iPhone, iPhone 3G, iPhone 3GS, iPhone 4, iPod video (5th gen. iPod), iPod classic, iPod nano, iPod touch</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="38933">
+    <title>JBL On Stage Micro II</title>
+    <model>On Stage Micro II</model>
+    <marka>JBL</marka>
+    <catalog id="2637859">Портативная акустика</catalog>
+    
+    <price1>479</price1>
+    <price2>3296</price2>
+    <description>
+
+
+
+звук стерео, мощность 2x3 Вт, поддержка iPod, питание от батарей, питание от сети, подключение к компьютеру по USB, пульт ДУ
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Мощность колонок</name>
+          <value>2x3 Вт</value>
+        </item>
+        <item>
+          <name>Поддержка iPod/iPhone</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети, от батарей</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>70 - 20000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Количество полос AC</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Широкополосный динамик</name>
+          <value>25 мм</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип элементов питания</name>
+          <value>AAA</value>
+        </item>
+        <item>
+          <name>Количество элементов питания</name>
+          <value>4</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>линейный (разъем mini jack)</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB (для подключения к компьютеру)</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>150x38x150 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.30 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="38939">
+    <title>JBL On Tour</title>
+    <model>On Tour</model>
+    <marka>JBL</marka>
+    <catalog id="2637859">Портативная акустика</catalog>
+    
+    <price1>1990</price1>
+    <price2>4500</price2>
+    <description>
+
+
+
+звук стерео, мощность 2x3 Вт, питание от батарей, питание от сети
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Мощность колонок</name>
+          <value>2x3 Вт</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети, от батарей</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>100 - 20000 Гц</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>80 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Количество полос AC</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Магнитное экранирование</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип элементов питания</name>
+          <value>AAA</value>
+        </item>
+        <item>
+          <name>Количество элементов питания</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Время работы</name>
+          <value>24 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>линейный (разъем mini jack)</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>175x35x88 мм</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>система сбережения энергии; встроенная система памяти</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="38942">
+    <title>Philips AS111</title>
+    <model>AS111</model>
+    <marka>Philips</marka>
+    <catalog id="2637859">Портативная акустика</catalog>
+    
+    <price1>2537</price1>
+    <price2>3203</price2>
+    <description>
+
+
+
+звук стерео, питание от сети, Bluetooth, будильник
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>4 Вт</value>
+        </item>
+        <item>
+          <name>Поддержка Android</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Количество полос AC</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>линейный (разъем mini jack)</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Bluetooth</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Функции</name>
+          <value>часы, будильник</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>171x67x171 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.75 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="38945">
+    <title>Yamaha PDX-13</title>
+    <model>PDX-13</model>
+    <marka>Yamaha</marka>
+    <catalog id="2637859">Портативная акустика</catalog>
+    
+    <price1>3490</price1>
+    <price2>4500</price2>
+    <description>
+
+
+
+звук моно, поддержка iPod, питание от сети, пульт ДУ, будильник
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Звук</name>
+          <value>моно</value>
+        </item>
+        <item>
+          <name>Поддержка iPod/iPhone</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Количество полос AC</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Широкополосный динамик</name>
+          <value>80 мм</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>линейный (разъем mini jack)</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Функции</name>
+          <value>часы, будильник</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>160x99x125 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.90 кг</value>
+        </item>
+        <item>
+          <name>Совместимые модели</name>
+          <value>iPhone, iPhone 3G, iPhone 3GS, iPhone 4, iPod (5th generation), iPod classic, iPod nano, iPod touch</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="38947">
+    <title>JBL OnBeat Xtreme</title>
+    <model>OnBeat Xtreme</model>
+    <marka>JBL</marka>
+    <catalog id="2637859">Портативная акустика</catalog>
+    
+    <price1>4974</price1>
+    <price2>15790</price2>
+    <description>
+
+
+
+звук стерео, мощность 2x45 Вт, поддержка iPod, питание от сети, Bluetooth, подключение к компьютеру по USB, пульт ДУ
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Мощность колонок</name>
+          <value>2x60 Вт</value>
+        </item>
+        <item>
+          <name>Поддержка iPod/iPhone</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>47 - 22000 Гц</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>85 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Количество полос AC</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>линейный (разъем mini jack)</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>видео композитный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Bluetooth, USB (для подключения к компьютеру)</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>445x230x244 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4 кг</value>
+        </item>
+        <item>
+          <name>Совместимые модели</name>
+          <value>iPad WiFi + 3G, iPad Wi-Fi®, iPad 2 WiFi+3G, iPad 2  WiFi, docking versions of the iPod (including iPod nano  6th generation, iPod nano 5th generation, iPod touch 3rd  generation, iPod touch 2nd generation, iPod nano 4th  generation, iPod classic, iPod touch 1st generation, iPod  nano 3rd generation, iPhone 4, iPhone 3GS, iPhone 3G,  iPhone</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="38948">
+    <title>Philips AS351</title>
+    <model>AS351</model>
+    <marka>Philips</marka>
+    <catalog id="2637859">Портативная акустика</catalog>
+    
+    <price1>1895</price1>
+    <price2>4805</price2>
+    <description>
+
+
+
+звук стерео, мощность 2x5 Вт, питание от батарей, питание от сети, Bluetooth
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Мощность колонок</name>
+          <value>2x5 Вт</value>
+        </item>
+        <item>
+          <name>Поддержка Android</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети, от батарей</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Количество полос AC</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Широкополосный динамик</name>
+          <value>76 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип элементов питания</name>
+          <value>AA</value>
+        </item>
+        <item>
+          <name>Количество элементов питания</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Время работы</name>
+          <value>6 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>линейный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Bluetooth</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>271x90x130 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="38961">
+    <title>Sven Boogie Ball</title>
+    <model>Boogie Ball</model>
+    <marka>Sven</marka>
+    <catalog id="2637859">Портативная акустика</catalog>
+    
+    <price1>316</price1>
+    <price2>1324</price2>
+    <description>
+
+
+
+звук моно, мощность 2.40 Вт, питание от батарей
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Звук</name>
+          <value>моно</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>2.40 Вт</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от батарей, от USB</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>100 - 20000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Количество полос AC</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Широкополосный динамик</name>
+          <value>36 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип элементов питания</name>
+          <value>свой собственный</value>
+        </item>
+        <item>
+          <name>Время работы</name>
+          <value>8 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>линейный (разъем mini jack)</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>50x50x35 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.06 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>возможные цвета: зелёный, чёрный, синий, розовый, белый, красный; зарядка аккумулятора от USB: 4 часа, от DC-адаптера: 2.5 часа</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="38964">
+    <title>Philips DS7550</title>
+    <model>DS7550</model>
+    <marka>Philips</marka>
+    <catalog id="2637859">Портативная акустика</catalog>
+    
+    <price1>3280</price1>
+    <price2>5000</price2>
+    <description>
+
+
+
+звук стерео, мощность 2x5 Вт, поддержка iPod, питание от батарей, питание от сети
+
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Мощность колонок</name>
+          <value>2x5 Вт</value>
+        </item>
+        <item>
+          <name>Поддержка iPod/iPhone</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети, от батарей</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип элементов питания</name>
+          <value>свой собственный</value>
+        </item>
+        <item>
+          <name>Время работы</name>
+          <value>8 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>линейный (разъем mini jack)</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>310x40x110 мм</value>
+        </item>
+        <item>
+          <name>Совместимые модели</name>
+          <value>iPhone, iPhone 3G, iPhone 3GS,  iPhone 4, iPod, iPod classic, iPod mini, iPod  nano 1st Generation, iPod nano 2nd Generation,  iPod nano 3rd Generation, iPod nano 4th  Generation, iPod nano 5th Generation, iPod nano  6th Generation, iPod touch, iPod touch 2nd  Generation, iPod touch 2nd Gen 8/16/32GB, iPod  with color display, iPod 5th Generation</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

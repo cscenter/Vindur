@@ -1,0 +1,2227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="47023">
+    <title>Yamaha CD-S1000</title>
+    <model>CD-S1000</model>
+    <marka>Yamaha</marka>
+    <catalog id="135536">MD и CD-проигрыватели</catalog>
+    
+    <price1>37300</price1>
+    <price2>47960</price2>
+    <description>
+
+CD-проигрыватель, SACD, MP3, коэффициент гармоник: 0.002 %, С/Ш: 113 дБ, оптический выход, коаксиальный выход
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>CD-проигрыватель</value>
+        </item>
+        <item>
+          <name>Загрузка диска</name>
+          <value>фронтальный лоток</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>SACD, MP3, WMA, CD-R, CD-RW, CD</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.002 % (1 кГц)</value>
+        </item>
+        <item>
+          <name>Коэффициент гармоник (SACD)</name>
+          <value>0.002 % (1 кГц)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>113 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон</name>
+          <value>100 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон (SACD)</name>
+          <value>105 дБ</value>
+        </item>
+        <item>
+          <name>Полоса пропускания</name>
+          <value>2 - 20000 Гц </value>
+        </item>
+        <item>
+          <name>Полоса пропускания (SACD)</name>
+          <value>2 - 50000 Гц (-3 дБ)</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>линейный, оптический, коаксиальный</value>
+        </item>
+        <item>
+          <name>Выходное напряжение</name>
+          <value>2 В</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>30 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x137x440 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>15 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47028">
+    <title>Onkyo C-S5VL</title>
+    <model>C-S5VL</model>
+    <marka>Onkyo</marka>
+    <catalog id="135536">MD и CD-проигрыватели</catalog>
+    
+    <price1>17990</price1>
+    <price2>18000</price2>
+    <description>
+
+CD-проигрыватель, SACD, MP3, коэффициент гармоник: 0.0025 %, С/Ш: 114 дБ, оптический выход, коаксиальный выход
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>CD-проигрыватель</value>
+        </item>
+        <item>
+          <name>Загрузка диска</name>
+          <value>фронтальный лоток</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>SACD, MP3, WMA, CD-R, CD-RW, CD</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.0025 % </value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>114 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон</name>
+          <value>100 дБ</value>
+        </item>
+        <item>
+          <name>Полоса пропускания</name>
+          <value>4 - 20000 Гц </value>
+        </item>
+        <item>
+          <name>Полоса пропускания (SACD)</name>
+          <value>4 - 50000 Гц </value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>линейный, оптический, коаксиальный, наушники</value>
+        </item>
+        <item>
+          <name>Выходное сопротивление</name>
+          <value>500 Ом</value>
+        </item>
+        <item>
+          <name>Выходное напряжение</name>
+          <value>2 В</value>
+        </item>
+      </items>
+      <items>
+        <name>ЦАП и фильтры</name>
+        <item>
+          <name>ЦАП</name>
+          <value>Wolfson WM8742</value>
+        </item>
+        <item>
+          <name>Разрядность</name>
+          <value>24 бит</value>
+        </item>
+        <item>
+          <name>Частота дискретизации</name>
+          <value>192 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>15 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x80x318 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4.5 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47030">
+    <title>Yamaha CD-S2000</title>
+    <model>CD-S2000</model>
+    <marka>Yamaha</marka>
+    <catalog id="135536">MD и CD-проигрыватели</catalog>
+    
+    <price1>47960</price1>
+    <price2>67740</price2>
+    <description>
+
+CD-проигрыватель, SACD, MP3, коэффициент гармоник: 0.002 %, С/Ш: 116 дБ, балансный выход, оптический выход, коаксиальный выход
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>CD-проигрыватель</value>
+        </item>
+        <item>
+          <name>Загрузка диска</name>
+          <value>фронтальный лоток</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>SACD, MP3, WMA, CD-R, CD-RW, CD</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.002 % (1 кГц)</value>
+        </item>
+        <item>
+          <name>Коэффициент гармоник (SACD)</name>
+          <value>0.0017 % (1 кГц)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>116 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон</name>
+          <value>100 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон (SACD)</name>
+          <value>110 дБ</value>
+        </item>
+        <item>
+          <name>Полоса пропускания</name>
+          <value>2 - 20000 Гц </value>
+        </item>
+        <item>
+          <name>Полоса пропускания (SACD)</name>
+          <value>2 - 50000 Гц (-3 дБ)</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>линейный, балансный, оптический, коаксиальный</value>
+        </item>
+        <item>
+          <name>Выходное напряжение</name>
+          <value>2 В</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Тип трансформатора</name>
+          <value>тороидальный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>30 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x137x440 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>15 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47033">
+    <title>Yamaha CD-S300</title>
+    <model>CD-S300</model>
+    <marka>Yamaha</marka>
+    <catalog id="135536">MD и CD-проигрыватели</catalog>
+    
+    <price1>6900</price1>
+    <price2>11000</price2>
+    <description>
+
+CD-проигрыватель, MP3, коэффициент гармоник: 0.003 %, С/Ш: 105 дБ, оптический выход, коаксиальный выход, проигрывание с USB
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>CD-проигрыватель</value>
+        </item>
+        <item>
+          <name>Загрузка диска</name>
+          <value>фронтальный лоток</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>MP3, WMA, CD-Text, CD-R, CD-RW, CD</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.003 % </value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>105 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон</name>
+          <value>96 дБ</value>
+        </item>
+        <item>
+          <name>Полоса пропускания</name>
+          <value>2 - 20000 Гц (± 0,5 дБ)</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Поддержка iPod</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>линейный, оптический, коаксиальный</value>
+        </item>
+        <item>
+          <name>Выходное напряжение</name>
+          <value>2 В</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A</value>
+        </item>
+      </items>
+      <items>
+        <name>ЦАП и фильтры</name>
+        <item>
+          <name>Разрядность</name>
+          <value>24 бит</value>
+        </item>
+        <item>
+          <name>Частота дискретизации</name>
+          <value>192 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>13 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>серебристый, черный</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x86x260 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.5 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47038">
+    <title>Marantz SA-KI Pearl LITE</title>
+    <model>SA-KI Pearl LITE</model>
+    <marka>Marantz</marka>
+    <catalog id="135536">MD и CD-проигрыватели</catalog>
+    
+    <price1>56500</price1>
+    <price2>66600</price2>
+    <description>
+
+CD-проигрыватель, SACD, MP3, коэффициент гармоник: 0.002 %, С/Ш: 112 дБ, мультибитный ЦАП, оптический выход, коаксиальный выход, проигрывание с USB
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>CD-проигрыватель</value>
+        </item>
+        <item>
+          <name>Загрузка диска</name>
+          <value>фронтальный лоток</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>SACD, MP3, WMA, CD-R, CD-RW, CD</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.002 % (1 кГц)</value>
+        </item>
+        <item>
+          <name>Коэффициент гармоник (SACD)</name>
+          <value>0.001 % (1 кГц)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>112 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон</name>
+          <value>100 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон (SACD)</name>
+          <value>110 дБ</value>
+        </item>
+        <item>
+          <name>Полоса пропускания</name>
+          <value>2 - 20000 Гц </value>
+        </item>
+        <item>
+          <name>Полоса пропускания (SACD)</name>
+          <value>2 - 100000 Гц </value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Поддержка iPod</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Входы</name>
+          <value>коаксиальный, оптический</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>линейный, оптический, коаксиальный, наушники</value>
+        </item>
+        <item>
+          <name>Выходное напряжение</name>
+          <value>2.40 В</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A, USB Type B, управление по шине</value>
+        </item>
+      </items>
+      <items>
+        <name>ЦАП и фильтры</name>
+        <item>
+          <name>ЦАП</name>
+          <value>Cirrus Logic CS4398</value>
+        </item>
+        <item>
+          <name>Тип ЦАП</name>
+          <value>мультибитный</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Тип трансформатора</name>
+          <value>тороидальный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>25 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть, универсальный</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>позолоченные разъемы</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>440x109x344 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>7.8 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Количество треков в программе</name>
+          <value>24</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47039">
+    <title>Onkyo C-7070</title>
+    <model>C-7070</model>
+    <marka>Onkyo</marka>
+    <catalog id="135536">MD и CD-проигрыватели</catalog>
+    
+    <price1>23300</price1>
+    <price2>25990</price2>
+    <description>
+
+CD-проигрыватель, MP3, коэффициент гармоник: 0.0025 %, С/Ш: 116 дБ, оптический выход, коаксиальный выход, проигрывание с USB
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>CD-проигрыватель</value>
+        </item>
+        <item>
+          <name>Загрузка диска</name>
+          <value>фронтальный лоток</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>MP3, WMA, CD-R, CD-RW, CD</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.0025 % </value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>116 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон</name>
+          <value>100 дБ</value>
+        </item>
+        <item>
+          <name>Полоса пропускания</name>
+          <value>2 - 20000 Гц </value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Поддержка iPod</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>линейный, оптический, коаксиальный, наушники</value>
+        </item>
+        <item>
+          <name>Выходное сопротивление</name>
+          <value>400 Ом</value>
+        </item>
+        <item>
+          <name>Выходное напряжение</name>
+          <value>2 В</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A, управление по шине</value>
+        </item>
+      </items>
+      <items>
+        <name>ЦАП и фильтры</name>
+        <item>
+          <name>ЦАП</name>
+          <value>2 x Wolfson WM8742</value>
+        </item>
+        <item>
+          <name>Разрядность</name>
+          <value>24 бит</value>
+        </item>
+        <item>
+          <name>Частота дискретизации</name>
+          <value>192 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>23 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>антивибрация, позолоченные разъемы</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x101x306 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6.4 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Количество треков в программе</name>
+          <value>25</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47041">
+    <title>Denon DCD-1510AE</title>
+    <model>DCD-1510AE</model>
+    <marka>Denon</marka>
+    <catalog id="135536">MD и CD-проигрыватели</catalog>
+    
+    <price1>39900</price1>
+    <price2>39990</price2>
+    <description>
+
+CD-проигрыватель, SACD, MP3, коэффициент гармоник: 0.0018 %, С/Ш: 117 дБ, оптический выход, коаксиальный выход, проигрывание с USB
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>CD-проигрыватель</value>
+        </item>
+        <item>
+          <name>Загрузка диска</name>
+          <value>фронтальный лоток</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>SACD, MP3, WMA, SACD-Text, CD-R, CD-RW, CD</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.0018 % (1 кГц)</value>
+        </item>
+        <item>
+          <name>Коэффициент гармоник (SACD)</name>
+          <value>0.001 % (1 кГц)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>117 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон</name>
+          <value>100 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон (SACD)</name>
+          <value>113 дБ</value>
+        </item>
+        <item>
+          <name>Полоса пропускания</name>
+          <value>2 - 20000 Гц </value>
+        </item>
+        <item>
+          <name>Полоса пропускания (SACD)</name>
+          <value>2 - 100000 Гц </value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Поддержка iPod</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>линейный, оптический, коаксиальный, наушники</value>
+        </item>
+        <item>
+          <name>Выходное напряжение</name>
+          <value>2 В</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A</value>
+        </item>
+      </items>
+      <items>
+        <name>ЦАП и фильтры</name>
+        <item>
+          <name>ЦАП</name>
+          <value>AKM AK4399</value>
+        </item>
+        <item>
+          <name>Разрядность</name>
+          <value>32 бит</value>
+        </item>
+        <item>
+          <name>Частота дискретизации</name>
+          <value>192 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>30 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Транспорт</name>
+          <value>Denon S.V.H.</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть, универсальный</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>антивибрация, позолоченные разъемы</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>серебристый, черный</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>434x134x331 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>8 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Количество треков в программе</name>
+          <value>20</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47045">
+    <title>Denon DCD-510AE</title>
+    <model>DCD-510AE</model>
+    <marka>Denon</marka>
+    <catalog id="135536">MD и CD-проигрыватели</catalog>
+    
+    <price1>7900</price1>
+    <price2>10500</price2>
+    <description>
+
+CD-проигрыватель, MP3, коэффициент гармоник: 0.003 %, С/Ш: 105 дБ, оптический выход
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>CD-проигрыватель</value>
+        </item>
+        <item>
+          <name>Загрузка диска</name>
+          <value>фронтальный лоток</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>MP3, WMA, CD-R, CD-RW, CD</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.003 % </value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>105 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон</name>
+          <value>98 дБ</value>
+        </item>
+        <item>
+          <name>Разделение каналов</name>
+          <value>100 дБ</value>
+        </item>
+        <item>
+          <name>Полоса пропускания</name>
+          <value>2 - 20000 Гц </value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>линейный, оптический, наушники</value>
+        </item>
+      </items>
+      <items>
+        <name>ЦАП и фильтры</name>
+        <item>
+          <name>ЦАП</name>
+          <value>Burr Brown PCM1791</value>
+        </item>
+        <item>
+          <name>Разрядность</name>
+          <value>24 бит</value>
+        </item>
+        <item>
+          <name>Частота дискретизации</name>
+          <value>192 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>13 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>серебристый, черный</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>434x107x279 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47048">
+    <title>Onkyo C-7030</title>
+    <model>C-7030</model>
+    <marka>Onkyo</marka>
+    <catalog id="135536">MD и CD-проигрыватели</catalog>
+    
+    <price1>10490</price1>
+    <price2>11000</price2>
+    <description>
+
+CD-проигрыватель, MP3, коэффициент гармоник: 0.0029 %, С/Ш: 107 дБ, оптический выход, коаксиальный выход
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>CD-проигрыватель</value>
+        </item>
+        <item>
+          <name>Загрузка диска</name>
+          <value>фронтальный лоток</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>MP3, WMA, CD-R, CD-RW, CD</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.0029 % </value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>107 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон</name>
+          <value>100 дБ</value>
+        </item>
+        <item>
+          <name>Полоса пропускания</name>
+          <value>4 - 20000 Гц </value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>линейный, оптический, коаксиальный, наушники</value>
+        </item>
+        <item>
+          <name>Выходное сопротивление</name>
+          <value>600 Ом</value>
+        </item>
+        <item>
+          <name>Выходное напряжение</name>
+          <value>2 В</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>управление по шине</value>
+        </item>
+      </items>
+      <items>
+        <name>ЦАП и фильтры</name>
+        <item>
+          <name>ЦАП</name>
+          <value>Wolfson</value>
+        </item>
+        <item>
+          <name>Разрядность</name>
+          <value>24 бит</value>
+        </item>
+        <item>
+          <name>Частота дискретизации</name>
+          <value>192 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>12 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>антивибрация</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x101x306 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>5.3 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Количество треков в программе</name>
+          <value>25</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47056">
+    <title>Marantz CD5004</title>
+    <model>CD5004</model>
+    <marka>Marantz</marka>
+    <catalog id="135536">MD и CD-проигрыватели</catalog>
+    
+    <price1>15000</price1>
+    <price2>16900</price2>
+    <description>
+
+CD-проигрыватель, MP3, коэффициент гармоник: 0.002 %, С/Ш: 110 дБ, оптический выход, коаксиальный выход
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>CD-проигрыватель</value>
+        </item>
+        <item>
+          <name>Загрузка диска</name>
+          <value>фронтальный лоток</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>MP3, WMA, CD-Text, CD-R, CD-RW, CD</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.002 % (1 кГц)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>110 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон</name>
+          <value>100 дБ</value>
+        </item>
+        <item>
+          <name>Разделение каналов</name>
+          <value>110 дБ</value>
+        </item>
+        <item>
+          <name>Полоса пропускания</name>
+          <value>2 - 20000 Гц </value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>внешний ИК-датчик</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>линейный, оптический, коаксиальный, наушники</value>
+        </item>
+        <item>
+          <name>Выходное напряжение</name>
+          <value>2.25 В</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>управление по шине</value>
+        </item>
+      </items>
+      <items>
+        <name>ЦАП и фильтры</name>
+        <item>
+          <name>ЦАП</name>
+          <value>Cirrus Logic CS4392</value>
+        </item>
+        <item>
+          <name>Разрядность</name>
+          <value>24 бит</value>
+        </item>
+        <item>
+          <name>Частота дискретизации</name>
+          <value>192 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>14 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>позолоченные разъемы</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>440x105x340 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>5.1 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47059">
+    <title>Marantz CD6004</title>
+    <model>CD6004</model>
+    <marka>Marantz</marka>
+    <catalog id="135536">MD и CD-проигрыватели</catalog>
+    
+    <price1>26350</price1>
+    <price2>30079</price2>
+    <description>
+
+CD-проигрыватель, MP3, оптический выход, коаксиальный выход, проигрывание с USB
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>CD-проигрыватель</value>
+        </item>
+        <item>
+          <name>Загрузка диска</name>
+          <value>фронтальный лоток</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>MP3, WMA, CD-R, CD-RW, CD</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Поддержка iPod</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Входы</name>
+          <value>внешний ИК-датчик</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>линейный, оптический, коаксиальный, наушники</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A, управление по шине</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>позолоченные разъемы</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47062">
+    <title>Pioneer CDJ-900</title>
+    <model>CDJ-900</model>
+    <marka>Pioneer</marka>
+    <catalog id="135536">MD и CD-проигрыватели</catalog>
+    
+    <price1>40270</price1>
+    <price2>64990</price2>
+    <description>
+
+DJ CD-проигрыватель, MP3, проигрывание с USB
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>DJ CD-проигрыватель</value>
+        </item>
+        <item>
+          <name>Загрузка диска</name>
+          <value>щелевая загрузка</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>MP3, CD</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>линейный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A</value>
+        </item>
+      </items>
+      <items>
+        <name>ЦАП и фильтры</name>
+        <item>
+          <name>ЦАП</name>
+          <value>Wolfson</value>
+        </item>
+        <item>
+          <name>Разрядность</name>
+          <value>24 бит</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>расширенная поддержка функций HID и MIDI</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47064">
+    <title>Rotel RCD-06 SE</title>
+    <model>RCD-06 SE</model>
+    <marka>Rotel</marka>
+    <catalog id="135536">MD и CD-проигрыватели</catalog>
+    
+    <price1>16990</price1>
+    <price2>27000</price2>
+    <description>
+
+CD-проигрыватель, коэффициент гармоник: 0.0045 %, С/Ш: 100 дБ, коаксиальный выход
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>CD-проигрыватель</value>
+        </item>
+        <item>
+          <name>Загрузка диска</name>
+          <value>фронтальный лоток</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.0045 % (1 кГц)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>100 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон</name>
+          <value>96 дБ</value>
+        </item>
+        <item>
+          <name>Разделение каналов</name>
+          <value>98 дБ</value>
+        </item>
+        <item>
+          <name>Полоса пропускания</name>
+          <value>20 - 20000 Гц (± 0.5 дБ)</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>триггер, внешний ИК-датчик</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>линейный, коаксиальный</value>
+        </item>
+        <item>
+          <name>Выходное сопротивление</name>
+          <value>100 Ом</value>
+        </item>
+      </items>
+      <items>
+        <name>ЦАП и фильтры</name>
+        <item>
+          <name>ЦАП</name>
+          <value>Wolfson</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>20 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x73x313 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>5 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47067">
+    <title>Pioneer CDJ-2000</title>
+    <model>CDJ-2000</model>
+    <marka>Pioneer</marka>
+    <catalog id="135536">MD и CD-проигрыватели</catalog>
+    
+    <price1>64800</price1>
+    <price2>89990</price2>
+    <description>
+
+DJ CD-проигрыватель, двойная дека, MP3, коэффициент гармоник: 0.0018 %, С/Ш: 115 дБ, коаксиальный выход, проигрывание с USB
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>DJ CD-проигрыватель</value>
+        </item>
+        <item>
+          <name>Загрузка диска</name>
+          <value>щелевая загрузка</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>MP3, CD-Text, CD-R, CD-RW, CD</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.0018 % </value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>115 дБ</value>
+        </item>
+        <item>
+          <name>Полоса пропускания</name>
+          <value>4 - 20000 Гц </value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>линейный, коаксиальный</value>
+        </item>
+        <item>
+          <name>Выходное напряжение</name>
+          <value>2 В</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A, USB Type B, Ethernet</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>28 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Особенности</name>
+          <value>позолоченные разъемы</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>320x106x405 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4.6 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>поддерживаются так-же аудиофайлы AAC, WAV, AIFF; поддержка дисков DVD-ROM, DVD-R, DVD-RW, DVD+R, DVD+RW, DVD-R DL, DVD+R DL; поддержка карт памяти SD, SDHC и USB; цветной дисплей диагональю 6.1”</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47070">
+    <title>Yamaha CD-S700</title>
+    <model>CD-S700</model>
+    <marka>Yamaha</marka>
+    <catalog id="135536">MD и CD-проигрыватели</catalog>
+    
+    <price1>11999</price1>
+    <price2>18990</price2>
+    <description>
+
+CD-проигрыватель, MP3, коэффициент гармоник: 0.002 %, С/Ш: 110 дБ, оптический выход, коаксиальный выход, проигрывание с USB
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>CD-проигрыватель</value>
+        </item>
+        <item>
+          <name>Загрузка диска</name>
+          <value>фронтальный лоток</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>MP3, WMA, CD-R, CD-RW, CD</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.002 % </value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>110 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон</name>
+          <value>100 дБ</value>
+        </item>
+        <item>
+          <name>Полоса пропускания</name>
+          <value>2 - 20000 Гц </value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>линейный, оптический, коаксиальный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>16 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>позолоченные разъемы</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x96x300 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6.2 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47073">
+    <title>Marantz SA-11S2</title>
+    <model>SA-11S2</model>
+    <marka>Marantz</marka>
+    <catalog id="135536">MD и CD-проигрыватели</catalog>
+    
+    <price1>129000</price1>
+    <price2>143000</price2>
+    <description>
+
+CD-проигрыватель, SACD, коэффициент гармоник: 0.002 %, С/Ш: 114 дБ, балансный выход, оптический выход, коаксиальный выход
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>CD-проигрыватель</value>
+        </item>
+        <item>
+          <name>Загрузка диска</name>
+          <value>фронтальный лоток</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>SACD, SACD-Text, CD-R, CD-RW, CD</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.002 % (1 кГц)</value>
+        </item>
+        <item>
+          <name>Коэффициент гармоник (SACD)</name>
+          <value>0.0009 % (1 кГц)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>114 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон</name>
+          <value>100 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон (SACD)</name>
+          <value>114 дБ</value>
+        </item>
+        <item>
+          <name>Полоса пропускания</name>
+          <value>2 - 20000 Гц </value>
+        </item>
+        <item>
+          <name>Полоса пропускания (SACD)</name>
+          <value>2 - 50000 Гц (+0 дБ -3 дБ)</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>линейный, балансный, оптический, коаксиальный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>внешняя синхронизация</value>
+        </item>
+      </items>
+      <items>
+        <name>ЦАП и фильтры</name>
+        <item>
+          <name>ЦАП</name>
+          <value>2 x NPC SM5866AS</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Тип трансформатора</name>
+          <value>тороидальный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>26 Вт / 1 Вт (в спящем режиме)</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Транспорт</name>
+          <value>SACDM-1</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>позолоченные разъемы</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>серебристый, золотой</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>440x127x415 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>16 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47075">
+    <title>NAD C565</title>
+    <model>C565</model>
+    <marka>NAD</marka>
+    <catalog id="135536">MD и CD-проигрыватели</catalog>
+    
+    <price1>22400</price1>
+    <price2>24290</price2>
+    <description>
+
+CD-проигрыватель, MP3, коэффициент гармоник: 0.01 %, С/Ш: 118 дБ, оптический выход, коаксиальный выход, проигрывание с USB
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>CD-проигрыватель</value>
+        </item>
+        <item>
+          <name>Загрузка диска</name>
+          <value>фронтальный лоток</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>MP3, WMA, CD-Text, CD-R, CD-RW, CD</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.01 % (1кГц)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>118 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон</name>
+          <value>95 дБ</value>
+        </item>
+        <item>
+          <name>Разделение каналов</name>
+          <value>90 дБ</value>
+        </item>
+        <item>
+          <name>Полоса пропускания</name>
+          <value>5 - 20000 Гц </value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>оптический, триггер, внешний ИК-датчик</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>линейный, оптический, коаксиальный</value>
+        </item>
+        <item>
+          <name>Выходное напряжение</name>
+          <value>2.20 В</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A, RS-232</value>
+        </item>
+      </items>
+      <items>
+        <name>ЦАП и фильтры</name>
+        <item>
+          <name>ЦАП</name>
+          <value>Wolfson</value>
+        </item>
+        <item>
+          <name>Разрядность</name>
+          <value>24 бит</value>
+        </item>
+        <item>
+          <name>Частота дискретизации</name>
+          <value>192 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Тип трансформатора</name>
+          <value>тороидальный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>18 Вт / 1 Вт (в спящем режиме)</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>позолоченные разъемы</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>титановый, графит</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x86x293 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>5.2 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Количество треков в программе</name>
+          <value>40</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47080">
+    <title>Marantz SA-15S2</title>
+    <model>SA-15S2</model>
+    <marka>Marantz</marka>
+    <catalog id="135536">MD и CD-проигрыватели</catalog>
+    
+    <price1>74000</price1>
+    <price2>98950</price2>
+    <description>
+
+CD-проигрыватель, SACD, MP3, коэффициент гармоник: 0.0015 %, оптический выход, коаксиальный выход
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>CD-проигрыватель</value>
+        </item>
+        <item>
+          <name>Загрузка диска</name>
+          <value>фронтальный лоток</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>SACD, MP3, WMA, CD-R, CD-RW, CD</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.0015 % </value>
+        </item>
+        <item>
+          <name>Коэффициент гармоник (SACD)</name>
+          <value>0.001 % </value>
+        </item>
+        <item>
+          <name>Динамический диапазон</name>
+          <value>100 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон (SACD)</name>
+          <value>112 дБ</value>
+        </item>
+        <item>
+          <name>Полоса пропускания</name>
+          <value>2 - 20000 Гц </value>
+        </item>
+        <item>
+          <name>Полоса пропускания (SACD)</name>
+          <value>2 - 100000 Гц </value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>оптический</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>линейный, оптический, коаксиальный, наушники</value>
+        </item>
+      </items>
+      <items>
+        <name>ЦАП и фильтры</name>
+        <item>
+          <name>ЦАП</name>
+          <value>Cirrus Logic CS4398</value>
+        </item>
+        <item>
+          <name>Разрядность</name>
+          <value>16 бит</value>
+        </item>
+        <item>
+          <name>Частота дискретизации</name>
+          <value>44.1 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Тип трансформатора</name>
+          <value>тороидальный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>20 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Транспорт</name>
+          <value>SACDM-10</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>золотистый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>440x123x419 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>13.5 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47082">
+    <title>Cambridge Audio Azur 651C</title>
+    <model>Azur 651C</model>
+    <marka>Cambridge Audio</marka>
+    <catalog id="135536">MD и CD-проигрыватели</catalog>
+    
+    <price1>31900</price1>
+    <price2>31900</price2>
+    <description>
+
+CD-проигрыватель, коэффициент гармоник: 0.003 %, С/Ш: 115 дБ, оптический выход, коаксиальный выход
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>CD-проигрыватель</value>
+        </item>
+        <item>
+          <name>Загрузка диска</name>
+          <value>фронтальный лоток</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.003 % (1кГц 0dBFs)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>115 дБ</value>
+        </item>
+        <item>
+          <name>Разделение каналов</name>
+          <value>100 дБ</value>
+        </item>
+        <item>
+          <name>Полоса пропускания</name>
+          <value>20 - 20000 Гц (+/-0.1 дБ)</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Входы</name>
+          <value>внешний ИК-датчик</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>линейный, оптический, коаксиальный</value>
+        </item>
+        <item>
+          <name>Выходное сопротивление</name>
+          <value>50 Ом</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>управление по шине</value>
+        </item>
+      </items>
+      <items>
+        <name>ЦАП и фильтры</name>
+        <item>
+          <name>ЦАП</name>
+          <value>2 x Wolfson WM8742</value>
+        </item>
+        <item>
+          <name>Разрядность</name>
+          <value>24 бит</value>
+        </item>
+        <item>
+          <name>Частота дискретизации</name>
+          <value>192 кГц</value>
+        </item>
+        <item>
+          <name>Джиттер</name>
+          <value>140 пс</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>25 Вт / 1 Вт (в спящем режиме)</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Транспорт</name>
+          <value>S3 Custom CD Servo</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>430x85x305 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4.8 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47083">
+    <title>Pioneer CDJ-850</title>
+    <model>CDJ-850</model>
+    <marka>Pioneer</marka>
+    <catalog id="135536">MD и CD-проигрыватели</catalog>
+    
+    <price1>29100</price1>
+    <price2>39990</price2>
+    <description>
+
+DJ CD-проигрыватель, MP3, коэффициент гармоник: 0.003 %, С/Ш: 115 дБ, проигрывание с USB, Jog Dial
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>DJ CD-проигрыватель</value>
+        </item>
+        <item>
+          <name>Загрузка диска</name>
+          <value>щелевая загрузка</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>MP3, CD-R, CD-RW, CD</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.003 % </value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>115 дБ</value>
+        </item>
+        <item>
+          <name>Полоса пропускания</name>
+          <value>4 - 20000 Гц </value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>линейный</value>
+        </item>
+        <item>
+          <name>Выходное напряжение</name>
+          <value>2 В</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A, USB Type B</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>21 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Управление</name>
+          <value>Jog Dial</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>антивибрация</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>305x106x364 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.3 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>поддержка аудиофайлов WAV, AIFF, AAC</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

@@ -1,0 +1,3033 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="73411">
+    <title>APC by Schneider Electric Smart-UPS 1000VA USB &amp;amp;amp; Serial 230V</title>
+    <model>Smart-UPS 1000VA USB &amp;amp;amp; Serial 230V</model>
+    <marka>APC by Schneider Electric</marka>
+    <catalog id="969705">Источники бесперебойного питания</catalog>
+    
+    <price1>13800</price1>
+    <price2>27490</price2>
+    <description>
+
+
+
+интерактивный, 1000 ВА / 670 Вт, количество выходных разъемов:  8 (8 с питанием от батареи), время работы: 6.1 мин, USB, RS-232
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>интерактивный</value>
+        </item>
+        <item>
+          <name>Выходная мощность</name>
+          <value>1000 ВА / 670 Вт</value>
+        </item>
+        <item>
+          <name>Время работы при полной нагрузке</name>
+          <value>6.1 мин</value>
+        </item>
+        <item>
+          <name>Время работы при половинной нагрузке </name>
+          <value>20.6 мин</value>
+        </item>
+        <item>
+          <name>Форма выходного сигнала</name>
+          <value>синусоида</value>
+        </item>
+        <item>
+          <name>Макс. поглощаемая энергия импульса</name>
+          <value>320 Дж</value>
+        </item>
+        <item>
+          <name>Количество выходных разъемов питания</name>
+          <value>8 (из них с питанием от батарей - 8)</value>
+        </item>
+        <item>
+          <name>Тип выходных разъемов питания</name>
+          <value>IEC 320 C13 (компьютерный)</value>
+        </item>
+      </items>
+      <items>
+        <name>Вход / Выход</name>
+        <item>
+          <name>На входе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>На выходе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>Входное напряжение</name>
+          <value>160 - 286 В</value>
+        </item>
+        <item>
+          <name>Стабильность выходного напряжения (батарейный режим)</name>
+          <value>± 5 %</value>
+        </item>
+        <item>
+          <name>Выходная частота</name>
+          <value>47 - 53 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB, RS-232</value>
+        </item>
+        <item>
+          <name>Слот для дополнительных интерфейсов</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>Отображение информации</name>
+          <value>светодиодные индикаторы</value>
+        </item>
+        <item>
+          <name>Звуковая сигнализация</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Батарея</name>
+        <item>
+          <name>Время зарядки</name>
+          <value>3 час</value>
+        </item>
+        <item>
+          <name>Возможность замены батарей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Защита</name>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от высоковольтных импульсов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фильтрация помех</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Габариты (ШxВxГ)</name>
+          <value>170x216x439 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>20.91 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="73412">
+    <title>APC by Schneider Electric Back-UPS CS 500VA 230V RUSSIAN</title>
+    <model>Back-UPS CS 500VA 230V RUSSIAN</model>
+    <marka>APC by Schneider Electric</marka>
+    <catalog id="969705">Источники бесперебойного питания</catalog>
+    
+    <price1>2870</price1>
+    <price2>5780</price2>
+    <description>
+
+
+
+резервный, 500 ВА / 300 Вт, количество выходных разъемов:  4 (3 с питанием от батареи), время работы: 4.5 мин
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>резервный</value>
+        </item>
+        <item>
+          <name>Выходная мощность</name>
+          <value>500 ВА / 300 Вт</value>
+        </item>
+        <item>
+          <name>Время работы при полной нагрузке</name>
+          <value>5 мин</value>
+        </item>
+        <item>
+          <name>Время работы при половинной нагрузке </name>
+          <value>15 мин</value>
+        </item>
+        <item>
+          <name>Форма выходного сигнала</name>
+          <value>ступенчатая аппроксимация синусоиды</value>
+        </item>
+        <item>
+          <name>Макс. поглощаемая энергия импульса</name>
+          <value>310 Дж</value>
+        </item>
+        <item>
+          <name>Количество выходных разъемов питания</name>
+          <value>4 (из них с питанием от батарей - 3)</value>
+        </item>
+        <item>
+          <name>Тип выходных разъемов питания</name>
+          <value>IEC 320 C13 (компьютерный)</value>
+        </item>
+      </items>
+      <items>
+        <name>Вход / Выход</name>
+        <item>
+          <name>На входе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>На выходе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>Входное напряжение</name>
+          <value>180 - 260 В</value>
+        </item>
+        <item>
+          <name>Входная частота</name>
+          <value>47 - 63 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>Отображение информации</name>
+          <value>светодиодные индикаторы</value>
+        </item>
+        <item>
+          <name>Звуковая сигнализация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Холодный старт</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Батарея</name>
+        <item>
+          <name>Время зарядки</name>
+          <value>6 час</value>
+        </item>
+        <item>
+          <name>Возможность замены батарей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Защита</name>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от высоковольтных импульсов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Цвет</name>
+          <value>серый</value>
+        </item>
+        <item>
+          <name>Габариты (ШxВxГ)</name>
+          <value>91x165x284 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6.32 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="73418">
+    <title>APC by Schneider Electric Smart-UPS 750VA/500W USB &amp;amp;amp; Serial 230V</title>
+    <model>Smart-UPS 750VA/500W USB &amp;amp;amp; Serial 230V</model>
+    <marka>APC by Schneider Electric</marka>
+    <catalog id="969705">Источники бесперебойного питания</catalog>
+    
+    <price1>10640</price1>
+    <price2>19660</price2>
+    <description>
+
+
+
+интерактивный, 750 ВА / 500 Вт, количество выходных разъемов:  6 (6 с питанием от батареи), время работы: 4.8 мин, USB, RS-232
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>интерактивный</value>
+        </item>
+        <item>
+          <name>Выходная мощность</name>
+          <value>750 ВА / 500 Вт</value>
+        </item>
+        <item>
+          <name>Время работы при полной нагрузке</name>
+          <value>4.8 мин</value>
+        </item>
+        <item>
+          <name>Время работы при половинной нагрузке </name>
+          <value>16.4 мин</value>
+        </item>
+        <item>
+          <name>Форма выходного сигнала</name>
+          <value>синусоида</value>
+        </item>
+        <item>
+          <name>Макс. поглощаемая энергия импульса</name>
+          <value>340 Дж</value>
+        </item>
+        <item>
+          <name>Количество выходных разъемов питания</name>
+          <value>6 (из них с питанием от батарей - 6)</value>
+        </item>
+        <item>
+          <name>Тип выходных разъемов питания</name>
+          <value>IEC 320 C13 (компьютерный)</value>
+        </item>
+      </items>
+      <items>
+        <name>Вход / Выход</name>
+        <item>
+          <name>На входе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>На выходе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>Входное напряжение</name>
+          <value>160 - 285 В</value>
+        </item>
+        <item>
+          <name>Стабильность выходного напряжения (батарейный режим)</name>
+          <value>± 5 %</value>
+        </item>
+        <item>
+          <name>Выходная частота</name>
+          <value>47 - 53 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB, RS-232</value>
+        </item>
+        <item>
+          <name>Слот для дополнительных интерфейсов</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>Отображение информации</name>
+          <value>светодиодные индикаторы</value>
+        </item>
+        <item>
+          <name>Звуковая сигнализация</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Батарея</name>
+        <item>
+          <name>Время зарядки</name>
+          <value>3 час</value>
+        </item>
+        <item>
+          <name>Возможность замены батарей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Защита</name>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от высоковольтных импульсов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фильтрация помех</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Габариты (ШxВxГ)</name>
+          <value>137x157x358 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>14.55 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="73421">
+    <title>APC by Schneider Electric Back-UPS CS 650VA 230V</title>
+    <model>Back-UPS CS 650VA 230V</model>
+    <marka>APC by Schneider Electric</marka>
+    <catalog id="969705">Источники бесперебойного питания</catalog>
+    
+    <price1>2789</price1>
+    <price2>7854</price2>
+    <description>
+
+
+
+резервный, 650 ВА / 400 Вт, количество выходных разъемов:  4 (3 с питанием от батареи), время работы: 2.4 мин, USB, RS-232
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>резервный</value>
+        </item>
+        <item>
+          <name>Выходная мощность</name>
+          <value>650 ВА / 400 Вт</value>
+        </item>
+        <item>
+          <name>Время работы при полной нагрузке</name>
+          <value>4.7 мин</value>
+        </item>
+        <item>
+          <name>Время работы при половинной нагрузке </name>
+          <value>14.7 мин</value>
+        </item>
+        <item>
+          <name>Форма выходного сигнала</name>
+          <value>ступенчатая аппроксимация синусоиды</value>
+        </item>
+        <item>
+          <name>Макс. поглощаемая энергия импульса</name>
+          <value>320 Дж</value>
+        </item>
+        <item>
+          <name>Количество выходных разъемов питания</name>
+          <value>4 (из них с питанием от батарей - 3)</value>
+        </item>
+        <item>
+          <name>Тип выходных разъемов питания</name>
+          <value>IEC 320 C13 (компьютерный)</value>
+        </item>
+      </items>
+      <items>
+        <name>Вход / Выход</name>
+        <item>
+          <name>На входе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>На выходе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>Входное напряжение</name>
+          <value>160 - 282 В</value>
+        </item>
+        <item>
+          <name>Входная частота</name>
+          <value>48 - 62 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB, RS-232</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>Отображение информации</name>
+          <value>светодиодные индикаторы</value>
+        </item>
+        <item>
+          <name>Звуковая сигнализация</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Батарея</name>
+        <item>
+          <name>Время зарядки</name>
+          <value>8 час</value>
+        </item>
+        <item>
+          <name>Возможность замены батарей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Горячая замена батарей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Защита</name>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от высоковольтных импульсов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тип предохранителя</name>
+          <value>автоматический</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Габариты (ШxВxГ)</name>
+          <value>91x165x284 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6.03 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="73424">
+    <title>APC by Schneider Electric Smart-UPS 1500VA USB &amp;amp;amp; Serial 230V</title>
+    <model>Smart-UPS 1500VA USB &amp;amp;amp; Serial 230V</model>
+    <marka>APC by Schneider Electric</marka>
+    <catalog id="969705">Источники бесперебойного питания</catalog>
+    
+    <price1>18169</price1>
+    <price2>40500</price2>
+    <description>
+
+
+
+интерактивный, 1500 ВА / 980 Вт, количество выходных разъемов:  8 (8 с питанием от батареи), время работы: 6.7 мин, USB, RS-232
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>интерактивный</value>
+        </item>
+        <item>
+          <name>Выходная мощность</name>
+          <value>1500 ВА / 980 Вт</value>
+        </item>
+        <item>
+          <name>Время работы при полной нагрузке</name>
+          <value>6.7 мин</value>
+        </item>
+        <item>
+          <name>Время работы при половинной нагрузке </name>
+          <value>23.9 мин</value>
+        </item>
+        <item>
+          <name>Форма выходного сигнала</name>
+          <value>синусоида</value>
+        </item>
+        <item>
+          <name>Макс. поглощаемая энергия импульса</name>
+          <value>480 Дж</value>
+        </item>
+        <item>
+          <name>Количество выходных разъемов питания</name>
+          <value>8 (из них с питанием от батарей - 8)</value>
+        </item>
+        <item>
+          <name>Тип выходных разъемов питания</name>
+          <value>IEC 320 C13 (компьютерный)</value>
+        </item>
+      </items>
+      <items>
+        <name>Вход / Выход</name>
+        <item>
+          <name>На входе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>На выходе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>Входное напряжение</name>
+          <value>151 - 302 В</value>
+        </item>
+        <item>
+          <name>Стабильность выходного напряжения (батарейный режим)</name>
+          <value>± 5 %</value>
+        </item>
+        <item>
+          <name>Выходная частота</name>
+          <value>47 - 53 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB, RS-232</value>
+        </item>
+        <item>
+          <name>Слот для дополнительных интерфейсов</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>Отображение информации</name>
+          <value>светодиодные индикаторы</value>
+        </item>
+        <item>
+          <name>Звуковая сигнализация</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Батарея</name>
+        <item>
+          <name>Время зарядки</name>
+          <value>3 час</value>
+        </item>
+        <item>
+          <name>Возможность замены батарей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Защита</name>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от высоковольтных импульсов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фильтрация помех</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Габариты (ШxВxГ)</name>
+          <value>170x216x439 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>24.09 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="73427">
+    <title>APC by Schneider Electric Back-UPS ES 525 Russia</title>
+    <model>Back-UPS ES 525 Russia</model>
+    <marka>APC by Schneider Electric</marka>
+    <catalog id="969705">Источники бесперебойного питания</catalog>
+    
+    <price1>4130</price1>
+    <price2>4167</price2>
+    <description>
+
+
+
+резервный, 525 ВА / 300 Вт, количество выходных разъемов:  4 (3 с питанием от батареи), время работы: 4.3 мин, USB, защита телефонной линии
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>резервный</value>
+        </item>
+        <item>
+          <name>Выходная мощность</name>
+          <value>525 ВА / 300 Вт</value>
+        </item>
+        <item>
+          <name>Время работы при полной нагрузке</name>
+          <value>4.3 мин</value>
+        </item>
+        <item>
+          <name>Время работы при половинной нагрузке </name>
+          <value>15.6 мин</value>
+        </item>
+        <item>
+          <name>Форма выходного сигнала</name>
+          <value>ступенчатая аппроксимация синусоиды</value>
+        </item>
+        <item>
+          <name>Макс. поглощаемая энергия импульса</name>
+          <value>180 Дж</value>
+        </item>
+        <item>
+          <name>Количество выходных разъемов питания</name>
+          <value>4 (из них с питанием от батарей - 3)</value>
+        </item>
+        <item>
+          <name>Тип выходных разъемов питания</name>
+          <value>CEE 7 (евророзетка)</value>
+        </item>
+      </items>
+      <items>
+        <name>Вход / Выход</name>
+        <item>
+          <name>На входе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>На выходе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>Входное напряжение</name>
+          <value>160 - 280 В</value>
+        </item>
+        <item>
+          <name>Входная частота</name>
+          <value>47 - 53 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>Отображение информации</name>
+          <value>светодиодные индикаторы</value>
+        </item>
+        <item>
+          <name>Звуковая сигнализация</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Батарея</name>
+        <item>
+          <name>Время зарядки</name>
+          <value>5 час</value>
+        </item>
+        <item>
+          <name>Возможность замены батарей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Защита</name>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от высоковольтных импульсов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фильтрация помех</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита телефонной линии</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Габариты (ШxВxГ)</name>
+          <value>285x121x197 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>7.32 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="73429">
+    <title>APC by Schneider Electric Back-UPS ES 400VA 230V Russian</title>
+    <model>Back-UPS ES 400VA 230V Russian</model>
+    <marka>APC by Schneider Electric</marka>
+    <catalog id="969705">Источники бесперебойного питания</catalog>
+    
+    <price1>2390</price1>
+    <price2>4964</price2>
+    <description>
+
+
+
+резервный, 400 ВА / 240 Вт, количество выходных разъемов:  8 (4 с питанием от батареи), время работы: 5.2 мин, защита локальной сети, защита телефонной линии
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>резервный</value>
+        </item>
+        <item>
+          <name>Выходная мощность</name>
+          <value>400 ВА / 240 Вт</value>
+        </item>
+        <item>
+          <name>Время работы при полной нагрузке</name>
+          <value>5.2 мин</value>
+        </item>
+        <item>
+          <name>Время работы при половинной нагрузке </name>
+          <value>18.1 мин</value>
+        </item>
+        <item>
+          <name>Форма выходного сигнала</name>
+          <value>ступенчатая аппроксимация синусоиды</value>
+        </item>
+        <item>
+          <name>Макс. поглощаемая энергия импульса</name>
+          <value>310 Дж</value>
+        </item>
+        <item>
+          <name>Количество выходных разъемов питания</name>
+          <value>8 (из них с питанием от батарей - 4)</value>
+        </item>
+        <item>
+          <name>Тип выходных разъемов питания</name>
+          <value>CEE 7 (евророзетка)</value>
+        </item>
+      </items>
+      <items>
+        <name>Вход / Выход</name>
+        <item>
+          <name>На входе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>На выходе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>Входное напряжение</name>
+          <value>180 - 266 В</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>Отображение информации</name>
+          <value>светодиодные индикаторы</value>
+        </item>
+        <item>
+          <name>Звуковая сигнализация</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Батарея</name>
+        <item>
+          <name>Время зарядки</name>
+          <value>16 час</value>
+        </item>
+      </items>
+      <items>
+        <name>Защита</name>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от высоковольтных импульсов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фильтрация помех</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита телефонной линии</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита локальной сети </name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Габариты (ШxВxГ)</name>
+          <value>230x86x285 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6.4 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="73433">
+    <title>APC by Schneider Electric Smart-UPS 1500VA USB &amp;amp;amp; Serial RM 2U 230V</title>
+    <model>Smart-UPS 1500VA USB &amp;amp;amp; Serial RM 2U 230V</model>
+    <marka>APC by Schneider Electric</marka>
+    <catalog id="969705">Источники бесперебойного питания</catalog>
+    
+    <price1>26660</price1>
+    <price2>33623</price2>
+    <description>
+
+
+
+интерактивный, монтируется в стойку, 1500 ВА / 980 Вт, количество выходных разъемов:  4 (4 с питанием от батареи), время работы: 9.1 мин, USB, RS-232
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>интерактивный</value>
+        </item>
+        <item>
+          <name>Выходная мощность</name>
+          <value>1500 ВА / 980 Вт</value>
+        </item>
+        <item>
+          <name>Время работы при полной нагрузке</name>
+          <value>9.1 мин</value>
+        </item>
+        <item>
+          <name>Время работы при половинной нагрузке </name>
+          <value>31.6 мин</value>
+        </item>
+        <item>
+          <name>Форма выходного сигнала</name>
+          <value>синусоида</value>
+        </item>
+        <item>
+          <name>Макс. поглощаемая энергия импульса</name>
+          <value>480 Дж</value>
+        </item>
+        <item>
+          <name>Количество выходных разъемов питания</name>
+          <value>4 (из них с питанием от батарей - 4)</value>
+        </item>
+        <item>
+          <name>Тип выходных разъемов питания</name>
+          <value>IEC 320 C13 (компьютерный)</value>
+        </item>
+        <item>
+          <name>Возможность установки в стойку</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Вход / Выход</name>
+        <item>
+          <name>На входе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>На выходе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>Входное напряжение</name>
+          <value>160 - 286 В</value>
+        </item>
+        <item>
+          <name>Стабильность выходного напряжения (батарейный режим)</name>
+          <value>± 5 %</value>
+        </item>
+        <item>
+          <name>Выходная частота</name>
+          <value>47 - 53 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB, RS-232</value>
+        </item>
+        <item>
+          <name>Слот для дополнительных интерфейсов</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>Отображение информации</name>
+          <value>светодиодные индикаторы</value>
+        </item>
+        <item>
+          <name>Звуковая сигнализация</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Батарея</name>
+        <item>
+          <name>Время зарядки</name>
+          <value>3 час</value>
+        </item>
+        <item>
+          <name>Возможность замены батарей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Защита</name>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от высоковольтных импульсов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фильтрация помех</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Габариты (ШxВxГ)</name>
+          <value>432x89x457 мм</value>
+        </item>
+        <item>
+          <name>Высота (в юнитах)</name>
+          <value>2 U</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>28.64 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="73435">
+    <title>APC by Schneider Electric Smart-UPS 750VA USB RM 2U 230V</title>
+    <model>Smart-UPS 750VA USB RM 2U 230V</model>
+    <marka>APC by Schneider Electric</marka>
+    <catalog id="969705">Источники бесперебойного питания</catalog>
+    
+    <price1>15250</price1>
+    <price2>22047</price2>
+    <description>
+
+
+
+интерактивный, монтируется в стойку, 750 ВА / 480 Вт, количество выходных разъемов:  4 (4 с питанием от батареи), время работы: 5.5 мин, USB, RS-232
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>интерактивный</value>
+        </item>
+        <item>
+          <name>Выходная мощность</name>
+          <value>750 ВА / 480 Вт</value>
+        </item>
+        <item>
+          <name>Время работы при полной нагрузке</name>
+          <value>5.5 мин</value>
+        </item>
+        <item>
+          <name>Время работы при половинной нагрузке </name>
+          <value>16.6 мин</value>
+        </item>
+        <item>
+          <name>Форма выходного сигнала</name>
+          <value>синусоида</value>
+        </item>
+        <item>
+          <name>Макс. поглощаемая энергия импульса</name>
+          <value>480 Дж</value>
+        </item>
+        <item>
+          <name>Количество выходных разъемов питания</name>
+          <value>4 (из них с питанием от батарей - 4)</value>
+        </item>
+        <item>
+          <name>Тип выходных разъемов питания</name>
+          <value>IEC 320 C13 (компьютерный)</value>
+        </item>
+        <item>
+          <name>Возможность установки в стойку</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Вход / Выход</name>
+        <item>
+          <name>На входе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>На выходе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>Входное напряжение</name>
+          <value>151 - 302 В</value>
+        </item>
+        <item>
+          <name>Входная частота</name>
+          <value>48 - 62 Гц</value>
+        </item>
+        <item>
+          <name>Стабильность выходного напряжения (батарейный режим)</name>
+          <value>± 5 %</value>
+        </item>
+        <item>
+          <name>Выходная частота</name>
+          <value>47 - 63 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB, RS-232</value>
+        </item>
+        <item>
+          <name>Слот для дополнительных интерфейсов</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>Отображение информации</name>
+          <value>светодиодные индикаторы</value>
+        </item>
+        <item>
+          <name>Звуковая сигнализация</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Батарея</name>
+        <item>
+          <name>Время зарядки</name>
+          <value>3 час</value>
+        </item>
+        <item>
+          <name>Возможность замены батарей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Защита</name>
+        <item>
+          <name>Защита от высоковольтных импульсов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тип предохранителя</name>
+          <value>автоматический</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Габариты (ШxВxГ)</name>
+          <value>432x89x457 мм</value>
+        </item>
+        <item>
+          <name>Высота (в юнитах)</name>
+          <value>2 U</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>21.82 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="73438">
+    <title>APC by Schneider Electric Smart-UPS 2200VA 230V</title>
+    <model>Smart-UPS 2200VA 230V</model>
+    <marka>APC by Schneider Electric</marka>
+    <catalog id="969705">Источники бесперебойного питания</catalog>
+    
+    <price1>29040</price1>
+    <price2>62490</price2>
+    <description>
+
+
+
+интерактивный, 2200 ВА / 1600 Вт, количество выходных разъемов:  9, время работы: 9 мин, RS-232
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>интерактивный</value>
+        </item>
+        <item>
+          <name>Выходная мощность</name>
+          <value>2200 ВА / 1600 Вт</value>
+        </item>
+        <item>
+          <name>Время работы при полной нагрузке</name>
+          <value>9 мин</value>
+        </item>
+        <item>
+          <name>Время работы при половинной нагрузке </name>
+          <value>34 мин</value>
+        </item>
+        <item>
+          <name>Форма выходного сигнала</name>
+          <value>синусоида</value>
+        </item>
+        <item>
+          <name>Макс. поглощаемая энергия импульса</name>
+          <value>480 Дж</value>
+        </item>
+        <item>
+          <name>Количество выходных разъемов питания</name>
+          <value>9</value>
+        </item>
+        <item>
+          <name>Тип выходных разъемов питания</name>
+          <value>IEC 320 C13 (компьютерный)</value>
+        </item>
+        <item>
+          <name>Коэффициент нелинейных искажений</name>
+          <value>5%</value>
+        </item>
+      </items>
+      <items>
+        <name>Вход / Выход</name>
+        <item>
+          <name>Входное напряжение</name>
+          <value>174 - 286 В</value>
+        </item>
+        <item>
+          <name>Входная частота</name>
+          <value>50 - 60 Гц</value>
+        </item>
+        <item>
+          <name>Выходная частота</name>
+          <value>47 - 63 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>RS-232</value>
+        </item>
+        <item>
+          <name>Слот для дополнительных интерфейсов</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>Отображение информации</name>
+          <value>светодиодные индикаторы</value>
+        </item>
+        <item>
+          <name>Звуковая сигнализация</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Батарея</name>
+        <item>
+          <name>Время зарядки</name>
+          <value>3 час</value>
+        </item>
+        <item>
+          <name>Возможность замены батарей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение дополнительных батарей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Защита</name>
+        <item>
+          <name>Защита от высоковольтных импульсов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фильтрация помех</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тип предохранителя</name>
+          <value>автоматический</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Цвет</name>
+          <value>серый</value>
+        </item>
+        <item>
+          <name>Габариты (ШxВxГ)</name>
+          <value>196x432x546 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>55 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="73446">
+    <title>APC by Schneider Electric Smart-UPS RT 1000VA 230V</title>
+    <model>Smart-UPS RT 1000VA 230V</model>
+    <marka>APC by Schneider Electric</marka>
+    <catalog id="969705">Источники бесперебойного питания</catalog>
+    
+    <price1>20580</price1>
+    <price2>35350</price2>
+    <description>
+
+
+
+с двойным преобразованием, монтируется в стойку, 1000 ВА / 700 Вт, количество выходных разъемов:  6 (6 с питанием от батареи), время работы: 10.2 мин, RS-232
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>с двойным преобразованием</value>
+        </item>
+        <item>
+          <name>Выходная мощность</name>
+          <value>1000 ВА / 700 Вт</value>
+        </item>
+        <item>
+          <name>Время работы при полной нагрузке</name>
+          <value>10.2 мин</value>
+        </item>
+        <item>
+          <name>Время работы при половинной нагрузке </name>
+          <value>24.4 мин</value>
+        </item>
+        <item>
+          <name>Форма выходного сигнала</name>
+          <value>синусоида</value>
+        </item>
+        <item>
+          <name>Макс. поглощаемая энергия импульса</name>
+          <value>420 Дж</value>
+        </item>
+        <item>
+          <name>Количество выходных разъемов питания</name>
+          <value>6 (из них с питанием от батарей - 6)</value>
+        </item>
+        <item>
+          <name>Тип выходных разъемов питания</name>
+          <value>IEC 320 C13 (компьютерный)</value>
+        </item>
+        <item>
+          <name>Возможность установки в стойку</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Вход / Выход</name>
+        <item>
+          <name>На входе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>На выходе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>Входное напряжение</name>
+          <value>160 - 280 В</value>
+        </item>
+        <item>
+          <name>Входная частота</name>
+          <value>45 - 65 Гц</value>
+        </item>
+        <item>
+          <name>Стабильность выходного напряжения (батарейный режим)</name>
+          <value>± 3 %</value>
+        </item>
+        <item>
+          <name>Выходная частота</name>
+          <value>47 - 63 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>RS-232</value>
+        </item>
+        <item>
+          <name>Слот для дополнительных интерфейсов</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>Отображение информации</name>
+          <value>светодиодные индикаторы</value>
+        </item>
+        <item>
+          <name>Звуковая сигнализация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Холодный старт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматический By-pass</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Батарея</name>
+        <item>
+          <name>Время зарядки</name>
+          <value>3 час</value>
+        </item>
+        <item>
+          <name>Возможность замены батарей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Горячая замена батарей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение дополнительных батарей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Защита</name>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от высоковольтных импульсов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фильтрация помех</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тип предохранителя</name>
+          <value>автоматический</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Габариты (ШxВxГ)</name>
+          <value>85x432x483 мм</value>
+        </item>
+        <item>
+          <name>Высота (в юнитах)</name>
+          <value>2 U</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>23 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="73461">
+    <title>APC by Schneider Electric Smart-UPS RT 2000VA 230V</title>
+    <model>Smart-UPS RT 2000VA 230V</model>
+    <marka>APC by Schneider Electric</marka>
+    <catalog id="969705">Источники бесперебойного питания</catalog>
+    
+    <price1>41540</price1>
+    <price2>61980</price2>
+    <description>
+
+
+
+с двойным преобразованием, монтируется в стойку, 2000 ВА / 1400 Вт, количество выходных разъемов:  6 (6 с питанием от батареи), время работы: 4.1 мин, RS-232
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>с двойным преобразованием</value>
+        </item>
+        <item>
+          <name>Выходная мощность</name>
+          <value>2000 ВА / 1400 Вт</value>
+        </item>
+        <item>
+          <name>Время работы при полной нагрузке</name>
+          <value>4.1 мин</value>
+        </item>
+        <item>
+          <name>Время работы при половинной нагрузке </name>
+          <value>14.2 мин</value>
+        </item>
+        <item>
+          <name>Форма выходного сигнала</name>
+          <value>синусоида</value>
+        </item>
+        <item>
+          <name>Макс. поглощаемая энергия импульса</name>
+          <value>420 Дж</value>
+        </item>
+        <item>
+          <name>Количество выходных разъемов питания</name>
+          <value>6 (из них с питанием от батарей - 6)</value>
+        </item>
+        <item>
+          <name>Тип выходных разъемов питания</name>
+          <value>IEC 320 C13 (компьютерный)</value>
+        </item>
+        <item>
+          <name>Возможность установки в стойку</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Вход / Выход</name>
+        <item>
+          <name>На входе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>На выходе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>Входное напряжение</name>
+          <value>100 - 280 В</value>
+        </item>
+        <item>
+          <name>Входная частота</name>
+          <value>45 - 65 Гц</value>
+        </item>
+        <item>
+          <name>Стабильность выходного напряжения (батарейный режим)</name>
+          <value>± 3 %</value>
+        </item>
+        <item>
+          <name>Выходная частота</name>
+          <value>47 - 63 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>RS-232</value>
+        </item>
+        <item>
+          <name>Слот для дополнительных интерфейсов</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>Отображение информации</name>
+          <value>светодиодные индикаторы</value>
+        </item>
+        <item>
+          <name>Звуковая сигнализация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Холодный старт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматический By-pass</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Батарея</name>
+        <item>
+          <name>Время зарядки</name>
+          <value>4 час</value>
+        </item>
+        <item>
+          <name>Возможность замены батарей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Горячая замена батарей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение дополнительных батарей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Защита</name>
+        <item>
+          <name>Защита от высоковольтных импульсов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фильтрация помех</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тип предохранителя</name>
+          <value>автоматический</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Габариты (ШxВxГ)</name>
+          <value>85x432x483 мм</value>
+        </item>
+        <item>
+          <name>Высота (в юнитах)</name>
+          <value>2 U</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>25 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="73463">
+    <title>APC by Schneider Electric Back-UPS ES 550VA 230V Russian</title>
+    <model>Back-UPS ES 550VA 230V Russian</model>
+    <marka>APC by Schneider Electric</marka>
+    <catalog id="969705">Источники бесперебойного питания</catalog>
+    
+    <price1>3509</price1>
+    <price2>7072</price2>
+    <description>
+
+
+
+резервный, 550 ВА / 330 Вт, количество выходных разъемов:  8 (4 с питанием от батареи), время работы: 3.4 мин, USB, защита локальной сети, защита телефонной линии
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>резервный</value>
+        </item>
+        <item>
+          <name>Выходная мощность</name>
+          <value>550 ВА / 330 Вт</value>
+        </item>
+        <item>
+          <name>Время работы при полной нагрузке</name>
+          <value>3.4 мин</value>
+        </item>
+        <item>
+          <name>Время работы при половинной нагрузке </name>
+          <value>14 мин</value>
+        </item>
+        <item>
+          <name>Форма выходного сигнала</name>
+          <value>ступенчатая аппроксимация синусоиды</value>
+        </item>
+        <item>
+          <name>Количество выходных разъемов питания</name>
+          <value>8 (из них с питанием от батарей - 4)</value>
+        </item>
+        <item>
+          <name>Тип выходных разъемов питания</name>
+          <value>CEE 7 (евророзетка)</value>
+        </item>
+      </items>
+      <items>
+        <name>Вход / Выход</name>
+        <item>
+          <name>На входе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>На выходе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>Входное напряжение</name>
+          <value>180 - 266 В</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>Отображение информации</name>
+          <value>светодиодные индикаторы</value>
+        </item>
+        <item>
+          <name>Звуковая сигнализация</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Батарея</name>
+        <item>
+          <name>Время зарядки</name>
+          <value>16 час</value>
+        </item>
+      </items>
+      <items>
+        <name>Защита</name>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от высоковольтных импульсов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фильтрация помех</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита телефонной линии</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита локальной сети </name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Габариты (ШxВxГ)</name>
+          <value>230x86x285 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6.4 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="73475">
+    <title>APC by Schneider Electric Smart-UPS RT 5000VA 230V</title>
+    <model>Smart-UPS RT 5000VA 230V</model>
+    <marka>APC by Schneider Electric</marka>
+    <catalog id="969705">Источники бесперебойного питания</catalog>
+    
+    <price1>99250</price1>
+    <price2>130871</price2>
+    <description>
+
+
+
+с двойным преобразованием, монтируется в стойку, 5000 ВА / 3500 Вт, количество выходных разъемов:  10, время работы: 5 мин, RS-232, Ethernet 10/100
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>с двойным преобразованием</value>
+        </item>
+        <item>
+          <name>Выходная мощность</name>
+          <value>5000 ВА / 3500 Вт</value>
+        </item>
+        <item>
+          <name>Время работы при полной нагрузке</name>
+          <value>5 мин</value>
+        </item>
+        <item>
+          <name>Время работы при половинной нагрузке </name>
+          <value>15.4 мин</value>
+        </item>
+        <item>
+          <name>Форма выходного сигнала</name>
+          <value>синусоида</value>
+        </item>
+        <item>
+          <name>Макс. поглощаемая энергия импульса</name>
+          <value>480 Дж</value>
+        </item>
+        <item>
+          <name>Количество выходных разъемов питания</name>
+          <value>10</value>
+        </item>
+        <item>
+          <name>Тип выходных разъемов питания</name>
+          <value>IEC 320 C13 (компьютерный)</value>
+        </item>
+        <item>
+          <name>Возможность установки в стойку</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Вход / Выход</name>
+        <item>
+          <name>На входе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>На выходе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>Входное напряжение</name>
+          <value>100 - 280 В</value>
+        </item>
+        <item>
+          <name>Входная частота</name>
+          <value>45 - 65 Гц</value>
+        </item>
+        <item>
+          <name>Стабильность выходного напряжения (батарейный режим)</name>
+          <value>± 3 %</value>
+        </item>
+        <item>
+          <name>Выходная частота</name>
+          <value>47 - 63 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>RS-232, Ethernet 10/100</value>
+        </item>
+        <item>
+          <name>Слот для дополнительных интерфейсов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SNMP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>Отображение информации</name>
+          <value>светодиодные индикаторы</value>
+        </item>
+        <item>
+          <name>Звуковая сигнализация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Холодный старт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ручной By-pass</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматический By-pass</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Батарея</name>
+        <item>
+          <name>Время зарядки</name>
+          <value>2.5 час</value>
+        </item>
+        <item>
+          <name>Возможность замены батарей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Горячая замена батарей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение дополнительных батарей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Защита</name>
+        <item>
+          <name>Защита от высоковольтных импульсов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фильтрация помех</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тип предохранителя</name>
+          <value>автоматический</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Габариты (ШxВxГ)</name>
+          <value>130x432x660 мм</value>
+        </item>
+        <item>
+          <name>Высота (в юнитах)</name>
+          <value>3 U</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>54.55 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="73477">
+    <title>APC by Schneider Electric Smart-UPS SC 1500VA 230V - 2U Rackmount/Tower</title>
+    <model>Smart-UPS SC 1500VA 230V - 2U Rackmount/Tower</model>
+    <marka>APC by Schneider Electric</marka>
+    <catalog id="969705">Источники бесперебойного питания</catalog>
+    
+    <price1>18645</price1>
+    <price2>22143</price2>
+    <description>
+
+
+
+интерактивный, монтируется в стойку, 1500 ВА / 865 Вт, количество выходных разъемов:  4 (4 с питанием от батареи), время работы: 7.6 мин, USB, RS-232, защита локальной сети
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>интерактивный</value>
+        </item>
+        <item>
+          <name>Выходная мощность</name>
+          <value>1500 ВА / 865 Вт</value>
+        </item>
+        <item>
+          <name>Время работы при полной нагрузке</name>
+          <value>7.6 мин</value>
+        </item>
+        <item>
+          <name>Время работы при половинной нагрузке </name>
+          <value>20.9 мин</value>
+        </item>
+        <item>
+          <name>Форма выходного сигнала</name>
+          <value>ступенчатая аппроксимация синусоиды</value>
+        </item>
+        <item>
+          <name>Макс. поглощаемая энергия импульса</name>
+          <value>445 Дж</value>
+        </item>
+        <item>
+          <name>Количество выходных разъемов питания</name>
+          <value>4 (из них с питанием от батарей - 4)</value>
+        </item>
+        <item>
+          <name>Тип выходных разъемов питания</name>
+          <value>IEC 320 C13 (компьютерный)</value>
+        </item>
+        <item>
+          <name>Возможность установки в стойку</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Вход / Выход</name>
+        <item>
+          <name>На входе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>На выходе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>Входное напряжение</name>
+          <value>160 - 286 В</value>
+        </item>
+        <item>
+          <name>Входная частота</name>
+          <value>48 - 62 Гц</value>
+        </item>
+        <item>
+          <name>Стабильность выходного напряжения (батарейный режим)</name>
+          <value>± 5 %</value>
+        </item>
+        <item>
+          <name>Выходная частота</name>
+          <value>47 - 63 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB, RS-232</value>
+        </item>
+        <item>
+          <name>Слот для дополнительных интерфейсов</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>Отображение информации</name>
+          <value>светодиодные индикаторы</value>
+        </item>
+        <item>
+          <name>Звуковая сигнализация</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Батарея</name>
+        <item>
+          <name>Время зарядки</name>
+          <value>8 час</value>
+        </item>
+        <item>
+          <name>Возможность замены батарей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Горячая замена батарей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Защита</name>
+        <item>
+          <name>Защита от высоковольтных импульсов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тип предохранителя</name>
+          <value>автоматический</value>
+        </item>
+        <item>
+          <name>Защита локальной сети </name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Габариты (ШxВxГ)</name>
+          <value>432x89x463 мм</value>
+        </item>
+        <item>
+          <name>Высота (в юнитах)</name>
+          <value>2 U</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>21.36 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="73480">
+    <title>APC by Schneider Electric Power Saving Back-UPS Pro 1200, 230V</title>
+    <model>Power Saving Back-UPS Pro 1200, 230V</model>
+    <marka>APC by Schneider Electric</marka>
+    <catalog id="969705">Источники бесперебойного питания</catalog>
+    
+    <price1>11117</price1>
+    <price2>19098</price2>
+    <description>
+
+
+
+интерактивный, 1200 ВА / 720 Вт, количество выходных разъемов:  10 (5 с питанием от батареи)
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>интерактивный</value>
+        </item>
+        <item>
+          <name>Выходная мощность</name>
+          <value>1200 ВА / 720 Вт</value>
+        </item>
+        <item>
+          <name>Форма выходного сигнала</name>
+          <value>ступенчатая аппроксимация синусоиды</value>
+        </item>
+        <item>
+          <name>Макс. поглощаемая энергия импульса</name>
+          <value>420 Дж</value>
+        </item>
+        <item>
+          <name>Количество выходных разъемов питания</name>
+          <value>10 (из них с питанием от батарей - 5)</value>
+        </item>
+        <item>
+          <name>Тип выходных разъемов питания</name>
+          <value>IEC 320 C13 (компьютерный)</value>
+        </item>
+        <item>
+          <name>Коэффициент полезного действия</name>
+          <value>89%</value>
+        </item>
+      </items>
+      <items>
+        <name>Вход / Выход</name>
+        <item>
+          <name>На входе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>На выходе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>Входное напряжение</name>
+          <value>186 - 284 В</value>
+        </item>
+        <item>
+          <name>Входная частота</name>
+          <value>47 - 63 Гц</value>
+        </item>
+        <item>
+          <name>Выходная частота</name>
+          <value>50 - 60 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>Отображение информации</name>
+          <value>ЖК-экран</value>
+        </item>
+        <item>
+          <name>Звуковая сигнализация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Холодный старт</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Батарея</name>
+        <item>
+          <name>Время зарядки</name>
+          <value>8 час</value>
+        </item>
+        <item>
+          <name>Возможность замены батарей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Защита</name>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от высоковольтных импульсов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Уровень шума</name>
+          <value>45 дБ</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Габариты (ШxВxГ)</name>
+          <value>112x302x382 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>12.7 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="73483">
+    <title>APC by Schneider Electric Smart-UPS RT 8000VA 230V</title>
+    <model>Smart-UPS RT 8000VA 230V</model>
+    <marka>APC by Schneider Electric</marka>
+    <catalog id="969705">Источники бесперебойного питания</catalog>
+    
+    <price1>128690</price1>
+    <price2>167582</price2>
+    <description>
+
+
+
+с двойным преобразованием, 8000 ВА / 6400 Вт, количество выходных разъемов:  8, время работы: 6.3 мин, RS-232, Ethernet 10/100
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>с двойным преобразованием</value>
+        </item>
+        <item>
+          <name>Выходная мощность</name>
+          <value>8000 ВА / 6400 Вт</value>
+        </item>
+        <item>
+          <name>Время работы при полной нагрузке</name>
+          <value>6.3 мин</value>
+        </item>
+        <item>
+          <name>Время работы при половинной нагрузке </name>
+          <value>17.9 мин</value>
+        </item>
+        <item>
+          <name>Форма выходного сигнала</name>
+          <value>синусоида</value>
+        </item>
+        <item>
+          <name>Количество выходных разъемов питания</name>
+          <value>8</value>
+        </item>
+      </items>
+      <items>
+        <name>Вход / Выход</name>
+        <item>
+          <name>На входе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>На выходе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>Входное напряжение</name>
+          <value>160 - 280 В</value>
+        </item>
+        <item>
+          <name>Стабильность выходного напряжения (батарейный режим)</name>
+          <value>± 3 %</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>RS-232, Ethernet 10/100</value>
+        </item>
+        <item>
+          <name>Слот для дополнительных интерфейсов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SNMP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>Отображение информации</name>
+          <value>светодиодные индикаторы</value>
+        </item>
+        <item>
+          <name>Звуковая сигнализация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ручной By-pass</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматический By-pass</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Батарея</name>
+        <item>
+          <name>Время зарядки</name>
+          <value>2.2 час</value>
+        </item>
+        <item>
+          <name>Возможность замены батарей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Защита</name>
+        <item>
+          <name>Защита от высоковольтных импульсов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фильтрация помех</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тип предохранителя</name>
+          <value>автоматический</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Габариты (ШxВxГ)</name>
+          <value>263x432x663 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>110.91 кг</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>4 компьютерные (IEC-320-C13), 4 розетки IEC-320-C19</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="73486">
+    <title>APC by Schneider Electric Smart-UPS RT 10000VA 230V</title>
+    <model>Smart-UPS RT 10000VA 230V</model>
+    <marka>APC by Schneider Electric</marka>
+    <catalog id="969705">Источники бесперебойного питания</catalog>
+    
+    <price1>155640</price1>
+    <price2>202512</price2>
+    <description>
+
+
+
+с двойным преобразованием, монтируется в стойку, 10000 ВА / 8000 Вт, количество выходных разъемов:  8, время работы: 4 мин, RS-232, Ethernet 10/100
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>с двойным преобразованием</value>
+        </item>
+        <item>
+          <name>Выходная мощность</name>
+          <value>10000 ВА / 8000 Вт</value>
+        </item>
+        <item>
+          <name>Время работы при полной нагрузке</name>
+          <value>4 мин</value>
+        </item>
+        <item>
+          <name>Время работы при половинной нагрузке </name>
+          <value>13.2 мин</value>
+        </item>
+        <item>
+          <name>Форма выходного сигнала</name>
+          <value>синусоида</value>
+        </item>
+        <item>
+          <name>Количество выходных разъемов питания</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Тип выходных разъемов питания</name>
+          <value>IEC 320 C13 (компьютерный)</value>
+        </item>
+        <item>
+          <name>Возможность установки в стойку</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Вход / Выход</name>
+        <item>
+          <name>На входе</name>
+          <value>1-фазное/3-фазное напряжение</value>
+        </item>
+        <item>
+          <name>На выходе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>Входное напряжение</name>
+          <value>160 - 280 В</value>
+        </item>
+        <item>
+          <name>Входная частота</name>
+          <value>45 - 65 Гц</value>
+        </item>
+        <item>
+          <name>Стабильность выходного напряжения (батарейный режим)</name>
+          <value>± 3 %</value>
+        </item>
+        <item>
+          <name>Выходная частота</name>
+          <value>47 - 63 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>RS-232, Ethernet 10/100</value>
+        </item>
+        <item>
+          <name>Слот для дополнительных интерфейсов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SNMP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>Отображение информации</name>
+          <value>светодиодные индикаторы</value>
+        </item>
+        <item>
+          <name>Звуковая сигнализация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Холодный старт</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ручной By-pass</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматический By-pass</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Батарея</name>
+        <item>
+          <name>Время зарядки</name>
+          <value>2.2 час</value>
+        </item>
+        <item>
+          <name>Возможность замены батарей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Горячая замена батарей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение дополнительных батарей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Защита</name>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от высоковольтных импульсов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фильтрация помех</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тип предохранителя</name>
+          <value>автоматический</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Габариты (ШxВxГ)</name>
+          <value>263x432x663 мм</value>
+        </item>
+        <item>
+          <name>Высота (в юнитах)</name>
+          <value>6 U</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>110.91 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="73489">
+    <title>APC by Schneider Electric Smart-UPS 5000VA RM 5U 230V</title>
+    <model>Smart-UPS 5000VA RM 5U 230V</model>
+    <marka>APC by Schneider Electric</marka>
+    <catalog id="969705">Источники бесперебойного питания</catalog>
+    
+    <price1>89660</price1>
+    <price2>118598</price2>
+    <description>
+
+
+
+интерактивный, монтируется в стойку, 5000 ВА / 3750 Вт, количество выходных разъемов:  10, время работы: 5.7 мин, RS-232, Ethernet 10/100, защита локальной сети
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>интерактивный</value>
+        </item>
+        <item>
+          <name>Выходная мощность</name>
+          <value>5000 ВА / 4000 Вт</value>
+        </item>
+        <item>
+          <name>Время работы при полной нагрузке</name>
+          <value>5.7 мин</value>
+        </item>
+        <item>
+          <name>Время работы при половинной нагрузке </name>
+          <value>18.8 мин</value>
+        </item>
+        <item>
+          <name>Форма выходного сигнала</name>
+          <value>синусоида</value>
+        </item>
+        <item>
+          <name>Макс. поглощаемая энергия импульса</name>
+          <value>480 Дж</value>
+        </item>
+        <item>
+          <name>Количество выходных разъемов питания</name>
+          <value>10</value>
+        </item>
+        <item>
+          <name>Тип выходных разъемов питания</name>
+          <value>IEC 320 C13 (компьютерный)</value>
+        </item>
+        <item>
+          <name>Возможность установки в стойку</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Коэффициент полезного действия</name>
+          <value>96%</value>
+        </item>
+      </items>
+      <items>
+        <name>Вход / Выход</name>
+        <item>
+          <name>На входе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>На выходе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>Входное напряжение</name>
+          <value>160 - 286 В</value>
+        </item>
+        <item>
+          <name>Входная частота</name>
+          <value>47 - 63 Гц</value>
+        </item>
+        <item>
+          <name>Стабильность выходного напряжения (батарейный режим)</name>
+          <value>± 5 %</value>
+        </item>
+        <item>
+          <name>Выходная частота</name>
+          <value>47 - 63 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>RS-232</value>
+        </item>
+        <item>
+          <name>Слот для дополнительных интерфейсов</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>Отображение информации</name>
+          <value>светодиодные индикаторы</value>
+        </item>
+        <item>
+          <name>Звуковая сигнализация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Холодный старт</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Батарея</name>
+        <item>
+          <name>Время зарядки</name>
+          <value>3 час</value>
+        </item>
+        <item>
+          <name>Возможность замены батарей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Защита</name>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от высоковольтных импульсов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фильтрация помех</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тип предохранителя</name>
+          <value>автоматический</value>
+        </item>
+        <item>
+          <name>Защита локальной сети </name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Уровень шума</name>
+          <value>53 дБ</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Габариты (ШxВxГ)</name>
+          <value>483x222x660 мм</value>
+        </item>
+        <item>
+          <name>Высота (в юнитах)</name>
+          <value>5 U</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>97.73 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="73490">
+    <title>APC by Schneider Electric Smart-UPS 2200VA USB &amp;amp;amp; Serial RM 2U 230V</title>
+    <model>Smart-UPS 2200VA USB &amp;amp;amp; Serial RM 2U 230V</model>
+    <marka>APC by Schneider Electric</marka>
+    <catalog id="969705">Источники бесперебойного питания</catalog>
+    
+    <price1>41320</price1>
+    <price2>55380</price2>
+    <description>
+
+
+
+интерактивный, монтируется в стойку, 2200 ВА / 1980 Вт, количество выходных разъемов:  9 (9 с питанием от батареи), время работы: 5.2 мин, USB, RS-232
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>интерактивный</value>
+        </item>
+        <item>
+          <name>Выходная мощность</name>
+          <value>2200 ВА / 1980 Вт</value>
+        </item>
+        <item>
+          <name>Время работы при полной нагрузке</name>
+          <value>5.2 мин</value>
+        </item>
+        <item>
+          <name>Время работы при половинной нагрузке </name>
+          <value>15.7 мин</value>
+        </item>
+        <item>
+          <name>Форма выходного сигнала</name>
+          <value>синусоида</value>
+        </item>
+        <item>
+          <name>Макс. поглощаемая энергия импульса</name>
+          <value>480 Дж</value>
+        </item>
+        <item>
+          <name>Количество выходных разъемов питания</name>
+          <value>9 (из них с питанием от батарей - 9)</value>
+        </item>
+        <item>
+          <name>Тип выходных разъемов питания</name>
+          <value>IEC 320 C13 (компьютерный)</value>
+        </item>
+        <item>
+          <name>Возможность установки в стойку</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Вход / Выход</name>
+        <item>
+          <name>На входе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>На выходе</name>
+          <value>1-фазное напряжение</value>
+        </item>
+        <item>
+          <name>Входное напряжение</name>
+          <value>160 - 286 В</value>
+        </item>
+        <item>
+          <name>Стабильность выходного напряжения (батарейный режим)</name>
+          <value>± 5 %</value>
+        </item>
+        <item>
+          <name>Выходная частота</name>
+          <value>47 - 53 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB, RS-232</value>
+        </item>
+        <item>
+          <name>Слот для дополнительных интерфейсов</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>Отображение информации</name>
+          <value>светодиодные индикаторы</value>
+        </item>
+        <item>
+          <name>Звуковая сигнализация</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Батарея</name>
+        <item>
+          <name>Время зарядки</name>
+          <value>3 час</value>
+        </item>
+        <item>
+          <name>Возможность замены батарей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Защита</name>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от высоковольтных импульсов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фильтрация помех</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от короткого замыкания</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Габариты (ШxВxГ)</name>
+          <value>483x89x660 мм</value>
+        </item>
+        <item>
+          <name>Высота (в юнитах)</name>
+          <value>2 U</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>43.64 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

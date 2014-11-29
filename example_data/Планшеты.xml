@@ -1,0 +1,3768 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="80773">
+    <title>Apple iPad 3 64Gb Wi-Fi + Cellular</title>
+    <model>iPad 3 64Gb Wi-Fi + Cellular</model>
+    <marka>Apple</marka>
+    <catalog id="6427101">Планшеты</catalog>
+    
+    <price1>19900</price1>
+    <price2>29370</price2>
+    <description>
+экран 9.7&amp;quot;, 2048x1536, емкостный, мультитач, iOS, встроенная память 64 Гб, Wi-Fi, Bluetooth, 3G, LTE, GPS, ГЛОНАСС, гироскоп, две фотокамеры, подключение к компьютеру по USB, вес 662 г
+
+</description>
+    <specification>
+      <items>
+        <name>Система</name>
+        <item>
+          <name>Операционная система</name>
+          <value>iOS</value>
+        </item>
+        <item>
+          <name>Процессор/чипсет</name>
+          <value>Apple A5X 1000 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>64 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Экран</name>
+          <value>9.7", 2048x1536</value>
+        </item>
+        <item>
+          <name>Широкоформатный экран</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Тип экрана</name>
+          <value>TFT IPS, глянцевый</value>
+        </item>
+        <item>
+          <name>Сенсорный экран</name>
+          <value>емкостный, мультитач</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>264</value>
+        </item>
+        <item>
+          <name>Устойчивое к царапинам стекло</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>PowerVR SGX543MP4</value>
+        </item>
+      </items>
+      <items>
+        <name>Беспроводная связь</name>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>есть, Wi-Fi 802.11n</value>
+        </item>
+        <item>
+          <name>Поддержка Bluetooth</name>
+          <value>есть, Bluetooth 4.0</value>
+        </item>
+        <item>
+          <name>Тип SIM-карты</name>
+          <value>micro SIM</value>
+        </item>
+        <item>
+          <name>Мобильная связь</name>
+          <value>3G, EDGE, HSCSD, HSDPA, HSUPA, HSPA+, GPRS, GSM900, GSM1800, GSM1900, LTE (AT&amp;T 700, 2100 МГц / Verizon 700 МГц)</value>
+        </item>
+      </items>
+      <items>
+        <name>Фотокамера</name>
+        <item>
+          <name>Тыловая камера</name>
+          <value>есть, 5 млн пикс.</value>
+        </item>
+        <item>
+          <name>Особенности тыловой камеры</name>
+          <value>автофокус</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенный динамик</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>GPS</name>
+          <value>есть, с поддержкой A-GPS</value>
+        </item>
+        <item>
+          <name>ГЛОНАСС</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая ориентация экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>акселерометр, гироскоп, компас, датчик освещенности</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Аудио</name>
+          <value>AAC, Apple Lossless, WAV, MP3</value>
+        </item>
+        <item>
+          <name>Видео</name>
+          <value>MPEG-4, H.264, MOV, MP4, M-JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Подключение к компьютеру по USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешних устройств по USB</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Подключение к телевизору/монитору</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Выход аудио/наушники</name>
+          <value>есть, 3.5 мм</value>
+        </item>
+        <item>
+          <name>Разъем для док-станции</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы</name>
+          <value>10 ч</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>11560 мАч</value>
+        </item>
+        <item>
+          <name>Зарядка от USB</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ДхШхГ)</name>
+          <value>241x186x9 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>662 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>планшет, кабель для подключения док-станции к порту USB, адаптер питания 10 Вт, документация</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>технология экрана - Retina Display; камера - запись видео 1080p, автодетекция лица; время работы - 9 часов в режиме LTE; технология AirPlay, iCloud; цвета - черный, белый</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80777">
+    <title>Apple iPad 3 16Gb Wi-Fi + Cellular</title>
+    <model>iPad 3 16Gb Wi-Fi + Cellular</model>
+    <marka>Apple</marka>
+    <catalog id="6427101">Планшеты</catalog>
+    
+    <price1>18500</price1>
+    <price2>22999</price2>
+    <description>
+экран 9.7&amp;quot;, 2048x1536, емкостный, мультитач, iOS, встроенная память 16 Гб, Wi-Fi, Bluetooth, 3G, LTE, GPS, ГЛОНАСС, гироскоп, две фотокамеры, подключение к компьютеру по USB, вес 662 г
+
+</description>
+    <specification>
+      <items>
+        <name>Система</name>
+        <item>
+          <name>Операционная система</name>
+          <value>iOS</value>
+        </item>
+        <item>
+          <name>Процессор/чипсет</name>
+          <value>Apple A5X 1000 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>16 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Экран</name>
+          <value>9.7", 2048x1536</value>
+        </item>
+        <item>
+          <name>Широкоформатный экран</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Тип экрана</name>
+          <value>глянцевый</value>
+        </item>
+        <item>
+          <name>Сенсорный экран</name>
+          <value>емкостный, мультитач</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>264</value>
+        </item>
+        <item>
+          <name>Устойчивое к царапинам стекло</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>PowerVR SGX543MP4</value>
+        </item>
+      </items>
+      <items>
+        <name>Беспроводная связь</name>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>есть, Wi-Fi 802.11n</value>
+        </item>
+        <item>
+          <name>Поддержка Bluetooth</name>
+          <value>есть, Bluetooth 4.0</value>
+        </item>
+        <item>
+          <name>Тип SIM-карты</name>
+          <value>micro SIM</value>
+        </item>
+        <item>
+          <name>Мобильная связь</name>
+          <value>3G, EDGE, HSCSD, HSDPA, HSUPA, HSPA+, GPRS, GSM900, GSM1800, GSM1900, LTE (AT&amp;T 700, 2100 МГц / Verizon 700 МГц)</value>
+        </item>
+      </items>
+      <items>
+        <name>Фотокамера</name>
+        <item>
+          <name>Тыловая камера</name>
+          <value>есть, 5 млн пикс.</value>
+        </item>
+        <item>
+          <name>Особенности тыловой камеры</name>
+          <value>автофокус</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенный динамик</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>GPS</name>
+          <value>есть, с поддержкой A-GPS</value>
+        </item>
+        <item>
+          <name>ГЛОНАСС</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая ориентация экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>акселерометр, гироскоп, компас, датчик освещенности</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Аудио</name>
+          <value>AAC, Apple Lossless, WAV, MP3</value>
+        </item>
+        <item>
+          <name>Видео</name>
+          <value>MPEG-4, H.264, MOV, MP4, M-JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Подключение к компьютеру по USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешних устройств по USB</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Подключение к телевизору/монитору</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Выход аудио/наушники</name>
+          <value>есть, 3.5 мм</value>
+        </item>
+        <item>
+          <name>Разъем для док-станции</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы</name>
+          <value>10 ч</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>11560 мАч</value>
+        </item>
+        <item>
+          <name>Зарядка от USB</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ДхШхГ)</name>
+          <value>241x186x9 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>662 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>планшет, кабель для подключения док-станции к порту USB, адаптер питания 10 Вт, документация</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>технология экрана - Retina Display; камера - запись видео 1080p, автодетекция лица; время работы - 9 часов в режиме LTE; технология AirPlay, iCloud; цвета - черный, белый</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80778">
+    <title>Apple iPad 3 32Gb Wi-Fi + Cellular</title>
+    <model>iPad 3 32Gb Wi-Fi + Cellular</model>
+    <marka>Apple</marka>
+    <catalog id="6427101">Планшеты</catalog>
+    
+    <price1>21500</price1>
+    <price2>25999</price2>
+    <description>
+экран 9.7&amp;quot;, 2048x1536, емкостный, мультитач, iOS, встроенная память 32 Гб, Wi-Fi, Bluetooth, 3G, LTE, GPS, ГЛОНАСС, гироскоп, две фотокамеры, подключение к компьютеру по USB, вес 662 г
+
+</description>
+    <specification>
+      <items>
+        <name>Система</name>
+        <item>
+          <name>Операционная система</name>
+          <value>iOS</value>
+        </item>
+        <item>
+          <name>Процессор/чипсет</name>
+          <value>Apple A5X 1000 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>1 Гб</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>32 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Экран</name>
+          <value>9.7", 2048x1536</value>
+        </item>
+        <item>
+          <name>Широкоформатный экран</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Тип экрана</name>
+          <value>глянцевый</value>
+        </item>
+        <item>
+          <name>Сенсорный экран</name>
+          <value>емкостный, мультитач</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>264</value>
+        </item>
+        <item>
+          <name>Устойчивое к царапинам стекло</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>PowerVR SGX543MP4</value>
+        </item>
+      </items>
+      <items>
+        <name>Беспроводная связь</name>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>есть, Wi-Fi 802.11n</value>
+        </item>
+        <item>
+          <name>Поддержка Bluetooth</name>
+          <value>есть, Bluetooth 4.0</value>
+        </item>
+        <item>
+          <name>Тип SIM-карты</name>
+          <value>micro SIM</value>
+        </item>
+        <item>
+          <name>Мобильная связь</name>
+          <value>3G, EDGE, HSCSD, HSDPA, HSUPA, HSPA+, GPRS, GSM900, GSM1800, GSM1900, LTE (AT&amp;T 700, 2100 МГц / Verizon 700 МГц)</value>
+        </item>
+      </items>
+      <items>
+        <name>Фотокамера</name>
+        <item>
+          <name>Тыловая камера</name>
+          <value>есть, 5 млн пикс.</value>
+        </item>
+        <item>
+          <name>Особенности тыловой камеры</name>
+          <value>автофокус</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенный динамик</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>GPS</name>
+          <value>есть, с поддержкой A-GPS</value>
+        </item>
+        <item>
+          <name>ГЛОНАСС</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая ориентация экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>акселерометр, гироскоп, компас, датчик освещенности</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Аудио</name>
+          <value>AAC, Apple Lossless, WAV, MP3</value>
+        </item>
+        <item>
+          <name>Видео</name>
+          <value>MPEG-4, H.264, MOV, MP4, M-JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Подключение к компьютеру по USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешних устройств по USB</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Подключение к телевизору/монитору</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Выход аудио/наушники</name>
+          <value>есть, 3.5 мм</value>
+        </item>
+        <item>
+          <name>Разъем для док-станции</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы</name>
+          <value>10 ч</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>11560 мАч</value>
+        </item>
+        <item>
+          <name>Зарядка от USB</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ДхШхГ)</name>
+          <value>241x186x9 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>662 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>планшет, кабель для подключения док-станции к порту USB, адаптер питания 10 Вт, документация</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>технология экрана - Retina Display; камера - запись видео 1080p, автодетекция лица; время работы - 9 часов в режиме LTE; технология AirPlay, iCloud; цвета - черный, белый</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80892">
+    <title>Samsung Galaxy Tab 2 10.1 P5100 16Gb</title>
+    <model>Galaxy Tab 2 10.1 P5100 16Gb</model>
+    <marka>Samsung</marka>
+    <catalog id="6427101">Планшеты</catalog>
+    
+    <price1>13348</price1>
+    <price2>19400</price2>
+    <description>
+экран 10.1&amp;quot;, 1280x800, емкостный, мультитач, Android 4.0, встроенная память 16 Гб, microSDHC, Wi-Fi, Bluetooth, 3G, GPS, ГЛОНАСС, две фотокамеры, подключение к компьютеру по USB, вес 588 г
+
+</description>
+    <specification>
+      <items>
+        <name>Система</name>
+        <item>
+          <name>Операционная система</name>
+          <value>Android</value>
+        </item>
+        <item>
+          <name>Поддержка</name>
+          <value>Android 4.0</value>
+        </item>
+        <item>
+          <name>Процессор/чипсет</name>
+          <value>TI OMAP4430 1000 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>1 Гб</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>16 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>microSDHC</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Экран</name>
+          <value>10.1", 1280x800</value>
+        </item>
+        <item>
+          <name>Широкоформатный экран</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Тип экрана</name>
+          <value>TFT PLS, глянцевый</value>
+        </item>
+        <item>
+          <name>Сенсорный экран</name>
+          <value>емкостный, мультитач</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>149</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>PowerVR SGX540</value>
+        </item>
+      </items>
+      <items>
+        <name>Беспроводная связь</name>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>есть, Wi-Fi 802.11n</value>
+        </item>
+        <item>
+          <name>Поддержка Bluetooth</name>
+          <value>есть, Bluetooth 3.0 HS</value>
+        </item>
+        <item>
+          <name>Работа в режиме сотового телефона</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мобильная связь</name>
+          <value>3G, HSPA+, GPRS</value>
+        </item>
+      </items>
+      <items>
+        <name>Фотокамера</name>
+        <item>
+          <name>Тыловая камера</name>
+          <value>есть, 3 млн пикс.</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть, 0.3 млн пикс.</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные динамики</name>
+          <value>есть, звук стерео</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>GPS</name>
+          <value>есть, с поддержкой A-GPS</value>
+        </item>
+        <item>
+          <name>Автоматическая ориентация экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>акселерометр, гироскоп, компас, датчик освещенности</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Аудио</name>
+          <value>AAC, WMA, WAV, FLAC, MP3</value>
+        </item>
+        <item>
+          <name>Видео</name>
+          <value>MPEG-4, WMV, MKV, H.264, H.263</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Подключение к компьютеру по USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешних устройств по USB</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Выход аудио/наушники</name>
+          <value>есть, 3.5 мм</value>
+        </item>
+        <item>
+          <name>Подключение гарнитуры</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>7000 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ДхШхГ)</name>
+          <value>257x175x10 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>588 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>планшет, зарядное устройство, USB-кабель, руководство пользователя</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>поддержка форматов: 3GA, 3GP, AAC+, AMR, EAAC+, MID, MP3, RA, 3GPP, ASF, AVI, FLV, VP8, XviD</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80895">
+    <title>Apple iPad 2 16Gb Wi-Fi + 3G</title>
+    <model>iPad 2 16Gb Wi-Fi + 3G</model>
+    <marka>Apple</marka>
+    <catalog id="6427101">Планшеты</catalog>
+    
+    <price1>17589</price1>
+    <price2>20900</price2>
+    <description>
+экран 9.7&amp;quot;, 1024x768, емкостный, мультитач, iOS, встроенная память 16 Гб, Wi-Fi, Bluetooth, 3G, GPS, гироскоп, две фотокамеры, вес 613 г
+
+</description>
+    <specification>
+      <items>
+        <name>Система</name>
+        <item>
+          <name>Операционная система</name>
+          <value>iOS</value>
+        </item>
+        <item>
+          <name>Процессор/чипсет</name>
+          <value>Apple A5 1000 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>512 Мб</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>16 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Экран</name>
+          <value>9.7", 1024x768</value>
+        </item>
+        <item>
+          <name>Широкоформатный экран</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Тип экрана</name>
+          <value>TFT IPS, глянцевый</value>
+        </item>
+        <item>
+          <name>Сенсорный экран</name>
+          <value>емкостный, мультитач</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>132</value>
+        </item>
+        <item>
+          <name>Устойчивое к царапинам стекло</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>PowerVR SGX543MP2</value>
+        </item>
+      </items>
+      <items>
+        <name>Беспроводная связь</name>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>есть, Wi-Fi 802.11n</value>
+        </item>
+        <item>
+          <name>Поддержка Bluetooth</name>
+          <value>есть, Bluetooth 2.1 EDR</value>
+        </item>
+        <item>
+          <name>Тип SIM-карты</name>
+          <value>micro SIM</value>
+        </item>
+        <item>
+          <name>Мобильная связь</name>
+          <value>3G, EDGE, HSDPA, HSUPA, GPRS, GSM900, GSM1800, GSM1900</value>
+        </item>
+      </items>
+      <items>
+        <name>Фотокамера</name>
+        <item>
+          <name>Тыловая камера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенный динамик</name>
+          <value>есть, звук моно</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>GPS</name>
+          <value>есть, с поддержкой A-GPS</value>
+        </item>
+        <item>
+          <name>Автоматическая ориентация экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>акселерометр, гироскоп, компас, датчик освещенности</value>
+        </item>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>опционально</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Аудио</name>
+          <value>AAC, Apple Lossless, WAV, MP3</value>
+        </item>
+        <item>
+          <name>Видео</name>
+          <value>MPEG-4, H.264, MOV, MP4, M-JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Подключение к компьютеру по USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешних устройств по USB</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Подключение к телевизору/монитору</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Выход аудио/наушники</name>
+          <value>есть, 3.5 мм</value>
+        </item>
+        <item>
+          <name>Разъем для док-станции</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы</name>
+          <value>10 ч</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>6930 мАч (25 Втч)</value>
+        </item>
+        <item>
+          <name>Зарядка от USB</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ДхШхГ)</name>
+          <value>241x186x9 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>613 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>iPad 2, кабель для подключения док-станции к порту USB, адаптер питания 10 Вт, документация</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80901">
+    <title>Apple iPad 2 16Gb Wi-Fi</title>
+    <model>iPad 2 16Gb Wi-Fi</model>
+    <marka>Apple</marka>
+    <catalog id="6427101">Планшеты</catalog>
+    
+    <price1>12750</price1>
+    <price2>17600</price2>
+    <description>
+экран 9.7&amp;quot;, 1024x768, емкостный, мультитач, iOS, встроенная память 16 Гб, Wi-Fi, Bluetooth, гироскоп, две фотокамеры, вес 601 г
+
+</description>
+    <specification>
+      <items>
+        <name>Система</name>
+        <item>
+          <name>Операционная система</name>
+          <value>iOS</value>
+        </item>
+        <item>
+          <name>Процессор/чипсет</name>
+          <value>Apple A5 1000 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>512 Мб</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>16 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Экран</name>
+          <value>9.7", 1024x768</value>
+        </item>
+        <item>
+          <name>Широкоформатный экран</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Тип экрана</name>
+          <value>TFT IPS, глянцевый</value>
+        </item>
+        <item>
+          <name>Сенсорный экран</name>
+          <value>емкостный, мультитач</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>132</value>
+        </item>
+        <item>
+          <name>Устойчивое к царапинам стекло</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>PowerVR SGX543MP2</value>
+        </item>
+      </items>
+      <items>
+        <name>Беспроводная связь</name>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>есть, Wi-Fi 802.11n</value>
+        </item>
+        <item>
+          <name>Поддержка Bluetooth</name>
+          <value>есть, Bluetooth 2.1 EDR</value>
+        </item>
+      </items>
+      <items>
+        <name>Фотокамера</name>
+        <item>
+          <name>Тыловая камера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенный динамик</name>
+          <value>есть, звук моно</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>Автоматическая ориентация экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>акселерометр, гироскоп, компас, датчик освещенности</value>
+        </item>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>опционально</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Аудио</name>
+          <value>AAC, Apple Lossless, WAV, MP3</value>
+        </item>
+        <item>
+          <name>Видео</name>
+          <value>MPEG-4, H.264, MOV, MP4, M-JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Подключение к компьютеру по USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешних устройств по USB</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Подключение к телевизору/монитору</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Выход аудио/наушники</name>
+          <value>есть, 3.5 мм</value>
+        </item>
+        <item>
+          <name>Разъем для док-станции</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы</name>
+          <value>10 ч</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>6930 мАч (25 Втч)</value>
+        </item>
+        <item>
+          <name>Зарядка от USB</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ДхШхГ)</name>
+          <value>241x186x9 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>601 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>iPad 2, кабель для подключения док-станции к порту USB, адаптер питания 10 Вт, документация</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80904">
+    <title>Apple iPad 3 64Gb Wi-Fi</title>
+    <model>iPad 3 64Gb Wi-Fi</model>
+    <marka>Apple</marka>
+    <catalog id="6427101">Планшеты</catalog>
+    
+    <price1>17768</price1>
+    <price2>22290</price2>
+    <description>
+экран 9.7&amp;quot;, 2048x1536, емкостный, мультитач, iOS, встроенная память 64 Гб, Wi-Fi, Bluetooth, гироскоп, две фотокамеры, подключение к компьютеру по USB, вес 652 г
+
+</description>
+    <specification>
+      <items>
+        <name>Система</name>
+        <item>
+          <name>Операционная система</name>
+          <value>iOS</value>
+        </item>
+        <item>
+          <name>Процессор/чипсет</name>
+          <value>Apple A5X 1000 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>64 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Экран</name>
+          <value>9.7", 2048x1536</value>
+        </item>
+        <item>
+          <name>Широкоформатный экран</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Тип экрана</name>
+          <value>глянцевый</value>
+        </item>
+        <item>
+          <name>Сенсорный экран</name>
+          <value>емкостный, мультитач</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>264</value>
+        </item>
+        <item>
+          <name>Устойчивое к царапинам стекло</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>PowerVR SGX543MP4</value>
+        </item>
+      </items>
+      <items>
+        <name>Беспроводная связь</name>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>есть, Wi-Fi 802.11n</value>
+        </item>
+        <item>
+          <name>Поддержка Bluetooth</name>
+          <value>есть, Bluetooth 4.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Фотокамера</name>
+        <item>
+          <name>Тыловая камера</name>
+          <value>есть, 5 млн пикс.</value>
+        </item>
+        <item>
+          <name>Особенности тыловой камеры</name>
+          <value>автофокус</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенный динамик</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>Автоматическая ориентация экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>акселерометр, гироскоп, компас, датчик освещенности</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Аудио</name>
+          <value>AAC, Apple Lossless, WAV, MP3</value>
+        </item>
+        <item>
+          <name>Видео</name>
+          <value>MPEG-4, H.264, MOV, MP4, M-JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Подключение к компьютеру по USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешних устройств по USB</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Подключение к телевизору/монитору</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Выход аудио/наушники</name>
+          <value>есть, 3.5 мм</value>
+        </item>
+        <item>
+          <name>Разъем для док-станции</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы</name>
+          <value>10 ч</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>11560 мАч</value>
+        </item>
+        <item>
+          <name>Зарядка от USB</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ДхШхГ)</name>
+          <value>241x186x9 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>652 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>планшет, кабель для подключения док-станции к порту USB, адаптер питания 10 Вт, документация</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>технология экрана - Retina Display; камера - запись видео 1080p, автодетекция лица; технология AirPlay, iCloud; цвета - черный, белый</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80907">
+    <title>Samsung Galaxy Tab 2 7.0 P3110 8Gb</title>
+    <model>Galaxy Tab 2 7.0 P3110 8Gb</model>
+    <marka>Samsung</marka>
+    <catalog id="6427101">Планшеты</catalog>
+    
+    <price1>5690</price1>
+    <price2>9650</price2>
+    <description>
+экран 7&amp;quot;, 1024x600, емкостный, мультитач, Android 4.0, встроенная память 8 Гб, microSDHC, Wi-Fi, Bluetooth, GPS, ГЛОНАСС, две фотокамеры, подключение к компьютеру по USB, вес 344 г
+
+</description>
+    <specification>
+      <items>
+        <name>Система</name>
+        <item>
+          <name>Операционная система</name>
+          <value>Android</value>
+        </item>
+        <item>
+          <name>Поддержка</name>
+          <value>Android 4.1</value>
+        </item>
+        <item>
+          <name>Процессор/чипсет</name>
+          <value>TI OMAP4430 1000 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>1 Гб</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>8 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>microSDHC</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Экран</name>
+          <value>7", 1024x600</value>
+        </item>
+        <item>
+          <name>Широкоформатный экран</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Тип экрана</name>
+          <value>TFT PLS, глянцевый</value>
+        </item>
+        <item>
+          <name>Сенсорный экран</name>
+          <value>емкостный, мультитач</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>170</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>PowerVR SGX540</value>
+        </item>
+      </items>
+      <items>
+        <name>Беспроводная связь</name>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>есть, Wi-Fi 802.11n, WiFi Direct, DLNA</value>
+        </item>
+        <item>
+          <name>Поддержка Bluetooth</name>
+          <value>есть, Bluetooth 3.0 HS</value>
+        </item>
+      </items>
+      <items>
+        <name>Фотокамера</name>
+        <item>
+          <name>Тыловая камера</name>
+          <value>есть, 3 млн пикс.</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть, 0.3 млн пикс.</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные динамики</name>
+          <value>есть, звук стерео</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>GPS</name>
+          <value>есть, с поддержкой A-GPS</value>
+        </item>
+        <item>
+          <name>ГЛОНАСС</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая ориентация экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>акселерометр, компас, датчик приближения, датчик освещенности</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Подключение к компьютеру по USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешних устройств по USB</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Выход аудио/наушники</name>
+          <value>есть, 3.5 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>4000 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ДхШхГ)</name>
+          <value>194x122x11 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>344 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>планшет, USB-кабель, сетевой адаптер, инструкция</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80913">
+    <title>Samsung Galaxy Tab 2 7.0 P3100 8Gb</title>
+    <model>Galaxy Tab 2 7.0 P3100 8Gb</model>
+    <marka>Samsung</marka>
+    <catalog id="6427101">Планшеты</catalog>
+    
+    <price1>8400</price1>
+    <price2>12990</price2>
+    <description>
+экран 7&amp;quot;, 1024x600, емкостный, мультитач, Android 4.0, встроенная память 8 Гб, microSDHC, Wi-Fi, Bluetooth, 3G, GPS, ГЛОНАСС, две фотокамеры, подключение к компьютеру по USB, вес 344 г
+
+</description>
+    <specification>
+      <items>
+        <name>Система</name>
+        <item>
+          <name>Операционная система</name>
+          <value>Android</value>
+        </item>
+        <item>
+          <name>Поддержка</name>
+          <value>Android 4.2</value>
+        </item>
+        <item>
+          <name>Процессор/чипсет</name>
+          <value>TI OMAP4430 1000 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>1 Гб</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>8 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>microSDHC, до 32 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Экран</name>
+          <value>7", 1024x600</value>
+        </item>
+        <item>
+          <name>Широкоформатный экран</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Тип экрана</name>
+          <value>TFT PLS, глянцевый</value>
+        </item>
+        <item>
+          <name>Сенсорный экран</name>
+          <value>емкостный, мультитач</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>170</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>PowerVR SGX540</value>
+        </item>
+      </items>
+      <items>
+        <name>Беспроводная связь</name>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>есть, Wi-Fi 802.11n, WiFi Direct, DLNA</value>
+        </item>
+        <item>
+          <name>Поддержка Bluetooth</name>
+          <value>есть, Bluetooth 3.0 HS</value>
+        </item>
+        <item>
+          <name>Работа в режиме сотового телефона</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мобильная связь</name>
+          <value>3G, EDGE, HSCSD, HSDPA, HSUPA, HSPA+, GPRS, GSM900, GSM1800, GSM1900</value>
+        </item>
+      </items>
+      <items>
+        <name>Фотокамера</name>
+        <item>
+          <name>Тыловая камера</name>
+          <value>есть, 3 млн пикс.</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть, 0.3 млн пикс.</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные динамики</name>
+          <value>есть, звук стерео</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>GPS</name>
+          <value>есть, с поддержкой A-GPS</value>
+        </item>
+        <item>
+          <name>ГЛОНАСС</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая ориентация экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>акселерометр, компас, датчик приближения, датчик освещенности</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Подключение к компьютеру по USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешних устройств по USB</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Выход аудио/наушники</name>
+          <value>есть, 3.5 мм</value>
+        </item>
+        <item>
+          <name>Разъем для док-станции</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>4000 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ДхШхГ)</name>
+          <value>194x122x11 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>344 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>планшет, USB-кабель, сетевой адаптер</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80924">
+    <title>ASUS Transformer Pad TF300TG 32Gb 3G</title>
+    <model>Transformer Pad TF300TG 32Gb 3G</model>
+    <marka>ASUS</marka>
+    <catalog id="6427101">Планшеты</catalog>
+    
+    <price1>12520</price1>
+    <price2>19663</price2>
+    <description>
+экран 10.1&amp;quot;, 1280x800, емкостный, мультитач, Android 4.0, встроенная память 32 Гб, microSDHC, Wi-Fi, Bluetooth, 3G, GPS, гироскоп, две фотокамеры, mini HDMI, подключение к компьютеру по USB, вес 635 г
+
+</description>
+    <specification>
+      <items>
+        <name>Система</name>
+        <item>
+          <name>Операционная система</name>
+          <value>Android</value>
+        </item>
+        <item>
+          <name>Поддержка</name>
+          <value>Android 4.0</value>
+        </item>
+        <item>
+          <name>Процессор/чипсет</name>
+          <value>Nvidia Tegra 3 1200 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>1 Гб</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>32 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>microSDHC</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Экран</name>
+          <value>10.1", 1280x800</value>
+        </item>
+        <item>
+          <name>Широкоформатный экран</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Тип экрана</name>
+          <value>TFT IPS, глянцевый</value>
+        </item>
+        <item>
+          <name>Сенсорный экран</name>
+          <value>емкостный, мультитач</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>149</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>NVIDIA GeForce ULP</value>
+        </item>
+      </items>
+      <items>
+        <name>Беспроводная связь</name>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>есть, Wi-Fi 802.11n</value>
+        </item>
+        <item>
+          <name>Поддержка Bluetooth</name>
+          <value>есть, Bluetooth 3.0 HS</value>
+        </item>
+        <item>
+          <name>Мобильная связь</name>
+          <value>3G, EDGE, HSCSD, HSDPA, HSUPA, HSPA+, GPRS, GSM900, GSM1800, GSM1900</value>
+        </item>
+      </items>
+      <items>
+        <name>Фотокамера</name>
+        <item>
+          <name>Тыловая камера</name>
+          <value>есть, 8 млн пикс.</value>
+        </item>
+        <item>
+          <name>Особенности тыловой камеры</name>
+          <value>автофокус</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть, 1.2 млн пикс.</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенный динамик</name>
+          <value>есть, звук моно</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>GPS</name>
+          <value>есть, с поддержкой A-GPS</value>
+        </item>
+        <item>
+          <name>Автоматическая ориентация экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>акселерометр, гироскоп, компас, датчик освещенности</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Подключение к компьютеру по USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешних устройств по USB</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Подключение к телевизору/монитору</name>
+          <value>micro HDMI</value>
+        </item>
+        <item>
+          <name>Выход аудио/наушники</name>
+          <value>есть, 3.5 мм</value>
+        </item>
+        <item>
+          <name>Микрофонный вход</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение гарнитуры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для док-станции</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы</name>
+          <value>9 ч</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>6756 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ДхШхГ)</name>
+          <value>263x181x10 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>635 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>запись видео в формате 1080p; тыловая камера: диафрагменное число – F/2,2; цвет - голубой, белый, красный</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80936">
+    <title>Acer Iconia Tab A701 32Gb</title>
+    <model>Iconia Tab A701 32Gb</model>
+    <marka>Acer</marka>
+    <catalog id="6427101">Планшеты</catalog>
+    
+    <price1>9200</price1>
+    <price2>17270</price2>
+    <description>
+экран 10.1&amp;quot;, 1920x1200, емкостный, мультитач, Android 4.0, встроенная память 32 Гб, microSDHC, Wi-Fi, Bluetooth, 3G, GPS, ГЛОНАСС, гироскоп, две фотокамеры, micro HDMI, подключение к компьютеру по USB, вес 685 г
+
+</description>
+    <specification>
+      <items>
+        <name>Система</name>
+        <item>
+          <name>Операционная система</name>
+          <value>Android</value>
+        </item>
+        <item>
+          <name>Поддержка</name>
+          <value>Android 4.1</value>
+        </item>
+        <item>
+          <name>Процессор/чипсет</name>
+          <value>Nvidia Tegra 3 1300 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>1 Гб</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>32 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>microSDHC, до 32 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Экран</name>
+          <value>10.1", 1920x1200</value>
+        </item>
+        <item>
+          <name>Широкоформатный экран</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Тип экрана</name>
+          <value>TFT IPS, глянцевый</value>
+        </item>
+        <item>
+          <name>Сенсорный экран</name>
+          <value>емкостный, мультитач</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>224</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>NVIDIA GeForce ULP</value>
+        </item>
+      </items>
+      <items>
+        <name>Беспроводная связь</name>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>есть, Wi-Fi 802.11n</value>
+        </item>
+        <item>
+          <name>Поддержка Bluetooth</name>
+          <value>есть, Bluetooth 2.1 EDR</value>
+        </item>
+        <item>
+          <name>Мобильная связь</name>
+          <value>3G, EDGE, HSCSD, HSDPA, HSUPA, HSPA+, GPRS, GSM900, GSM1800, GSM1900</value>
+        </item>
+      </items>
+      <items>
+        <name>Фотокамера</name>
+        <item>
+          <name>Тыловая камера</name>
+          <value>есть, 5 млн пикс.</value>
+        </item>
+        <item>
+          <name>Особенности тыловой камеры</name>
+          <value>автофокус</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть, 1 млн пикс.</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные динамики</name>
+          <value>есть, звук стерео</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>GPS</name>
+          <value>есть, с поддержкой A-GPS</value>
+        </item>
+        <item>
+          <name>ГЛОНАСС</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая ориентация экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>акселерометр, гироскоп, компас, датчик приближения, датчик освещенности</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Подключение к компьютеру по USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешних устройств по USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение к телевизору/монитору</name>
+          <value>micro HDMI</value>
+        </item>
+        <item>
+          <name>Выход аудио/наушники</name>
+          <value>есть, 3.5 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы (видео)</name>
+          <value>10 ч</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>9800 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ДхШхГ)</name>
+          <value>260x175x11 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>685 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80938">
+    <title>ASUS Transformer Pad Infinity TF700T 64Gb dock</title>
+    <model>Transformer Pad Infinity TF700T 64Gb dock</model>
+    <marka>ASUS</marka>
+    <catalog id="6427101">Планшеты</catalog>
+    
+    <price1>27950</price1>
+    <price2>30976</price2>
+    <description>
+экран 10.1&amp;quot;, 1920x1200, емкостный, мультитач, Android 4.0, встроенная память 64 Гб, microSDXC, Wi-Fi, Bluetooth, GPS, гироскоп, две фотокамеры, micro HDMI, подключение к компьютеру по USB, вес 586 г
+
+</description>
+    <specification>
+      <items>
+        <name>Система</name>
+        <item>
+          <name>Операционная система</name>
+          <value>Android</value>
+        </item>
+        <item>
+          <name>Поддержка</name>
+          <value>Android 4.0</value>
+        </item>
+        <item>
+          <name>Процессор/чипсет</name>
+          <value>Nvidia Tegra 3 1600 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>1 Гб</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>64 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>microSDXC</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Экран</name>
+          <value>10.1", 1920x1200</value>
+        </item>
+        <item>
+          <name>Широкоформатный экран</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Тип экрана</name>
+          <value>TFT Super IPS+, глянцевый</value>
+        </item>
+        <item>
+          <name>Сенсорный экран</name>
+          <value>емкостный, мультитач</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>224</value>
+        </item>
+        <item>
+          <name>Устойчивое к царапинам стекло</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>NVIDIA GeForce ULP</value>
+        </item>
+      </items>
+      <items>
+        <name>Беспроводная связь</name>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>есть, Wi-Fi 802.11n</value>
+        </item>
+        <item>
+          <name>Поддержка Bluetooth</name>
+          <value>есть, Bluetooth 3.0 HS</value>
+        </item>
+      </items>
+      <items>
+        <name>Фотокамера</name>
+        <item>
+          <name>Тыловая камера</name>
+          <value>есть, 8 млн пикс.</value>
+        </item>
+        <item>
+          <name>Особенности тыловой камеры</name>
+          <value>вспышка, автофокус</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть, 2 млн пикс.</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенный динамик</name>
+          <value>есть, звук моно</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>GPS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>ГЛОНАСС</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая ориентация экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>акселерометр, гироскоп, компас, датчик освещенности</value>
+        </item>
+        <item>
+          <name>Док-станция</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Аудио</name>
+          <value>AAC, OGG, MP3</value>
+        </item>
+        <item>
+          <name>Видео</name>
+          <value>MPEG-4, H.264, H.263</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Подключение к компьютеру по USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешних устройств по USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение к телевизору/монитору</name>
+          <value>micro HDMI</value>
+        </item>
+        <item>
+          <name>Выход аудио/наушники</name>
+          <value>есть, 3.5 мм</value>
+        </item>
+        <item>
+          <name>Микрофонный вход</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для док-станции</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы</name>
+          <value>10 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ДхШхГ)</name>
+          <value>263x181x9 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>586 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>разъемы док-станции: 1 порт USB 2.0, 1 слот для карт памяти SD; время работы с док-станцией - 16ч; размеры док-станции 263 x 180,8 x 8-10,4мм; вес док-станции - 537г; яркость экрана - 600 кд/м2; тыловая камера: диафрагменное число – F/2,2; цвет - серый, золотистый</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80941">
+    <title>Acer Iconia Tab A200 32Gb</title>
+    <model>Iconia Tab A200 32Gb</model>
+    <marka>Acer</marka>
+    <catalog id="6427101">Планшеты</catalog>
+    
+    <price1>14000</price1>
+    <price2>14300</price2>
+    <description>
+экран 10.1&amp;quot;, 1280x800, емкостный, мультитач, Android 4.0, встроенная память 32 Гб, microSD, Wi-Fi, Bluetooth, GPS, подключение к компьютеру по USB, вес 720 г
+
+</description>
+    <specification>
+      <items>
+        <name>Система</name>
+        <item>
+          <name>Операционная система</name>
+          <value>Android</value>
+        </item>
+        <item>
+          <name>Поддержка</name>
+          <value>Android 4.0</value>
+        </item>
+        <item>
+          <name>Процессор/чипсет</name>
+          <value>Nvidia Tegra 2 1000 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>1 Гб DDR2</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>32 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>microSD</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Экран</name>
+          <value>10.1", 1280x800</value>
+        </item>
+        <item>
+          <name>Широкоформатный экран</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Тип экрана</name>
+          <value>TFT, глянцевый</value>
+        </item>
+        <item>
+          <name>Сенсорный экран</name>
+          <value>емкостный, мультитач</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>149</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>NVIDIA GeForce ULP</value>
+        </item>
+      </items>
+      <items>
+        <name>Беспроводная связь</name>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>есть, Wi-Fi 802.11n</value>
+        </item>
+        <item>
+          <name>Поддержка Bluetooth</name>
+          <value>есть, Bluetooth 2.1 EDR</value>
+        </item>
+      </items>
+      <items>
+        <name>Фотокамера</name>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть, 2 млн пикс.</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенный динамик</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>GPS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая ориентация экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>акселерометр</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Подключение к компьютеру по USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешних устройств по USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Выход аудио/наушники</name>
+          <value>есть, 3.5 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы</name>
+          <value>8 ч</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>3260 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ДхШхГ)</name>
+          <value>259x175x13 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>720 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80943">
+    <title>Samsung Galaxy Tab 8.9 P7320 LTE 16Gb</title>
+    <model>Galaxy Tab 8.9 P7320 LTE 16Gb</model>
+    <marka>Samsung</marka>
+    <catalog id="6427101">Планшеты</catalog>
+    
+    <price1>14990</price1>
+    <price2>29990</price2>
+    <description>
+экран 8.9&amp;quot;, 1280x800, емкостный, мультитач, Android 3.2, встроенная память 16 Гб, Wi-Fi, Bluetooth, 3G, LTE, GPS, две фотокамеры, подключение к компьютеру по USB, вес 455 г
+
+</description>
+    <specification>
+      <items>
+        <name>Система</name>
+        <item>
+          <name>Операционная система</name>
+          <value>Android</value>
+        </item>
+        <item>
+          <name>Поддержка</name>
+          <value>Android 3.2</value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>1500 МГц</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>1 Гб</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>16 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Экран</name>
+          <value>8.9", 1280x800</value>
+        </item>
+        <item>
+          <name>Широкоформатный экран</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Сенсорный экран</name>
+          <value>емкостный, мультитач</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>170</value>
+        </item>
+      </items>
+      <items>
+        <name>Беспроводная связь</name>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>есть, Wi-Fi 802.11n</value>
+        </item>
+        <item>
+          <name>Поддержка Bluetooth</name>
+          <value>есть, Bluetooth 2.0 EDR</value>
+        </item>
+        <item>
+          <name>Мобильная связь</name>
+          <value>3G, EDGE, HSCSD, HSDPA, HSUPA, HSPA+, GPRS, GSM900, GSM1800, GSM1900, LTE (800, 1800, 2600 МГц)</value>
+        </item>
+      </items>
+      <items>
+        <name>Фотокамера</name>
+        <item>
+          <name>Тыловая камера</name>
+          <value>есть, 3.1 млн пикс.</value>
+        </item>
+        <item>
+          <name>Особенности тыловой камеры</name>
+          <value>вспышка, автофокус</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть, 1.9 млн пикс.</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные динамики</name>
+          <value>есть, звук стерео</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>GPS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая ориентация экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>акселерометр</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Подключение к компьютеру по USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешних устройств по USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Выход аудио/наушники</name>
+          <value>есть, 3.5 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>6100 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ДхШхГ)</name>
+          <value>230x158x9 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>455 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80949">
+    <title>Acer Iconia Tab A101 8Gb</title>
+    <model>Iconia Tab A101 8Gb</model>
+    <marka>Acer</marka>
+    <catalog id="6427101">Планшеты</catalog>
+    
+    <price1>5990</price1>
+    <price2>12447</price2>
+    <description>
+экран 7&amp;quot;, 1024x600, емкостный, мультитач, Android 3.2, встроенная память 8 Гб, microSDHC, Wi-Fi, Bluetooth, 3G, GPS, гироскоп, две фотокамеры, HDMI, подключение к компьютеру по USB, вес 410 г
+
+</description>
+    <specification>
+      <items>
+        <name>Система</name>
+        <item>
+          <name>Операционная система</name>
+          <value>Android</value>
+        </item>
+        <item>
+          <name>Поддержка</name>
+          <value>Android 4.0</value>
+        </item>
+        <item>
+          <name>Процессор/чипсет</name>
+          <value>Nvidia Tegra 2 1000 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>1 Гб</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>8 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>microSDHC</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Экран</name>
+          <value>7", 1024x600</value>
+        </item>
+        <item>
+          <name>Широкоформатный экран</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Тип экрана</name>
+          <value>TFT, глянцевый</value>
+        </item>
+        <item>
+          <name>Сенсорный экран</name>
+          <value>емкостный, мультитач</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>170</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>NVIDIA GeForce ULP</value>
+        </item>
+      </items>
+      <items>
+        <name>Беспроводная связь</name>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Bluetooth</name>
+          <value>есть, Bluetooth 2.1 EDR</value>
+        </item>
+        <item>
+          <name>Мобильная связь</name>
+          <value>3G, EDGE, HSDPA, HSUPA, GPRS, GSM900, GSM1800, GSM1900</value>
+        </item>
+      </items>
+      <items>
+        <name>Фотокамера</name>
+        <item>
+          <name>Тыловая камера</name>
+          <value>есть, 5 млн пикс.</value>
+        </item>
+        <item>
+          <name>Особенности тыловой камеры</name>
+          <value>вспышка, автофокус</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть, 2 млн пикс.</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные динамики</name>
+          <value>есть, звук стерео</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>GPS</name>
+          <value>есть, с поддержкой A-GPS</value>
+        </item>
+        <item>
+          <name>Автоматическая ориентация экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>акселерометр, гироскоп, датчик освещенности</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Подключение к компьютеру по USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешних устройств по USB</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Подключение к телевизору/монитору</name>
+          <value>HDMI</value>
+        </item>
+        <item>
+          <name>Выход аудио/наушники</name>
+          <value>есть, 3.5 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы</name>
+          <value>5 ч</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>3060 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ДхШхГ)</name>
+          <value>195x117x13 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>410 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Особенности</name>
+          <value>Dolby Mobile; емкость аккумулятора - 2х1530 мАч (2-секционная батарея)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80957">
+    <title>Samsung Galaxy Tab 7.0 Plus P6210 16GB</title>
+    <model>Galaxy Tab 7.0 Plus P6210 16GB</model>
+    <marka>Samsung</marka>
+    <catalog id="6427101">Планшеты</catalog>
+    
+    <price1>6490</price1>
+    <price2>11690</price2>
+    <description>
+экран 7&amp;quot;, 1024x600, емкостный, мультитач, Android 3.2, встроенная память 16 Гб, microSDHC, Wi-Fi, Bluetooth, GPS, гироскоп, две фотокамеры, подключение к компьютеру по USB, вес 343 г
+
+</description>
+    <specification>
+      <items>
+        <name>Система</name>
+        <item>
+          <name>Операционная система</name>
+          <value>Android</value>
+        </item>
+        <item>
+          <name>Поддержка</name>
+          <value>Android 3.2</value>
+        </item>
+        <item>
+          <name>Процессор/чипсет</name>
+          <value>Samsung Exynos 4210 1200 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>1 Гб</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>16 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>microSDHC, до 32 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Экран</name>
+          <value>7", 1024x600</value>
+        </item>
+        <item>
+          <name>Широкоформатный экран</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Тип экрана</name>
+          <value>TFT PLS, глянцевый</value>
+        </item>
+        <item>
+          <name>Сенсорный экран</name>
+          <value>емкостный, мультитач</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>170</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>Mali-400 MP</value>
+        </item>
+      </items>
+      <items>
+        <name>Беспроводная связь</name>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>есть, Wi-Fi 802.11n</value>
+        </item>
+        <item>
+          <name>Поддержка Bluetooth</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Фотокамера</name>
+        <item>
+          <name>Тыловая камера</name>
+          <value>есть, 3 млн пикс.</value>
+        </item>
+        <item>
+          <name>Особенности тыловой камеры</name>
+          <value>вспышка, автофокус</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть, 2 млн пикс.</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные динамики</name>
+          <value>есть, звук стерео</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>GPS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая ориентация экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>акселерометр, гироскоп, компас, датчик освещенности</value>
+        </item>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>опционально</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Аудио</name>
+          <value>AAC, WMA, WAV, FLAC, MP3</value>
+        </item>
+        <item>
+          <name>Видео</name>
+          <value>MPEG-4, WMV, MKV, H.264, H.263, MP4</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Подключение к компьютеру по USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешних устройств по USB</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Выход аудио/наушники</name>
+          <value>есть, 3.5 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы</name>
+          <value>8 ч</value>
+        </item>
+        <item>
+          <name>Время в режиме ожидания</name>
+          <value>600 ч</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>4000 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ДхШхГ)</name>
+          <value>193x122x10 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>343 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>планшет, сетевое ЗУ, гарнитура, кабель USB, насадки для наушников, краткое руководство пользователя, гарантийный талон</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>поддержка форматов MP3, AAC+, eAAC+, Vorbis, Midi, AMR NB/WB, AC3, AVI, flv, MKV, VC-1, DivX/XviD SW - VP8, DivX3.11, Sorenson H.263</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80959">
+    <title>ASUS Transformer Pad TF300TG 32Gb 3G dock</title>
+    <model>Transformer Pad TF300TG 32Gb 3G dock</model>
+    <marka>ASUS</marka>
+    <catalog id="6427101">Планшеты</catalog>
+    
+    <price1>18990</price1>
+    <price2>31730</price2>
+    <description>
+экран 10.1&amp;quot;, 1280x800, емкостный, мультитач, Android 4.0, встроенная память 32 Гб, microSDHC, Wi-Fi, Bluetooth, 3G, GPS, гироскоп, две фотокамеры, mini HDMI, подключение к компьютеру по USB, вес 635 г
+
+</description>
+    <specification>
+      <items>
+        <name>Система</name>
+        <item>
+          <name>Операционная система</name>
+          <value>Android</value>
+        </item>
+        <item>
+          <name>Поддержка</name>
+          <value>Android 4.0</value>
+        </item>
+        <item>
+          <name>Процессор/чипсет</name>
+          <value>Nvidia Tegra 3 1200 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>1 Гб</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>32 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>microSDHC</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Экран</name>
+          <value>10.1", 1280x800</value>
+        </item>
+        <item>
+          <name>Широкоформатный экран</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Тип экрана</name>
+          <value>TFT IPS, глянцевый</value>
+        </item>
+        <item>
+          <name>Сенсорный экран</name>
+          <value>емкостный, мультитач</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>149</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>NVIDIA GeForce ULP</value>
+        </item>
+      </items>
+      <items>
+        <name>Беспроводная связь</name>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Bluetooth</name>
+          <value>есть, Bluetooth 3.0 HS</value>
+        </item>
+        <item>
+          <name>Мобильная связь</name>
+          <value>3G, EDGE, HSCSD, HSDPA, HSUPA, HSPA+, GPRS, GSM900, GSM1800, GSM1900</value>
+        </item>
+      </items>
+      <items>
+        <name>Фотокамера</name>
+        <item>
+          <name>Тыловая камера</name>
+          <value>есть, 8 млн пикс.</value>
+        </item>
+        <item>
+          <name>Особенности тыловой камеры</name>
+          <value>автофокус</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть, 1.2 млн пикс.</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные динамики</name>
+          <value>есть, звук стерео</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>GPS</name>
+          <value>есть, с поддержкой A-GPS</value>
+        </item>
+        <item>
+          <name>Автоматическая ориентация экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>акселерометр, гироскоп, компас, датчик освещенности</value>
+        </item>
+        <item>
+          <name>Док-станция</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Подключение к компьютеру по USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешних устройств по USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение к телевизору/монитору</name>
+          <value>micro HDMI</value>
+        </item>
+        <item>
+          <name>Выход аудио/наушники</name>
+          <value>есть, 3.5 мм</value>
+        </item>
+        <item>
+          <name>Микрофонный вход</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для док-станции</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы</name>
+          <value>9 ч</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>6756 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ДхШхГ)</name>
+          <value>263x181x10 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>635 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>разъемы док-станции - 1 порт USB 2.0, 1 слот для карт памяти SD; время работы с док-станцией - 15; размеры док-станции - 263 x 180,8 x 10,2мм; вес док-станции - 546г; запись видео в формате 1080p; тыловая камера: диафрагменное число – F/2,2</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80960">
+    <title>ASUS Transformer Pad TF300T 32Gb</title>
+    <model>Transformer Pad TF300T 32Gb</model>
+    <marka>ASUS</marka>
+    <catalog id="6427101">Планшеты</catalog>
+    
+    <price1>11900</price1>
+    <price2>15392</price2>
+    <description>
+экран 10.1&amp;quot;, 1280x800, емкостный, мультитач, Android 4.0, встроенная память 32 Гб, microSDHC, Wi-Fi, Bluetooth, GPS, гироскоп, две фотокамеры, micro HDMI, подключение к компьютеру по USB, вес 635 г
+
+</description>
+    <specification>
+      <items>
+        <name>Система</name>
+        <item>
+          <name>Операционная система</name>
+          <value>Android</value>
+        </item>
+        <item>
+          <name>Поддержка</name>
+          <value>Android 4.0</value>
+        </item>
+        <item>
+          <name>Процессор/чипсет</name>
+          <value>Nvidia Tegra 3 1200 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>1 Гб</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>32 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>microSDHC</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Экран</name>
+          <value>10.1", 1280x800</value>
+        </item>
+        <item>
+          <name>Широкоформатный экран</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Тип экрана</name>
+          <value>TFT IPS, глянцевый</value>
+        </item>
+        <item>
+          <name>Сенсорный экран</name>
+          <value>емкостный, мультитач</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>149</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>NVIDIA GeForce ULP</value>
+        </item>
+      </items>
+      <items>
+        <name>Беспроводная связь</name>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>есть, Wi-Fi 802.11n</value>
+        </item>
+        <item>
+          <name>Поддержка Bluetooth</name>
+          <value>есть, Bluetooth 3.0 HS</value>
+        </item>
+      </items>
+      <items>
+        <name>Фотокамера</name>
+        <item>
+          <name>Тыловая камера</name>
+          <value>есть, 8 млн пикс.</value>
+        </item>
+        <item>
+          <name>Особенности тыловой камеры</name>
+          <value>автофокус</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть, 1.2 млн пикс.</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенный динамик</name>
+          <value>есть, звук моно</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>GPS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая ориентация экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>акселерометр, гироскоп, компас, датчик освещенности</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Подключение к компьютеру по USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешних устройств по USB</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Подключение к телевизору/монитору</name>
+          <value>micro HDMI</value>
+        </item>
+        <item>
+          <name>Выход аудио/наушники</name>
+          <value>есть, 3.5 мм</value>
+        </item>
+        <item>
+          <name>Микрофонный вход</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение гарнитуры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для док-станции</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы</name>
+          <value>10 ч</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>2940 мАч (22 Втч)</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ДхШхГ)</name>
+          <value>263x181x10 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>635 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>запись видео в формате 1080p; тыловая камера: диафрагменное число – F/2,2; цвет - голубой, белый, красный</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80965">
+    <title>ASUS Eee Pad Transformer TF101G 32Gb 3G</title>
+    <model>Eee Pad Transformer TF101G 32Gb 3G</model>
+    <marka>ASUS</marka>
+    <catalog id="6427101">Планшеты</catalog>
+    
+    <price1>20500</price1>
+    <price2>29700</price2>
+    <description>
+экран 10.1&amp;quot;, 1280x800, емкостный, мультитач, Android 3.2, встроенная память 32 Гб, microSD, Wi-Fi, Bluetooth, 3G, GPS, гироскоп, две фотокамеры, mini HDMI, подключение к компьютеру по USB, вес 680 г
+
+</description>
+    <specification>
+      <items>
+        <name>Система</name>
+        <item>
+          <name>Операционная система</name>
+          <value>Android</value>
+        </item>
+        <item>
+          <name>Поддержка</name>
+          <value>Android 3.2</value>
+        </item>
+        <item>
+          <name>Процессор/чипсет</name>
+          <value>Nvidia Tegra 2 1000 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>1 Гб DDR2</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>32 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>microSD</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Экран</name>
+          <value>10.1", 1280x800</value>
+        </item>
+        <item>
+          <name>Широкоформатный экран</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Тип экрана</name>
+          <value>TFT IPS, глянцевый</value>
+        </item>
+        <item>
+          <name>Сенсорный экран</name>
+          <value>емкостный, мультитач</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>149</value>
+        </item>
+        <item>
+          <name>Устойчивое к царапинам стекло</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>NVIDIA GeForce ULP</value>
+        </item>
+      </items>
+      <items>
+        <name>Беспроводная связь</name>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>есть, Wi-Fi 802.11n</value>
+        </item>
+        <item>
+          <name>Поддержка Bluetooth</name>
+          <value>есть, Bluetooth 2.1 EDR</value>
+        </item>
+        <item>
+          <name>Мобильная связь</name>
+          <value>3G, HSDPA, HSUPA, GSM900, GSM1800, GSM1900</value>
+        </item>
+      </items>
+      <items>
+        <name>Фотокамера</name>
+        <item>
+          <name>Тыловая камера</name>
+          <value>есть, 5 млн пикс.</value>
+        </item>
+        <item>
+          <name>Особенности тыловой камеры</name>
+          <value>автофокус</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть, 1.2 млн пикс.</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные динамики</name>
+          <value>есть, звук стерео</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>GPS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая ориентация экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>акселерометр, гироскоп, компас, датчик освещенности</value>
+        </item>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>опционально</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Подключение к компьютеру по USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешних устройств по USB</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Подключение к телевизору/монитору</name>
+          <value>mini HDMI</value>
+        </item>
+        <item>
+          <name>Выход аудио/наушники</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Микрофонный вход</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для док-станции</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы</name>
+          <value>9.5 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ДхШхГ)</name>
+          <value>271x171x13 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>680 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80978">
+    <title>Lenovo Pad K1-10W64R</title>
+    <model>Pad K1-10W64R</model>
+    <marka>Lenovo</marka>
+    <catalog id="6427101">Планшеты</catalog>
+    
+    <price1>5530</price1>
+    <price2>16038</price2>
+    <description>
+экран 10.1&amp;quot;, 1280x800, емкостный, мультитач, Android 3.1, встроенная память 64 Гб, microSD, Wi-Fi, Bluetooth, две фотокамеры, mini HDMI, вес 750 г
+
+</description>
+    <specification>
+      <items>
+        <name>Система</name>
+        <item>
+          <name>Операционная система</name>
+          <value>Android</value>
+        </item>
+        <item>
+          <name>Поддержка</name>
+          <value>Android 3.1</value>
+        </item>
+        <item>
+          <name>Процессор/чипсет</name>
+          <value>Nvidia Tegra 2 1000 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Оперативная память</name>
+          <value>1 Гб DDR2 600 МГц</value>
+        </item>
+        <item>
+          <name>Встроенная память</name>
+          <value>64 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>microSD</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Экран</name>
+          <value>10.1", 1280x800</value>
+        </item>
+        <item>
+          <name>Широкоформатный экран</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Тип экрана</name>
+          <value>TFT IPS, глянцевый</value>
+        </item>
+        <item>
+          <name>Сенсорный экран</name>
+          <value>емкостный, мультитач</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>149</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>NVIDIA GeForce ULP</value>
+        </item>
+      </items>
+      <items>
+        <name>Беспроводная связь</name>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>есть, Wi-Fi 802.11n</value>
+        </item>
+        <item>
+          <name>Поддержка Bluetooth</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Фотокамера</name>
+        <item>
+          <name>Тыловая камера</name>
+          <value>есть, 5 млн пикс.</value>
+        </item>
+        <item>
+          <name>Особенности тыловой камеры</name>
+          <value>вспышка</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть, 2 млн пикс.</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Встроенные динамики</name>
+          <value>есть, звук стерео</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональность</name>
+        <item>
+          <name>Автоматическая ориентация экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>акселерометр, датчик освещенности</value>
+        </item>
+        <item>
+          <name>QWERTY-клавиатура</name>
+          <value>опционально</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Подключение к компьютеру по USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешних устройств по USB</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Подключение к телевизору/монитору</name>
+          <value>micro HDMI</value>
+        </item>
+        <item>
+          <name>Выход аудио/наушники</name>
+          <value>есть, 3.5 мм</value>
+        </item>
+        <item>
+          <name>Микрофонный вход</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для док-станции</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы</name>
+          <value>10 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры (ДхШхГ)</name>
+          <value>264x189x13 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>750 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Особенности</name>
+          <value>технология Digital Rights Management (DRM); алюминиевая задняя крышка; цвет - красный</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

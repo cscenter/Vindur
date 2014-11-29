@@ -1,0 +1,1540 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="25046">
+    <title>VITEK VT-1908</title>
+    <model>VT-1908</model>
+    <marka>VITEK</marka>
+    <catalog id="115828">Вентиляторы</catalog>
+    
+    <price1>1120</price1>
+    <price2>2400</price2>
+    <description>
+
+
+осевой механизм, напольный, 60 Вт, механическое управление, регулировка высоты
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>напольный</value>
+        </item>
+        <item>
+          <name>Рабочий механизм</name>
+          <value>осевой</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>60 Вт</value>
+        </item>
+        <item>
+          <name>Функция наклона</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция поворота</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Угол поворота </name>
+          <value>90 градусов</value>
+        </item>
+        <item>
+          <name>Диаметр лопастей</name>
+          <value>40 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Возможности и управление</name>
+        <item>
+          <name>Таймер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Регулировка высоты</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество скоростей</name>
+          <value>3, ступенчатая регулировка</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>механическое 
+</value>
+        </item>
+        <item>
+          <name>Влагозащищенный корпус</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="25047">
+    <title>Mystery MSF-2411</title>
+    <model>MSF-2411</model>
+    <marka>Mystery</marka>
+    <catalog id="115828">Вентиляторы</catalog>
+    
+    <price1>1720</price1>
+    <price2>2820</price2>
+    <description>
+
+
+осевой механизм, напольный, 55 Вт, таймер, электронное управление, регулировка высоты, пульт ДУ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>напольный</value>
+        </item>
+        <item>
+          <name>Рабочий механизм</name>
+          <value>осевой</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>55 Вт</value>
+        </item>
+        <item>
+          <name>Функция поворота</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Возможности и управление</name>
+        <item>
+          <name>Таймер</name>
+          <value>есть, максимальное время установки 10 ч</value>
+        </item>
+        <item>
+          <name>Задержка отключения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Время задержки отключения</name>
+          <value>60 мин.</value>
+        </item>
+        <item>
+          <name>Регулировка высоты</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество скоростей</name>
+          <value>3, ступенчатая регулировка</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электронное,  
+пульт ДУ</value>
+        </item>
+        <item>
+          <name>Влагозащищенный корпус</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="25049">
+    <title>Mystery MSF-2401</title>
+    <model>MSF-2401</model>
+    <marka>Mystery</marka>
+    <catalog id="115828">Вентиляторы</catalog>
+    
+    <price1>480</price1>
+    <price2>1090</price2>
+    <description>
+
+
+осевой механизм, напольный, 40 Вт, механическое управление, регулировка высоты
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>напольный</value>
+        </item>
+        <item>
+          <name>Рабочий механизм</name>
+          <value>осевой</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>40 Вт</value>
+        </item>
+        <item>
+          <name>Функция поворота</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Возможности и управление</name>
+        <item>
+          <name>Таймер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Регулировка высоты</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество скоростей</name>
+          <value>3, ступенчатая регулировка</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>механическое 
+</value>
+        </item>
+        <item>
+          <name>Влагозащищенный корпус</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="25056">
+    <title>Mystery MSF-2418</title>
+    <model>MSF-2418</model>
+    <marka>Mystery</marka>
+    <catalog id="115828">Вентиляторы</catalog>
+    
+    <price1>1560</price1>
+    <price2>2800</price2>
+    <description>
+
+
+осевой механизм, напольный, 55 Вт, механическое управление, регулировка высоты
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>напольный</value>
+        </item>
+        <item>
+          <name>Рабочий механизм</name>
+          <value>осевой</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>55 Вт</value>
+        </item>
+        <item>
+          <name>Диаметр лопастей</name>
+          <value>40 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Возможности и управление</name>
+        <item>
+          <name>Таймер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Регулировка высоты</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество скоростей</name>
+          <value>3, ступенчатая регулировка</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>механическое 
+</value>
+        </item>
+        <item>
+          <name>Влагозащищенный корпус</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>нерж. сталь</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="25059">
+    <title>Mystery MSF-2402</title>
+    <model>MSF-2402</model>
+    <marka>Mystery</marka>
+    <catalog id="115828">Вентиляторы</catalog>
+    
+    <price1>443</price1>
+    <price2>1290</price2>
+    <description>
+
+
+осевой механизм, напольный, 45 Вт, механическое управление, регулировка высоты
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>напольный</value>
+        </item>
+        <item>
+          <name>Рабочий механизм</name>
+          <value>осевой</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>45 Вт</value>
+        </item>
+        <item>
+          <name>Функция поворота</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Возможности и управление</name>
+        <item>
+          <name>Таймер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Регулировка высоты</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество скоростей</name>
+          <value>3, ступенчатая регулировка</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>механическое 
+</value>
+        </item>
+        <item>
+          <name>Влагозащищенный корпус</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="25060">
+    <title>Mystery MSF-2403</title>
+    <model>MSF-2403</model>
+    <marka>Mystery</marka>
+    <catalog id="115828">Вентиляторы</catalog>
+    
+    <price1>770</price1>
+    <price2>1690</price2>
+    <description>
+
+
+осевой механизм, напольный, 40 Вт, таймер, электронное управление, регулировка высоты, пульт ДУ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>напольный</value>
+        </item>
+        <item>
+          <name>Рабочий механизм</name>
+          <value>осевой</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>40 Вт</value>
+        </item>
+        <item>
+          <name>Функция поворота</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Возможности и управление</name>
+        <item>
+          <name>Таймер</name>
+          <value>есть, максимальное время установки 7.5 ч</value>
+        </item>
+        <item>
+          <name>Задержка отключения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Время задержки отключения</name>
+          <value>30 - 450 мин.</value>
+        </item>
+        <item>
+          <name>Регулировка высоты</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электронное,  
+пульт ДУ</value>
+        </item>
+        <item>
+          <name>Влагозащищенный корпус</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="25067">
+    <title>VITEK VT-1909 CH</title>
+    <model>VT-1909 CH</model>
+    <marka>VITEK</marka>
+    <catalog id="115828">Вентиляторы</catalog>
+    
+    <price1>1410</price1>
+    <price2>2600</price2>
+    <description>
+
+
+осевой механизм, напольный, 60 Вт, таймер, механическое управление, регулировка высоты, пульт ДУ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>напольный</value>
+        </item>
+        <item>
+          <name>Рабочий механизм</name>
+          <value>осевой</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>60 Вт</value>
+        </item>
+        <item>
+          <name>Функция наклона</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция поворота</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Угол поворота </name>
+          <value>90 градусов</value>
+        </item>
+        <item>
+          <name>Диаметр лопастей</name>
+          <value>42 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Возможности и управление</name>
+        <item>
+          <name>Таймер</name>
+          <value>есть, максимальное время установки 7.5 ч</value>
+        </item>
+        <item>
+          <name>Регулировка высоты</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество скоростей</name>
+          <value>3, ступенчатая регулировка</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электронное,  
+пульт ДУ</value>
+        </item>
+        <item>
+          <name>Влагозащищенный корпус</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="25070">
+    <title>Mystery MSF-2413</title>
+    <model>MSF-2413</model>
+    <marka>Mystery</marka>
+    <catalog id="115828">Вентиляторы</catalog>
+    
+    <price1>2766</price1>
+    <price2>4590</price2>
+    <description>
+
+
+осевой механизм, напольный, 65 Вт, таймер, регулировка высоты, пульт ДУ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>напольный</value>
+        </item>
+        <item>
+          <name>Рабочий механизм</name>
+          <value>осевой</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>65 Вт</value>
+        </item>
+        <item>
+          <name>Функция поворота</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диаметр лопастей</name>
+          <value>40 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Возможности и управление</name>
+        <item>
+          <name>Таймер</name>
+          <value>есть, максимальное время установки 8 ч</value>
+        </item>
+        <item>
+          <name>Регулировка высоты</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество скоростей</name>
+          <value>8, ступенчатая регулировка</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value> 
+дисплей, с подсветкой, пульт ДУ</value>
+        </item>
+        <item>
+          <name>Влагозащищенный корпус</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>4 варианта воздушного потока</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="25072">
+    <title>Mystery MSF-2416</title>
+    <model>MSF-2416</model>
+    <marka>Mystery</marka>
+    <catalog id="115828">Вентиляторы</catalog>
+    
+    <price1>1790</price1>
+    <price2>2450</price2>
+    <description>
+
+
+осевой механизм, напольный, 65 Вт, таймер, электронное управление, регулировка высоты, пульт ДУ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>напольный</value>
+        </item>
+        <item>
+          <name>Рабочий механизм</name>
+          <value>осевой</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>65 Вт</value>
+        </item>
+        <item>
+          <name>Диаметр лопастей</name>
+          <value>40 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Возможности и управление</name>
+        <item>
+          <name>Таймер</name>
+          <value>есть, максимальное время установки 8 ч</value>
+        </item>
+        <item>
+          <name>Регулировка высоты</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество скоростей</name>
+          <value>3, ступенчатая регулировка</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электронное,  
+пульт ДУ</value>
+        </item>
+        <item>
+          <name>Влагозащищенный корпус</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="25074">
+    <title>SUPRA VS-1201</title>
+    <model>VS-1201</model>
+    <marka>SUPRA</marka>
+    <catalog id="115828">Вентиляторы</catalog>
+    
+    <price1>730</price1>
+    <price2>3400</price2>
+    <description>
+
+
+осевой механизм, настольный, механическое управление
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>настольный</value>
+        </item>
+        <item>
+          <name>Рабочий механизм</name>
+          <value>осевой</value>
+        </item>
+        <item>
+          <name>Функция наклона</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция поворота</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диаметр лопастей</name>
+          <value>30 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Возможности и управление</name>
+        <item>
+          <name>Таймер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Регулировка высоты</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Количество скоростей</name>
+          <value>2, ступенчатая регулировка</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>механическое 
+</value>
+        </item>
+        <item>
+          <name>Влагозащищенный корпус</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты и вес</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>32.5x39x21 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.7 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="25083">
+    <title>Stadler Form Q Fan Q?011</title>
+    <model>Q Fan Q?011</model>
+    <marka>Stadler Form</marka>
+    <catalog id="115828">Вентиляторы</catalog>
+    
+    <price1>4657</price1>
+    <price2>5990</price2>
+    <description>
+
+
+осевой механизм, напольный, 40 Вт, воздухообмен 2700 куб. м/час, механическое управление
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>напольный</value>
+        </item>
+        <item>
+          <name>Рабочий механизм</name>
+          <value>осевой</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>40 Вт</value>
+        </item>
+        <item>
+          <name>Воздухообмен</name>
+          <value>2700 куб. м/час</value>
+        </item>
+      </items>
+      <items>
+        <name>Возможности и управление</name>
+        <item>
+          <name>Таймер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Регулировка высоты</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Количество скоростей</name>
+          <value>3, ступенчатая регулировка</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>механическое 
+</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>70 дБ</value>
+        </item>
+        <item>
+          <name>Влагозащищенный корпус</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>нерж. сталь</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты и вес</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>43x36x18 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.2 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="25085">
+    <title>SUPRA VS-1605</title>
+    <model>VS-1605</model>
+    <marka>SUPRA</marka>
+    <catalog id="115828">Вентиляторы</catalog>
+    
+    <price1>710</price1>
+    <price2>1400</price2>
+    <description>
+
+
+осевой механизм, напольный, 50 Вт, таймер, электронное управление, регулировка высоты, пульт ДУ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>напольный</value>
+        </item>
+        <item>
+          <name>Рабочий механизм</name>
+          <value>осевой</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>50 Вт</value>
+        </item>
+        <item>
+          <name>Функция наклона</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Угол наклона</name>
+          <value>30 градусов</value>
+        </item>
+        <item>
+          <name>Функция поворота</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Угол поворота </name>
+          <value>90 градусов</value>
+        </item>
+        <item>
+          <name>Диаметр лопастей</name>
+          <value>40 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Возможности и управление</name>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка высоты</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество скоростей</name>
+          <value>3, ступенчатая регулировка</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электронное,  
+с подсветкой, пульт ДУ</value>
+        </item>
+        <item>
+          <name>Влагозащищенный корпус</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты и вес</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>43x130x12.5 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.75 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="25091">
+    <title>VITEK VT-1910 (2011)</title>
+    <model>VT-1910 (2011)</model>
+    <marka>VITEK</marka>
+    <catalog id="115828">Вентиляторы</catalog>
+    
+    <price1>1200</price1>
+    <price2>2600</price2>
+    <description>
+
+
+осевой механизм, напольный, таймер, регулировка высоты, пульт ДУ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>напольный</value>
+        </item>
+        <item>
+          <name>Рабочий механизм</name>
+          <value>осевой</value>
+        </item>
+        <item>
+          <name>Диаметр лопастей</name>
+          <value>40 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Возможности и управление</name>
+        <item>
+          <name>Таймер</name>
+          <value>есть, максимальное время установки 7.5 ч</value>
+        </item>
+        <item>
+          <name>Регулировка высоты</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value> 
+пульт ДУ</value>
+        </item>
+        <item>
+          <name>Влагозащищенный корпус</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="25102">
+    <title>Scarlett SC-375</title>
+    <model>SC-375</model>
+    <marka>Scarlett</marka>
+    <catalog id="115828">Вентиляторы</catalog>
+    
+    <price1>510</price1>
+    <price2>1600</price2>
+    <description>
+
+
+осевой механизм, напольный, 45 Вт, механическое управление, регулировка высоты
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>напольный</value>
+        </item>
+        <item>
+          <name>Рабочий механизм</name>
+          <value>осевой</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>45 Вт</value>
+        </item>
+        <item>
+          <name>Функция наклона</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Угол наклона</name>
+          <value>30 градусов</value>
+        </item>
+        <item>
+          <name>Функция поворота</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Угол поворота </name>
+          <value>90 градусов</value>
+        </item>
+        <item>
+          <name>Диаметр лопастей</name>
+          <value>40 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Возможности и управление</name>
+        <item>
+          <name>Таймер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Регулировка высоты</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество скоростей</name>
+          <value>3, ступенчатая регулировка</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>механическое 
+</value>
+        </item>
+        <item>
+          <name>Влагозащищенный корпус</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>ночная подсветка</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="25107">
+    <title>Timberk TEF F16 FM2</title>
+    <model>TEF F16 FM2</model>
+    <marka>Timberk</marka>
+    <catalog id="115828">Вентиляторы</catalog>
+    
+    <price1>599</price1>
+    <price2>1450</price2>
+    <description>
+
+
+осевой механизм, напольный, 50 Вт, механическое управление, регулировка высоты
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>напольный</value>
+        </item>
+        <item>
+          <name>Рабочий механизм</name>
+          <value>осевой</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>50 Вт</value>
+        </item>
+        <item>
+          <name>Функция поворота</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Угол поворота </name>
+          <value>90 градусов</value>
+        </item>
+        <item>
+          <name>Диаметр лопастей</name>
+          <value>40 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Возможности и управление</name>
+        <item>
+          <name>Таймер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Регулировка высоты</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество скоростей</name>
+          <value>3, ступенчатая регулировка</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>механическое 
+</value>
+        </item>
+        <item>
+          <name>Влагозащищенный корпус</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты и вес</name>
+        <item>
+          <name>Вес</name>
+          <value>3.2 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="25111">
+    <title>Dyson AM01 Desk Fan 10 inch</title>
+    <model>AM01 Desk Fan 10 inch</model>
+    <marka>Dyson</marka>
+    <catalog id="115828">Вентиляторы</catalog>
+    
+    <price1>12490</price1>
+    <price2>14990</price2>
+    <description>
+
+
+безлопастной, настольный, 40 Вт, электронное управление
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>настольный</value>
+        </item>
+        <item>
+          <name>Рабочий механизм</name>
+          <value>безлопастной</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>40 Вт</value>
+        </item>
+        <item>
+          <name>Функция наклона</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция поворота</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Возможности и управление</name>
+        <item>
+          <name>Таймер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Регулировка высоты</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Количество скоростей</name>
+          <value>плавная регулировка</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электронное 
+</value>
+        </item>
+        <item>
+          <name>Влагозащищенный корпус</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="25114">
+    <title>Timberk TEF F16 FH3</title>
+    <model>TEF F16 FH3</model>
+    <marka>Timberk</marka>
+    <catalog id="115828">Вентиляторы</catalog>
+    
+    <price1>2120</price1>
+    <price2>2690</price2>
+    <description>
+
+
+осевой механизм, напольный, таймер, электронное управление, регулировка высоты, пульт ДУ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>напольный</value>
+        </item>
+        <item>
+          <name>Рабочий механизм</name>
+          <value>осевой</value>
+        </item>
+        <item>
+          <name>Функция наклона</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Функция поворота</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диаметр лопастей</name>
+          <value>40 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Возможности и управление</name>
+        <item>
+          <name>Таймер</name>
+          <value>есть, максимальное время установки 7.5 ч</value>
+        </item>
+        <item>
+          <name>Задержка отключения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Время задержки отключения</name>
+          <value>30 - 450 мин.</value>
+        </item>
+        <item>
+          <name>Регулировка высоты</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество скоростей</name>
+          <value>3, ступенчатая регулировка</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>электронное,  
+пульт ДУ</value>
+        </item>
+        <item>
+          <name>Влагозащищенный корпус</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>напольный/настольный, 3 режима обдува</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты и вес</name>
+        <item>
+          <name>Вес</name>
+          <value>5.4 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="25123">
+    <title>Timberk TEF F16 FC1-2</title>
+    <model>TEF F16 FC1-2</model>
+    <marka>Timberk</marka>
+    <catalog id="115828">Вентиляторы</catalog>
+    
+    <price1>509</price1>
+    <price2>1450</price2>
+    <description>
+
+
+осевой механизм, напольный, 50 Вт, механическое управление, регулировка высоты
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>напольный</value>
+        </item>
+        <item>
+          <name>Рабочий механизм</name>
+          <value>осевой</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>50 Вт</value>
+        </item>
+        <item>
+          <name>Функция поворота</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Угол поворота </name>
+          <value>90 градусов</value>
+        </item>
+        <item>
+          <name>Диаметр лопастей</name>
+          <value>40 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Возможности и управление</name>
+        <item>
+          <name>Таймер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Регулировка высоты</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество скоростей</name>
+          <value>ступенчатая регулировка</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>механическое 
+</value>
+        </item>
+        <item>
+          <name>Влагозащищенный корпус</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>2 прибора в коробке</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты и вес</name>
+        <item>
+          <name>Вес</name>
+          <value>2.3 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="25128">
+    <title>Rolsen RSF-1640</title>
+    <model>RSF-1640</model>
+    <marka>Rolsen</marka>
+    <catalog id="115828">Вентиляторы</catalog>
+    
+    <price1>1828</price1>
+    <price2>2870</price2>
+    <description>
+
+
+осевой механизм, напольный, 60 Вт, механическое управление, регулировка высоты
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>напольный</value>
+        </item>
+        <item>
+          <name>Рабочий механизм</name>
+          <value>осевой</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>60 Вт</value>
+        </item>
+        <item>
+          <name>Функция поворота</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Угол поворота </name>
+          <value>90 градусов</value>
+        </item>
+        <item>
+          <name>Диаметр лопастей</name>
+          <value>40 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Возможности и управление</name>
+        <item>
+          <name>Таймер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Регулировка высоты</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество скоростей</name>
+          <value>3, ступенчатая регулировка</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>механическое 
+</value>
+        </item>
+        <item>
+          <name>Влагозащищенный корпус</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>нерж. сталь</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="25129">
+    <title>Saturn ST-FN8269</title>
+    <model>ST-FN8269</model>
+    <marka>Saturn</marka>
+    <catalog id="115828">Вентиляторы</catalog>
+    
+    <price1>260</price1>
+    <price2>700</price2>
+    <description>
+
+
+осевой механизм, напольный, 45 Вт, механическое управление, регулировка высоты
+
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>напольный</value>
+        </item>
+        <item>
+          <name>Рабочий механизм</name>
+          <value>осевой</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>40 Вт</value>
+        </item>
+        <item>
+          <name>Функция поворота</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Угол поворота </name>
+          <value>90 градусов</value>
+        </item>
+        <item>
+          <name>Диаметр лопастей</name>
+          <value>40 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Возможности и управление</name>
+        <item>
+          <name>Таймер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Регулировка высоты</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество скоростей</name>
+          <value>3, ступенчатая регулировка</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>механическое 
+</value>
+        </item>
+        <item>
+          <name>Влагозащищенный корпус</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>нерж. сталь</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>подсветка, питание: 220В 50Гц, защита от перегрева</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты и вес</name>
+        <item>
+          <name>Вес</name>
+          <value>2.13 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

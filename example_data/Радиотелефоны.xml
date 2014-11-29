@@ -1,0 +1,2874 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="97763">
+    <title>Panasonic KX-TG5511</title>
+    <model>KX-TG5511</model>
+    <marka>Panasonic</marka>
+    <catalog id="101467">Радиотелефоны</catalog>
+    
+    <price1>1820</price1>
+    <price2>2050</price2>
+    <description>
+база, трубка, стандарт DECT/GAP, Caller ID/АОН, громкая связь, связь трубка-трубка, полифонические мелодии, аккумуляторы: AAAx2
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Комплектация</name>
+          <value>база, трубка</value>
+        </item>
+        <item>
+          <name>Рабочая частота</name>
+          <value>1880-1900 МГц</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>DECT/GAP</value>
+        </item>
+        <item>
+          <name>Радиус действия в помещении / на открытой местности</name>
+          <value>50 / 300 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Размеры трубки (ВхШхT)</name>
+          <value>148х47х25 мм</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>на трубке (монохромный с подсветкой), 2 строки</value>
+        </item>
+        <item>
+          <name>Подсветка кнопок на трубке</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Автоответчик</name>
+        <item>
+          <name>Цифровой автоответчик</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>АОН/Caller ID</name>
+          <value>есть/есть, журнал на 50 номеров</value>
+        </item>
+        <item>
+          <name>Голосовой АОН </name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Сервис коротких сообщений (SMS)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Громкая связь (спикерфон)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя связь (интерком)</name>
+          <value>между несколькими трубками</value>
+        </item>
+        <item>
+          <name>Конференц-связь (между базой, трубкой/трубками и внешним абонентом)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество трубок, подключаемых к одной базе</name>
+          <value>6</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Ускоренный набор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, на 100 номеров</value>
+        </item>
+        <item>
+          <name>Память набранных номеров</name>
+          <value>5</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы трубки (режим разговора / режим ожидания)</name>
+          <value>18 / 170 ч</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Формат</name>
+          <value>AAA</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Ni-MH</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>550 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Полифонические мелодии</name>
+          <value>15</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>будильник, блокировка клавиатуры от случайного нажатия, ответ поднятием трубки с базы</value>
+        </item>
+        <item>
+          <name>Тип дополнительной трубки</name>
+          <value>KX-TGA551</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97795">
+    <title>Panasonic KX-TG1611</title>
+    <model>KX-TG1611</model>
+    <marka>Panasonic</marka>
+    <catalog id="101467">Радиотелефоны</catalog>
+    
+    <price1>652</price1>
+    <price2>2532</price2>
+    <description>
+база, трубка, стандарт DECT, Caller ID/АОН, аккумуляторы: AAAx2
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Комплектация</name>
+          <value>база, трубка</value>
+        </item>
+        <item>
+          <name>Рабочая частота</name>
+          <value>1880-1900 МГц</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>DECT</value>
+        </item>
+        <item>
+          <name>Радиус действия в помещении / на открытой местности</name>
+          <value>50 / 300 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>на трубке (монохромный с подсветкой), 1 строка</value>
+        </item>
+        <item>
+          <name>Возможность настенного крепления</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Автоответчик</name>
+        <item>
+          <name>Цифровой автоответчик</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>АОН/Caller ID</name>
+          <value>есть/есть, журнал на 50 номеров</value>
+        </item>
+        <item>
+          <name>Сервис коротких сообщений (SMS)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Громкая связь (спикерфон)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Внутренняя связь (интерком)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Конференц-связь (между базой, трубкой/трубками и внешним абонентом)</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Ускоренный набор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, на 50 номеров</value>
+        </item>
+        <item>
+          <name>Память набранных номеров</name>
+          <value>10</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы трубки (режим разговора / режим ожидания)</name>
+          <value>15 / 170 ч</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Формат</name>
+          <value>AAA</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Ni-MH</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>550 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Мелодии звонка</name>
+          <value>12</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>будильник, ответ поднятием трубки с базы</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>Сервис голосовой почты</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97796">
+    <title>Panasonic KX-TG2511</title>
+    <model>KX-TG2511</model>
+    <marka>Panasonic</marka>
+    <catalog id="101467">Радиотелефоны</catalog>
+    
+    <price1>917</price1>
+    <price2>3231</price2>
+    <description>
+база, трубка, стандарт DECT/GAP, Caller ID/АОН, громкая связь, полифонические мелодии, аккумуляторы: AAAx2
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Комплектация</name>
+          <value>база, трубка</value>
+        </item>
+        <item>
+          <name>Рабочая частота</name>
+          <value>1880-1900 МГц</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>DECT/GAP</value>
+        </item>
+        <item>
+          <name>Радиус действия в помещении / на открытой местности</name>
+          <value>50 / 300 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>на трубке (монохромный с подсветкой), 2 строки</value>
+        </item>
+        <item>
+          <name>Возможность настенного крепления</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Автоответчик</name>
+        <item>
+          <name>Цифровой автоответчик</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>АОН/Caller ID</name>
+          <value>есть/есть, журнал на 50 номеров</value>
+        </item>
+        <item>
+          <name>Сервис коротких сообщений (SMS)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Громкая связь (спикерфон)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя связь (интерком)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Конференц-связь (между базой, трубкой/трубками и внешним абонентом)</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Ускоренный набор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, на 50 номеров</value>
+        </item>
+        <item>
+          <name>Память набранных номеров</name>
+          <value>5</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы трубки (режим разговора / режим ожидания)</name>
+          <value>18 / 170 ч</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Формат</name>
+          <value>AAA</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Ni-MH</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>550 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Полифонические мелодии</name>
+          <value>10</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>начало разговора нажатием любой кнопки, ответ поднятием трубки с базы</value>
+        </item>
+        <item>
+          <name>Тип дополнительной трубки</name>
+          <value>KX-TGA250</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97798">
+    <title>Panasonic KX-TG6611</title>
+    <model>KX-TG6611</model>
+    <marka>Panasonic</marka>
+    <catalog id="101467">Радиотелефоны</catalog>
+    
+    <price1>1520</price1>
+    <price2>1650</price2>
+    <description>
+база, трубка, стандарт DECT/GAP, Caller ID/АОН, громкая связь, связь трубка-трубка, полифонические мелодии, аккумуляторы: AAAx2
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Комплектация</name>
+          <value>база, трубка</value>
+        </item>
+        <item>
+          <name>Рабочая частота</name>
+          <value>1880-1900 МГц</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>DECT/GAP</value>
+        </item>
+        <item>
+          <name>Радиус действия в помещении / на открытой местности</name>
+          <value>50 / 300 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>на трубке (монохромный с подсветкой), 2 строки</value>
+        </item>
+        <item>
+          <name>Подсветка кнопок на трубке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность настенного крепления</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Автоответчик</name>
+        <item>
+          <name>Цифровой автоответчик</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>АОН/Caller ID</name>
+          <value>есть/есть, журнал на 50 номеров</value>
+        </item>
+        <item>
+          <name>Голосовой АОН </name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Черный/белый список</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Сервис коротких сообщений (SMS)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Громкая связь (спикерфон)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя связь (интерком)</name>
+          <value>между несколькими трубками</value>
+        </item>
+        <item>
+          <name>Конференц-связь (между базой, трубкой/трубками и внешним абонентом)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество трубок, подключаемых к одной базе</name>
+          <value>6</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Ускоренный набор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, на 100 номеров</value>
+        </item>
+        <item>
+          <name>Память набранных номеров</name>
+          <value>5</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы трубки (режим разговора / режим ожидания)</name>
+          <value>15 / 170 ч</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Формат</name>
+          <value>AAA</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Ni-MH</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>550 мАч</value>
+        </item>
+        <item>
+          <name>Блок аварийного питания на базе</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Полифонические мелодии</name>
+          <value>40</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>будильник, блокировка клавиатуры от случайного нажатия, ответ поднятием трубки с базы, ночной режим</value>
+        </item>
+        <item>
+          <name>Тип дополнительной трубки</name>
+          <value>KX-TGA661</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97800">
+    <title>Panasonic KX-TG8051</title>
+    <model>KX-TG8051</model>
+    <marka>Panasonic</marka>
+    <catalog id="101467">Радиотелефоны</catalog>
+    
+    <price1>1238</price1>
+    <price2>5253</price2>
+    <description>
+база, трубка, стандарт DECT/GAP, цветной дисплей, Caller ID/АОН, громкая связь, связь трубка-трубка, полифонические мелодии, аккумуляторы: AAAx2
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Комплектация</name>
+          <value>база, трубка</value>
+        </item>
+        <item>
+          <name>Рабочая частота</name>
+          <value>1880-1900 МГц</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>DECT/GAP</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>на трубке (цветной), 2 строки</value>
+        </item>
+        <item>
+          <name>Подсветка кнопок на трубке</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Автоответчик</name>
+        <item>
+          <name>Цифровой автоответчик</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>АОН/Caller ID</name>
+          <value>есть/есть, журнал на 50 номеров</value>
+        </item>
+        <item>
+          <name>Голосовой АОН </name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Сервис коротких сообщений (SMS)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Громкая связь (спикерфон)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя связь (интерком)</name>
+          <value>между несколькими трубками</value>
+        </item>
+        <item>
+          <name>Конференц-связь (между базой, трубкой/трубками и внешним абонентом)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество трубок, подключаемых к одной базе</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Количество баз, подключаемых к одной трубке</name>
+          <value>4</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Ускоренный набор</name>
+          <value>9 телефонных номеров</value>
+        </item>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, на 200 номеров</value>
+        </item>
+        <item>
+          <name>Память набранных номеров</name>
+          <value>5</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы трубки (режим разговора / режим ожидания)</name>
+          <value>13 / 250 ч</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Формат</name>
+          <value>AAA</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Ni-MH</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>550 мАч</value>
+        </item>
+        <item>
+          <name>Блок аварийного питания на базе</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Полифонические мелодии</name>
+          <value>40</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>будильник, блокировка клавиатуры от случайного нажатия, ответ поднятием трубки с базы, разъем для гарнитуры, ночной режим</value>
+        </item>
+        <item>
+          <name>Тип дополнительной трубки</name>
+          <value>KX-TGA806</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97802">
+    <title>Panasonic KX-TG2512</title>
+    <model>KX-TG2512</model>
+    <marka>Panasonic</marka>
+    <catalog id="101467">Радиотелефоны</catalog>
+    
+    <price1>1537</price1>
+    <price2>2840</price2>
+    <description>
+база, две трубки, стандарт DECT/GAP, Caller ID/АОН, громкая связь, связь трубка-трубка, полифонические мелодии, аккумуляторы: AAAx2
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Комплектация</name>
+          <value>база, две трубки</value>
+        </item>
+        <item>
+          <name>Рабочая частота</name>
+          <value>1880-1900 МГц</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>DECT/GAP</value>
+        </item>
+        <item>
+          <name>Радиус действия в помещении / на открытой местности</name>
+          <value>50 / 300 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>на трубке (монохромный с подсветкой), 2 строки</value>
+        </item>
+        <item>
+          <name>Возможность настенного крепления</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Автоответчик</name>
+        <item>
+          <name>Цифровой автоответчик</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>АОН/Caller ID</name>
+          <value>есть/есть, журнал на 50 номеров</value>
+        </item>
+        <item>
+          <name>Сервис коротких сообщений (SMS)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Громкая связь (спикерфон)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя связь (интерком)</name>
+          <value>между несколькими трубками</value>
+        </item>
+        <item>
+          <name>Конференц-связь (между базой, трубкой/трубками и внешним абонентом)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Ускоренный набор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, на 50 номеров</value>
+        </item>
+        <item>
+          <name>Память набранных номеров</name>
+          <value>5</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы трубки (режим разговора / режим ожидания)</name>
+          <value>18 / 170 ч</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Формат</name>
+          <value>AAA</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Ni-MH</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>550 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Полифонические мелодии</name>
+          <value>10</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>начало разговора нажатием любой кнопки, ответ поднятием трубки с базы</value>
+        </item>
+        <item>
+          <name>Тип дополнительной трубки</name>
+          <value>KX-TGA250</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97816">
+    <title>Panasonic KX-TG1612</title>
+    <model>KX-TG1612</model>
+    <marka>Panasonic</marka>
+    <catalog id="101467">Радиотелефоны</catalog>
+    
+    <price1>1114</price1>
+    <price2>4176</price2>
+    <description>
+база, две трубки, стандарт DECT, Caller ID/АОН, связь трубка-трубка, аккумуляторы: AAAx2
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Комплектация</name>
+          <value>база, две трубки</value>
+        </item>
+        <item>
+          <name>Рабочая частота</name>
+          <value>1880-1900 МГц</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>DECT</value>
+        </item>
+        <item>
+          <name>Радиус действия в помещении / на открытой местности</name>
+          <value>50 / 300 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>на трубке (монохромный с подсветкой), 1 строка</value>
+        </item>
+        <item>
+          <name>Возможность настенного крепления</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Автоответчик</name>
+        <item>
+          <name>Цифровой автоответчик</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>АОН/Caller ID</name>
+          <value>есть/есть, журнал на 50 номеров</value>
+        </item>
+        <item>
+          <name>Сервис коротких сообщений (SMS)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Громкая связь (спикерфон)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Внутренняя связь (интерком)</name>
+          <value>между несколькими трубками</value>
+        </item>
+        <item>
+          <name>Конференц-связь (между базой, трубкой/трубками и внешним абонентом)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Ускоренный набор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, на 50 номеров</value>
+        </item>
+        <item>
+          <name>Память набранных номеров</name>
+          <value>10</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы трубки (режим разговора / режим ожидания)</name>
+          <value>15 / 170 ч</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Формат</name>
+          <value>AAA</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Ni-MH</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>550 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Мелодии звонка</name>
+          <value>12</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>будильник, блокировка клавиатуры от случайного нажатия, ответ поднятием трубки с базы</value>
+        </item>
+        <item>
+          <name>Тип дополнительной трубки</name>
+          <value>KX-TGA161</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>Сервис голосовой почты</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97818">
+    <title>Panasonic KX-TG6541</title>
+    <model>KX-TG6541</model>
+    <marka>Panasonic</marka>
+    <catalog id="101467">Радиотелефоны</catalog>
+    
+    <price1>2586</price1>
+    <price2>3660</price2>
+    <description>
+база, трубка, стандарт DECT/GAP, Caller ID/АОН, автоответчик, громкая связь, связь трубка-трубка, полифонические мелодии, аккумуляторы: AAAx2
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Комплектация</name>
+          <value>база, трубка</value>
+        </item>
+        <item>
+          <name>Рабочая частота</name>
+          <value>1880-1900 МГц</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>DECT/GAP</value>
+        </item>
+        <item>
+          <name>Радиус действия в помещении / на открытой местности</name>
+          <value>50 / 300 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>на трубке (монохромный с подсветкой), 2 строки</value>
+        </item>
+        <item>
+          <name>Подсветка кнопок на трубке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность настенного крепления</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Автоответчик</name>
+        <item>
+          <name>Цифровой автоответчик</name>
+          <value>есть, на 20 минут</value>
+        </item>
+        <item>
+          <name>Функции автоответчика</name>
+          <value> дистанционное управление с другого телефона,  запись разговора</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>АОН/Caller ID</name>
+          <value>есть/есть, журнал на 50 номеров</value>
+        </item>
+        <item>
+          <name>Голосовой АОН </name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Сервис коротких сообщений (SMS)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Громкая связь (спикерфон)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя связь (интерком)</name>
+          <value>между несколькими трубками</value>
+        </item>
+        <item>
+          <name>Конференц-связь (между базой, трубкой/трубками и внешним абонентом)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество трубок, подключаемых к одной базе</name>
+          <value>6</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Ускоренный набор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, на 100 номеров</value>
+        </item>
+        <item>
+          <name>Память набранных номеров</name>
+          <value>5</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы трубки (режим разговора / режим ожидания)</name>
+          <value>18 / 170 ч</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Формат</name>
+          <value>AAA</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Ni-MH</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>550 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Полифонические мелодии</name>
+          <value>15</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>будильник, блокировка клавиатуры от случайного нажатия, ответ поднятием трубки с базы</value>
+        </item>
+        <item>
+          <name>Тип дополнительной трубки</name>
+          <value>KX-TGA651</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>Ретранслятор в комплекте</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97819">
+    <title>Panasonic KX-TG6621</title>
+    <model>KX-TG6621</model>
+    <marka>Panasonic</marka>
+    <catalog id="101467">Радиотелефоны</catalog>
+    
+    <price1>1510</price1>
+    <price2>2126</price2>
+    <description>
+база, трубка, стандарт DECT/GAP, Caller ID/АОН, автоответчик, громкая связь, связь трубка-трубка, полифонические мелодии, аккумуляторы: AAAx2
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Комплектация</name>
+          <value>база, трубка</value>
+        </item>
+        <item>
+          <name>Рабочая частота</name>
+          <value>1880-1900 МГц</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>DECT/GAP</value>
+        </item>
+        <item>
+          <name>Радиус действия в помещении / на открытой местности</name>
+          <value>50 / 300 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>на трубке (монохромный с подсветкой), 2 строки</value>
+        </item>
+        <item>
+          <name>Подсветка кнопок на трубке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность настенного крепления</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Автоответчик</name>
+        <item>
+          <name>Цифровой автоответчик</name>
+          <value>есть, на 18 минут</value>
+        </item>
+        <item>
+          <name>Функции автоответчика</name>
+          <value> дистанционное управление с другого телефона</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>АОН/Caller ID</name>
+          <value>есть/есть, журнал на 50 номеров</value>
+        </item>
+        <item>
+          <name>Голосовой АОН </name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Черный/белый список</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Сервис коротких сообщений (SMS)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Громкая связь (спикерфон)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя связь (интерком)</name>
+          <value>между несколькими трубками</value>
+        </item>
+        <item>
+          <name>Конференц-связь (между базой, трубкой/трубками и внешним абонентом)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество трубок, подключаемых к одной базе</name>
+          <value>6</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Ускоренный набор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, на 100 номеров</value>
+        </item>
+        <item>
+          <name>Память набранных номеров</name>
+          <value>5</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы трубки (режим разговора / режим ожидания)</name>
+          <value>15 / 170 ч</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Формат</name>
+          <value>AAA</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Ni-MH</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>550 мАч</value>
+        </item>
+        <item>
+          <name>Блок аварийного питания на базе</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Полифонические мелодии</name>
+          <value>40</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>будильник, блокировка клавиатуры от случайного нажатия, ответ поднятием трубки с базы, ночной режим</value>
+        </item>
+        <item>
+          <name>Тип дополнительной трубки</name>
+          <value>KX-TGA661</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97852">
+    <title>Panasonic KX-TG8611</title>
+    <model>KX-TG8611</model>
+    <marka>Panasonic</marka>
+    <catalog id="101467">Радиотелефоны</catalog>
+    
+    <price1>2818</price1>
+    <price2>4250</price2>
+    <description>
+база, трубка, стандарт DECT/GAP, цветной дисплей, Caller ID/АОН, громкая связь, связь трубка-трубка, полифонические мелодии, SMS, аккумуляторы: AAAx2
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Комплектация</name>
+          <value>база, трубка</value>
+        </item>
+        <item>
+          <name>Рабочая частота</name>
+          <value>1880-1900 МГц</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>DECT/GAP</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>на трубке (цветной), 2 строки</value>
+        </item>
+        <item>
+          <name>Подсветка кнопок на трубке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность настенного крепления</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Крепление на пояс</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Автоответчик</name>
+        <item>
+          <name>Цифровой автоответчик</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>АОН/Caller ID</name>
+          <value>есть/есть, журнал на 50 номеров</value>
+        </item>
+        <item>
+          <name>Голосовой АОН </name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Черный/белый список</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Сервис коротких сообщений (SMS)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Громкая связь (спикерфон)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя связь (интерком)</name>
+          <value>между несколькими трубками</value>
+        </item>
+        <item>
+          <name>Конференц-связь (между базой, трубкой/трубками и внешним абонентом)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество трубок, подключаемых к одной базе</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Количество баз, подключаемых к одной трубке</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Режим "Радио-няня"</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Ускоренный набор</name>
+          <value>9 телефонных номеров</value>
+        </item>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, на 500 номеров</value>
+        </item>
+        <item>
+          <name>Память набранных номеров</name>
+          <value>5</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы трубки (режим разговора / режим ожидания)</name>
+          <value>12 / 250 ч</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Формат</name>
+          <value>AAA</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Ni-MH</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>550 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Полифонические мелодии</name>
+          <value>40</value>
+        </item>
+        <item>
+          <name>Защита от несанкционированного доступа</name>
+          <value>блокировка набора определенных номеров</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>автодозвон, будильник, блокировка клавиатуры от случайного нажатия, ответ поднятием трубки с базы, Bluetooth, ночной режим</value>
+        </item>
+        <item>
+          <name>Тип дополнительной трубки</name>
+          <value>KX-TGA860</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97880">
+    <title>Panasonic KX-TG1711</title>
+    <model>KX-TG1711</model>
+    <marka>Panasonic</marka>
+    <catalog id="101467">Радиотелефоны</catalog>
+    
+    <price1>778</price1>
+    <price2>2952</price2>
+    <description>
+база, трубка, стандарт DECT, Caller ID/АОН, аккумуляторы: AAAx2
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Комплектация</name>
+          <value>база, трубка</value>
+        </item>
+        <item>
+          <name>Рабочая частота</name>
+          <value>1880-1900 МГц</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>DECT</value>
+        </item>
+        <item>
+          <name>Радиус действия в помещении / на открытой местности</name>
+          <value>50 / 300 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>на трубке (монохромный с подсветкой), 1 строка</value>
+        </item>
+      </items>
+      <items>
+        <name>Автоответчик</name>
+        <item>
+          <name>Цифровой автоответчик</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>АОН/Caller ID</name>
+          <value>есть/есть, журнал на 50 номеров</value>
+        </item>
+        <item>
+          <name>Сервис коротких сообщений (SMS)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Громкая связь (спикерфон)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Внутренняя связь (интерком)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Конференц-связь (между базой, трубкой/трубками и внешним абонентом)</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Ускоренный набор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, на 50 номеров</value>
+        </item>
+        <item>
+          <name>Память набранных номеров</name>
+          <value>10</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы трубки (режим разговора / режим ожидания)</name>
+          <value>15 / 170 ч</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Формат</name>
+          <value>AAA</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Ni-MH</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>550 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Мелодии звонка</name>
+          <value>12</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>будильник, блокировка клавиатуры от случайного нажатия, ответ поднятием трубки с базы</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>Сервис голосовой почты</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97887">
+    <title>Panasonic KX-TG6461</title>
+    <model>KX-TG6461</model>
+    <marka>Panasonic</marka>
+    <catalog id="101467">Радиотелефоны</catalog>
+    
+    <price1>3074</price1>
+    <price2>4260</price2>
+    <description>
+база, трубка, стандарт DECT/GAP, Caller ID/АОН, автоответчик, громкая связь, связь трубка-база, связь трубка-трубка, полифонические мелодии, аккумуляторы: AAAx2
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Комплектация</name>
+          <value>база, трубка</value>
+        </item>
+        <item>
+          <name>Проводная трубка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Рабочая частота</name>
+          <value>1880-1900 МГц</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>DECT/GAP</value>
+        </item>
+        <item>
+          <name>Радиус действия в помещении / на открытой местности</name>
+          <value>50 / 300 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>на базовом блоке, на трубке</value>
+        </item>
+        <item>
+          <name>Подсветка кнопок на трубке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность настенного крепления</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Наборное поле на базе</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Автоответчик</name>
+        <item>
+          <name>Цифровой автоответчик</name>
+          <value>есть, на 20 минут</value>
+        </item>
+        <item>
+          <name>Функции автоответчика</name>
+          <value> дистанционное управление с другого телефона</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>АОН/Caller ID</name>
+          <value>есть/есть, журнал на 50 номеров</value>
+        </item>
+        <item>
+          <name>Голосовой АОН </name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Сервис коротких сообщений (SMS)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Громкая связь (спикерфон)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя связь (интерком)</name>
+          <value>между трубкой и базовым блоком, между несколькими трубками</value>
+        </item>
+        <item>
+          <name>Конференц-связь (между базой, трубкой/трубками и внешним абонентом)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество трубок, подключаемых к одной базе</name>
+          <value>6</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Ускоренный набор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, на 100 номеров</value>
+        </item>
+        <item>
+          <name>Память набранных номеров</name>
+          <value>5</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы трубки (режим разговора / режим ожидания)</name>
+          <value>18 / 170 ч</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Формат</name>
+          <value>AAA</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Ni-MH</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>550 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Полифонические мелодии</name>
+          <value>20</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>будильник, блокировка клавиатуры от случайного нажатия, ответ поднятием трубки с базы</value>
+        </item>
+        <item>
+          <name>Тип дополнительной трубки</name>
+          <value>KX-TGA641</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97889">
+    <title>Panasonic KX-TG8612</title>
+    <model>KX-TG8612</model>
+    <marka>Panasonic</marka>
+    <catalog id="101467">Радиотелефоны</catalog>
+    
+    <price1>4804</price1>
+    <price2>6770</price2>
+    <description>
+база, две трубки, стандарт DECT/GAP, цветной дисплей, Caller ID/АОН, громкая связь, связь трубка-трубка, полифонические мелодии, SMS, аккумуляторы: AAAx2
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Комплектация</name>
+          <value>база, две трубки</value>
+        </item>
+        <item>
+          <name>Рабочая частота</name>
+          <value>1880-1900 МГц</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>DECT/GAP</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>на трубке (цветной), 2 строки</value>
+        </item>
+        <item>
+          <name>Подсветка кнопок на трубке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность настенного крепления</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Крепление на пояс</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Автоответчик</name>
+        <item>
+          <name>Цифровой автоответчик</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>АОН/Caller ID</name>
+          <value>есть/есть, журнал на 50 номеров</value>
+        </item>
+        <item>
+          <name>Голосовой АОН </name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Черный/белый список</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Сервис коротких сообщений (SMS)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Громкая связь (спикерфон)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя связь (интерком)</name>
+          <value>между несколькими трубками</value>
+        </item>
+        <item>
+          <name>Конференц-связь (между базой, трубкой/трубками и внешним абонентом)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество трубок, подключаемых к одной базе</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Количество баз, подключаемых к одной трубке</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Режим "Радио-няня"</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Ускоренный набор</name>
+          <value>9 телефонных номеров</value>
+        </item>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, на 500 номеров</value>
+        </item>
+        <item>
+          <name>Память набранных номеров</name>
+          <value>5</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы трубки (режим разговора / режим ожидания)</name>
+          <value>12 / 250 ч</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Формат</name>
+          <value>AAA</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Ni-MH</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>550 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Полифонические мелодии</name>
+          <value>40</value>
+        </item>
+        <item>
+          <name>Защита от несанкционированного доступа</name>
+          <value>блокировка набора определенных номеров</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>автодозвон, будильник, блокировка клавиатуры от случайного нажатия, ответ поднятием трубки с базы, Bluetooth, ночной режим</value>
+        </item>
+        <item>
+          <name>Тип дополнительной трубки</name>
+          <value>KX-TGA860</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97892">
+    <title>Panasonic KX-TG8041</title>
+    <model>KX-TG8041</model>
+    <marka>Panasonic</marka>
+    <catalog id="101467">Радиотелефоны</catalog>
+    
+    <price1>2621</price1>
+    <price2>4318</price2>
+    <description>
+база, трубка, стандарт DECT/GAP, цветной дисплей, Caller ID/АОН, автоответчик, громкая связь, связь трубка-трубка, полифонические мелодии, аккумуляторы: AAAx2
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Комплектация</name>
+          <value>база, трубка</value>
+        </item>
+        <item>
+          <name>Рабочая частота</name>
+          <value>1880-1900 МГц</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>DECT/GAP</value>
+        </item>
+        <item>
+          <name>Радиус действия в помещении / на открытой местности</name>
+          <value>50 / 300 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>на трубке (цветной)</value>
+        </item>
+        <item>
+          <name>Подсветка кнопок на трубке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность настенного крепления</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Наборное поле на базе</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Автоответчик</name>
+        <item>
+          <name>Цифровой автоответчик</name>
+          <value>есть, на 20 минут</value>
+        </item>
+        <item>
+          <name>Функции автоответчика</name>
+          <value> дистанционное управление с другого телефона</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>АОН/Caller ID</name>
+          <value>есть/есть, журнал на 50 номеров</value>
+        </item>
+        <item>
+          <name>Голосовой АОН </name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Сервис коротких сообщений (SMS)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Громкая связь (спикерфон)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя связь (интерком)</name>
+          <value>между несколькими трубками</value>
+        </item>
+        <item>
+          <name>Конференц-связь (между базой, трубкой/трубками и внешним абонентом)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество трубок, подключаемых к одной базе</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Количество баз, подключаемых к одной трубке</name>
+          <value>4</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Ускоренный набор</name>
+          <value>19 телефонных номеров</value>
+        </item>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, на 200 номеров</value>
+        </item>
+        <item>
+          <name>Память набранных номеров</name>
+          <value>5</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы трубки (режим разговора / режим ожидания)</name>
+          <value>14 / 240 ч</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Формат</name>
+          <value>AAA</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Ni-MH</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>550 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Полифонические мелодии</name>
+          <value>15</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>будильник, функция "Baby Call", блокировка клавиатуры от случайного нажатия, ответ поднятием трубки с базы, ночной режим</value>
+        </item>
+        <item>
+          <name>Тип дополнительной трубки</name>
+          <value>KX-TGA800</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97895">
+    <title>Panasonic KX-TG8621</title>
+    <model>KX-TG8621</model>
+    <marka>Panasonic</marka>
+    <catalog id="101467">Радиотелефоны</catalog>
+    
+    <price1>3580</price1>
+    <price2>10825</price2>
+    <description>
+база, трубка, стандарт DECT/GAP, цветной дисплей, Caller ID/АОН, автоответчик, громкая связь, связь трубка-трубка, полифонические мелодии, SMS, аккумуляторы: AAAx2
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Комплектация</name>
+          <value>база, трубка</value>
+        </item>
+        <item>
+          <name>Рабочая частота</name>
+          <value>1880-1900 МГц</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>DECT/GAP</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>на трубке (цветной), 2 строки</value>
+        </item>
+        <item>
+          <name>Подсветка кнопок на трубке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность настенного крепления</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Крепление на пояс</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Автоответчик</name>
+        <item>
+          <name>Цифровой автоответчик</name>
+          <value>есть, на 40 минут</value>
+        </item>
+        <item>
+          <name>Функции автоответчика</name>
+          <value> дистанционное управление с другого телефона,  запись разговора</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>АОН/Caller ID</name>
+          <value>есть/есть, журнал на 50 номеров</value>
+        </item>
+        <item>
+          <name>Голосовой АОН </name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Черный/белый список</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Сервис коротких сообщений (SMS)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Громкая связь (спикерфон)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя связь (интерком)</name>
+          <value>между несколькими трубками</value>
+        </item>
+        <item>
+          <name>Конференц-связь (между базой, трубкой/трубками и внешним абонентом)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество трубок, подключаемых к одной базе</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Количество баз, подключаемых к одной трубке</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Режим "Радио-няня"</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Ускоренный набор</name>
+          <value>9 телефонных номеров</value>
+        </item>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, на 500 номеров</value>
+        </item>
+        <item>
+          <name>Память набранных номеров</name>
+          <value>5</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы трубки (режим разговора / режим ожидания)</name>
+          <value>12 / 250 ч</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Формат</name>
+          <value>AAA</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Ni-MH</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>550 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Полифонические мелодии</name>
+          <value>40</value>
+        </item>
+        <item>
+          <name>Защита от несанкционированного доступа</name>
+          <value>блокировка набора определенных номеров</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>автодозвон, будильник, блокировка клавиатуры от случайного нажатия, ответ поднятием трубки с базы, Bluetooth, ночной режим</value>
+        </item>
+        <item>
+          <name>Тип дополнительной трубки</name>
+          <value>KX-TGA860</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97897">
+    <title>Panasonic KX-TG6451</title>
+    <model>KX-TG6451</model>
+    <marka>Panasonic</marka>
+    <catalog id="101467">Радиотелефоны</catalog>
+    
+    <price1>2745</price1>
+    <price2>3880</price2>
+    <description>
+база, трубка, стандарт DECT/GAP, Caller ID/АОН, громкая связь, связь трубка-база, связь трубка-трубка, полифонические мелодии, аккумуляторы: AAAx2
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Комплектация</name>
+          <value>база, трубка</value>
+        </item>
+        <item>
+          <name>Проводная трубка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Рабочая частота</name>
+          <value>1880-1900 МГц</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>DECT/GAP</value>
+        </item>
+        <item>
+          <name>Радиус действия в помещении / на открытой местности</name>
+          <value>50 / 300 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>на базовом блоке, на трубке (монохромный с подсветкой)</value>
+        </item>
+        <item>
+          <name>Подсветка кнопок на трубке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Наборное поле на базе</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Автоответчик</name>
+        <item>
+          <name>Цифровой автоответчик</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>АОН/Caller ID</name>
+          <value>есть/есть, журнал на 50 номеров</value>
+        </item>
+        <item>
+          <name>Голосовой АОН </name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Сервис коротких сообщений (SMS)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Громкая связь (спикерфон)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя связь (интерком)</name>
+          <value>между трубкой и базовым блоком, между несколькими трубками</value>
+        </item>
+        <item>
+          <name>Конференц-связь (между базой, трубкой/трубками и внешним абонентом)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество трубок, подключаемых к одной базе</name>
+          <value>6</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Ускоренный набор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, на 100 номеров</value>
+        </item>
+        <item>
+          <name>Память набранных номеров</name>
+          <value>5</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы трубки (режим разговора / режим ожидания)</name>
+          <value>18 / 170 ч</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Формат</name>
+          <value>AAA</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Ni-MH</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>550 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Полифонические мелодии</name>
+          <value>20</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>будильник, блокировка клавиатуры от случайного нажатия, ответ поднятием трубки с базы</value>
+        </item>
+        <item>
+          <name>Тип дополнительной трубки</name>
+          <value>KX-TGA641</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97903">
+    <title>Panasonic KX-TG8411</title>
+    <model>KX-TG8411</model>
+    <marka>Panasonic</marka>
+    <catalog id="101467">Радиотелефоны</catalog>
+    
+    <price1>2490</price1>
+    <price2>3400</price2>
+    <description>
+база, трубка, стандарт DECT/GAP, цветной дисплей, Caller ID/АОН, громкая связь, связь трубка-трубка, полифонические мелодии, SMS, аккумуляторы: AAAx2
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Комплектация</name>
+          <value>база, трубка</value>
+        </item>
+        <item>
+          <name>Рабочая частота</name>
+          <value>1880-1900 МГц</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>DECT/GAP</value>
+        </item>
+        <item>
+          <name>Радиус действия в помещении / на открытой местности</name>
+          <value>50 / 300 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>на трубке (цветной)</value>
+        </item>
+        <item>
+          <name>Подсветка кнопок на трубке</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Автоответчик</name>
+        <item>
+          <name>Цифровой автоответчик</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>АОН/Caller ID</name>
+          <value>есть/есть, журнал на 50 номеров</value>
+        </item>
+        <item>
+          <name>Голосовой АОН </name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Сервис коротких сообщений (SMS)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Громкая связь (спикерфон)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя связь (интерком)</name>
+          <value>между несколькими трубками</value>
+        </item>
+        <item>
+          <name>Конференц-связь (между базой, трубкой/трубками и внешним абонентом)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество трубок, подключаемых к одной базе</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Количество баз, подключаемых к одной трубке</name>
+          <value>4</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Ускоренный набор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, на 200 номеров</value>
+        </item>
+        <item>
+          <name>Память набранных номеров</name>
+          <value>5</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы трубки (режим разговора / режим ожидания)</name>
+          <value>15 / 250 ч</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Формат</name>
+          <value>AAA</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Ni-MH</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>550 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Полифонические мелодии</name>
+          <value>20</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>автодозвон, будильник, функция "Baby Call", блокировка клавиатуры от случайного нажатия, ответ поднятием трубки с базы, разъем для гарнитуры, ночной режим</value>
+        </item>
+        <item>
+          <name>Тип дополнительной трубки</name>
+          <value>KX-TGA840</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97906">
+    <title>Gigaset SL400A</title>
+    <model>SL400A</model>
+    <marka>Gigaset</marka>
+    <catalog id="101467">Радиотелефоны</catalog>
+    
+    <price1>3990</price1>
+    <price2>8370</price2>
+    <description>
+база, трубка, стандарт DECT/GAP, цветной дисплей, Caller ID/АОН, автоответчик, громкая связь, связь трубка-трубка, полифонические мелодии, виброзвонок, SMS, вес трубки 100 г, формат аккумулятора: свой собственный
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Комплектация</name>
+          <value>база, трубка</value>
+        </item>
+        <item>
+          <name>Рабочая частота</name>
+          <value>1880-1900 МГц</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>DECT/GAP</value>
+        </item>
+        <item>
+          <name>Радиус действия в помещении / на открытой местности</name>
+          <value>50 / 300 м</value>
+        </item>
+        <item>
+          <name>ECO-режим</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Размеры трубки (ВхШхT)</name>
+          <value>121х46х16 мм</value>
+        </item>
+        <item>
+          <name>Вес трубки</name>
+          <value>100 г</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>на трубке (цветной)</value>
+        </item>
+        <item>
+          <name>Подсветка кнопок на трубке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность настенного крепления</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Автоответчик</name>
+        <item>
+          <name>Цифровой автоответчик</name>
+          <value>есть, на 45 минут</value>
+        </item>
+        <item>
+          <name>Функции автоответчика</name>
+          <value> дистанционное управление с другого телефона,  запись разговора</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>АОН/Caller ID</name>
+          <value>есть/есть, журнал на 20 номеров</value>
+        </item>
+        <item>
+          <name>Сервис коротких сообщений (SMS)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Громкая связь (спикерфон)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя связь (интерком)</name>
+          <value>между несколькими трубками</value>
+        </item>
+        <item>
+          <name>Конференц-связь (между базой, трубкой/трубками и внешним абонентом)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество трубок, подключаемых к одной базе</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Режим "Радио-няня"</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Ускоренный набор</name>
+          <value>9 телефонных номеров</value>
+        </item>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, на 500 номеров</value>
+        </item>
+        <item>
+          <name>Память набранных номеров</name>
+          <value>20</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы трубки (режим разговора / режим ожидания)</name>
+          <value>14 / 230 ч</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Формат</name>
+          <value>свой собственный</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>750 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Полифонические мелодии</name>
+          <value>23</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>автодозвон, будильник, блокировка клавиатуры от случайного нажатия, ответ поднятием трубки с базы, виброзвонок, Bluetooth, разъем для гарнитуры, ночной режим</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97907">
+    <title>Gigaset SL400H</title>
+    <model>SL400H</model>
+    <marka>Gigaset</marka>
+    <catalog id="101467">Радиотелефоны</catalog>
+    
+    <price1>4140</price1>
+    <price2>5999</price2>
+    <description>
+трубка, стандарт DECT/GAP, цветной дисплей, Caller ID/АОН, громкая связь, связь трубка-трубка, полифонические мелодии, виброзвонок, SMS, вес трубки 100 г, формат аккумулятора: свой собственный
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Комплектация</name>
+          <value>трубка</value>
+        </item>
+        <item>
+          <name>Рабочая частота</name>
+          <value>1880-1900 МГц</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>DECT/GAP</value>
+        </item>
+        <item>
+          <name>Радиус действия в помещении / на открытой местности</name>
+          <value>50 / 300 м</value>
+        </item>
+        <item>
+          <name>ECO-режим</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Размеры трубки (ВхШхT)</name>
+          <value>121х46х16 мм</value>
+        </item>
+        <item>
+          <name>Вес трубки</name>
+          <value>100 г</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>на трубке (цветной)</value>
+        </item>
+        <item>
+          <name>Подсветка кнопок на трубке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность настенного крепления</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Автоответчик</name>
+        <item>
+          <name>Цифровой автоответчик</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>АОН/Caller ID</name>
+          <value>есть/есть, журнал на 20 номеров</value>
+        </item>
+        <item>
+          <name>Сервис коротких сообщений (SMS)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Громкая связь (спикерфон)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя связь (интерком)</name>
+          <value>между несколькими трубками</value>
+        </item>
+        <item>
+          <name>Конференц-связь (между базой, трубкой/трубками и внешним абонентом)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим "Радио-няня"</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Ускоренный набор</name>
+          <value>9 телефонных номеров</value>
+        </item>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, на 500 номеров</value>
+        </item>
+        <item>
+          <name>Память набранных номеров</name>
+          <value>20</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы трубки (режим разговора / режим ожидания)</name>
+          <value>14 / 230 ч</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Формат</name>
+          <value>свой собственный</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>750 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Полифонические мелодии</name>
+          <value>23</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>автодозвон, будильник, блокировка клавиатуры от случайного нажатия, ответ поднятием трубки с базы, виброзвонок, Bluetooth, разъем для гарнитуры, ночной режим</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97913">
+    <title>Panasonic KX-TG6612</title>
+    <model>KX-TG6612</model>
+    <marka>Panasonic</marka>
+    <catalog id="101467">Радиотелефоны</catalog>
+    
+    <price1>2340</price1>
+    <price2>3002</price2>
+    <description>
+база, две трубки, стандарт DECT/GAP, Caller ID/АОН, громкая связь, связь трубка-трубка, полифонические мелодии, аккумуляторы: AAAx2
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Комплектация</name>
+          <value>база, две трубки</value>
+        </item>
+        <item>
+          <name>Рабочая частота</name>
+          <value>1880-1900 МГц</value>
+        </item>
+        <item>
+          <name>Стандарт</name>
+          <value>DECT/GAP</value>
+        </item>
+        <item>
+          <name>Радиус действия в помещении / на открытой местности</name>
+          <value>50 / 300 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>на трубке (монохромный с подсветкой), 2 строки</value>
+        </item>
+        <item>
+          <name>Подсветка кнопок на трубке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность настенного крепления</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Автоответчик</name>
+        <item>
+          <name>Цифровой автоответчик</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>АОН/Caller ID</name>
+          <value>есть/есть, журнал на 50 номеров</value>
+        </item>
+        <item>
+          <name>Голосовой АОН </name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Черный/белый список</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Сервис коротких сообщений (SMS)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Громкая связь (спикерфон)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя связь (интерком)</name>
+          <value>между несколькими трубками</value>
+        </item>
+        <item>
+          <name>Конференц-связь (между базой, трубкой/трубками и внешним абонентом)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество трубок, подключаемых к одной базе</name>
+          <value>6</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Ускоренный набор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, на 100 номеров</value>
+        </item>
+        <item>
+          <name>Память набранных номеров</name>
+          <value>5</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Время работы трубки (режим разговора / режим ожидания)</name>
+          <value>15 / 170 ч</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Формат</name>
+          <value>AAA</value>
+        </item>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Ni-MH</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>550 мАч</value>
+        </item>
+        <item>
+          <name>Блок аварийного питания на базе</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Полифонические мелодии</name>
+          <value>40</value>
+        </item>
+        <item>
+          <name>Другие функции и особенности</name>
+          <value>будильник, блокировка клавиатуры от случайного нажатия, ответ поднятием трубки с базы, ночной режим</value>
+        </item>
+        <item>
+          <name>Тип дополнительной трубки</name>
+          <value>KX-TGA661</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

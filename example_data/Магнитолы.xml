@@ -1,0 +1,2098 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="37872">
+    <title>Philips AZ 1133</title>
+    <model>AZ 1133</model>
+    <marka>Philips</marka>
+    <catalog id="115244">Магнитолы</catalog>
+    
+    <price1>1420</price1>
+    <price2>2978</price2>
+    <description>
+
+
+
+CD, тюнер, FM, AM, проигрывание MP3, дисплей
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>CD</value>
+        </item>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Мощность магнитолы</name>
+          <value>2 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Диапазон FM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон AM</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>CD-проигрыватель</name>
+        <item>
+          <name>Количество дисков CD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество треков в программе CD</name>
+          <value>20</value>
+        </item>
+        <item>
+          <name>Возможность программирования CD треков</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Другие функции</name>
+          <value>поддержка CD-R,  CD-RW,  проигрывание MP3</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Выход на наушники</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Элементы питания</name>
+          <value>C</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>350х127х217 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.9 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="37882">
+    <title>LG SB-156</title>
+    <model>SB-156</model>
+    <marka>LG</marka>
+    <catalog id="115244">Магнитолы</catalog>
+    
+    <price1>2820</price1>
+    <price2>3990</price2>
+    <description>
+
+
+
+CD, тюнер, FM, USB, проигрывание MP3, пульт ДУ, дисплей
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>CD</value>
+        </item>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Количество станций</name>
+          <value>50</value>
+        </item>
+        <item>
+          <name>Диапазон FM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон AM</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>CD-проигрыватель</name>
+        <item>
+          <name>Количество дисков CD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Другие функции</name>
+          <value>поддержка CD-R,  CD-RW,  проигрывание MP3,  проигрывание WMA,  отображение ID3-тегов</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Выход на наушники</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс USB Type A</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="37886">
+    <title>Sony CFD-S07CP</title>
+    <model>CFD-S07CP</model>
+    <marka>Sony</marka>
+    <catalog id="115244">Магнитолы</catalog>
+    
+    <price1>1990</price1>
+    <price2>2420</price2>
+    <description>
+
+
+
+CD/кассетная, тюнер, FM, AM, линейный вход, проигрывание MP3, пульт ДУ, дисплей
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>CD/кассетная</value>
+        </item>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность магнитолы</name>
+          <value>3.4 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Количество станций</name>
+          <value>30</value>
+        </item>
+        <item>
+          <name>Диапазон FM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон УКВ</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Диапазон AM</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>CD-проигрыватель</name>
+        <item>
+          <name>Количество дисков CD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Возможность программирования CD треков</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Другие функции</name>
+          <value>поддержка CD-R,  CD-RW,  проигрывание MP3,  отображение ID3-тегов</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Линейный вход</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Выход на наушники</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Элементы питания</name>
+          <value>C x6 шт</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>365х134х230 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="37889">
+    <title>LG SB16</title>
+    <model>SB16</model>
+    <marka>LG</marka>
+    <catalog id="115244">Магнитолы</catalog>
+    
+    <price1>1590</price1>
+    <price2>2486</price2>
+    <description>
+
+
+
+CD, тюнер, FM, AM, линейный вход, USB, проигрывание MP3, дисплей
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>CD</value>
+        </item>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Диапазон FM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон AM</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>CD-проигрыватель</name>
+        <item>
+          <name>Количество дисков CD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Возможность программирования CD треков</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Другие функции</name>
+          <value>поддержка CD-R,  CD-RW,  проигрывание MP3,  проигрывание WMA</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Линейный вход</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс USB Type A</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Элементы питания</name>
+          <value>C</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="37891">
+    <title>Philips AZ 1834</title>
+    <model>AZ 1834</model>
+    <marka>Philips</marka>
+    <catalog id="115244">Магнитолы</catalog>
+    
+    <price1>2180</price1>
+    <price2>3190</price2>
+    <description>
+
+
+
+CD, тюнер, FM, AM, линейный вход, USB, проигрывание MP3, дисплей
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>CD</value>
+        </item>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Мощность магнитолы</name>
+          <value>1 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Диапазон FM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон AM</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>CD-проигрыватель</name>
+        <item>
+          <name>Количество дисков CD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество треков в программе CD</name>
+          <value>20</value>
+        </item>
+        <item>
+          <name>Возможность программирования CD треков</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Другие функции</name>
+          <value>поддержка CD-R,  CD-RW,  проигрывание MP3,  проигрывание WMA</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Линейный вход</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс USB Type A</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="37892">
+    <title>LG SB-56</title>
+    <model>SB-56</model>
+    <marka>LG</marka>
+    <catalog id="115244">Магнитолы</catalog>
+    
+    <price1>2900</price1>
+    <price2>2950</price2>
+    <description>
+
+
+
+CD, линейный вход, USB, проигрывание MP3, пульт ДУ, дисплей
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>CD</value>
+        </item>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Мощность магнитолы</name>
+          <value>5 Вт</value>
+        </item>
+        <item>
+          <name>Количество предустановок эквалайзера</name>
+          <value>5</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Количество станций</name>
+          <value>50</value>
+        </item>
+      </items>
+      <items>
+        <name>CD-проигрыватель</name>
+        <item>
+          <name>Количество дисков CD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Возможность программирования CD треков</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Другие функции</name>
+          <value>поддержка CD-R,  CD-RW,  проигрывание MP3,  проигрывание WMA</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Линейный вход</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Выход на наушники</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс USB Type A</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Элементы питания</name>
+          <value>C</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>450х120х230 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.1 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>запись в формате MP3 с CD/радио/линейного входа на USB устройство, таймер сна</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="37903">
+    <title>Philips AZ 1837</title>
+    <model>AZ 1837</model>
+    <marka>Philips</marka>
+    <catalog id="115244">Магнитолы</catalog>
+    
+    <price1>1910</price1>
+    <price2>3190</price2>
+    <description>
+
+
+
+CD, тюнер, FM, AM, линейный вход, USB, проигрывание MP3, дисплей
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>CD</value>
+        </item>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Мощность магнитолы</name>
+          <value>2 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Диапазон FM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон AM</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>CD-проигрыватель</name>
+        <item>
+          <name>Количество дисков CD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество треков в программе CD</name>
+          <value>20</value>
+        </item>
+        <item>
+          <name>Возможность программирования CD треков</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Другие функции</name>
+          <value>поддержка CD-R,  CD-RW,  проигрывание MP3,  проигрывание WMA</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Линейный вход</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс USB Type A</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Элементы питания</name>
+          <value>C</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>341х122х236 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.8 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="37911">
+    <title>Philips AZ 302</title>
+    <model>AZ 302</model>
+    <marka>Philips</marka>
+    <catalog id="115244">Магнитолы</catalog>
+    
+    <price1>1200</price1>
+    <price2>2620</price2>
+    <description>
+
+
+
+CD, тюнер, FM, AM, линейный вход, проигрывание MP3, дисплей
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>CD</value>
+        </item>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность магнитолы</name>
+          <value>2 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Диапазон FM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон AM</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>CD-проигрыватель</name>
+        <item>
+          <name>Количество дисков CD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество треков в программе CD</name>
+          <value>20</value>
+        </item>
+        <item>
+          <name>Возможность программирования CD треков</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Другие функции</name>
+          <value>поддержка CD-R,  CD-RW,  проигрывание MP3</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Линейный вход</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Элементы питания</name>
+          <value>C x6 шт</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>262х123х245 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.6 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="37935">
+    <title>Sony CFD-RS60</title>
+    <model>CFD-RS60</model>
+    <marka>Sony</marka>
+    <catalog id="115244">Магнитолы</catalog>
+    
+    <price1>3120</price1>
+    <price2>5550</price2>
+    <description>
+
+
+
+CD/кассетная, тюнер, FM, AM, USB, проигрывание MP3, пульт ДУ, дисплей
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>CD/кассетная</value>
+        </item>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Дека</name>
+          <value>однокассетная</value>
+        </item>
+        <item>
+          <name>Мощность магнитолы</name>
+          <value>4.6 Вт</value>
+        </item>
+        <item>
+          <name>Количество предустановок эквалайзера</name>
+          <value>4</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Количество станций</name>
+          <value>30</value>
+        </item>
+        <item>
+          <name>Диапазон FM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон AM</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>CD-проигрыватель</name>
+        <item>
+          <name>Количество дисков CD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Возможность программирования CD треков</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Другие функции</name>
+          <value>поддержка CD-R,  CD-RW,  проигрывание MP3,  отображение ID3-тегов</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Выход на наушники</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс USB Type A</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Элементы питания</name>
+          <value>D x6 шт</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>420х160х260 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.8 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>Частотный диапазон CD 20-20000 Гц, кассеты 80-10000 Гц. Автостоп. Синхрозапись с CD. Sleep таймер. Оранжевая подсветка дисплея. Дисплей 17*57 мм. Копирование с CD/MP3 на USB устройство.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="37937">
+    <title>Sony ZS-RS09</title>
+    <model>ZS-RS09</model>
+    <marka>Sony</marka>
+    <catalog id="115244">Магнитолы</catalog>
+    
+    <price1>2690</price1>
+    <price2>2990</price2>
+    <description>
+
+
+
+CD, тюнер, FM, AM, линейный вход, USB, проигрывание MP3, пульт ДУ, дисплей
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>CD</value>
+        </item>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность магнитолы</name>
+          <value>3.4 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Количество станций</name>
+          <value>30</value>
+        </item>
+        <item>
+          <name>Диапазон FM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон AM</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>CD-проигрыватель</name>
+        <item>
+          <name>Количество дисков CD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Другие функции</name>
+          <value>поддержка CD-R,  CD-RW,  проигрывание MP3,  проигрывание WMA</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Линейный вход</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Выход на наушники</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс USB Type A</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>365х134х230 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.4 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="37938">
+    <title>Philips AZ 3831</title>
+    <model>AZ 3831</model>
+    <marka>Philips</marka>
+    <catalog id="115244">Магнитолы</catalog>
+    
+    <price1>2620</price1>
+    <price2>3890</price2>
+    <description>
+
+
+
+CD, тюнер, FM, AM, линейный вход, USB, проигрывание MP3, пульт ДУ, дисплей
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>CD</value>
+        </item>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность магнитолы</name>
+          <value>5 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Количество станций</name>
+          <value>40</value>
+        </item>
+        <item>
+          <name>Диапазон FM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон AM</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>CD-проигрыватель</name>
+        <item>
+          <name>Количество дисков CD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество треков в программе CD</name>
+          <value>20</value>
+        </item>
+        <item>
+          <name>Возможность программирования CD треков</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Другие функции</name>
+          <value>поддержка CD-R,  CD-RW,  проигрывание MP3,  проигрывание WMA,  отображение ID3-тегов</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Линейный вход</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Выход на наушники</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс USB Type A</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Элементы питания</name>
+          <value>D x8 шт</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>386х134х257 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="37948">
+    <title>Mystery BM-6108U</title>
+    <model>BM-6108U</model>
+    <marka>Mystery</marka>
+    <catalog id="115244">Магнитолы</catalog>
+    
+    <price1>1594</price1>
+    <price2>2317</price2>
+    <description>
+
+
+
+CD, тюнер, FM, УКВ, AM, USB, SD/MMC, проигрывание MP3, дисплей
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>CD</value>
+        </item>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Мощность магнитолы</name>
+          <value>7 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Диапазон FM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон УКВ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон AM</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>CD-проигрыватель</name>
+        <item>
+          <name>Количество дисков CD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Другие функции</name>
+          <value>поддержка CD-R,  CD-RW,  проигрывание MP3</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Выход на наушники</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс USB Type A</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SD/MMC</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="37955">
+    <title>BBK BX102U</title>
+    <model>BX102U</model>
+    <marka>BBK</marka>
+    <catalog id="115244">Магнитолы</catalog>
+    
+    <price1>1552</price1>
+    <price2>2456</price2>
+    <description>
+
+
+
+CD, тюнер, FM, УКВ, AM, линейный вход, USB, SD/MMC, проигрывание MP3, пульт ДУ, дисплей
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>CD</value>
+        </item>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Мощность магнитолы</name>
+          <value>6 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Диапазон FM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон УКВ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон AM</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>CD-проигрыватель</name>
+        <item>
+          <name>Количество дисков CD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Возможность программирования CD треков</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Другие функции</name>
+          <value>поддержка CD-R,  CD-RW,  проигрывание MP3,  проигрывание WMA</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Линейный вход</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс USB Type A</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SD/MMC</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>315х225х140 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.78 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="37965">
+    <title>Panasonic RX-D55</title>
+    <model>RX-D55</model>
+    <marka>Panasonic</marka>
+    <catalog id="115244">Магнитолы</catalog>
+    
+    <price1>4990</price1>
+    <price2>5490</price2>
+    <description>
+
+
+
+CD/кассетная, тюнер, FM, AM, USB, проигрывание MP3, пульт ДУ, дисплей
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>CD/кассетная</value>
+        </item>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность магнитолы</name>
+          <value>20 Вт</value>
+        </item>
+        <item>
+          <name>Количество предустановок эквалайзера</name>
+          <value>3</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Диапазон FM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон УКВ</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Диапазон AM</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>CD-проигрыватель</name>
+        <item>
+          <name>Количество дисков CD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Другие функции</name>
+          <value>поддержка CD-R,  CD-RW,  проигрывание MP3,  проигрывание WMA</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Выход на наушники</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс USB Type A</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>будильник</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="37974">
+    <title>Mystery BM-6103</title>
+    <model>BM-6103</model>
+    <marka>Mystery</marka>
+    <catalog id="115244">Магнитолы</catalog>
+    
+    <price1>1160</price1>
+    <price2>1755</price2>
+    <description>
+
+
+
+CD, тюнер, FM, УКВ, AM, проигрывание MP3, дисплей
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>CD</value>
+        </item>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Автореверс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мощность магнитолы</name>
+          <value>4 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Диапазон FM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон УКВ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон AM</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>CD-проигрыватель</name>
+        <item>
+          <name>Возможность программирования CD треков</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Другие функции</name>
+          <value>поддержка CD-R,  CD-RW,  проигрывание MP3</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Выход на наушники</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="37976">
+    <title>Mystery BM-6309</title>
+    <model>BM-6309</model>
+    <marka>Mystery</marka>
+    <catalog id="115244">Магнитолы</catalog>
+    
+    <price1>2020</price1>
+    <price2>2848</price2>
+    <description>
+
+
+
+CD/кассетная, тюнер, FM, УКВ, AM, проигрывание MP3, дисплей
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>CD/кассетная</value>
+        </item>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Дека</name>
+          <value>однокассетная</value>
+        </item>
+        <item>
+          <name>Автореверс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мощность магнитолы</name>
+          <value>10 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Диапазон FM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон УКВ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон AM</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>CD-проигрыватель</name>
+        <item>
+          <name>Количество дисков CD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Возможность программирования CD треков</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Другие функции</name>
+          <value>поддержка CD-R,  CD-RW,  проигрывание MP3</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Выход на наушники</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="37980">
+    <title>SUPRA BB-CD601</title>
+    <model>BB-CD601</model>
+    <marka>SUPRA</marka>
+    <catalog id="115244">Магнитолы</catalog>
+    
+    <price1>1465</price1>
+    <price2>2125</price2>
+    <description>
+
+
+
+CD/кассетная, тюнер, FM, УКВ, AM, проигрывание MP3, пульт ДУ, дисплей
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>CD/кассетная</value>
+        </item>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность магнитолы</name>
+          <value>4 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Диапазон FM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон УКВ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон AM</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>CD-проигрыватель</name>
+        <item>
+          <name>Количество дисков CD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Другие функции</name>
+          <value>поддержка CD-R,  CD-RW,  проигрывание MP3</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Выход на наушники</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Элементы питания</name>
+          <value>C x8 шт</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="37991">
+    <title>Sony ZS-R100CP</title>
+    <model>ZS-R100CP</model>
+    <marka>Sony</marka>
+    <catalog id="115244">Магнитолы</catalog>
+    
+    <price1>4550</price1>
+    <price2>5999</price2>
+    <description>
+
+
+
+CD, тюнер, FM, AM, линейный вход, USB, SD/MMC, проигрывание MP3, дисплей
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>CD</value>
+        </item>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Мощность магнитолы</name>
+          <value>3 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Количество станций</name>
+          <value>30</value>
+        </item>
+        <item>
+          <name>Диапазон FM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон AM</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>CD-проигрыватель</name>
+        <item>
+          <name>Количество дисков CD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество треков в программе CD</name>
+          <value>25</value>
+        </item>
+        <item>
+          <name>Возможность программирования CD треков</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Другие функции</name>
+          <value>поддержка CD-R,  CD-RW,  проигрывание MP3,  проигрывание WMA</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Линейный вход</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Выход на наушники</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс USB Type A</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SD/MMC</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>349х149х214 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.8 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>таймер сна, таймер записи</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="38001">
+    <title>Mystery BM-6105U</title>
+    <model>BM-6105U</model>
+    <marka>Mystery</marka>
+    <catalog id="115244">Магнитолы</catalog>
+    
+    <price1>1389</price1>
+    <price2>2192</price2>
+    <description>
+
+
+
+CD, тюнер, FM, УКВ, AM, USB, проигрывание MP3, дисплей
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>CD</value>
+        </item>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Автореверс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мощность магнитолы</name>
+          <value>4 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Диапазон FM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон УКВ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон AM</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>CD-проигрыватель</name>
+        <item>
+          <name>Количество дисков CD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Возможность программирования CD треков</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Другие функции</name>
+          <value>поддержка CD-R,  CD-RW,  проигрывание MP3</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Выход на наушники</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс USB Type A</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="38004">
+    <title>Mystery BM-6107</title>
+    <model>BM-6107</model>
+    <marka>Mystery</marka>
+    <catalog id="115244">Магнитолы</catalog>
+    
+    <price1>1484</price1>
+    <price2>2343</price2>
+    <description>
+
+
+
+CD, тюнер, FM, УКВ, AM, проигрывание MP3, дисплей
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>CD</value>
+        </item>
+        <item>
+          <name>Звук</name>
+          <value>стерео</value>
+        </item>
+        <item>
+          <name>Автореверс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мощность магнитолы</name>
+          <value>9 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Диапазон FM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон УКВ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон AM</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>CD-проигрыватель</name>
+        <item>
+          <name>Количество дисков CD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Возможность программирования CD треков</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Другие функции</name>
+          <value>поддержка CD-R,  CD-RW,  проигрывание MP3</value>
+        </item>
+      </items>
+      <items>
+        <name>Разъемы</name>
+        <item>
+          <name>Выход на наушники</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенный микрофон</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Часы</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

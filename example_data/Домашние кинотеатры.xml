@@ -1,0 +1,3197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="43492">
+    <title>Samsung HT-E3550</title>
+    <model>HT-E3550</model>
+    <marka>Samsung</marka>
+    <catalog id="304648">Домашние кинотеатры</catalog>
+    
+    <price1>9970</price1>
+    <price2>11200</price2>
+    <description>
+акустика 5.1, Blu-ray, 3D, MKV, MPEG4, JPEG, HDMI, USB
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Основной блок</name>
+          <value>одноблочная система</value>
+        </item>
+        <item>
+          <name>Комплект акустических систем</name>
+          <value>5.1</value>
+        </item>
+        <item>
+          <name>Цвет основного блока </name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Цвет акустических систем</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Количество загружаемых дисков</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио</name>
+        <item>
+          <name>Суммарная мощность колонок (RMS)</name>
+          <value>500 Вт</value>
+        </item>
+        <item>
+          <name>Декодеры</name>
+          <value>Dolby Digital, Dolby Digital Plus, Dolby TrueHD, Dolby Pro Logic II, DTS, DTS 96/24, DTS-HD HR, DTS-HD MA</value>
+        </item>
+        <item>
+          <name>Количество режимов DSP</name>
+          <value>8</value>
+        </item>
+      </items>
+      <items>
+        <name>Видео</name>
+        <item>
+          <name>Масштабирование до разрешения HDTV</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Форматы и носители</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MKV, MPEG4, DivX, DivX HD, AVCHD, WMV, VCD, WMA, MP3, JPEG</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>BD (Blu-ray Disc), Blu-ray 3D, BD-R, BD-Re, CD, CD-R, CD-RW, DVD, DVD R, DVD RW</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио стерео, аудио оптический</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>HDMI, композитный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB (тип A)</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры основного блока (ШxВxГ)</name>
+          <value>430x55x250 мм</value>
+        </item>
+        <item>
+          <name>Вес основного блока</name>
+          <value>2.5 кг</value>
+        </item>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>89x1053x71 мм</value>
+        </item>
+        <item>
+          <name>Вес фронтальных колонок</name>
+          <value>2.9 кг</value>
+        </item>
+        <item>
+          <name>Размеры тыловых колонок (ШxВxГ)</name>
+          <value>89x1053x71 мм</value>
+        </item>
+        <item>
+          <name>Вес тыловых колонок</name>
+          <value>2.9 кг</value>
+        </item>
+        <item>
+          <name>Размеры центрального канала (ШxВxГ)</name>
+          <value>228x77x70 мм</value>
+        </item>
+        <item>
+          <name>Вес центрального канала</name>
+          <value>0.5 кг</value>
+        </item>
+        <item>
+          <name>Размеры сабвуфера (ШxВxГ)</name>
+          <value>155x300x285 мм</value>
+        </item>
+        <item>
+          <name>Вес сабвуфера</name>
+          <value>2.89 кг</value>
+        </item>
+        <item>
+          <name>Вес комплекта</name>
+          <value>18 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Радио</name>
+          <value>FM</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="43493">
+    <title>Samsung HT-E8200</title>
+    <model>HT-E8200</model>
+    <marka>Samsung</marka>
+    <catalog id="304648">Домашние кинотеатры</catalog>
+    
+    <price1>17100</price1>
+    <price2>31910</price2>
+    <description>
+акустика 2.1 (звуковая панель), Blu-ray, 3D, MKV, HDMI, USB
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Основной блок</name>
+          <value>одноблочная система</value>
+        </item>
+        <item>
+          <name>Комплект акустических систем</name>
+          <value>2.1 (звуковая панель)</value>
+        </item>
+        <item>
+          <name>Цвет основного блока </name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Цвет акустических систем</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Количество загружаемых дисков</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио</name>
+        <item>
+          <name>Суммарная мощность колонок (RMS)</name>
+          <value>400 Вт</value>
+        </item>
+        <item>
+          <name>Декодеры</name>
+          <value>Dolby Digital, Dolby Digital Plus, Dolby TrueHD, DTS-HD HR, DTS-HD MA</value>
+        </item>
+        <item>
+          <name>Количество режимов DSP</name>
+          <value>6</value>
+        </item>
+      </items>
+      <items>
+        <name>Форматы и носители</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MKV, DivX, DivX HD, AVCHD, WMV, WMA, MP3</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>BD (Blu-ray Disc), Blu-ray 3D, CD, CD-R, CD-RW, DVD, DVD R, DVD RW</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>HDMI x2, аудио стерео, аудио оптический</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>HDMI, композитный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB (тип A), Wi-Fi, Bluetooth</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры основного блока (ШxВxГ)</name>
+          <value>1041x96x133 мм</value>
+        </item>
+        <item>
+          <name>Вес основного блока</name>
+          <value>4 кг</value>
+        </item>
+        <item>
+          <name>Размеры сабвуфера (ШxВxГ)</name>
+          <value>290x370x290 мм</value>
+        </item>
+        <item>
+          <name>Вес сабвуфера</name>
+          <value>7.25 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Радио</name>
+          <value>FM</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>виртуальный звук 5.1/7.1</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="43502">
+    <title>LG HB906TA</title>
+    <model>HB906TA</model>
+    <marka>LG</marka>
+    <catalog id="304648">Домашние кинотеатры</catalog>
+    
+    <price1>10000</price1>
+    <price2>15140</price2>
+    <description>
+акустика 5.1, Blu-ray, 3D, MKV, MPEG4, JPEG, HDMI, мощность акустики: фронт - 180 Вт, тыл - 180 Вт, центр - 180 Вт, сабвуфер - 200 Вт
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Основной блок</name>
+          <value>одноблочная система</value>
+        </item>
+        <item>
+          <name>Комплект акустических систем</name>
+          <value>5.1</value>
+        </item>
+        <item>
+          <name>Цвет основного блока </name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Цвет акустических систем</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Поддержка iPod</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио</name>
+        <item>
+          <name>Суммарная мощность колонок (RMS)</name>
+          <value>1100 Вт</value>
+        </item>
+        <item>
+          <name>Декодеры</name>
+          <value>Dolby Digital, DTS</value>
+        </item>
+      </items>
+      <items>
+        <name>Форматы и носители</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MKV, MPEG4, DivX, AVCHD, WMV, MPEG1, MPEG2, WMA, MP3, JPEG</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>BD (Blu-ray Disc), Blu-ray 3D, BD-R, BD-Re, CD, CD-R, CD-RW, DVD, DVD R, DVD RW</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>180 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность центрального канала</name>
+          <value>180 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос центрального канала</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность тыловых колонок</name>
+          <value>180 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос тыловых колонок</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность сабвуфера</name>
+          <value>200 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>HDMI x2, аудио стерео, аудио оптический, микрофон</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>HDMI, компонентный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Ethernet, Wi-Fi</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры основного блока (ШxВxГ)</name>
+          <value>433.5х57х281 мм</value>
+        </item>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>280х1152х225 мм</value>
+        </item>
+        <item>
+          <name>Вес фронтальных колонок</name>
+          <value>3.33 кг</value>
+        </item>
+        <item>
+          <name>Размеры тыловых колонок (ШxВxГ)</name>
+          <value>280х1152х225 мм</value>
+        </item>
+        <item>
+          <name>Вес тыловых колонок</name>
+          <value>3.33 кг</value>
+        </item>
+        <item>
+          <name>Размеры центрального канала (ШxВxГ)</name>
+          <value>327х99х76 мм</value>
+        </item>
+        <item>
+          <name>Вес центрального канала</name>
+          <value>1.21 кг</value>
+        </item>
+        <item>
+          <name>Размеры сабвуфера (ШxВxГ)</name>
+          <value>190х385х358 мм</value>
+        </item>
+        <item>
+          <name>Вес сабвуфера</name>
+          <value>5.4 кг</value>
+        </item>
+        <item>
+          <name>Вес комплекта</name>
+          <value>20 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Поддержка BD-Live</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Радио</name>
+          <value>FM</value>
+        </item>
+        <item>
+          <name>Диапазон настройки FM</name>
+          <value>87.5-108 МГц</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="43503">
+    <title>Samsung HT-E4550K</title>
+    <model>HT-E4550K</model>
+    <marka>Samsung</marka>
+    <catalog id="304648">Домашние кинотеатры</catalog>
+    
+    <price1>12000</price1>
+    <price2>13990</price2>
+    <description>
+акустика 5.1, Blu-ray, 3D, MKV, MPEG4, JPEG, HDMI, USB
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Основной блок</name>
+          <value>одноблочная система</value>
+        </item>
+        <item>
+          <name>Комплект акустических систем</name>
+          <value>5.1</value>
+        </item>
+        <item>
+          <name>Цвет основного блока </name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Цвет акустических систем</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Количество загружаемых дисков</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио</name>
+        <item>
+          <name>Суммарная мощность колонок (RMS)</name>
+          <value>1000 Вт</value>
+        </item>
+        <item>
+          <name>Декодеры</name>
+          <value>Dolby Digital, Dolby Digital Plus, Dolby TrueHD, Dolby Pro Logic II, DTS, DTS 96/24, DTS-HD HR, DTS-HD MA</value>
+        </item>
+        <item>
+          <name>Количество режимов DSP</name>
+          <value>8</value>
+        </item>
+      </items>
+      <items>
+        <name>Видео</name>
+        <item>
+          <name>Масштабирование до разрешения HDTV</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Форматы и носители</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MKV, MPEG4, DivX, DivX HD, AVCHD, WMV, VCD, WMA, MP3, JPEG</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>BD (Blu-ray Disc), Blu-ray 3D, CD, CD-R, CD-RW, DVD, DVD R, DVD RW</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио стерео, аудио оптический, микрофон x2</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>HDMI, композитный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB (тип A)</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры основного блока (ШxВxГ)</name>
+          <value>430x55x250 мм</value>
+        </item>
+        <item>
+          <name>Вес основного блока</name>
+          <value>2.5 кг</value>
+        </item>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>90x1050x70 мм</value>
+        </item>
+        <item>
+          <name>Вес фронтальных колонок</name>
+          <value>3.9 кг</value>
+        </item>
+        <item>
+          <name>Размеры тыловых колонок (ШxВxГ)</name>
+          <value>90x1050x70 мм</value>
+        </item>
+        <item>
+          <name>Вес тыловых колонок</name>
+          <value>3.9 кг</value>
+        </item>
+        <item>
+          <name>Размеры центрального канала (ШxВxГ)</name>
+          <value>228x77x70 мм</value>
+        </item>
+        <item>
+          <name>Вес центрального канала</name>
+          <value>0.47 кг</value>
+        </item>
+        <item>
+          <name>Размеры сабвуфера (ШxВxГ)</name>
+          <value>200x390x350 мм</value>
+        </item>
+        <item>
+          <name>Вес сабвуфера</name>
+          <value>6.06 кг</value>
+        </item>
+        <item>
+          <name>Вес комплекта</name>
+          <value>25 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Радио</name>
+          <value>FM</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>виртуальный звук 7.1</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="43505">
+    <title>Panasonic SC-XH70</title>
+    <model>SC-XH70</model>
+    <marka>Panasonic</marka>
+    <catalog id="304648">Домашние кинотеатры</catalog>
+    
+    <price1>3790</price1>
+    <price2>4700</price2>
+    <description>
+акустика 5.1, JPEG, HDMI, USB, мощность акустики: фронт - 67 Вт, тыл - 67 Вт, центр - 67 Вт, сабвуфер - 65 Вт
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Основной блок</name>
+          <value>одноблочная система</value>
+        </item>
+        <item>
+          <name>Комплект акустических систем</name>
+          <value>5.1</value>
+        </item>
+        <item>
+          <name>Цвет основного блока </name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Цвет акустических систем</name>
+          <value>черный</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио</name>
+        <item>
+          <name>Суммарная мощность колонок (RMS)</name>
+          <value>400 Вт</value>
+        </item>
+        <item>
+          <name>Декодеры</name>
+          <value>Dolby Digital, Dolby Pro Logic II</value>
+        </item>
+        <item>
+          <name>Эквалайзер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Видео</name>
+        <item>
+          <name>Разрешение выходного сигнала (HD)</name>
+          <value>1080p</value>
+        </item>
+      </items>
+      <items>
+        <name>Форматы и носители</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>WMV, MP3, JPEG</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>CD, CD-R, CD-RW, DVD, DVD R, DVD RW</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>67 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Диаметр динамиков фронтальных колонок (мм)</name>
+          <value>1х65</value>
+        </item>
+        <item>
+          <name>Мощность центрального канала</name>
+          <value>67 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос центрального канала</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Диаметр динамиков центрального канала (мм)</name>
+          <value>1х65</value>
+        </item>
+        <item>
+          <name>Мощность тыловых колонок</name>
+          <value>67 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос тыловых колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Диаметр динамиков тыловых колонок (мм)</name>
+          <value>1х65</value>
+        </item>
+        <item>
+          <name>Мощность сабвуфера</name>
+          <value>65 Вт</value>
+        </item>
+        <item>
+          <name>Диаметр динамиков сабвуфера (мм)</name>
+          <value>120</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио стерео</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>HDMI, композитный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB (тип A)</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры основного блока (ШxВxГ)</name>
+          <value>360x48x273 мм</value>
+        </item>
+        <item>
+          <name>Вес основного блока</name>
+          <value>2 кг</value>
+        </item>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>80x117x70.5 мм</value>
+        </item>
+        <item>
+          <name>Вес фронтальных колонок</name>
+          <value>0.35 кг</value>
+        </item>
+        <item>
+          <name>Размеры тыловых колонок (ШxВxГ)</name>
+          <value>80x117x70.5 мм</value>
+        </item>
+        <item>
+          <name>Вес тыловых колонок</name>
+          <value>0.35 кг</value>
+        </item>
+        <item>
+          <name>Размеры центрального канала (ШxВxГ)</name>
+          <value>145x81x70.5 мм</value>
+        </item>
+        <item>
+          <name>Вес центрального канала</name>
+          <value>0.52 кг</value>
+        </item>
+        <item>
+          <name>Размеры сабвуфера (ШxВxГ)</name>
+          <value>153x230x233 мм</value>
+        </item>
+        <item>
+          <name>Вес сабвуфера</name>
+          <value>2.1 кг</value>
+        </item>
+        <item>
+          <name>Вес комплекта</name>
+          <value>6 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Радио</name>
+          <value>FM</value>
+        </item>
+        <item>
+          <name>Количество радиостанций в памяти</name>
+          <value>30</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="43508">
+    <title>Samsung HT-E355K</title>
+    <model>HT-E355K</model>
+    <marka>Samsung</marka>
+    <catalog id="304648">Домашние кинотеатры</catalog>
+    
+    <price1>5300</price1>
+    <price2>9850</price2>
+    <description>
+акустика 5.1, JPEG, HDMI, USB
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Основной блок</name>
+          <value>одноблочная система</value>
+        </item>
+        <item>
+          <name>Комплект акустических систем</name>
+          <value>5.1</value>
+        </item>
+        <item>
+          <name>Цвет основного блока </name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Цвет акустических систем</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Количество загружаемых дисков</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио</name>
+        <item>
+          <name>Суммарная мощность колонок (RMS)</name>
+          <value>330 Вт</value>
+        </item>
+        <item>
+          <name>Декодеры</name>
+          <value>Dolby Digital, Dolby Pro Logic II</value>
+        </item>
+        <item>
+          <name>Количество режимов DSP</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Эквалайзер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Форматы и носители</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>DivX, WMV, VCD, WMA, MP3, JPEG</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>CD, CD-R, CD-RW, DVD, DVD R, DVD RW</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио стерео</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>HDMI, композитный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB (тип A)</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры основного блока (ШxВxГ)</name>
+          <value>430x56x250 мм</value>
+        </item>
+        <item>
+          <name>Вес основного блока</name>
+          <value>2 кг</value>
+        </item>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>89x1053x71 мм</value>
+        </item>
+        <item>
+          <name>Вес фронтальных колонок</name>
+          <value>2.875 кг</value>
+        </item>
+        <item>
+          <name>Размеры тыловых колонок (ШxВxГ)</name>
+          <value>89x1053x71 мм</value>
+        </item>
+        <item>
+          <name>Вес тыловых колонок</name>
+          <value>2.875 кг</value>
+        </item>
+        <item>
+          <name>Размеры центрального канала (ШxВxГ)</name>
+          <value>228x77x70 мм</value>
+        </item>
+        <item>
+          <name>Вес центрального канала</name>
+          <value>0.465 кг</value>
+        </item>
+        <item>
+          <name>Размеры сабвуфера (ШxВxГ)</name>
+          <value>155x300x285 мм</value>
+        </item>
+        <item>
+          <name>Вес сабвуфера</name>
+          <value>2.8 кг</value>
+        </item>
+        <item>
+          <name>Вес комплекта</name>
+          <value>17 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Радио</name>
+          <value>FM</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="43511">
+    <title>LG HT306PD</title>
+    <model>HT306PD</model>
+    <marka>LG</marka>
+    <catalog id="304648">Домашние кинотеатры</catalog>
+    
+    <price1>5899</price1>
+    <price2>6000</price2>
+    <description>
+акустика 5.1, MPEG4, караоке, HDMI, USB, мощность акустики: фронт - 45 Вт, тыл - 45 Вт, центр - 45 Вт, сабвуфер - 105 Вт
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Основной блок</name>
+          <value>одноблочная система</value>
+        </item>
+        <item>
+          <name>Комплект акустических систем</name>
+          <value>5.1</value>
+        </item>
+        <item>
+          <name>Цвет основного блока </name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Цвет акустических систем</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Режим караоке</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио</name>
+        <item>
+          <name>Суммарная мощность колонок (RMS)</name>
+          <value>330 Вт</value>
+        </item>
+        <item>
+          <name>Декодеры</name>
+          <value>Dolby Digital, Dolby Pro Logic</value>
+        </item>
+        <item>
+          <name>Эквалайзер</name>
+          <value>есть, 6 предустановок</value>
+        </item>
+      </items>
+      <items>
+        <name>Видео</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Масштабирование до разрешения HDTV</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разрешение выходного сигнала (HD)</name>
+          <value>720p, 1080i, 1080p</value>
+        </item>
+      </items>
+      <items>
+        <name>Форматы и носители</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MPEG4, DivX, MP3</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>CD, CD-R, CD-RW, DVD, DVD R, DVD RW</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>45 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность центрального канала</name>
+          <value>45 Вт</value>
+        </item>
+        <item>
+          <name>Мощность тыловых колонок</name>
+          <value>45 Вт</value>
+        </item>
+        <item>
+          <name>Мощность сабвуфера</name>
+          <value>105 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио стерео</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>HDMI, композитный, компонентный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB (тип A)</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры основного блока (ШxВxГ)</name>
+          <value>360х62.5х313 мм</value>
+        </item>
+        <item>
+          <name>Вес основного блока</name>
+          <value>2.9 кг</value>
+        </item>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>260х1020х68 мм</value>
+        </item>
+        <item>
+          <name>Вес фронтальных колонок</name>
+          <value>2.64 кг</value>
+        </item>
+        <item>
+          <name>Размеры тыловых колонок (ШxВxГ)</name>
+          <value>103х111х94 мм</value>
+        </item>
+        <item>
+          <name>Вес тыловых колонок</name>
+          <value>0.33 кг</value>
+        </item>
+        <item>
+          <name>Размеры центрального канала (ШxВxГ)</name>
+          <value>200х103х88 мм</value>
+        </item>
+        <item>
+          <name>Вес центрального канала</name>
+          <value>0.43 кг</value>
+        </item>
+        <item>
+          <name>Размеры сабвуфера (ШxВxГ)</name>
+          <value>156х325х320 мм</value>
+        </item>
+        <item>
+          <name>Вес сабвуфера</name>
+          <value>3.34 кг</value>
+        </item>
+        <item>
+          <name>Вес комплекта</name>
+          <value>12.61 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Радио</name>
+          <value>FM</value>
+        </item>
+        <item>
+          <name>Диапазон настройки FM</name>
+          <value>87.5-108 МГц</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="43512">
+    <title>Panasonic SC-XH175</title>
+    <model>SC-XH175</model>
+    <marka>Panasonic</marka>
+    <catalog id="304648">Домашние кинотеатры</catalog>
+    
+    <price1>6999</price1>
+    <price2>9600</price2>
+    <description>
+акустика 5.1, MPEG4, USB
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Основной блок</name>
+          <value>одноблочная система</value>
+        </item>
+        <item>
+          <name>Комплект акустических систем</name>
+          <value>5.1</value>
+        </item>
+        <item>
+          <name>Цвет основного блока </name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Цвет акустических систем</name>
+          <value>черный</value>
+        </item>
+      </items>
+      <items>
+        <name>Видео</name>
+        <item>
+          <name>Масштабирование до разрешения HDTV</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Форматы и носители</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MPEG4, MP3</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>CD, CD-R, CD-RW, DVD, DVD R, DVD RW</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Диаметр динамиков сабвуфера (мм)</name>
+          <value>200</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио оптический</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB (тип A)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="43513">
+    <title>Philips HTS3593</title>
+    <model>HTS3593</model>
+    <marka>Philips</marka>
+    <catalog id="304648">Домашние кинотеатры</catalog>
+    
+    <price1>10078</price1>
+    <price2>10860</price2>
+    <description>
+акустика 5.1, Blu-ray, 3D, MKV, MPEG4, JPEG, HDMI, USB, мощность акустики: фронт - 100 Вт, тыл - 100 Вт, центр - 100 Вт, сабвуфер - 100 Вт
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Основной блок</name>
+          <value>одноблочная система</value>
+        </item>
+        <item>
+          <name>Комплект акустических систем</name>
+          <value>5.1</value>
+        </item>
+        <item>
+          <name>Цвет основного блока </name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Цвет акустических систем</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Количество загружаемых дисков</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Поддержка iPod</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио</name>
+        <item>
+          <name>Суммарная мощность колонок (RMS)</name>
+          <value>600 Вт</value>
+        </item>
+        <item>
+          <name>Декодеры</name>
+          <value>Dolby Digital, Dolby Digital Plus, Dolby TrueHD, DTS, DTS-HD HR, DTS-HD MA</value>
+        </item>
+        <item>
+          <name>Эквалайзер</name>
+          <value>есть, 5 предустановок</value>
+        </item>
+        <item>
+          <name>Регулировка</name>
+          <value>тембра ВЧ, тембра НЧ</value>
+        </item>
+        <item>
+          <name>Частотный диапазон домашнего кинотеатра</name>
+          <value>20-20000 Гц</value>
+        </item>
+        <item>
+          <name>Частотный диапазон колонок</name>
+          <value>150-20000 Гц</value>
+        </item>
+        <item>
+          <name>Частотный диапазон сабвуфера</name>
+          <value>20-150 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Видео</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Масштабирование до разрешения HDTV</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разрешение выходного сигнала (HD)</name>
+          <value>720p, 1080i, 1080p</value>
+        </item>
+      </items>
+      <items>
+        <name>Форматы и носители</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MKV, MPEG4, DivX HD, AVCHD, MPEG1, MPEG2, VCD, SVCD, WMA, MP3, JPEG</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>BD (Blu-ray Disc), Blu-ray 3D, BD-R, BD-Re, CD, CD-R, CD-RW, DVD, DVD R, DVD RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые типы карт памяти</name>
+          <value>Secure Digital, SDHC</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>100 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность центрального канала</name>
+          <value>100 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос центрального канала</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность тыловых колонок</name>
+          <value>100 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос тыловых колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность сабвуфера</name>
+          <value>100 Вт</value>
+        </item>
+        <item>
+          <name>Диаметр динамиков сабвуфера (мм)</name>
+          <value>130</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио стерео, аудио оптический, аудио коаксиальный</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>HDMI, композитный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB (тип A), Ethernet</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры основного блока (ШxВxГ)</name>
+          <value>360x58x325 мм</value>
+        </item>
+        <item>
+          <name>Вес основного блока</name>
+          <value>2.4 кг</value>
+        </item>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>240x1007х240 мм</value>
+        </item>
+        <item>
+          <name>Вес фронтальных колонок</name>
+          <value>1.6 кг</value>
+        </item>
+        <item>
+          <name>Размеры тыловых колонок (ШxВxГ)</name>
+          <value>240x1007х240 мм</value>
+        </item>
+        <item>
+          <name>Вес тыловых колонок</name>
+          <value>1.6 кг</value>
+        </item>
+        <item>
+          <name>Размеры центрального канала (ШxВxГ)</name>
+          <value>159x84.5x80 мм</value>
+        </item>
+        <item>
+          <name>Вес центрального канала</name>
+          <value>0.35 кг</value>
+        </item>
+        <item>
+          <name>Размеры сабвуфера (ШxВxГ)</name>
+          <value>160x267.5x265 мм</value>
+        </item>
+        <item>
+          <name>Вес сабвуфера</name>
+          <value>2.5 кг</value>
+        </item>
+        <item>
+          <name>Вес комплекта</name>
+          <value>12 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Радио</name>
+          <value>FM</value>
+        </item>
+        <item>
+          <name>Количество радиостанций в памяти</name>
+          <value>40</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="43515">
+    <title>LG BH-7520T</title>
+    <model>BH-7520T</model>
+    <marka>LG</marka>
+    <catalog id="304648">Домашние кинотеатры</catalog>
+    
+    <price1>9000</price1>
+    <price2>19520</price2>
+    <description>
+акустика 5.1, Blu-ray, 3D, MKV, MPEG4, JPEG, караоке, HDMI, USB, мощность акустики: фронт - 180 Вт, тыл - 180 Вт, центр - 180 Вт, сабвуфер - 200 Вт
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Основной блок</name>
+          <value>одноблочная система</value>
+        </item>
+        <item>
+          <name>Комплект акустических систем</name>
+          <value>5.1</value>
+        </item>
+        <item>
+          <name>Цвет основного блока </name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Цвет акустических систем</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Количество загружаемых дисков</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Режим караоке</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио</name>
+        <item>
+          <name>Суммарная мощность колонок (RMS)</name>
+          <value>1100 Вт</value>
+        </item>
+        <item>
+          <name>Декодеры</name>
+          <value>Dolby Digital, Dolby Digital Plus, Dolby TrueHD, DTS, DTS-HD MA</value>
+        </item>
+        <item>
+          <name>Эквалайзер</name>
+          <value>есть, 7 предустановок</value>
+        </item>
+        <item>
+          <name>Аудио ЦАП</name>
+          <value>24 бит / 192 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Видео</name>
+        <item>
+          <name>Масштабирование до разрешения HDTV</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Форматы и носители</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MKV, MPEG4, DivX, AVCHD, SACD, WMA, MP3, JPEG</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>BD (Blu-ray Disc), Blu-ray 3D, BD-R, BD-Re, CD, CD-R, CD-RW, DVD, DVD R, DVD RW</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>180 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность центрального канала</name>
+          <value>180 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос центрального канала</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность тыловых колонок</name>
+          <value>180 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос тыловых колонок</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность сабвуфера</name>
+          <value>200 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>HDMI x2, аудио стерео x2, аудио оптический, микрофон x2</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>HDMI, композитный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB (тип A), Ethernet, Wi-Fi</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры основного блока (ШxВxГ)</name>
+          <value>440х65х300 мм</value>
+        </item>
+        <item>
+          <name>Вес основного блока</name>
+          <value>3 кг</value>
+        </item>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>250х1200х250 мм</value>
+        </item>
+        <item>
+          <name>Вес фронтальных колонок</name>
+          <value>4 кг</value>
+        </item>
+        <item>
+          <name>Размеры тыловых колонок (ШxВxГ)</name>
+          <value>250х1200х250 мм</value>
+        </item>
+        <item>
+          <name>Вес тыловых колонок</name>
+          <value>4.1 кг</value>
+        </item>
+        <item>
+          <name>Размеры центрального канала (ШxВxГ)</name>
+          <value>330х93х74 мм</value>
+        </item>
+        <item>
+          <name>Вес центрального канала</name>
+          <value>1.3 кг</value>
+        </item>
+        <item>
+          <name>Размеры сабвуфера (ШxВxГ)</name>
+          <value>250х340х347 мм</value>
+        </item>
+        <item>
+          <name>Вес сабвуфера</name>
+          <value>6.3 кг</value>
+        </item>
+        <item>
+          <name>Вес комплекта</name>
+          <value>27 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Радио</name>
+          <value>FM</value>
+        </item>
+        <item>
+          <name>Количество радиостанций в памяти</name>
+          <value>50</value>
+        </item>
+        <item>
+          <name>Поддержка RDS</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="43516">
+    <title>LG DH6520TK</title>
+    <model>DH6520TK</model>
+    <marka>LG</marka>
+    <catalog id="304648">Домашние кинотеатры</catalog>
+    
+    <price1>7090</price1>
+    <price2>8350</price2>
+    <description>
+акустика 5.1, MPEG4, JPEG, караоке, HDMI, USB, мощность акустики: фронт - 141 Вт, тыл - 141 Вт, центр - 141 Вт, сабвуфер - 145 Вт
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Основной блок</name>
+          <value>одноблочная система</value>
+        </item>
+        <item>
+          <name>Комплект акустических систем</name>
+          <value>5.1</value>
+        </item>
+        <item>
+          <name>Цвет основного блока </name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Цвет акустических систем</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Режим караоке</name>
+          <value>Караоке, Караоке MIX</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио</name>
+        <item>
+          <name>Суммарная мощность колонок (RMS)</name>
+          <value>850 Вт</value>
+        </item>
+        <item>
+          <name>Декодеры</name>
+          <value>Dolby Digital, Dolby Digital Plus, Dolby TrueHD, DTS, DTS-HD MA</value>
+        </item>
+        <item>
+          <name>Эквалайзер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Видео</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Масштабирование до разрешения HDTV</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Форматы и носители</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MPEG4, DivX, WMV, MPEG1, MPEG2, WMA, MP3, JPEG</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>CD, CD-R, CD-RW, DVD, DVD R, DVD RW</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>141 Вт</value>
+        </item>
+        <item>
+          <name>Мощность центрального канала</name>
+          <value>141 Вт</value>
+        </item>
+        <item>
+          <name>Мощность тыловых колонок</name>
+          <value>141 Вт</value>
+        </item>
+        <item>
+          <name>Мощность сабвуфера</name>
+          <value>145 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>композитный, аудио стерео, аудио оптический, микрофон x2</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>HDMI, композитный, компонентный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB (тип A)</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры основного блока (ШxВxГ)</name>
+          <value>360х60х300 мм</value>
+        </item>
+        <item>
+          <name>Вес основного блока</name>
+          <value>2.7 кг</value>
+        </item>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>250x1110x250 мм</value>
+        </item>
+        <item>
+          <name>Вес фронтальных колонок</name>
+          <value>3.4 кг</value>
+        </item>
+        <item>
+          <name>Размеры тыловых колонок (ШxВxГ)</name>
+          <value>250x1110x250 мм</value>
+        </item>
+        <item>
+          <name>Вес тыловых колонок</name>
+          <value>3.4 кг</value>
+        </item>
+        <item>
+          <name>Размеры центрального канала (ШxВxГ)</name>
+          <value>300x88x64 мм</value>
+        </item>
+        <item>
+          <name>Вес центрального канала</name>
+          <value>0.5 кг</value>
+        </item>
+        <item>
+          <name>Размеры сабвуфера (ШxВxГ)</name>
+          <value>130x350x325 мм</value>
+        </item>
+        <item>
+          <name>Вес сабвуфера</name>
+          <value>4.8 кг</value>
+        </item>
+        <item>
+          <name>Вес комплекта</name>
+          <value>22 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Радио</name>
+          <value>FM</value>
+        </item>
+        <item>
+          <name>Количество радиостанций в памяти</name>
+          <value>50</value>
+        </item>
+        <item>
+          <name>Защита от детей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>в комплекте 1 микрофон и диск (4000 караоке-песен)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="43522">
+    <title>LG BH6520T</title>
+    <model>BH6520T</model>
+    <marka>LG</marka>
+    <catalog id="304648">Домашние кинотеатры</catalog>
+    
+    <price1>8200</price1>
+    <price2>11657</price2>
+    <description>
+акустика 5.1, Blu-ray, 3D, MKV, MPEG4, HDMI, USB, мощность акустики: фронт - 141 Вт, тыл - 141 Вт, центр - 141 Вт, сабвуфер - 145 Вт
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Основной блок</name>
+          <value>одноблочная система</value>
+        </item>
+        <item>
+          <name>Комплект акустических систем</name>
+          <value>5.1</value>
+        </item>
+        <item>
+          <name>Цвет основного блока </name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Цвет акустических систем</name>
+          <value>черный</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио</name>
+        <item>
+          <name>Суммарная мощность колонок (RMS)</name>
+          <value>850 Вт</value>
+        </item>
+        <item>
+          <name>Декодеры</name>
+          <value>Dolby Digital, Dolby Digital Plus, Dolby TrueHD, DTS, DTS-HD HR, DTS-HD MA</value>
+        </item>
+      </items>
+      <items>
+        <name>Видео</name>
+        <item>
+          <name>Видео ЦАП</name>
+          <value>12 бит / 148 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Форматы и носители</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MKV, MPEG4, DivX, DivX HD, AVCHD, MPEG1, MPEG2, WMA, MP3</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>BD (Blu-ray Disc), Blu-ray 3D, BD-R, BD-Re, CD, CD-R, CD-RW, DVD, DVD R, DVD RW</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>141 Вт</value>
+        </item>
+        <item>
+          <name>Мощность центрального канала</name>
+          <value>141 Вт</value>
+        </item>
+        <item>
+          <name>Мощность тыловых колонок</name>
+          <value>141 Вт</value>
+        </item>
+        <item>
+          <name>Мощность сабвуфера</name>
+          <value>145 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио стерео x2</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>HDMI, композитный, аудио 5.1CH, аудио оптический</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB (тип A), Ethernet</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Радио</name>
+          <value>FM</value>
+        </item>
+        <item>
+          <name>Количество радиостанций в памяти</name>
+          <value>50</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="43524">
+    <title>Samsung HT-E455K</title>
+    <model>HT-E455K</model>
+    <marka>Samsung</marka>
+    <catalog id="304648">Домашние кинотеатры</catalog>
+    
+    <price1>8940</price1>
+    <price2>11600</price2>
+    <description>
+акустика 5.1, MPEG4, JPEG, HDMI, USB
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Основной блок</name>
+          <value>одноблочная система</value>
+        </item>
+        <item>
+          <name>Комплект акустических систем</name>
+          <value>5.1</value>
+        </item>
+        <item>
+          <name>Цвет основного блока </name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Цвет акустических систем</name>
+          <value>черный</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио</name>
+        <item>
+          <name>Суммарная мощность колонок (RMS)</name>
+          <value>1000 Вт</value>
+        </item>
+        <item>
+          <name>Декодеры</name>
+          <value>Dolby Digital, Dolby Pro Logic II, DTS</value>
+        </item>
+        <item>
+          <name>Количество режимов DSP</name>
+          <value>8</value>
+        </item>
+      </items>
+      <items>
+        <name>Видео</name>
+        <item>
+          <name>Масштабирование до разрешения HDTV</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Форматы и носители</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MPEG4, DivX, WMV, VCD, WMA, MP3, JPEG</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>CD, CD-R, CD-RW, DVD, DVD R, DVD RW</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио стерео x2, аудио оптический</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>HDMI, композитный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB (тип A)</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры основного блока (ШxВxГ)</name>
+          <value>430x58x250 мм</value>
+        </item>
+        <item>
+          <name>Вес основного блока</name>
+          <value>2.3 кг</value>
+        </item>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>89x1053x71 мм</value>
+        </item>
+        <item>
+          <name>Вес фронтальных колонок</name>
+          <value>3.16 кг</value>
+        </item>
+        <item>
+          <name>Размеры тыловых колонок (ШxВxГ)</name>
+          <value>89x1053x71 мм</value>
+        </item>
+        <item>
+          <name>Вес тыловых колонок</name>
+          <value>3.16 кг</value>
+        </item>
+        <item>
+          <name>Размеры центрального канала (ШxВxГ)</name>
+          <value>228x77x70 мм</value>
+        </item>
+        <item>
+          <name>Вес центрального канала</name>
+          <value>0.465 кг</value>
+        </item>
+        <item>
+          <name>Размеры сабвуфера (ШxВxГ)</name>
+          <value>200x390x350 мм</value>
+        </item>
+        <item>
+          <name>Вес сабвуфера</name>
+          <value>6.06 кг</value>
+        </item>
+        <item>
+          <name>Вес комплекта</name>
+          <value>22 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Радио</name>
+          <value>FM</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="43525">
+    <title>Philips HTS5120</title>
+    <model>HTS5120</model>
+    <marka>Philips</marka>
+    <catalog id="304648">Домашние кинотеатры</catalog>
+    
+    <price1>10989</price1>
+    <price2>10990</price2>
+    <description>
+акустика 2.1 (звуковая панель), MPEG4, JPEG, HDMI, USB
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Основной блок</name>
+          <value>одноблочная система</value>
+        </item>
+        <item>
+          <name>Комплект акустических систем</name>
+          <value>2.1 (звуковая панель)</value>
+        </item>
+        <item>
+          <name>Цвет основного блока </name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Цвет акустических систем</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Количество загружаемых дисков</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Поддержка iPod</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио</name>
+        <item>
+          <name>Суммарная мощность колонок (RMS)</name>
+          <value>400 Вт</value>
+        </item>
+        <item>
+          <name>Декодеры</name>
+          <value>Dolby Digital, Dolby Pro Logic II, DTS 96/24</value>
+        </item>
+        <item>
+          <name>Количество режимов DSP</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Эквалайзер</name>
+          <value>есть, 2 полосы</value>
+        </item>
+        <item>
+          <name>Регулировка</name>
+          <value>баланса, тембра ВЧ, тембра НЧ</value>
+        </item>
+        <item>
+          <name>Частотный диапазон домашнего кинотеатра</name>
+          <value>35-20000 Гц</value>
+        </item>
+        <item>
+          <name>Частотный диапазон колонок</name>
+          <value>150-20000 Гц</value>
+        </item>
+        <item>
+          <name>Частотный диапазон сабвуфера</name>
+          <value>35-200 Гц</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум аудио</name>
+          <value>65 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Видео</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разрешение выходного сигнала (HD)</name>
+          <value>720p, 1080i, 1080p</value>
+        </item>
+        <item>
+          <name>Функция увеличения изображения (ZOOM)</name>
+          <value>есть, при проигрывании / при паузе</value>
+        </item>
+      </items>
+      <items>
+        <name>Форматы и носители</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MPEG4, DivX, WMV, MPEG1, MPEG2, VCD, SVCD, WMA, MP3, Picture CD, JPEG</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>CD, CD-R, CD-RW, DVD, DVD R, DVD RW</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Диаметр динамиков фронтальных колонок (мм)</name>
+          <value>НЧ 2x76, ВЧ 1x38</value>
+        </item>
+        <item>
+          <name>Материал корпуса колонок</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Диаметр динамиков сабвуфера (мм)</name>
+          <value>152</value>
+        </item>
+        <item>
+          <name>Оформление динамиков сабвуфера</name>
+          <value>закрытый ящик</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио стерео, аудио оптический, аудио коаксиальный</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>HDMI, композитный, компонентный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB (тип A)</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры основного блока (ШxВxГ)</name>
+          <value>791х145х57 мм</value>
+        </item>
+        <item>
+          <name>Вес основного блока</name>
+          <value>2.23 кг</value>
+        </item>
+        <item>
+          <name>Размеры сабвуфера (ШxВxГ)</name>
+          <value>182х365х306 мм</value>
+        </item>
+        <item>
+          <name>Вес сабвуфера</name>
+          <value>6 кг</value>
+        </item>
+        <item>
+          <name>Вес комплекта</name>
+          <value>8.23 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Радио</name>
+          <value>FM</value>
+        </item>
+        <item>
+          <name>Диапазон настройки FM</name>
+          <value>87.5-108 МГц</value>
+        </item>
+        <item>
+          <name>Поддержка RDS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="43530">
+    <title>Panasonic SC-BTT195</title>
+    <model>SC-BTT195</model>
+    <marka>Panasonic</marka>
+    <catalog id="304648">Домашние кинотеатры</catalog>
+    
+    <price1>13080</price1>
+    <price2>14594</price2>
+    <description>
+акустика 5.1, Blu-ray, 3D, MKV, MPEG4, JPEG, HDMI, USB, мощность акустики: фронт - 160 Вт, тыл - 160 Вт, центр - 160 Вт, сабвуфер - 200 Вт
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Основной блок</name>
+          <value>одноблочная система</value>
+        </item>
+        <item>
+          <name>Комплект акустических систем</name>
+          <value>5.1</value>
+        </item>
+        <item>
+          <name>Цвет основного блока </name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Цвет акустических систем</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Поддержка iPod</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио</name>
+        <item>
+          <name>Суммарная мощность колонок (RMS)</name>
+          <value>1000 Вт</value>
+        </item>
+        <item>
+          <name>Декодеры</name>
+          <value>Dolby Digital, Dolby Digital Plus, Dolby TrueHD, Dolby Pro Logic II, DTS-HD HR, DTS-HD MA</value>
+        </item>
+        <item>
+          <name>Эквалайзер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Видео</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Масштабирование до разрешения HDTV</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разрешение выходного сигнала (HD)</name>
+          <value>720p, 1080i, 1080p</value>
+        </item>
+      </items>
+      <items>
+        <name>Форматы и носители</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MKV, MPEG4, AVCHD, MPEG2, MP3, JPEG</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>BD (Blu-ray Disc), Blu-ray 3D, BD-R, BD-Re, CD, CD-R, CD-RW, DVD, DVD R, DVD RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые типы карт памяти</name>
+          <value>Secure Digital, SDHC</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>160 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Диаметр динамиков фронтальных колонок (мм)</name>
+          <value>1х64</value>
+        </item>
+        <item>
+          <name>Мощность центрального канала</name>
+          <value>160 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос центрального канала</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Диаметр динамиков центрального канала (мм)</name>
+          <value>1х64</value>
+        </item>
+        <item>
+          <name>Мощность тыловых колонок</name>
+          <value>160 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос тыловых колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Диаметр динамиков тыловых колонок (мм)</name>
+          <value>1х64</value>
+        </item>
+        <item>
+          <name>Мощность сабвуфера</name>
+          <value>200 Вт</value>
+        </item>
+        <item>
+          <name>Диаметр динамиков сабвуфера (мм)</name>
+          <value>165</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио стерео, аудио оптический</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>HDMI</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB (тип A) x2, Ethernet</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Поддержка BD-Live</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Радио</name>
+          <value>FM</value>
+        </item>
+        <item>
+          <name>Количество радиостанций в памяти</name>
+          <value>30</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="43539">
+    <title>Philips HTS3583</title>
+    <model>HTS3583</model>
+    <marka>Philips</marka>
+    <catalog id="304648">Домашние кинотеатры</catalog>
+    
+    <price1>8980</price1>
+    <price2>10720</price2>
+    <description>
+акустика 5.1, Blu-ray, 3D, MKV, MPEG4, JPEG, HDMI, USB, мощность акустики: фронт - 100 Вт, тыл - 100 Вт, центр - 100 Вт, сабвуфер - 100 Вт
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Основной блок</name>
+          <value>одноблочная система</value>
+        </item>
+        <item>
+          <name>Комплект акустических систем</name>
+          <value>5.1</value>
+        </item>
+        <item>
+          <name>Цвет основного блока </name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Цвет акустических систем</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Количество загружаемых дисков</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Поддержка iPod</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио</name>
+        <item>
+          <name>Суммарная мощность колонок (RMS)</name>
+          <value>600 Вт</value>
+        </item>
+        <item>
+          <name>Декодеры</name>
+          <value>Dolby Digital, Dolby Digital Plus, Dolby TrueHD, DTS, DTS-HD HR, DTS-HD MA</value>
+        </item>
+        <item>
+          <name>Эквалайзер</name>
+          <value>есть, 5 предустановок</value>
+        </item>
+        <item>
+          <name>Регулировка</name>
+          <value>тембра ВЧ, тембра НЧ</value>
+        </item>
+        <item>
+          <name>Частотный диапазон домашнего кинотеатра</name>
+          <value>20-20000 Гц</value>
+        </item>
+        <item>
+          <name>Частотный диапазон колонок</name>
+          <value>150-20000 Гц</value>
+        </item>
+        <item>
+          <name>Частотный диапазон сабвуфера</name>
+          <value>20-150 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Видео</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Масштабирование до разрешения HDTV</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разрешение выходного сигнала (HD)</name>
+          <value>720p, 1080i, 1080p</value>
+        </item>
+      </items>
+      <items>
+        <name>Форматы и носители</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MKV, MPEG4, DivX, DivX HD, AVCHD, MPEG1, MPEG2, VCD, SVCD, WMA, MP3, JPEG</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>BD (Blu-ray Disc), Blu-ray 3D, BD-R, BD-Re, CD, CD-R, CD-RW, DVD, DVD R, DVD RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые типы карт памяти</name>
+          <value>Secure Digital, SDHC</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>100 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Диаметр динамиков фронтальных колонок (мм)</name>
+          <value>1х64</value>
+        </item>
+        <item>
+          <name>Мощность центрального канала</name>
+          <value>100 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос центрального канала</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Диаметр динамиков центрального канала (мм)</name>
+          <value>1х64</value>
+        </item>
+        <item>
+          <name>Мощность тыловых колонок</name>
+          <value>100 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос тыловых колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Диаметр динамиков тыловых колонок (мм)</name>
+          <value>1х64</value>
+        </item>
+        <item>
+          <name>Мощность сабвуфера</name>
+          <value>100 Вт</value>
+        </item>
+        <item>
+          <name>Диаметр динамиков сабвуфера (мм)</name>
+          <value>130</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио стерео, аудио оптический, аудио коаксиальный</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>HDMI, композитный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB (тип A), Ethernet</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры основного блока (ШxВxГ)</name>
+          <value>360x58x325 мм</value>
+        </item>
+        <item>
+          <name>Вес основного блока</name>
+          <value>2.4 кг</value>
+        </item>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>84.5x159x80 мм</value>
+        </item>
+        <item>
+          <name>Вес фронтальных колонок</name>
+          <value>0.35 кг</value>
+        </item>
+        <item>
+          <name>Размеры тыловых колонок (ШxВxГ)</name>
+          <value>240x1007x240 мм</value>
+        </item>
+        <item>
+          <name>Вес тыловых колонок</name>
+          <value>1.6 кг</value>
+        </item>
+        <item>
+          <name>Размеры центрального канала (ШxВxГ)</name>
+          <value>159x84.5x80 мм</value>
+        </item>
+        <item>
+          <name>Вес центрального канала</name>
+          <value>0.35 кг</value>
+        </item>
+        <item>
+          <name>Размеры сабвуфера (ШxВxГ)</name>
+          <value>160x267.5x265 мм</value>
+        </item>
+        <item>
+          <name>Вес сабвуфера</name>
+          <value>2.5 кг</value>
+        </item>
+        <item>
+          <name>Вес комплекта</name>
+          <value>9 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Радио</name>
+          <value>FM</value>
+        </item>
+        <item>
+          <name>Количество радиостанций в памяти</name>
+          <value>40</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="43540">
+    <title>LG HLT-55W</title>
+    <model>HLT-55W</model>
+    <marka>LG</marka>
+    <catalog id="304648">Домашние кинотеатры</catalog>
+    
+    <price1>8999</price1>
+    <price2>9990</price2>
+    <description>
+акустика 5.1 (звуковая панель), JPEG, караоке, HDMI, USB, мощность акустики: фронт - 60 Вт, тыл - 60 Вт, центр - 60 Вт, сабвуфер - 150 Вт
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Основной блок</name>
+          <value>одноблочная система</value>
+        </item>
+        <item>
+          <name>Комплект акустических систем</name>
+          <value>5.1 (звуковая панель)</value>
+        </item>
+        <item>
+          <name>Цвет основного блока </name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Цвет акустических систем</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Количество загружаемых дисков</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Режим караоке</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио</name>
+        <item>
+          <name>Суммарная мощность колонок (RMS)</name>
+          <value>450 Вт</value>
+        </item>
+        <item>
+          <name>Декодеры</name>
+          <value>Dolby Digital, DTS</value>
+        </item>
+        <item>
+          <name>Эквалайзер</name>
+          <value>есть, 7 предустановок</value>
+        </item>
+      </items>
+      <items>
+        <name>Видео</name>
+        <item>
+          <name>Масштабирование до разрешения HDTV</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Форматы и носители</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>DivX, VCD, WMA, MP3, Picture CD, JPEG</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>CD, CD-R, CD-RW, DVD, DVD R, DVD RW</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>60 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Магнитная защита фронтальных колонок</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мощность центрального канала</name>
+          <value>60 Вт</value>
+        </item>
+        <item>
+          <name>Магнитная защита центрального канала</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мощность тыловых колонок</name>
+          <value>60 Вт</value>
+        </item>
+        <item>
+          <name>Материал корпуса колонок</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Мощность сабвуфера</name>
+          <value>150 Вт</value>
+        </item>
+        <item>
+          <name>Материал корпуса сабвуфера</name>
+          <value>MDF</value>
+        </item>
+        <item>
+          <name>Оформление динамиков сабвуфера</name>
+          <value>фазоинвертор</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио стерео x2, аудио оптический, микрофон</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>HDMI, композитный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB (тип A)</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры основного блока (ШxВxГ)</name>
+          <value>800х160х80 мм</value>
+        </item>
+        <item>
+          <name>Вес основного блока</name>
+          <value>4.6 кг</value>
+        </item>
+        <item>
+          <name>Размеры тыловых колонок (ШxВxГ)</name>
+          <value>100x186х97 мм</value>
+        </item>
+        <item>
+          <name>Вес тыловых колонок</name>
+          <value>0.42 кг</value>
+        </item>
+        <item>
+          <name>Размеры сабвуфера (ШxВxГ)</name>
+          <value>196x390x356 мм</value>
+        </item>
+        <item>
+          <name>Вес сабвуфера</name>
+          <value>7 кг</value>
+        </item>
+        <item>
+          <name>Вес комплекта</name>
+          <value>12.44 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Радио</name>
+          <value>AM, FM</value>
+        </item>
+        <item>
+          <name>Количество радиостанций в памяти</name>
+          <value>50 (50 FM)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="43543">
+    <title>Sony DAV-DZ640M</title>
+    <model>DAV-DZ640M</model>
+    <marka>Sony</marka>
+    <catalog id="304648">Домашние кинотеатры</catalog>
+    
+    <price1>7490</price1>
+    <price2>9730</price2>
+    <description>
+акустика 5.1, MPEG4, HDMI, USB
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Основной блок</name>
+          <value>одноблочная система</value>
+        </item>
+        <item>
+          <name>Комплект акустических систем</name>
+          <value>5.1</value>
+        </item>
+        <item>
+          <name>Цвет основного блока </name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Цвет акустических систем</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Количество загружаемых дисков</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио</name>
+        <item>
+          <name>Суммарная мощность колонок (RMS)</name>
+          <value>1000 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Видео</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Масштабирование до разрешения HDTV</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разрешение выходного сигнала (HD)</name>
+          <value>720p, 1080i, 1080p</value>
+        </item>
+      </items>
+      <items>
+        <name>Форматы и носители</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MPEG4, DivX, WMA, MP3</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>CD, CD-R, CD-RW, DVD, DVD R, DVD RW</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Выходы</name>
+          <value>HDMI</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB (тип A)</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Радио</name>
+          <value>AM, FM</value>
+        </item>
+        <item>
+          <name>Количество радиостанций в памяти</name>
+          <value>20</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="43545">
+    <title>Philips HTS3539</title>
+    <model>HTS3539</model>
+    <marka>Philips</marka>
+    <catalog id="304648">Домашние кинотеатры</catalog>
+    
+    <price1>6310</price1>
+    <price2>9270</price2>
+    <description>
+акустика 5.1, MPEG4, JPEG, USB, мощность акустики: фронт - 100 Вт, тыл - 100 Вт, центр - 100 Вт, сабвуфер - 100 Вт
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Основной блок</name>
+          <value>одноблочная система</value>
+        </item>
+        <item>
+          <name>Комплект акустических систем</name>
+          <value>5.1</value>
+        </item>
+        <item>
+          <name>Цвет основного блока </name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Цвет акустических систем</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Количество загружаемых дисков</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио</name>
+        <item>
+          <name>Суммарная мощность колонок (RMS)</name>
+          <value>600 Вт</value>
+        </item>
+        <item>
+          <name>Декодеры</name>
+          <value>Dolby Digital, Dolby Pro Logic II, DTS</value>
+        </item>
+        <item>
+          <name>Эквалайзер</name>
+          <value>есть, 5 предустановок</value>
+        </item>
+        <item>
+          <name>Частотный диапазон домашнего кинотеатра</name>
+          <value>20-20000 Гц</value>
+        </item>
+        <item>
+          <name>Частотный диапазон колонок</name>
+          <value>150-20000 Гц</value>
+        </item>
+        <item>
+          <name>Частотный диапазон сабвуфера</name>
+          <value>20-150 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Видео</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Масштабирование до разрешения HDTV</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разрешение выходного сигнала (HD)</name>
+          <value>720p, 1080i, 1080p</value>
+        </item>
+      </items>
+      <items>
+        <name>Форматы и носители</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MPEG4, DivX, MPEG1, MPEG2, VCD, SVCD, WMA, MP3, JPEG</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>CD, CD-R, CD-RW, DVD, DVD R, DVD RW</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>100 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Диаметр динамиков фронтальных колонок (мм)</name>
+          <value>1х64</value>
+        </item>
+        <item>
+          <name>Мощность центрального канала</name>
+          <value>100 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос центрального канала</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Диаметр динамиков центрального канала (мм)</name>
+          <value>1х64</value>
+        </item>
+        <item>
+          <name>Мощность тыловых колонок</name>
+          <value>100 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос тыловых колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Диаметр динамиков тыловых колонок (мм)</name>
+          <value>1х64</value>
+        </item>
+        <item>
+          <name>Мощность сабвуфера</name>
+          <value>100 Вт</value>
+        </item>
+        <item>
+          <name>Диаметр динамиков сабвуфера (мм)</name>
+          <value>130</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио стерео, аудио оптический</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>HDMI, композитный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB (тип A)</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры основного блока (ШxВxГ)</name>
+          <value>360x58x325 мм</value>
+        </item>
+        <item>
+          <name>Вес основного блока</name>
+          <value>2.4 кг</value>
+        </item>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>240x1007x240 мм</value>
+        </item>
+        <item>
+          <name>Вес фронтальных колонок</name>
+          <value>1.6 кг</value>
+        </item>
+        <item>
+          <name>Размеры тыловых колонок (ШxВxГ)</name>
+          <value>240x1007x240 мм</value>
+        </item>
+        <item>
+          <name>Вес тыловых колонок</name>
+          <value>1.6 кг</value>
+        </item>
+        <item>
+          <name>Размеры центрального канала (ШxВxГ)</name>
+          <value>85x160x95 мм</value>
+        </item>
+        <item>
+          <name>Вес центрального канала</name>
+          <value>0.3 кг</value>
+        </item>
+        <item>
+          <name>Размеры сабвуфера (ШxВxГ)</name>
+          <value>160x265x265 мм</value>
+        </item>
+        <item>
+          <name>Вес сабвуфера</name>
+          <value>2.6 кг</value>
+        </item>
+        <item>
+          <name>Вес комплекта</name>
+          <value>12 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Радио</name>
+          <value>FM</value>
+        </item>
+        <item>
+          <name>Количество радиостанций в памяти</name>
+          <value>40</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="43547">
+    <title>Panasonic SC-XH10</title>
+    <model>SC-XH10</model>
+    <marka>Panasonic</marka>
+    <catalog id="304648">Домашние кинотеатры</catalog>
+    
+    <price1>5170</price1>
+    <price2>5530</price2>
+    <description>
+акустика 5.1, MPEG4, JPEG, USB, мощность акустики: фронт - 50 Вт, тыл - 50 Вт, центр - 50 Вт, сабвуфер - 80 Вт
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Основной блок</name>
+          <value>одноблочная система</value>
+        </item>
+        <item>
+          <name>Комплект акустических систем</name>
+          <value>5.1</value>
+        </item>
+        <item>
+          <name>Цвет основного блока </name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Цвет акустических систем</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Количество загружаемых дисков</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио</name>
+        <item>
+          <name>Суммарная мощность колонок (RMS)</name>
+          <value>330 Вт</value>
+        </item>
+        <item>
+          <name>Декодеры</name>
+          <value>Dolby Digital</value>
+        </item>
+      </items>
+      <items>
+        <name>Форматы и носители</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MPEG4, DivX, MP3, JPEG</value>
+        </item>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>CD, CD-R, CD-RW, DVD, DVD R, DVD RW</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>50 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Диаметр динамиков фронтальных колонок (мм)</name>
+          <value>1x65</value>
+        </item>
+        <item>
+          <name>Мощность центрального канала</name>
+          <value>50 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос центрального канала</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Диаметр динамиков центрального канала (мм)</name>
+          <value>1x65</value>
+        </item>
+        <item>
+          <name>Мощность тыловых колонок</name>
+          <value>50 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос тыловых колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Диаметр динамиков тыловых колонок (мм)</name>
+          <value>1x65</value>
+        </item>
+        <item>
+          <name>Мощность сабвуфера</name>
+          <value>80 Вт</value>
+        </item>
+        <item>
+          <name>Диаметр динамиков сабвуфера (мм)</name>
+          <value>160</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио стерео</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>композитный, компонентный</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB (тип A)</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размеры основного блока (ШxВxГ)</name>
+          <value>360x48x273 мм</value>
+        </item>
+        <item>
+          <name>Вес основного блока</name>
+          <value>2 кг</value>
+        </item>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>80x119x68 мм</value>
+        </item>
+        <item>
+          <name>Вес фронтальных колонок</name>
+          <value>0.32 кг</value>
+        </item>
+        <item>
+          <name>Размеры тыловых колонок (ШxВxГ)</name>
+          <value>80x119x68 мм</value>
+        </item>
+        <item>
+          <name>Вес тыловых колонок</name>
+          <value>0.32 кг</value>
+        </item>
+        <item>
+          <name>Размеры центрального канала (ШxВxГ)</name>
+          <value>80x119x68 мм</value>
+        </item>
+        <item>
+          <name>Вес центрального канала</name>
+          <value>0.39 кг</value>
+        </item>
+        <item>
+          <name>Размеры сабвуфера (ШxВxГ)</name>
+          <value>180x262x300 мм</value>
+        </item>
+        <item>
+          <name>Вес сабвуфера</name>
+          <value>3.5 кг</value>
+        </item>
+        <item>
+          <name>Вес комплекта</name>
+          <value>7 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Радио</name>
+          <value>FM</value>
+        </item>
+        <item>
+          <name>Количество радиостанций в памяти</name>
+          <value>30</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

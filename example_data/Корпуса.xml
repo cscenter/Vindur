@@ -1,0 +1,2178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="58314">
+    <title>Thermaltake V5 Black Edition VL70001W2Z Black</title>
+    <model>V5 Black Edition VL70001W2Z Black</model>
+    <marka>Thermaltake</marka>
+    <catalog id="755740">Корпуса</catalog>
+    
+    <price1>2311</price1>
+    <price2>3195</price2>
+    <description>
+ATX, mATX, Midi-Tower, сталь, без блока питания, 2xUSB на лицевой панели, 223x508x490 мм, 7.1 кг, цвет: черный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Форм-фактор и размеры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>ATX, mATX</value>
+        </item>
+        <item>
+          <name>Типоразмер</name>
+          <value>Midi-Tower</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Максимальная длина видеокарты</name>
+          <value>288 мм</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>223x508x490 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>7.1 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Окно на боковой стенке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отсеки 2,5"</name>
+          <value>комбинированные</value>
+        </item>
+        <item>
+          <name>Число отсеков 5,25"</name>
+          <value>9</value>
+        </item>
+        <item>
+          <name>Слоты расширения</name>
+          <value>7, безвинтовое крепление</value>
+        </item>
+        <item>
+          <name>Количество замков</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Охлаждение</name>
+        <item>
+          <name>Встроенные вентиляторы</name>
+          <value>1 x 120x120 мм
+</value>
+        </item>
+        <item>
+          <name>Места для доп. вентиляторов</name>
+          <value>2 x 120x120 мм
+</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Разъемы на лицевой панели</name>
+          <value>USB x2, наушники, микрофон, eSATA</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Расположение блока питания</name>
+          <value>горизонтальное</value>
+        </item>
+        <item>
+          <name>Блок питания внизу</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>200 мм вентилятор сверху, съёмная корзина для 3,5-дюймовых накопителей, ручка для переноски на верхней панели, защелки для 5.25” устройств, один отсек 2.5” конвертируется из 5.25” отсека</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58319">
+    <title>IN WIN BP659 200W Black</title>
+    <model>BP659 200W Black</model>
+    <marka>IN WIN</marka>
+    <catalog id="755740">Корпуса</catalog>
+    
+    <price1>1865</price1>
+    <price2>2770</price2>
+    <description>
+Mini-ITX, Slim-Desktop, блок питания 200 Вт, 2xUSB на лицевой панели, 265x100x310 мм, цвет: черный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Форм-фактор и размеры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>Mini-ITX</value>
+        </item>
+        <item>
+          <name>Типоразмер</name>
+          <value>Slim-Desktop</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>200 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная высота процессорного кулера</name>
+          <value>47 мм</value>
+        </item>
+        <item>
+          <name>Максимальная длина видеокарты</name>
+          <value>188 мм</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>265x100x310 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Передняя дверь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Окно на боковой стенке</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Число внутренних отсеков 3,5"</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Число отсеков 5,25"</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Слоты расширения</name>
+          <value>1, только низкопрофильные карты</value>
+        </item>
+        <item>
+          <name>Механизм открывания</name>
+          <value>снимается одна стенка</value>
+        </item>
+        <item>
+          <name>Количество замков</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Охлаждение</name>
+        <item>
+          <name>Встроенные вентиляторы</name>
+          <value>1 x 80x80 мм
+</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Разъемы на лицевой панели</name>
+          <value>USB x2, наушники, микрофон</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Расположение блока питания</name>
+          <value>вертикальное</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>FireWire на лицевой панели и безвинтовое крепление 5,25 отсека опционально</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58322">
+    <title>IN WIN MG-134 600W Black</title>
+    <model>MG-134 600W Black</model>
+    <marka>IN WIN</marka>
+    <catalog id="755740">Корпуса</catalog>
+    
+    <price1>3427</price1>
+    <price2>4890</price2>
+    <description>
+ATX, Midi-Tower, сталь, блок питания 600 Вт, 1xUSB на лицевой панели, 200x432x505 мм, 6.23 кг, цвет: черный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Форм-фактор и размеры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>ATX</value>
+        </item>
+        <item>
+          <name>Типоразмер</name>
+          <value>Midi-Tower</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>600 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная длина видеокарты</name>
+          <value>293 мм</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>200x432x505 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6.23 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Толщина стенок</name>
+          <value>0.59 мм</value>
+        </item>
+        <item>
+          <name>Окно на боковой стенке</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Число внутренних отсеков 3,5"</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Число отсеков 5,25"</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Слоты расширения</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Количество замков</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Охлаждение</name>
+        <item>
+          <name>Встроенные вентиляторы</name>
+          <value>2 x 120x120 мм
+</value>
+        </item>
+        <item>
+          <name>Места для доп. вентиляторов</name>
+          <value>1 x 120x120 мм
+</value>
+        </item>
+        <item>
+          <name>Возможность установки системы жидкостного охлаждения</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Разъемы на лицевой панели</name>
+          <value>USB 3.0, наушники, микрофон</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Расположение блока питания</name>
+          <value>горизонтальное</value>
+        </item>
+        <item>
+          <name>Блок питания внизу</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>безвинтовое крепление 5.25" устройств; место для 120 мм вентилятора на задней стенке</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58334">
+    <title>Thermaltake Dokker VM600M1W2Z Black</title>
+    <model>Dokker VM600M1W2Z Black</model>
+    <marka>Thermaltake</marka>
+    <catalog id="755740">Корпуса</catalog>
+    
+    <price1>1690</price1>
+    <price2>2937</price2>
+    <description>
+ATX, mATX, Midi-Tower, сталь, без блока питания, 2xUSB на лицевой панели, 200x470x485 мм, 5.9 кг, цвет: черный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Форм-фактор и размеры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>ATX, mATX</value>
+        </item>
+        <item>
+          <name>Типоразмер</name>
+          <value>Midi-Tower</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Максимальная высота процессорного кулера</name>
+          <value>162 мм</value>
+        </item>
+        <item>
+          <name>Максимальная длина видеокарты</name>
+          <value>320 мм</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>200x470x485 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>5.9 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Окно на боковой стенке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Число внешних отсеков 3,5"</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Число внутренних отсеков 3,5"</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Число отсеков 5,25"</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Безвинтовое крепление в отсеках 3,5" и 5,25"</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Док-станция для жестких дисков</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Слоты расширения</name>
+          <value>7</value>
+        </item>
+      </items>
+      <items>
+        <name>Охлаждение</name>
+        <item>
+          <name>Встроенные вентиляторы</name>
+          <value>1 x 120x120 мм
+</value>
+        </item>
+        <item>
+          <name>Места для доп. вентиляторов</name>
+          <value>3 x 120x120 мм
+</value>
+        </item>
+        <item>
+          <name>Возможность установки системы жидкостного охлаждения</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Разъемы на лицевой панели</name>
+          <value>USB x2, наушники, микрофон</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Расположение блока питания</name>
+          <value>горизонтальное</value>
+        </item>
+        <item>
+          <name>Блок питания внизу</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>место для 120 мм или 200 мм вентилятора сверху, место для 80 мм или 120 мм вентилятора на дне корпуса</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58449">
+    <title>IN WIN EMR009 450W Black/silver</title>
+    <model>EMR009 450W Black/silver</model>
+    <marka>IN WIN</marka>
+    <catalog id="755740">Корпуса</catalog>
+    
+    <price1>1963</price1>
+    <price2>3270</price2>
+    <description>
+mATX, Mini-Tower, сталь, блок питания 450 Вт, 2xUSB на лицевой панели, 190x350x380 мм, цвет: черный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Форм-фактор и размеры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>mATX</value>
+        </item>
+        <item>
+          <name>Типоразмер</name>
+          <value>Mini-Tower</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>450 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная длина видеокарты</name>
+          <value>249 мм</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>190x350x380 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Окно на боковой стенке</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Число внешних отсеков 3,5"</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Число внутренних отсеков 3,5"</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Число отсеков 5,25"</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Слоты расширения</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Механизм открывания</name>
+          <value>снимаются две стенки</value>
+        </item>
+        <item>
+          <name>Количество замков</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Охлаждение</name>
+        <item>
+          <name>Места для доп. вентиляторов</name>
+          <value>1 x 120x120 мм
+</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Разъемы на лицевой панели</name>
+          <value>USB x2, наушники, микрофон</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Расположение блока питания</name>
+          <value>горизонтальное</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>безвинтовое крепление в отсеках 3,5' и 5,25' опционально; место для 1х90/120мм вентилятора на задней стенке; боковая стенка с air duct; FireWire и eSATA опционально</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58451">
+    <title>Zalman Z9 Plus Black</title>
+    <model>Z9 Plus Black</model>
+    <marka>Zalman</marka>
+    <catalog id="755740">Корпуса</catalog>
+    
+    <price1>2120</price1>
+    <price2>3450</price2>
+    <description>
+ATX, mATX, Midi-Tower, сталь, без блока питания, 4xUSB на лицевой панели, 207x464x504 мм, 7.2 кг, цвет: черный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Форм-фактор и размеры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>ATX, mATX</value>
+        </item>
+        <item>
+          <name>Типоразмер</name>
+          <value>Midi-Tower</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Максимальная длина видеокарты</name>
+          <value>290 мм</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>207x464x504 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>7.2 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Окно на боковой стенке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>LCD дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Число внешних отсеков 3,5"</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Число внутренних отсеков 3,5"</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Отсеки 2,5"</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Число отсеков 5,25"</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Слоты расширения</name>
+          <value>7</value>
+        </item>
+      </items>
+      <items>
+        <name>Охлаждение</name>
+        <item>
+          <name>Блок управления вентиляторами</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенные вентиляторы</name>
+          <value>4 x 120x120 мм
+</value>
+        </item>
+        <item>
+          <name>Места для доп. вентиляторов</name>
+          <value>1 x 120x120 мм, 1 x 140x140 мм
+</value>
+        </item>
+        <item>
+          <name>Возможность установки системы жидкостного охлаждения</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Разъемы на лицевой панели</name>
+          <value>USB x4, наушники, микрофон</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Расположение блока питания</name>
+          <value>горизонтальное</value>
+        </item>
+        <item>
+          <name>Блок питания внизу</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цвет неоновой подсветки</name>
+          <value>синий</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>место для 120 мм или 140 мм вентиляторов на дне корпуса и сверху; возможность установки 140 мм вентиляторов на переднюю стенку и верхнюю панель вместо имеющихся 120 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58452">
+    <title>IN WIN EC028 450W Black</title>
+    <model>EC028 450W Black</model>
+    <marka>IN WIN</marka>
+    <catalog id="755740">Корпуса</catalog>
+    
+    <price1>1869</price1>
+    <price2>4050</price2>
+    <description>
+ATX, Midi-Tower, сталь, блок питания 450 Вт, 2xUSB на лицевой панели, 180x413x466 мм, цвет: черный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Форм-фактор и размеры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>ATX</value>
+        </item>
+        <item>
+          <name>Типоразмер</name>
+          <value>Midi-Tower</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>450 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная длина видеокарты</name>
+          <value>296 мм</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>180x413x466 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Толщина стенок</name>
+          <value>0.5 мм</value>
+        </item>
+        <item>
+          <name>Окно на боковой стенке</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Число внешних отсеков 3,5"</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Число внутренних отсеков 3,5"</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Число отсеков 5,25"</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Слоты расширения</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Количество замков</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Охлаждение</name>
+        <item>
+          <name>Места для доп. вентиляторов</name>
+          <value>1 x 92x92 мм, 1 x 120x120 мм
+</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Разъемы на лицевой панели</name>
+          <value>USB x2, наушники, микрофон</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Расположение блока питания</name>
+          <value>горизонтальное</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>посадочное место для 80х80/92х92 мм вентилятора на задней стенке корпуса и 80х80/92х92/120х120 мм вентилятора на передней</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58457">
+    <title>IN WIN EMR007 450W Black/silver</title>
+    <model>EMR007 450W Black/silver</model>
+    <marka>IN WIN</marka>
+    <catalog id="755740">Корпуса</catalog>
+    
+    <price1>1910</price1>
+    <price2>3270</price2>
+    <description>
+mATX, Mini-Tower, блок питания 450 Вт, 2xUSB на лицевой панели, 190x350x380 мм, цвет: черный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Форм-фактор и размеры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>mATX</value>
+        </item>
+        <item>
+          <name>Типоразмер</name>
+          <value>Mini-Tower</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>450 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная длина видеокарты</name>
+          <value>250 мм</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>190x350x380 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Окно на боковой стенке</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Число внешних отсеков 3,5"</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Число внутренних отсеков 3,5"</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Число отсеков 5,25"</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Слоты расширения</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Механизм открывания</name>
+          <value>снимаются две стенки</value>
+        </item>
+        <item>
+          <name>Количество замков</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Охлаждение</name>
+        <item>
+          <name>Места для доп. вентиляторов</name>
+          <value>1 x 120x120 мм
+</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Разъемы на лицевой панели</name>
+          <value>USB x2, наушники, микрофон</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Расположение блока питания</name>
+          <value>горизонтальное</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>безвинтовое крепление в отсеках 3,5' и 5,25' опционально; место для 1х90/120мм вентилятора на задней стенке; боковая стенка с air duct; FireWire и eSATA опционально</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58465">
+    <title>IN WIN EN027 400W Black</title>
+    <model>EN027 400W Black</model>
+    <marka>IN WIN</marka>
+    <catalog id="755740">Корпуса</catalog>
+    
+    <price1>1700</price1>
+    <price2>3920</price2>
+    <description>
+mATX, Mini-Tower, сталь, блок питания 400 Вт, 2xUSB на лицевой панели, 170x360x414 мм, 3.86 кг, цвет: черный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Форм-фактор и размеры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>mATX</value>
+        </item>
+        <item>
+          <name>Типоразмер</name>
+          <value>Mini-Tower</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>400 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная длина видеокарты</name>
+          <value>273 мм</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>170x360x414 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.86 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Окно на боковой стенке</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Число внешних отсеков 3,5"</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Число внутренних отсеков 3,5"</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Число отсеков 5,25"</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Слоты расширения</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Механизм открывания</name>
+          <value>снимаются две стенки</value>
+        </item>
+        <item>
+          <name>Количество замков</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Охлаждение</name>
+        <item>
+          <name>Места для доп. вентиляторов</name>
+          <value>1 x 92x92 мм
+</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Разъемы на лицевой панели</name>
+          <value>USB x2, наушники, микрофон</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Расположение блока питания</name>
+          <value>горизонтальное</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>место для вентилятора 92х92 мм или 80 х 80 мм на задней стенке корпуса</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58474">
+    <title>Zalman Z11 Plus Black</title>
+    <model>Z11 Plus Black</model>
+    <marka>Zalman</marka>
+    <catalog id="755740">Корпуса</catalog>
+    
+    <price1>2330</price1>
+    <price2>4114</price2>
+    <description>
+ATX, mATX, Midi-Tower, сталь, без блока питания, 4xUSB на лицевой панели, 260x498x525 мм, 7.4 кг, цвет: черный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Форм-фактор и размеры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>ATX, mATX</value>
+        </item>
+        <item>
+          <name>Типоразмер</name>
+          <value>Midi-Tower</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Максимальная длина видеокарты</name>
+          <value>290 мм</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>260x498x525 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>7.4 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Окно на боковой стенке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Число внутренних отсеков 3,5"</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Отсеки 2,5"</name>
+          <value>комбинированные</value>
+        </item>
+        <item>
+          <name>Число отсеков 5,25"</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Слоты расширения</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Механизм открывания</name>
+          <value>снимаются две стенки</value>
+        </item>
+      </items>
+      <items>
+        <name>Охлаждение</name>
+        <item>
+          <name>Встроенные вентиляторы</name>
+          <value>2 x 80x80 мм, 3 x 120x120 мм
+</value>
+        </item>
+        <item>
+          <name>Места для доп. вентиляторов</name>
+          <value>2 x 140x140 мм
+</value>
+        </item>
+        <item>
+          <name>Возможность установки системы жидкостного охлаждения</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Разъемы на лицевой панели</name>
+          <value>USB x4, включая USB 3.0 x2, наушники, микрофон</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Расположение блока питания</name>
+          <value>горизонтальное</value>
+        </item>
+        <item>
+          <name>Блок питания внизу</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цвет неоновой подсветки</name>
+          <value>синий</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>переходник для установки внешнего устройства 3.5" (или внутреннего 2.5"/3.5") в отсек 5.25"; место для 120/140 мм вентилятора снизу и для второго 120/140 мм - сверху</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58476">
+    <title>Thermaltake Armor REVO Snow Edition VO200M6W2N White</title>
+    <model>Armor REVO Snow Edition VO200M6W2N White</model>
+    <marka>Thermaltake</marka>
+    <catalog id="755740">Корпуса</catalog>
+    
+    <price1>4756</price1>
+    <price2>8890</price2>
+    <description>
+ATX, mATX, Full-Tower, сталь, без блока питания, 4xUSB на лицевой панели, 254x586x552 мм, 11.5 кг, цвет: белый
+
+
+</description>
+    <specification>
+      <items>
+        <name>Форм-фактор и размеры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>ATX, mATX</value>
+        </item>
+        <item>
+          <name>Типоразмер</name>
+          <value>Full-Tower</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Максимальная высота процессорного кулера</name>
+          <value>175 мм</value>
+        </item>
+        <item>
+          <name>Максимальная длина видеокарты</name>
+          <value>315 мм</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>254x586x552 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>11.5 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Окно на боковой стенке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Число внутренних отсеков 3,5"</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Отсеки 2,5"</name>
+          <value>комбинированные</value>
+        </item>
+        <item>
+          <name>Число отсеков 5,25"</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Безвинтовое крепление в отсеках 3,5" и 5,25"</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Док-станция для жестких дисков</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Слоты расширения</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Механизм открывания</name>
+          <value>снимаются две стенки</value>
+        </item>
+      </items>
+      <items>
+        <name>Охлаждение</name>
+        <item>
+          <name>Блок управления вентиляторами</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенные вентиляторы</name>
+          <value>1 x 140x140 мм, 3 x 200x200 мм
+</value>
+        </item>
+        <item>
+          <name>Места для доп. вентиляторов</name>
+          <value>1 x 120x120 мм
+</value>
+        </item>
+        <item>
+          <name>Возможность установки системы жидкостного охлаждения</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Разъемы на лицевой панели</name>
+          <value>USB x4, включая USB 3.0 x2, наушники, микрофон, eSATA</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>белый</value>
+        </item>
+        <item>
+          <name>Расположение блока питания</name>
+          <value>горизонтальное</value>
+        </item>
+        <item>
+          <name>Блок питания внизу</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цвет неоновой подсветки</name>
+          <value>синий</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>место для двух 120 мм вентиляторов спереди вместо одного 200 мм, для двух 120/140 мм - сверху вместо 200 мм и для одного 120 мм - снизу; переходник в отсек 5.25" для внешнего 3.5" устройства</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58478">
+    <title>Thermaltake Commander MS-I VN400A1W2N Black</title>
+    <model>Commander MS-I VN400A1W2N Black</model>
+    <marka>Thermaltake</marka>
+    <catalog id="755740">Корпуса</catalog>
+    
+    <price1>1670</price1>
+    <price2>2630</price2>
+    <description>
+ATX, mATX, Midi-Tower, сталь, без блока питания, 2xUSB на лицевой панели, 202x426x484 мм, 4.5 кг, цвет: черный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Форм-фактор и размеры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>ATX, mATX</value>
+        </item>
+        <item>
+          <name>Типоразмер</name>
+          <value>Midi-Tower</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Максимальная высота процессорного кулера</name>
+          <value>170 мм</value>
+        </item>
+        <item>
+          <name>Максимальная длина видеокарты</name>
+          <value>320 мм</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>202x426x484 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4.5 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Окно на боковой стенке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Число внешних отсеков 3,5"</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Число внутренних отсеков 3,5"</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Отсеки 2,5"</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Число отсеков 5,25"</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Безвинтовое крепление в отсеках 3,5" и 5,25"</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Слоты расширения</name>
+          <value>7</value>
+        </item>
+      </items>
+      <items>
+        <name>Охлаждение</name>
+        <item>
+          <name>Встроенные вентиляторы</name>
+          <value>1 x 120x120 мм
+</value>
+        </item>
+        <item>
+          <name>Места для доп. вентиляторов</name>
+          <value>3 x 120x120 мм
+</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Разъемы на лицевой панели</name>
+          <value>USB x2, включая один USB 3.0, наушники, микрофон</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Расположение блока питания</name>
+          <value>горизонтальное</value>
+        </item>
+        <item>
+          <name>Блок питания внизу</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58722">
+    <title>IN WIN EN026 400W Black</title>
+    <model>EN026 400W Black</model>
+    <marka>IN WIN</marka>
+    <catalog id="755740">Корпуса</catalog>
+    
+    <price1>1722</price1>
+    <price2>2130</price2>
+    <description>
+mATX, Mini-Tower, сталь, блок питания 400 Вт, 2xUSB на лицевой панели, 170x360x400 мм, 3.86 кг, цвет: черный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Форм-фактор и размеры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>mATX</value>
+        </item>
+        <item>
+          <name>Типоразмер</name>
+          <value>Mini-Tower</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>400 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная длина видеокарты</name>
+          <value>273 мм</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>170x360x400 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.86 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Окно на боковой стенке</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Число внешних отсеков 3,5"</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Число внутренних отсеков 3,5"</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Число отсеков 5,25"</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Слоты расширения</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Количество замков</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Охлаждение</name>
+        <item>
+          <name>Места для доп. вентиляторов</name>
+          <value>1 x 92x92 мм
+</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Разъемы на лицевой панели</name>
+          <value>USB x2, наушники, микрофон</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Расположение блока питания</name>
+          <value>горизонтальное</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>место для вентилятора 92х92 мм или 80 х 80 мм на задней стенке корпуса</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58749">
+    <title>IN WIN EC022 450W Black</title>
+    <model>EC022 450W Black</model>
+    <marka>IN WIN</marka>
+    <catalog id="755740">Корпуса</catalog>
+    
+    <price1>1867</price1>
+    <price2>3320</price2>
+    <description>
+ATX, Midi-Tower, сталь, блок питания 450 Вт, 2xUSB на лицевой панели, 180x415x460 мм, цвет: черный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Форм-фактор и размеры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>ATX</value>
+        </item>
+        <item>
+          <name>Типоразмер</name>
+          <value>Midi-Tower</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>450 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная длина видеокарты</name>
+          <value>295 мм</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>180x415x460 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Толщина стенок</name>
+          <value>0.5 мм</value>
+        </item>
+        <item>
+          <name>Окно на боковой стенке</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Число внешних отсеков 3,5"</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Число внутренних отсеков 3,5"</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Число отсеков 5,25"</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Слоты расширения</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Количество замков</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Охлаждение</name>
+        <item>
+          <name>Места для доп. вентиляторов</name>
+          <value>1 x 92x92 мм, 1 x 120x120 мм
+</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Разъемы на лицевой панели</name>
+          <value>USB x2, наушники, микрофон</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Расположение блока питания</name>
+          <value>горизонтальное</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>место для вентилятора 80 мм или 92 мм на задней стенке корпуса и место для 120 мм, 92 мм или 80 мм вентилятора на передней</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58753">
+    <title>IN WIN BK623 300W Black</title>
+    <model>BK623 300W Black</model>
+    <marka>IN WIN</marka>
+    <catalog id="755740">Корпуса</catalog>
+    
+    <price1>1927</price1>
+    <price2>4200</price2>
+    <description>
+mATX, Mini-Tower, сталь, блок питания 300 Вт, 4xUSB на лицевой панели, 140x323x276 мм, цвет: черный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Форм-фактор и размеры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>mATX</value>
+        </item>
+        <item>
+          <name>Типоразмер</name>
+          <value>Mini-Tower</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>300 Вт</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>140x323x276 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Толщина стенок</name>
+          <value>0.6 мм</value>
+        </item>
+        <item>
+          <name>Окно на боковой стенке</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Число внешних отсеков 3,5"</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Число внутренних отсеков 3,5"</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Число отсеков 5,25"</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Слоты расширения</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Количество замков</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Разъемы на лицевой панели</name>
+          <value>USB x4, наушники, микрофон</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Расположение блока питания</name>
+          <value>горизонтальное</value>
+        </item>
+        <item>
+          <name>Блок питания внизу</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>FireWire опционально, безвинтовое крепление в отсеках 3,5 и 5,25 опционально, возможна вертикальная или горизонтальная установка корпуса</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58757">
+    <title>IN WIN BM648 160W Black</title>
+    <model>BM648 160W Black</model>
+    <marka>IN WIN</marka>
+    <catalog id="755740">Корпуса</catalog>
+    
+    <price1>1917</price1>
+    <price2>2972</price2>
+    <description>
+Mini-ITX, Mini-Tower, сталь, блок питания 160 Вт, 2xUSB на лицевой панели, 112x230x264 мм, цвет: черный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Форм-фактор и размеры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>Mini-ITX</value>
+        </item>
+        <item>
+          <name>Типоразмер</name>
+          <value>Mini-Tower</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>160 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная высота процессорного кулера</name>
+          <value>47 мм</value>
+        </item>
+        <item>
+          <name>Максимальная длина видеокарты</name>
+          <value>175 мм</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>112x230x264 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Окно на боковой стенке</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Число внутренних отсеков 3,5"</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Число отсеков 5,25"</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Слоты расширения</name>
+          <value>2, только низкопрофильные карты</value>
+        </item>
+        <item>
+          <name>Механизм открывания</name>
+          <value>снимается одна стенка</value>
+        </item>
+        <item>
+          <name>Количество замков</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Охлаждение</name>
+        <item>
+          <name>Встроенные вентиляторы</name>
+          <value>1 x 80x80 мм
+</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Разъемы на лицевой панели</name>
+          <value>USB x2, наушники, микрофон</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>форм-фактор: Mini-ITX, Mini-DTX; ODD привод можно установить ТОЛЬКО при использовании процессорного кулера высотой не более 47 мм; FireWire на лицевой панели опционально</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58764">
+    <title>IN WIN BUC666 600W Black</title>
+    <model>BUC666 600W Black</model>
+    <marka>IN WIN</marka>
+    <catalog id="755740">Корпуса</catalog>
+    
+    <price1>4959</price1>
+    <price2>6980</price2>
+    <description>
+ATX, Midi-Tower, сталь, блок питания 600 Вт, 2xUSB на лицевой панели, 218x479x509 мм, 7.1 кг, цвет: черный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Форм-фактор и размеры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>ATX</value>
+        </item>
+        <item>
+          <name>Типоразмер</name>
+          <value>Midi-Tower</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>600 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная длина видеокарты</name>
+          <value>298 мм</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>218x479x509 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>7.1 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Толщина стенок</name>
+          <value>0.82 мм</value>
+        </item>
+        <item>
+          <name>Окно на боковой стенке</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Число внешних отсеков 3,5"</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Число внутренних отсеков 3,5"</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Отсеки 2,5"</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Число отсеков 5,25"</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Безвинтовое крепление в отсеках 3,5" и 5,25"</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Слоты расширения</name>
+          <value>безвинтовое крепление</value>
+        </item>
+        <item>
+          <name>Механизм открывания</name>
+          <value>снимаются две стенки</value>
+        </item>
+        <item>
+          <name>Количество замков</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Охлаждение</name>
+        <item>
+          <name>Встроенные вентиляторы</name>
+          <value>3 x 120x120 мм
+</value>
+        </item>
+        <item>
+          <name>Места для доп. вентиляторов</name>
+          <value>2 x 120x120 мм
+</value>
+        </item>
+        <item>
+          <name>Возможность установки системы жидкостного охлаждения</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Разъемы на лицевой панели</name>
+          <value>USB x2, включая один USB 3.0, наушники, микрофон, eSATA</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Расположение блока питания</name>
+          <value>горизонтальное</value>
+        </item>
+        <item>
+          <name>Блок питания внизу</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цвет неоновой подсветки</name>
+          <value>синий</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58769">
+    <title>IN WIN BL647 300W Black</title>
+    <model>BL647 300W Black</model>
+    <marka>IN WIN</marka>
+    <catalog id="755740">Корпуса</catalog>
+    
+    <price1>2121</price1>
+    <price2>2800</price2>
+    <description>
+mATX, Slim-Desktop, сталь, блок питания 300 Вт, 4xUSB на лицевой панели, 330x96x365 мм, цвет: черный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Форм-фактор и размеры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>mATX</value>
+        </item>
+        <item>
+          <name>Типоразмер</name>
+          <value>Slim-Desktop</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>300 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная длина видеокарты</name>
+          <value>225 мм</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>330x96x365 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Окно на боковой стенке</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Число внешних отсеков 3,5"</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Число внутренних отсеков 3,5"</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Число отсеков 5,25"</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Слоты расширения</name>
+          <value>4, только низкопрофильные карты</value>
+        </item>
+        <item>
+          <name>Механизм открывания</name>
+          <value>П-образный кожух</value>
+        </item>
+        <item>
+          <name>Количество замков</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Охлаждение</name>
+        <item>
+          <name>Места для доп. вентиляторов</name>
+          <value>1 x 80x80 мм
+</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Разъемы на лицевой панели</name>
+          <value>USB x4, наушники, микрофон</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>FireWire на лицевой панели опционально, возможна вертикальная установка корпуса</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58771">
+    <title>IN WIN BL640 300W Black/silver</title>
+    <model>BL640 300W Black/silver</model>
+    <marka>IN WIN</marka>
+    <catalog id="755740">Корпуса</catalog>
+    
+    <price1>2070</price1>
+    <price2>3060</price2>
+    <description>
+mATX, Slim-Desktop, сталь, блок питания 300 Вт, 4xUSB на лицевой панели, 330x96x365 мм, цвет: черный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Форм-фактор и размеры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>mATX</value>
+        </item>
+        <item>
+          <name>Типоразмер</name>
+          <value>Slim-Desktop</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>300 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная длина видеокарты</name>
+          <value>255 мм</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>330x96x365 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Окно на боковой стенке</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Число внешних отсеков 3,5"</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Число внутренних отсеков 3,5"</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Число отсеков 5,25"</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Слоты расширения</name>
+          <value>4, только низкопрофильные карты</value>
+        </item>
+        <item>
+          <name>Механизм открывания</name>
+          <value>П-образный кожух</value>
+        </item>
+        <item>
+          <name>Количество замков</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Охлаждение</name>
+        <item>
+          <name>Встроенные вентиляторы</name>
+          <value>1 x 80x80 мм
+</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Разъемы на лицевой панели</name>
+          <value>USB x4, наушники, микрофон</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>FireWire на лицевой панели опционально, возможна вертикальная установка корпуса</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="58775">
+    <title>IN WIN EMR023 450W Black</title>
+    <model>EMR023 450W Black</model>
+    <marka>IN WIN</marka>
+    <catalog id="755740">Корпуса</catalog>
+    
+    <price1>1964</price1>
+    <price2>2510</price2>
+    <description>
+mATX, Mini-Tower, сталь, блок питания 450 Вт, 2xUSB на лицевой панели, 190x358x420 мм, цвет: черный
+
+
+</description>
+    <specification>
+      <items>
+        <name>Форм-фактор и размеры</name>
+        <item>
+          <name>Форм-фактор</name>
+          <value>mATX</value>
+        </item>
+        <item>
+          <name>Типоразмер</name>
+          <value>Mini-Tower</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>450 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная длина видеокарты</name>
+          <value>250 мм</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>190x358x420 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Окно на боковой стенке</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Число внешних отсеков 3,5"</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Число внутренних отсеков 3,5"</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Число отсеков 5,25"</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Слоты расширения</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Механизм открывания</name>
+          <value>снимаются две стенки</value>
+        </item>
+        <item>
+          <name>Количество замков</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Охлаждение</name>
+        <item>
+          <name>Места для доп. вентиляторов</name>
+          <value>1 x 92x92 мм, 1 x 120x120 мм
+</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Разъемы на лицевой панели</name>
+          <value>USB x2, наушники, микрофон</value>
+        </item>
+        <item>
+          <name>Цвет корпуса</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Расположение блока питания</name>
+          <value>горизонтальное</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>безвинтовое крепление в отсеках 3,5' и 5,25' опционально; место для 1х90/120мм вентилятора на задней стенке; боковая стенка с air duct; FireWire и eSATA опционально</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

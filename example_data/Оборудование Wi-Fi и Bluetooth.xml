@@ -1,0 +1,2671 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="97593">
+    <title>ZyXEL Keenetic 4G</title>
+    <model>Keenetic 4G</model>
+    <marka>ZyXEL</marka>
+    <catalog id="651524">Оборудование Wi-Fi и Bluetooth</catalog>
+    
+    <price1>1950</price1>
+    <price2>2550</price2>
+    <description>
+
+Wi-Fi точка доступа, 802.11n, 150 Мбит/с, маршрутизатор, коммутатор 2xLAN
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Wi-Fi точка доступа</value>
+        </item>
+        <item>
+          <name>Стандарт беспроводной связи</name>
+          <value>802.11n, частота 2.4 ГГц</value>
+        </item>
+        <item>
+          <name>Макс. скорость беспроводного соединения</name>
+          <value>150 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием/передача</name>
+        <item>
+          <name>Защита информации</name>
+          <value>WEP, WPA, WPA2, 802.1x</value>
+        </item>
+        <item>
+          <name>Мощность передатчика</name>
+          <value>15 dBM</value>
+        </item>
+      </items>
+      <items>
+        <name>Опции точки доступа/моста</name>
+        <item>
+          <name>Коммутатор</name>
+          <value>2xLAN</value>
+        </item>
+        <item>
+          <name>Скорость портов</name>
+          <value>100 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Режим моста</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество разъемов USB 2.0 Type A</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Поддержка IPv6</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (FireWall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>SPI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Демилитаризованная зона (DMZ)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Статическая маршрутизация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Протоколы динамической маршрутизации</name>
+          <value>IGMP v1, IGMP v2</value>
+        </item>
+      </items>
+      <items>
+        <name>VPN</name>
+        <item>
+          <name>Поддержка VPN pass through</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Антенна</name>
+        <item>
+          <name>Количество внешних антенн</name>
+          <value>1 x 5 dBi</value>
+        </item>
+        <item>
+          <name>Тип внешней антенны</name>
+          <value>съемная</value>
+        </item>
+      </items>
+      <items>
+        <name>Мониторинг и конфигурирование</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Telnet</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>32 Мб</value>
+        </item>
+        <item>
+          <name>Объем флеш-памяти</name>
+          <value>8 Мб</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Возможность подключения 3G-модема</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность подключения WiMAX-модема</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность подключения LTE-модема</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка IEEE 802.1q (VLAN)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>139x32x110 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>180 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>технология TVport, технология Link Duo; подключение к провайдеру по беспроводной сети Wi-Fi; кнопка быстрой настройки сети Wi-Fi WPS; подключение к провайдеру через USB-модем 4G/LTE - Yota</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97595">
+    <title>ZyXEL Keenetic</title>
+    <model>Keenetic</model>
+    <marka>ZyXEL</marka>
+    <catalog id="651524">Оборудование Wi-Fi и Bluetooth</catalog>
+    
+    <price1>2000</price1>
+    <price2>3569</price2>
+    <description>
+
+Wi-Fi точка доступа, 802.11n, MIMO, 300 Мбит/с, маршрутизатор, коммутатор 4xLAN, принт-сервер
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Wi-Fi точка доступа</value>
+        </item>
+        <item>
+          <name>Стандарт беспроводной связи</name>
+          <value>802.11n, частота 2.4 ГГц</value>
+        </item>
+        <item>
+          <name>Поддержка MIMO</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Макс. скорость беспроводного соединения</name>
+          <value>300 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием/передача</name>
+        <item>
+          <name>Защита информации</name>
+          <value>WEP, WPA, WPA2, 802.1x</value>
+        </item>
+        <item>
+          <name>Мощность передатчика</name>
+          <value>15 dBM</value>
+        </item>
+      </items>
+      <items>
+        <name>Опции точки доступа/моста</name>
+        <item>
+          <name>Коммутатор</name>
+          <value>4xLAN</value>
+        </item>
+        <item>
+          <name>Скорость портов</name>
+          <value>100 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Режим моста</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество разъемов USB 2.0 Type A</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Расширенные функции</name>
+          <value>скачивание файлов, файловый сервер, FTP-сервер, UPnP AV-сервер</value>
+        </item>
+        <item>
+          <name>Поддержка IPv6</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (FireWall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>SPI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Демилитаризованная зона (DMZ)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Статическая маршрутизация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Протоколы динамической маршрутизации</name>
+          <value>IGMP v1, IGMP v2</value>
+        </item>
+      </items>
+      <items>
+        <name>VPN</name>
+        <item>
+          <name>Поддержка VPN pass through</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Антенна</name>
+        <item>
+          <name>Количество внешних антенн</name>
+          <value>2 x 5 dBi</value>
+        </item>
+        <item>
+          <name>Тип внешней антенны</name>
+          <value>съемная</value>
+        </item>
+      </items>
+      <items>
+        <name>Мониторинг и конфигурирование</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Telnet</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>32 Мб</value>
+        </item>
+        <item>
+          <name>Объем флеш-памяти</name>
+          <value>8 Мб</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Возможность подключения 3G-модема</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность подключения WiMAX-модема</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность подключения LTE-модема</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка IEEE 802.1q (VLAN)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс встроенного принт-сервера</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>162x33x114 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>280 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>поддержка USB-накопителей с файловыми системами FAT/FAT32/EXT2/EXT3/NTFS;
+BitTorrent-клиент Transmission; одновременная работа нескольких устройств через USB-концентратор; веб-интерфейс на русском языке; технология TVport, технология Link Duo; подключение к провайдеру по беспроводной сети Wi-Fi; кнопка быстрой настройки сети Wi-Fi WPS; подключение к провайдеру через USB-модем 4G - Yota</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97597">
+    <title>D-link DIR-300/NRU</title>
+    <model>DIR-300/NRU</model>
+    <marka>D-link</marka>
+    <catalog id="651524">Оборудование Wi-Fi и Bluetooth</catalog>
+    
+    <price1>612</price1>
+    <price2>1300</price2>
+    <description>
+
+Wi-Fi точка доступа, 802.11n, 150 Мбит/с, маршрутизатор, коммутатор 4xLAN
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Wi-Fi точка доступа</value>
+        </item>
+        <item>
+          <name>Стандарт беспроводной связи</name>
+          <value>802.11n</value>
+        </item>
+        <item>
+          <name>Макс. скорость беспроводного соединения</name>
+          <value>150 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием/передача</name>
+        <item>
+          <name>Защита информации</name>
+          <value>WEP, WPA, WPA2</value>
+        </item>
+        <item>
+          <name>Мощность передатчика</name>
+          <value>17 dBM</value>
+        </item>
+      </items>
+      <items>
+        <name>Опции точки доступа/моста</name>
+        <item>
+          <name>Коммутатор</name>
+          <value>4xLAN</value>
+        </item>
+        <item>
+          <name>Скорость портов</name>
+          <value>100 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Режим моста</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (FireWall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>SPI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Демилитаризованная зона (DMZ)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Статическая маршрутизация</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>VPN</name>
+        <item>
+          <name>Поддержка VPN pass through</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Антенна</name>
+        <item>
+          <name>Количество внешних антенн</name>
+          <value>1 x 2 dBi</value>
+        </item>
+        <item>
+          <name>Тип внешней антенны</name>
+          <value>съемная</value>
+        </item>
+      </items>
+      <items>
+        <name>Мониторинг и конфигурирование</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка IEEE 802.1q (VLAN)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>148x32x113 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>246 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>доступ по Telnet на обновлённой прошивке</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97599">
+    <title>ASUS RT-G32</title>
+    <model>RT-G32</model>
+    <marka>ASUS</marka>
+    <catalog id="651524">Оборудование Wi-Fi и Bluetooth</catalog>
+    
+    <price1>646</price1>
+    <price2>1736</price2>
+    <description>
+
+Wi-Fi точка доступа, 802.11n, 150 Мбит/с, маршрутизатор, коммутатор 4xLAN
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Wi-Fi точка доступа</value>
+        </item>
+        <item>
+          <name>Стандарт беспроводной связи</name>
+          <value>802.11n, частота 2.4 ГГц</value>
+        </item>
+        <item>
+          <name>Макс. скорость беспроводного соединения</name>
+          <value>150 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием/передача</name>
+        <item>
+          <name>Защита информации</name>
+          <value>WEP, WPA, WPA2, 802.1x</value>
+        </item>
+        <item>
+          <name>Мощность передатчика</name>
+          <value>18 dBM</value>
+        </item>
+      </items>
+      <items>
+        <name>Опции точки доступа/моста</name>
+        <item>
+          <name>Коммутатор</name>
+          <value>4xLAN</value>
+        </item>
+        <item>
+          <name>Скорость портов</name>
+          <value>100 Мбит/сек</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (FireWall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Демилитаризованная зона (DMZ)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>VPN</name>
+        <item>
+          <name>Поддержка VPN pass through</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Антенна</name>
+        <item>
+          <name>Количество внешних антенн</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Тип внешней антенны</name>
+          <value>несъемная</value>
+        </item>
+      </items>
+      <items>
+        <name>Мониторинг и конфигурирование</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Telnet</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>110x33x167 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>198 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97600">
+    <title>ASUS RT-N56U</title>
+    <model>RT-N56U</model>
+    <marka>ASUS</marka>
+    <catalog id="651524">Оборудование Wi-Fi и Bluetooth</catalog>
+    
+    <price1>2829</price1>
+    <price2>5495</price2>
+    <description>
+
+гигабитная Wi-Fi точка доступа, 802.11n, 300 Мбит/с, маршрутизатор, коммутатор 4xLAN, принт-сервер
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Wi-Fi точка доступа</value>
+        </item>
+        <item>
+          <name>Стандарт беспроводной связи</name>
+          <value>802.11n, частота 2.4 / 5 ГГц, возможность одновременной работы</value>
+        </item>
+        <item>
+          <name>Макс. скорость беспроводного соединения</name>
+          <value>300 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием/передача</name>
+        <item>
+          <name>Защита информации</name>
+          <value>WEP, WPA, WPA2</value>
+        </item>
+      </items>
+      <items>
+        <name>Опции точки доступа/моста</name>
+        <item>
+          <name>Коммутатор</name>
+          <value>4xLAN</value>
+        </item>
+        <item>
+          <name>Скорость портов</name>
+          <value>1000 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Количество разъемов USB 2.0 Type A</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Расширенные функции</name>
+          <value>FTP-сервер</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (FireWall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>SPI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мониторинг и конфигурирование</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Объем флеш-памяти</name>
+          <value>8 Мб</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Интерфейс встроенного принт-сервера</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Флэш-память</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>145x172x60 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>330 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97601">
+    <title>D-link DIR-615</title>
+    <model>DIR-615</model>
+    <marka>D-link</marka>
+    <catalog id="651524">Оборудование Wi-Fi и Bluetooth</catalog>
+    
+    <price1>673</price1>
+    <price2>2421</price2>
+    <description>
+
+Wi-Fi точка доступа, 802.11n, MIMO, 300 Мбит/с, маршрутизатор, коммутатор 4xLAN
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Wi-Fi точка доступа</value>
+        </item>
+        <item>
+          <name>Стандарт беспроводной связи</name>
+          <value>802.11n, частота 2.4 ГГц</value>
+        </item>
+        <item>
+          <name>Поддержка MIMO</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Макс. скорость беспроводного соединения</name>
+          <value>300 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием/передача</name>
+        <item>
+          <name>Защита информации</name>
+          <value>WEP, WPA, WPA2</value>
+        </item>
+        <item>
+          <name>Мощность передатчика</name>
+          <value>15 dBM</value>
+        </item>
+      </items>
+      <items>
+        <name>Опции точки доступа/моста</name>
+        <item>
+          <name>Коммутатор</name>
+          <value>4xLAN</value>
+        </item>
+        <item>
+          <name>Скорость портов</name>
+          <value>100 Мбит/сек</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (FireWall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>SPI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Демилитаризованная зона (DMZ)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Статическая маршрутизация</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>VPN</name>
+        <item>
+          <name>Поддержка VPN pass through</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Антенна</name>
+        <item>
+          <name>Количество внешних антенн</name>
+          <value>2 x 2 dBi</value>
+        </item>
+        <item>
+          <name>Тип внешней антенны</name>
+          <value>съемная</value>
+        </item>
+      </items>
+      <items>
+        <name>Мониторинг и конфигурирование</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>193x31x117 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>940 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97606">
+    <title>ZyXEL Keenetic Lite</title>
+    <model>Keenetic Lite</model>
+    <marka>ZyXEL</marka>
+    <catalog id="651524">Оборудование Wi-Fi и Bluetooth</catalog>
+    
+    <price1>1290</price1>
+    <price2>2390</price2>
+    <description>
+
+Wi-Fi точка доступа, 802.11n, 150 Мбит/с, маршрутизатор, коммутатор 4xLAN
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Wi-Fi точка доступа</value>
+        </item>
+        <item>
+          <name>Стандарт беспроводной связи</name>
+          <value>802.11n, частота 2.4 ГГц</value>
+        </item>
+        <item>
+          <name>Макс. скорость беспроводного соединения</name>
+          <value>150 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием/передача</name>
+        <item>
+          <name>Защита информации</name>
+          <value>WEP, WPA, WPA2, 802.1x</value>
+        </item>
+        <item>
+          <name>Мощность передатчика</name>
+          <value>15 dBM</value>
+        </item>
+      </items>
+      <items>
+        <name>Опции точки доступа/моста</name>
+        <item>
+          <name>Коммутатор</name>
+          <value>4xLAN</value>
+        </item>
+        <item>
+          <name>Скорость портов</name>
+          <value>100 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Режим моста</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка IPv6</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (FireWall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>SPI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Демилитаризованная зона (DMZ)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Статическая маршрутизация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Протоколы динамической маршрутизации</name>
+          <value>IGMP v1, IGMP v2</value>
+        </item>
+      </items>
+      <items>
+        <name>VPN</name>
+        <item>
+          <name>Поддержка VPN pass through</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Антенна</name>
+        <item>
+          <name>Количество внешних антенн</name>
+          <value>1 x 5 dBi</value>
+        </item>
+        <item>
+          <name>Тип внешней антенны</name>
+          <value>съемная</value>
+        </item>
+      </items>
+      <items>
+        <name>Мониторинг и конфигурирование</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Telnet</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>32 Мб</value>
+        </item>
+        <item>
+          <name>Объем флеш-памяти</name>
+          <value>8 Мб</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка IEEE 802.1q (VLAN)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>139x32x110 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>210 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>веб-интерфейс на русском языке; технология TVport и Link Duo; подключение к провайдеру по беспроводной сети Wi-Fi; кнопка быстрой настройки сети Wi-Fi WPS</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97608">
+    <title>ZyXEL Keenetic Giga</title>
+    <model>Keenetic Giga</model>
+    <marka>ZyXEL</marka>
+    <catalog id="651524">Оборудование Wi-Fi и Bluetooth</catalog>
+    
+    <price1>2797</price1>
+    <price2>4590</price2>
+    <description>
+
+гигабитная Wi-Fi точка доступа, 802.11n, MIMO, 300 Мбит/с, маршрутизатор, коммутатор 4xLAN, принт-сервер
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Wi-Fi точка доступа</value>
+        </item>
+        <item>
+          <name>Стандарт беспроводной связи</name>
+          <value>802.11n, частота 2.4 ГГц</value>
+        </item>
+        <item>
+          <name>Поддержка MIMO</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Макс. скорость беспроводного соединения</name>
+          <value>300 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием/передача</name>
+        <item>
+          <name>Защита информации</name>
+          <value>WEP, WPA, WPA2, 802.1x</value>
+        </item>
+        <item>
+          <name>Мощность передатчика</name>
+          <value>15 dBM</value>
+        </item>
+      </items>
+      <items>
+        <name>Опции точки доступа/моста</name>
+        <item>
+          <name>Коммутатор</name>
+          <value>4xLAN</value>
+        </item>
+        <item>
+          <name>Скорость портов</name>
+          <value>1000 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Режим моста</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество разъемов USB 2.0 Type A</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Расширенные функции</name>
+          <value>скачивание файлов, файловый сервер, FTP-сервер, UPnP AV-сервер</value>
+        </item>
+        <item>
+          <name>Поддержка IPv6</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (FireWall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>SPI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Демилитаризованная зона (DMZ)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Статическая маршрутизация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Протоколы динамической маршрутизации</name>
+          <value>IGMP v1, IGMP v2</value>
+        </item>
+      </items>
+      <items>
+        <name>VPN</name>
+        <item>
+          <name>Поддержка VPN pass through</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Антенна</name>
+        <item>
+          <name>Количество внешних антенн</name>
+          <value>2 x 5 dBi</value>
+        </item>
+        <item>
+          <name>Тип внешней антенны</name>
+          <value>съемная</value>
+        </item>
+      </items>
+      <items>
+        <name>Мониторинг и конфигурирование</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Telnet</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>64 Мб</value>
+        </item>
+        <item>
+          <name>Объем флеш-памяти</name>
+          <value>8 Мб</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Возможность подключения 3G-модема</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность подключения WiMAX-модема</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность подключения LTE-модема</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка IEEE 802.1q (VLAN)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс встроенного принт-сервера</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>162x33x114 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>290 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>BitTorrent-клиент Transmission; аппаратная поддержка IP-телевидения TVport</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97610">
+    <title>ASUS RT-N10</title>
+    <model>RT-N10</model>
+    <marka>ASUS</marka>
+    <catalog id="651524">Оборудование Wi-Fi и Bluetooth</catalog>
+    
+    <price1>982</price1>
+    <price2>1800</price2>
+    <description>
+
+Wi-Fi точка доступа, 802.11n, MIMO, 150 Мбит/с, маршрутизатор, коммутатор 4xLAN
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Wi-Fi точка доступа</value>
+        </item>
+        <item>
+          <name>Стандарт беспроводной связи</name>
+          <value>802.11n, частота 2.4 ГГц</value>
+        </item>
+        <item>
+          <name>Поддержка MIMO</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Макс. скорость беспроводного соединения</name>
+          <value>150 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием/передача</name>
+        <item>
+          <name>Защита информации</name>
+          <value>WEP, WPA, WPA2</value>
+        </item>
+        <item>
+          <name>Мощность передатчика</name>
+          <value>18 dBM</value>
+        </item>
+      </items>
+      <items>
+        <name>Опции точки доступа/моста</name>
+        <item>
+          <name>Коммутатор</name>
+          <value>4xLAN</value>
+        </item>
+        <item>
+          <name>Скорость портов</name>
+          <value>100 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Гостевая сеть</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (FireWall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Антенна</name>
+        <item>
+          <name>Количество внешних антенн</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Тип внешней антенны</name>
+          <value>съемная</value>
+        </item>
+        <item>
+          <name>Количество внутренних антенн</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>165x30x115 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>260 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>существует модель с несъёмной антенной; возможность создания двух беспроводных сетей с динамическим распределением полосы пропускания и контролем доступа</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97615">
+    <title>ASUS RT-N13U</title>
+    <model>RT-N13U</model>
+    <marka>ASUS</marka>
+    <catalog id="651524">Оборудование Wi-Fi и Bluetooth</catalog>
+    
+    <price1>1423</price1>
+    <price2>3490</price2>
+    <description>
+
+Wi-Fi точка доступа, 802.11n, MIMO, 300 Мбит/с, маршрутизатор, коммутатор 4xLAN, принт-сервер
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Wi-Fi точка доступа</value>
+        </item>
+        <item>
+          <name>Стандарт беспроводной связи</name>
+          <value>802.11n, частота 2.4 ГГц</value>
+        </item>
+        <item>
+          <name>Поддержка MIMO</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Макс. скорость беспроводного соединения</name>
+          <value>300 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием/передача</name>
+        <item>
+          <name>Защита информации</name>
+          <value>WEP, WPA, WPA2, 802.1x</value>
+        </item>
+        <item>
+          <name>Мощность передатчика</name>
+          <value>16.5 dBM</value>
+        </item>
+        <item>
+          <name>Радиус действия вне помещения</name>
+          <value>200 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Опции точки доступа/моста</name>
+        <item>
+          <name>Коммутатор</name>
+          <value>4xLAN</value>
+        </item>
+        <item>
+          <name>Скорость портов</name>
+          <value>100 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Режим моста</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим репитера (повторителя)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество разъемов USB 2.0 Type A</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Расширенные функции</name>
+          <value>скачивание файлов, файловый сервер, FTP-сервер</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (FireWall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>SPI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Демилитаризованная зона (DMZ)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Статическая маршрутизация</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Антенна</name>
+        <item>
+          <name>Количество внутренних антенн</name>
+          <value>2 x 3 dBi</value>
+        </item>
+      </items>
+      <items>
+        <name>Мониторинг и конфигурирование</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Возможность подключения 3G-модема</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс встроенного принт-сервера</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>165x30x125 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>265 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97622">
+    <title>ASUS RT-N53</title>
+    <model>RT-N53</model>
+    <marka>ASUS</marka>
+    <catalog id="651524">Оборудование Wi-Fi и Bluetooth</catalog>
+    
+    <price1>1649</price1>
+    <price2>3350</price2>
+    <description>
+
+Wi-Fi точка доступа, 802.11n, 300 Мбит/с, маршрутизатор, коммутатор 4xLAN
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Wi-Fi точка доступа</value>
+        </item>
+        <item>
+          <name>Стандарт беспроводной связи</name>
+          <value>802.11n, частота 2.4 / 5 ГГц, возможность одновременной работы</value>
+        </item>
+        <item>
+          <name>Макс. скорость беспроводного соединения</name>
+          <value>300 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием/передача</name>
+        <item>
+          <name>Защита информации</name>
+          <value>WEP, WPA, WPA2</value>
+        </item>
+      </items>
+      <items>
+        <name>Опции точки доступа/моста</name>
+        <item>
+          <name>Коммутатор</name>
+          <value>4xLAN</value>
+        </item>
+        <item>
+          <name>Скорость портов</name>
+          <value>100 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Режим репитера (повторителя)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Гостевая сеть</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (FireWall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>SPI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>VPN</name>
+        <item>
+          <name>Поддержка VPN pass through</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Антенна</name>
+        <item>
+          <name>Количество внутренних антенн</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Мониторинг и конфигурирование</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>172x60x145 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>330 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97625">
+    <title>D-link DIR-815</title>
+    <model>DIR-815</model>
+    <marka>D-link</marka>
+    <catalog id="651524">Оборудование Wi-Fi и Bluetooth</catalog>
+    
+    <price1>1261</price1>
+    <price2>4920</price2>
+    <description>
+
+Wi-Fi точка доступа, 802.11n, 300 Мбит/с, маршрутизатор, коммутатор 4xLAN
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Wi-Fi точка доступа</value>
+        </item>
+        <item>
+          <name>Стандарт беспроводной связи</name>
+          <value>802.11n, частота 2.4 / 5 ГГц, возможность одновременной работы</value>
+        </item>
+        <item>
+          <name>Макс. скорость беспроводного соединения</name>
+          <value>300 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием/передача</name>
+        <item>
+          <name>Защита информации</name>
+          <value>WPA, WPA2</value>
+        </item>
+        <item>
+          <name>Мощность передатчика</name>
+          <value>17 dBM</value>
+        </item>
+      </items>
+      <items>
+        <name>Опции точки доступа/моста</name>
+        <item>
+          <name>Коммутатор</name>
+          <value>4xLAN</value>
+        </item>
+        <item>
+          <name>Скорость портов</name>
+          <value>100 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Поддержка IPv6</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (FireWall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>SPI</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>VPN</name>
+        <item>
+          <name>Поддержка VPN pass through</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Антенна</name>
+        <item>
+          <name>Количество внешних антенн</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Мониторинг и конфигурирование</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>156x31x120 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>212 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97630">
+    <title>ASUS WL-330N3G</title>
+    <model>WL-330N3G</model>
+    <marka>ASUS</marka>
+    <catalog id="651524">Оборудование Wi-Fi и Bluetooth</catalog>
+    
+    <price1>1088</price1>
+    <price2>2130</price2>
+    <description>
+
+Wi-Fi точка доступа, 802.11n, 150 Мбит/с, маршрутизатор
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Wi-Fi точка доступа</value>
+        </item>
+        <item>
+          <name>Стандарт беспроводной связи</name>
+          <value>802.11n, частота 2.4 ГГц</value>
+        </item>
+        <item>
+          <name>Макс. скорость беспроводного соединения</name>
+          <value>150 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием/передача</name>
+        <item>
+          <name>Защита информации</name>
+          <value>WEP, WPA, WPA2</value>
+        </item>
+      </items>
+      <items>
+        <name>Опции точки доступа/моста</name>
+        <item>
+          <name>Скорость портов</name>
+          <value>100 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Режим репитера (повторителя)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (FireWall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>SPI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Демилитаризованная зона (DMZ)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Статическая маршрутизация</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Антенна</name>
+        <item>
+          <name>Количество внутренних антенн</name>
+          <value>1 x 2.6 dBi</value>
+        </item>
+      </items>
+      <items>
+        <name>Мониторинг и конфигурирование</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Возможность подключения 3G-модема</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>90x13x40 мм</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>USB-порт</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97637">
+    <title>D-link DIR-825</title>
+    <model>DIR-825</model>
+    <marka>D-link</marka>
+    <catalog id="651524">Оборудование Wi-Fi и Bluetooth</catalog>
+    
+    <price1>1673</price1>
+    <price2>5730</price2>
+    <description>
+
+гигабитная Wi-Fi точка доступа, 802.11n, MIMO, 300 Мбит/с, маршрутизатор, коммутатор 4xLAN
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Wi-Fi точка доступа</value>
+        </item>
+        <item>
+          <name>Стандарт беспроводной связи</name>
+          <value>802.11n, частота 2.4 / 5 ГГц, возможность одновременной работы</value>
+        </item>
+        <item>
+          <name>Поддержка MIMO</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Макс. скорость беспроводного соединения</name>
+          <value>300 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием/передача</name>
+        <item>
+          <name>Защита информации</name>
+          <value>WEP, WPA, WPA2, 802.1x</value>
+        </item>
+        <item>
+          <name>Мощность передатчика</name>
+          <value>17 dBM</value>
+        </item>
+      </items>
+      <items>
+        <name>Опции точки доступа/моста</name>
+        <item>
+          <name>Коммутатор</name>
+          <value>4xLAN</value>
+        </item>
+        <item>
+          <name>Скорость портов</name>
+          <value>1000 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Количество разъемов USB 2.0 Type A</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Расширенные функции</name>
+          <value>файловый сервер</value>
+        </item>
+        <item>
+          <name>Поддержка IPv6</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (FireWall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>SPI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Демилитаризованная зона (DMZ)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>VPN</name>
+        <item>
+          <name>Поддержка VPN pass through</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Антенна</name>
+        <item>
+          <name>Количество внешних антенн</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип внешней антенны</name>
+          <value>съемная</value>
+        </item>
+      </items>
+      <items>
+        <name>Мониторинг и конфигурирование</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Интерфейс встроенного принт-сервера</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>156x31x120 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>212 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97640">
+    <title>Apple Time Capsule 802.11n 2TB</title>
+    <model>Time Capsule 802.11n 2TB</model>
+    <marka>Apple</marka>
+    <catalog id="651524">Оборудование Wi-Fi и Bluetooth</catalog>
+    
+    <price1>7450</price1>
+    <price2>15500</price2>
+    <description>
+
+Wi-Fi точка доступа, 802.11n, MIMO, 108 Мбит/с, маршрутизатор, коммутатор 3xLAN, HDD 2048 Гб
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Wi-Fi точка доступа</value>
+        </item>
+        <item>
+          <name>Стандарт беспроводной связи</name>
+          <value>802.11n, частота 2.4 / 5 ГГц, возможность одновременной работы</value>
+        </item>
+        <item>
+          <name>Поддержка MIMO</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Макс. скорость беспроводного соединения</name>
+          <value>108 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием/передача</name>
+        <item>
+          <name>Защита информации</name>
+          <value>WEP, WPA, WPA2, 802.1x</value>
+        </item>
+        <item>
+          <name>Мощность передатчика</name>
+          <value>20 dBM</value>
+        </item>
+      </items>
+      <items>
+        <name>Опции точки доступа/моста</name>
+        <item>
+          <name>Коммутатор</name>
+          <value>3xLAN</value>
+        </item>
+        <item>
+          <name>Количество разъемов USB 2.0 Type A</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Объем жесткого диска</name>
+          <value>2048 Гб</value>
+        </item>
+        <item>
+          <name>Гостевая сеть</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (FireWall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>VPN</name>
+        <item>
+          <name>Поддержка VPN pass through</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка VPN-туннелей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мониторинг и конфигурирование</name>
+        <item>
+          <name>Поддержка SNMP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>197x37x197 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1587 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97641">
+    <title>ASUS USB-N13</title>
+    <model>USB-N13</model>
+    <marka>ASUS</marka>
+    <catalog id="651524">Оборудование Wi-Fi и Bluetooth</catalog>
+    
+    <price1>453</price1>
+    <price2>1090</price2>
+    <description>
+
+Wi-Fi адаптер, USB, 802.11n, MIMO, 300 Мбит/с
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Wi-Fi адаптер</value>
+        </item>
+        <item>
+          <name>Стандарт беспроводной связи</name>
+          <value>802.11n, частота 2.4 ГГц</value>
+        </item>
+        <item>
+          <name>Поддержка MIMO</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Макс. скорость беспроводного соединения</name>
+          <value>300 Мбит/с</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения</name>
+          <value>USB 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием/передача</name>
+        <item>
+          <name>Защита информации</name>
+          <value>WEP, WPA, WPA2</value>
+        </item>
+        <item>
+          <name>Мощность передатчика</name>
+          <value>18 dBM</value>
+        </item>
+        <item>
+          <name>Радиус действия вне помещения</name>
+          <value>150 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Антенна</name>
+        <item>
+          <name>Количество внутренних антенн</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>73x10x22 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>12 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97644">
+    <title>D-link DIR-320/NRU</title>
+    <model>DIR-320/NRU</model>
+    <marka>D-link</marka>
+    <catalog id="651524">Оборудование Wi-Fi и Bluetooth</catalog>
+    
+    <price1>683</price1>
+    <price2>1540</price2>
+    <description>
+
+Wi-Fi точка доступа, 802.11n, 150 Мбит/с, маршрутизатор, коммутатор 4xLAN
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Wi-Fi точка доступа</value>
+        </item>
+        <item>
+          <name>Стандарт беспроводной связи</name>
+          <value>802.11n, частота 2.4 ГГц</value>
+        </item>
+        <item>
+          <name>Макс. скорость беспроводного соединения</name>
+          <value>150 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием/передача</name>
+        <item>
+          <name>Защита информации</name>
+          <value>WEP, WPA, WPA2, 802.1x</value>
+        </item>
+        <item>
+          <name>Мощность передатчика</name>
+          <value>17 dBM</value>
+        </item>
+      </items>
+      <items>
+        <name>Опции точки доступа/моста</name>
+        <item>
+          <name>Коммутатор</name>
+          <value>4xLAN</value>
+        </item>
+        <item>
+          <name>Скорость портов</name>
+          <value>100 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Режим моста</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество разъемов USB 2.0 Type A</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (FireWall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>SPI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Демилитаризованная зона (DMZ)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Статическая маршрутизация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Протоколы динамической маршрутизации</name>
+          <value>IGMP v1, IGMP v2, RIP v1, RIP v2</value>
+        </item>
+      </items>
+      <items>
+        <name>VPN</name>
+        <item>
+          <name>Поддержка VPN pass through</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Антенна</name>
+        <item>
+          <name>Количество внешних антенн</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Тип внешней антенны</name>
+          <value>несъемная</value>
+        </item>
+      </items>
+      <items>
+        <name>Мониторинг и конфигурирование</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Telnet</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Возможность подключения 3G-модема</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность подключения WiMAX-модема</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка IEEE 802.1q (VLAN)</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97648">
+    <title>ASUS RT-N66U</title>
+    <model>RT-N66U</model>
+    <marka>ASUS</marka>
+    <catalog id="651524">Оборудование Wi-Fi и Bluetooth</catalog>
+    
+    <price1>3994</price1>
+    <price2>7999</price2>
+    <description>
+
+гигабитная Wi-Fi точка доступа, 802.11n, MIMO, 900 Мбит/с, маршрутизатор, коммутатор 4xLAN, принт-сервер
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Wi-Fi точка доступа</value>
+        </item>
+        <item>
+          <name>Стандарт беспроводной связи</name>
+          <value>802.11n, частота 2.4 / 5 ГГц, возможность одновременной работы</value>
+        </item>
+        <item>
+          <name>Поддержка MIMO</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Макс. скорость беспроводного соединения</name>
+          <value>900 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием/передача</name>
+        <item>
+          <name>Защита информации</name>
+          <value>WEP, WPA, WPA2</value>
+        </item>
+      </items>
+      <items>
+        <name>Опции точки доступа/моста</name>
+        <item>
+          <name>Коммутатор</name>
+          <value>4xLAN</value>
+        </item>
+        <item>
+          <name>Скорость портов</name>
+          <value>1000 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Количество разъемов USB 2.0 Type A</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Расширенные функции</name>
+          <value>скачивание файлов, файловый сервер, FTP-сервер, UPnP AV-сервер</value>
+        </item>
+        <item>
+          <name>Гостевая сеть</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка IPv6</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (FireWall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>SPI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Демилитаризованная зона (DMZ)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>VPN</name>
+        <item>
+          <name>Поддержка VPN pass through</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка VPN-туннелей</name>
+          <value>есть (10 туннелей)</value>
+        </item>
+      </items>
+      <items>
+        <name>Антенна</name>
+        <item>
+          <name>Количество внешних антенн</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Тип внешней антенны</name>
+          <value>съемная</value>
+        </item>
+      </items>
+      <items>
+        <name>Мониторинг и конфигурирование</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Telnet</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>256 Мб</value>
+        </item>
+        <item>
+          <name>Объем флеш-памяти</name>
+          <value>32 Мб</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Возможность подключения 3G-модема</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность подключения WiMAX-модема</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс встроенного принт-сервера</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Флэш-память</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>207x36x149 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>450 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97649">
+    <title>D-link DAP-2690</title>
+    <model>DAP-2690</model>
+    <marka>D-link</marka>
+    <catalog id="651524">Оборудование Wi-Fi и Bluetooth</catalog>
+    
+    <price1>5756</price1>
+    <price2>13030</price2>
+    <description>
+
+Wi-Fi точка доступа, 802.11n, MIMO, 300 Мбит/с
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Wi-Fi точка доступа</value>
+        </item>
+        <item>
+          <name>Стандарт беспроводной связи</name>
+          <value>802.11n, частота 2.4 / 5 ГГц</value>
+        </item>
+        <item>
+          <name>Поддержка MIMO</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Макс. скорость беспроводного соединения</name>
+          <value>300 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием/передача</name>
+        <item>
+          <name>Защита информации</name>
+          <value>WEP, WPA, WPA2</value>
+        </item>
+        <item>
+          <name>Мощность передатчика</name>
+          <value>18 dBM</value>
+        </item>
+      </items>
+      <items>
+        <name>Опции точки доступа/моста</name>
+        <item>
+          <name>Режим моста</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Гостевая сеть</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Антенна</name>
+        <item>
+          <name>Количество внешних антенн</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Тип внешней антенны</name>
+          <value>съемная</value>
+        </item>
+      </items>
+      <items>
+        <name>Мониторинг и конфигурирование</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Telnet</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SNMP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Питание через Ethernet-кабель (PoE)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>191x37x191 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>990 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97651">
+    <title>ASUS RT-N15U</title>
+    <model>RT-N15U</model>
+    <marka>ASUS</marka>
+    <catalog id="651524">Оборудование Wi-Fi и Bluetooth</catalog>
+    
+    <price1>1879</price1>
+    <price2>3260</price2>
+    <description>
+
+гигабитная Wi-Fi точка доступа, 802.11n, 300 Мбит/с, маршрутизатор, коммутатор 4xLAN, принт-сервер
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Wi-Fi точка доступа</value>
+        </item>
+        <item>
+          <name>Стандарт беспроводной связи</name>
+          <value>802.11n, частота 2.4 ГГц</value>
+        </item>
+        <item>
+          <name>Макс. скорость беспроводного соединения</name>
+          <value>300 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием/передача</name>
+        <item>
+          <name>Защита информации</name>
+          <value>WEP, WPA, WPA2</value>
+        </item>
+      </items>
+      <items>
+        <name>Опции точки доступа/моста</name>
+        <item>
+          <name>Коммутатор</name>
+          <value>4xLAN</value>
+        </item>
+        <item>
+          <name>Скорость портов</name>
+          <value>1000 Мбит/сек</value>
+        </item>
+        <item>
+          <name>Режим репитера (повторителя)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество разъемов USB 2.0 Type A</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Расширенные функции</name>
+          <value>файловый сервер, FTP-сервер</value>
+        </item>
+      </items>
+      <items>
+        <name>Маршрутизатор</name>
+        <item>
+          <name>Маршрутизатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Межсетевой экран (FireWall)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>NAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>SPI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DHCP-сервер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Dynamic DNS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Демилитаризованная зона (DMZ)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Протоколы динамической маршрутизации</name>
+          <value>IGMP v1, IGMP v2</value>
+        </item>
+      </items>
+      <items>
+        <name>Антенна</name>
+        <item>
+          <name>Количество внутренних антенн</name>
+          <value>2 x 3 dBi</value>
+        </item>
+      </items>
+      <items>
+        <name>Мониторинг и конфигурирование</name>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Интерфейс встроенного принт-сервера</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>145x24x172 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>240 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

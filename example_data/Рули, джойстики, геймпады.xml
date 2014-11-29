@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="78825">
+    <title>Logitech G27 Racing Wheel</title>
+    <model>G27 Racing Wheel</model>
+    <marka>Logitech</marka>
+    <catalog id="1620322">Рули, джойстики, геймпады</catalog>
+    
+    <price1>9320</price1>
+    <price2>14738</price2>
+    <description>
+
+руль, вибрация, обратная связь, совместимость: ПК, PS3, PS2
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип контроллера</name>
+          <value>проводной руль</value>
+        </item>
+        <item>
+          <name>Виброотдача</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Обратная связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>ПК, PS3, PS2</value>
+        </item>
+        <item>
+          <name>Диаметр руля</name>
+          <value>28 см</value>
+        </item>
+        <item>
+          <name>Материал оплетки руля</name>
+          <value>кожа</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Угол поворота руля</name>
+          <value>900°</value>
+        </item>
+        <item>
+          <name>Коробка передач</name>
+          <value>есть, 6-ти скоростная</value>
+        </item>
+        <item>
+          <name>D-pad</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество кнопок</name>
+          <value>18</value>
+        </item>
+        <item>
+          <name>Педали</name>
+          <value>газ, тормоз, сцепление</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="78830">
+    <title>Sony Dualshock 3</title>
+    <model>Dualshock 3</model>
+    <marka>Sony</marka>
+    <catalog id="1620322">Рули, джойстики, геймпады</catalog>
+    
+    <price1>1080</price1>
+    <price2>3990</price2>
+    <description>
+
+геймпад, беспроводной, вибрация, совместимость: PS3
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип контроллера</name>
+          <value>беспроводной геймпад</value>
+        </item>
+        <item>
+          <name>Тип поддерживаемого API</name>
+          <value>DirectInput</value>
+        </item>
+        <item>
+          <name>Виброотдача</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>PS3</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Количество мини-джойстиков</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>D-pad</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Детектор движения</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Источник питания</name>
+          <value>собственный аккумулятор</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="78831">
+    <title>Logitech Wireless Gamepad F710</title>
+    <model>Wireless Gamepad F710</model>
+    <marka>Logitech</marka>
+    <catalog id="1620322">Рули, джойстики, геймпады</catalog>
+    
+    <price1>1470</price1>
+    <price2>3860</price2>
+    <description>
+
+геймпад, беспроводной, вибрация, совместимость: ПК
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип контроллера</name>
+          <value>беспроводной геймпад</value>
+        </item>
+        <item>
+          <name>Тип поддерживаемого API</name>
+          <value>DirectInput / XInput</value>
+        </item>
+        <item>
+          <name>Виброотдача</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>ПК</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Количество мини-джойстиков</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>D-pad</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество кнопок</name>
+          <value>10</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Источник питания</name>
+          <value>2xAA</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="78840">
+    <title>Microsoft Xbox 360 Wireless Controller</title>
+    <model>Xbox 360 Wireless Controller</model>
+    <marka>Microsoft</marka>
+    <catalog id="1620322">Рули, джойстики, геймпады</catalog>
+    
+    <price1>1390</price1>
+    <price2>2290</price2>
+    <description>
+
+геймпад, беспроводной, вибрация, совместимость: Xbox 360
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип контроллера</name>
+          <value>беспроводной геймпад</value>
+        </item>
+        <item>
+          <name>Тип поддерживаемого API</name>
+          <value>XInput</value>
+        </item>
+        <item>
+          <name>Виброотдача</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Xbox 360</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Количество мини-джойстиков</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>D-pad</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество кнопок</name>
+          <value>10</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Радиус действия беспроводной связи</name>
+          <value>10 м</value>
+        </item>
+        <item>
+          <name>Источник питания</name>
+          <value>2xAA</value>
+        </item>
+        <item>
+          <name>Время работы</name>
+          <value>40 ч</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="78843">
+    <title>Microsoft Xbox 360 Wireless Speed Wheel</title>
+    <model>Xbox 360 Wireless Speed Wheel</model>
+    <marka>Microsoft</marka>
+    <catalog id="1620322">Рули, джойстики, геймпады</catalog>
+    
+    <price1>1640</price1>
+    <price2>3764</price2>
+    <description>
+
+руль, беспроводной, вибрация, обратная связь, совместимость: Xbox 360
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип контроллера</name>
+          <value>беспроводной руль</value>
+        </item>
+        <item>
+          <name>Виброотдача</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Обратная связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Xbox 360</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>D-pad</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Детектор движения</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Особенности</name>
+          <value>кнопки для газа и тормоза</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="78844">
+    <title>Logitech Driving Force GT</title>
+    <model>Driving Force GT</model>
+    <marka>Logitech</marka>
+    <catalog id="1620322">Рули, джойстики, геймпады</catalog>
+    
+    <price1>4721</price1>
+    <price2>7999</price2>
+    <description>
+
+руль, вибрация, обратная связь, совместимость: ПК, PS3, PS2
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип контроллера</name>
+          <value>проводной руль</value>
+        </item>
+        <item>
+          <name>Виброотдача</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Обратная связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>ПК, PS3, PS2</value>
+        </item>
+        <item>
+          <name>Материал оплетки руля</name>
+          <value>резина</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Угол поворота руля</name>
+          <value>900°</value>
+        </item>
+        <item>
+          <name>Коробка передач</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>D-pad</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Педали</name>
+          <value>газ, тормоз</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="78847">
+    <title>Logitech Gamepad F310</title>
+    <model>Gamepad F310</model>
+    <marka>Logitech</marka>
+    <catalog id="1620322">Рули, джойстики, геймпады</catalog>
+    
+    <price1>770</price1>
+    <price2>1530</price2>
+    <description>
+
+геймпад, USB, совместимость: ПК
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип контроллера</name>
+          <value>проводной геймпад</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения к ПК</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Тип поддерживаемого API</name>
+          <value>DirectInput / XInput</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>ПК</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Количество мини-джойстиков</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>D-pad</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество кнопок</name>
+          <value>10</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="78854">
+    <title>Sony Move Motion Controller</title>
+    <model>Move Motion Controller</model>
+    <marka>Sony</marka>
+    <catalog id="1620322">Рули, джойстики, геймпады</catalog>
+    
+    <price1>1190</price1>
+    <price2>3663</price2>
+    <description>
+
+датчик движения, беспроводной, вибрация, совместимость: PS3
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип контроллера</name>
+          <value>беспроводной датчик движения</value>
+        </item>
+        <item>
+          <name>Виброотдача</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>PS3</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Детектор движения</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="78857">
+    <title>Thrustmaster T-Wireless 3 in1 Rumble Force</title>
+    <model>T-Wireless 3 in1 Rumble Force</model>
+    <marka>Thrustmaster</marka>
+    <catalog id="1620322">Рули, джойстики, геймпады</catalog>
+    
+    <price1>780</price1>
+    <price2>1990</price2>
+    <description>
+
+геймпад, беспроводной, вибрация, совместимость: ПК, PS3, PS2
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип контроллера</name>
+          <value>беспроводной геймпад</value>
+        </item>
+        <item>
+          <name>Тип поддерживаемого API</name>
+          <value>DirectInput</value>
+        </item>
+        <item>
+          <name>Виброотдача</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>ПК, PS3, PS2</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Количество мини-джойстиков</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>D-pad</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Источник питания</name>
+          <value>3xAAA</value>
+        </item>
+        <item>
+          <name>Время работы</name>
+          <value>50 ч</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="78865">
+    <title>Genius TwinWheel F1</title>
+    <model>TwinWheel F1</model>
+    <marka>Genius</marka>
+    <catalog id="1620322">Рули, джойстики, геймпады</catalog>
+    
+    <price1>980</price1>
+    <price2>2430</price2>
+    <description>
+
+руль, USB, вибрация, совместимость: ПК, PS2
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип контроллера</name>
+          <value>проводной руль</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения к ПК</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Виброотдача</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>ПК, PS2</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>D-pad</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество кнопок</name>
+          <value>12</value>
+        </item>
+        <item>
+          <name>Педали</name>
+          <value>газ, тормоз</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="78870">
+    <title>Thrustmaster Ferrari Wireless Gamepad 430 Scuderia Limited Edition</title>
+    <model>Ferrari Wireless Gamepad 430 Scuderia Limited Edition</model>
+    <marka>Thrustmaster</marka>
+    <catalog id="1620322">Рули, джойстики, геймпады</catalog>
+    
+    <price1>1000</price1>
+    <price2>1800</price2>
+    <description>
+
+геймпад, беспроводной, совместимость: ПК, PS3
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип контроллера</name>
+          <value>беспроводной геймпад</value>
+        </item>
+        <item>
+          <name>Тип поддерживаемого API</name>
+          <value>DirectInput</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>ПК, PS3</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Количество мини-джойстиков</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>D-pad</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="78872">
+    <title>Thrustmaster Ferrari F430 Force Feedback Racing Wheel</title>
+    <model>Ferrari F430 Force Feedback Racing Wheel</model>
+    <marka>Thrustmaster</marka>
+    <catalog id="1620322">Рули, джойстики, геймпады</catalog>
+    
+    <price1>5020</price1>
+    <price2>5864</price2>
+    <description>
+
+руль, USB, совместимость: ПК, PS3
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип контроллера</name>
+          <value>проводной руль</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения к ПК</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>ПК, PS3</value>
+        </item>
+        <item>
+          <name>Диаметр руля</name>
+          <value>28 см</value>
+        </item>
+        <item>
+          <name>Материал оплетки руля</name>
+          <value>резина</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Коробка передач</name>
+          <value>есть, 2-х скоростная</value>
+        </item>
+        <item>
+          <name>D-pad</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество кнопок</name>
+          <value>10</value>
+        </item>
+        <item>
+          <name>Педали</name>
+          <value>газ, тормоз</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="78874">
+    <title>Genius Speed Wheel 3 MT</title>
+    <model>Speed Wheel 3 MT</model>
+    <marka>Genius</marka>
+    <catalog id="1620322">Рули, джойстики, геймпады</catalog>
+    
+    <price1>1980</price1>
+    <price2>2840</price2>
+    <description>
+
+руль, USB, вибрация, обратная связь, совместимость: ПК
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип контроллера</name>
+          <value>проводной руль</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения к ПК</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Виброотдача</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Обратная связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>ПК</value>
+        </item>
+        <item>
+          <name>Материал оплетки руля</name>
+          <value>резина</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Коробка передач</name>
+          <value>есть, 2-х скоростная</value>
+        </item>
+        <item>
+          <name>D-pad</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество кнопок</name>
+          <value>12</value>
+        </item>
+        <item>
+          <name>Педали</name>
+          <value>газ, тормоз</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="78876">
+    <title>Thrustmaster T500RS</title>
+    <model>T500RS</model>
+    <marka>Thrustmaster</marka>
+    <catalog id="1620322">Рули, джойстики, геймпады</catalog>
+    
+    <price1>18610</price1>
+    <price2>24990</price2>
+    <description>
+
+руль, вибрация, обратная связь, совместимость: ПК, PS3
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип контроллера</name>
+          <value>проводной руль</value>
+        </item>
+        <item>
+          <name>Виброотдача</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Обратная связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>ПК, PS3</value>
+        </item>
+        <item>
+          <name>Диаметр руля</name>
+          <value>30 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Угол поворота руля</name>
+          <value>1080°</value>
+        </item>
+        <item>
+          <name>D-pad</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Педали</name>
+          <value>газ, тормоз, сцепление</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Особенности</name>
+          <value>расстояние между педалями и их высота поддаются регулировке;</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="78877">
+    <title>Genius MaxFighter F-17</title>
+    <model>MaxFighter F-17</model>
+    <marka>Genius</marka>
+    <catalog id="1620322">Рули, джойстики, геймпады</catalog>
+    
+    <price1>450</price1>
+    <price2>794</price2>
+    <description>
+
+джойстик, USB, совместимость: ПК
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип контроллера</name>
+          <value>проводной джойстик</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения к ПК</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>ПК</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Количество кнопок</name>
+          <value>4</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Особенности</name>
+          <value>подходит для использования как правой, так и левой руками</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="78879">
+    <title>Thrustmaster T.Flight Stick X</title>
+    <model>T.Flight Stick X</model>
+    <marka>Thrustmaster</marka>
+    <catalog id="1620322">Рули, джойстики, геймпады</catalog>
+    
+    <price1>1260</price1>
+    <price2>2390</price2>
+    <description>
+
+джойстик, USB, совместимость: ПК, PS3
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип контроллера</name>
+          <value>проводной джойстик</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения к ПК</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>ПК, PS3</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Количество осей</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Количество кнопок</name>
+          <value>12</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="78880">
+    <title>Microsoft Kinect</title>
+    <model>Kinect</model>
+    <marka>Microsoft</marka>
+    <catalog id="1620322">Рули, джойстики, геймпады</catalog>
+    
+    <price1>3899</price1>
+    <price2>10080</price2>
+    <description>
+
+датчик движения, совместимость: Xbox 360
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип контроллера</name>
+          <value>проводной датчик движения</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Xbox 360</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Детектор движения</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Особенности</name>
+          <value>3D-сенсор, RGB-камера, 4х-точечный микрофон;</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="78887">
+    <title>Saitek Cyborg F.L.Y. 9 Wireless Flight Stick for Xbox 360</title>
+    <model>Cyborg F.L.Y. 9 Wireless Flight Stick for Xbox 360</model>
+    <marka>Saitek</marka>
+    <catalog id="1620322">Рули, джойстики, геймпады</catalog>
+    
+    <price1>3790</price1>
+    <price2>5226</price2>
+    <description>
+
+джойстик, беспроводной, совместимость: Xbox 360
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип контроллера</name>
+          <value>беспроводной джойстик</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Xbox 360</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Особенности</name>
+          <value>изменяемая длинна ручки; система корректировки</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="78888">
+    <title>Thrustmaster Ferrari 458 Italia</title>
+    <model>Ferrari 458 Italia</model>
+    <marka>Thrustmaster</marka>
+    <catalog id="1620322">Рули, джойстики, геймпады</catalog>
+    
+    <price1>3846</price1>
+    <price2>5990</price2>
+    <description>
+
+руль, совместимость: Xbox 360
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип контроллера</name>
+          <value>проводной руль</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Xbox 360</value>
+        </item>
+        <item>
+          <name>Диаметр руля</name>
+          <value>28 см</value>
+        </item>
+        <item>
+          <name>Материал оплетки руля</name>
+          <value>резина</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Угол поворота руля</name>
+          <value>270°</value>
+        </item>
+        <item>
+          <name>Педали</name>
+          <value>газ, тормоз</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Особенности</name>
+          <value>разъем для гарнитуры и микрофона</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="78889">
+    <title>Genius MetalStrike 3D</title>
+    <model>MetalStrike 3D</model>
+    <marka>Genius</marka>
+    <catalog id="1620322">Рули, джойстики, геймпады</catalog>
+    
+    <price1>849</price1>
+    <price2>1390</price2>
+    <description>
+
+джойстик, USB, совместимость: ПК
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип контроллера</name>
+          <value>проводной джойстик</value>
+        </item>
+        <item>
+          <name>Интерфейс подключения к ПК</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>ПК</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление</name>
+        <item>
+          <name>Количество осей</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Количество переключателей вида</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество кнопок</name>
+          <value>13</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

@@ -1,0 +1,3543 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="132158">
+    <title>Author Traction (2012)</title>
+    <model>Traction (2012)</model>
+    <marka>Author</marka>
+    <catalog id="1004703">Велосипеды</catalog>
+    
+    <price1>24840</price1>
+    <price2>26990</price2>
+    <description>
+велосипед для взрослых, горный (MTB) / кросс-кантри, Hard tail (с амортизационной вилкой), колеса 26&amp;quot;, передний тормоз: дисковый, задний тормоз: дисковый, материал рамы: алюминиевый сплав, вес 13.4 кг
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Модель</name>
+          <value>2012 года</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>для взрослых</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>горный (MTB), кросс-кантри</value>
+        </item>
+        <item>
+          <name>Вес велосипеда</name>
+          <value>13.4 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Рама, вилка</name>
+        <item>
+          <name>Материал рамы</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Размеры рамы</name>
+          <value>16.5, 17.5, 19, 20, 21 дюйм</value>
+        </item>
+        <item>
+          <name>Амортизация</name>
+          <value>Hard tail (с амортизационной вилкой)</value>
+        </item>
+        <item>
+          <name>Наименование мягкой вилки</name>
+          <value>RST Blaze TnL</value>
+        </item>
+        <item>
+          <name>Конструкция вилки</name>
+          <value>пружинно-масляная</value>
+        </item>
+        <item>
+          <name>Уровень мягкой вилки</name>
+          <value>любительский</value>
+        </item>
+        <item>
+          <name>Ход вилки</name>
+          <value>100 мм</value>
+        </item>
+        <item>
+          <name>Регулировки вилки</name>
+          <value>жесткости пружины, блокировка хода</value>
+        </item>
+        <item>
+          <name>Конструкция рулевой колонки</name>
+          <value>интегрированная, безрезьбовая</value>
+        </item>
+        <item>
+          <name>Размер рулевой колонки</name>
+          <value>1 1/8"</value>
+        </item>
+      </items>
+      <items>
+        <name>Колеса</name>
+        <item>
+          <name>Диаметр колес</name>
+          <value>26 дюймов</value>
+        </item>
+        <item>
+          <name>Наименование покрышек</name>
+          <value>Author Trail Master, 26x2.00</value>
+        </item>
+        <item>
+          <name>Наименование ободов</name>
+          <value>Alex Ace 24</value>
+        </item>
+        <item>
+          <name>Материал обода</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Двойной обод</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал бортировочного шнура</name>
+          <value>металл</value>
+        </item>
+      </items>
+      <items>
+        <name>Торможение</name>
+        <item>
+          <name>Наименование переднего тормоза</name>
+          <value>Tektro Draco, 160mm</value>
+        </item>
+        <item>
+          <name>Тип переднего тормоза</name>
+          <value>дисковый (гидравлический)</value>
+        </item>
+        <item>
+          <name>Уровень переднего тормоза</name>
+          <value>любительский</value>
+        </item>
+        <item>
+          <name>Наименование заднего тормоза</name>
+          <value>Tektro Draco, 160mm</value>
+        </item>
+        <item>
+          <name>Тип заднего тормоза</name>
+          <value>дисковый (гидравлический)</value>
+        </item>
+        <item>
+          <name>Уровень заднего тормоза</name>
+          <value>любительский</value>
+        </item>
+        <item>
+          <name>Возможность крепления дискового тормоза</name>
+          <value>рама, вилка, втулки</value>
+        </item>
+      </items>
+      <items>
+        <name>Трансмиссия</name>
+        <item>
+          <name>Количество скоростей</name>
+          <value>27</value>
+        </item>
+        <item>
+          <name>Уровень заднего переключателя</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование заднего переключателя</name>
+          <value>Shimano Deore</value>
+        </item>
+        <item>
+          <name>Уровень переднего переключателя</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование переднего переключателя</name>
+          <value>Shimano Alivio</value>
+        </item>
+        <item>
+          <name>Уровень манеток</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование манеток</name>
+          <value>Shimano Deore</value>
+        </item>
+        <item>
+          <name>Конструкция манеток</name>
+          <value>триггерные двухрычажные</value>
+        </item>
+        <item>
+          <name>Уровень каретки</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование каретки</name>
+          <value>Shimano ES-25</value>
+        </item>
+        <item>
+          <name>Конструкция каретки</name>
+          <value>неинтегрированная</value>
+        </item>
+        <item>
+          <name>Тип посадочной части вала каретки</name>
+          <value>Octalink</value>
+        </item>
+        <item>
+          <name>Уровень кассеты</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование кассеты</name>
+          <value>Shimano HG-50-9, 11-34T</value>
+        </item>
+        <item>
+          <name>Количество звезд в кассете</name>
+          <value>9</value>
+        </item>
+        <item>
+          <name>Количество звезд системы</name>
+          <value>3, число зубьев 44-32-22</value>
+        </item>
+        <item>
+          <name>Конструкция педалей</name>
+          <value>классическая</value>
+        </item>
+        <item>
+          <name>Длина шатунов</name>
+          <value>17.0, 17.5 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Руль</name>
+        <item>
+          <name>Конструкция руля</name>
+          <value>изогнутый</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="133130">
+    <title>Challenger Crossman</title>
+    <model>Crossman</model>
+    <marka>Challenger</marka>
+    <catalog id="1004703">Велосипеды</catalog>
+    
+    <price1>5159</price1>
+    <price2>5430</price2>
+    <description>
+велосипед подростковый, горный (MTB) / кросс-кантри, Hard tail (с амортизационной вилкой), колеса 24&amp;quot;, передний тормоз: ободной, задний тормоз: ободной, материал рамы: сталь
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>подростковый</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>горный (MTB), кросс-кантри</value>
+        </item>
+      </items>
+      <items>
+        <name>Рама, вилка</name>
+        <item>
+          <name>Материал рамы</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Амортизация</name>
+          <value>Hard tail (с амортизационной вилкой)</value>
+        </item>
+        <item>
+          <name>Конструкция вилки</name>
+          <value>пружинная</value>
+        </item>
+        <item>
+          <name>Уровень мягкой вилки</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Конструкция рулевой колонки</name>
+          <value>неинтегрированная, резьбовая</value>
+        </item>
+      </items>
+      <items>
+        <name>Колеса</name>
+        <item>
+          <name>Диаметр колес</name>
+          <value>24 дюймов</value>
+        </item>
+        <item>
+          <name>Материал обода</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Материал бортировочного шнура</name>
+          <value>металл</value>
+        </item>
+      </items>
+      <items>
+        <name>Торможение</name>
+        <item>
+          <name>Тип переднего тормоза</name>
+          <value>ободной (V-Brake)</value>
+        </item>
+        <item>
+          <name>Уровень переднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Тип заднего тормоза</name>
+          <value>ободной (V-Brake)</value>
+        </item>
+        <item>
+          <name>Уровень заднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+      </items>
+      <items>
+        <name>Трансмиссия</name>
+        <item>
+          <name>Количество скоростей</name>
+          <value>18</value>
+        </item>
+        <item>
+          <name>Уровень заднего переключателя</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование заднего переключателя</name>
+          <value>SunRun</value>
+        </item>
+        <item>
+          <name>Уровень манеток</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Конструкция манеток</name>
+          <value>вращающаяся ручка</value>
+        </item>
+        <item>
+          <name>Конструкция каретки</name>
+          <value>неинтегрированная</value>
+        </item>
+        <item>
+          <name>Уровень кассеты</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Количество звезд в кассете</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Количество звезд системы</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Конструкция педалей</name>
+          <value>классическая</value>
+        </item>
+      </items>
+      <items>
+        <name>Руль</name>
+        <item>
+          <name>Конструкция руля</name>
+          <value>изогнутый</value>
+        </item>
+        <item>
+          <name>Настройка положения руля</name>
+          <value>регулируемый подъем</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>крылья</value>
+        </item>
+      </items>
+      <items>
+        <name>Седло</name>
+        <item>
+          <name>Материал рамки седла</name>
+          <value>сталь</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="133177">
+    <title>Yedoo Pidapi 12 Alu</title>
+    <model>Pidapi 12 Alu</model>
+    <marka>Yedoo</marka>
+    <catalog id="1004703">Велосипеды</catalog>
+    
+    <price1>5292</price1>
+    <price2>8200</price2>
+    <description>
+велосипед детский, амортизация отсутствует, колеса 12&amp;quot;, передний тормоз: ободной, задний тормоз: ножной, материал рамы: алюминиевый сплав, вес 7.2 кг
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>детский</value>
+        </item>
+        <item>
+          <name>Вес велосипеда</name>
+          <value>7.2 кг</value>
+        </item>
+        <item>
+          <name>Вес велосипедиста</name>
+          <value>до 75 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Рама, вилка</name>
+        <item>
+          <name>Материал рамы</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Амортизация</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Конструкция вилки</name>
+          <value>жесткая</value>
+        </item>
+        <item>
+          <name>Конструкция рулевой колонки</name>
+          <value>неинтегрированная, резьбовая</value>
+        </item>
+      </items>
+      <items>
+        <name>Колеса</name>
+        <item>
+          <name>Диаметр колес</name>
+          <value>12 дюймов</value>
+        </item>
+        <item>
+          <name>Материал обода</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Двойной обод</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Материал бортировочного шнура</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Возможность крепления боковых колес</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Боковые колеса в комплекте</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Торможение</name>
+        <item>
+          <name>Тип переднего тормоза</name>
+          <value>ободной (V-Brake)</value>
+        </item>
+        <item>
+          <name>Уровень переднего тормоза</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Тип заднего тормоза</name>
+          <value>ножной</value>
+        </item>
+        <item>
+          <name>Уровень заднего тормоза</name>
+          <value>начальный</value>
+        </item>
+      </items>
+      <items>
+        <name>Трансмиссия</name>
+        <item>
+          <name>Количество скоростей</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Уровень каретки</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Количество звезд в кассете</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество звезд системы</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Конструкция педалей</name>
+          <value>платформы</value>
+        </item>
+      </items>
+      <items>
+        <name>Руль</name>
+        <item>
+          <name>Конструкция руля</name>
+          <value>изогнутый</value>
+        </item>
+        <item>
+          <name>Настройка положения руля</name>
+          <value>регулируемый подъем</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Защитная накладка на руле</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Седло</name>
+        <item>
+          <name>Комфорт</name>
+          <value>защита цепи</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="133805">
+    <title>Brompton M3L</title>
+    <model>M3L</model>
+    <marka>Brompton</marka>
+    <catalog id="1004703">Велосипеды</catalog>
+    
+    <description>
+велосипед для взрослых, дорожный, амортизация отсутствует, колеса 16&amp;quot;, передний тормоз: ободной, задний тормоз: ободной, материал рамы: сталь, складной, вес 11.5 кг
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>для взрослых</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>дорожный, городской</value>
+        </item>
+        <item>
+          <name>Вес велосипеда</name>
+          <value>11.5 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Рама, вилка</name>
+        <item>
+          <name>Складной</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Материал рамы</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Амортизация</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Конструкция вилки</name>
+          <value>жесткая</value>
+        </item>
+        <item>
+          <name>Конструкция рулевой колонки</name>
+          <value>неинтегрированная, резьбовая</value>
+        </item>
+      </items>
+      <items>
+        <name>Колеса</name>
+        <item>
+          <name>Диаметр колес</name>
+          <value>16 дюймов</value>
+        </item>
+        <item>
+          <name>Материал обода</name>
+          <value>алюминиевый сплав</value>
+        </item>
+      </items>
+      <items>
+        <name>Торможение</name>
+        <item>
+          <name>Тип переднего тормоза</name>
+          <value>ободной (клещевой)</value>
+        </item>
+        <item>
+          <name>Уровень переднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Тип заднего тормоза</name>
+          <value>ободной (клещевой)</value>
+        </item>
+        <item>
+          <name>Уровень заднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+      </items>
+      <items>
+        <name>Трансмиссия</name>
+        <item>
+          <name>Планетарная втулка</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Количество скоростей</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Уровень заднего переключателя</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Уровень манеток</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Конструкция манеток</name>
+          <value>вращающаяся ручка</value>
+        </item>
+        <item>
+          <name>Конструкция каретки</name>
+          <value>неинтегрированная</value>
+        </item>
+        <item>
+          <name>Тип посадочной части вала каретки</name>
+          <value>квадрат</value>
+        </item>
+        <item>
+          <name>Количество звезд в кассете</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество звезд системы</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Конструкция педалей</name>
+          <value>классическая</value>
+        </item>
+      </items>
+      <items>
+        <name>Руль</name>
+        <item>
+          <name>Конструкция руля</name>
+          <value>изогнутый</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>крылья, насос, электрооборудование</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="134134">
+    <title>Challenger Desperado</title>
+    <model>Desperado</model>
+    <marka>Challenger</marka>
+    <catalog id="1004703">Велосипеды</catalog>
+    
+    <price1>5710</price1>
+    <price2>6450</price2>
+    <description>
+велосипед для взрослых, горный (MTB) / кросс-кантри, Full suspension (двухподвесный), колеса 26&amp;quot;, передний тормоз: ободной, задний тормоз: ободной, материал рамы: сталь
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Модель</name>
+          <value>2007 года</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>для взрослых</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>горный (MTB), кросс-кантри</value>
+        </item>
+      </items>
+      <items>
+        <name>Рама, вилка</name>
+        <item>
+          <name>Материал рамы</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Размеры рамы</name>
+          <value>16, 18, 20 дюйм</value>
+        </item>
+        <item>
+          <name>Амортизация</name>
+          <value>Full suspension (двухподвесный)</value>
+        </item>
+        <item>
+          <name>Конструкция вилки</name>
+          <value>пружинно-эластомерная</value>
+        </item>
+        <item>
+          <name>Уровень мягкой вилки</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Конструкция рулевой колонки</name>
+          <value>неинтегрированная, резьбовая</value>
+        </item>
+      </items>
+      <items>
+        <name>Колеса</name>
+        <item>
+          <name>Диаметр колес</name>
+          <value>26 дюймов</value>
+        </item>
+        <item>
+          <name>Материал обода</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Материал бортировочного шнура</name>
+          <value>металл</value>
+        </item>
+      </items>
+      <items>
+        <name>Торможение</name>
+        <item>
+          <name>Тип переднего тормоза</name>
+          <value>ободной (V-Brake)</value>
+        </item>
+        <item>
+          <name>Уровень переднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Тип заднего тормоза</name>
+          <value>ободной (V-Brake)</value>
+        </item>
+        <item>
+          <name>Уровень заднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+      </items>
+      <items>
+        <name>Трансмиссия</name>
+        <item>
+          <name>Количество скоростей</name>
+          <value>18</value>
+        </item>
+        <item>
+          <name>Уровень заднего переключателя</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование заднего переключателя</name>
+          <value>SunRun</value>
+        </item>
+        <item>
+          <name>Уровень переднего переключателя</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование переднего переключателя</name>
+          <value>SunRun</value>
+        </item>
+        <item>
+          <name>Уровень манеток</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование манеток</name>
+          <value>SunRun</value>
+        </item>
+        <item>
+          <name>Конструкция манеток</name>
+          <value>вращающаяся ручка</value>
+        </item>
+        <item>
+          <name>Уровень кассеты</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Количество звезд в кассете</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Количество звезд системы</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Конструкция педалей</name>
+          <value>классическая</value>
+        </item>
+      </items>
+      <items>
+        <name>Руль</name>
+        <item>
+          <name>Конструкция руля</name>
+          <value>изогнутый</value>
+        </item>
+        <item>
+          <name>Настройка положения руля</name>
+          <value>регулируемый подъем</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>крылья</value>
+        </item>
+      </items>
+      <items>
+        <name>Седло</name>
+        <item>
+          <name>Материал рамки седла</name>
+          <value>сталь</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="141824">
+    <title>NOVATRACK Х38443</title>
+    <model>Х38443</model>
+    <marka>NOVATRACK</marka>
+    <catalog id="1004703">Велосипеды</catalog>
+    
+    <price1>4490</price1>
+    <price2>4940</price2>
+    <description>
+велосипед подростковый, горный (MTB), Full suspension (двухподвесный), колеса 16&amp;quot;, передний тормоз: ободной, задний тормоз: ободной, материал рамы: сталь
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>подростковый</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>горный (MTB)</value>
+        </item>
+      </items>
+      <items>
+        <name>Рама, вилка</name>
+        <item>
+          <name>Материал рамы</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Амортизация</name>
+          <value>Full suspension (двухподвесный)</value>
+        </item>
+        <item>
+          <name>Конструкция вилки</name>
+          <value>пружинно-эластомерная</value>
+        </item>
+        <item>
+          <name>Уровень мягкой вилки</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Конструкция рулевой колонки</name>
+          <value>неинтегрированная, резьбовая</value>
+        </item>
+      </items>
+      <items>
+        <name>Колеса</name>
+        <item>
+          <name>Диаметр колес</name>
+          <value>16 дюймов</value>
+        </item>
+        <item>
+          <name>Материал обода</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Двойной обод</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Материал бортировочного шнура</name>
+          <value>металл</value>
+        </item>
+      </items>
+      <items>
+        <name>Торможение</name>
+        <item>
+          <name>Тип переднего тормоза</name>
+          <value>ободной (V-Brake)</value>
+        </item>
+        <item>
+          <name>Уровень переднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Тип заднего тормоза</name>
+          <value>ободной (V-Brake)</value>
+        </item>
+        <item>
+          <name>Уровень заднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+      </items>
+      <items>
+        <name>Трансмиссия</name>
+        <item>
+          <name>Количество скоростей</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Уровень заднего переключателя</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование заднего переключателя</name>
+          <value>Power RD-42B</value>
+        </item>
+        <item>
+          <name>Уровень манеток</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование манеток</name>
+          <value>Power SFT-391P</value>
+        </item>
+        <item>
+          <name>Конструкция манеток</name>
+          <value>вращающаяся ручка</value>
+        </item>
+        <item>
+          <name>Уровень каретки</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Конструкция каретки</name>
+          <value>неинтегрированная</value>
+        </item>
+        <item>
+          <name>Тип посадочной части вала каретки</name>
+          <value>квадрат</value>
+        </item>
+        <item>
+          <name>Уровень кассеты</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Количество звезд в кассете</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Количество звезд системы</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Конструкция педалей</name>
+          <value>классическая</value>
+        </item>
+      </items>
+      <items>
+        <name>Руль</name>
+        <item>
+          <name>Конструкция руля</name>
+          <value>изогнутый</value>
+        </item>
+        <item>
+          <name>Настройка положения руля</name>
+          <value>регулируемый подъем</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Звонок</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>крылья</value>
+        </item>
+      </items>
+      <items>
+        <name>Седло</name>
+        <item>
+          <name>Материал рамки седла</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Комфорт</name>
+          <value>подножка</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="141890">
+    <title>Challenger Genesis</title>
+    <model>Genesis</model>
+    <marka>Challenger</marka>
+    <catalog id="1004703">Велосипеды</catalog>
+    
+    <price1>5990</price1>
+    <price2>6835</price2>
+    <description>
+велосипед для взрослых, горный (MTB) / кросс-кантри, Full suspension (двухподвесный), колеса 26&amp;quot;, передний тормоз: дисковый, задний тормоз: дисковый, материал рамы: сталь
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Модель</name>
+          <value>2007 года</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>для взрослых</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>горный (MTB), кросс-кантри</value>
+        </item>
+      </items>
+      <items>
+        <name>Рама, вилка</name>
+        <item>
+          <name>Материал рамы</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Размеры рамы</name>
+          <value>16, 18, 20 дюйм</value>
+        </item>
+        <item>
+          <name>Амортизация</name>
+          <value>Full suspension (двухподвесный)</value>
+        </item>
+        <item>
+          <name>Конструкция вилки</name>
+          <value>пружинная (двухкоронная)</value>
+        </item>
+        <item>
+          <name>Уровень мягкой вилки</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Конструкция рулевой колонки</name>
+          <value>неинтегрированная, резьбовая</value>
+        </item>
+        <item>
+          <name>Размер рулевой колонки</name>
+          <value>1 1/8"</value>
+        </item>
+      </items>
+      <items>
+        <name>Колеса</name>
+        <item>
+          <name>Диаметр колес</name>
+          <value>26 дюймов</value>
+        </item>
+        <item>
+          <name>Материал обода</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Материал бортировочного шнура</name>
+          <value>металл</value>
+        </item>
+      </items>
+      <items>
+        <name>Торможение</name>
+        <item>
+          <name>Тип переднего тормоза</name>
+          <value>дисковый (механический)</value>
+        </item>
+        <item>
+          <name>Уровень переднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Тип заднего тормоза</name>
+          <value>дисковый (механический)</value>
+        </item>
+        <item>
+          <name>Уровень заднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Возможность крепления дискового тормоза</name>
+          <value>рама, вилка, втулки</value>
+        </item>
+      </items>
+      <items>
+        <name>Трансмиссия</name>
+        <item>
+          <name>Количество скоростей</name>
+          <value>18</value>
+        </item>
+        <item>
+          <name>Уровень заднего переключателя</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование заднего переключателя</name>
+          <value>SunRun</value>
+        </item>
+        <item>
+          <name>Уровень переднего переключателя</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование переднего переключателя</name>
+          <value>SunRun</value>
+        </item>
+        <item>
+          <name>Уровень манеток</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование манеток</name>
+          <value>SunRun</value>
+        </item>
+        <item>
+          <name>Конструкция манеток</name>
+          <value>вращающаяся ручка</value>
+        </item>
+        <item>
+          <name>Уровень каретки</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Конструкция каретки</name>
+          <value>неинтегрированная</value>
+        </item>
+        <item>
+          <name>Тип посадочной части вала каретки</name>
+          <value>квадрат</value>
+        </item>
+        <item>
+          <name>Уровень кассеты</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Количество звезд в кассете</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Количество звезд системы</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Конструкция педалей</name>
+          <value>классическая</value>
+        </item>
+      </items>
+      <items>
+        <name>Руль</name>
+        <item>
+          <name>Конструкция руля</name>
+          <value>изогнутый</value>
+        </item>
+        <item>
+          <name>Настройка положения руля</name>
+          <value>регулируемый подъем</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>крылья</value>
+        </item>
+      </items>
+      <items>
+        <name>Седло</name>
+        <item>
+          <name>Материал седла</name>
+          <value>искусственная кожа</value>
+        </item>
+        <item>
+          <name>Материал рамки седла</name>
+          <value>сталь</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="141957">
+    <title>FORWARD Enigma 163 (2011)</title>
+    <model>Enigma 163 (2011)</model>
+    <marka>FORWARD</marka>
+    <catalog id="1004703">Велосипеды</catalog>
+    
+    <price1>7330</price1>
+    <price2>7490</price2>
+    <description>
+велосипед для взрослых, дорожный, амортизация отсутствует, колеса 20&amp;quot;, передний тормоз: ободной, задний тормоз: ободной, материал рамы: алюминиевый сплав, складной
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Модель</name>
+          <value>2011 года</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>для взрослых</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>дорожный, городской</value>
+        </item>
+      </items>
+      <items>
+        <name>Рама, вилка</name>
+        <item>
+          <name>Складной</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Материал рамы</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Амортизация</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Конструкция вилки</name>
+          <value>жесткая</value>
+        </item>
+        <item>
+          <name>Конструкция рулевой колонки</name>
+          <value>безрезьбовая</value>
+        </item>
+        <item>
+          <name>Размер рулевой колонки</name>
+          <value>1 1/8"</value>
+        </item>
+      </items>
+      <items>
+        <name>Колеса</name>
+        <item>
+          <name>Диаметр колес</name>
+          <value>20 дюймов</value>
+        </item>
+        <item>
+          <name>Материал обода</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Двойной обод</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал бортировочного шнура</name>
+          <value>металл</value>
+        </item>
+      </items>
+      <items>
+        <name>Торможение</name>
+        <item>
+          <name>Наименование переднего тормоза</name>
+          <value>Radius</value>
+        </item>
+        <item>
+          <name>Тип переднего тормоза</name>
+          <value>ободной (V-Brake)</value>
+        </item>
+        <item>
+          <name>Уровень переднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование заднего тормоза</name>
+          <value>Radius</value>
+        </item>
+        <item>
+          <name>Тип заднего тормоза</name>
+          <value>ободной (V-Brake)</value>
+        </item>
+        <item>
+          <name>Уровень заднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+      </items>
+      <items>
+        <name>Трансмиссия</name>
+        <item>
+          <name>Количество скоростей</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Уровень заднего переключателя</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование заднего переключателя</name>
+          <value>Shimano TZ50</value>
+        </item>
+        <item>
+          <name>Уровень манеток</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование манеток</name>
+          <value>Shimano RS35</value>
+        </item>
+        <item>
+          <name>Конструкция манеток</name>
+          <value>вращающаяся ручка</value>
+        </item>
+        <item>
+          <name>Уровень каретки</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Конструкция каретки</name>
+          <value>неинтегрированная</value>
+        </item>
+        <item>
+          <name>Тип посадочной части вала каретки</name>
+          <value>квадрат</value>
+        </item>
+        <item>
+          <name>Уровень кассеты</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Количество звезд в кассете</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Количество звезд системы</name>
+          <value>1, число зубьев 40</value>
+        </item>
+        <item>
+          <name>Конструкция педалей</name>
+          <value>классическая</value>
+        </item>
+      </items>
+      <items>
+        <name>Руль</name>
+        <item>
+          <name>Конструкция руля</name>
+          <value>изогнутый</value>
+        </item>
+        <item>
+          <name>Настройка положения руля</name>
+          <value>регулируемый подъем</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Звонок</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>крылья</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="146558">
+    <title>Challenger Mission Lux</title>
+    <model>Mission Lux</model>
+    <marka>Challenger</marka>
+    <catalog id="1004703">Велосипеды</catalog>
+    
+    <price1>5790</price1>
+    <price2>6490</price2>
+    <description>
+велосипед для взрослых, горный (MTB) / кросс-кантри, Full suspension (двухподвесный), колеса 26&amp;quot;, передний тормоз: ободной, задний тормоз: ободной, материал рамы: сталь
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>для взрослых</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>горный (MTB), кросс-кантри</value>
+        </item>
+      </items>
+      <items>
+        <name>Рама, вилка</name>
+        <item>
+          <name>Материал рамы</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Размеры рамы</name>
+          <value>16, 18, 20 дюйм</value>
+        </item>
+        <item>
+          <name>Амортизация</name>
+          <value>Full suspension (двухподвесный)</value>
+        </item>
+        <item>
+          <name>Конструкция вилки</name>
+          <value>пружинно-эластомерная</value>
+        </item>
+        <item>
+          <name>Уровень мягкой вилки</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Конструкция рулевой колонки</name>
+          <value>неинтегрированная, резьбовая</value>
+        </item>
+      </items>
+      <items>
+        <name>Колеса</name>
+        <item>
+          <name>Диаметр колес</name>
+          <value>26 дюймов</value>
+        </item>
+        <item>
+          <name>Материал обода</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Двойной обод</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Материал бортировочного шнура</name>
+          <value>металл</value>
+        </item>
+      </items>
+      <items>
+        <name>Торможение</name>
+        <item>
+          <name>Тип переднего тормоза</name>
+          <value>ободной (V-Brake)</value>
+        </item>
+        <item>
+          <name>Уровень переднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Тип заднего тормоза</name>
+          <value>ободной (V-Brake)</value>
+        </item>
+        <item>
+          <name>Уровень заднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+      </items>
+      <items>
+        <name>Трансмиссия</name>
+        <item>
+          <name>Количество скоростей</name>
+          <value>18</value>
+        </item>
+        <item>
+          <name>Уровень заднего переключателя</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование заднего переключателя</name>
+          <value>Shimano</value>
+        </item>
+        <item>
+          <name>Уровень переднего переключателя</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование переднего переключателя</name>
+          <value>Shimano</value>
+        </item>
+        <item>
+          <name>Уровень манеток</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование манеток</name>
+          <value>Shimano</value>
+        </item>
+        <item>
+          <name>Конструкция манеток</name>
+          <value>вращающаяся ручка</value>
+        </item>
+        <item>
+          <name>Конструкция каретки</name>
+          <value>неинтегрированная</value>
+        </item>
+        <item>
+          <name>Уровень кассеты</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Количество звезд в кассете</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Количество звезд системы</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Конструкция педалей</name>
+          <value>классическая</value>
+        </item>
+      </items>
+      <items>
+        <name>Руль</name>
+        <item>
+          <name>Конструкция руля</name>
+          <value>изогнутый</value>
+        </item>
+        <item>
+          <name>Настройка положения руля</name>
+          <value>регулируемый подъем</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>крылья</value>
+        </item>
+      </items>
+      <items>
+        <name>Седло</name>
+        <item>
+          <name>Материал рамки седла</name>
+          <value>сталь</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="217437">
+    <title>Giant Simple Seven (2013)</title>
+    <model>Simple Seven (2013)</model>
+    <marka>Giant</marka>
+    <catalog id="1004703">Велосипеды</catalog>
+    
+    <price1>14400</price1>
+    <price2>16000</price2>
+    <description>
+    </description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Модель</name>
+          <value>2013 года</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>для взрослых</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>дорожный, круизер</value>
+        </item>
+      </items>
+      <items>
+        <name>Рама, вилка</name>
+        <item>
+          <name>Материал рамы</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Амортизация</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Конструкция вилки</name>
+          <value>жесткая</value>
+        </item>
+        <item>
+          <name>Конструкция рулевой колонки</name>
+          <value>резьбовая</value>
+        </item>
+      </items>
+      <items>
+        <name>Колеса</name>
+        <item>
+          <name>Диаметр колес</name>
+          <value>26 дюймов</value>
+        </item>
+        <item>
+          <name>Наименование покрышек</name>
+          <value>CST Cruiser, 26x2.125</value>
+        </item>
+        <item>
+          <name>Наименование ободов</name>
+          <value>Giant</value>
+        </item>
+        <item>
+          <name>Материал обода</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Материал бортировочного шнура</name>
+          <value>металл</value>
+        </item>
+      </items>
+      <items>
+        <name>Торможение</name>
+        <item>
+          <name>Тип переднего тормоза</name>
+          <value>ободной (V-Brake)</value>
+        </item>
+        <item>
+          <name>Уровень переднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Тип заднего тормоза</name>
+          <value>ободной (V-Brake)</value>
+        </item>
+        <item>
+          <name>Уровень заднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+      </items>
+      <items>
+        <name>Трансмиссия</name>
+        <item>
+          <name>Количество скоростей</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Уровень заднего переключателя</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование заднего переключателя</name>
+          <value>Shimano Tourney, MegaRange</value>
+        </item>
+        <item>
+          <name>Уровень манеток</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование манеток</name>
+          <value>Shimano Revo, Twist</value>
+        </item>
+        <item>
+          <name>Конструкция манеток</name>
+          <value>вращающаяся ручка</value>
+        </item>
+        <item>
+          <name>Уровень каретки</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование каретки</name>
+          <value>Sealed Cartridge</value>
+        </item>
+        <item>
+          <name>Конструкция каретки</name>
+          <value>неинтегрированная</value>
+        </item>
+        <item>
+          <name>Тип посадочной части вала каретки</name>
+          <value>квадрат</value>
+        </item>
+        <item>
+          <name>Уровень кассеты</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование кассеты</name>
+          <value>Shimano HG-40, 14x34T</value>
+        </item>
+        <item>
+          <name>Количество звезд в кассете</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Количество звезд системы</name>
+          <value>1, число зубьев 46</value>
+        </item>
+        <item>
+          <name>Конструкция педалей</name>
+          <value>платформы</value>
+        </item>
+      </items>
+      <items>
+        <name>Руль</name>
+        <item>
+          <name>Конструкция руля</name>
+          <value>изогнутый</value>
+        </item>
+        <item>
+          <name>Настройка положения руля</name>
+          <value>регулируемый подъем</value>
+        </item>
+      </items>
+      <items>
+        <name>Седло</name>
+        <item>
+          <name>Материал рамки седла</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Комфорт</name>
+          <value>подпружиненное седло, защита цепи, подножка</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="217470">
+    <title>Giant Revel 29er 1 (2013)</title>
+    <model>Revel 29er 1 (2013)</model>
+    <marka>Giant</marka>
+    <catalog id="1004703">Велосипеды</catalog>
+    
+    <price1>17090</price1>
+    <price2>22200</price2>
+    <description>
+    </description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Модель</name>
+          <value>2013 года</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>для взрослых</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>горный (MTB), кросс-кантри</value>
+        </item>
+      </items>
+      <items>
+        <name>Рама, вилка</name>
+        <item>
+          <name>Материал рамы</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Размеры рамы</name>
+          <value>16, 18, 20, 22 дюйм</value>
+        </item>
+        <item>
+          <name>Амортизация</name>
+          <value>Hard tail (с амортизационной вилкой)</value>
+        </item>
+        <item>
+          <name>Наименование мягкой вилки</name>
+          <value>SR Suntour XCT V3 29</value>
+        </item>
+        <item>
+          <name>Конструкция вилки</name>
+          <value>пружинно-эластомерная</value>
+        </item>
+        <item>
+          <name>Уровень мягкой вилки</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Ход вилки</name>
+          <value>80 мм</value>
+        </item>
+        <item>
+          <name>Регулировки вилки</name>
+          <value>жесткости пружины</value>
+        </item>
+        <item>
+          <name>Конструкция рулевой колонки</name>
+          <value>безрезьбовая</value>
+        </item>
+        <item>
+          <name>Размер рулевой колонки</name>
+          <value>1 1/8"</value>
+        </item>
+      </items>
+      <items>
+        <name>Колеса</name>
+        <item>
+          <name>Диаметр колес</name>
+          <value>29 дюймов</value>
+        </item>
+        <item>
+          <name>Наименование покрышек</name>
+          <value>Giant Sport, 29x2.1</value>
+        </item>
+        <item>
+          <name>Наименование ободов</name>
+          <value>Giant XC</value>
+        </item>
+        <item>
+          <name>Материал обода</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Двойной обод</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал бортировочного шнура</name>
+          <value>металл</value>
+        </item>
+      </items>
+      <items>
+        <name>Торможение</name>
+        <item>
+          <name>Наименование переднего тормоза</name>
+          <value>Tektro Novela, 160mm</value>
+        </item>
+        <item>
+          <name>Тип переднего тормоза</name>
+          <value>дисковый (механический)</value>
+        </item>
+        <item>
+          <name>Уровень переднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование заднего тормоза</name>
+          <value>Tektro Novela, 160mm</value>
+        </item>
+        <item>
+          <name>Тип заднего тормоза</name>
+          <value>дисковый (механический)</value>
+        </item>
+        <item>
+          <name>Уровень заднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Возможность крепления дискового тормоза</name>
+          <value>рама, вилка, втулки</value>
+        </item>
+      </items>
+      <items>
+        <name>Трансмиссия</name>
+        <item>
+          <name>Количество скоростей</name>
+          <value>24</value>
+        </item>
+        <item>
+          <name>Уровень заднего переключателя</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование заднего переключателя</name>
+          <value>Shimano Alivio RD-M430</value>
+        </item>
+        <item>
+          <name>Уровень переднего переключателя</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование переднего переключателя</name>
+          <value>Shimano FD-M191</value>
+        </item>
+        <item>
+          <name>Уровень манеток</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование манеток</name>
+          <value>Shimano SL-M310</value>
+        </item>
+        <item>
+          <name>Конструкция манеток</name>
+          <value>триггерные двухрычажные</value>
+        </item>
+        <item>
+          <name>Уровень каретки</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование каретки</name>
+          <value>SR Suntour Sealed Cartridge</value>
+        </item>
+        <item>
+          <name>Конструкция каретки</name>
+          <value>неинтегрированная</value>
+        </item>
+        <item>
+          <name>Тип посадочной части вала каретки</name>
+          <value>квадрат</value>
+        </item>
+        <item>
+          <name>Уровень кассеты</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование кассеты</name>
+          <value>SRAM PG830, 11-32T</value>
+        </item>
+        <item>
+          <name>Количество звезд в кассете</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Количество звезд системы</name>
+          <value>3, число зубьев 42-34-24</value>
+        </item>
+        <item>
+          <name>Конструкция педалей</name>
+          <value>платформы</value>
+        </item>
+      </items>
+      <items>
+        <name>Руль</name>
+        <item>
+          <name>Конструкция руля</name>
+          <value>прямой</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="217702">
+    <title>TREK 3900 Disc (2013)</title>
+    <model>3900 Disc (2013)</model>
+    <marka>TREK</marka>
+    <catalog id="1004703">Велосипеды</catalog>
+    
+    <price1>18013</price1>
+    <price2>19290</price2>
+    <description>
+    </description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Модель</name>
+          <value>2013 года</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>для взрослых</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>горный (MTB), кросс-кантри</value>
+        </item>
+      </items>
+      <items>
+        <name>Рама, вилка</name>
+        <item>
+          <name>Материал рамы</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Размеры рамы</name>
+          <value>13, 16, 18, 19.5, 21, 22.5 дюйм</value>
+        </item>
+        <item>
+          <name>Амортизация</name>
+          <value>Hard tail (с амортизационной вилкой)</value>
+        </item>
+        <item>
+          <name>Наименование мягкой вилки</name>
+          <value>SR Suntour XCM</value>
+        </item>
+        <item>
+          <name>Конструкция вилки</name>
+          <value>пружинно-эластомерная</value>
+        </item>
+        <item>
+          <name>Уровень мягкой вилки</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Ход вилки</name>
+          <value>100 мм</value>
+        </item>
+        <item>
+          <name>Регулировки вилки</name>
+          <value>жесткости пружины</value>
+        </item>
+        <item>
+          <name>Конструкция рулевой колонки</name>
+          <value>полуинтегрированная, безрезьбовая</value>
+        </item>
+        <item>
+          <name>Размер рулевой колонки</name>
+          <value>1 1/8"</value>
+        </item>
+      </items>
+      <items>
+        <name>Колеса</name>
+        <item>
+          <name>Диаметр колес</name>
+          <value>26 дюймов</value>
+        </item>
+        <item>
+          <name>Наименование покрышек</name>
+          <value>Bontrager LT3, 26x2.0</value>
+        </item>
+        <item>
+          <name>Наименование ободов</name>
+          <value>Bontrager AT-650</value>
+        </item>
+        <item>
+          <name>Материал обода</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Двойной обод</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал бортировочного шнура</name>
+          <value>металл</value>
+        </item>
+      </items>
+      <items>
+        <name>Торможение</name>
+        <item>
+          <name>Наименование переднего тормоза</name>
+          <value>Tektro Novela</value>
+        </item>
+        <item>
+          <name>Тип переднего тормоза</name>
+          <value>дисковый (механический)</value>
+        </item>
+        <item>
+          <name>Уровень переднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование заднего тормоза</name>
+          <value>Tektro Novela</value>
+        </item>
+        <item>
+          <name>Тип заднего тормоза</name>
+          <value>дисковый (механический)</value>
+        </item>
+        <item>
+          <name>Уровень заднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Возможность крепления дискового тормоза</name>
+          <value>рама, вилка, втулки</value>
+        </item>
+      </items>
+      <items>
+        <name>Трансмиссия</name>
+        <item>
+          <name>Количество скоростей</name>
+          <value>24</value>
+        </item>
+        <item>
+          <name>Уровень заднего переключателя</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование заднего переключателя</name>
+          <value>Shimano Acera</value>
+        </item>
+        <item>
+          <name>Уровень переднего переключателя</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование переднего переключателя</name>
+          <value>Shimano Altus</value>
+        </item>
+        <item>
+          <name>Уровень манеток</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование манеток</name>
+          <value>Shimano Altus</value>
+        </item>
+        <item>
+          <name>Конструкция манеток</name>
+          <value>триггерные двухрычажные</value>
+        </item>
+        <item>
+          <name>Уровень каретки</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Конструкция каретки</name>
+          <value>неинтегрированная</value>
+        </item>
+        <item>
+          <name>Тип посадочной части вала каретки</name>
+          <value>квадрат</value>
+        </item>
+        <item>
+          <name>Уровень кассеты</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование кассеты</name>
+          <value>Shimano HG31, 11-32T</value>
+        </item>
+        <item>
+          <name>Количество звезд в кассете</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Количество звезд системы</name>
+          <value>3, число зубьев 42-34-24</value>
+        </item>
+        <item>
+          <name>Конструкция педалей</name>
+          <value>платформы</value>
+        </item>
+      </items>
+      <items>
+        <name>Руль</name>
+        <item>
+          <name>Конструкция руля</name>
+          <value>изогнутый</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="217832">
+    <title>Giant Sedona (2013)</title>
+    <model>Sedona (2013)</model>
+    <marka>Giant</marka>
+    <catalog id="1004703">Велосипеды</catalog>
+    
+    <price1>14200</price1>
+    <price2>15800</price2>
+    <description>
+    </description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Модель</name>
+          <value>2013 года</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>для взрослых</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>дорожный, городской</value>
+        </item>
+      </items>
+      <items>
+        <name>Рама, вилка</name>
+        <item>
+          <name>Материал рамы</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Размеры рамы</name>
+          <value>18, 20, 22, 24 дюйм</value>
+        </item>
+        <item>
+          <name>Амортизация</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Конструкция вилки</name>
+          <value>жесткая</value>
+        </item>
+        <item>
+          <name>Конструкция рулевой колонки</name>
+          <value>резьбовая</value>
+        </item>
+      </items>
+      <items>
+        <name>Колеса</name>
+        <item>
+          <name>Диаметр колес</name>
+          <value>26 дюймов</value>
+        </item>
+        <item>
+          <name>Наименование покрышек</name>
+          <value>Kenda K892, 26x1.95</value>
+        </item>
+        <item>
+          <name>Наименование ободов</name>
+          <value>CH-17</value>
+        </item>
+        <item>
+          <name>Материал обода</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Материал бортировочного шнура</name>
+          <value>металл</value>
+        </item>
+      </items>
+      <items>
+        <name>Торможение</name>
+        <item>
+          <name>Тип переднего тормоза</name>
+          <value>ободной (V-Brake)</value>
+        </item>
+        <item>
+          <name>Уровень переднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Тип заднего тормоза</name>
+          <value>ободной (V-Brake)</value>
+        </item>
+        <item>
+          <name>Уровень заднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+      </items>
+      <items>
+        <name>Трансмиссия</name>
+        <item>
+          <name>Количество скоростей</name>
+          <value>21</value>
+        </item>
+        <item>
+          <name>Уровень заднего переключателя</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование заднего переключателя</name>
+          <value>Shimano Tourney</value>
+        </item>
+        <item>
+          <name>Уровень переднего переключателя</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование переднего переключателя</name>
+          <value>Shimano M311</value>
+        </item>
+        <item>
+          <name>Уровень манеток</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование манеток</name>
+          <value>SRAM MRX Index</value>
+        </item>
+        <item>
+          <name>Конструкция манеток</name>
+          <value>вращающаяся ручка</value>
+        </item>
+        <item>
+          <name>Уровень каретки</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование каретки</name>
+          <value>Sealed Cartridge</value>
+        </item>
+        <item>
+          <name>Конструкция каретки</name>
+          <value>неинтегрированная</value>
+        </item>
+        <item>
+          <name>Тип посадочной части вала каретки</name>
+          <value>квадрат</value>
+        </item>
+        <item>
+          <name>Уровень кассеты</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование кассеты</name>
+          <value>Shimano TZ31, 14-24T</value>
+        </item>
+        <item>
+          <name>Количество звезд в кассете</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Количество звезд системы</name>
+          <value>3, число зубьев 48-38-28</value>
+        </item>
+        <item>
+          <name>Конструкция педалей</name>
+          <value>платформы</value>
+        </item>
+      </items>
+      <items>
+        <name>Руль</name>
+        <item>
+          <name>Конструкция руля</name>
+          <value>изогнутый</value>
+        </item>
+        <item>
+          <name>Настройка положения руля</name>
+          <value>регулируемый подъем</value>
+        </item>
+      </items>
+      <items>
+        <name>Седло</name>
+        <item>
+          <name>Комфорт</name>
+          <value>подпружиненное седло, амортизационный подседельный штырь, подножка</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="217843">
+    <title>STARK Jigger (2013)</title>
+    <model>Jigger (2013)</model>
+    <marka>STARK</marka>
+    <catalog id="1004703">Велосипеды</catalog>
+    
+    <price1>16150</price1>
+    <price2>17900</price2>
+    <description>
+    </description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Модель</name>
+          <value>2013 года</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>для взрослых</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>горный (MTB), стрит</value>
+        </item>
+      </items>
+      <items>
+        <name>Рама, вилка</name>
+        <item>
+          <name>Материал рамы</name>
+          <value>хроммолибденовый сплав</value>
+        </item>
+        <item>
+          <name>Размеры рамы</name>
+          <value>11.77 дюйм</value>
+        </item>
+        <item>
+          <name>Амортизация</name>
+          <value>Hard tail (с амортизационной вилкой)</value>
+        </item>
+        <item>
+          <name>Наименование мягкой вилки</name>
+          <value>RST Dirt T</value>
+        </item>
+        <item>
+          <name>Конструкция вилки</name>
+          <value>пружинно-эластомерная</value>
+        </item>
+        <item>
+          <name>Уровень мягкой вилки</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Ход вилки</name>
+          <value>80 мм</value>
+        </item>
+        <item>
+          <name>Регулировки вилки</name>
+          <value>жесткости пружины</value>
+        </item>
+        <item>
+          <name>Конструкция рулевой колонки</name>
+          <value>неинтегрированная, безрезьбовая</value>
+        </item>
+        <item>
+          <name>Размер рулевой колонки</name>
+          <value>1 1/8"</value>
+        </item>
+      </items>
+      <items>
+        <name>Колеса</name>
+        <item>
+          <name>Диаметр колес</name>
+          <value>24 дюймов</value>
+        </item>
+        <item>
+          <name>Наименование покрышек</name>
+          <value>Kenda K1052, 24x2.1</value>
+        </item>
+        <item>
+          <name>Наименование ободов</name>
+          <value>Weinmann Disc Bull</value>
+        </item>
+        <item>
+          <name>Материал обода</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Двойной обод</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал бортировочного шнура</name>
+          <value>металл</value>
+        </item>
+      </items>
+      <items>
+        <name>Торможение</name>
+        <item>
+          <name>Тип переднего тормоза</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Наименование заднего тормоза</name>
+          <value>Bengal MB-606, 160mm</value>
+        </item>
+        <item>
+          <name>Тип заднего тормоза</name>
+          <value>дисковый (механический)</value>
+        </item>
+        <item>
+          <name>Уровень заднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Возможность крепления дискового тормоза</name>
+          <value>рама, вилка, втулки</value>
+        </item>
+      </items>
+      <items>
+        <name>Трансмиссия</name>
+        <item>
+          <name>Количество скоростей</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Уровень каретки</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование каретки</name>
+          <value>Spanish Type</value>
+        </item>
+        <item>
+          <name>Конструкция каретки</name>
+          <value>неинтегрированная</value>
+        </item>
+        <item>
+          <name>Количество звезд в кассете</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество звезд системы</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Конструкция педалей</name>
+          <value>платформы</value>
+        </item>
+      </items>
+      <items>
+        <name>Руль</name>
+        <item>
+          <name>Конструкция руля</name>
+          <value>изогнутый</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="217999">
+    <title>Giant Expressway 2 (2013)</title>
+    <model>Expressway 2 (2013)</model>
+    <marka>Giant</marka>
+    <catalog id="1004703">Велосипеды</catalog>
+    
+    <description>
+    </description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Модель</name>
+          <value>2013 года</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>для взрослых</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>дорожный, городской</value>
+        </item>
+      </items>
+      <items>
+        <name>Рама, вилка</name>
+        <item>
+          <name>Складной</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Материал рамы</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Амортизация</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Конструкция вилки</name>
+          <value>жесткая</value>
+        </item>
+        <item>
+          <name>Конструкция рулевой колонки</name>
+          <value>безрезьбовая</value>
+        </item>
+      </items>
+      <items>
+        <name>Колеса</name>
+        <item>
+          <name>Диаметр колес</name>
+          <value>20 дюймов</value>
+        </item>
+        <item>
+          <name>Наименование покрышек</name>
+          <value>Kenda Kwest, 20x1.5</value>
+        </item>
+        <item>
+          <name>Материал обода</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Двойной обод</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал бортировочного шнура</name>
+          <value>металл</value>
+        </item>
+      </items>
+      <items>
+        <name>Торможение</name>
+        <item>
+          <name>Тип переднего тормоза</name>
+          <value>ободной (V-Brake)</value>
+        </item>
+        <item>
+          <name>Уровень переднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Тип заднего тормоза</name>
+          <value>ободной (V-Brake)</value>
+        </item>
+        <item>
+          <name>Уровень заднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Возможность крепления дискового тормоза</name>
+          <value>рама</value>
+        </item>
+      </items>
+      <items>
+        <name>Трансмиссия</name>
+        <item>
+          <name>Количество скоростей</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Уровень заднего переключателя</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование заднего переключателя</name>
+          <value>Shimano Tourney RD-FT30</value>
+        </item>
+        <item>
+          <name>Уровень манеток</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование манеток</name>
+          <value>Shimano Tourney, SL-RS43-7 Twist</value>
+        </item>
+        <item>
+          <name>Конструкция манеток</name>
+          <value>вращающаяся ручка</value>
+        </item>
+        <item>
+          <name>Уровень каретки</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование каретки</name>
+          <value>Cartridge</value>
+        </item>
+        <item>
+          <name>Конструкция каретки</name>
+          <value>неинтегрированная</value>
+        </item>
+        <item>
+          <name>Тип посадочной части вала каретки</name>
+          <value>квадрат</value>
+        </item>
+        <item>
+          <name>Уровень кассеты</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование кассеты</name>
+          <value>Shimano MF-TZ21-7, 14-28T</value>
+        </item>
+        <item>
+          <name>Количество звезд в кассете</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Количество звезд системы</name>
+          <value>1, число зубьев 52</value>
+        </item>
+        <item>
+          <name>Конструкция педалей</name>
+          <value>классическая</value>
+        </item>
+      </items>
+      <items>
+        <name>Руль</name>
+        <item>
+          <name>Конструкция руля</name>
+          <value>изогнутый</value>
+        </item>
+        <item>
+          <name>Настройка положения руля</name>
+          <value>регулируемый подъем</value>
+        </item>
+      </items>
+      <items>
+        <name>Седло</name>
+        <item>
+          <name>Материал рамки седла</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Комфорт</name>
+          <value>подножка</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="218023">
+    <title>TREK 4500 Disc (2013)</title>
+    <model>4500 Disc (2013)</model>
+    <marka>TREK</marka>
+    <catalog id="1004703">Велосипеды</catalog>
+    
+    <price1>26500</price1>
+    <price2>28740</price2>
+    <description>
+    </description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Модель</name>
+          <value>2013 года</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>для взрослых</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>горный (MTB), кросс-кантри</value>
+        </item>
+      </items>
+      <items>
+        <name>Рама, вилка</name>
+        <item>
+          <name>Материал рамы</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Размеры рамы</name>
+          <value>13.5, 15.5, 17.5, 18.5, 19.5, 21.5, 23.5 дюйм</value>
+        </item>
+        <item>
+          <name>Амортизация</name>
+          <value>Hard tail (с амортизационной вилкой)</value>
+        </item>
+        <item>
+          <name>Наименование мягкой вилки</name>
+          <value>SR Suntour XCM</value>
+        </item>
+        <item>
+          <name>Конструкция вилки</name>
+          <value>пружинно-эластомерная</value>
+        </item>
+        <item>
+          <name>Уровень мягкой вилки</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Ход вилки</name>
+          <value>100 мм</value>
+        </item>
+        <item>
+          <name>Регулировки вилки</name>
+          <value>жесткости пружины</value>
+        </item>
+        <item>
+          <name>Конструкция рулевой колонки</name>
+          <value>полуинтегрированная, безрезьбовая</value>
+        </item>
+        <item>
+          <name>Размер рулевой колонки</name>
+          <value>1 1/8"</value>
+        </item>
+      </items>
+      <items>
+        <name>Колеса</name>
+        <item>
+          <name>Диаметр колес</name>
+          <value>26 дюймов</value>
+        </item>
+        <item>
+          <name>Наименование покрышек</name>
+          <value>Bontrager XR2, 26x2.2</value>
+        </item>
+        <item>
+          <name>Наименование ободов</name>
+          <value>Bontrager AT-650</value>
+        </item>
+        <item>
+          <name>Материал обода</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Двойной обод</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал бортировочного шнура</name>
+          <value>металл</value>
+        </item>
+      </items>
+      <items>
+        <name>Торможение</name>
+        <item>
+          <name>Наименование переднего тормоза</name>
+          <value>Shimano M395</value>
+        </item>
+        <item>
+          <name>Тип переднего тормоза</name>
+          <value>дисковый (гидравлический)</value>
+        </item>
+        <item>
+          <name>Уровень переднего тормоза</name>
+          <value>любительский</value>
+        </item>
+        <item>
+          <name>Наименование заднего тормоза</name>
+          <value>Shimano M395</value>
+        </item>
+        <item>
+          <name>Тип заднего тормоза</name>
+          <value>дисковый (гидравлический)</value>
+        </item>
+        <item>
+          <name>Уровень заднего тормоза</name>
+          <value>любительский</value>
+        </item>
+        <item>
+          <name>Возможность крепления дискового тормоза</name>
+          <value>рама, вилка, втулки</value>
+        </item>
+      </items>
+      <items>
+        <name>Трансмиссия</name>
+        <item>
+          <name>Количество скоростей</name>
+          <value>27</value>
+        </item>
+        <item>
+          <name>Уровень заднего переключателя</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование заднего переключателя</name>
+          <value>Shimano Deore</value>
+        </item>
+        <item>
+          <name>Уровень переднего переключателя</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование переднего переключателя</name>
+          <value>Shimano Acera</value>
+        </item>
+        <item>
+          <name>Уровень манеток</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование манеток</name>
+          <value>Shimano Alivio</value>
+        </item>
+        <item>
+          <name>Конструкция манеток</name>
+          <value>триггерные двухрычажные</value>
+        </item>
+        <item>
+          <name>Уровень каретки</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Конструкция каретки</name>
+          <value>неинтегрированная</value>
+        </item>
+        <item>
+          <name>Уровень кассеты</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование кассеты</name>
+          <value>Shimano HG20, 11-34T</value>
+        </item>
+        <item>
+          <name>Количество звезд в кассете</name>
+          <value>9</value>
+        </item>
+        <item>
+          <name>Количество звезд системы</name>
+          <value>3, число зубьев 44-32-22</value>
+        </item>
+        <item>
+          <name>Конструкция педалей</name>
+          <value>платформы</value>
+        </item>
+      </items>
+      <items>
+        <name>Руль</name>
+        <item>
+          <name>Конструкция руля</name>
+          <value>изогнутый</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="218086">
+    <title>Brompton M6L</title>
+    <model>M6L</model>
+    <marka>Brompton</marka>
+    <catalog id="1004703">Велосипеды</catalog>
+    
+    <description>
+    </description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>для взрослых</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>дорожный, городской</value>
+        </item>
+      </items>
+      <items>
+        <name>Рама, вилка</name>
+        <item>
+          <name>Складной</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Материал рамы</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Амортизация</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Конструкция вилки</name>
+          <value>жесткая</value>
+        </item>
+        <item>
+          <name>Конструкция рулевой колонки</name>
+          <value>неинтегрированная, резьбовая</value>
+        </item>
+      </items>
+      <items>
+        <name>Колеса</name>
+        <item>
+          <name>Диаметр колес</name>
+          <value>16 дюймов</value>
+        </item>
+        <item>
+          <name>Материал обода</name>
+          <value>алюминиевый сплав</value>
+        </item>
+      </items>
+      <items>
+        <name>Торможение</name>
+        <item>
+          <name>Тип переднего тормоза</name>
+          <value>ободной (клещевой)</value>
+        </item>
+        <item>
+          <name>Уровень переднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Тип заднего тормоза</name>
+          <value>ободной (клещевой)</value>
+        </item>
+        <item>
+          <name>Уровень заднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+      </items>
+      <items>
+        <name>Трансмиссия</name>
+        <item>
+          <name>Планетарная втулка</name>
+          <value>да, 3 скорости</value>
+        </item>
+        <item>
+          <name>Количество скоростей</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Уровень заднего переключателя</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Уровень манеток</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Конструкция каретки</name>
+          <value>неинтегрированная</value>
+        </item>
+        <item>
+          <name>Тип посадочной части вала каретки</name>
+          <value>квадрат</value>
+        </item>
+        <item>
+          <name>Уровень кассеты</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Количество звезд в кассете</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество звезд системы</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Конструкция педалей</name>
+          <value>классическая</value>
+        </item>
+      </items>
+      <items>
+        <name>Руль</name>
+        <item>
+          <name>Конструкция руля</name>
+          <value>изогнутый</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>крылья, насос, электрооборудование</value>
+        </item>
+      </items>
+      <items>
+        <name>Седло</name>
+        <item>
+          <name>Материал рамки седла</name>
+          <value>сталь</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="218092">
+    <title>Giant Expressway 1 (2013)</title>
+    <model>Expressway 1 (2013)</model>
+    <marka>Giant</marka>
+    <catalog id="1004703">Велосипеды</catalog>
+    
+    <description>
+    </description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Модель</name>
+          <value>2013 года</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>для взрослых</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>дорожный, городской</value>
+        </item>
+      </items>
+      <items>
+        <name>Рама, вилка</name>
+        <item>
+          <name>Складной</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Материал рамы</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Амортизация</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Конструкция вилки</name>
+          <value>жесткая</value>
+        </item>
+        <item>
+          <name>Конструкция рулевой колонки</name>
+          <value>безрезьбовая</value>
+        </item>
+      </items>
+      <items>
+        <name>Колеса</name>
+        <item>
+          <name>Диаметр колес</name>
+          <value>20 дюймов</value>
+        </item>
+        <item>
+          <name>Наименование покрышек</name>
+          <value>Kenda Kwest, 20x1.5</value>
+        </item>
+        <item>
+          <name>Материал обода</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Двойной обод</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал бортировочного шнура</name>
+          <value>металл</value>
+        </item>
+      </items>
+      <items>
+        <name>Торможение</name>
+        <item>
+          <name>Тип переднего тормоза</name>
+          <value>ободной (V-Brake)</value>
+        </item>
+        <item>
+          <name>Уровень переднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Тип заднего тормоза</name>
+          <value>ободной (V-Brake)</value>
+        </item>
+        <item>
+          <name>Уровень заднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Возможность крепления дискового тормоза</name>
+          <value>рама</value>
+        </item>
+      </items>
+      <items>
+        <name>Трансмиссия</name>
+        <item>
+          <name>Количество скоростей</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Уровень заднего переключателя</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование заднего переключателя</name>
+          <value>Shimano Altus RD-M310</value>
+        </item>
+        <item>
+          <name>Уровень манеток</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование манеток</name>
+          <value>Shimano Acera SL-M360</value>
+        </item>
+        <item>
+          <name>Конструкция манеток</name>
+          <value>триггерные двухрычажные</value>
+        </item>
+        <item>
+          <name>Уровень каретки</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование каретки</name>
+          <value>Cartridge</value>
+        </item>
+        <item>
+          <name>Конструкция каретки</name>
+          <value>неинтегрированная</value>
+        </item>
+        <item>
+          <name>Тип посадочной части вала каретки</name>
+          <value>квадрат</value>
+        </item>
+        <item>
+          <name>Уровень кассеты</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование кассеты</name>
+          <value>SRAM PG-830, 11-30T</value>
+        </item>
+        <item>
+          <name>Количество звезд в кассете</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Количество звезд системы</name>
+          <value>1, число зубьев 52</value>
+        </item>
+        <item>
+          <name>Конструкция педалей</name>
+          <value>классическая</value>
+        </item>
+      </items>
+      <items>
+        <name>Руль</name>
+        <item>
+          <name>Конструкция руля</name>
+          <value>изогнутый</value>
+        </item>
+        <item>
+          <name>Настройка положения руля</name>
+          <value>регулируемый подъем</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>багажник, крылья</value>
+        </item>
+      </items>
+      <items>
+        <name>Седло</name>
+        <item>
+          <name>Материал рамки седла</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Комфорт</name>
+          <value>подножка</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="218148">
+    <title>Giant Bella (2013)</title>
+    <model>Bella (2013)</model>
+    <marka>Giant</marka>
+    <catalog id="1004703">Велосипеды</catalog>
+    
+    <description>
+    </description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Модель</name>
+          <value>2013 года</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>подростковый, для девушек</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>дорожный, городской</value>
+        </item>
+      </items>
+      <items>
+        <name>Рама, вилка</name>
+        <item>
+          <name>Материал рамы</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Амортизация</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Конструкция вилки</name>
+          <value>жесткая</value>
+        </item>
+        <item>
+          <name>Конструкция рулевой колонки</name>
+          <value>неинтегрированная, резьбовая</value>
+        </item>
+      </items>
+      <items>
+        <name>Колеса</name>
+        <item>
+          <name>Диаметр колес</name>
+          <value>20 дюймов</value>
+        </item>
+        <item>
+          <name>Наименование покрышек</name>
+          <value>Kenda Street K841, 20x2.1</value>
+        </item>
+        <item>
+          <name>Материал обода</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Двойной обод</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Материал бортировочного шнура</name>
+          <value>металл</value>
+        </item>
+      </items>
+      <items>
+        <name>Торможение</name>
+        <item>
+          <name>Тип переднего тормоза</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Тип заднего тормоза</name>
+          <value>ободной (V-Brake)</value>
+        </item>
+        <item>
+          <name>Уровень заднего тормоза</name>
+          <value>прогулочный</value>
+        </item>
+      </items>
+      <items>
+        <name>Трансмиссия</name>
+        <item>
+          <name>Количество скоростей</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Уровень каретки</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование каретки</name>
+          <value>Loose Ball Steel UCP</value>
+        </item>
+        <item>
+          <name>Уровень кассеты</name>
+          <value>начальный</value>
+        </item>
+        <item>
+          <name>Наименование кассеты</name>
+          <value>18T</value>
+        </item>
+        <item>
+          <name>Количество звезд в кассете</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество звезд системы</name>
+          <value>1, число зубьев 36</value>
+        </item>
+        <item>
+          <name>Конструкция педалей</name>
+          <value>платформы</value>
+        </item>
+      </items>
+      <items>
+        <name>Руль</name>
+        <item>
+          <name>Конструкция руля</name>
+          <value>изогнутый</value>
+        </item>
+        <item>
+          <name>Настройка положения руля</name>
+          <value>регулируемый подъем</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Звонок</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>крылья</value>
+        </item>
+      </items>
+      <items>
+        <name>Седло</name>
+        <item>
+          <name>Материал рамки седла</name>
+          <value>сталь</value>
+        </item>
+        <item>
+          <name>Комфорт</name>
+          <value>защита цепи, подножка</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="218184">
+    <title>Giant Revel 29er 0-v2 (2013)</title>
+    <model>Revel 29er 0-v2 (2013)</model>
+    <marka>Giant</marka>
+    <catalog id="1004703">Велосипеды</catalog>
+    
+    <price1>25830</price1>
+    <price2>29410</price2>
+    <description>
+    </description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Модель</name>
+          <value>2013 года</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>для взрослых</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>горный (MTB), кросс-кантри</value>
+        </item>
+      </items>
+      <items>
+        <name>Рама, вилка</name>
+        <item>
+          <name>Материал рамы</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Размеры рамы</name>
+          <value>16, 18, 20, 22 дюйм</value>
+        </item>
+        <item>
+          <name>Амортизация</name>
+          <value>Hard tail (с амортизационной вилкой)</value>
+        </item>
+        <item>
+          <name>Наименование мягкой вилки</name>
+          <value>SR Suntour XCM MLO V3 29</value>
+        </item>
+        <item>
+          <name>Конструкция вилки</name>
+          <value>пружинно-эластомерная</value>
+        </item>
+        <item>
+          <name>Уровень мягкой вилки</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Ход вилки</name>
+          <value>80 мм</value>
+        </item>
+        <item>
+          <name>Регулировки вилки</name>
+          <value>жесткости пружины, блокировка хода</value>
+        </item>
+        <item>
+          <name>Конструкция рулевой колонки</name>
+          <value>безрезьбовая</value>
+        </item>
+        <item>
+          <name>Размер рулевой колонки</name>
+          <value>1 1/8"</value>
+        </item>
+      </items>
+      <items>
+        <name>Колеса</name>
+        <item>
+          <name>Диаметр колес</name>
+          <value>29 дюймов</value>
+        </item>
+        <item>
+          <name>Наименование покрышек</name>
+          <value>Giant Sport, 29x2.1</value>
+        </item>
+        <item>
+          <name>Наименование ободов</name>
+          <value>Giant XC</value>
+        </item>
+        <item>
+          <name>Материал обода</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Двойной обод</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал бортировочного шнура</name>
+          <value>металл</value>
+        </item>
+      </items>
+      <items>
+        <name>Торможение</name>
+        <item>
+          <name>Наименование переднего тормоза</name>
+          <value>Tektro HDC300, 160mm</value>
+        </item>
+        <item>
+          <name>Тип переднего тормоза</name>
+          <value>дисковый (гидравлический)</value>
+        </item>
+        <item>
+          <name>Уровень переднего тормоза</name>
+          <value>любительский</value>
+        </item>
+        <item>
+          <name>Наименование заднего тормоза</name>
+          <value>Tektro HDC300, 160mm</value>
+        </item>
+        <item>
+          <name>Тип заднего тормоза</name>
+          <value>дисковый (гидравлический)</value>
+        </item>
+        <item>
+          <name>Уровень заднего тормоза</name>
+          <value>любительский</value>
+        </item>
+        <item>
+          <name>Возможность крепления дискового тормоза</name>
+          <value>рама, вилка, втулки</value>
+        </item>
+      </items>
+      <items>
+        <name>Трансмиссия</name>
+        <item>
+          <name>Количество скоростей</name>
+          <value>27</value>
+        </item>
+        <item>
+          <name>Уровень заднего переключателя</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование заднего переключателя</name>
+          <value>Shimano Deore M590</value>
+        </item>
+        <item>
+          <name>Уровень переднего переключателя</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование переднего переключателя</name>
+          <value>Shimano Acera M390</value>
+        </item>
+        <item>
+          <name>Уровень манеток</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование манеток</name>
+          <value>Shimano Acera</value>
+        </item>
+        <item>
+          <name>Конструкция манеток</name>
+          <value>триггерные двухрычажные</value>
+        </item>
+        <item>
+          <name>Уровень каретки</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование каретки</name>
+          <value>Shimano UN26 Cartridge</value>
+        </item>
+        <item>
+          <name>Конструкция каретки</name>
+          <value>неинтегрированная</value>
+        </item>
+        <item>
+          <name>Тип посадочной части вала каретки</name>
+          <value>квадрат</value>
+        </item>
+        <item>
+          <name>Уровень кассеты</name>
+          <value>прогулочный</value>
+        </item>
+        <item>
+          <name>Наименование кассеты</name>
+          <value>Shimano HG50, 11-32T</value>
+        </item>
+        <item>
+          <name>Количество звезд в кассете</name>
+          <value>9</value>
+        </item>
+        <item>
+          <name>Количество звезд системы</name>
+          <value>3, число зубьев 42-32-22</value>
+        </item>
+        <item>
+          <name>Конструкция педалей</name>
+          <value>платформы</value>
+        </item>
+      </items>
+      <items>
+        <name>Руль</name>
+        <item>
+          <name>Конструкция руля</name>
+          <value>изогнутый</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

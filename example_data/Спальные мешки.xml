@@ -1,0 +1,2058 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="109561">
+    <title>Alexika Tundra Plus</title>
+    <model>Tundra Plus</model>
+    <marka>Alexika</marka>
+    <catalog id="1617412">Спальные мешки</catalog>
+    
+    <price1>4810</price1>
+    <price2>6970</price2>
+    <description>
+
+трехсезонный спальный мешок-одеяло, наполнитель: синтетика (2-слойный), температура комфорта: -7°С, возможность состегивания, карманы, вес 2.6 кг
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>трехсезонный</value>
+        </item>
+        <item>
+          <name>Тип спального мешка</name>
+          <value>одеяло</value>
+        </item>
+      </items>
+      <items>
+        <name>Удобства</name>
+        <item>
+          <name>Возможность состегивания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Наличие карманов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от заедания молнии</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Капюшон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Температуры и защита</name>
+        <item>
+          <name>Экстремальная температура</name>
+          <value>-22°С</value>
+        </item>
+        <item>
+          <name>Нижняя температура комфорта</name>
+          <value>-7°С</value>
+        </item>
+        <item>
+          <name>Верхняя температура комфорта</name>
+          <value>-1°С</value>
+        </item>
+      </items>
+      <items>
+        <name>Материалы</name>
+        <item>
+          <name>Материал внешней ткани</name>
+          <value>полиэстер (190T)</value>
+        </item>
+        <item>
+          <name>Материал внутренней ткани</name>
+          <value>фланель</value>
+        </item>
+        <item>
+          <name>Наполнитель</name>
+          <value>синтетика (APF-Isoterm 3D, 2x200 г/м2)</value>
+        </item>
+        <item>
+          <name>Количество слоев наполнителя</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Вес</name>
+          <value>2.6 кг</value>
+        </item>
+        <item>
+          <name>Длина</name>
+          <value>225 см</value>
+        </item>
+        <item>
+          <name>Ширина</name>
+          <value>90 см</value>
+        </item>
+        <item>
+          <name>Размеры в свернутом виде (ДхШхВ)</name>
+          <value>47x37х30 см</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="109564">
+    <title>Alexika Comet</title>
+    <model>Comet</model>
+    <marka>Alexika</marka>
+    <catalog id="1617412">Спальные мешки</catalog>
+    
+    <price1>2880</price1>
+    <price2>3700</price2>
+    <description>
+
+кемпинговый спальный мешок-одеяло, наполнитель: синтетика (2-слойный), температура комфорта: 5°С, возможность состегивания, карманы, компрессионный мешок, вес 2 кг
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>кемпинговый</value>
+        </item>
+        <item>
+          <name>Тип спального мешка</name>
+          <value>одеяло</value>
+        </item>
+      </items>
+      <items>
+        <name>Удобства</name>
+        <item>
+          <name>Возможность состегивания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Наличие карманов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Двойная молния</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от заедания молнии</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Капюшон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Компрессионный мешок</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Температуры и защита</name>
+        <item>
+          <name>Экстремальная температура</name>
+          <value>-5°С</value>
+        </item>
+        <item>
+          <name>Нижняя температура комфорта</name>
+          <value>5°С</value>
+        </item>
+        <item>
+          <name>Верхняя температура комфорта</name>
+          <value>10°С</value>
+        </item>
+      </items>
+      <items>
+        <name>Материалы</name>
+        <item>
+          <name>Материал внешней ткани</name>
+          <value>полиэстер (190T)</value>
+        </item>
+        <item>
+          <name>Материал внутренней ткани</name>
+          <value>полиэстер (190T)</value>
+        </item>
+        <item>
+          <name>Наполнитель</name>
+          <value>синтетика (APF-Isoterm 3D, 2x100 г/м2)</value>
+        </item>
+        <item>
+          <name>Количество слоев наполнителя</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Вес</name>
+          <value>2 кг</value>
+        </item>
+        <item>
+          <name>Длина</name>
+          <value>215 см</value>
+        </item>
+        <item>
+          <name>Ширина</name>
+          <value>80 см</value>
+        </item>
+        <item>
+          <name>Размеры в свернутом виде (ДхШ)</name>
+          <value>40x22 см</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="109567">
+    <title>Alexika West</title>
+    <model>West</model>
+    <marka>Alexika</marka>
+    <catalog id="1617412">Спальные мешки</catalog>
+    
+    <price1>2850</price1>
+    <price2>3890</price2>
+    <description>
+
+трехсезонный спальный мешок-кокон, наполнитель: синтетика (2-слойный), возможность состегивания, карманы, компрессионный мешок, вес 1.5 кг
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>трехсезонный</value>
+        </item>
+        <item>
+          <name>Тип спального мешка</name>
+          <value>кокон</value>
+        </item>
+      </items>
+      <items>
+        <name>Удобства</name>
+        <item>
+          <name>Возможность состегивания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Наличие карманов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Двойная молния</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от заедания молнии</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Капюшон</name>
+          <value>анатомический</value>
+        </item>
+        <item>
+          <name>Компрессионный мешок</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Температуры и защита</name>
+        <item>
+          <name>Экстремальная температура</name>
+          <value>-10°С</value>
+        </item>
+        <item>
+          <name>Верхняя температура комфорта</name>
+          <value>5°С</value>
+        </item>
+        <item>
+          <name>Утепленная молния</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Материалы</name>
+        <item>
+          <name>Материал внешней ткани</name>
+          <value>полиэстер (190T)</value>
+        </item>
+        <item>
+          <name>Материал внутренней ткани</name>
+          <value>полиэстер (190T)</value>
+        </item>
+        <item>
+          <name>Наполнитель</name>
+          <value>синтетика (APF-Isoterm, 2x100 г/м2)</value>
+        </item>
+        <item>
+          <name>Количество слоев наполнителя</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Вес</name>
+          <value>1.5 кг</value>
+        </item>
+        <item>
+          <name>Длина</name>
+          <value>220 см</value>
+        </item>
+        <item>
+          <name>Ширина в плечах</name>
+          <value>80 см</value>
+        </item>
+        <item>
+          <name>Ширина в ногах</name>
+          <value>55 см</value>
+        </item>
+        <item>
+          <name>Размеры в свернутом виде (ДхШ)</name>
+          <value>28x17 см</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="109573">
+    <title>Alexika Tibet Compact</title>
+    <model>Tibet Compact</model>
+    <marka>Alexika</marka>
+    <catalog id="1617412">Спальные мешки</catalog>
+    
+    <price1>4080</price1>
+    <price2>5100</price2>
+    <description>
+
+трехсезонный спальный мешок-кокон, наполнитель: синтетика (2-слойный), температура комфорта: -2°С, возможность состегивания, карманы, вес 1.3 кг
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>трехсезонный</value>
+        </item>
+        <item>
+          <name>Тип спального мешка</name>
+          <value>кокон</value>
+        </item>
+      </items>
+      <items>
+        <name>Удобства</name>
+        <item>
+          <name>Возможность состегивания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Наличие карманов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от заедания молнии</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Капюшон</name>
+          <value>анатомический</value>
+        </item>
+      </items>
+      <items>
+        <name>Температуры и защита</name>
+        <item>
+          <name>Экстремальная температура</name>
+          <value>-16°С</value>
+        </item>
+        <item>
+          <name>Нижняя температура комфорта</name>
+          <value>-1°С</value>
+        </item>
+        <item>
+          <name>Верхняя температура комфорта</name>
+          <value>11°С</value>
+        </item>
+      </items>
+      <items>
+        <name>Материалы</name>
+        <item>
+          <name>Материал внешней ткани</name>
+          <value>нейлон (210T RipStop)</value>
+        </item>
+        <item>
+          <name>Материал внутренней ткани</name>
+          <value>нейлон (Soft Micro 300T Diamond RipStop)</value>
+        </item>
+        <item>
+          <name>Наполнитель</name>
+          <value>синтетика (Hi Isoterm Technofiber, 2x120 г/м2)</value>
+        </item>
+        <item>
+          <name>Количество слоев наполнителя</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Вес</name>
+          <value>1.6 кг</value>
+        </item>
+        <item>
+          <name>Длина</name>
+          <value>210 см</value>
+        </item>
+        <item>
+          <name>Ширина в плечах</name>
+          <value>80 см</value>
+        </item>
+        <item>
+          <name>Ширина в ногах</name>
+          <value>55 см</value>
+        </item>
+        <item>
+          <name>Размеры в свернутом виде (ДхШ)</name>
+          <value>37x27 см</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="109575">
+    <title>Alexika Siberia Wide</title>
+    <model>Siberia Wide</model>
+    <marka>Alexika</marka>
+    <catalog id="1617412">Спальные мешки</catalog>
+    
+    <price1>4160</price1>
+    <price2>6330</price2>
+    <description>
+
+трехсезонный спальный мешок-одеяло, наполнитель: синтетика (2-слойный), температура комфорта: 2°С, возможность состегивания, карманы, вес 2.2 кг
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>трехсезонный</value>
+        </item>
+        <item>
+          <name>Тип спального мешка</name>
+          <value>одеяло</value>
+        </item>
+      </items>
+      <items>
+        <name>Удобства</name>
+        <item>
+          <name>Возможность состегивания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Наличие карманов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от заедания молнии</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Капюшон</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Температуры и защита</name>
+        <item>
+          <name>Экстремальная температура</name>
+          <value>-12°С</value>
+        </item>
+        <item>
+          <name>Нижняя температура комфорта</name>
+          <value>2°С</value>
+        </item>
+        <item>
+          <name>Верхняя температура комфорта</name>
+          <value>8°С</value>
+        </item>
+      </items>
+      <items>
+        <name>Материалы</name>
+        <item>
+          <name>Материал внешней ткани</name>
+          <value>полиэстер (190T)</value>
+        </item>
+        <item>
+          <name>Материал внутренней ткани</name>
+          <value>фланель</value>
+        </item>
+        <item>
+          <name>Наполнитель</name>
+          <value>синтетика (APF-Isoterm 3D, 2x150 г/м2)</value>
+        </item>
+        <item>
+          <name>Количество слоев наполнителя</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Вес</name>
+          <value>2.2 кг</value>
+        </item>
+        <item>
+          <name>Длина</name>
+          <value>195 см</value>
+        </item>
+        <item>
+          <name>Ширина</name>
+          <value>100 см</value>
+        </item>
+        <item>
+          <name>Размеры в свернутом виде (ДхШхВ)</name>
+          <value>44x34х25 см</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="109579">
+    <title>Alexika Mountain Wide</title>
+    <model>Mountain Wide</model>
+    <marka>Alexika</marka>
+    <catalog id="1617412">Спальные мешки</catalog>
+    
+    <price1>3620</price1>
+    <price2>5500</price2>
+    <description>
+
+трехсезонный спальный мешок-кокон, наполнитель: синтетика (2-слойный), температура комфорта: -6°С, возможность состегивания, карманы, вес 2.1 кг
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>трехсезонный</value>
+        </item>
+        <item>
+          <name>Тип спального мешка</name>
+          <value>кокон</value>
+        </item>
+      </items>
+      <items>
+        <name>Удобства</name>
+        <item>
+          <name>Возможность состегивания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Наличие карманов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от заедания молнии</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Капюшон</name>
+          <value>анатомический</value>
+        </item>
+      </items>
+      <items>
+        <name>Температуры и защита</name>
+        <item>
+          <name>Экстремальная температура</name>
+          <value>-20°С</value>
+        </item>
+        <item>
+          <name>Нижняя температура комфорта</name>
+          <value>-6°С</value>
+        </item>
+        <item>
+          <name>Верхняя температура комфорта</name>
+          <value>-1°С</value>
+        </item>
+      </items>
+      <items>
+        <name>Материалы</name>
+        <item>
+          <name>Материал внешней ткани</name>
+          <value>полиэстер (190T Diamond RipStop)</value>
+        </item>
+        <item>
+          <name>Материал внутренней ткани</name>
+          <value>полиэстер (190T Coating)</value>
+        </item>
+        <item>
+          <name>Наполнитель</name>
+          <value>синтетика (APF-Isoterm 3D верх 2х175 г/м2, низ 2х150 г/м2)</value>
+        </item>
+        <item>
+          <name>Количество слоев наполнителя</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Вес</name>
+          <value>2.1 кг</value>
+        </item>
+        <item>
+          <name>Длина</name>
+          <value>230 см</value>
+        </item>
+        <item>
+          <name>Ширина в плечах</name>
+          <value>90 см</value>
+        </item>
+        <item>
+          <name>Ширина в ногах</name>
+          <value>55 см</value>
+        </item>
+        <item>
+          <name>Размеры в свернутом виде (ДхШхВ)</name>
+          <value>45x35х26 см</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>Вес без упаковки 1.9 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="109581">
+    <title>Alexika Summer Plus</title>
+    <model>Summer Plus</model>
+    <marka>Alexika</marka>
+    <catalog id="1617412">Спальные мешки</catalog>
+    
+    <price1>3216</price1>
+    <price2>4390</price2>
+    <description>
+
+кемпинговый спальный мешок-одеяло, наполнитель: синтетика (2-слойный), температура комфорта: 7°С, возможность состегивания, карманы, вес 1.6 кг
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>кемпинговый</value>
+        </item>
+        <item>
+          <name>Тип спального мешка</name>
+          <value>одеяло</value>
+        </item>
+      </items>
+      <items>
+        <name>Удобства</name>
+        <item>
+          <name>Возможность состегивания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Наличие карманов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от заедания молнии</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Капюшон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Температуры и защита</name>
+        <item>
+          <name>Экстремальная температура</name>
+          <value>-7°С</value>
+        </item>
+        <item>
+          <name>Нижняя температура комфорта</name>
+          <value>7°С</value>
+        </item>
+        <item>
+          <name>Верхняя температура комфорта</name>
+          <value>13°С</value>
+        </item>
+      </items>
+      <items>
+        <name>Материалы</name>
+        <item>
+          <name>Материал внешней ткани</name>
+          <value>полиэстер (190T)</value>
+        </item>
+        <item>
+          <name>Материал внутренней ткани</name>
+          <value>хлопок (40S)</value>
+        </item>
+        <item>
+          <name>Наполнитель</name>
+          <value>синтетика (APF-Isoterm 3D, 2x100 г/м2)</value>
+        </item>
+        <item>
+          <name>Количество слоев наполнителя</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Вес</name>
+          <value>1.6 кг</value>
+        </item>
+        <item>
+          <name>Длина</name>
+          <value>215 см</value>
+        </item>
+        <item>
+          <name>Ширина</name>
+          <value>80 см</value>
+        </item>
+        <item>
+          <name>Размеры в свернутом виде (ДхШхВ)</name>
+          <value>44x34х20 см</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="109591">
+    <title>Alexika Siberia Plus</title>
+    <model>Siberia Plus</model>
+    <marka>Alexika</marka>
+    <catalog id="1617412">Спальные мешки</catalog>
+    
+    <price1>4190</price1>
+    <price2>5890</price2>
+    <description>
+
+трехсезонный спальный мешок-одеяло, наполнитель: синтетика (2-слойный), температура комфорта: 1°С, возможность состегивания, карманы, вес 2.2 кг
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>трехсезонный</value>
+        </item>
+        <item>
+          <name>Тип спального мешка</name>
+          <value>одеяло</value>
+        </item>
+      </items>
+      <items>
+        <name>Удобства</name>
+        <item>
+          <name>Возможность состегивания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Наличие карманов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от заедания молнии</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Капюшон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Температуры и защита</name>
+        <item>
+          <name>Экстремальная температура</name>
+          <value>-14°С</value>
+        </item>
+        <item>
+          <name>Нижняя температура комфорта</name>
+          <value>1°С</value>
+        </item>
+        <item>
+          <name>Верхняя температура комфорта</name>
+          <value>6°С</value>
+        </item>
+      </items>
+      <items>
+        <name>Материалы</name>
+        <item>
+          <name>Материал внешней ткани</name>
+          <value>полиэстер (190T Diamond RipStop)</value>
+        </item>
+        <item>
+          <name>Материал внутренней ткани</name>
+          <value>фланель</value>
+        </item>
+        <item>
+          <name>Наполнитель</name>
+          <value>синтетика (APF-Isoterm 3D, 2x150 г/м2)</value>
+        </item>
+        <item>
+          <name>Количество слоев наполнителя</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Вес</name>
+          <value>2.2 кг</value>
+        </item>
+        <item>
+          <name>Длина</name>
+          <value>185 см</value>
+        </item>
+        <item>
+          <name>Ширина</name>
+          <value>80 см</value>
+        </item>
+        <item>
+          <name>Размеры в свернутом виде (ДхШхВ)</name>
+          <value>40x30х26 см</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="109593">
+    <title>Alexika Siberia Wide Plus</title>
+    <model>Siberia Wide Plus</model>
+    <marka>Alexika</marka>
+    <catalog id="1617412">Спальные мешки</catalog>
+    
+    <price1>4600</price1>
+    <price2>5890</price2>
+    <description>
+
+трехсезонный спальный мешок-одеяло, наполнитель: синтетика (2-слойный), температура комфорта: 1°С, возможность состегивания, карманы, вес 2.6 кг
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>трехсезонный</value>
+        </item>
+        <item>
+          <name>Тип спального мешка</name>
+          <value>одеяло</value>
+        </item>
+      </items>
+      <items>
+        <name>Удобства</name>
+        <item>
+          <name>Возможность состегивания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Наличие карманов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от заедания молнии</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Капюшон</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Температуры и защита</name>
+        <item>
+          <name>Экстремальная температура</name>
+          <value>-14°С</value>
+        </item>
+        <item>
+          <name>Нижняя температура комфорта</name>
+          <value>1°С</value>
+        </item>
+        <item>
+          <name>Верхняя температура комфорта</name>
+          <value>6°С</value>
+        </item>
+      </items>
+      <items>
+        <name>Материалы</name>
+        <item>
+          <name>Материал внешней ткани</name>
+          <value>полиэстер (190T)</value>
+        </item>
+        <item>
+          <name>Материал внутренней ткани</name>
+          <value>фланель</value>
+        </item>
+        <item>
+          <name>Наполнитель</name>
+          <value>синтетика (APF-Isoterm 3D, 2x150 г/м2)</value>
+        </item>
+        <item>
+          <name>Количество слоев наполнителя</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Вес</name>
+          <value>2.6 кг</value>
+        </item>
+        <item>
+          <name>Длина</name>
+          <value>230 см</value>
+        </item>
+        <item>
+          <name>Ширина</name>
+          <value>100 см</value>
+        </item>
+        <item>
+          <name>Размеры в свернутом виде (ДхШхВ)</name>
+          <value>47x37х30 см</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="109594">
+    <title>KSL 6254.0105 Camping Comfort Plus</title>
+    <model>6254.0105 Camping Comfort Plus</model>
+    <marka>KSL</marka>
+    <catalog id="1617412">Спальные мешки</catalog>
+    
+    <price1>3120</price1>
+    <price2>3570</price2>
+    <description>
+
+кемпинговый спальный мешок-одеяло, наполнитель: синтетика (2-слойный), температура комфорта: 9°С, возможность состегивания, вес 2.1 кг
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>кемпинговый</value>
+        </item>
+        <item>
+          <name>Тип спального мешка</name>
+          <value>одеяло</value>
+        </item>
+      </items>
+      <items>
+        <name>Удобства</name>
+        <item>
+          <name>Возможность состегивания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Капюшон</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Температуры и защита</name>
+        <item>
+          <name>Экстремальная температура</name>
+          <value>1°С</value>
+        </item>
+        <item>
+          <name>Нижняя температура комфорта</name>
+          <value>9°С</value>
+        </item>
+        <item>
+          <name>Верхняя температура комфорта</name>
+          <value>13°С</value>
+        </item>
+      </items>
+      <items>
+        <name>Материалы</name>
+        <item>
+          <name>Материал внешней ткани</name>
+          <value>полиэстер (190T)</value>
+        </item>
+        <item>
+          <name>Материал внутренней ткани</name>
+          <value>хлопок</value>
+        </item>
+        <item>
+          <name>Наполнитель</name>
+          <value>синтетика (APF-Isoterm 3D, 2х100 г/м2)</value>
+        </item>
+        <item>
+          <name>Количество слоев наполнителя</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Вес</name>
+          <value>2.1 кг</value>
+        </item>
+        <item>
+          <name>Длина</name>
+          <value>220 см</value>
+        </item>
+        <item>
+          <name>Ширина</name>
+          <value>100 см</value>
+        </item>
+        <item>
+          <name>Размеры в свернутом виде (ДхШхВ)</name>
+          <value>27x20х17 см</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="109598">
+    <title>Alexika Nord</title>
+    <model>Nord</model>
+    <marka>Alexika</marka>
+    <catalog id="1617412">Спальные мешки</catalog>
+    
+    <price1>3780</price1>
+    <price2>4730</price2>
+    <description>
+
+экстремальный спальный мешок-кокон, наполнитель: синтетика (2-слойный), температура комфорта: -10°С, возможность состегивания, карманы, вес 2 кг
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>экстремальный</value>
+        </item>
+        <item>
+          <name>Тип спального мешка</name>
+          <value>кокон</value>
+        </item>
+      </items>
+      <items>
+        <name>Удобства</name>
+        <item>
+          <name>Возможность состегивания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Наличие карманов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от заедания молнии</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Капюшон</name>
+          <value>анатомический</value>
+        </item>
+      </items>
+      <items>
+        <name>Температуры и защита</name>
+        <item>
+          <name>Экстремальная температура</name>
+          <value>-24°С</value>
+        </item>
+        <item>
+          <name>Нижняя температура комфорта</name>
+          <value>-10°С</value>
+        </item>
+        <item>
+          <name>Верхняя температура комфорта</name>
+          <value>-5°С</value>
+        </item>
+      </items>
+      <items>
+        <name>Материалы</name>
+        <item>
+          <name>Материал внешней ткани</name>
+          <value>полиэстер (190T)</value>
+        </item>
+        <item>
+          <name>Материал внутренней ткани</name>
+          <value>полиэстер (190T)</value>
+        </item>
+        <item>
+          <name>Наполнитель</name>
+          <value>синтетика (APF-Isoterm 3D, 2x220 г/м2)</value>
+        </item>
+        <item>
+          <name>Количество слоев наполнителя</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Вес</name>
+          <value>2 кг</value>
+        </item>
+        <item>
+          <name>Длина</name>
+          <value>220 см</value>
+        </item>
+        <item>
+          <name>Ширина в плечах</name>
+          <value>80 см</value>
+        </item>
+        <item>
+          <name>Ширина в ногах</name>
+          <value>55 см</value>
+        </item>
+        <item>
+          <name>Размеры в свернутом виде (ДхШхВ)</name>
+          <value>40x30х26 см</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="109601">
+    <title>Alexika Mountain Scout</title>
+    <model>Mountain Scout</model>
+    <marka>Alexika</marka>
+    <catalog id="1617412">Спальные мешки</catalog>
+    
+    <price1>2960</price1>
+    <price2>5200</price2>
+    <description>
+
+трехсезонный спальный мешок-кокон, наполнитель: синтетика (2-слойный), температура комфорта: -2°С, возможность состегивания, карманы, вес 1.4 кг
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>трехсезонный</value>
+        </item>
+        <item>
+          <name>Тип спального мешка</name>
+          <value>кокон</value>
+        </item>
+      </items>
+      <items>
+        <name>Удобства</name>
+        <item>
+          <name>Возможность состегивания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Наличие карманов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от заедания молнии</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Капюшон</name>
+          <value>анатомический</value>
+        </item>
+      </items>
+      <items>
+        <name>Температуры и защита</name>
+        <item>
+          <name>Экстремальная температура</name>
+          <value>-16°С</value>
+        </item>
+        <item>
+          <name>Нижняя температура комфорта</name>
+          <value>-2°С</value>
+        </item>
+        <item>
+          <name>Верхняя температура комфорта</name>
+          <value>3°С</value>
+        </item>
+      </items>
+      <items>
+        <name>Материалы</name>
+        <item>
+          <name>Материал внешней ткани</name>
+          <value>полиэстер (190T)</value>
+        </item>
+        <item>
+          <name>Материал внутренней ткани</name>
+          <value>полиэстер (190T)</value>
+        </item>
+        <item>
+          <name>Наполнитель</name>
+          <value>синтетика (APF-Isoterm 3D, 2x175 г/м2)</value>
+        </item>
+        <item>
+          <name>Количество слоев наполнителя</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Вес</name>
+          <value>1.4 кг</value>
+        </item>
+        <item>
+          <name>Длина</name>
+          <value>180 см</value>
+        </item>
+        <item>
+          <name>Ширина в плечах</name>
+          <value>80 см</value>
+        </item>
+        <item>
+          <name>Ширина в ногах</name>
+          <value>55 см</value>
+        </item>
+        <item>
+          <name>Размеры в свернутом виде (ДхШхВ)</name>
+          <value>38x30х22 см</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="109604">
+    <title>Alexika Mountain Compact</title>
+    <model>Mountain Compact</model>
+    <marka>Alexika</marka>
+    <catalog id="1617412">Спальные мешки</catalog>
+    
+    <price1>3370</price1>
+    <price2>4220</price2>
+    <description>
+
+трехсезонный спальный мешок-кокон, наполнитель: синтетика (2-слойный), температура комфорта: -6°С, возможность состегивания, карманы, вес 1.7 кг
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>трехсезонный</value>
+        </item>
+        <item>
+          <name>Тип спального мешка</name>
+          <value>кокон</value>
+        </item>
+      </items>
+      <items>
+        <name>Удобства</name>
+        <item>
+          <name>Возможность состегивания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Наличие карманов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от заедания молнии</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Капюшон</name>
+          <value>анатомический</value>
+        </item>
+      </items>
+      <items>
+        <name>Температуры и защита</name>
+        <item>
+          <name>Экстремальная температура</name>
+          <value>-20°С</value>
+        </item>
+        <item>
+          <name>Нижняя температура комфорта</name>
+          <value>-6°С</value>
+        </item>
+        <item>
+          <name>Верхняя температура комфорта</name>
+          <value>-1°С</value>
+        </item>
+      </items>
+      <items>
+        <name>Материалы</name>
+        <item>
+          <name>Материал внешней ткани</name>
+          <value>полиэстер (190T Diamond RipStop)</value>
+        </item>
+        <item>
+          <name>Материал внутренней ткани</name>
+          <value>полиэстер (190T)</value>
+        </item>
+        <item>
+          <name>Наполнитель</name>
+          <value>синтетика (APF-Isoterm 3D верх: 2x175 г/м2; низ: 2x150 г/м2)</value>
+        </item>
+        <item>
+          <name>Количество слоев наполнителя</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Вес</name>
+          <value>1.7 кг</value>
+        </item>
+        <item>
+          <name>Длина</name>
+          <value>210 см</value>
+        </item>
+        <item>
+          <name>Ширина в плечах</name>
+          <value>80 см</value>
+        </item>
+        <item>
+          <name>Ширина в ногах</name>
+          <value>55 см</value>
+        </item>
+        <item>
+          <name>Размеры в свернутом виде (ДхШ)</name>
+          <value>35x24 см</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="109615">
+    <title>Alexika Baltic Light</title>
+    <model>Baltic Light</model>
+    <marka>Alexika</marka>
+    <catalog id="1617412">Спальные мешки</catalog>
+    
+    <price1>1999</price1>
+    <price2>3328</price2>
+    <description>
+
+кемпинговый спальный мешок-одеяло, наполнитель: синтетика (2-слойный), температура комфорта: 10°С, возможность состегивания, карманы, вес 2.5 кг
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>кемпинговый</value>
+        </item>
+        <item>
+          <name>Тип спального мешка</name>
+          <value>одеяло</value>
+        </item>
+      </items>
+      <items>
+        <name>Удобства</name>
+        <item>
+          <name>Возможность состегивания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Наличие карманов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от заедания молнии</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Капюшон</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Температуры и защита</name>
+        <item>
+          <name>Экстремальная температура</name>
+          <value>2°С</value>
+        </item>
+        <item>
+          <name>Нижняя температура комфорта</name>
+          <value>10°С</value>
+        </item>
+        <item>
+          <name>Верхняя температура комфорта</name>
+          <value>14°С</value>
+        </item>
+      </items>
+      <items>
+        <name>Материалы</name>
+        <item>
+          <name>Материал внешней ткани</name>
+          <value>полиэстер + хлопок</value>
+        </item>
+        <item>
+          <name>Материал внутренней ткани</name>
+          <value>фланель</value>
+        </item>
+        <item>
+          <name>Наполнитель</name>
+          <value>синтетика (APF-Isoterm 3D, 2х100 г/м2)</value>
+        </item>
+        <item>
+          <name>Количество слоев наполнителя</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Вес</name>
+          <value>2.5 кг</value>
+        </item>
+        <item>
+          <name>Длина</name>
+          <value>190 см</value>
+        </item>
+        <item>
+          <name>Ширина</name>
+          <value>85 см</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>тепловой воротник, люминесцентная петля на замке молнии, петли для сушки</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="109619">
+    <title>Alexika Siberia Wide Transformer</title>
+    <model>Siberia Wide Transformer</model>
+    <marka>Alexika</marka>
+    <catalog id="1617412">Спальные мешки</catalog>
+    
+    <price1>5060</price1>
+    <price2>6330</price2>
+    <description>
+
+трехсезонный спальный мешок-одеяло, наполнитель: синтетика (2-слойный), температура комфорта: 1°С, возможность состегивания, карманы, вес 2.7 кг
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>трехсезонный</value>
+        </item>
+        <item>
+          <name>Тип спального мешка</name>
+          <value>одеяло</value>
+        </item>
+      </items>
+      <items>
+        <name>Удобства</name>
+        <item>
+          <name>Возможность состегивания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Наличие карманов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от заедания молнии</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Капюшон</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Температуры и защита</name>
+        <item>
+          <name>Экстремальная температура</name>
+          <value>-14°С</value>
+        </item>
+        <item>
+          <name>Нижняя температура комфорта</name>
+          <value>1°С</value>
+        </item>
+        <item>
+          <name>Верхняя температура комфорта</name>
+          <value>6°С</value>
+        </item>
+      </items>
+      <items>
+        <name>Материалы</name>
+        <item>
+          <name>Материал внешней ткани</name>
+          <value>полиэстер (190T)</value>
+        </item>
+        <item>
+          <name>Материал внутренней ткани</name>
+          <value>фланель</value>
+        </item>
+        <item>
+          <name>Наполнитель</name>
+          <value>синтетика (APF-Isoterm 3D, 2x150 г/м2)</value>
+        </item>
+        <item>
+          <name>Количество слоев наполнителя</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Вес</name>
+          <value>2.7 кг</value>
+        </item>
+        <item>
+          <name>Длина</name>
+          <value>230 см</value>
+        </item>
+        <item>
+          <name>Ширина</name>
+          <value>100 см</value>
+        </item>
+        <item>
+          <name>Размеры в свернутом виде (ДхШхВ)</name>
+          <value>47x37х30 см</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="109621">
+    <title>Alexika Aleut Compact</title>
+    <model>Aleut Compact</model>
+    <marka>Alexika</marka>
+    <catalog id="1617412">Спальные мешки</catalog>
+    
+    <price1>3950</price1>
+    <price2>6380</price2>
+    <description>
+
+экстремальный спальный мешок-кокон, наполнитель: синтетика (2-слойный), температура комфорта: -14°С, компрессионный мешок, вес 2.7 кг
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>экстремальный</value>
+        </item>
+        <item>
+          <name>Тип спального мешка</name>
+          <value>кокон</value>
+        </item>
+      </items>
+      <items>
+        <name>Удобства</name>
+        <item>
+          <name>Капюшон</name>
+          <value>анатомический</value>
+        </item>
+        <item>
+          <name>Компрессионный мешок</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Температуры и защита</name>
+        <item>
+          <name>Экстремальная температура</name>
+          <value>-32°С</value>
+        </item>
+        <item>
+          <name>Нижняя температура комфорта</name>
+          <value>-14°С</value>
+        </item>
+        <item>
+          <name>Верхняя температура комфорта</name>
+          <value>-9°С</value>
+        </item>
+        <item>
+          <name>Утепленная молния</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Материалы</name>
+        <item>
+          <name>Материал внешней ткани</name>
+          <value>полиэстер (Diamond RipStop 190T)</value>
+        </item>
+        <item>
+          <name>Материал внутренней ткани</name>
+          <value>полиэстер (190T)</value>
+        </item>
+        <item>
+          <name>Наполнитель</name>
+          <value>синтетика (APF-Isoterm 3D, 2x325 г/м2)</value>
+        </item>
+        <item>
+          <name>Количество слоев наполнителя</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Вес</name>
+          <value>2.7 кг</value>
+        </item>
+        <item>
+          <name>Длина</name>
+          <value>210 см</value>
+        </item>
+        <item>
+          <name>Ширина в плечах</name>
+          <value>85 см</value>
+        </item>
+        <item>
+          <name>Ширина в ногах</name>
+          <value>60 см</value>
+        </item>
+        <item>
+          <name>Размеры в свернутом виде (ДхШхВ)</name>
+          <value>45x35х28 см</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="109624">
+    <title>Alexika Mountain</title>
+    <model>Mountain</model>
+    <marka>Alexika</marka>
+    <catalog id="1617412">Спальные мешки</catalog>
+    
+    <price1>3380</price1>
+    <price2>4390</price2>
+    <description>
+
+трехсезонный спальный мешок-кокон, наполнитель: синтетика (2-слойный), температура комфорта: -6°С, возможность состегивания, карманы, вес 1.8 кг
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>трехсезонный</value>
+        </item>
+        <item>
+          <name>Тип спального мешка</name>
+          <value>кокон</value>
+        </item>
+      </items>
+      <items>
+        <name>Удобства</name>
+        <item>
+          <name>Возможность состегивания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Наличие карманов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от заедания молнии</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Капюшон</name>
+          <value>анатомический</value>
+        </item>
+      </items>
+      <items>
+        <name>Температуры и защита</name>
+        <item>
+          <name>Экстремальная температура</name>
+          <value>-20°С</value>
+        </item>
+        <item>
+          <name>Нижняя температура комфорта</name>
+          <value>-6°С</value>
+        </item>
+        <item>
+          <name>Верхняя температура комфорта</name>
+          <value>-1°С</value>
+        </item>
+      </items>
+      <items>
+        <name>Материалы</name>
+        <item>
+          <name>Материал внешней ткани</name>
+          <value>полиэстер (190T)</value>
+        </item>
+        <item>
+          <name>Материал внутренней ткани</name>
+          <value>полиэстер (190T)</value>
+        </item>
+        <item>
+          <name>Наполнитель</name>
+          <value>синтетика (APF-Isoterm 3D, 2x150 г/м2)</value>
+        </item>
+        <item>
+          <name>Количество слоев наполнителя</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Вес</name>
+          <value>1.8 кг</value>
+        </item>
+        <item>
+          <name>Длина</name>
+          <value>220 см</value>
+        </item>
+        <item>
+          <name>Ширина в плечах</name>
+          <value>80 см</value>
+        </item>
+        <item>
+          <name>Ширина в ногах</name>
+          <value>55 см</value>
+        </item>
+        <item>
+          <name>Размеры в свернутом виде (ДхШхВ)</name>
+          <value>38x30х22 см</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="109627">
+    <title>Alexika Mountain Baby</title>
+    <model>Mountain Baby</model>
+    <marka>Alexika</marka>
+    <catalog id="1617412">Спальные мешки</catalog>
+    
+    <price1>2100</price1>
+    <price2>5500</price2>
+    <description>
+
+кемпинговый спальный мешок-кокон, наполнитель: синтетика (2-слойный), температура комфорта: 5°С, карманы, компрессионный мешок, вес 1.3 кг
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>кемпинговый</value>
+        </item>
+        <item>
+          <name>Тип спального мешка</name>
+          <value>кокон</value>
+        </item>
+      </items>
+      <items>
+        <name>Удобства</name>
+        <item>
+          <name>Наличие карманов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Двойная молния</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от заедания молнии</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Капюшон</name>
+          <value>анатомический</value>
+        </item>
+        <item>
+          <name>Компрессионный мешок</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Температуры и защита</name>
+        <item>
+          <name>Нижняя температура комфорта</name>
+          <value>5°С</value>
+        </item>
+        <item>
+          <name>Верхняя температура комфорта</name>
+          <value>10°С</value>
+        </item>
+        <item>
+          <name>Утепленная молния</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Материалы</name>
+        <item>
+          <name>Материал внешней ткани</name>
+          <value>полиэстер (190T Diamond RipStop)</value>
+        </item>
+        <item>
+          <name>Материал внутренней ткани</name>
+          <value>полиэстер (Soft Micro Diamond RipStop)</value>
+        </item>
+        <item>
+          <name>Наполнитель</name>
+          <value>синтетика (APF-Isoterm 3D, 2x150 г/м2)</value>
+        </item>
+        <item>
+          <name>Количество слоев наполнителя</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Вес</name>
+          <value>1.3 кг</value>
+        </item>
+        <item>
+          <name>Длина</name>
+          <value>130 см</value>
+        </item>
+        <item>
+          <name>Ширина в плечах</name>
+          <value>65 см</value>
+        </item>
+        <item>
+          <name>Ширина в ногах</name>
+          <value>55 см</value>
+        </item>
+        <item>
+          <name>Размеры в свернутом виде (ДхШ)</name>
+          <value>32x20 см</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="109629">
+    <title>Tengu Mark 25SB</title>
+    <model>Mark 25SB</model>
+    <marka>Tengu</marka>
+    <catalog id="1617412">Спальные мешки</catalog>
+    
+    <price1>5690</price1>
+    <price2>14450</price2>
+    <description>
+
+трехсезонный спальный мешок-одеяло, наполнитель: синтетика (2-слойный), температура комфорта: 10°С, возможность состегивания, карманы, вес 1.2 кг
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>трехсезонный</value>
+        </item>
+        <item>
+          <name>Тип спального мешка</name>
+          <value>одеяло</value>
+        </item>
+      </items>
+      <items>
+        <name>Удобства</name>
+        <item>
+          <name>Возможность состегивания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Наличие карманов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от заедания молнии</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Капюшон</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Температуры и защита</name>
+        <item>
+          <name>Экстремальная температура</name>
+          <value>-5°С</value>
+        </item>
+        <item>
+          <name>Нижняя температура комфорта</name>
+          <value>10°С</value>
+        </item>
+        <item>
+          <name>Верхняя температура комфорта</name>
+          <value>15°С</value>
+        </item>
+        <item>
+          <name>Утепленная молния</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Материалы</name>
+        <item>
+          <name>Материал внешней ткани</name>
+          <value>нейлон (RipStop 210T)</value>
+        </item>
+        <item>
+          <name>Материал внутренней ткани</name>
+          <value>полиэстер (Soft MicroPolyester Diamond RipStop)</value>
+        </item>
+        <item>
+          <name>Наполнитель</name>
+          <value>синтетика (APF Isoterm 3D 7Hole, 100 г/м2)</value>
+        </item>
+        <item>
+          <name>Количество слоев наполнителя</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Вес</name>
+          <value>1.2 кг</value>
+        </item>
+        <item>
+          <name>Длина</name>
+          <value>235 см</value>
+        </item>
+        <item>
+          <name>Ширина</name>
+          <value>105 см</value>
+        </item>
+        <item>
+          <name>Размеры в свернутом виде (ДхШхВ)</name>
+          <value>40x26х24 см</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>отстёгивающийся подголовник, молния YKK с функцией мгновенного расстёгивания, мягкий валик на уровне лица, отделение для подушки с двумя входами (подушка в комплекте)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="109631">
+    <title>Alexika Megalight</title>
+    <model>Megalight</model>
+    <marka>Alexika</marka>
+    <catalog id="1617412">Спальные мешки</catalog>
+    
+    <price1>3160</price1>
+    <price2>4036</price2>
+    <description>
+
+трехсезонный спальный мешок-кокон, наполнитель: синтетика (1-слойный), температура комфорта: 9°С, карманы, вес 0.8 кг
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>трехсезонный</value>
+        </item>
+        <item>
+          <name>Тип спального мешка</name>
+          <value>кокон</value>
+        </item>
+      </items>
+      <items>
+        <name>Удобства</name>
+        <item>
+          <name>Наличие карманов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от заедания молнии</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Капюшон</name>
+          <value>анатомический</value>
+        </item>
+      </items>
+      <items>
+        <name>Температуры и защита</name>
+        <item>
+          <name>Экстремальная температура</name>
+          <value>-1°С</value>
+        </item>
+        <item>
+          <name>Нижняя температура комфорта</name>
+          <value>9°С</value>
+        </item>
+        <item>
+          <name>Верхняя температура комфорта</name>
+          <value>14°С</value>
+        </item>
+      </items>
+      <items>
+        <name>Материалы</name>
+        <item>
+          <name>Материал внешней ткани</name>
+          <value>нейлон (RipStop 210T)</value>
+        </item>
+        <item>
+          <name>Материал внутренней ткани</name>
+          <value>полиэстер (Soft Micro)</value>
+        </item>
+        <item>
+          <name>Наполнитель</name>
+          <value>синтетика (Hi Isoterm TechnoFiber, 1x80 г/м2)</value>
+        </item>
+        <item>
+          <name>Количество слоев наполнителя</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Вес</name>
+          <value>0.8 кг</value>
+        </item>
+        <item>
+          <name>Длина</name>
+          <value>210 см</value>
+        </item>
+        <item>
+          <name>Ширина в плечах</name>
+          <value>80 см</value>
+        </item>
+        <item>
+          <name>Ширина в ногах</name>
+          <value>55 см</value>
+        </item>
+        <item>
+          <name>Размеры в свернутом виде (ДхШхВ)</name>
+          <value>25x17х15 см</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

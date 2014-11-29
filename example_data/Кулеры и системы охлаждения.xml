@@ -1,0 +1,1694 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="64796">
+    <title>Zalman CNPS10X Performa</title>
+    <model>CNPS10X Performa</model>
+    <marka>Zalman</marka>
+    <catalog id="755741">Кулеры и системы охлаждения</catalog>
+    
+    <price1>985</price1>
+    <price2>1391</price2>
+    <description>
+для процессора, socket AM2, AM3/AM3+/FM1, S754, S939, S940, S775, S1155/S1156, S1366, 1 вентилятор (120 мм, 1000-2000 об/мин), радиатор: алюминий+медь
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>для процессора</value>
+        </item>
+        <item>
+          <name>Socket</name>
+          <value>S775, S1150/1155/S1156, S1356/S1366, AM2, AM3/AM3+/FM1, S754, S939, S940</value>
+        </item>
+        <item>
+          <name>Количество тепловых трубок</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Материал радиатора</name>
+          <value>алюминий+медь</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры вентилятора (ДхШ)</name>
+          <value>120x120 мм</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>900 - 2000 об/мин</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>17 - 36 дБ</value>
+        </item>
+        <item>
+          <name>Тип подшипника</name>
+          <value>скольжения</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Тип коннектора</name>
+          <value>4-pin PWM</value>
+        </item>
+        <item>
+          <name>Подсветка</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Регулятор оборотов</name>
+          <value>внутренний</value>
+        </item>
+        <item>
+          <name>Площадь рассеивания</name>
+          <value>7900 кв. см</value>
+        </item>
+        <item>
+          <name>Размеры кулера (ШхВxГ)</name>
+          <value>120x152x132 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>740 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>возможность установки второго 120мм вентилятора</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64800">
+    <title>Cooler Master Hyper 612 PWM (RR-H612-20PK-R1)</title>
+    <model>Hyper 612 PWM (RR-H612-20PK-R1)</model>
+    <marka>Cooler Master</marka>
+    <catalog id="755741">Кулеры и системы охлаждения</catalog>
+    
+    <price1>1390</price1>
+    <price2>1670</price2>
+    <description>
+для процессора, socket AM2, AM2+, AM3/AM3+/FM1, S775, S1155/S1156, S1366, S2011, 1 вентилятор (120 мм, 600-2000 об/мин), радиатор: алюминий+медь, 36 дБ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>для процессора</value>
+        </item>
+        <item>
+          <name>Socket</name>
+          <value>S775, S1150/1155/S1156, S1356/S1366, S2011, AM2, AM2+, AM3/AM3+/FM1</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Intel Core i7 Extreme/i7/i5/i3 / Core 2 Extreme/Quad/Duo / Pentium / Celeron / AMD FX / A / Phenom II X4/X3/X2 / Phenom X4/X3 / Athlon II X4/X3/X2 / Athlon X2 / Athlon / Sempron</value>
+        </item>
+        <item>
+          <name>Количество тепловых трубок</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Материал радиатора</name>
+          <value>алюминий+медь</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры вентилятора (ДхШхВ)</name>
+          <value>120x120x25 мм</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>600 - 2000 об/мин</value>
+        </item>
+        <item>
+          <name>Воздушный поток</name>
+          <value>24.9 - 82.9 CFM</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>9 - 36 дБ</value>
+        </item>
+        <item>
+          <name>Тип подшипника</name>
+          <value>скольжения</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Тип коннектора</name>
+          <value>4-pin PWM</value>
+        </item>
+        <item>
+          <name>Подсветка</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Регулятор оборотов</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Время безотказной работы</name>
+          <value>40000 ч</value>
+        </item>
+        <item>
+          <name>Размеры кулера (ШхВxГ)</name>
+          <value>140x163x128 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>910 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>возможность установки второго 120 мм вентилятора</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64812">
+    <title>Zalman CNPS9900 MAX Red</title>
+    <model>CNPS9900 MAX Red</model>
+    <marka>Zalman</marka>
+    <catalog id="755741">Кулеры и системы охлаждения</catalog>
+    
+    <price1>1555</price1>
+    <price2>2600</price2>
+    <description>
+для процессора, socket AM2, AM2+, AM3/AM3+/FM1, S775, S1155/S1156, S1366, 1 вентилятор (135 мм, 900-1700 об/мин), радиатор: медь, 30 дБ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>для процессора</value>
+        </item>
+        <item>
+          <name>Socket</name>
+          <value>S775, S1150/1155/S1156, S1356/S1366, AM2, AM2+, AM3/AM3+/FM1</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Intel Core i7 Extreme / Core i7/i5/i3 / Core 2 Extreme/Quad/Duo / Pentium Dual Core / Pentium D/4 / Celeron D / AMD Phenom II / Athlon II / Phenom / Opteron / Athlon X2/FX / Athlon / Sempron</value>
+        </item>
+        <item>
+          <name>Количество тепловых трубок</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Материал радиатора</name>
+          <value>медь</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры вентилятора (ДхШ)</name>
+          <value>135x135 мм</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>900 - 1700 об/мин</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>18 - 30 дБ</value>
+        </item>
+        <item>
+          <name>Тип подшипника</name>
+          <value>скольжения</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Тип коннектора</name>
+          <value>4-pin PWM</value>
+        </item>
+        <item>
+          <name>Цвет подсветки</name>
+          <value>красный</value>
+        </item>
+        <item>
+          <name>Регулятор оборотов</name>
+          <value>внутренний</value>
+        </item>
+        <item>
+          <name>Площадь рассеивания</name>
+          <value>5402 кв. см</value>
+        </item>
+        <item>
+          <name>Размеры кулера (ШхВxГ)</name>
+          <value>135x152x94 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>755 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64817">
+    <title>Zalman CNPS7500-AlCu LED</title>
+    <model>CNPS7500-AlCu LED</model>
+    <marka>Zalman</marka>
+    <catalog id="755741">Кулеры и системы охлаждения</catalog>
+    
+    <price1>611</price1>
+    <price2>1016</price2>
+    <description>
+для процессора, socket AM2, S754, S939, S940, S775, 1 вентилятор (110 мм, 1150-2300 об/мин), радиатор: алюминий+медь, 32 дБ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>для процессора</value>
+        </item>
+        <item>
+          <name>Socket</name>
+          <value>S775, AM2, S754, S939, S940</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Intel Core 2 Duo / Pentium D / Pentium 4 / Celeron D / Celeron / AMD Athlon 64 FX / Athlon 64 X2 / Athlon 64 / Dual-Core Opteron / Opteron / Sempron</value>
+        </item>
+        <item>
+          <name>Материал радиатора</name>
+          <value>алюминий+медь</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры вентилятора (ДхШхВ)</name>
+          <value>110x110x25 мм</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>1150 - 2300 об/мин</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>17 - 32 дБ</value>
+        </item>
+        <item>
+          <name>Тип подшипника</name>
+          <value>2х качения</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Цвет подсветки</name>
+          <value>синий</value>
+        </item>
+        <item>
+          <name>Регулятор оборотов</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Площадь рассеивания</name>
+          <value>3500 кв. см</value>
+        </item>
+        <item>
+          <name>Размеры кулера (ШхВxГ)</name>
+          <value>121x67x121 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>500 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64824">
+    <title>Zalman ZM-F3</title>
+    <model>ZM-F3</model>
+    <marka>Zalman</marka>
+    <catalog id="755741">Кулеры и системы охлаждения</catalog>
+    
+    <price1>141</price1>
+    <price2>850</price2>
+    <description>
+для корпуса, 1 вентилятор (120 мм, 900-1800 об/мин), 34 дБ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>для корпуса</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры вентилятора (ДхШхВ)</name>
+          <value>120x120x25 мм</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>900 - 1800 об/мин</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>20 - 34 дБ</value>
+        </item>
+        <item>
+          <name>Тип подшипника</name>
+          <value>скольжения</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Тип коннектора</name>
+          <value>3-pin</value>
+        </item>
+        <item>
+          <name>Подсветка</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Регулятор оборотов</name>
+          <value>внутренний</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>164 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64827">
+    <title>Zalman ZM-F1 Plus</title>
+    <model>ZM-F1 Plus</model>
+    <marka>Zalman</marka>
+    <catalog id="755741">Кулеры и системы охлаждения</catalog>
+    
+    <price1>105</price1>
+    <price2>502</price2>
+    <description>
+для корпуса, 1 вентилятор (80 мм, 1700-2800 об/мин), 32 дБ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>для корпуса</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры вентилятора (ДхШхВ)</name>
+          <value>80x80x25 мм</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>1700 - 2800 об/мин</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>20 - 32 дБ</value>
+        </item>
+        <item>
+          <name>Тип подшипника</name>
+          <value>скольжения</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Подсветка</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Регулятор оборотов</name>
+          <value>внутренний</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>76 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64833">
+    <title>Cooler Master V6GT (RR-V6GT-22PK-R1)</title>
+    <model>V6GT (RR-V6GT-22PK-R1)</model>
+    <marka>Cooler Master</marka>
+    <catalog id="755741">Кулеры и системы охлаждения</catalog>
+    
+    <price1>1540</price1>
+    <price2>2400</price2>
+    <description>
+для процессора, socket AM2, AM2+, AM3/AM3+/FM1, S775, S1155/S1156, S1366, 2 вентилятора (120 мм, 800-2200 об/мин), радиатор: алюминий+медь, 38 дБ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>для процессора</value>
+        </item>
+        <item>
+          <name>Socket</name>
+          <value>S775, S1150/1155/S1156, S1356/S1366, AM2, AM2+, AM3/AM3+/FM1</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Intel Core i7 Extreme / Core i7 / Core i5 / Core i3 / Core 2 Extreme / Core 2 Quad / Core 2 Duo / Pentium / Celeron / AMD Phenom II X4 / Phenom II X3 / Phenom II X2 / Phenom X4 / Phenom X3 / Athlon II X4 / Athlon II X3 / Athlon II X2 / Athlon X2 / Athlon / Sempron</value>
+        </item>
+        <item>
+          <name>Количество тепловых трубок</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Материал радиатора</name>
+          <value>алюминий+медь</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Размеры вентилятора (ДхШхВ)</name>
+          <value>120x120x25 мм</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>800 - 2200 об/мин</value>
+        </item>
+        <item>
+          <name>Воздушный поток</name>
+          <value>34.02 - 93.74 CFM</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>15 - 38 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Тип коннектора</name>
+          <value>4-pin PWM</value>
+        </item>
+        <item>
+          <name>Цвет подсветки</name>
+          <value>разноцветный</value>
+        </item>
+        <item>
+          <name>Регулятор оборотов</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Время безотказной работы</name>
+          <value>40000 ч</value>
+        </item>
+        <item>
+          <name>Размеры кулера (ШхВxГ)</name>
+          <value>131x165x120 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>939 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64837">
+    <title>Zalman CNPS11X Extreme</title>
+    <model>CNPS11X Extreme</model>
+    <marka>Zalman</marka>
+    <catalog id="755741">Кулеры и системы охлаждения</catalog>
+    
+    <price1>1476</price1>
+    <price2>2370</price2>
+    <description>
+для процессора, socket AM2, AM2+, AM3/AM3+/FM1, S775, S1155/S1156, S1366, S2011, 1 вентилятор (120 мм, 1000-1950 об/мин), радиатор: алюминий+медь, 33 дБ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>для процессора</value>
+        </item>
+        <item>
+          <name>Socket</name>
+          <value>S775, S1150/1155/S1156, S1356/S1366, S2011, AM2, AM2+, AM3/AM3+/FM1</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Intel Core i7 Extreme / i7/i5/i3 / Core 2 Quad/Duo/Extreme / Pentium Dual-Core/D/4 / Celeron D / AMD Phenom II / Athlon II / Phenom / Opteron / Opteron Dual-Core / Athlon FX/X2 / Athlon / Sempron</value>
+        </item>
+        <item>
+          <name>Количество тепловых трубок</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Материал радиатора</name>
+          <value>алюминий+медь</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры вентилятора (ДхШ)</name>
+          <value>120x120 мм</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>1000 - 1950 об/мин</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>17 - 33 дБ</value>
+        </item>
+        <item>
+          <name>Тип подшипника</name>
+          <value>скольжения</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Цвет подсветки</name>
+          <value>синий</value>
+        </item>
+        <item>
+          <name>Регулятор оборотов</name>
+          <value>внутренний</value>
+        </item>
+        <item>
+          <name>Площадь рассеивания</name>
+          <value>7600 кв. см</value>
+        </item>
+        <item>
+          <name>Размеры кулера (ШхВxГ)</name>
+          <value>135x154x80 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>600 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64847">
+    <title>Thermaltake Frio Advanced (CLP0596)</title>
+    <model>Frio Advanced (CLP0596)</model>
+    <marka>Thermaltake</marka>
+    <catalog id="755741">Кулеры и системы охлаждения</catalog>
+    
+    <price1>1990</price1>
+    <price2>2890</price2>
+    <description>
+для процессора, socket AM2, AM2+, AM3/AM3+/FM1, S775, S1155/S1156, S1366, S2011, 2 вентилятора (130 мм, 800-2000 об/мин), радиатор: алюминий+медь, 44 дБ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>для процессора</value>
+        </item>
+        <item>
+          <name>Socket</name>
+          <value>S775, S1150/1155/S1156, S1356/S1366, S2011, AM2, AM2+, AM3/AM3+/FM1</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Intel Core i7/i5/i3 / Core 2 Extreme/Quad/Duo / Pentium D / Pentium 4 / Pentium / Celeron D / Celeron / AMD A / Phenom II / Athlon II / Phenom / Athlon / Sempron</value>
+        </item>
+        <item>
+          <name>Количество тепловых трубок</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Материал радиатора</name>
+          <value>алюминий+медь</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Размеры вентилятора (ДхШ)</name>
+          <value>130x130 мм</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>800 - 2000 об/мин</value>
+        </item>
+        <item>
+          <name>Воздушный поток</name>
+          <value>88.7 CFM</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>21 - 44 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Тип коннектора</name>
+          <value>4-pin PWM</value>
+        </item>
+        <item>
+          <name>Подсветка</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Регулятор оборотов</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Время безотказной работы</name>
+          <value>50000 ч</value>
+        </item>
+        <item>
+          <name>Размеры кулера (ШхВxГ)</name>
+          <value>131x160x122 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>954 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64849">
+    <title>Cooler Master Vortex Plus (RR-VTPS-28PK-R1)</title>
+    <model>Vortex Plus (RR-VTPS-28PK-R1)</model>
+    <marka>Cooler Master</marka>
+    <catalog id="755741">Кулеры и системы охлаждения</catalog>
+    
+    <price1>856</price1>
+    <price2>1400</price2>
+    <description>
+для процессора, socket AM2, AM3/AM3+/FM1, S754, S939, S940, S775, S1155/S1156, S1366, 1 вентилятор (92 мм, 800-2800 об/мин), радиатор: алюминий+медь, 35 дБ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>для процессора</value>
+        </item>
+        <item>
+          <name>Socket</name>
+          <value>S775, S1150/1155/S1156, S1356/S1366, AM2, AM3/AM3+/FM1, S754, S939, S940</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Intel Core i7 Extreme / Core i7 / Core i5 / Core i3 / Core 2 Extreme / Core 2 Quad / Core 2 Duo / Pentium / Celeron / AMD Phenom II X4 / Phenom II X3 / Phenom II X2 / Phenom X4 / Phenom X3 / Athlon II X4 / Athlon II X3 / Athlon II X2 / Athlon X2 / Athlon / Sempron</value>
+        </item>
+        <item>
+          <name>Количество тепловых трубок</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Материал радиатора</name>
+          <value>алюминий+медь</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры вентилятора (ДхШхВ)</name>
+          <value>92x92x25 мм</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>800 - 2800 об/мин</value>
+        </item>
+        <item>
+          <name>Воздушный поток</name>
+          <value>15.7 - 54.8 CFM</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>17 - 35 дБ</value>
+        </item>
+        <item>
+          <name>Тип подшипника</name>
+          <value>скольжения</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Тип коннектора</name>
+          <value>4-pin PWM</value>
+        </item>
+        <item>
+          <name>Подсветка</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Регулятор оборотов</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Время безотказной работы</name>
+          <value>40000 ч</value>
+        </item>
+        <item>
+          <name>Размеры кулера (ШхВxГ)</name>
+          <value>116x84x100 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>445 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64857">
+    <title>Thermaltake Frio (CLP0564)</title>
+    <model>Frio (CLP0564)</model>
+    <marka>Thermaltake</marka>
+    <catalog id="755741">Кулеры и системы охлаждения</catalog>
+    
+    <price1>1060</price1>
+    <price2>1883</price2>
+    <description>
+для процессора, socket AM2, AM2+, AM3/AM3+/FM1, S775, S1155/S1156, S1366, 2 вентилятора (120 мм, 1200-2500 об/мин), радиатор: алюминий+медь, 43 дБ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>для процессора</value>
+        </item>
+        <item>
+          <name>Socket</name>
+          <value>S775, S1150/1155/S1156, S1356/S1366, AM2, AM2+, AM3/AM3+/FM1</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Intel Core i7 Extreme / Core i7 / Core i5 / Core i3 / Core 2 Extreme / Core 2 Quad / Core 2 Duo / Pentium D / Pentium 4 / Pentium / Celeron D / Celeron / AMD Phenom II X4 / Phenom II X3 / Phenom II X2 / Phenom X4 / Phenom X3 / Athlon 64 FX / Athlon 64 X2 / Athlon 64 / Sempron</value>
+        </item>
+        <item>
+          <name>Количество тепловых трубок</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Материал радиатора</name>
+          <value>алюминий+медь</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Размеры вентилятора (ДхШхВ)</name>
+          <value>120x120x25 мм</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>1200 - 2500 об/мин</value>
+        </item>
+        <item>
+          <name>Воздушный поток</name>
+          <value>101.6 CFM</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>20 - 43 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Тип коннектора</name>
+          <value>3-pin</value>
+        </item>
+        <item>
+          <name>Подсветка</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Регулятор оборотов</name>
+          <value>внутренний</value>
+        </item>
+        <item>
+          <name>Время безотказной работы</name>
+          <value>50000 ч</value>
+        </item>
+        <item>
+          <name>Размеры кулера (ШхВxГ)</name>
+          <value>139x165x98 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1042 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64860">
+    <title>Cooler Master Hyper 212 EVO (RR-212E-16PK-R1)</title>
+    <model>Hyper 212 EVO (RR-212E-16PK-R1)</model>
+    <marka>Cooler Master</marka>
+    <catalog id="755741">Кулеры и системы охлаждения</catalog>
+    
+    <price1>1182</price1>
+    <price2>1775</price2>
+    <description>
+для процессора, socket AM2, AM2+, AM3/AM3+/FM1, S775, S1155/S1156, S1366, S2011, 1 вентилятор (120 мм, 600-1600 об/мин), радиатор: алюминий+медь, 31 дБ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>для процессора</value>
+        </item>
+        <item>
+          <name>Socket</name>
+          <value>S775, S1150/1155/S1156, S1356/S1366, S2011, AM2, AM2+, AM3/AM3+/FM1</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Intel Core i7 Extreme/i7/i5/i3 / Core 2 Extreme/Quad/Duo / Pentium / Celeron / AMD FX / A / Phenom II X4/X3/X2 / Phenom X4/X3 / Athlon II X4/X3/X2 / Athlon X2 / Athlon / Sempron</value>
+        </item>
+        <item>
+          <name>Количество тепловых трубок</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Материал радиатора</name>
+          <value>алюминий+медь</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры вентилятора (ДхШхВ)</name>
+          <value>120x120x25 мм</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>600 - 1600 об/мин</value>
+        </item>
+        <item>
+          <name>Воздушный поток</name>
+          <value>24.9 - 66.3 CFM</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>9 - 31 дБ</value>
+        </item>
+        <item>
+          <name>Тип подшипника</name>
+          <value>скольжения</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Тип коннектора</name>
+          <value>4-pin PWM</value>
+        </item>
+        <item>
+          <name>Подсветка</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Регулятор оборотов</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Время безотказной работы</name>
+          <value>40000 ч</value>
+        </item>
+        <item>
+          <name>Размеры кулера (ШхВxГ)</name>
+          <value>120x159x80 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>569 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64861">
+    <title>Cooler Master GeminII S524 (RR-G524-18PK-R1)</title>
+    <model>GeminII S524 (RR-G524-18PK-R1)</model>
+    <marka>Cooler Master</marka>
+    <catalog id="755741">Кулеры и системы охлаждения</catalog>
+    
+    <price1>1450</price1>
+    <price2>1900</price2>
+    <description>
+для процессора, socket AM2, AM2+, AM3/AM3+/FM1, S775, S1155/S1156, S1366, 1 вентилятор (120 мм, 800-1800 об/мин), радиатор: алюминий+медь, 31.6 дБ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>для процессора</value>
+        </item>
+        <item>
+          <name>Socket</name>
+          <value>S775, S1150/1155/S1156, S1356/S1366, AM2, AM2+, AM3/AM3+/FM1</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Intel Core i7 Extreme/i7/i5/i3 / Core 2 Extreme/Quad/Duo / Pentium / Celeron / AMD FX / A / Phenom II X4/X3/X2 / Phenom X4/X3 / Athlon II X4/X3/X2 / Athlon X2 / Athlon / Sempron</value>
+        </item>
+        <item>
+          <name>Количество тепловых трубок</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Материал радиатора</name>
+          <value>алюминий+медь</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры вентилятора (ДхШхВ)</name>
+          <value>120x120x25 мм</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>800 - 1800 об/мин</value>
+        </item>
+        <item>
+          <name>Воздушный поток</name>
+          <value>34.2 - 77.7 CFM</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>15.1 - 31.6 дБ</value>
+        </item>
+        <item>
+          <name>Тип подшипника</name>
+          <value>скольжения</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Тип коннектора</name>
+          <value>4-pin PWM</value>
+        </item>
+        <item>
+          <name>Подсветка</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Регулятор оборотов</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Время безотказной работы</name>
+          <value>40000 ч</value>
+        </item>
+        <item>
+          <name>Размеры кулера (ШхВxГ)</name>
+          <value>144x105x144 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>594 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64867">
+    <title>Cooler Master DP6-8E5SB-0L-GP</title>
+    <model>DP6-8E5SB-0L-GP</model>
+    <marka>Cooler Master</marka>
+    <catalog id="755741">Кулеры и системы охлаждения</catalog>
+    
+    <price1>178</price1>
+    <price2>567</price2>
+    <description>
+для процессора, socket S1155/S1156, 1 вентилятор (80 мм, 2600 об/мин), радиатор: алюминий, 31 дБ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>для процессора</value>
+        </item>
+        <item>
+          <name>Socket</name>
+          <value>S1150/1155/S1156</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Intel Core i7/i5/i3</value>
+        </item>
+        <item>
+          <name>Материал радиатора</name>
+          <value>алюминий</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры вентилятора (ДхШхВ)</name>
+          <value>80x80x15 мм</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>2600 об/мин</value>
+        </item>
+        <item>
+          <name>Воздушный поток</name>
+          <value>27.61 CFM</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>31 дБ</value>
+        </item>
+        <item>
+          <name>Тип подшипника</name>
+          <value>скольжения</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Тип коннектора</name>
+          <value>3-pin</value>
+        </item>
+        <item>
+          <name>Подсветка</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Регулятор оборотов</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Время безотказной работы</name>
+          <value>40000 ч</value>
+        </item>
+        <item>
+          <name>Размеры кулера (ШхВxГ)</name>
+          <value>80x38x80 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>237 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64871">
+    <title>Cooler Master DP6-8E5SB-PL-GP</title>
+    <model>DP6-8E5SB-PL-GP</model>
+    <marka>Cooler Master</marka>
+    <catalog id="755741">Кулеры и системы охлаждения</catalog>
+    
+    <price1>223</price1>
+    <price2>622</price2>
+    <description>
+для процессора, socket S1155/S1156, 1 вентилятор (80 мм, 800-2600 об/мин), радиатор: алюминий, 32 дБ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>для процессора</value>
+        </item>
+        <item>
+          <name>Socket</name>
+          <value>S1150/1155/S1156</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Intel Core i7/i5/i3</value>
+        </item>
+        <item>
+          <name>Материал радиатора</name>
+          <value>алюминий</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры вентилятора (ДхШхВ)</name>
+          <value>80x80x15 мм</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>800 - 2600 об/мин</value>
+        </item>
+        <item>
+          <name>Воздушный поток</name>
+          <value>27.61 CFM</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>19 - 32 дБ</value>
+        </item>
+        <item>
+          <name>Тип подшипника</name>
+          <value>скольжения</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Тип коннектора</name>
+          <value>4-pin PWM</value>
+        </item>
+        <item>
+          <name>Подсветка</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Регулятор оборотов</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Время безотказной работы</name>
+          <value>40000 ч</value>
+        </item>
+        <item>
+          <name>Размеры кулера (ШхВxГ)</name>
+          <value>80x38x80 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>237 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64873">
+    <title>Thermaltake SpinQ VT (CLP0554)</title>
+    <model>SpinQ VT (CLP0554)</model>
+    <marka>Thermaltake</marka>
+    <catalog id="755741">Кулеры и системы охлаждения</catalog>
+    
+    <price1>1150</price1>
+    <price2>2440</price2>
+    <description>
+для процессора, socket AM2, AM2+, AM3/AM3+/FM1, S754, S939, S775, S1155/S1156, S1366, 1 вентилятор (80 мм, 1000-1600 об/мин), радиатор: алюминий+медь, 28 дБ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>для процессора</value>
+        </item>
+        <item>
+          <name>Socket</name>
+          <value>S775, S1150/1155/S1156, S1356/S1366, AM2, AM2+, AM3/AM3+/FM1, S754, S939</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Intel Core i7 / Core i5 / Core i3 / Core 2 Extreme / Core 2 Quad / Core 2 Duo / Pentium D / Pentium 4 / Pentium / Celeron D / Celeron / AMD Phenom II X4 / Phenom II X3 / Phenom / Athlon 64 FX / Athlon 64 X2 / Athlon 64 / Sempron</value>
+        </item>
+        <item>
+          <name>Количество тепловых трубок</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Материал радиатора</name>
+          <value>алюминий+медь</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры вентилятора (ДхШхВ)</name>
+          <value>80x80x85 мм</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>1000 - 1600 об/мин</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>19 - 28 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Тип коннектора</name>
+          <value>3-pin</value>
+        </item>
+        <item>
+          <name>Цвет подсветки</name>
+          <value>красный</value>
+        </item>
+        <item>
+          <name>Регулятор оборотов</name>
+          <value>внутренний</value>
+        </item>
+        <item>
+          <name>Время безотказной работы</name>
+          <value>50000 ч</value>
+        </item>
+        <item>
+          <name>Размеры кулера (ШхВxГ)</name>
+          <value>120x159x120 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>495 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64875">
+    <title>Cooler Master V6 (RR-V6SV-22PR-R1)</title>
+    <model>V6 (RR-V6SV-22PR-R1)</model>
+    <marka>Cooler Master</marka>
+    <catalog id="755741">Кулеры и системы охлаждения</catalog>
+    
+    <price1>1209</price1>
+    <price2>1696</price2>
+    <description>
+для процессора, socket AM2, AM2+, AM3/AM3+/FM1, S775, S1155/S1156, S1366, 1 вентилятор (120 мм, 800-2200 об/мин), радиатор: алюминий+медь, 38 дБ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>для процессора</value>
+        </item>
+        <item>
+          <name>Socket</name>
+          <value>S775, S1150/1155/S1156, S1356/S1366, AM2, AM2+, AM3/AM3+/FM1</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Intel Core i7 Extreme/i7/i5/i3/ Core 2 Extreme/Quad /Duo / Pentium / Celeron / AMD Phenom II X4/X3/X2 / Phenom X4/X3/ Athlon II X4/X3/X2 / Athlon X2 / Athlon / Sempron</value>
+        </item>
+        <item>
+          <name>Количество тепловых трубок</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Материал радиатора</name>
+          <value>алюминий+медь</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры вентилятора (ДхШхВ)</name>
+          <value>120x120x25 мм</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>800 - 2200 об/мин</value>
+        </item>
+        <item>
+          <name>Воздушный поток</name>
+          <value>34.02 - 93.74 CFM</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>15 - 38 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Тип коннектора</name>
+          <value>4-pin PWM</value>
+        </item>
+        <item>
+          <name>Цвет подсветки</name>
+          <value>красный</value>
+        </item>
+        <item>
+          <name>Регулятор оборотов</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Время безотказной работы</name>
+          <value>40000 ч</value>
+        </item>
+        <item>
+          <name>Размеры кулера (ШхВxГ)</name>
+          <value>120x165x132 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>805 г</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>возможность установки второго 120 мм вентилятора</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64878">
+    <title>Thermaltake SlimX3 (CLP0534)</title>
+    <model>SlimX3 (CLP0534)</model>
+    <marka>Thermaltake</marka>
+    <catalog id="755741">Кулеры и системы охлаждения</catalog>
+    
+    <price1>518</price1>
+    <price2>967</price2>
+    <description>
+для процессора, socket S775, S1155/S1156, 1 вентилятор (80 мм, 1200-2400 об/мин), радиатор: алюминий+медь, 26.9 дБ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>для процессора</value>
+        </item>
+        <item>
+          <name>Socket</name>
+          <value>S775, S1150/1155/S1156</value>
+        </item>
+        <item>
+          <name>Количество тепловых трубок</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Материал радиатора</name>
+          <value>алюминий+медь</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры вентилятора (ДхШхВ)</name>
+          <value>80x80x15 мм</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>1200 - 2400 об/мин</value>
+        </item>
+        <item>
+          <name>Воздушный поток</name>
+          <value>10.814 - 22.35 CFM</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>20 - 26.9 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Тип коннектора</name>
+          <value>4-pin PWM</value>
+        </item>
+        <item>
+          <name>Подсветка</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Регулятор оборотов</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Время безотказной работы</name>
+          <value>30000 ч</value>
+        </item>
+        <item>
+          <name>Размеры кулера (ШхВxГ)</name>
+          <value>92x36x99 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>180 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64879">
+    <title>Zalman CNPS9900 MAX Blue</title>
+    <model>CNPS9900 MAX Blue</model>
+    <marka>Zalman</marka>
+    <catalog id="755741">Кулеры и системы охлаждения</catalog>
+    
+    <price1>1555</price1>
+    <price2>2600</price2>
+    <description>
+для процессора, socket AM2, AM2+, AM3/AM3+/FM1, S775, S1155/S1156, S1366, 1 вентилятор (135 мм, 900-1700 об/мин), радиатор: медь, 30 дБ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>для процессора</value>
+        </item>
+        <item>
+          <name>Socket</name>
+          <value>S775, S1150/1155/S1156, S1356/S1366, AM2, AM2+, AM3/AM3+/FM1</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Intel Core i7 Extreme / Core i7/i5/i3 / Core 2 Extreme/Quad/Duo / Pentium Dual Core / Pentium D/4 / Celeron D / AMD Phenom II / Athlon II / Phenom / Opteron / Athlon X2/FX / Athlon / Sempron</value>
+        </item>
+        <item>
+          <name>Количество тепловых трубок</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Материал радиатора</name>
+          <value>медь</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры вентилятора (ДхШ)</name>
+          <value>135x135 мм</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>900 - 1700 об/мин</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>18 - 30 дБ</value>
+        </item>
+        <item>
+          <name>Тип подшипника</name>
+          <value>скольжения</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Тип коннектора</name>
+          <value>4-pin PWM</value>
+        </item>
+        <item>
+          <name>Цвет подсветки</name>
+          <value>синий</value>
+        </item>
+        <item>
+          <name>Регулятор оборотов</name>
+          <value>внутренний</value>
+        </item>
+        <item>
+          <name>Площадь рассеивания</name>
+          <value>5402 кв. см</value>
+        </item>
+        <item>
+          <name>Размеры кулера (ШхВxГ)</name>
+          <value>135x152x94 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>755 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64881">
+    <title>Thermaltake Contac 30 (CLP0579)</title>
+    <model>Contac 30 (CLP0579)</model>
+    <marka>Thermaltake</marka>
+    <catalog id="755741">Кулеры и системы охлаждения</catalog>
+    
+    <price1>1069</price1>
+    <price2>1390</price2>
+    <description>
+для процессора, socket AM2, AM2+, AM3/AM3+/FM1, S775, S1155/S1156, S1366, S2011, 1 вентилятор (120 мм, 800-2000 об/мин), радиатор: алюминий+медь, 33.2 дБ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Назначение</name>
+          <value>для процессора</value>
+        </item>
+        <item>
+          <name>Socket</name>
+          <value>S775, S1150/1155/S1156, S1356/S1366, S2011, AM2, AM2+, AM3/AM3+/FM1</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Intel Core i7/i5/i3 / Core 2 Extreme/Quad/Duo / Pentium D / Pentium 4 / Pentium / Celeron D / Celeron / AMD A / Phenom II / Athlon II / Phenom / Athlon / Sempron</value>
+        </item>
+        <item>
+          <name>Количество тепловых трубок</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Материал радиатора</name>
+          <value>алюминий+медь</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры вентилятора (ДхШхВ)</name>
+          <value>120x120x25 мм</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>800 - 2000 об/мин</value>
+        </item>
+        <item>
+          <name>Воздушный поток</name>
+          <value>29.434 - 72.084 CFM</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>15 - 33.2 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Тип коннектора</name>
+          <value>4-pin PWM</value>
+        </item>
+        <item>
+          <name>Цвет подсветки</name>
+          <value>синий</value>
+        </item>
+        <item>
+          <name>Регулятор оборотов</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Время безотказной работы</name>
+          <value>30000 ч</value>
+        </item>
+        <item>
+          <name>Размеры кулера (ШхВxГ)</name>
+          <value>120x159x77 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>558 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

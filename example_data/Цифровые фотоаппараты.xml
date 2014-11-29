@@ -1,0 +1,5310 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="52768">
+    <title>Canon EOS 600D Kit</title>
+    <model>EOS 600D Kit</model>
+    <marka>Canon</marka>
+    <catalog id="100514">Цифровые фотоаппараты</catalog>
+    
+    <price1>15299</price1>
+    <price2>51999</price2>
+    <description>
+
+
+
+18.70 млн пикс., матрица: 22.3 х 14.9 мм, карты:
+SD, поддержка RAW, скорость съемки: 3.70 кадров/с, видео разрешением до 1920x1080
+
+
+</description>
+    <specification>
+      <items>
+        <name>Матрица</name>
+        <item>
+          <name>Общее число пикселов</name>
+          <value>18.7 млн</value>
+        </item>
+        <item>
+          <name>Число эффективных пикселов</name>
+          <value>18 млн</value>
+        </item>
+        <item>
+          <name>Размер</name>
+          <value>APS-C (22.3 х 14.9 мм)</value>
+        </item>
+        <item>
+          <name>Кроп-фактор</name>
+          <value>1.6</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>5184 x 3456</value>
+        </item>
+        <item>
+          <name>Тип матрицы</name>
+          <value>CMOS</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>100 - 6400 ISO, Auto ISO, ISO6400, ISO12800</value>
+        </item>
+        <item>
+          <name>Функция очистки матрицы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Баланс белого</name>
+          <value>автоматический, ручная установка, из списка, брекетинг</value>
+        </item>
+        <item>
+          <name>Вспышка</name>
+          <value>встроенная, до 13 м, подавление эффекта красных глаз, башмак, брекетинг, E-TTL II</value>
+        </item>
+        <item>
+          <name>Стабилизатор изображения (фотосъемка)</name>
+          <value>отсутствует</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы съемки</name>
+        <item>
+          <name>Скорость съемки</name>
+          <value>3.7 кадр./сек</value>
+        </item>
+        <item>
+          <name>Максимальная серия снимков </name>
+          <value>34 для JPEG, 6 для RAW</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Время работы таймера</name>
+          <value>2, 10, 2 — 10 c</value>
+        </item>
+        <item>
+          <name>Формат кадра (фотосъемка)</name>
+          <value>4:3, 3:2, 1:1, 16:9</value>
+        </item>
+      </items>
+      <items>
+        <name>Объектив</name>
+        <item>
+          <name>Поддержка сменных объективов</name>
+          <value>байонет Canon EF/EF-S</value>
+        </item>
+        <item>
+          <name>Объектив в комплекте</name>
+          <value>есть, модель уточняйте у продавца</value>
+        </item>
+      </items>
+      <items>
+        <name>Видоискатель и ЖК-экран</name>
+        <item>
+          <name>Видоискатель</name>
+          <value>зеркальный (TTL)</value>
+        </item>
+        <item>
+          <name>Использование экрана в качестве видоискателя</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поле зрения видоискателя</name>
+          <value>95%</value>
+        </item>
+        <item>
+          <name>ЖК-экран</name>
+          <value>1040000 точек, 3 дюйма</value>
+        </item>
+        <item>
+          <name>Тип ЖК-экрана</name>
+          <value> поворотный</value>
+        </item>
+      </items>
+      <items>
+        <name>Экспозиция</name>
+        <item>
+          <name>Выдержка</name>
+          <value>30 - 1/4000 с</value>
+        </item>
+        <item>
+          <name>Выдержка X-Sync</name>
+          <value>1/200 c</value>
+        </item>
+        <item>
+          <name>Ручная настройка выдержки и диафрагмы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая обработка экспозиции</name>
+          <value>с приоритетом затвора, с приоритетом диафрагмы</value>
+        </item>
+        <item>
+          <name>Экспокоррекция </name>
+          <value>+/- 5 EV с шагом 1/3 ступени</value>
+        </item>
+        <item>
+          <name>Замер экспозиции</name>
+          <value>центровзвешенный, общий (Evaluative), точечный</value>
+        </item>
+        <item>
+          <name>Брекетинг экспозиции</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Фокусировка</name>
+        <item>
+          <name>Подсветка автофокуса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ручная фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фокусировка по лицу</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и интерфейсы</name>
+        <item>
+          <name>Тип карт памяти</name>
+          <value>SD, SDHC, SDXC</value>
+        </item>
+        <item>
+          <name>Форматы изображения</name>
+          <value>2 JPEG, RAW</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0, видео, HD-видео, HDMI, аудио, разъем для пульта ДУ</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Формат аккумуляторов</name>
+          <value>свой собственный</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1120 мА*ч или 440 фотографий</value>
+        </item>
+      </items>
+      <items>
+        <name>Запись видео и звука</name>
+        <item>
+          <name>Запись видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Формат записи видео</name>
+          <value>MOV</value>
+        </item>
+        <item>
+          <name>Видеокодеки</name>
+          <value>MPEG4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение роликов</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров видеоролика</name>
+          <value>60 кадров/с</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров при съемке HD-видео</name>
+          <value>50/60 кадров/с при разрешении 1280x720, 25/30 кадров/с при разрешении 1920x1080</value>
+        </item>
+        <item>
+          <name>Оптический Zoom при записи видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись звука</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>крепление для штатива, дистанционное управление, датчик ориентации, управление с компьютера</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>аккумуляторная батарея, зарядное устройство для аккумулятора, наплечный ремень, USB-кабель, A/V - кабель, компакт-диск с программным обеспечением, компакт-диск с руководством пользователя, инструкция по эксплуатации</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>разъем для подключения внешнего микрофона</value>
+        </item>
+        <item>
+          <name>Дата анонсирования</name>
+          <value>2011-02-07</value>
+        </item>
+        <item>
+          <name>Дата начала продаж</name>
+          <value>2011-03-15</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размер</name>
+          <value>133x100x80 мм, без объектива</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>515 г, без элементов питания, 570 г, с элементами питания; без объектива</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="52770">
+    <title>Nikon D3100 Kit</title>
+    <model>D3100 Kit</model>
+    <marka>Nikon</marka>
+    <catalog id="100514">Цифровые фотоаппараты</catalog>
+    
+    <price1>13400</price1>
+    <price2>37890</price2>
+    <description>
+
+
+
+14.80 млн пикс., матрица: 23.0 х 15.5 мм, карты:
+SD, поддержка RAW, скорость съемки: 3 кадров/с, видео разрешением до 1920x1080
+
+
+</description>
+    <specification>
+      <items>
+        <name>Матрица</name>
+        <item>
+          <name>Общее число пикселов</name>
+          <value>14.8 млн</value>
+        </item>
+        <item>
+          <name>Число эффективных пикселов</name>
+          <value>14.2 млн</value>
+        </item>
+        <item>
+          <name>Размер</name>
+          <value>APS-C (23.0 х 15.5 мм)</value>
+        </item>
+        <item>
+          <name>Кроп-фактор</name>
+          <value>1.5</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>4608 x 3072</value>
+        </item>
+        <item>
+          <name>Тип матрицы</name>
+          <value>CMOS</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>100 - 3200 ISO, Auto ISO, ISO6400, ISO12800</value>
+        </item>
+        <item>
+          <name>Функция очистки матрицы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Баланс белого</name>
+          <value>автоматический, ручная установка, из списка</value>
+        </item>
+        <item>
+          <name>Вспышка</name>
+          <value>встроенная, до 12 м, подавление эффекта красных глаз, башмак, синхроконтакт</value>
+        </item>
+        <item>
+          <name>Стабилизатор изображения (фотосъемка)</name>
+          <value>отсутствует</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы съемки</name>
+        <item>
+          <name>Скорость съемки</name>
+          <value>3 кадр./сек</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Время работы таймера</name>
+          <value>2, 10 c</value>
+        </item>
+        <item>
+          <name>Формат кадра (фотосъемка)</name>
+          <value>3:2</value>
+        </item>
+      </items>
+      <items>
+        <name>Объектив</name>
+        <item>
+          <name>Поддержка сменных объективов</name>
+          <value>байонет Nikon F</value>
+        </item>
+        <item>
+          <name>Объектив в комплекте</name>
+          <value>есть, модель уточняйте у продавца</value>
+        </item>
+      </items>
+      <items>
+        <name>Видоискатель и ЖК-экран</name>
+        <item>
+          <name>Видоискатель</name>
+          <value>зеркальный (TTL)</value>
+        </item>
+        <item>
+          <name>Использование экрана в качестве видоискателя</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поле зрения видоискателя</name>
+          <value>95%</value>
+        </item>
+        <item>
+          <name>ЖК-экран</name>
+          <value>230000 точек, 3 дюйма</value>
+        </item>
+      </items>
+      <items>
+        <name>Экспозиция</name>
+        <item>
+          <name>Выдержка</name>
+          <value>30 - 1/4000 с</value>
+        </item>
+        <item>
+          <name>Выдержка X-Sync</name>
+          <value>1/200 c</value>
+        </item>
+        <item>
+          <name>Ручная настройка выдержки и диафрагмы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая обработка экспозиции</name>
+          <value>с приоритетом затвора, с приоритетом диафрагмы</value>
+        </item>
+        <item>
+          <name>Экспокоррекция </name>
+          <value>+/- 5 EV с шагом 1/3 ступени</value>
+        </item>
+        <item>
+          <name>Замер экспозиции</name>
+          <value>3D цветовой матричный, центровзвешенный, точечный</value>
+        </item>
+      </items>
+      <items>
+        <name>Фокусировка</name>
+        <item>
+          <name>Наличие "отвертки"</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Подсветка автофокуса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ручная фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фокусировка по лицу</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и интерфейсы</name>
+        <item>
+          <name>Тип карт памяти</name>
+          <value>SD, SDHC, SDXC</value>
+        </item>
+        <item>
+          <name>Форматы изображения</name>
+          <value>JPEG, RAW</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0, видео, HDMI, аудио, разъем для пульта ДУ</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Формат аккумуляторов</name>
+          <value>свой собственный</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Запись видео и звука</name>
+        <item>
+          <name>Запись видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Формат записи видео</name>
+          <value>AVCHD, MOV</value>
+        </item>
+        <item>
+          <name>Видеокодеки</name>
+          <value>AVC/H.264, MPEG4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение роликов</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров видеоролика</name>
+          <value>30 кадров/с</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров при съемке HD-видео</name>
+          <value>25/30 кадров/с при разрешении 1280x720, 24 кадров/с при разрешении 1920x1080</value>
+        </item>
+        <item>
+          <name>Время записи видео</name>
+          <value>10 минут</value>
+        </item>
+        <item>
+          <name>Запись звука</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>крепление для штатива, дистанционное управление</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>режим LiveView</value>
+        </item>
+        <item>
+          <name>Дата анонсирования</name>
+          <value>2010-08-19</value>
+        </item>
+        <item>
+          <name>Дата начала продаж</name>
+          <value>2010-09-15</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размер</name>
+          <value>125x97x74 мм, без объектива</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>505 г, с элементами питания; без объектива</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="52771">
+    <title>Nikon D5100 Kit</title>
+    <model>D5100 Kit</model>
+    <marka>Nikon</marka>
+    <catalog id="100514">Цифровые фотоаппараты</catalog>
+    
+    <price1>16490</price1>
+    <price2>39590</price2>
+    <description>
+
+
+
+16.90 млн пикс., матрица: 23.6 х 15.6 мм, карты:
+SD, поддержка RAW, скорость съемки: 4 кадров/с, видео разрешением до 1920x1080
+
+
+</description>
+    <specification>
+      <items>
+        <name>Матрица</name>
+        <item>
+          <name>Общее число пикселов</name>
+          <value>16.9 млн</value>
+        </item>
+        <item>
+          <name>Число эффективных пикселов</name>
+          <value>16.2 млн</value>
+        </item>
+        <item>
+          <name>Размер</name>
+          <value>APS-C (23.6 х 15.6 мм)</value>
+        </item>
+        <item>
+          <name>Кроп-фактор</name>
+          <value>1.5</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>4928 x 3264</value>
+        </item>
+        <item>
+          <name>Тип матрицы</name>
+          <value>CMOS</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>100 - 6400 ISO, Auto ISO, ISO6400, ISO12800, ISO25600</value>
+        </item>
+        <item>
+          <name>Функция очистки матрицы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Баланс белого</name>
+          <value>автоматический, ручная установка, из списка, брекетинг</value>
+        </item>
+        <item>
+          <name>Вспышка</name>
+          <value>встроенная, до 12 м, подавление эффекта красных глаз, башмак, синхроконтакт, брекетинг</value>
+        </item>
+        <item>
+          <name>Стабилизатор изображения (фотосъемка)</name>
+          <value>отсутствует</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы съемки</name>
+        <item>
+          <name>Скорость съемки</name>
+          <value>4 кадр./сек</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Время работы таймера</name>
+          <value>2, 5, 10, 20 c</value>
+        </item>
+        <item>
+          <name>Формат кадра (фотосъемка)</name>
+          <value>3:2</value>
+        </item>
+      </items>
+      <items>
+        <name>Объектив</name>
+        <item>
+          <name>Поддержка сменных объективов</name>
+          <value>байонет Nikon F</value>
+        </item>
+        <item>
+          <name>Объектив в комплекте</name>
+          <value>есть, модель уточняйте у продавца</value>
+        </item>
+      </items>
+      <items>
+        <name>Видоискатель и ЖК-экран</name>
+        <item>
+          <name>Видоискатель</name>
+          <value>зеркальный (TTL)</value>
+        </item>
+        <item>
+          <name>Использование экрана в качестве видоискателя</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поле зрения видоискателя</name>
+          <value>95%</value>
+        </item>
+        <item>
+          <name>ЖК-экран</name>
+          <value>921000 точек, 3 дюйма</value>
+        </item>
+        <item>
+          <name>Тип ЖК-экрана</name>
+          <value> поворотный</value>
+        </item>
+      </items>
+      <items>
+        <name>Экспозиция</name>
+        <item>
+          <name>Выдержка</name>
+          <value>30 - 1/4000 с</value>
+        </item>
+        <item>
+          <name>Выдержка X-Sync</name>
+          <value>1/200 c</value>
+        </item>
+        <item>
+          <name>Ручная настройка выдержки и диафрагмы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая обработка экспозиции</name>
+          <value>с приоритетом затвора, с приоритетом диафрагмы</value>
+        </item>
+        <item>
+          <name>Экспокоррекция </name>
+          <value>+/- 5 EV с шагом 1/3 ступени</value>
+        </item>
+        <item>
+          <name>Замер экспозиции</name>
+          <value>3D цветовой матричный, центровзвешенный, точечный</value>
+        </item>
+        <item>
+          <name>Брекетинг экспозиции</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Фокусировка</name>
+        <item>
+          <name>Наличие "отвертки"</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Подсветка автофокуса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ручная фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фокусировка по лицу</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и интерфейсы</name>
+        <item>
+          <name>Тип карт памяти</name>
+          <value>SD, SDHC, SDXC</value>
+        </item>
+        <item>
+          <name>Форматы изображения</name>
+          <value>3 JPEG, RAW</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0, видео, HD-видео, HDMI, аудио, разъем для пульта ДУ</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Формат аккумуляторов</name>
+          <value>свой собственный</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>660 фотографий</value>
+        </item>
+        <item>
+          <name>Разъем питания</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Запись видео и звука</name>
+        <item>
+          <name>Запись видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Формат записи видео</name>
+          <value>AVCHD, MOV</value>
+        </item>
+        <item>
+          <name>Видеокодеки</name>
+          <value>AVC/H.264, MPEG4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение роликов</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров видеоролика</name>
+          <value>30 кадров/с</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров при съемке HD-видео</name>
+          <value>25/30 кадров/с при разрешениях 1280x720 и 1920x1080</value>
+        </item>
+        <item>
+          <name>Оптический Zoom при записи видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись звука</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>крепление для штатива, дистанционное управление, датчик ориентации, управление с компьютера, cъемка HDR</value>
+        </item>
+        <item>
+          <name>Дата анонсирования</name>
+          <value>2011-04-05</value>
+        </item>
+        <item>
+          <name>Дата начала продаж</name>
+          <value>2011-04-17</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размер</name>
+          <value>128x97x79 мм, без объектива</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>510 г, без элементов питания, 560 г, с элементами питания; без объектива</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="52773">
+    <title>Canon EOS 1100D Kit</title>
+    <model>EOS 1100D Kit</model>
+    <marka>Canon</marka>
+    <catalog id="100514">Цифровые фотоаппараты</catalog>
+    
+    <price1>12800</price1>
+    <price2>25760</price2>
+    <description>
+
+
+
+12.60 млн пикс., матрица: 22.2 х 14.7 мм, карты:
+SD, поддержка RAW, скорость съемки: 3 кадров/с, видео разрешением до 1280x720, 495 г
+
+
+</description>
+    <specification>
+      <items>
+        <name>Матрица</name>
+        <item>
+          <name>Общее число пикселов</name>
+          <value>12.6 млн</value>
+        </item>
+        <item>
+          <name>Число эффективных пикселов</name>
+          <value>12.2 млн</value>
+        </item>
+        <item>
+          <name>Размер</name>
+          <value>APS-C (22.2 х 14.7 мм)</value>
+        </item>
+        <item>
+          <name>Кроп-фактор</name>
+          <value>1.62</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>4272 x 2848</value>
+        </item>
+        <item>
+          <name>Тип матрицы</name>
+          <value>CMOS</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>100 - 6400 ISO, Auto ISO</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Баланс белого</name>
+          <value>автоматический, ручная установка, из списка</value>
+        </item>
+        <item>
+          <name>Вспышка</name>
+          <value>встроенная, до 9.20 м, подавление эффекта красных глаз, башмак, брекетинг, E-TTL II</value>
+        </item>
+        <item>
+          <name>Стабилизатор изображения (фотосъемка)</name>
+          <value>отсутствует</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы съемки</name>
+        <item>
+          <name>Скорость съемки</name>
+          <value>3 кадр./сек</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Время работы таймера</name>
+          <value>2, 10, 2 — 10 c</value>
+        </item>
+        <item>
+          <name>Формат кадра (фотосъемка)</name>
+          <value>3:2</value>
+        </item>
+      </items>
+      <items>
+        <name>Объектив</name>
+        <item>
+          <name>Поддержка сменных объективов</name>
+          <value>байонет Canon EF/EF-S</value>
+        </item>
+        <item>
+          <name>Объектив в комплекте</name>
+          <value>есть, модель уточняйте у продавца</value>
+        </item>
+      </items>
+      <items>
+        <name>Видоискатель и ЖК-экран</name>
+        <item>
+          <name>Видоискатель</name>
+          <value>зеркальный (TTL)</value>
+        </item>
+        <item>
+          <name>Использование экрана в качестве видоискателя</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поле зрения видоискателя</name>
+          <value>95%</value>
+        </item>
+        <item>
+          <name>ЖК-экран</name>
+          <value>230000 точек, 2.70 дюйма</value>
+        </item>
+      </items>
+      <items>
+        <name>Экспозиция</name>
+        <item>
+          <name>Выдержка</name>
+          <value>30 - 1/4000 с</value>
+        </item>
+        <item>
+          <name>Выдержка X-Sync</name>
+          <value>1/200 c</value>
+        </item>
+        <item>
+          <name>Ручная настройка выдержки и диафрагмы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая обработка экспозиции</name>
+          <value>с приоритетом затвора, с приоритетом диафрагмы</value>
+        </item>
+        <item>
+          <name>Экспокоррекция </name>
+          <value>+/- 5 EV с шагом 1/3 ступени</value>
+        </item>
+        <item>
+          <name>Замер экспозиции</name>
+          <value>3D цветовой матричный, центровзвешенный, точечный</value>
+        </item>
+      </items>
+      <items>
+        <name>Фокусировка</name>
+        <item>
+          <name>Подсветка автофокуса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ручная фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фокусировка по лицу</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и интерфейсы</name>
+        <item>
+          <name>Тип карт памяти</name>
+          <value>SD, SDHC, SDXC</value>
+        </item>
+        <item>
+          <name>Форматы изображения</name>
+          <value>2 JPEG, RAW</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0, HD-видео, HDMI, разъем для пульта ДУ</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Формат аккумуляторов</name>
+          <value>свой собственный</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>700 фотографий</value>
+        </item>
+      </items>
+      <items>
+        <name>Запись видео и звука</name>
+        <item>
+          <name>Запись видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Видеокодеки</name>
+          <value>MPEG4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение роликов</name>
+          <value>1280x720</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров видеоролика</name>
+          <value>30 кадров/с</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров при съемке HD-видео</name>
+          <value>25/30 кадров/с при разрешении 1280x720</value>
+        </item>
+        <item>
+          <name>Запись звука</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>крепление для штатива, управление с компьютера</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>аккумулятор, зарядное устройство, широкий ремень, интерфейсный кабель, диск с программным обеспечением, начальная инструкция по эксплуатации фотоаппарата</value>
+        </item>
+        <item>
+          <name>Дата анонсирования</name>
+          <value>2011-02-07</value>
+        </item>
+        <item>
+          <name>Дата начала продаж</name>
+          <value>2011-03-15</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размер</name>
+          <value>130x100x78 мм, без объектива</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>495 г, без элементов питания; без объектива</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="52782">
+    <title>Nikon D7000 Kit</title>
+    <model>D7000 Kit</model>
+    <marka>Nikon</marka>
+    <catalog id="100514">Цифровые фотоаппараты</catalog>
+    
+    <price1>25120</price1>
+    <price2>58958</price2>
+    <description>
+
+
+
+16.90 млн пикс., матрица: 23.6 х 15.6 мм, карты:
+SD, поддержка RAW, скорость съемки: 6 кадров/с, видео разрешением до 1920x1080, 690 г
+
+
+</description>
+    <specification>
+      <items>
+        <name>Матрица</name>
+        <item>
+          <name>Общее число пикселов</name>
+          <value>16.9 млн</value>
+        </item>
+        <item>
+          <name>Число эффективных пикселов</name>
+          <value>16.2 млн</value>
+        </item>
+        <item>
+          <name>Размер</name>
+          <value>APS-C (23.6 х 15.6 мм)</value>
+        </item>
+        <item>
+          <name>Кроп-фактор</name>
+          <value>1.5</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>4928 x 3264</value>
+        </item>
+        <item>
+          <name>Тип матрицы</name>
+          <value>CMOS</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>42 бит</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>100 - 6400 ISO, Auto ISO, ISO6400, ISO12800, ISO25600</value>
+        </item>
+        <item>
+          <name>Функция очистки матрицы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Баланс белого</name>
+          <value>автоматический, ручная установка, из списка, брекетинг</value>
+        </item>
+        <item>
+          <name>Вспышка</name>
+          <value>встроенная, до 12 м, подавление эффекта красных глаз, башмак, синхроконтакт, брекетинг, i-TTL</value>
+        </item>
+        <item>
+          <name>Стабилизатор изображения (фотосъемка)</name>
+          <value>отсутствует</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы съемки</name>
+        <item>
+          <name>Скорость съемки</name>
+          <value>6 кадр./сек</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Время работы таймера</name>
+          <value>2, 5, 10, 20 c</value>
+        </item>
+        <item>
+          <name>Формат кадра (фотосъемка)</name>
+          <value>3:2</value>
+        </item>
+      </items>
+      <items>
+        <name>Объектив</name>
+        <item>
+          <name>Поддержка сменных объективов</name>
+          <value>байонет Nikon F</value>
+        </item>
+        <item>
+          <name>Объектив в комплекте</name>
+          <value>есть, модель уточняйте у продавца</value>
+        </item>
+      </items>
+      <items>
+        <name>Видоискатель и ЖК-экран</name>
+        <item>
+          <name>Видоискатель</name>
+          <value>зеркальный (TTL)</value>
+        </item>
+        <item>
+          <name>Использование экрана в качестве видоискателя</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поле зрения видоискателя</name>
+          <value>100%</value>
+        </item>
+        <item>
+          <name>ЖК-экран</name>
+          <value>921600 точек, 3 дюйма</value>
+        </item>
+        <item>
+          <name>Второй экран</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Экспозиция</name>
+        <item>
+          <name>Выдержка</name>
+          <value>30 - 1/8000 с</value>
+        </item>
+        <item>
+          <name>Выдержка X-Sync</name>
+          <value>1/320 c</value>
+        </item>
+        <item>
+          <name>Ручная настройка выдержки и диафрагмы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая обработка экспозиции</name>
+          <value>с приоритетом затвора, с приоритетом диафрагмы</value>
+        </item>
+        <item>
+          <name>Экспокоррекция </name>
+          <value>+/- 5 EV с шагом 1/3 ступени</value>
+        </item>
+        <item>
+          <name>Замер экспозиции</name>
+          <value>3D цветовой матричный, центровзвешенный, точечный</value>
+        </item>
+        <item>
+          <name>Брекетинг экспозиции</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Фокусировка</name>
+        <item>
+          <name>Наличие "отвертки"</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Подсветка автофокуса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ручная фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Корректировка автофокуса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фокусировка по лицу</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и интерфейсы</name>
+        <item>
+          <name>Тип карт памяти</name>
+          <value>SD, SDHC, SDXC</value>
+        </item>
+        <item>
+          <name>Форматы изображения</name>
+          <value>3 JPEG, RAW</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0, видео, HD-видео, HDMI, аудио, разъем для пульта ДУ</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Формат аккумуляторов</name>
+          <value>свой собственный</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1050 фотографий</value>
+        </item>
+        <item>
+          <name>Батарейный блок</name>
+          <value>MB-D11</value>
+        </item>
+        <item>
+          <name>Разъем питания</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Запись видео и звука</name>
+        <item>
+          <name>Запись видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Формат записи видео</name>
+          <value>AVCHD</value>
+        </item>
+        <item>
+          <name>Видеокодеки</name>
+          <value>AVC/H.264, MPEG4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение роликов</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров видеоролика</name>
+          <value>30 кадров/с</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров при съемке HD-видео</name>
+          <value>25/30 кадров/с при разрешении 1280x720, 24 кадров/с при разрешении 1920x1080</value>
+        </item>
+        <item>
+          <name>Время записи видео</name>
+          <value>20 минут</value>
+        </item>
+        <item>
+          <name>Оптический Zoom при записи видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись звука</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл/пластик</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>крепление для штатива, дистанционное управление, датчик ориентации, управление с компьютера</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>два слота под карты памяти</value>
+        </item>
+        <item>
+          <name>Дата анонсирования</name>
+          <value>2010-09-15</value>
+        </item>
+        <item>
+          <name>Дата начала продаж</name>
+          <value>2010-10-01</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размер</name>
+          <value>132x105x77 мм, без объектива</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>690 г, без элементов питания, 780 г, с элементами питания; без объектива</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="52785">
+    <title>Canon EOS 60D Kit</title>
+    <model>EOS 60D Kit</model>
+    <marka>Canon</marka>
+    <catalog id="100514">Цифровые фотоаппараты</catalog>
+    
+    <price1>21896</price1>
+    <price2>56999</price2>
+    <description>
+
+
+
+19 млн пикс., матрица: 22.3 х 14.9 мм, карты:
+SD, поддержка RAW, скорость съемки: 5.30 кадров/с, видео разрешением до 1920x1080
+
+
+</description>
+    <specification>
+      <items>
+        <name>Матрица</name>
+        <item>
+          <name>Общее число пикселов</name>
+          <value>19 млн</value>
+        </item>
+        <item>
+          <name>Число эффективных пикселов</name>
+          <value>18 млн</value>
+        </item>
+        <item>
+          <name>Размер</name>
+          <value>APS-C (22.3 х 14.9 мм)</value>
+        </item>
+        <item>
+          <name>Кроп-фактор</name>
+          <value>1.6</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>5184 x 3456</value>
+        </item>
+        <item>
+          <name>Тип матрицы</name>
+          <value>CMOS</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>100 - 6400 ISO, Auto ISO, ISO6400, ISO12800</value>
+        </item>
+        <item>
+          <name>Функция очистки матрицы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Баланс белого</name>
+          <value>автоматический, ручная установка, из списка, брекетинг</value>
+        </item>
+        <item>
+          <name>Вспышка</name>
+          <value>встроенная, до 13 м, подавление эффекта красных глаз, башмак, синхроконтакт, брекетинг, E-TTL II</value>
+        </item>
+        <item>
+          <name>Стабилизатор изображения (фотосъемка)</name>
+          <value>отсутствует</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы съемки</name>
+        <item>
+          <name>Скорость съемки</name>
+          <value>5.3 кадр./сек</value>
+        </item>
+        <item>
+          <name>Максимальная серия снимков </name>
+          <value>58 для JPEG, 16 для RAW</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Время работы таймера</name>
+          <value>2, 10 c</value>
+        </item>
+        <item>
+          <name>Формат кадра (фотосъемка)</name>
+          <value>4:3, 3:2, 1:1, 16:9</value>
+        </item>
+      </items>
+      <items>
+        <name>Объектив</name>
+        <item>
+          <name>Поддержка сменных объективов</name>
+          <value>байонет Canon EF/EF-S</value>
+        </item>
+        <item>
+          <name>Объектив в комплекте</name>
+          <value>есть, модель уточняйте у продавца</value>
+        </item>
+      </items>
+      <items>
+        <name>Видоискатель и ЖК-экран</name>
+        <item>
+          <name>Видоискатель</name>
+          <value>зеркальный (TTL)</value>
+        </item>
+        <item>
+          <name>Использование экрана в качестве видоискателя</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поле зрения видоискателя</name>
+          <value>96%</value>
+        </item>
+        <item>
+          <name>ЖК-экран</name>
+          <value>1040000 точек, 3 дюйма</value>
+        </item>
+        <item>
+          <name>Тип ЖК-экрана</name>
+          <value> поворотный</value>
+        </item>
+        <item>
+          <name>Второй экран</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Экспозиция</name>
+        <item>
+          <name>Выдержка</name>
+          <value>30 - 1/8000 с</value>
+        </item>
+        <item>
+          <name>Выдержка X-Sync</name>
+          <value>1/250 c</value>
+        </item>
+        <item>
+          <name>Ручная настройка выдержки и диафрагмы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая обработка экспозиции</name>
+          <value>с приоритетом затвора, с приоритетом диафрагмы</value>
+        </item>
+        <item>
+          <name>Экспокоррекция </name>
+          <value>+/- 5 EV с шагом 1/3 ступени</value>
+        </item>
+        <item>
+          <name>Замер экспозиции</name>
+          <value>мультизонный, центровзвешенный, общий (Evaluative), точечный</value>
+        </item>
+        <item>
+          <name>Брекетинг экспозиции</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Фокусировка</name>
+        <item>
+          <name>Подсветка автофокуса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ручная фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фокусировка по лицу</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и интерфейсы</name>
+        <item>
+          <name>Тип карт памяти</name>
+          <value>SD, SDHC, SDXC</value>
+        </item>
+        <item>
+          <name>Форматы изображения</name>
+          <value>2 JPEG, RAW</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0, видео, HD-видео, HDMI, аудио, разъем для пульта ДУ</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Формат аккумуляторов</name>
+          <value>свой собственный</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1100 фотографий</value>
+        </item>
+      </items>
+      <items>
+        <name>Запись видео и звука</name>
+        <item>
+          <name>Запись видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Формат записи видео</name>
+          <value>MOV</value>
+        </item>
+        <item>
+          <name>Видеокодеки</name>
+          <value>MPEG4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение роликов</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров видеоролика</name>
+          <value>60 кадров/с</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров при съемке HD-видео</name>
+          <value>50/60 кадров/с при разрешении 1280x720, 25/30 кадров/с при разрешении 1920x1080</value>
+        </item>
+        <item>
+          <name>Запись звука</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись звуковых комментариев</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>крепление для штатива, дистанционное управление, датчик ориентации, управление с компьютера</value>
+        </item>
+        <item>
+          <name>Дата начала продаж</name>
+          <value>2010-09-30</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размер</name>
+          <value>145x106x79 мм, без объектива</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>755 г, с элементами питания; без объектива</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="52788">
+    <title>Nikon D90 Kit</title>
+    <model>D90 Kit</model>
+    <marka>Nikon</marka>
+    <catalog id="100514">Цифровые фотоаппараты</catalog>
+    
+    <price1>17647</price1>
+    <price2>54050</price2>
+    <description>
+
+
+
+12.90 млн пикс., матрица: 23.6 x 15.8 мм, карты:
+SD, поддержка RAW, скорость съемки: 4.50 кадров/с, видео разрешением до 1280x720, 620 г
+
+
+</description>
+    <specification>
+      <items>
+        <name>Матрица</name>
+        <item>
+          <name>Общее число пикселов</name>
+          <value>12.9 млн</value>
+        </item>
+        <item>
+          <name>Число эффективных пикселов</name>
+          <value>12.3 млн</value>
+        </item>
+        <item>
+          <name>Размер</name>
+          <value>APS-C (23.6 x 15.8 мм)</value>
+        </item>
+        <item>
+          <name>Кроп-фактор</name>
+          <value>1.5</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>4288 x 2848</value>
+        </item>
+        <item>
+          <name>Тип матрицы</name>
+          <value>CMOS</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>36 бит</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>100 - 3200 ISO, Auto ISO, ISO6400</value>
+        </item>
+        <item>
+          <name>Функция очистки матрицы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Баланс белого</name>
+          <value>автоматический, ручная установка, из списка, брекетинг</value>
+        </item>
+        <item>
+          <name>Вспышка</name>
+          <value>встроенная, подавление эффекта красных глаз, башмак, брекетинг, i-TTL</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы съемки</name>
+        <item>
+          <name>Скорость съемки</name>
+          <value>4.5 кадр./сек</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Время работы таймера</name>
+          <value>2, 5, 10, 20 c</value>
+        </item>
+        <item>
+          <name>Формат кадра (фотосъемка)</name>
+          <value>3:2</value>
+        </item>
+        <item>
+          <name>Время включения</name>
+          <value>0.15 c</value>
+        </item>
+      </items>
+      <items>
+        <name>Объектив</name>
+        <item>
+          <name>Поддержка сменных объективов</name>
+          <value>байонет Nikon F</value>
+        </item>
+        <item>
+          <name>Объектив в комплекте</name>
+          <value>есть, модель уточняйте у продавца</value>
+        </item>
+      </items>
+      <items>
+        <name>Видоискатель и ЖК-экран</name>
+        <item>
+          <name>Видоискатель</name>
+          <value>зеркальный (TTL)</value>
+        </item>
+        <item>
+          <name>Использование экрана в качестве видоискателя</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поле зрения видоискателя</name>
+          <value>96%</value>
+        </item>
+        <item>
+          <name>ЖК-экран</name>
+          <value>920000 точек, 3 дюйма</value>
+        </item>
+        <item>
+          <name>Второй экран</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Экспозиция</name>
+        <item>
+          <name>Выдержка</name>
+          <value>30 - 1/4000 с</value>
+        </item>
+        <item>
+          <name>Выдержка X-Sync</name>
+          <value>1/200 c</value>
+        </item>
+        <item>
+          <name>Ручная настройка выдержки и диафрагмы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая обработка экспозиции</name>
+          <value>с приоритетом затвора, с приоритетом диафрагмы</value>
+        </item>
+        <item>
+          <name>Экспокоррекция </name>
+          <value>+/- 5 EV с шагом 1/3 ступени</value>
+        </item>
+        <item>
+          <name>Замер экспозиции</name>
+          <value>3D цветовой матричный, центровзвешенный, точечный</value>
+        </item>
+        <item>
+          <name>Брекетинг экспозиции</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Фокусировка</name>
+        <item>
+          <name>Наличие "отвертки"</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Подсветка автофокуса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ручная фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фокусировка по лицу</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и интерфейсы</name>
+        <item>
+          <name>Тип карт памяти</name>
+          <value>SD, SDHC</value>
+        </item>
+        <item>
+          <name>Форматы изображения</name>
+          <value>3 JPEG, RAW</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0, видео, HDMI, аудио, разъем для пульта ДУ</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Формат аккумуляторов</name>
+          <value>свой собственный</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>850 фотографий</value>
+        </item>
+        <item>
+          <name>Батарейный блок</name>
+          <value>MB-D80</value>
+        </item>
+        <item>
+          <name>Разъем питания</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Запись видео и звука</name>
+        <item>
+          <name>Запись видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Формат записи видео</name>
+          <value>AVI</value>
+        </item>
+        <item>
+          <name>Видеокодеки</name>
+          <value>MJPEG</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение роликов</name>
+          <value>1280x720</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров видеоролика</name>
+          <value>24 кадров/с</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров при съемке HD-видео</name>
+          <value>24 кадров/с при разрешении 1280x720</value>
+        </item>
+        <item>
+          <name>Запись звука</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл/пластик</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>крепление для штатива, дистанционное управление, датчик ориентации, управление с компьютера</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>объектив(ы), аккумулятор, зарядное устройство, аудио/видеокабель, USB кабель, наглазник, ремень, защитная крышка, крышка окуляра, крышка башмака для принадлежностей, защитная крышка ЖКИ монитора, компакт-диск с ПО</value>
+        </item>
+        <item>
+          <name>Дата анонсирования</name>
+          <value>2008-08-27</value>
+        </item>
+        <item>
+          <name>Дата начала продаж</name>
+          <value>2008-09-01</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размер</name>
+          <value>132x103x77 мм, без объектива</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>620 г, без элементов питания; без объектива</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="52789">
+    <title>Canon EOS 600D Body</title>
+    <model>EOS 600D Body</model>
+    <marka>Canon</marka>
+    <catalog id="100514">Цифровые фотоаппараты</catalog>
+    
+    <price1>14849</price1>
+    <price2>28250</price2>
+    <description>
+
+
+
+18.70 млн пикс., матрица: 22.3 х 14.9 мм, карты:
+SD, поддержка RAW, скорость съемки: 3.70 кадров/с, видео разрешением до 1920x1080
+
+
+</description>
+    <specification>
+      <items>
+        <name>Матрица</name>
+        <item>
+          <name>Общее число пикселов</name>
+          <value>18.7 млн</value>
+        </item>
+        <item>
+          <name>Число эффективных пикселов</name>
+          <value>18 млн</value>
+        </item>
+        <item>
+          <name>Размер</name>
+          <value>APS-C (22.3 х 14.9 мм)</value>
+        </item>
+        <item>
+          <name>Кроп-фактор</name>
+          <value>1.6</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>5184 x 3456</value>
+        </item>
+        <item>
+          <name>Тип матрицы</name>
+          <value>CMOS</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>100 - 6400 ISO, Auto ISO, ISO6400, ISO12800</value>
+        </item>
+        <item>
+          <name>Функция очистки матрицы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Баланс белого</name>
+          <value>автоматический, ручная установка, из списка, брекетинг</value>
+        </item>
+        <item>
+          <name>Вспышка</name>
+          <value>встроенная, до 13 м, подавление эффекта красных глаз, башмак, брекетинг, E-TTL II</value>
+        </item>
+        <item>
+          <name>Стабилизатор изображения (фотосъемка)</name>
+          <value>отсутствует</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы съемки</name>
+        <item>
+          <name>Скорость съемки</name>
+          <value>3.7 кадр./сек</value>
+        </item>
+        <item>
+          <name>Максимальная серия снимков </name>
+          <value>34 для JPEG, 6 для RAW</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Время работы таймера</name>
+          <value>2, 10, 2 — 10 c</value>
+        </item>
+        <item>
+          <name>Формат кадра (фотосъемка)</name>
+          <value>4:3, 3:2, 1:1, 16:9</value>
+        </item>
+      </items>
+      <items>
+        <name>Объектив</name>
+        <item>
+          <name>Поддержка сменных объективов</name>
+          <value>байонет Canon EF/EF-S</value>
+        </item>
+        <item>
+          <name>Объектив в комплекте</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Видоискатель и ЖК-экран</name>
+        <item>
+          <name>Видоискатель</name>
+          <value>зеркальный (TTL)</value>
+        </item>
+        <item>
+          <name>Использование экрана в качестве видоискателя</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поле зрения видоискателя</name>
+          <value>95%</value>
+        </item>
+        <item>
+          <name>ЖК-экран</name>
+          <value>1040000 точек, 3 дюйма</value>
+        </item>
+        <item>
+          <name>Тип ЖК-экрана</name>
+          <value> поворотный</value>
+        </item>
+      </items>
+      <items>
+        <name>Экспозиция</name>
+        <item>
+          <name>Выдержка</name>
+          <value>30 - 1/4000 с</value>
+        </item>
+        <item>
+          <name>Выдержка X-Sync</name>
+          <value>1/200 c</value>
+        </item>
+        <item>
+          <name>Ручная настройка выдержки и диафрагмы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая обработка экспозиции</name>
+          <value>с приоритетом затвора, с приоритетом диафрагмы</value>
+        </item>
+        <item>
+          <name>Экспокоррекция </name>
+          <value>+/- 5 EV с шагом 1/3 ступени</value>
+        </item>
+        <item>
+          <name>Замер экспозиции</name>
+          <value>центровзвешенный, общий (Evaluative), точечный</value>
+        </item>
+        <item>
+          <name>Брекетинг экспозиции</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Фокусировка</name>
+        <item>
+          <name>Подсветка автофокуса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ручная фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фокусировка по лицу</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и интерфейсы</name>
+        <item>
+          <name>Тип карт памяти</name>
+          <value>SD, SDHC, SDXC</value>
+        </item>
+        <item>
+          <name>Форматы изображения</name>
+          <value>2 JPEG, RAW</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0, видео, HD-видео, HDMI, аудио, разъем для пульта ДУ</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Формат аккумуляторов</name>
+          <value>свой собственный</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1120 мА*ч или 440 фотографий</value>
+        </item>
+      </items>
+      <items>
+        <name>Запись видео и звука</name>
+        <item>
+          <name>Запись видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Формат записи видео</name>
+          <value>MOV</value>
+        </item>
+        <item>
+          <name>Видеокодеки</name>
+          <value>MPEG4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение роликов</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров видеоролика</name>
+          <value>60 кадров/с</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров при съемке HD-видео</name>
+          <value>50/60 кадров/с при разрешении 1280x720, 25/30 кадров/с при разрешении 1920x1080</value>
+        </item>
+        <item>
+          <name>Оптический Zoom при записи видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись звука</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>крепление для штатива, дистанционное управление, датчик ориентации, управление с компьютера</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>аккумуляторная батарея, зарядное устройство для аккумулятора, наплечный ремень, USB-кабель, A/V - кабель, компакт-диск с программным обеспечением, компакт-диск с руководством пользователя, инструкция по эксплуатации</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>разъем для подключения внешнего микрофона</value>
+        </item>
+        <item>
+          <name>Дата анонсирования</name>
+          <value>2011-02-07</value>
+        </item>
+        <item>
+          <name>Дата начала продаж</name>
+          <value>2011-03-15</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размер</name>
+          <value>133x100x80 мм, без объектива</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>515 г, без элементов питания, 570 г, с элементами питания; без объектива</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="52790">
+    <title>Nikon D3200 Kit</title>
+    <model>D3200 Kit</model>
+    <marka>Nikon</marka>
+    <catalog id="100514">Цифровые фотоаппараты</catalog>
+    
+    <price1>15900</price1>
+    <price2>45724</price2>
+    <description>
+
+
+
+24.70 млн пикс., матрица: 23.2 x 15.4 мм, карты:
+SD, поддержка RAW, скорость съемки: 4 кадров/с, видео разрешением до 1920x1080, 455 г
+
+
+</description>
+    <specification>
+      <items>
+        <name>Матрица</name>
+        <item>
+          <name>Общее число пикселов</name>
+          <value>24.7 млн</value>
+        </item>
+        <item>
+          <name>Число эффективных пикселов</name>
+          <value>24.2 млн</value>
+        </item>
+        <item>
+          <name>Размер</name>
+          <value>APS-C (23.2 x 15.4 мм)</value>
+        </item>
+        <item>
+          <name>Кроп-фактор</name>
+          <value>1.5</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>6016 x 4000</value>
+        </item>
+        <item>
+          <name>Тип матрицы</name>
+          <value>CMOS</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>36 бит</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>100 - 6400 ISO, Auto ISO, ISO6400, ISO12800</value>
+        </item>
+        <item>
+          <name>Функция очистки матрицы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Баланс белого</name>
+          <value>автоматический, ручная установка, из списка</value>
+        </item>
+        <item>
+          <name>Вспышка</name>
+          <value>встроенная, до 12 м, подавление эффекта красных глаз, башмак, i-TTL</value>
+        </item>
+        <item>
+          <name>Стабилизатор изображения (фотосъемка)</name>
+          <value>отсутствует</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы съемки</name>
+        <item>
+          <name>Скорость съемки</name>
+          <value>4 кадр./сек</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Время работы таймера</name>
+          <value>2, 5, 10, 20 c</value>
+        </item>
+        <item>
+          <name>Формат кадра (фотосъемка)</name>
+          <value>3:2</value>
+        </item>
+      </items>
+      <items>
+        <name>Объектив</name>
+        <item>
+          <name>Поддержка сменных объективов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Объектив в комплекте</name>
+          <value>есть, модель уточняйте у продавца</value>
+        </item>
+      </items>
+      <items>
+        <name>Видоискатель и ЖК-экран</name>
+        <item>
+          <name>Видоискатель</name>
+          <value>зеркальный (TTL)</value>
+        </item>
+        <item>
+          <name>Использование экрана в качестве видоискателя</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поле зрения видоискателя</name>
+          <value>95%</value>
+        </item>
+        <item>
+          <name>ЖК-экран</name>
+          <value>921000 точек, 3 дюйма</value>
+        </item>
+      </items>
+      <items>
+        <name>Экспозиция</name>
+        <item>
+          <name>Выдержка</name>
+          <value>30 - 1/4000 с</value>
+        </item>
+        <item>
+          <name>Выдержка X-Sync</name>
+          <value>1/200 c</value>
+        </item>
+        <item>
+          <name>Ручная настройка выдержки и диафрагмы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая обработка экспозиции</name>
+          <value>с приоритетом затвора, с приоритетом диафрагмы</value>
+        </item>
+        <item>
+          <name>Экспокоррекция </name>
+          <value>+/- 5 EV с шагом 1/3 ступени</value>
+        </item>
+        <item>
+          <name>Замер экспозиции</name>
+          <value>3D цветовой матричный, центровзвешенный, точечный</value>
+        </item>
+      </items>
+      <items>
+        <name>Фокусировка</name>
+        <item>
+          <name>Подсветка автофокуса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ручная фокусировка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и интерфейсы</name>
+        <item>
+          <name>Тип карт памяти</name>
+          <value>SD, SDHC, SDXC</value>
+        </item>
+        <item>
+          <name>Форматы изображения</name>
+          <value>JPEG, RAW</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0, видео, HDMI, аудио</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Формат аккумуляторов</name>
+          <value>свой собственный</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>540 фотографий</value>
+        </item>
+      </items>
+      <items>
+        <name>Запись видео и звука</name>
+        <item>
+          <name>Запись видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Формат записи видео</name>
+          <value>MOV</value>
+        </item>
+        <item>
+          <name>Видеокодеки</name>
+          <value>MPEG4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение роликов</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров видеоролика</name>
+          <value>60 кадров/с</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров при съемке HD-видео</name>
+          <value>50/60 кадров/с при разрешении 1280x720, 25/30 кадров/с при разрешении 1920x1080</value>
+        </item>
+        <item>
+          <name>Оптический Zoom при записи видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись звука</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись звуковых комментариев</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>крепление для штатива, дистанционное управление, датчик ориентации</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>литий-ионная аккумуляторная батарея EN-EL14 (с защитной крышкой), зарядное устройство MH-24, ремень AN-DC3, аудио-/видеокабель EG-CP14, USB-кабель UC-E17, крышка окуляра DK-5, крышка башмака для принадлежностей BS-1, резиновый наглазник DK-20, защитная крышка BF-1B, компакт-диск с программным обеспечением ViewNX 2, справочное руководство на компакт-диске</value>
+        </item>
+        <item>
+          <name>Дата начала продаж</name>
+          <value>2012-04-30</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размер</name>
+          <value>125x96x77 мм, без объектива</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>455 г, без элементов питания, 505 г, с элементами питания; без объектива</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="52792">
+    <title>Canon EOS 650D Kit</title>
+    <model>EOS 650D Kit</model>
+    <marka>Canon</marka>
+    <catalog id="100514">Цифровые фотоаппараты</catalog>
+    
+    <price1>18400</price1>
+    <price2>42500</price2>
+    <description>
+
+
+
+18.50 млн пикс., матрица: 22.3 х 14.9 мм, карты:
+SD, поддержка RAW, скорость съемки: 5 кадров/с, видео разрешением до 1920x1080
+
+
+</description>
+    <specification>
+      <items>
+        <name>Матрица</name>
+        <item>
+          <name>Общее число пикселов</name>
+          <value>18.5 млн</value>
+        </item>
+        <item>
+          <name>Число эффективных пикселов</name>
+          <value>18 млн</value>
+        </item>
+        <item>
+          <name>Размер</name>
+          <value>APS-C (22.3 х 14.9 мм)</value>
+        </item>
+        <item>
+          <name>Кроп-фактор</name>
+          <value>1.6</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>5184 x 3456</value>
+        </item>
+        <item>
+          <name>Тип матрицы</name>
+          <value>CMOS</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>100 - 3200 ISO, Auto ISO, ISO6400, ISO12800, ISO25600</value>
+        </item>
+        <item>
+          <name>Функция очистки матрицы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Баланс белого</name>
+          <value>автоматический, ручная установка, из списка, брекетинг</value>
+        </item>
+        <item>
+          <name>Вспышка</name>
+          <value>встроенная, до 13 м, подавление эффекта красных глаз, башмак, E-TTL II</value>
+        </item>
+        <item>
+          <name>Стабилизатор изображения (фотосъемка)</name>
+          <value>отсутствует</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы съемки</name>
+        <item>
+          <name>Скорость съемки</name>
+          <value>5 кадр./сек</value>
+        </item>
+        <item>
+          <name>Максимальная серия снимков </name>
+          <value>22 для JPEG, 6 для RAW</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Время работы таймера</name>
+          <value>2, 10 c</value>
+        </item>
+        <item>
+          <name>Формат кадра (фотосъемка)</name>
+          <value>4:3, 3:2, 1:1, 16:9</value>
+        </item>
+      </items>
+      <items>
+        <name>Объектив</name>
+        <item>
+          <name>Поддержка сменных объективов</name>
+          <value>байонет Canon EF/EF-S</value>
+        </item>
+        <item>
+          <name>Объектив в комплекте</name>
+          <value>есть, модель уточняйте у продавца</value>
+        </item>
+      </items>
+      <items>
+        <name>Видоискатель и ЖК-экран</name>
+        <item>
+          <name>Видоискатель</name>
+          <value>зеркальный (TTL)</value>
+        </item>
+        <item>
+          <name>Использование экрана в качестве видоискателя</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поле зрения видоискателя</name>
+          <value>95%</value>
+        </item>
+        <item>
+          <name>ЖК-экран</name>
+          <value>1040000 точек, 3 дюйма</value>
+        </item>
+        <item>
+          <name>Тип ЖК-экрана</name>
+          <value> поворотный, сенсорный</value>
+        </item>
+      </items>
+      <items>
+        <name>Экспозиция</name>
+        <item>
+          <name>Выдержка</name>
+          <value>30 - 1/4000 с</value>
+        </item>
+        <item>
+          <name>Выдержка X-Sync</name>
+          <value>1/200 c</value>
+        </item>
+        <item>
+          <name>Ручная настройка выдержки и диафрагмы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая обработка экспозиции</name>
+          <value>с приоритетом затвора, с приоритетом диафрагмы</value>
+        </item>
+        <item>
+          <name>Экспокоррекция </name>
+          <value>+/- 5 EV с шагом 1/3 ступени</value>
+        </item>
+        <item>
+          <name>Замер экспозиции</name>
+          <value>мультизонный, центровзвешенный, общий (Evaluative), точечный</value>
+        </item>
+        <item>
+          <name>Брекетинг экспозиции</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Фокусировка</name>
+        <item>
+          <name>Подсветка автофокуса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ручная фокусировка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и интерфейсы</name>
+        <item>
+          <name>Тип карт памяти</name>
+          <value>SD, SDHC, SDXC</value>
+        </item>
+        <item>
+          <name>Форматы изображения</name>
+          <value>2 JPEG, RAW</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0, видео, HDMI, аудио</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Формат аккумуляторов</name>
+          <value>свой собственный</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>440 фотографий</value>
+        </item>
+      </items>
+      <items>
+        <name>Запись видео и звука</name>
+        <item>
+          <name>Запись видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Формат записи видео</name>
+          <value>MOV</value>
+        </item>
+        <item>
+          <name>Видеокодеки</name>
+          <value>MPEG4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение роликов</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров видеоролика</name>
+          <value>60 кадров/с</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров при съемке HD-видео</name>
+          <value>50/60 кадров/с при разрешении 1280x720, 25/30 кадров/с при разрешении 1920x1080</value>
+        </item>
+        <item>
+          <name>Оптический Zoom при записи видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись звука</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись звуковых комментариев</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>крепление для штатива, дистанционное управление, датчик ориентации, cъемка HDR</value>
+        </item>
+        <item>
+          <name>Дата начала продаж</name>
+          <value>2012-06-30</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размер</name>
+          <value>133x100x79 мм, без объектива</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>575 г, с элементами питания; без объектива</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="52794">
+    <title>Canon EOS 60D Body</title>
+    <model>EOS 60D Body</model>
+    <marka>Canon</marka>
+    <catalog id="100514">Цифровые фотоаппараты</catalog>
+    
+    <price1>20050</price1>
+    <price2>43999</price2>
+    <description>
+
+
+
+19 млн пикс., матрица: 22.3 х 14.9 мм, карты:
+SD, поддержка RAW, скорость съемки: 5.30 кадров/с, видео разрешением до 1920x1080
+
+
+</description>
+    <specification>
+      <items>
+        <name>Матрица</name>
+        <item>
+          <name>Общее число пикселов</name>
+          <value>19 млн</value>
+        </item>
+        <item>
+          <name>Число эффективных пикселов</name>
+          <value>18 млн</value>
+        </item>
+        <item>
+          <name>Размер</name>
+          <value>APS-C (22.3 х 14.9 мм)</value>
+        </item>
+        <item>
+          <name>Кроп-фактор</name>
+          <value>1.6</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>5184 x 3456</value>
+        </item>
+        <item>
+          <name>Тип матрицы</name>
+          <value>CMOS</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>100 - 6400 ISO, Auto ISO, ISO6400, ISO12800</value>
+        </item>
+        <item>
+          <name>Функция очистки матрицы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Баланс белого</name>
+          <value>автоматический, ручная установка, из списка, брекетинг</value>
+        </item>
+        <item>
+          <name>Вспышка</name>
+          <value>встроенная, до 13 м, подавление эффекта красных глаз, башмак, синхроконтакт, брекетинг, E-TTL II</value>
+        </item>
+        <item>
+          <name>Стабилизатор изображения (фотосъемка)</name>
+          <value>отсутствует</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы съемки</name>
+        <item>
+          <name>Скорость съемки</name>
+          <value>5.3 кадр./сек</value>
+        </item>
+        <item>
+          <name>Максимальная серия снимков </name>
+          <value>58 для JPEG, 16 для RAW</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Время работы таймера</name>
+          <value>2, 10 c</value>
+        </item>
+        <item>
+          <name>Формат кадра (фотосъемка)</name>
+          <value>4:3, 3:2, 1:1, 16:9</value>
+        </item>
+      </items>
+      <items>
+        <name>Объектив</name>
+        <item>
+          <name>Поддержка сменных объективов</name>
+          <value>байонет Canon EF/EF-S</value>
+        </item>
+        <item>
+          <name>Объектив в комплекте</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Видоискатель и ЖК-экран</name>
+        <item>
+          <name>Видоискатель</name>
+          <value>зеркальный (TTL)</value>
+        </item>
+        <item>
+          <name>Использование экрана в качестве видоискателя</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поле зрения видоискателя</name>
+          <value>96%</value>
+        </item>
+        <item>
+          <name>ЖК-экран</name>
+          <value>1040000 точек, 3 дюйма</value>
+        </item>
+        <item>
+          <name>Тип ЖК-экрана</name>
+          <value> поворотный</value>
+        </item>
+        <item>
+          <name>Второй экран</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Экспозиция</name>
+        <item>
+          <name>Выдержка</name>
+          <value>30 - 1/8000 с</value>
+        </item>
+        <item>
+          <name>Выдержка X-Sync</name>
+          <value>1/250 c</value>
+        </item>
+        <item>
+          <name>Ручная настройка выдержки и диафрагмы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая обработка экспозиции</name>
+          <value>с приоритетом затвора, с приоритетом диафрагмы</value>
+        </item>
+        <item>
+          <name>Экспокоррекция </name>
+          <value>+/- 5 EV с шагом 1/3 ступени</value>
+        </item>
+        <item>
+          <name>Замер экспозиции</name>
+          <value>мультизонный, центровзвешенный, общий (Evaluative), точечный</value>
+        </item>
+        <item>
+          <name>Брекетинг экспозиции</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Фокусировка</name>
+        <item>
+          <name>Подсветка автофокуса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ручная фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фокусировка по лицу</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и интерфейсы</name>
+        <item>
+          <name>Тип карт памяти</name>
+          <value>SD, SDHC, SDXC</value>
+        </item>
+        <item>
+          <name>Форматы изображения</name>
+          <value>2 JPEG, RAW</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0, видео, HD-видео, HDMI, аудио, разъем для пульта ДУ</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Формат аккумуляторов</name>
+          <value>свой собственный</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1100 фотографий</value>
+        </item>
+      </items>
+      <items>
+        <name>Запись видео и звука</name>
+        <item>
+          <name>Запись видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Формат записи видео</name>
+          <value>MOV</value>
+        </item>
+        <item>
+          <name>Видеокодеки</name>
+          <value>MPEG4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение роликов</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров видеоролика</name>
+          <value>60 кадров/с</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров при съемке HD-видео</name>
+          <value>50/60 кадров/с при разрешении 1280x720, 25/30 кадров/с при разрешении 1920x1080</value>
+        </item>
+        <item>
+          <name>Запись звука</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись звуковых комментариев</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>крепление для штатива, дистанционное управление, датчик ориентации, управление с компьютера</value>
+        </item>
+        <item>
+          <name>Дата начала продаж</name>
+          <value>2010-09-30</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размер</name>
+          <value>145x106x79 мм, без объектива</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>755 г, с элементами питания; без объектива</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="52798">
+    <title>Canon EOS 7D Body</title>
+    <model>EOS 7D Body</model>
+    <marka>Canon</marka>
+    <catalog id="100514">Цифровые фотоаппараты</catalog>
+    
+    <price1>29700</price1>
+    <price2>55950</price2>
+    <description>
+
+
+
+19 млн пикс., матрица: 22.3 х 14.9 мм, карты:
+CompactFlash, CompactFlash II, поддержка RAW, скорость съемки: 8 кадров/с, видео разрешением до 1920x1080, 820 г
+
+
+</description>
+    <specification>
+      <items>
+        <name>Матрица</name>
+        <item>
+          <name>Общее число пикселов</name>
+          <value>19 млн</value>
+        </item>
+        <item>
+          <name>Число эффективных пикселов</name>
+          <value>18 млн</value>
+        </item>
+        <item>
+          <name>Размер</name>
+          <value>APS-C (22.3 х 14.9 мм)</value>
+        </item>
+        <item>
+          <name>Кроп-фактор</name>
+          <value>1.6</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>5184 x 3456</value>
+        </item>
+        <item>
+          <name>Тип матрицы</name>
+          <value>CMOS</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>42 бит</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>100 - 3200 ISO, Auto ISO, ISO6400, ISO12800</value>
+        </item>
+        <item>
+          <name>Функция очистки матрицы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Баланс белого</name>
+          <value>автоматический, ручная установка, из списка, брекетинг</value>
+        </item>
+        <item>
+          <name>Вспышка</name>
+          <value>встроенная, до 12 м, подавление эффекта красных глаз, башмак, синхроконтакт, брекетинг, E-TTL II</value>
+        </item>
+        <item>
+          <name>Стабилизатор изображения (фотосъемка)</name>
+          <value>отсутствует</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы съемки</name>
+        <item>
+          <name>Скорость съемки</name>
+          <value>8 кадр./сек</value>
+        </item>
+        <item>
+          <name>Максимальная серия снимков </name>
+          <value>126 для JPEG, 15 для RAW</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Время работы таймера</name>
+          <value>2,10 c</value>
+        </item>
+        <item>
+          <name>Формат кадра (фотосъемка)</name>
+          <value>3:2</value>
+        </item>
+        <item>
+          <name>Время включения</name>
+          <value>0.1 c</value>
+        </item>
+      </items>
+      <items>
+        <name>Объектив</name>
+        <item>
+          <name>Поддержка сменных объективов</name>
+          <value>байонет Canon EF/EF-S</value>
+        </item>
+        <item>
+          <name>Объектив в комплекте</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Видоискатель и ЖК-экран</name>
+        <item>
+          <name>Видоискатель</name>
+          <value>зеркальный (TTL)</value>
+        </item>
+        <item>
+          <name>Использование экрана в качестве видоискателя</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поле зрения видоискателя</name>
+          <value>100%</value>
+        </item>
+        <item>
+          <name>ЖК-экран</name>
+          <value>920000 точек, 3 дюйма</value>
+        </item>
+        <item>
+          <name>Второй экран</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Экспозиция</name>
+        <item>
+          <name>Выдержка</name>
+          <value>30 - 1/8000 с</value>
+        </item>
+        <item>
+          <name>Выдержка X-Sync</name>
+          <value>1/250 c</value>
+        </item>
+        <item>
+          <name>Ручная настройка выдержки и диафрагмы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая обработка экспозиции</name>
+          <value>с приоритетом затвора, с приоритетом диафрагмы</value>
+        </item>
+        <item>
+          <name>Экспокоррекция </name>
+          <value>+/- 5 EV с шагом 1/3 ступени</value>
+        </item>
+        <item>
+          <name>Замер экспозиции</name>
+          <value>центровзвешенный, общий (Evaluative), точечный</value>
+        </item>
+        <item>
+          <name>Брекетинг экспозиции</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Фокусировка</name>
+        <item>
+          <name>Подсветка автофокуса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ручная фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Корректировка автофокуса</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и интерфейсы</name>
+        <item>
+          <name>Тип карт памяти</name>
+          <value>CompactFlash, CompactFlash Type II</value>
+        </item>
+        <item>
+          <name>Максимальный объем карты памяти</name>
+          <value>32 Гб</value>
+        </item>
+        <item>
+          <name>Форматы изображения</name>
+          <value>3 JPEG, RAW</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0, видео, HDMI, аудио, разъем для пульта ДУ</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Формат аккумуляторов</name>
+          <value>свой собственный</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1800 мА*ч или 800 фотографий</value>
+        </item>
+        <item>
+          <name>Батарейный блок</name>
+          <value>BG-E7</value>
+        </item>
+      </items>
+      <items>
+        <name>Запись видео и звука</name>
+        <item>
+          <name>Запись видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Формат записи видео</name>
+          <value>MOV</value>
+        </item>
+        <item>
+          <name>Видеокодеки</name>
+          <value>MPEG4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение роликов</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров видеоролика</name>
+          <value>60 кадров/с</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров при съемке HD-видео</name>
+          <value>50/60 кадров/с при разрешении 1280x720, 25/30 кадров/с при разрешении 1920x1080</value>
+        </item>
+        <item>
+          <name>Время записи видео</name>
+          <value>размер видеофайла 4 Гб или 29 минут</value>
+        </item>
+        <item>
+          <name>Оптический Zoom при записи видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись звука</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись звуковых комментариев</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>крепление для штатива, дистанционное управление, датчик ориентации, влагонепроницаемый корпус, управление с компьютера</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>Li-ion аккумулятор, зарядное устройство, USB-кабель, видеокабель, ремешок, компакт-диск с программным обеспечением</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>возможность беспроводного подключения нескольких вспышек, поддержка sRaw</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размер</name>
+          <value>148x111x74 мм, без объектива</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>820 г, без элементов питания; без объектива</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="52801">
+    <title>Nikon 1 J1 Kit</title>
+    <model>1 J1 Kit</model>
+    <marka>Nikon</marka>
+    <catalog id="100514">Цифровые фотоаппараты</catalog>
+    
+    <price1>10990</price1>
+    <price2>20990</price2>
+    <description>
+
+
+
+12 млн пикс., матрица: 1&amp;quot;, карты:
+SD, поддержка RAW, скорость съемки: 60 кадров/с, видео разрешением до 1920x1080, 234 г
+
+
+</description>
+    <specification>
+      <items>
+        <name>Матрица</name>
+        <item>
+          <name>Общее число пикселов</name>
+          <value>12 млн</value>
+        </item>
+        <item>
+          <name>Число эффективных пикселов</name>
+          <value>10.1 млн</value>
+        </item>
+        <item>
+          <name>Размер</name>
+          <value>1" (13.2 x 8.8 мм)</value>
+        </item>
+        <item>
+          <name>Кроп-фактор</name>
+          <value>2.7</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>3872 x 2592</value>
+        </item>
+        <item>
+          <name>Тип матрицы</name>
+          <value>CMOS</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>100 - 3200 ISO, Auto ISO, ISO6400</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Баланс белого</name>
+          <value>автоматический, ручная установка, из списка</value>
+        </item>
+        <item>
+          <name>Вспышка</name>
+          <value>встроенная, до 5 м, подавление эффекта красных глаз, i-TTL</value>
+        </item>
+        <item>
+          <name>Стабилизатор изображения (фотосъемка)</name>
+          <value>отсутствует</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы съемки</name>
+        <item>
+          <name>Скорость съемки</name>
+          <value>60 кадр./сек</value>
+        </item>
+        <item>
+          <name>Максимальная серия снимков </name>
+          <value>13 для JPEG, 13 для RAW</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Время работы таймера</name>
+          <value>2, 5, 10 c</value>
+        </item>
+        <item>
+          <name>Формат кадра (фотосъемка)</name>
+          <value>4:3, 3:2, 16:9</value>
+        </item>
+      </items>
+      <items>
+        <name>Объектив</name>
+        <item>
+          <name>Поддержка сменных объективов</name>
+          <value>байонет Nikon 1</value>
+        </item>
+        <item>
+          <name>Объектив в комплекте</name>
+          <value>есть, модель уточняйте у продавца</value>
+        </item>
+      </items>
+      <items>
+        <name>Видоискатель и ЖК-экран</name>
+        <item>
+          <name>Видоискатель</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Использование экрана в качестве видоискателя</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>ЖК-экран</name>
+          <value>460000 точек, 3 дюйма</value>
+        </item>
+      </items>
+      <items>
+        <name>Экспозиция</name>
+        <item>
+          <name>Выдержка</name>
+          <value>30 - 1/16000 с</value>
+        </item>
+        <item>
+          <name>Ручная настройка выдержки и диафрагмы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая обработка экспозиции</name>
+          <value>с приоритетом затвора, с приоритетом диафрагмы</value>
+        </item>
+        <item>
+          <name>Экспокоррекция </name>
+          <value>+/- 3 EV с шагом 1/3 ступени</value>
+        </item>
+        <item>
+          <name>Замер экспозиции</name>
+          <value>3D цветовой матричный, центровзвешенный, точечный</value>
+        </item>
+      </items>
+      <items>
+        <name>Фокусировка</name>
+        <item>
+          <name>Подсветка автофокуса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ручная фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Корректировка автофокуса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фокусировка по лицу</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и интерфейсы</name>
+        <item>
+          <name>Тип карт памяти</name>
+          <value>SD, SDHC, SDXC</value>
+        </item>
+        <item>
+          <name>Форматы изображения</name>
+          <value>3 JPEG, RAW</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0, видео, HD-видео, HDMI, аудио</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Формат аккумуляторов</name>
+          <value>свой собственный</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1020 мА*ч или 230 фотографий</value>
+        </item>
+      </items>
+      <items>
+        <name>Запись видео и звука</name>
+        <item>
+          <name>Запись видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Формат записи видео</name>
+          <value>MOV</value>
+        </item>
+        <item>
+          <name>Видеокодеки</name>
+          <value>MPEG4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение роликов</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров видеоролика</name>
+          <value>1200 кадров/с</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров при съемке HD-видео</name>
+          <value>50/60 кадров/с при разрешении 1280x720, 25/30 кадров/с при разрешении 1920x1080</value>
+        </item>
+        <item>
+          <name>Оптический Zoom при записи видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись звука</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись звуковых комментариев</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл/пластик</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>крепление для штатива, дистанционное управление, датчик ориентации</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>зарядное устройство, аккумулятор EN-EL20, USB кабель, ремешок, диск с программным обеспечением</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>гибридный автофокус</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размер</name>
+          <value>106x61x30 мм, без объектива</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>234 г, без элементов питания, 277 г, с элементами питания; без объектива</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="52803">
+    <title>Nikon Coolpix L810</title>
+    <model>Coolpix L810</model>
+    <marka>Nikon</marka>
+    <catalog id="100514">Цифровые фотоаппараты</catalog>
+    
+    <price1>3590</price1>
+    <price2>6700</price2>
+    <description>
+
+
+
+16.44 млн пикс., матрица: 1/2.3&amp;quot;, 26х увеличение, диафрагма: F3.10 - 5.90, оптический стабилизатор, карты:
+SD, видео разрешением до 1280x720
+
+
+</description>
+    <specification>
+      <items>
+        <name>Матрица</name>
+        <item>
+          <name>Общее число пикселов</name>
+          <value>16.44 млн</value>
+        </item>
+        <item>
+          <name>Число эффективных пикселов</name>
+          <value>16.1 млн</value>
+        </item>
+        <item>
+          <name>Размер</name>
+          <value>1/2.3"</value>
+        </item>
+        <item>
+          <name>Кроп-фактор</name>
+          <value>5.62</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>4608 x 3456</value>
+        </item>
+        <item>
+          <name>Тип матрицы</name>
+          <value>СCD</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>80 - 1600 ISO, Auto ISO</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Баланс белого</name>
+          <value>автоматический</value>
+        </item>
+        <item>
+          <name>Вспышка</name>
+          <value>встроенная, подавление эффекта красных глаз</value>
+        </item>
+        <item>
+          <name>Стабилизатор изображения (фотосъемка)</name>
+          <value>оптический, подвижный элемент в объективе</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы съемки</name>
+        <item>
+          <name>Макросъёмка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим серийной съемки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Время работы таймера</name>
+          <value>2, 10 c</value>
+        </item>
+        <item>
+          <name>Формат кадра (фотосъемка)</name>
+          <value>4:3, 16:9</value>
+        </item>
+      </items>
+      <items>
+        <name>Объектив</name>
+        <item>
+          <name>Фокусное расстояние (35 мм эквивалент)</name>
+          <value>23 - 598 мм</value>
+        </item>
+        <item>
+          <name>Оптический Zoom</name>
+          <value>26x</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>F3.1 - F5.9</value>
+        </item>
+      </items>
+      <items>
+        <name>Видоискатель и ЖК-экран</name>
+        <item>
+          <name>Видоискатель</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Использование экрана в качестве видоискателя</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>ЖК-экран</name>
+          <value>921000 точек, 3 дюйма</value>
+        </item>
+      </items>
+      <items>
+        <name>Экспозиция</name>
+        <item>
+          <name>Ручная настройка выдержки и диафрагмы</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Экспокоррекция </name>
+          <value>+/- 2 EV с шагом 1/3 ступени</value>
+        </item>
+      </items>
+      <items>
+        <name>Фокусировка</name>
+        <item>
+          <name>Подсветка автофокуса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Минимальное расстояние съемки</name>
+          <value>0.01 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и интерфейсы</name>
+        <item>
+          <name>Тип карт памяти</name>
+          <value>SD, SDHC, SDXC</value>
+        </item>
+        <item>
+          <name>Объём встроенной памяти</name>
+          <value>50 Мб</value>
+        </item>
+        <item>
+          <name>Форматы изображения</name>
+          <value>JPEG</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0, видео, HDMI, аудио</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Формат аккумуляторов</name>
+          <value>AA-совмеcтимый</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>450 фотографий</value>
+        </item>
+      </items>
+      <items>
+        <name>Запись видео и звука</name>
+        <item>
+          <name>Запись видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение роликов</name>
+          <value>1280x720</value>
+        </item>
+        <item>
+          <name>Запись звука</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Цифровой Zoom</name>
+          <value>4x</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>крепление для штатива</value>
+        </item>
+        <item>
+          <name>Дата анонсирования</name>
+          <value>2012-02-01</value>
+        </item>
+        <item>
+          <name>Дата начала продаж</name>
+          <value>2012-02-15</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размер</name>
+          <value>111x76x83 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>430 г, с элементами питания</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="52809">
+    <title>Sony Alpha SLT-A65 Kit</title>
+    <model>Alpha SLT-A65 Kit</model>
+    <marka>Sony</marka>
+    <catalog id="100514">Цифровые фотоаппараты</catalog>
+    
+    <price1>21898</price1>
+    <price2>51490</price2>
+    <description>
+
+
+
+24.70 млн пикс., оптический стабилизатор, карты:
+Memory Stick Pro Duo, SD, поддержка RAW, скорость съемки: 10 кадров/с, видео разрешением до 1920x1080
+
+
+</description>
+    <specification>
+      <items>
+        <name>Матрица</name>
+        <item>
+          <name>Общее число пикселов</name>
+          <value>24.7 млн</value>
+        </item>
+        <item>
+          <name>Число эффективных пикселов</name>
+          <value>24.3 млн</value>
+        </item>
+        <item>
+          <name>Размер</name>
+          <value>APS-C (23.5 x 15.6 мм)</value>
+        </item>
+        <item>
+          <name>Кроп-фактор</name>
+          <value>1.5</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>6000 x 4000</value>
+        </item>
+        <item>
+          <name>Тип матрицы</name>
+          <value>CMOS</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>100 - 3200 ISO, Auto ISO, ISO6400, ISO12800</value>
+        </item>
+        <item>
+          <name>Функция очистки матрицы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Баланс белого</name>
+          <value>автоматический, ручная установка, из списка</value>
+        </item>
+        <item>
+          <name>Вспышка</name>
+          <value>встроенная, до 10 м, подавление эффекта красных глаз, башмак, брекетинг</value>
+        </item>
+        <item>
+          <name>Стабилизатор изображения (фотосъемка)</name>
+          <value>оптический, сдвиг матрицы</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы съемки</name>
+        <item>
+          <name>Скорость съемки</name>
+          <value>10 кадр./сек</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Время работы таймера</name>
+          <value>2, 10 c</value>
+        </item>
+        <item>
+          <name>Формат кадра (фотосъемка)</name>
+          <value>3:2, 16:9</value>
+        </item>
+      </items>
+      <items>
+        <name>Объектив</name>
+        <item>
+          <name>Поддержка сменных объективов</name>
+          <value>байонет Minolta A</value>
+        </item>
+        <item>
+          <name>Объектив в комплекте</name>
+          <value>есть, модель уточняйте у продавца</value>
+        </item>
+      </items>
+      <items>
+        <name>Видоискатель и ЖК-экран</name>
+        <item>
+          <name>Видоискатель</name>
+          <value>электронный</value>
+        </item>
+        <item>
+          <name>Использование экрана в качестве видоискателя</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поле зрения видоискателя</name>
+          <value>100%</value>
+        </item>
+        <item>
+          <name>Число пикселов видоискателя</name>
+          <value>2359000</value>
+        </item>
+        <item>
+          <name>ЖК-экран</name>
+          <value>921600 точек, 3 дюйма</value>
+        </item>
+        <item>
+          <name>Тип ЖК-экрана</name>
+          <value> поворотный</value>
+        </item>
+      </items>
+      <items>
+        <name>Экспозиция</name>
+        <item>
+          <name>Выдержка</name>
+          <value>30 - 1/4000 с</value>
+        </item>
+        <item>
+          <name>Выдержка X-Sync</name>
+          <value>1/160 c</value>
+        </item>
+        <item>
+          <name>Ручная настройка выдержки и диафрагмы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая обработка экспозиции</name>
+          <value>с приоритетом затвора, с приоритетом диафрагмы</value>
+        </item>
+        <item>
+          <name>Экспокоррекция </name>
+          <value>+/- 3 EV с шагом 1/3 ступени</value>
+        </item>
+        <item>
+          <name>Замер экспозиции</name>
+          <value>мультизонный, центровзвешенный, точечный</value>
+        </item>
+        <item>
+          <name>Брекетинг экспозиции</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Фокусировка</name>
+        <item>
+          <name>Подсветка автофокуса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ручная фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фокусировка по лицу</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и интерфейсы</name>
+        <item>
+          <name>Тип карт памяти</name>
+          <value>SD, SDHC, SDXC, Memory Stick Pro Duo</value>
+        </item>
+        <item>
+          <name>Форматы изображения</name>
+          <value>JPEG, RAW</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0, HD-видео, HDMI, разъем для пульта ДУ</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Формат аккумуляторов</name>
+          <value>свой собственный</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>510 фотографий</value>
+        </item>
+        <item>
+          <name>Разъем питания</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Запись видео и звука</name>
+        <item>
+          <name>Запись видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Формат записи видео</name>
+          <value>AVCHD, MP4</value>
+        </item>
+        <item>
+          <name>Видеокодеки</name>
+          <value>AVC/H.264, MPEG4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение роликов</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров видеоролика</name>
+          <value>60 кадров/с</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров при съемке HD-видео</name>
+          <value>50/60 кадров/с при разрешениях 1280x720 и 1920x1080</value>
+        </item>
+        <item>
+          <name>Оптический Zoom при записи видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись звука</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Цифровой Zoom</name>
+          <value>2x</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>крепление для штатива, дистанционное управление, датчик ориентации, cъемка HDR</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>режим панорамы, чувствительность по ISO до 16000</value>
+        </item>
+        <item>
+          <name>Дата анонсирования</name>
+          <value>2011-08-24</value>
+        </item>
+        <item>
+          <name>Дата начала продаж</name>
+          <value>2011-10-15</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размер</name>
+          <value>132x98x81 мм, без объектива</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>622 г, с элементами питания; без объектива</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="52812">
+    <title>Canon EOS 1100D Body</title>
+    <model>EOS 1100D Body</model>
+    <marka>Canon</marka>
+    <catalog id="100514">Цифровые фотоаппараты</catalog>
+    
+    <price1>10076</price1>
+    <price2>18490</price2>
+    <description>
+
+
+
+12.60 млн пикс., матрица: 22.2 х 14.7 мм, карты:
+SD, поддержка RAW, скорость съемки: 3 кадров/с, видео разрешением до 1280x720, 495 г
+
+
+</description>
+    <specification>
+      <items>
+        <name>Матрица</name>
+        <item>
+          <name>Общее число пикселов</name>
+          <value>12.6 млн</value>
+        </item>
+        <item>
+          <name>Число эффективных пикселов</name>
+          <value>12.2 млн</value>
+        </item>
+        <item>
+          <name>Размер</name>
+          <value>APS-C (22.2 х 14.7 мм)</value>
+        </item>
+        <item>
+          <name>Кроп-фактор</name>
+          <value>1.62</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>4272 x 2848</value>
+        </item>
+        <item>
+          <name>Тип матрицы</name>
+          <value>CMOS</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>100 - 6400 ISO, Auto ISO</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Баланс белого</name>
+          <value>автоматический, ручная установка, из списка</value>
+        </item>
+        <item>
+          <name>Вспышка</name>
+          <value>встроенная, до 9 м, подавление эффекта красных глаз, башмак, брекетинг, E-TTL II</value>
+        </item>
+        <item>
+          <name>Стабилизатор изображения (фотосъемка)</name>
+          <value>отсутствует</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы съемки</name>
+        <item>
+          <name>Скорость съемки</name>
+          <value>3 кадр./сек</value>
+        </item>
+        <item>
+          <name>Максимальная серия снимков </name>
+          <value>7 для JPEG</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Время работы таймера</name>
+          <value>2, 10, 2 — 10 c</value>
+        </item>
+        <item>
+          <name>Формат кадра (фотосъемка)</name>
+          <value>3:2</value>
+        </item>
+      </items>
+      <items>
+        <name>Объектив</name>
+        <item>
+          <name>Поддержка сменных объективов</name>
+          <value>байонет Canon EF/EF-S</value>
+        </item>
+        <item>
+          <name>Объектив в комплекте</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Видоискатель и ЖК-экран</name>
+        <item>
+          <name>Видоискатель</name>
+          <value>зеркальный (TTL)</value>
+        </item>
+        <item>
+          <name>Использование экрана в качестве видоискателя</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поле зрения видоискателя</name>
+          <value>95%</value>
+        </item>
+        <item>
+          <name>ЖК-экран</name>
+          <value>230000 точек, 2.70 дюйма</value>
+        </item>
+      </items>
+      <items>
+        <name>Экспозиция</name>
+        <item>
+          <name>Выдержка</name>
+          <value>30 - 1/4000 с</value>
+        </item>
+        <item>
+          <name>Выдержка X-Sync</name>
+          <value>1/200 c</value>
+        </item>
+        <item>
+          <name>Ручная настройка выдержки и диафрагмы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая обработка экспозиции</name>
+          <value>с приоритетом затвора, с приоритетом диафрагмы</value>
+        </item>
+        <item>
+          <name>Экспокоррекция </name>
+          <value>+/- 5 EV с шагом 1/3 ступени</value>
+        </item>
+        <item>
+          <name>Замер экспозиции</name>
+          <value>3D цветовой матричный, центровзвешенный, точечный</value>
+        </item>
+      </items>
+      <items>
+        <name>Фокусировка</name>
+        <item>
+          <name>Подсветка автофокуса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ручная фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фокусировка по лицу</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и интерфейсы</name>
+        <item>
+          <name>Тип карт памяти</name>
+          <value>SD, SDHC, SDXC</value>
+        </item>
+        <item>
+          <name>Форматы изображения</name>
+          <value>2 JPEG, RAW</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0, HD-видео, HDMI, разъем для пульта ДУ</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Формат аккумуляторов</name>
+          <value>свой собственный</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>700 фотографий</value>
+        </item>
+      </items>
+      <items>
+        <name>Запись видео и звука</name>
+        <item>
+          <name>Запись видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Видеокодеки</name>
+          <value>MPEG4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение роликов</name>
+          <value>1280x720</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров видеоролика</name>
+          <value>30 кадров/с</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров при съемке HD-видео</name>
+          <value>25/30 кадров/с при разрешении 1280x720</value>
+        </item>
+        <item>
+          <name>Запись звука</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>крепление для штатива, управление с компьютера</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>аккумулятор, зарядное устройство, широкий ремень, интерфейсный кабель, диск с программным обеспечением, начальная инструкция по эксплуатации фотоаппарата</value>
+        </item>
+        <item>
+          <name>Дата анонсирования</name>
+          <value>2011-02-07</value>
+        </item>
+        <item>
+          <name>Дата начала продаж</name>
+          <value>2011-03-15</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размер</name>
+          <value>130x100x78 мм, без объектива</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>495 г, без элементов питания; без объектива</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="52813">
+    <title>Nikon D90 Body</title>
+    <model>D90 Body</model>
+    <marka>Nikon</marka>
+    <catalog id="100514">Цифровые фотоаппараты</catalog>
+    
+    <price1>18000</price1>
+    <price2>25410</price2>
+    <description>
+
+
+
+12.90 млн пикс., матрица: 23.6 x 15.8 мм, карты:
+SD, поддержка RAW, скорость съемки: 4 кадров/с, видео разрешением до 1280x720, 620 г
+
+
+</description>
+    <specification>
+      <items>
+        <name>Матрица</name>
+        <item>
+          <name>Общее число пикселов</name>
+          <value>12.9 млн</value>
+        </item>
+        <item>
+          <name>Число эффективных пикселов</name>
+          <value>12.3 млн</value>
+        </item>
+        <item>
+          <name>Размер</name>
+          <value>APS-C (23.6 x 15.8 мм)</value>
+        </item>
+        <item>
+          <name>Кроп-фактор</name>
+          <value>1.5</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>4288 x 2848</value>
+        </item>
+        <item>
+          <name>Тип матрицы</name>
+          <value>CMOS</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>36 бит</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>100 - 3200 ISO, Auto ISO, ISO6400</value>
+        </item>
+        <item>
+          <name>Функция очистки матрицы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Баланс белого</name>
+          <value>автоматический, ручная установка, из списка, брекетинг</value>
+        </item>
+        <item>
+          <name>Вспышка</name>
+          <value>встроенная, подавление эффекта красных глаз, башмак, брекетинг, i-TTL</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы съемки</name>
+        <item>
+          <name>Скорость съемки</name>
+          <value>4.5 кадр./сек</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Время работы таймера</name>
+          <value>2, 5, 10, 20 c</value>
+        </item>
+        <item>
+          <name>Формат кадра (фотосъемка)</name>
+          <value>3:2</value>
+        </item>
+        <item>
+          <name>Время включения</name>
+          <value>0.15 c</value>
+        </item>
+      </items>
+      <items>
+        <name>Объектив</name>
+        <item>
+          <name>Поддержка сменных объективов</name>
+          <value>байонет Nikon F</value>
+        </item>
+        <item>
+          <name>Объектив в комплекте</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Видоискатель и ЖК-экран</name>
+        <item>
+          <name>Видоискатель</name>
+          <value>зеркальный (TTL)</value>
+        </item>
+        <item>
+          <name>Использование экрана в качестве видоискателя</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поле зрения видоискателя</name>
+          <value>96%</value>
+        </item>
+        <item>
+          <name>ЖК-экран</name>
+          <value>920000 точек, 3 дюйма</value>
+        </item>
+        <item>
+          <name>Второй экран</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Экспозиция</name>
+        <item>
+          <name>Выдержка</name>
+          <value>30 - 1/4000 с</value>
+        </item>
+        <item>
+          <name>Выдержка X-Sync</name>
+          <value>1/200 c</value>
+        </item>
+        <item>
+          <name>Ручная настройка выдержки и диафрагмы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая обработка экспозиции</name>
+          <value>с приоритетом затвора, с приоритетом диафрагмы</value>
+        </item>
+        <item>
+          <name>Экспокоррекция </name>
+          <value>+/- 5 EV с шагом 1/3 ступени</value>
+        </item>
+        <item>
+          <name>Замер экспозиции</name>
+          <value>3D цветовой матричный, центровзвешенный, точечный</value>
+        </item>
+        <item>
+          <name>Брекетинг экспозиции</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Фокусировка</name>
+        <item>
+          <name>Наличие "отвертки"</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Подсветка автофокуса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ручная фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фокусировка по лицу</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и интерфейсы</name>
+        <item>
+          <name>Тип карт памяти</name>
+          <value>SD, SDHC</value>
+        </item>
+        <item>
+          <name>Форматы изображения</name>
+          <value>3 JPEG, RAW</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0, видео, HDMI, аудио, разъем для пульта ДУ</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Формат аккумуляторов</name>
+          <value>свой собственный</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>850 фотографий</value>
+        </item>
+        <item>
+          <name>Батарейный блок</name>
+          <value>MB-D80</value>
+        </item>
+        <item>
+          <name>Разъем питания</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Запись видео и звука</name>
+        <item>
+          <name>Запись видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Формат записи видео</name>
+          <value>AVI</value>
+        </item>
+        <item>
+          <name>Видеокодеки</name>
+          <value>MJPEG</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение роликов</name>
+          <value>1280x720</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров видеоролика</name>
+          <value>24 кадров/с</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров при съемке HD-видео</name>
+          <value>24 кадров/с при разрешении 1280x720</value>
+        </item>
+        <item>
+          <name>Запись звука</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл/пластик</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>крепление для штатива, дистанционное управление, датчик ориентации, управление с компьютера</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>аккумулятор, зарядное устройство, аудио/видеокабель, USB кабель, наглазник, ремень, защитная крышка, крышка окуляра, крышка башмака для принадлежностей, защитная крышка ЖКИ монитора, компакт-диск с ПО</value>
+        </item>
+        <item>
+          <name>Дата анонсирования</name>
+          <value>2008-08-27</value>
+        </item>
+        <item>
+          <name>Дата начала продаж</name>
+          <value>2008-09-01</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размер</name>
+          <value>132x103x77 мм, без объектива</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>620 г, без элементов питания; без объектива</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="52814">
+    <title>Nikon Coolpix P7100</title>
+    <model>Coolpix P7100</model>
+    <marka>Nikon</marka>
+    <catalog id="100514">Цифровые фотоаппараты</catalog>
+    
+    <price1>10900</price1>
+    <price2>19999</price2>
+    <description>
+
+
+
+10.39 млн пикс., матрица: 1/1.7&amp;quot;, 7.10х увеличение, диафрагма: F2.80 - 5.60, карты:
+SD, поддержка RAW, скорость съемки: 1.20 кадров/с, видео разрешением до 1280x720
+
+
+</description>
+    <specification>
+      <items>
+        <name>Матрица</name>
+        <item>
+          <name>Общее число пикселов</name>
+          <value>10.39 млн</value>
+        </item>
+        <item>
+          <name>Число эффективных пикселов</name>
+          <value>10.1 млн</value>
+        </item>
+        <item>
+          <name>Размер</name>
+          <value>1/1.7"</value>
+        </item>
+        <item>
+          <name>Кроп-фактор</name>
+          <value>4.55</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>3648 x 2432</value>
+        </item>
+        <item>
+          <name>Тип матрицы</name>
+          <value>СCD</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>100 - 800 ISO, Auto ISO, ISO6400, ISO12800</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Баланс белого</name>
+          <value>автоматический, ручная установка, из списка, брекетинг</value>
+        </item>
+        <item>
+          <name>Вспышка</name>
+          <value>встроенная, до 9 м, подавление эффекта красных глаз, башмак</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы съемки</name>
+        <item>
+          <name>Макросъёмка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Скорость съемки</name>
+          <value>1.2 кадр./сек</value>
+        </item>
+      </items>
+      <items>
+        <name>Объектив</name>
+        <item>
+          <name>Фокусное расстояние (35 мм эквивалент)</name>
+          <value>28 - 198.80 мм</value>
+        </item>
+        <item>
+          <name>Оптический Zoom</name>
+          <value>7.10x</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>F2.8 - F5.6</value>
+        </item>
+        <item>
+          <name>Число оптических элементов</name>
+          <value>11</value>
+        </item>
+        <item>
+          <name>Число групп оптических элементов</name>
+          <value>9</value>
+        </item>
+      </items>
+      <items>
+        <name>Видоискатель и ЖК-экран</name>
+        <item>
+          <name>Видоискатель</name>
+          <value>оптический</value>
+        </item>
+        <item>
+          <name>Использование экрана в качестве видоискателя</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>ЖК-экран</name>
+          <value>921600 точек, 3 дюйма</value>
+        </item>
+        <item>
+          <name>Тип ЖК-экрана</name>
+          <value> поворотный</value>
+        </item>
+      </items>
+      <items>
+        <name>Экспозиция</name>
+        <item>
+          <name>Выдержка</name>
+          <value>60 - 1/4000 с</value>
+        </item>
+        <item>
+          <name>Ручная настройка выдержки и диафрагмы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая обработка экспозиции</name>
+          <value>с приоритетом затвора, с приоритетом диафрагмы</value>
+        </item>
+        <item>
+          <name>Экспокоррекция </name>
+          <value>+/- 3 EV с шагом 1/3 ступени</value>
+        </item>
+        <item>
+          <name>Замер экспозиции</name>
+          <value>3D цветовой матричный, центровзвешенный, точечный</value>
+        </item>
+      </items>
+      <items>
+        <name>Фокусировка</name>
+        <item>
+          <name>Подсветка автофокуса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ручная фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Минимальное расстояние съемки</name>
+          <value>0.02 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и интерфейсы</name>
+        <item>
+          <name>Тип карт памяти</name>
+          <value>SD, SDHC, SDXC</value>
+        </item>
+        <item>
+          <name>Объём встроенной памяти</name>
+          <value>94 Мб</value>
+        </item>
+        <item>
+          <name>Форматы изображения</name>
+          <value>JPEG, RAW</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0, видео, HDMI, аудио, IRDA</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Формат аккумуляторов</name>
+          <value>свой собственный</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1030 мА*ч или 450 фотографий</value>
+        </item>
+      </items>
+      <items>
+        <name>Запись видео и звука</name>
+        <item>
+          <name>Запись видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Формат записи видео</name>
+          <value>MOV</value>
+        </item>
+        <item>
+          <name>Видеокодеки</name>
+          <value>MPEG4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение роликов</name>
+          <value>1280x720</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров видеоролика</name>
+          <value>24 кадров/с</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров при съемке HD-видео</name>
+          <value>24 кадров/с при разрешении 1280x720</value>
+        </item>
+        <item>
+          <name>Запись звука</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>крепление для штатива</value>
+        </item>
+        <item>
+          <name>Дата анонсирования</name>
+          <value>2011-08-24</value>
+        </item>
+        <item>
+          <name>Дата начала продаж</name>
+          <value>2011-09-15</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размер</name>
+          <value>117x77x48 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>395 г, с элементами питания</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="52817">
+    <title>Canon PowerShot SX240 HS</title>
+    <model>PowerShot SX240 HS</model>
+    <marka>Canon</marka>
+    <catalog id="100514">Цифровые фотоаппараты</catalog>
+    
+    <price1>3999</price1>
+    <price2>10500</price2>
+    <description>
+
+
+
+12.10 млн пикс., матрица: 1/2.3&amp;quot;, 20х увеличение, диафрагма: F3.50 - 6.80, оптический стабилизатор, карты:
+SD, скорость съемки: 10.30 кадров/с, видео разрешением до 1920x1080
+
+
+</description>
+    <specification>
+      <items>
+        <name>Матрица</name>
+        <item>
+          <name>Общее число пикселов</name>
+          <value>12.1 млн</value>
+        </item>
+        <item>
+          <name>Число эффективных пикселов</name>
+          <value>12.1 млн</value>
+        </item>
+        <item>
+          <name>Размер</name>
+          <value>1/2.3"</value>
+        </item>
+        <item>
+          <name>Кроп-фактор</name>
+          <value>5.62</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>4000 x 3000</value>
+        </item>
+        <item>
+          <name>Тип матрицы</name>
+          <value>BSI CMOS</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>100 - 1600 ISO, Auto ISO</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Баланс белого</name>
+          <value>автоматический, ручная установка, из списка</value>
+        </item>
+        <item>
+          <name>Вспышка</name>
+          <value>встроенная, до 3.50 м, подавление эффекта красных глаз</value>
+        </item>
+        <item>
+          <name>Стабилизатор изображения (фотосъемка)</name>
+          <value>оптический, подвижный элемент в объективе</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы съемки</name>
+        <item>
+          <name>Макросъёмка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Скорость съемки</name>
+          <value>10.3 кадр./сек</value>
+        </item>
+        <item>
+          <name>Максимальная серия снимков </name>
+          <value>10 для JPEG</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Время работы таймера</name>
+          <value>2, 10, пользовательский c</value>
+        </item>
+        <item>
+          <name>Формат кадра (фотосъемка)</name>
+          <value>4:3, 3:2, 1:1, 16:9</value>
+        </item>
+      </items>
+      <items>
+        <name>Объектив</name>
+        <item>
+          <name>Фокусное расстояние (35 мм эквивалент)</name>
+          <value>25 - 500 мм</value>
+        </item>
+        <item>
+          <name>Оптический Zoom</name>
+          <value>20x</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>F3.5 - F6.8</value>
+        </item>
+        <item>
+          <name>Число оптических элементов</name>
+          <value>12</value>
+        </item>
+        <item>
+          <name>Число групп оптических элементов</name>
+          <value>10</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>асферические линзы, низкодисперсные линзы</value>
+        </item>
+      </items>
+      <items>
+        <name>Видоискатель и ЖК-экран</name>
+        <item>
+          <name>Видоискатель</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Использование экрана в качестве видоискателя</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>ЖК-экран</name>
+          <value>461000 точек, 3 дюйма</value>
+        </item>
+      </items>
+      <items>
+        <name>Экспозиция</name>
+        <item>
+          <name>Выдержка</name>
+          <value>15 - 1/3200 с</value>
+        </item>
+        <item>
+          <name>Ручная настройка выдержки и диафрагмы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая обработка экспозиции</name>
+          <value>с приоритетом затвора</value>
+        </item>
+        <item>
+          <name>Экспокоррекция </name>
+          <value>+/- 2 EV с шагом 1/3 ступени</value>
+        </item>
+        <item>
+          <name>Замер экспозиции</name>
+          <value>центровзвешенный, общий (Evaluative), точечный</value>
+        </item>
+      </items>
+      <items>
+        <name>Фокусировка</name>
+        <item>
+          <name>Подсветка автофокуса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ручная фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фокусировка по лицу</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Минимальное расстояние съемки</name>
+          <value>0.05 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и интерфейсы</name>
+        <item>
+          <name>Тип карт памяти</name>
+          <value>SD, SDHC, SDXC</value>
+        </item>
+        <item>
+          <name>Форматы изображения</name>
+          <value>JPEG</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0, видео, HDMI, аудио</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Формат аккумуляторов</name>
+          <value>свой собственный</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>220 фотографий</value>
+        </item>
+      </items>
+      <items>
+        <name>Запись видео и звука</name>
+        <item>
+          <name>Запись видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Формат записи видео</name>
+          <value>MOV</value>
+        </item>
+        <item>
+          <name>Видеокодеки</name>
+          <value>MPEG4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение роликов</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров видеоролика</name>
+          <value>240 кадров/с</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров при съемке HD-видео</name>
+          <value>25/30 кадров/с при разрешении 1280x720, 24 кадров/с при разрешении 1920x1080</value>
+        </item>
+        <item>
+          <name>Запись звука</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Цифровой Zoom</name>
+          <value>4x</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>крепление для штатива</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размер</name>
+          <value>106x61x33 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>224 г, с элементами питания</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="52819">
+    <title>Sony Cyber-shot DSC-WX50</title>
+    <model>Cyber-shot DSC-WX50</model>
+    <marka>Sony</marka>
+    <catalog id="100514">Цифровые фотоаппараты</catalog>
+    
+    <price1>4936</price1>
+    <price2>8790</price2>
+    <description>
+
+
+
+16.80 млн пикс., матрица: 1/2.3&amp;quot;, 5х увеличение, диафрагма: F2.60 - 6.30, оптический стабилизатор, съемка 3D, карты:
+Memory Stick Duo, Memory Stick Pro Duo, SD, скорость съемки: 10 кадров/с, видео разрешением до 1920x1080
+
+
+</description>
+    <specification>
+      <items>
+        <name>Матрица</name>
+        <item>
+          <name>Общее число пикселов</name>
+          <value>16.8 млн</value>
+        </item>
+        <item>
+          <name>Число эффективных пикселов</name>
+          <value>16.2 млн</value>
+        </item>
+        <item>
+          <name>Размер</name>
+          <value>1/2.3"</value>
+        </item>
+        <item>
+          <name>Кроп-фактор</name>
+          <value>5.62</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>4608 x 3456</value>
+        </item>
+        <item>
+          <name>Тип матрицы</name>
+          <value>CMOS</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>100 - 3200 ISO, Auto ISO, ISO6400, ISO12800</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Съемка 3D</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Баланс белого</name>
+          <value>автоматический, из списка</value>
+        </item>
+        <item>
+          <name>Вспышка</name>
+          <value>встроенная, до 5.30 м, подавление эффекта красных глаз</value>
+        </item>
+        <item>
+          <name>Стабилизатор изображения (фотосъемка)</name>
+          <value>оптический</value>
+        </item>
+      </items>
+      <items>
+        <name>Режимы съемки</name>
+        <item>
+          <name>Макросъёмка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Скорость съемки</name>
+          <value>10 кадр./сек</value>
+        </item>
+        <item>
+          <name>Максимальная серия снимков </name>
+          <value>10 для JPEG</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Время работы таймера</name>
+          <value>2, 10 c</value>
+        </item>
+        <item>
+          <name>Формат кадра (фотосъемка)</name>
+          <value>4:3, 16:9</value>
+        </item>
+      </items>
+      <items>
+        <name>Объектив</name>
+        <item>
+          <name>Фокусное расстояние (35 мм эквивалент)</name>
+          <value>25 - 125 мм</value>
+        </item>
+        <item>
+          <name>Оптический Zoom</name>
+          <value>5x</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>F2.6 - F6.3</value>
+        </item>
+        <item>
+          <name>Число оптических элементов</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Число групп оптических элементов</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>асферические линзы</value>
+        </item>
+      </items>
+      <items>
+        <name>Видоискатель и ЖК-экран</name>
+        <item>
+          <name>Видоискатель</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Использование экрана в качестве видоискателя</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>ЖК-экран</name>
+          <value>460800 точек, 2.70 дюйма</value>
+        </item>
+      </items>
+      <items>
+        <name>Экспозиция</name>
+        <item>
+          <name>Выдержка</name>
+          <value>4 - 1/1600 с</value>
+        </item>
+        <item>
+          <name>Ручная настройка выдержки и диафрагмы</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Экспокоррекция </name>
+          <value>+/- 2 EV с шагом 1/3 ступени</value>
+        </item>
+        <item>
+          <name>Замер экспозиции</name>
+          <value>мультизонный, центровзвешенный, точечный</value>
+        </item>
+      </items>
+      <items>
+        <name>Фокусировка</name>
+        <item>
+          <name>Подсветка автофокуса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фокусировка по лицу</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Минимальное расстояние съемки</name>
+          <value>0.05 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и интерфейсы</name>
+        <item>
+          <name>Тип карт памяти</name>
+          <value>SD, SDHC, SDXC, Memory Stick Duo, Memory Stick Pro Duo</value>
+        </item>
+        <item>
+          <name>Объём встроенной памяти</name>
+          <value>19 Мб</value>
+        </item>
+        <item>
+          <name>Форматы изображения</name>
+          <value>JPEG</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0, видео, HDMI, аудио</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Формат аккумуляторов</name>
+          <value>свой собственный</value>
+        </item>
+        <item>
+          <name>Количество аккумуляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>240 фотографий</value>
+        </item>
+      </items>
+      <items>
+        <name>Запись видео и звука</name>
+        <item>
+          <name>Запись видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Формат записи видео</name>
+          <value>AVCHD, AVI</value>
+        </item>
+        <item>
+          <name>Видеокодеки</name>
+          <value>AVC/H.264, MPEG4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение роликов</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров видеоролика</name>
+          <value>60 кадров/с</value>
+        </item>
+        <item>
+          <name>Максимальная частота кадров при съемке HD-видео</name>
+          <value>25/30 кадров/с при разрешении 1280x720, 50/60 кадров/с при разрешении 1920x1080</value>
+        </item>
+        <item>
+          <name>Оптический Zoom при записи видео</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись звука</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и особенности</name>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>крепление для штатива, cъемка HDR</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>режим панорамы</value>
+        </item>
+        <item>
+          <name>Дата анонсирования</name>
+          <value>2012-01-29</value>
+        </item>
+        <item>
+          <name>Дата начала продаж</name>
+          <value>2012-03-15</value>
+        </item>
+      </items>
+      <items>
+        <name>Размеры и вес</name>
+        <item>
+          <name>Размер</name>
+          <value>92x52x19 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>117 г, с элементами питания</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

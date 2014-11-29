@@ -1,0 +1,3110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="115555">
+    <title>NEC V260</title>
+    <model>V260</model>
+    <marka>NEC</marka>
+    <catalog id="285600">Мультимедиа проекторы</catalog>
+    
+    <price1>11100</price1>
+    <price2>24242</price2>
+    <description>
+
+портативный, DLP, разрешение: 800x600, 3D, яркость: 2600 люмен, контрастность: 2000:1, вес: 2.5 кг
+</description>
+    <specification>
+      <items>
+        <name>Основное</name>
+        <item>
+          <name>Класс устройства</name>
+          <value>портативный</value>
+        </item>
+        <item>
+          <name>Тип устройства</name>
+          <value>DLP</value>
+        </item>
+        <item>
+          <name>Рекомендуемая область применения</name>
+          <value>для офиса</value>
+        </item>
+        <item>
+          <name>Реальное разрешение</name>
+          <value>800x600</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Лампа</name>
+        <item>
+          <name>Срок службы лампы</name>
+          <value>3500 часов</value>
+        </item>
+        <item>
+          <name>Срок службы лампы в экономичном режиме</name>
+          <value>5000 часов</value>
+        </item>
+        <item>
+          <name>Количество ламп</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность лампы</name>
+          <value>180 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Проекция</name>
+        <item>
+          <name>Проекционное расстояние</name>
+          <value>1.2 - 13 м</value>
+        </item>
+        <item>
+          <name>Размеры по диагонали</name>
+          <value>от 0.76 до 7.62 м</value>
+        </item>
+        <item>
+          <name>Отношение расстояния к размеру изображения</name>
+          <value>1.95:1 - 2.15:1</value>
+        </item>
+        <item>
+          <name>Частота строчной развертки</name>
+          <value>15 - 100 кГц</value>
+        </item>
+        <item>
+          <name>Частота кадровой развертки</name>
+          <value>50 - 120 Гц</value>
+        </item>
+        <item>
+          <name>Масштабирование оптическое</name>
+          <value>1.1x</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Контрастность</name>
+          <value>2000:1</value>
+        </item>
+        <item>
+          <name>Световой поток</name>
+          <value>2600 люмен</value>
+        </item>
+        <item>
+          <name>Коррекция трапецеидальных искажений</name>
+          <value>есть (вертикальная)</value>
+        </item>
+        <item>
+          <name>Поддерживаемые системы вещания</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>VGA, S-Video, композитный, компонентный, аудио mini jack</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>VGA</value>
+        </item>
+        <item>
+          <name>Порты</name>
+          <value>RS-232</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>310x95x247 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.5 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Встроенные громкоговорители</name>
+          <value>1 x 7 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>34 дБ</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115556">
+    <title>BenQ MX711</title>
+    <model>MX711</model>
+    <marka>BenQ</marka>
+    <catalog id="285600">Мультимедиа проекторы</catalog>
+    
+    <price1>24400</price1>
+    <price2>30838</price2>
+    <description>
+
+портативный, DLP, разрешение: 1024x768, 3D, яркость: 3200 люмен, контрастность: 5300:1, Ethernet, вес: 2.7 кг
+</description>
+    <specification>
+      <items>
+        <name>Основное</name>
+        <item>
+          <name>Класс устройства</name>
+          <value>портативный</value>
+        </item>
+        <item>
+          <name>Тип устройства</name>
+          <value>DLP</value>
+        </item>
+        <item>
+          <name>Рекомендуемая область применения</name>
+          <value>для офиса</value>
+        </item>
+        <item>
+          <name>Реальное разрешение</name>
+          <value>1024x768</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Лампа</name>
+        <item>
+          <name>Срок службы лампы</name>
+          <value>3500 часов</value>
+        </item>
+        <item>
+          <name>Срок службы лампы в экономичном режиме</name>
+          <value>5000 часов</value>
+        </item>
+        <item>
+          <name>Количество ламп</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность лампы</name>
+          <value>230 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Проекция</name>
+        <item>
+          <name>Размеры по диагонали</name>
+          <value>от 0.81 до 7.62 м</value>
+        </item>
+        <item>
+          <name>Отношение расстояния к размеру изображения</name>
+          <value>1.5:1 - 1.95:1</value>
+        </item>
+        <item>
+          <name>Частота строчной развертки</name>
+          <value>31 - 92 кГц</value>
+        </item>
+        <item>
+          <name>Частота кадровой развертки</name>
+          <value>48 - 120 Гц</value>
+        </item>
+        <item>
+          <name>Масштабирование оптическое</name>
+          <value>1.3x</value>
+        </item>
+        <item>
+          <name>Масштабирование цифровое</name>
+          <value>2x</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>2.59 - 2.87</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Контрастность</name>
+          <value>5300:1</value>
+        </item>
+        <item>
+          <name>Световой поток</name>
+          <value>3200 люмен</value>
+        </item>
+        <item>
+          <name>Коррекция трапецеидальных искажений</name>
+          <value>есть (вертикальная)</value>
+        </item>
+        <item>
+          <name>Поддерживаемые системы вещания</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>VGA x2, HDMI, S-Video, композитный, компонентный, аудио mini jack, аудио RCA</value>
+        </item>
+        <item>
+          <name>Версия HDMI</name>
+          <value>HDMI 1.3</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>VGA, аудио mini jack</value>
+        </item>
+        <item>
+          <name>Порты</name>
+          <value>USB (тип A), USB (тип B), RS-232</value>
+        </item>
+        <item>
+          <name>Коммуникации</name>
+          <value>Ethernet</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>311x104x244 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.7 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Встроенные громкоговорители</name>
+          <value>1 x 10 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>32 дБ</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115557">
+    <title>BenQ W1100</title>
+    <model>W1100</model>
+    <marka>BenQ</marka>
+    <catalog id="285600">Мультимедиа проекторы</catalog>
+    
+    <price1>34965</price1>
+    <price2>44960</price2>
+    <description>
+
+портативный, DLP, 16:9, HDTV, разрешение: 1920x1080 (Full HD), яркость: 2000 люмен, контрастность: 4500:1, вес: 3.6 кг
+</description>
+    <specification>
+      <items>
+        <name>Основное</name>
+        <item>
+          <name>Класс устройства</name>
+          <value>портативный</value>
+        </item>
+        <item>
+          <name>Тип устройства</name>
+          <value>DLP</value>
+        </item>
+        <item>
+          <name>Рекомендуемая область применения</name>
+          <value>для домашнего кинотеатра</value>
+        </item>
+        <item>
+          <name>Реальное разрешение</name>
+          <value>1920x1080 (Full HD)</value>
+        </item>
+        <item>
+          <name>Широкоформатный</name>
+          <value> да</value>
+        </item>
+        <item>
+          <name>Поддержка HDTV</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Лампа</name>
+        <item>
+          <name>Срок службы лампы</name>
+          <value>2500 часов</value>
+        </item>
+        <item>
+          <name>Срок службы лампы в экономичном режиме</name>
+          <value>4000 часов</value>
+        </item>
+        <item>
+          <name>Количество ламп</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность лампы</name>
+          <value>230 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Проекция</name>
+        <item>
+          <name>Размеры по диагонали</name>
+          <value>от 0.61 до 7.62 м</value>
+        </item>
+        <item>
+          <name>Отношение расстояния к размеру изображения</name>
+          <value>1.4:1 - 2.1:1</value>
+        </item>
+        <item>
+          <name>Частота строчной развертки</name>
+          <value>31 - 90 кГц</value>
+        </item>
+        <item>
+          <name>Частота кадровой развертки</name>
+          <value>50 - 85 Гц</value>
+        </item>
+        <item>
+          <name>Масштабирование оптическое</name>
+          <value>1.5x</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Контрастность</name>
+          <value>4500:1</value>
+        </item>
+        <item>
+          <name>Световой поток</name>
+          <value>2000 люмен</value>
+        </item>
+        <item>
+          <name>Коррекция трапецеидальных искажений</name>
+          <value>есть (вертикальная)</value>
+        </item>
+        <item>
+          <name>Поддерживаемые системы вещания</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>VGA, HDMI x2, S-Video, композитный, компонентный, аудио mini jack, аудио RCA</value>
+        </item>
+        <item>
+          <name>Версия HDMI</name>
+          <value>HDMI 1.3</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>VGA, аудио mini jack</value>
+        </item>
+        <item>
+          <name>Порты</name>
+          <value>USB (тип B), RS-232</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>339x139x260 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.6 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Картинка в картинке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенные громкоговорители</name>
+          <value>2 x 10 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>27 дБ</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>динамики с технологией SRS WOW HD</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115558">
+    <title>BenQ MX750</title>
+    <model>MX750</model>
+    <marka>BenQ</marka>
+    <catalog id="285600">Мультимедиа проекторы</catalog>
+    
+    <price1>25920</price1>
+    <price2>38400</price2>
+    <description>
+
+портативный, DLP, разрешение: 1024x768, 3D, яркость: 3000 люмен, контрастность: 3000:1, Ethernet, вес: 3.55 кг
+</description>
+    <specification>
+      <items>
+        <name>Основное</name>
+        <item>
+          <name>Класс устройства</name>
+          <value>портативный</value>
+        </item>
+        <item>
+          <name>Тип устройства</name>
+          <value>DLP</value>
+        </item>
+        <item>
+          <name>Рекомендуемая область применения</name>
+          <value>для офиса</value>
+        </item>
+        <item>
+          <name>Реальное разрешение</name>
+          <value>1024x768</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Лампа</name>
+        <item>
+          <name>Срок службы лампы</name>
+          <value>3000 часов</value>
+        </item>
+        <item>
+          <name>Срок службы лампы в экономичном режиме</name>
+          <value>4000 часов</value>
+        </item>
+        <item>
+          <name>Количество ламп</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность лампы</name>
+          <value>225 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Проекция</name>
+        <item>
+          <name>Размеры по диагонали</name>
+          <value>от 0.66 до 8.94 м</value>
+        </item>
+        <item>
+          <name>Отношение расстояния к размеру изображения</name>
+          <value>1.39:1 - 2.23:1</value>
+        </item>
+        <item>
+          <name>Частота строчной развертки</name>
+          <value>31 - 93 кГц</value>
+        </item>
+        <item>
+          <name>Частота кадровой развертки</name>
+          <value>48 - 86 Гц</value>
+        </item>
+        <item>
+          <name>Масштабирование оптическое</name>
+          <value>1.6x</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>2.68 - 2.84</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>15.9 - 25.5 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Контрастность</name>
+          <value>3000:1</value>
+        </item>
+        <item>
+          <name>Световой поток</name>
+          <value>3000 люмен</value>
+        </item>
+        <item>
+          <name>Коррекция трапецеидальных искажений</name>
+          <value>есть (вертикальная)</value>
+        </item>
+        <item>
+          <name>Поддерживаемые системы вещания</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>VGA x2, HDMI, S-Video, композитный, аудио mini jack, аудио RCA</value>
+        </item>
+        <item>
+          <name>Версия HDMI</name>
+          <value>HDMI 1.3</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>VGA, аудио mini jack</value>
+        </item>
+        <item>
+          <name>Порты</name>
+          <value>USB (тип A) x2, USB (тип B), RS-232</value>
+        </item>
+        <item>
+          <name>Коммуникации</name>
+          <value>Ethernet</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>329x130x248 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.55 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Встроенные громкоговорители</name>
+          <value>2 x 10 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>30 дБ</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115559">
+    <title>BenQ MX514</title>
+    <model>MX514</model>
+    <marka>BenQ</marka>
+    <catalog id="285600">Мультимедиа проекторы</catalog>
+    
+    <price1>19448</price1>
+    <price2>22270</price2>
+    <description>
+
+портативный, DLP, разрешение: 1024x768, 3D, яркость: 2700 люмен, контрастность: 10000:1, вес: 2.45 кг
+</description>
+    <specification>
+      <items>
+        <name>Основное</name>
+        <item>
+          <name>Класс устройства</name>
+          <value>портативный</value>
+        </item>
+        <item>
+          <name>Тип устройства</name>
+          <value>DLP</value>
+        </item>
+        <item>
+          <name>Рекомендуемая область применения</name>
+          <value>для офиса</value>
+        </item>
+        <item>
+          <name>Реальное разрешение</name>
+          <value>1024x768</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Лампа</name>
+        <item>
+          <name>Срок службы лампы</name>
+          <value>4500 часов</value>
+        </item>
+        <item>
+          <name>Срок службы лампы в экономичном режиме</name>
+          <value>6500 часов</value>
+        </item>
+        <item>
+          <name>Количество ламп</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность лампы</name>
+          <value>190 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Проекция</name>
+        <item>
+          <name>Проекционное расстояние</name>
+          <value>1.2 - 13.2 м</value>
+        </item>
+        <item>
+          <name>Размеры по диагонали</name>
+          <value>от 0.76 до 7.62 м</value>
+        </item>
+        <item>
+          <name>Отношение расстояния к размеру изображения</name>
+          <value>1.97:1 - 2.17:1</value>
+        </item>
+        <item>
+          <name>Частота строчной развертки</name>
+          <value>31 - 90 кГц</value>
+        </item>
+        <item>
+          <name>Частота кадровой развертки</name>
+          <value>50 - 120 Гц</value>
+        </item>
+        <item>
+          <name>Масштабирование оптическое</name>
+          <value>1.1x</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>2.51 - 2.69</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>21.95 - 24.18 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Контрастность</name>
+          <value>10000:1</value>
+        </item>
+        <item>
+          <name>Световой поток</name>
+          <value>2700 люмен</value>
+        </item>
+        <item>
+          <name>Коррекция трапецеидальных искажений</name>
+          <value>есть (вертикальная)</value>
+        </item>
+        <item>
+          <name>Поддерживаемые системы вещания</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>VGA x2, HDMI, S-Video, композитный, компонентный, аудио mini jack</value>
+        </item>
+        <item>
+          <name>Версия HDMI</name>
+          <value>HDMI 1.3</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>VGA, аудио mini jack</value>
+        </item>
+        <item>
+          <name>Порты</name>
+          <value>USB (тип B), RS-232</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>302x124x233 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.45 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Встроенные громкоговорители</name>
+          <value>1 x 2 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>27 дБ</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115560">
+    <title>BenQ W700</title>
+    <model>W700</model>
+    <marka>BenQ</marka>
+    <catalog id="285600">Мультимедиа проекторы</catalog>
+    
+    <price1>23976</price1>
+    <price2>29920</price2>
+    <description>
+
+портативный, DLP, 16:9, HDTV, разрешение: 1280x720, 3D, яркость: 2200 люмен, контрастность: 10000:1, вес: 3.6 кг
+</description>
+    <specification>
+      <items>
+        <name>Основное</name>
+        <item>
+          <name>Класс устройства</name>
+          <value>портативный</value>
+        </item>
+        <item>
+          <name>Тип устройства</name>
+          <value>DLP</value>
+        </item>
+        <item>
+          <name>Рекомендуемая область применения</name>
+          <value>для домашнего кинотеатра</value>
+        </item>
+        <item>
+          <name>Реальное разрешение</name>
+          <value>1280x720</value>
+        </item>
+        <item>
+          <name>Широкоформатный</name>
+          <value> да</value>
+        </item>
+        <item>
+          <name>Поддержка HDTV</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Лампа</name>
+        <item>
+          <name>Срок службы лампы</name>
+          <value>4500 часов</value>
+        </item>
+        <item>
+          <name>Срок службы лампы в экономичном режиме</name>
+          <value>6000 часов</value>
+        </item>
+        <item>
+          <name>Количество ламп</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность лампы</name>
+          <value>190 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Проекция</name>
+        <item>
+          <name>Размеры по диагонали</name>
+          <value>от 0.61 до 7.62 м</value>
+        </item>
+        <item>
+          <name>Отношение расстояния к размеру изображения</name>
+          <value>1.54:1 - 1.71:1</value>
+        </item>
+        <item>
+          <name>Частота строчной развертки</name>
+          <value>31 - 90 кГц</value>
+        </item>
+        <item>
+          <name>Частота кадровой развертки</name>
+          <value>48 - 120 Гц</value>
+        </item>
+        <item>
+          <name>Масштабирование оптическое</name>
+          <value>1.11x</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>2.52 - 2.73</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>24.34 - 25.95 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Контрастность</name>
+          <value>10000:1</value>
+        </item>
+        <item>
+          <name>Световой поток</name>
+          <value>2200 люмен</value>
+        </item>
+        <item>
+          <name>Коррекция трапецеидальных искажений</name>
+          <value>есть (вертикальная)</value>
+        </item>
+        <item>
+          <name>Поддерживаемые системы вещания</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>VGA, HDMI x2, S-Video, композитный, компонентный, аудио mini jack, аудио RCA</value>
+        </item>
+        <item>
+          <name>Версия HDMI</name>
+          <value>HDMI 1.3</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>аудио mini jack</value>
+        </item>
+        <item>
+          <name>Порты</name>
+          <value>USB (тип B), RS-232</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>330x119x247 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.6 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Встроенные громкоговорители</name>
+          <value>1 x 10 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>31 дБ</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115561">
+    <title>Epson EB-S11</title>
+    <model>EB-S11</model>
+    <marka>Epson</marka>
+    <catalog id="285600">Мультимедиа проекторы</catalog>
+    
+    <price1>16600</price1>
+    <price2>19289</price2>
+    <description>
+
+портативный, LCD, разрешение: 800x600, яркость: 2600 люмен, контрастность: 3000:1, вес: 2.3 кг
+</description>
+    <specification>
+      <items>
+        <name>Основное</name>
+        <item>
+          <name>Класс устройства</name>
+          <value>портативный</value>
+        </item>
+        <item>
+          <name>Тип устройства</name>
+          <value>LCD x3</value>
+        </item>
+        <item>
+          <name>Рекомендуемая область применения</name>
+          <value>для офиса</value>
+        </item>
+        <item>
+          <name>Реальное разрешение</name>
+          <value>800x600</value>
+        </item>
+      </items>
+      <items>
+        <name>Лампа</name>
+        <item>
+          <name>Тип лампы</name>
+          <value>UHE</value>
+        </item>
+        <item>
+          <name>Срок службы лампы</name>
+          <value>4000 часов</value>
+        </item>
+        <item>
+          <name>Срок службы лампы в экономичном режиме</name>
+          <value>5000 часов</value>
+        </item>
+        <item>
+          <name>Количество ламп</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность лампы</name>
+          <value>200 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Проекция</name>
+        <item>
+          <name>Проекционное расстояние</name>
+          <value>0.88 - 10.4 м</value>
+        </item>
+        <item>
+          <name>Размеры по диагонали</name>
+          <value>от 0.76 до 7.62 м</value>
+        </item>
+        <item>
+          <name>Отношение расстояния к размеру изображения</name>
+          <value>1.45:1 - 1.96:1</value>
+        </item>
+        <item>
+          <name>Масштабирование цифровое</name>
+          <value>1.35x</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>1.44</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>16.7 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Контрастность</name>
+          <value>3000:1</value>
+        </item>
+        <item>
+          <name>Световой поток</name>
+          <value>2600 люмен</value>
+        </item>
+        <item>
+          <name>Коррекция трапецеидальных искажений</name>
+          <value>есть (вертикальная/горизонтальная)</value>
+        </item>
+        <item>
+          <name>Поддерживаемые системы вещания</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>VGA, S-Video, композитный, компонентный, аудио RCA</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>VGA, аудио mini jack</value>
+        </item>
+        <item>
+          <name>Порты</name>
+          <value>USB (тип A), USB (тип B), RS-232</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>295x77x228 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.3 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Встроенные громкоговорители</name>
+          <value>1 x 2 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>37 дБ</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115562">
+    <title>NEC V230X</title>
+    <model>V230X</model>
+    <marka>NEC</marka>
+    <catalog id="285600">Мультимедиа проекторы</catalog>
+    
+    <price1>13790</price1>
+    <price2>20237</price2>
+    <description>
+
+портативный, DLP, разрешение: 1024x768, 3D, яркость: 2300 люмен, контрастность: 2000:1, вес: 2.5 кг
+</description>
+    <specification>
+      <items>
+        <name>Основное</name>
+        <item>
+          <name>Класс устройства</name>
+          <value>портативный</value>
+        </item>
+        <item>
+          <name>Тип устройства</name>
+          <value>DLP</value>
+        </item>
+        <item>
+          <name>Рекомендуемая область применения</name>
+          <value>для офиса</value>
+        </item>
+        <item>
+          <name>Реальное разрешение</name>
+          <value>1024x768</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Лампа</name>
+        <item>
+          <name>Тип лампы</name>
+          <value>DC</value>
+        </item>
+        <item>
+          <name>Срок службы лампы</name>
+          <value>3500 часов</value>
+        </item>
+        <item>
+          <name>Срок службы лампы в экономичном режиме</name>
+          <value>5000 часов</value>
+        </item>
+        <item>
+          <name>Количество ламп</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность лампы</name>
+          <value>180 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Проекция</name>
+        <item>
+          <name>Проекционное расстояние</name>
+          <value>1.2 - 13 м</value>
+        </item>
+        <item>
+          <name>Размеры по диагонали</name>
+          <value>от 0.76 до 7.62 м</value>
+        </item>
+        <item>
+          <name>Отношение расстояния к размеру изображения</name>
+          <value>1.95:1 - 2.15:1</value>
+        </item>
+        <item>
+          <name>Частота строчной развертки</name>
+          <value>15 - 100 кГц</value>
+        </item>
+        <item>
+          <name>Частота кадровой развертки</name>
+          <value>50 - 120 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Контрастность</name>
+          <value>2000:1</value>
+        </item>
+        <item>
+          <name>Световой поток</name>
+          <value>2300 люмен</value>
+        </item>
+        <item>
+          <name>Коррекция трапецеидальных искажений</name>
+          <value>есть (вертикальная)</value>
+        </item>
+        <item>
+          <name>Поддерживаемые системы вещания</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>VGA, S-Video, композитный, компонентный, аудио mini jack</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>VGA</value>
+        </item>
+        <item>
+          <name>Порты</name>
+          <value>RS-232</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>310x95x247 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.5 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Встроенные громкоговорители</name>
+          <value>1 x 7 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>34 дБ</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115563">
+    <title>BenQ W1060</title>
+    <model>W1060</model>
+    <marka>BenQ</marka>
+    <catalog id="285600">Мультимедиа проекторы</catalog>
+    
+    <price1>29997</price1>
+    <price2>48249</price2>
+    <description>
+
+портативный, DLP, 16:9, HDTV, разрешение: 1920x1080 (Full HD), яркость: 2000 люмен, контрастность: 5000:1, вес: 3.6 кг
+</description>
+    <specification>
+      <items>
+        <name>Основное</name>
+        <item>
+          <name>Класс устройства</name>
+          <value>портативный</value>
+        </item>
+        <item>
+          <name>Тип устройства</name>
+          <value>DLP</value>
+        </item>
+        <item>
+          <name>Рекомендуемая область применения</name>
+          <value>для домашнего кинотеатра</value>
+        </item>
+        <item>
+          <name>Реальное разрешение</name>
+          <value>1920x1080 (Full HD)</value>
+        </item>
+        <item>
+          <name>Широкоформатный</name>
+          <value> да</value>
+        </item>
+        <item>
+          <name>Поддержка HDTV</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Лампа</name>
+        <item>
+          <name>Срок службы лампы</name>
+          <value>4500 часов</value>
+        </item>
+        <item>
+          <name>Срок службы лампы в экономичном режиме</name>
+          <value>6000 часов</value>
+        </item>
+        <item>
+          <name>Количество ламп</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность лампы</name>
+          <value>190 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Проекция</name>
+        <item>
+          <name>Размеры по диагонали</name>
+          <value>от 0.71 до 7.62 м</value>
+        </item>
+        <item>
+          <name>Отношение расстояния к размеру изображения</name>
+          <value>1.59:1 - 1.9:1</value>
+        </item>
+        <item>
+          <name>Частота строчной развертки</name>
+          <value>31 - 90 кГц</value>
+        </item>
+        <item>
+          <name>Частота кадровой развертки</name>
+          <value>48 - 86 Гц</value>
+        </item>
+        <item>
+          <name>Масштабирование оптическое</name>
+          <value>1.2x</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>2.5 - 2.76</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>23.5 - 28.2 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Контрастность</name>
+          <value>5000:1</value>
+        </item>
+        <item>
+          <name>Световой поток</name>
+          <value>2000 люмен</value>
+        </item>
+        <item>
+          <name>Коррекция трапецеидальных искажений</name>
+          <value>есть (вертикальная)</value>
+        </item>
+        <item>
+          <name>Поддерживаемые системы вещания</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>VGA, HDMI x2, S-Video, композитный, компонентный, аудио mini jack, аудио RCA</value>
+        </item>
+        <item>
+          <name>Версия HDMI</name>
+          <value>HDMI 1.3</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>аудио mini jack</value>
+        </item>
+        <item>
+          <name>Порты</name>
+          <value>USB (тип B), RS-232</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>330x150x247 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.6 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Встроенные громкоговорители</name>
+          <value>1 x 10 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>31 дБ</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115564">
+    <title>Epson EH-TW5900</title>
+    <model>EH-TW5900</model>
+    <marka>Epson</marka>
+    <catalog id="285600">Мультимедиа проекторы</catalog>
+    
+    <price1>52984</price1>
+    <price2>66100</price2>
+    <description>
+
+стационарный, LCD, 16:9, HDTV, разрешение: 1920x1080 (Full HD), 3D, яркость: 2000 люмен, контрастность: 20000:1, Ethernet, вес: 6 кг
+</description>
+    <specification>
+      <items>
+        <name>Основное</name>
+        <item>
+          <name>Класс устройства</name>
+          <value>стационарный</value>
+        </item>
+        <item>
+          <name>Тип устройства</name>
+          <value>LCD x3</value>
+        </item>
+        <item>
+          <name>Рекомендуемая область применения</name>
+          <value>для домашнего кинотеатра</value>
+        </item>
+        <item>
+          <name>Реальное разрешение</name>
+          <value>1920x1080 (Full HD)</value>
+        </item>
+        <item>
+          <name>Широкоформатный</name>
+          <value> да</value>
+        </item>
+        <item>
+          <name>Поддержка HDTV</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Лампа</name>
+        <item>
+          <name>Тип лампы</name>
+          <value>UHE</value>
+        </item>
+        <item>
+          <name>Срок службы лампы</name>
+          <value>4000 часов</value>
+        </item>
+        <item>
+          <name>Срок службы лампы в экономичном режиме</name>
+          <value>5000 часов</value>
+        </item>
+        <item>
+          <name>Количество ламп</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность лампы</name>
+          <value>230 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Проекция</name>
+        <item>
+          <name>Размеры по диагонали</name>
+          <value>от 0.76 до 7.62 м</value>
+        </item>
+        <item>
+          <name>Отношение расстояния к размеру изображения</name>
+          <value>1.32:1 - 2.15:1</value>
+        </item>
+        <item>
+          <name>Масштабирование оптическое</name>
+          <value>1.6x</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>1.51 - 1.99</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>18.2 - 29.2 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Контрастность</name>
+          <value>20000:1</value>
+        </item>
+        <item>
+          <name>Световой поток</name>
+          <value>2000 люмен</value>
+        </item>
+        <item>
+          <name>Коррекция трапецеидальных искажений</name>
+          <value>есть (вертикальная/горизонтальная)</value>
+        </item>
+        <item>
+          <name>Поддерживаемые системы вещания</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>VGA, HDMI x2, S-Video, композитный, компонентный, аудио RCA</value>
+        </item>
+        <item>
+          <name>Порты</name>
+          <value>USB (тип A), USB (тип B), RS-232</value>
+        </item>
+        <item>
+          <name>Коммуникации</name>
+          <value>Ethernet</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>420x137x365 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Встроенные громкоговорители</name>
+          <value>2 x 10 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>32 дБ</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115569">
+    <title>BenQ MX660P</title>
+    <model>MX660P</model>
+    <marka>BenQ</marka>
+    <catalog id="285600">Мультимедиа проекторы</catalog>
+    
+    <price1>21168</price1>
+    <price2>30350</price2>
+    <description>
+
+портативный, DLP, разрешение: 1024x768, 3D, яркость: 3000 люмен, контрастность: 5000:1, вес: 2.8 кг
+</description>
+    <specification>
+      <items>
+        <name>Основное</name>
+        <item>
+          <name>Класс устройства</name>
+          <value>портативный</value>
+        </item>
+        <item>
+          <name>Тип устройства</name>
+          <value>DLP</value>
+        </item>
+        <item>
+          <name>Рекомендуемая область применения</name>
+          <value>для офиса</value>
+        </item>
+        <item>
+          <name>Реальное разрешение</name>
+          <value>1024x768</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Лампа</name>
+        <item>
+          <name>Срок службы лампы</name>
+          <value>3500 часов</value>
+        </item>
+        <item>
+          <name>Срок службы лампы в экономичном режиме</name>
+          <value>5000 часов</value>
+        </item>
+        <item>
+          <name>Количество ламп</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность лампы</name>
+          <value>210 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Проекция</name>
+        <item>
+          <name>Размеры по диагонали</name>
+          <value>от 0.9 до 7.62 м</value>
+        </item>
+        <item>
+          <name>Отношение расстояния к размеру изображения</name>
+          <value>1.86:1 - 2.04:1</value>
+        </item>
+        <item>
+          <name>Частота строчной развертки</name>
+          <value>31 - 99 кГц</value>
+        </item>
+        <item>
+          <name>Частота кадровой развертки</name>
+          <value>23 - 120 Гц</value>
+        </item>
+        <item>
+          <name>Масштабирование оптическое</name>
+          <value>1.1x</value>
+        </item>
+        <item>
+          <name>Масштабирование цифровое</name>
+          <value>2x</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>2.56 - 2.8</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>21 - 23.1 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Контрастность</name>
+          <value>5000:1</value>
+        </item>
+        <item>
+          <name>Световой поток</name>
+          <value>3000 люмен</value>
+        </item>
+        <item>
+          <name>Коррекция трапецеидальных искажений</name>
+          <value>есть (вертикальная)</value>
+        </item>
+        <item>
+          <name>Поддерживаемые системы вещания</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>VGA x2, HDMI, S-Video, композитный, компонентный, аудио mini jack, аудио RCA</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>VGA, аудио mini jack</value>
+        </item>
+        <item>
+          <name>Порты</name>
+          <value>USB (тип A), USB (тип B), RS-232</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>312x104x244 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.8 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Встроенные громкоговорители</name>
+          <value>1 x 2 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>30 дБ</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>встроенная функция поддержки и оптимизации субтитров, встроенный обучающий шаблон</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115571">
+    <title>Epson EH-TW6000</title>
+    <model>EH-TW6000</model>
+    <marka>Epson</marka>
+    <catalog id="285600">Мультимедиа проекторы</catalog>
+    
+    <price1>72890</price1>
+    <price2>92000</price2>
+    <description>
+
+стационарный, LCD, 16:9, HDTV, разрешение: 1920x1080 (Full HD), 3D, яркость: 2200 люмен, контрастность: 40000:1, Ethernet, вес: 6 кг
+</description>
+    <specification>
+      <items>
+        <name>Основное</name>
+        <item>
+          <name>Класс устройства</name>
+          <value>стационарный</value>
+        </item>
+        <item>
+          <name>Тип устройства</name>
+          <value>LCD x3</value>
+        </item>
+        <item>
+          <name>Рекомендуемая область применения</name>
+          <value>для домашнего кинотеатра</value>
+        </item>
+        <item>
+          <name>Реальное разрешение</name>
+          <value>1920x1080 (Full HD)</value>
+        </item>
+        <item>
+          <name>Широкоформатный</name>
+          <value> да</value>
+        </item>
+        <item>
+          <name>Поддержка HDTV</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Лампа</name>
+        <item>
+          <name>Тип лампы</name>
+          <value>UHE</value>
+        </item>
+        <item>
+          <name>Срок службы лампы</name>
+          <value>4000 часов</value>
+        </item>
+        <item>
+          <name>Срок службы лампы в экономичном режиме</name>
+          <value>5000 часов</value>
+        </item>
+        <item>
+          <name>Количество ламп</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность лампы</name>
+          <value>230 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Проекция</name>
+        <item>
+          <name>Размеры по диагонали</name>
+          <value>от 0.76 до 7.62 м</value>
+        </item>
+        <item>
+          <name>Отношение расстояния к размеру изображения</name>
+          <value>1.34:1 - 2.15:1</value>
+        </item>
+        <item>
+          <name>Масштабирование оптическое</name>
+          <value>1.6x</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>1.51 - 1.99</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>18.2 - 29.2 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Контрастность</name>
+          <value>40000:1</value>
+        </item>
+        <item>
+          <name>Световой поток</name>
+          <value>2200 люмен</value>
+        </item>
+        <item>
+          <name>Коррекция трапецеидальных искажений</name>
+          <value>есть (вертикальная/горизонтальная)</value>
+        </item>
+        <item>
+          <name>Поддерживаемые системы вещания</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>VGA, HDMI x2, композитный, компонентный, аудио RCA</value>
+        </item>
+        <item>
+          <name>Порты</name>
+          <value>USB (тип A), USB (тип B), RS-232</value>
+        </item>
+        <item>
+          <name>Коммуникации</name>
+          <value>Ethernet</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>420x137x365 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Встроенные громкоговорители</name>
+          <value>2 x 10 Вт</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115574">
+    <title>BenQ SP840</title>
+    <model>SP840</model>
+    <marka>BenQ</marka>
+    <catalog id="285600">Мультимедиа проекторы</catalog>
+    
+    <price1>46160</price1>
+    <price2>79550</price2>
+    <description>
+
+портативный, DLP, 16:9, HDTV, разрешение: 1920x1080 (Full HD), яркость: 4000 люмен, контрастность: 3000:1, Ethernet, вес: 3.4 кг
+</description>
+    <specification>
+      <items>
+        <name>Основное</name>
+        <item>
+          <name>Класс устройства</name>
+          <value>портативный</value>
+        </item>
+        <item>
+          <name>Тип устройства</name>
+          <value>DLP</value>
+        </item>
+        <item>
+          <name>Цветовое колесо</name>
+          <value>6-ти сегментное</value>
+        </item>
+        <item>
+          <name>Рекомендуемая область применения</name>
+          <value>для домашнего кинотеатра</value>
+        </item>
+        <item>
+          <name>Реальное разрешение</name>
+          <value>1920x1080 (Full HD)</value>
+        </item>
+        <item>
+          <name>Широкоформатный</name>
+          <value> да</value>
+        </item>
+        <item>
+          <name>Поддержка HDTV</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Лампа</name>
+        <item>
+          <name>Срок службы лампы</name>
+          <value>2000 часов</value>
+        </item>
+        <item>
+          <name>Срок службы лампы в экономичном режиме</name>
+          <value>3000 часов</value>
+        </item>
+        <item>
+          <name>Количество ламп</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность лампы</name>
+          <value>330 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Проекция</name>
+        <item>
+          <name>Размеры по диагонали</name>
+          <value>от 0.61 до 7.62 м</value>
+        </item>
+        <item>
+          <name>Отношение расстояния к размеру изображения</name>
+          <value>1.6:1 - 1.92:1</value>
+        </item>
+        <item>
+          <name>Частота строчной развертки</name>
+          <value>31 - 92 кГц</value>
+        </item>
+        <item>
+          <name>Частота кадровой развертки</name>
+          <value>48 - 85 Гц</value>
+        </item>
+        <item>
+          <name>Масштабирование оптическое</name>
+          <value>1.2x</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>2.5 - 2.76</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>23.5 - 28.2 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Контрастность</name>
+          <value>3000:1</value>
+        </item>
+        <item>
+          <name>Световой поток</name>
+          <value>4000 люмен</value>
+        </item>
+        <item>
+          <name>Коррекция трапецеидальных искажений</name>
+          <value>есть (вертикальная)</value>
+        </item>
+        <item>
+          <name>Поддерживаемые системы вещания</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>VGA, HDMI x2, S-Video, композитный, компонентный, аудио mini jack, аудио RCA</value>
+        </item>
+        <item>
+          <name>Версия HDMI</name>
+          <value>HDMI 1.3</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>VGA, аудио mini jack</value>
+        </item>
+        <item>
+          <name>Порты</name>
+          <value>USB (тип B), RS-232</value>
+        </item>
+        <item>
+          <name>Коммуникации</name>
+          <value>Ethernet</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>325x95x254 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.4 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Встроенные громкоговорители</name>
+          <value>1 x 3 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>34 дБ</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115576">
+    <title>Epson EB-W02</title>
+    <model>EB-W02</model>
+    <marka>Epson</marka>
+    <catalog id="285600">Мультимедиа проекторы</catalog>
+    
+    <price1>19800</price1>
+    <price2>28900</price2>
+    <description>
+
+портативный, LCD, 16:9, HDTV, разрешение: 1280x800, яркость: 2600 люмен, контрастность: 3000:1, вес: 2.3 кг
+</description>
+    <specification>
+      <items>
+        <name>Основное</name>
+        <item>
+          <name>Класс устройства</name>
+          <value>портативный</value>
+        </item>
+        <item>
+          <name>Тип устройства</name>
+          <value>LCD x3</value>
+        </item>
+        <item>
+          <name>Рекомендуемая область применения</name>
+          <value>для офиса</value>
+        </item>
+        <item>
+          <name>Реальное разрешение</name>
+          <value>1280x800</value>
+        </item>
+        <item>
+          <name>Широкоформатный</name>
+          <value> да</value>
+        </item>
+        <item>
+          <name>Поддержка HDTV</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Лампа</name>
+        <item>
+          <name>Тип лампы</name>
+          <value>UHE</value>
+        </item>
+        <item>
+          <name>Срок службы лампы</name>
+          <value>4000 часов</value>
+        </item>
+        <item>
+          <name>Срок службы лампы в экономичном режиме</name>
+          <value>5000 часов</value>
+        </item>
+        <item>
+          <name>Количество ламп</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность лампы</name>
+          <value>200 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Проекция</name>
+        <item>
+          <name>Размеры по диагонали</name>
+          <value>от 0.84 до 8.05 м</value>
+        </item>
+        <item>
+          <name>Отношение расстояния к размеру изображения</name>
+          <value>1.3:1 - 1.56:1</value>
+        </item>
+        <item>
+          <name>Частота строчной развертки</name>
+          <value>15 - 92 кГц</value>
+        </item>
+        <item>
+          <name>Частота кадровой развертки</name>
+          <value>50 - 85 Гц</value>
+        </item>
+        <item>
+          <name>Масштабирование оптическое</name>
+          <value>1.2x</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>1.58 - 1.72</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>16.9 - 20.28 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Контрастность</name>
+          <value>3000:1</value>
+        </item>
+        <item>
+          <name>Световой поток</name>
+          <value>2600 люмен</value>
+        </item>
+        <item>
+          <name>Световой поток в экономичном режиме</name>
+          <value>2080 люмен</value>
+        </item>
+        <item>
+          <name>Коррекция трапецеидальных искажений</name>
+          <value>есть (вертикальная)</value>
+        </item>
+        <item>
+          <name>Поддерживаемые системы вещания</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>VGA, S-Video, композитный, аудио RCA</value>
+        </item>
+        <item>
+          <name>Порты</name>
+          <value>USB (тип B)</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>295x79x228 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.3 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Встроенные громкоговорители</name>
+          <value>1 x 1 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>29 дБ</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115577">
+    <title>NEC U250X</title>
+    <model>U250X</model>
+    <marka>NEC</marka>
+    <catalog id="285600">Мультимедиа проекторы</catalog>
+    
+    <price1>40407</price1>
+    <price2>53788</price2>
+    <description>
+
+стационарный, DLP, разрешение: 1024x768, 3D, яркость: 2500 люмен, контрастность: 2000:1, Ethernet, вес: 6.5 кг
+</description>
+    <specification>
+      <items>
+        <name>Основное</name>
+        <item>
+          <name>Класс устройства</name>
+          <value>стационарный</value>
+        </item>
+        <item>
+          <name>Тип устройства</name>
+          <value>DLP</value>
+        </item>
+        <item>
+          <name>Цветовое колесо</name>
+          <value>6-ти сегментное</value>
+        </item>
+        <item>
+          <name>Рекомендуемая область применения</name>
+          <value>для офиса</value>
+        </item>
+        <item>
+          <name>Реальное разрешение</name>
+          <value>1024x768</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Лампа</name>
+        <item>
+          <name>Срок службы лампы</name>
+          <value>2500 часов</value>
+        </item>
+        <item>
+          <name>Срок службы лампы в экономичном режиме</name>
+          <value>4000 часов</value>
+        </item>
+        <item>
+          <name>Количество ламп</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность лампы</name>
+          <value>230 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Проекция</name>
+        <item>
+          <name>Проекционное расстояние</name>
+          <value>0.132 - 0.319 м</value>
+        </item>
+        <item>
+          <name>Размеры по диагонали</name>
+          <value>от 1.6 до 2.16 м</value>
+        </item>
+        <item>
+          <name>Отношение расстояния к размеру изображения</name>
+          <value>0.377:1 - 0.377:1</value>
+        </item>
+        <item>
+          <name>Частота строчной развертки</name>
+          <value>15 - 91 кГц</value>
+        </item>
+        <item>
+          <name>Частота кадровой развертки</name>
+          <value>50 - 85 Гц</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>2.71 - 2.71</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Контрастность</name>
+          <value>2000:1</value>
+        </item>
+        <item>
+          <name>Световой поток</name>
+          <value>2500 люмен</value>
+        </item>
+        <item>
+          <name>Коррекция трапецеидальных искажений</name>
+          <value>есть (вертикальная)</value>
+        </item>
+        <item>
+          <name>Поддерживаемые системы вещания</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>VGA x2, HDMI, S-Video, композитный, компонентный, аудио mini jack, аудио RCA</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>VGA, аудио mini jack</value>
+        </item>
+        <item>
+          <name>Порты</name>
+          <value>USB (тип B), RS-232</value>
+        </item>
+        <item>
+          <name>Коммуникации</name>
+          <value>Ethernet</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>427x200x406 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6.5 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Встроенные громкоговорители</name>
+          <value>1 x 10 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>33 дБ</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>f=4.42 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115579">
+    <title>Epson EB-X02</title>
+    <model>EB-X02</model>
+    <marka>Epson</marka>
+    <catalog id="285600">Мультимедиа проекторы</catalog>
+    
+    <price1>16900</price1>
+    <price2>23068</price2>
+    <description>
+
+портативный, LCD, разрешение: 1024x768, яркость: 2600 люмен, контрастность: 3000:1, вес: 2.3 кг
+</description>
+    <specification>
+      <items>
+        <name>Основное</name>
+        <item>
+          <name>Класс устройства</name>
+          <value>портативный</value>
+        </item>
+        <item>
+          <name>Тип устройства</name>
+          <value>LCD x3</value>
+        </item>
+        <item>
+          <name>Рекомендуемая область применения</name>
+          <value>для офиса</value>
+        </item>
+        <item>
+          <name>Реальное разрешение</name>
+          <value>1024x768</value>
+        </item>
+      </items>
+      <items>
+        <name>Лампа</name>
+        <item>
+          <name>Тип лампы</name>
+          <value>UHE</value>
+        </item>
+        <item>
+          <name>Срок службы лампы</name>
+          <value>4000 часов</value>
+        </item>
+        <item>
+          <name>Срок службы лампы в экономичном режиме</name>
+          <value>5000 часов</value>
+        </item>
+        <item>
+          <name>Количество ламп</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность лампы</name>
+          <value>200 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Проекция</name>
+        <item>
+          <name>Размеры по диагонали</name>
+          <value>от 0.76 до 7.62 м</value>
+        </item>
+        <item>
+          <name>Отношение расстояния к размеру изображения</name>
+          <value>1.48:1 - 1.72:1</value>
+        </item>
+        <item>
+          <name>Частота строчной развертки</name>
+          <value>15 - 92 кГц</value>
+        </item>
+        <item>
+          <name>Частота кадровой развертки</name>
+          <value>50 - 85 Гц</value>
+        </item>
+        <item>
+          <name>Масштабирование оптическое</name>
+          <value>1.2x</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>1.58 - 1.72</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>16.9 - 20.28 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Контрастность</name>
+          <value>3000:1</value>
+        </item>
+        <item>
+          <name>Световой поток</name>
+          <value>2600 люмен</value>
+        </item>
+        <item>
+          <name>Световой поток в экономичном режиме</name>
+          <value>2080 люмен</value>
+        </item>
+        <item>
+          <name>Коррекция трапецеидальных искажений</name>
+          <value>есть (вертикальная)</value>
+        </item>
+        <item>
+          <name>Поддерживаемые системы вещания</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>VGA, S-Video, композитный, компонентный, аудио RCA</value>
+        </item>
+        <item>
+          <name>Порты</name>
+          <value>USB (тип B)</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>295x77x228 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.3 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Встроенные громкоговорители</name>
+          <value>1 x 1 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>37 дБ</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115581">
+    <title>BenQ SP891</title>
+    <model>SP891</model>
+    <marka>BenQ</marka>
+    <catalog id="285600">Мультимедиа проекторы</catalog>
+    
+    <price1>128390</price1>
+    <price2>160000</price2>
+    <description>
+
+стационарный, DLP, 16:9, HDTV, разрешение: 1920x1080 (Full HD), яркость: 4500 люмен, контрастность: 3000:1, Ethernet, вес: 7.2 кг
+</description>
+    <specification>
+      <items>
+        <name>Основное</name>
+        <item>
+          <name>Класс устройства</name>
+          <value>стационарный</value>
+        </item>
+        <item>
+          <name>Тип устройства</name>
+          <value>DLP</value>
+        </item>
+        <item>
+          <name>Рекомендуемая область применения</name>
+          <value>для домашнего кинотеатра</value>
+        </item>
+        <item>
+          <name>Реальное разрешение</name>
+          <value>1920x1080 (Full HD)</value>
+        </item>
+        <item>
+          <name>Широкоформатный</name>
+          <value> да</value>
+        </item>
+        <item>
+          <name>Поддержка HDTV</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Лампа</name>
+        <item>
+          <name>Срок службы лампы</name>
+          <value>1500 часов</value>
+        </item>
+        <item>
+          <name>Срок службы лампы в экономичном режиме</name>
+          <value>2000 часов</value>
+        </item>
+        <item>
+          <name>Количество ламп</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность лампы</name>
+          <value>400 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Проекция</name>
+        <item>
+          <name>Размеры по диагонали</name>
+          <value>от 0.71 до 12.7 м</value>
+        </item>
+        <item>
+          <name>Отношение расстояния к размеру изображения</name>
+          <value>1.62:1 - 2.43:1</value>
+        </item>
+        <item>
+          <name>Частота строчной развертки</name>
+          <value>31 - 92 кГц</value>
+        </item>
+        <item>
+          <name>Частота кадровой развертки</name>
+          <value>48 - 85 Гц</value>
+        </item>
+        <item>
+          <name>Масштабирование оптическое</name>
+          <value>1.5x</value>
+        </item>
+        <item>
+          <name>Масштабирование цифровое</name>
+          <value>2x</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>2.48 - 2.81</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>24.1 - 36.1 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Контрастность</name>
+          <value>3000:1</value>
+        </item>
+        <item>
+          <name>Световой поток</name>
+          <value>4500 люмен</value>
+        </item>
+        <item>
+          <name>Коррекция трапецеидальных искажений</name>
+          <value>есть (вертикальная/горизонтальная)</value>
+        </item>
+        <item>
+          <name>Поддерживаемые системы вещания</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>VGA, HDMI, S-Video, композитный, компонентный, аудио mini jack</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>VGA, аудио mini jack</value>
+        </item>
+        <item>
+          <name>Порты</name>
+          <value>USB (тип B), RS-232</value>
+        </item>
+        <item>
+          <name>Коммуникации</name>
+          <value>Ethernet</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>428x156x345 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>7.2 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Встроенные громкоговорители</name>
+          <value>2 x 5 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>36 дБ</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115587">
+    <title>BenQ W703D</title>
+    <model>W703D</model>
+    <marka>BenQ</marka>
+    <catalog id="285600">Мультимедиа проекторы</catalog>
+    
+    <price1>24642</price1>
+    <price2>38790</price2>
+    <description>
+
+портативный, DLP, 16:9, HDTV, разрешение: 1280x720, 3D, яркость: 2200 люмен, контрастность: 10000:1, вес: 3.63 кг
+</description>
+    <specification>
+      <items>
+        <name>Основное</name>
+        <item>
+          <name>Класс устройства</name>
+          <value>портативный</value>
+        </item>
+        <item>
+          <name>Тип устройства</name>
+          <value>DLP</value>
+        </item>
+        <item>
+          <name>Рекомендуемая область применения</name>
+          <value>для домашнего кинотеатра</value>
+        </item>
+        <item>
+          <name>Реальное разрешение</name>
+          <value>1280x720</value>
+        </item>
+        <item>
+          <name>Широкоформатный</name>
+          <value> да</value>
+        </item>
+        <item>
+          <name>Поддержка HDTV</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Лампа</name>
+        <item>
+          <name>Срок службы лампы</name>
+          <value>4500 часов</value>
+        </item>
+        <item>
+          <name>Срок службы лампы в экономичном режиме</name>
+          <value>6000 часов</value>
+        </item>
+        <item>
+          <name>Количество ламп</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность лампы</name>
+          <value>190 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Проекция</name>
+        <item>
+          <name>Проекционное расстояние</name>
+          <value>1.13 - 10.25 м</value>
+        </item>
+        <item>
+          <name>Размеры по диагонали</name>
+          <value>от 0.66 до 7.62 м</value>
+        </item>
+        <item>
+          <name>Отношение расстояния к размеру изображения</name>
+          <value>1.54:1 - 1.73:1</value>
+        </item>
+        <item>
+          <name>Частота строчной развертки</name>
+          <value>31 - 90 кГц</value>
+        </item>
+        <item>
+          <name>Частота кадровой развертки</name>
+          <value>23 - 120 Гц</value>
+        </item>
+        <item>
+          <name>Масштабирование оптическое</name>
+          <value>1.1x</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>2.52 - 2.73</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>21.8 - 24 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Контрастность</name>
+          <value>10000:1</value>
+        </item>
+        <item>
+          <name>Световой поток</name>
+          <value>2200 люмен</value>
+        </item>
+        <item>
+          <name>Коррекция трапецеидальных искажений</name>
+          <value>есть (вертикальная)</value>
+        </item>
+        <item>
+          <name>Поддерживаемые системы вещания</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>VGA, HDMI x2, S-Video, композитный, компонентный, аудио mini jack, аудио RCA</value>
+        </item>
+        <item>
+          <name>Версия HDMI</name>
+          <value>HDMI 1.4a</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>аудио mini jack</value>
+        </item>
+        <item>
+          <name>Порты</name>
+          <value>USB (тип B), RS-232</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>330x119x247 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.63 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Встроенные громкоговорители</name>
+          <value>1 x 10 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>31 дБ</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115590">
+    <title>Epson EB-X14</title>
+    <model>EB-X14</model>
+    <marka>Epson</marka>
+    <catalog id="285600">Мультимедиа проекторы</catalog>
+    
+    <price1>22000</price1>
+    <price2>29379</price2>
+    <description>
+
+портативный, LCD, разрешение: 1024x768, яркость: 3000 люмен, контрастность: 3000:1, вес: 2.3 кг
+</description>
+    <specification>
+      <items>
+        <name>Основное</name>
+        <item>
+          <name>Класс устройства</name>
+          <value>портативный</value>
+        </item>
+        <item>
+          <name>Тип устройства</name>
+          <value>LCD x3</value>
+        </item>
+        <item>
+          <name>Рекомендуемая область применения</name>
+          <value>для офиса</value>
+        </item>
+        <item>
+          <name>Реальное разрешение</name>
+          <value>1024x768</value>
+        </item>
+      </items>
+      <items>
+        <name>Лампа</name>
+        <item>
+          <name>Тип лампы</name>
+          <value>UHE</value>
+        </item>
+        <item>
+          <name>Срок службы лампы</name>
+          <value>4000 часов</value>
+        </item>
+        <item>
+          <name>Срок службы лампы в экономичном режиме</name>
+          <value>5000 часов</value>
+        </item>
+        <item>
+          <name>Количество ламп</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность лампы</name>
+          <value>200 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Проекция</name>
+        <item>
+          <name>Проекционное расстояние</name>
+          <value>0.9 - 10.8 м</value>
+        </item>
+        <item>
+          <name>Размеры по диагонали</name>
+          <value>от 0.76 до 7.62 м</value>
+        </item>
+        <item>
+          <name>Отношение расстояния к размеру изображения</name>
+          <value>1.48:1 - 1.77:1</value>
+        </item>
+        <item>
+          <name>Частота строчной развертки</name>
+          <value>15 - 92 кГц</value>
+        </item>
+        <item>
+          <name>Частота кадровой развертки</name>
+          <value>50 - 85 Гц</value>
+        </item>
+        <item>
+          <name>Масштабирование оптическое</name>
+          <value>1.2x</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>1.58 - 1.72</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>16.9 - 20.28 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Контрастность</name>
+          <value>3000:1</value>
+        </item>
+        <item>
+          <name>Световой поток</name>
+          <value>3000 люмен</value>
+        </item>
+        <item>
+          <name>Световой поток в экономичном режиме</name>
+          <value>2400 люмен</value>
+        </item>
+        <item>
+          <name>Коррекция трапецеидальных искажений</name>
+          <value>есть (вертикальная/горизонтальная)</value>
+        </item>
+        <item>
+          <name>Поддерживаемые системы вещания</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>VGA, HDMI, S-Video, композитный, компонентный, аудио RCA</value>
+        </item>
+        <item>
+          <name>Порты</name>
+          <value>USB (тип A), USB (тип B)</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>295x77x228 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.3 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Встроенные громкоговорители</name>
+          <value>1 x 2 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>37 дБ</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>3-in-1 USB Display</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115592">
+    <title>Acer P1303PW</title>
+    <model>P1303PW</model>
+    <marka>Acer</marka>
+    <catalog id="285600">Мультимедиа проекторы</catalog>
+    
+    <price1>25000</price1>
+    <price2>30350</price2>
+    <description>
+
+портативный, DLP, 16:9, HDTV, разрешение: 1280x800, 3D, яркость: 3100 люмен, контрастность: 10000:1, вес: 2.52 кг
+</description>
+    <specification>
+      <items>
+        <name>Основное</name>
+        <item>
+          <name>Класс устройства</name>
+          <value>портативный</value>
+        </item>
+        <item>
+          <name>Тип устройства</name>
+          <value>DLP</value>
+        </item>
+        <item>
+          <name>Рекомендуемая область применения</name>
+          <value>для офиса</value>
+        </item>
+        <item>
+          <name>Реальное разрешение</name>
+          <value>1280x800</value>
+        </item>
+        <item>
+          <name>Широкоформатный</name>
+          <value> да</value>
+        </item>
+        <item>
+          <name>Поддержка HDTV</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Лампа</name>
+        <item>
+          <name>Срок службы лампы</name>
+          <value>3500 часов</value>
+        </item>
+        <item>
+          <name>Срок службы лампы в экономичном режиме</name>
+          <value>5000 часов</value>
+        </item>
+        <item>
+          <name>Количество ламп</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность лампы</name>
+          <value>240 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Проекция</name>
+        <item>
+          <name>Проекционное расстояние</name>
+          <value>1 - 10 м</value>
+        </item>
+        <item>
+          <name>Размеры по диагонали</name>
+          <value>от -- до 7.62 м</value>
+        </item>
+        <item>
+          <name>Отношение расстояния к размеру изображения</name>
+          <value>1.55:1 - 1.7:1</value>
+        </item>
+        <item>
+          <name>Масштабирование оптическое</name>
+          <value>1.1x</value>
+        </item>
+        <item>
+          <name>Масштабирование цифровое</name>
+          <value>2x</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>2.5 - 2.6</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Контрастность</name>
+          <value>10000:1</value>
+        </item>
+        <item>
+          <name>Световой поток</name>
+          <value>3100 люмен</value>
+        </item>
+        <item>
+          <name>Световой поток в экономичном режиме</name>
+          <value>2480 люмен</value>
+        </item>
+        <item>
+          <name>Коррекция трапецеидальных искажений</name>
+          <value>есть (вертикальная)</value>
+        </item>
+        <item>
+          <name>Поддерживаемые системы вещания</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>VGA x2, HDMI, S-Video, композитный, компонентный, аудио mini jack</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>VGA</value>
+        </item>
+        <item>
+          <name>Порты</name>
+          <value>USB (тип B), RS-232</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>269x84x206 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.52 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Встроенные громкоговорители</name>
+          <value>1 x 2 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума</name>
+          <value>31 дБ</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

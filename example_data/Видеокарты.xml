@@ -1,0 +1,2750 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="63336">
+    <title>GIGABYTE GeForce GTX 550 Ti 900Mhz PCI-E 2.0 1024Mb 4100Mhz 192 bit DVI HDMI HDCP</title>
+    <model>GeForce GTX 550 Ti 900Mhz PCI-E 2.0 1024Mb 4100Mhz 192 bit DVI HDMI HDCP</model>
+    <marka>GIGABYTE</marka>
+    <catalog id="755737">Видеокарты</catalog>
+    
+    <price1>2814</price1>
+    <price2>4960</price2>
+    <description>
+ядро: 900 МГц, память: 1024 Мб, GDDR5, 4100 МГц, 192 бит, DVI,  HDMI, VGA
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип видеокарты</name>
+          <value>офисная/игровая</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>NVIDIA GeForce GTX 550 Ti</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E 16x 2.0</value>
+        </item>
+        <item>
+          <name>Кодовое название графического процессора</name>
+          <value>GF116</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>40 нм</value>
+        </item>
+        <item>
+          <name>Количество поддерживаемых мониторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>2560x1600</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Частота графического процессора</name>
+          <value>900 МГц</value>
+        </item>
+        <item>
+          <name>Частота шейдерных блоков</name>
+          <value>1800 МГц</value>
+        </item>
+        <item>
+          <name>Объем видеопамяти</name>
+          <value>1024 Мб</value>
+        </item>
+        <item>
+          <name>Тип видеопамяти</name>
+          <value>GDDR5</value>
+        </item>
+        <item>
+          <name>Частота видеопамяти</name>
+          <value>4100 МГц</value>
+        </item>
+        <item>
+          <name>Разрядность шины видеопамяти</name>
+          <value>192 бит</value>
+        </item>
+        <item>
+          <name>Частота RAMDAC</name>
+          <value>400 МГц</value>
+        </item>
+        <item>
+          <name>Поддержка режима SLI/CrossFire</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъемы</name>
+          <value>DVI, поддержка HDCP, HDMI, VGA</value>
+        </item>
+      </items>
+      <items>
+        <name>Математический блок</name>
+        <item>
+          <name>Число универсальных процессоров</name>
+          <value>192</value>
+        </item>
+        <item>
+          <name>Версия шейдеров</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Число текстурных блоков</name>
+          <value>32</value>
+        </item>
+        <item>
+          <name>Число блоков растеризации</name>
+          <value>24</value>
+        </item>
+        <item>
+          <name>Максимальная степень анизотропной фильтрации</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная степень FSAA</name>
+          <value>32x</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>DirectX 11, OpenGL 4.1</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные характеристики</name>
+        <item>
+          <name>Поддержка CUDA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>да, 6 pin</value>
+        </item>
+        <item>
+          <name>Дизайн системы охлаждения</name>
+          <value>кастомный</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>223x138 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63349">
+    <title>ASUS GeForce GT 640 901Mhz PCI-E 3.0 2048Mb 1782Mhz 128 bit 2xDVI HDMI HDCP</title>
+    <model>GeForce GT 640 901Mhz PCI-E 3.0 2048Mb 1782Mhz 128 bit 2xDVI HDMI HDCP</model>
+    <marka>ASUS</marka>
+    <catalog id="755737">Видеокарты</catalog>
+    
+    <price1>2905</price1>
+    <price2>5134</price2>
+    <description>
+ядро: 901 МГц, память: 2048 Мб, GDDR3, 1782 МГц, 128 бит, DVI x2,  HDMI, VGA
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип видеокарты</name>
+          <value>офисная/игровая</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>NVIDIA GeForce GT 640</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E 16x 3.0</value>
+        </item>
+        <item>
+          <name>Кодовое название графического процессора</name>
+          <value>GK107</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>28 нм</value>
+        </item>
+        <item>
+          <name>Количество поддерживаемых мониторов</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>2560x1600</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Частота графического процессора</name>
+          <value>901 МГц</value>
+        </item>
+        <item>
+          <name>Частота шейдерных блоков</name>
+          <value>1802 МГц</value>
+        </item>
+        <item>
+          <name>Объем видеопамяти</name>
+          <value>2048 Мб</value>
+        </item>
+        <item>
+          <name>Тип видеопамяти</name>
+          <value>GDDR3</value>
+        </item>
+        <item>
+          <name>Частота видеопамяти</name>
+          <value>1782 МГц</value>
+        </item>
+        <item>
+          <name>Разрядность шины видеопамяти</name>
+          <value>128 бит</value>
+        </item>
+        <item>
+          <name>Частота RAMDAC</name>
+          <value>400 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъемы</name>
+          <value>DVI x2, поддержка HDCP, HDMI, VGA</value>
+        </item>
+      </items>
+      <items>
+        <name>Математический блок</name>
+        <item>
+          <name>Число универсальных процессоров</name>
+          <value>384</value>
+        </item>
+        <item>
+          <name>Версия шейдеров</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Число текстурных блоков</name>
+          <value>32</value>
+        </item>
+        <item>
+          <name>Число блоков растеризации</name>
+          <value>16</value>
+        </item>
+        <item>
+          <name>Максимальная степень анизотропной фильтрации</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная степень FSAA</name>
+          <value>32x</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>DirectX 11, OpenGL 4.2</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные характеристики</name>
+        <item>
+          <name>Поддержка CUDA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дизайн системы охлаждения</name>
+          <value>кастомный</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество занимаемых слотов</name>
+          <value>2</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63352">
+    <title>ASUS GeForce GTX 680 1006Mhz PCI-E 3.0 2048Mb 6008Mhz 256 bit 2xDVI HDMI HDCP DirectCU</title>
+    <model>GeForce GTX 680 1006Mhz PCI-E 3.0 2048Mb 6008Mhz 256 bit 2xDVI HDMI HDCP DirectCU</model>
+    <marka>ASUS</marka>
+    <catalog id="755737">Видеокарты</catalog>
+    
+    <price1>13950</price1>
+    <price2>19600</price2>
+    <description>
+ядро: 1006 МГц, память: 2048 Мб, GDDR5, 6008 МГц, 256 бит, DVI x2, DisplayPort,  HDMI
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип видеокарты</name>
+          <value>офисная/игровая</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>NVIDIA GeForce GTX 680</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E 16x 3.0</value>
+        </item>
+        <item>
+          <name>Кодовое название графического процессора</name>
+          <value>GK104</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>28 нм</value>
+        </item>
+        <item>
+          <name>Количество поддерживаемых мониторов</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>2560x1600</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Частота графического процессора</name>
+          <value>1006 МГц</value>
+        </item>
+        <item>
+          <name>Объем видеопамяти</name>
+          <value>2048 Мб</value>
+        </item>
+        <item>
+          <name>Тип видеопамяти</name>
+          <value>GDDR5</value>
+        </item>
+        <item>
+          <name>Частота видеопамяти</name>
+          <value>6008 МГц</value>
+        </item>
+        <item>
+          <name>Разрядность шины видеопамяти</name>
+          <value>256 бит</value>
+        </item>
+        <item>
+          <name>Частота RAMDAC</name>
+          <value>400 МГц</value>
+        </item>
+        <item>
+          <name>Поддержка режима SLI/CrossFire</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка 3-Way SLI</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъемы</name>
+          <value>DVI x2, поддержка HDCP, HDMI, DisplayPort</value>
+        </item>
+      </items>
+      <items>
+        <name>Математический блок</name>
+        <item>
+          <name>Число универсальных процессоров</name>
+          <value>1536</value>
+        </item>
+        <item>
+          <name>Версия шейдеров</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Число текстурных блоков</name>
+          <value>128</value>
+        </item>
+        <item>
+          <name>Число блоков растеризации</name>
+          <value>32</value>
+        </item>
+        <item>
+          <name>Максимальная степень анизотропной фильтрации</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная степень FSAA</name>
+          <value>32x</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>DirectX 11, OpenGL 4.2</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные характеристики</name>
+        <item>
+          <name>Поддержка CUDA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>да, 8 pin + 6 pin</value>
+        </item>
+        <item>
+          <name>Дизайн системы охлаждения</name>
+          <value>кастомный</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество занимаемых слотов</name>
+          <value>3</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63360">
+    <title>GIGABYTE Radeon HD 7770 1100Mhz PCI-E 3.0 1024Mb 5000Mhz 128 bit DVI HDMI HDCP</title>
+    <model>Radeon HD 7770 1100Mhz PCI-E 3.0 1024Mb 5000Mhz 128 bit DVI HDMI HDCP</model>
+    <marka>GIGABYTE</marka>
+    <catalog id="755737">Видеокарты</catalog>
+    
+    <price1>3717</price1>
+    <price2>6256</price2>
+    <description>
+ядро: 1100 МГц, память: 1024 Мб, GDDR5, 4500 МГц, 128 бит, DVI, Mini DisplayPort,  HDMI
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип видеокарты</name>
+          <value>офисная/игровая</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>AMD Radeon HD 7770</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E 16x 3.0</value>
+        </item>
+        <item>
+          <name>Кодовое название графического процессора</name>
+          <value>Cape Verde XT</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>28 нм</value>
+        </item>
+        <item>
+          <name>Количество поддерживаемых мониторов</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>4096x2160</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Частота графического процессора</name>
+          <value>1100 МГц</value>
+        </item>
+        <item>
+          <name>Объем видеопамяти</name>
+          <value>1024 Мб</value>
+        </item>
+        <item>
+          <name>Тип видеопамяти</name>
+          <value>GDDR5</value>
+        </item>
+        <item>
+          <name>Частота видеопамяти</name>
+          <value>5000 МГц</value>
+        </item>
+        <item>
+          <name>Разрядность шины видеопамяти</name>
+          <value>128 бит</value>
+        </item>
+        <item>
+          <name>Частота RAMDAC</name>
+          <value>400 МГц</value>
+        </item>
+        <item>
+          <name>Поддержка режима SLI/CrossFire</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка CrossFire X</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъемы</name>
+          <value>DVI, поддержка HDCP, HDMI, Mini DisplayPort x2</value>
+        </item>
+      </items>
+      <items>
+        <name>Математический блок</name>
+        <item>
+          <name>Число универсальных процессоров</name>
+          <value>640</value>
+        </item>
+        <item>
+          <name>Версия шейдеров</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Число текстурных блоков</name>
+          <value>40</value>
+        </item>
+        <item>
+          <name>Число блоков растеризации</name>
+          <value>16</value>
+        </item>
+        <item>
+          <name>Максимальная степень анизотропной фильтрации</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная степень FSAA</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>DirectX 11, OpenGL 4.2</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные характеристики</name>
+        <item>
+          <name>Поддержка AMD APP (ATI Stream)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>да, 6 pin</value>
+        </item>
+        <item>
+          <name>Дизайн системы охлаждения</name>
+          <value>кастомный</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>212x137 мм</value>
+        </item>
+        <item>
+          <name>Количество занимаемых слотов</name>
+          <value>2</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63365">
+    <title>ASUS GeForce GT 610 810Mhz PCI-E 2.0 1024Mb 1200Mhz 64 bit DVI HDMI HDCP Silent</title>
+    <model>GeForce GT 610 810Mhz PCI-E 2.0 1024Mb 1200Mhz 64 bit DVI HDMI HDCP Silent</model>
+    <marka>ASUS</marka>
+    <catalog id="755737">Видеокарты</catalog>
+    
+    <price1>1280</price1>
+    <price2>3502</price2>
+    <description>
+ядро: 810 МГц, память: 1024 Мб, GDDR3, 1200 МГц, 64 бит, DVI,  HDMI, VGA
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип видеокарты</name>
+          <value>офисная/игровая</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>NVIDIA GeForce GT 610</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E 16x 2.0</value>
+        </item>
+        <item>
+          <name>Кодовое название графического процессора</name>
+          <value>GF108</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>40 нм</value>
+        </item>
+        <item>
+          <name>Количество поддерживаемых мониторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>2560x1600</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Частота графического процессора</name>
+          <value>810 МГц</value>
+        </item>
+        <item>
+          <name>Частота шейдерных блоков</name>
+          <value>1620 МГц</value>
+        </item>
+        <item>
+          <name>Объем видеопамяти</name>
+          <value>1024 Мб</value>
+        </item>
+        <item>
+          <name>Тип видеопамяти</name>
+          <value>GDDR3</value>
+        </item>
+        <item>
+          <name>Частота видеопамяти</name>
+          <value>1200 МГц</value>
+        </item>
+        <item>
+          <name>Разрядность шины видеопамяти</name>
+          <value>64 бит</value>
+        </item>
+        <item>
+          <name>Частота RAMDAC</name>
+          <value>400 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъемы</name>
+          <value>DVI, поддержка HDCP, HDMI, VGA</value>
+        </item>
+      </items>
+      <items>
+        <name>Математический блок</name>
+        <item>
+          <name>Число универсальных процессоров</name>
+          <value>48</value>
+        </item>
+        <item>
+          <name>Версия шейдеров</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Максимальная степень анизотропной фильтрации</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная степень FSAA</name>
+          <value>32x</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>DirectX 11, OpenGL 4.2</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные характеристики</name>
+        <item>
+          <name>Поддержка CUDA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дизайн системы охлаждения</name>
+          <value>кастомный</value>
+        </item>
+        <item>
+          <name>Охлаждение</name>
+          <value>пассивное</value>
+        </item>
+        <item>
+          <name>Форм-фактор</name>
+          <value> Low Profile (низкопрофильная)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63374">
+    <title>GIGABYTE GeForce GT 630 810Mhz PCI-E 2.0 2048Mb 1600Mhz 128 bit DVI HDMI HDCP</title>
+    <model>GeForce GT 630 810Mhz PCI-E 2.0 2048Mb 1600Mhz 128 bit DVI HDMI HDCP</model>
+    <marka>GIGABYTE</marka>
+    <catalog id="755737">Видеокарты</catalog>
+    
+    <price1>2085</price1>
+    <price2>5338</price2>
+    <description>
+ядро: 810 МГц, память: 2048 Мб, GDDR3, 1600 МГц, 128 бит, DVI,  HDMI, VGA
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип видеокарты</name>
+          <value>офисная/игровая</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>NVIDIA GeForce GT 630</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E 16x 2.0</value>
+        </item>
+        <item>
+          <name>Кодовое название графического процессора</name>
+          <value>GF108</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>40 нм</value>
+        </item>
+        <item>
+          <name>Количество поддерживаемых мониторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>2560x1600</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Частота графического процессора</name>
+          <value>810 МГц</value>
+        </item>
+        <item>
+          <name>Частота шейдерных блоков</name>
+          <value>1620 МГц</value>
+        </item>
+        <item>
+          <name>Объем видеопамяти</name>
+          <value>2048 Мб</value>
+        </item>
+        <item>
+          <name>Тип видеопамяти</name>
+          <value>GDDR3</value>
+        </item>
+        <item>
+          <name>Частота видеопамяти</name>
+          <value>1600 МГц</value>
+        </item>
+        <item>
+          <name>Разрядность шины видеопамяти</name>
+          <value>128 бит</value>
+        </item>
+        <item>
+          <name>Частота RAMDAC</name>
+          <value>400 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъемы</name>
+          <value>DVI, поддержка HDCP, HDMI, VGA</value>
+        </item>
+      </items>
+      <items>
+        <name>Математический блок</name>
+        <item>
+          <name>Число универсальных процессоров</name>
+          <value>96</value>
+        </item>
+        <item>
+          <name>Версия шейдеров</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Число текстурных блоков</name>
+          <value>16</value>
+        </item>
+        <item>
+          <name>Число блоков растеризации</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Максимальная степень анизотропной фильтрации</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная степень FSAA</name>
+          <value>32x</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>DirectX 11, OpenGL 4.2</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные характеристики</name>
+        <item>
+          <name>Поддержка CUDA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дизайн системы охлаждения</name>
+          <value>кастомный</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>186x127 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63377">
+    <title>GIGABYTE GeForce GT 610 810Mhz PCI-E 2.0 1024Mb 1333Mhz 64 bit DVI HDMI HDCP</title>
+    <model>GeForce GT 610 810Mhz PCI-E 2.0 1024Mb 1333Mhz 64 bit DVI HDMI HDCP</model>
+    <marka>GIGABYTE</marka>
+    <catalog id="755737">Видеокарты</catalog>
+    
+    <price1>1296</price1>
+    <price2>3672</price2>
+    <description>
+ядро: 810 МГц, память: 1024 Мб, GDDR3, 1333 МГц, 64 бит, DVI,  HDMI, VGA
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип видеокарты</name>
+          <value>офисная/игровая</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>NVIDIA GeForce GT 610</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E 16x 2.0</value>
+        </item>
+        <item>
+          <name>Кодовое название графического процессора</name>
+          <value>GF108</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>40 нм</value>
+        </item>
+        <item>
+          <name>Количество поддерживаемых мониторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>2560x1600</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Частота графического процессора</name>
+          <value>810 МГц</value>
+        </item>
+        <item>
+          <name>Частота шейдерных блоков</name>
+          <value>1620 МГц</value>
+        </item>
+        <item>
+          <name>Объем видеопамяти</name>
+          <value>1024 Мб</value>
+        </item>
+        <item>
+          <name>Тип видеопамяти</name>
+          <value>GDDR3</value>
+        </item>
+        <item>
+          <name>Частота видеопамяти</name>
+          <value>1333 МГц</value>
+        </item>
+        <item>
+          <name>Разрядность шины видеопамяти</name>
+          <value>64 бит</value>
+        </item>
+        <item>
+          <name>Частота RAMDAC</name>
+          <value>400 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъемы</name>
+          <value>DVI, поддержка HDCP, HDMI, VGA</value>
+        </item>
+      </items>
+      <items>
+        <name>Математический блок</name>
+        <item>
+          <name>Число универсальных процессоров</name>
+          <value>48</value>
+        </item>
+        <item>
+          <name>Версия шейдеров</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Максимальная степень анизотропной фильтрации</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная степень FSAA</name>
+          <value>32x</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>DirectX 11, OpenGL 4.2</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные характеристики</name>
+        <item>
+          <name>Поддержка CUDA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дизайн системы охлаждения</name>
+          <value>кастомный</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Форм-фактор</name>
+          <value> Low Profile (низкопрофильная)</value>
+        </item>
+        <item>
+          <name>Количество занимаемых слотов</name>
+          <value>1</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63380">
+    <title>Palit GeForce GT 640 900Mhz PCI-E 3.0 2048Mb 1782Mhz 128 bit DVI HDMI HDCP</title>
+    <model>GeForce GT 640 900Mhz PCI-E 3.0 2048Mb 1782Mhz 128 bit DVI HDMI HDCP</model>
+    <marka>Palit</marka>
+    <catalog id="755737">Видеокарты</catalog>
+    
+    <price1>2350</price1>
+    <price2>4862</price2>
+    <description>
+ядро: 900 МГц, память: 2048 Мб, GDDR3, 1782 МГц, 128 бит, DVI,  HDMI, VGA
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип видеокарты</name>
+          <value>офисная/игровая</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>NVIDIA GeForce GT 640</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E 16x 3.0</value>
+        </item>
+        <item>
+          <name>Кодовое название графического процессора</name>
+          <value>GK107</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>28 нм</value>
+        </item>
+        <item>
+          <name>Количество поддерживаемых мониторов</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>2560x1600</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Частота графического процессора</name>
+          <value>900 МГц</value>
+        </item>
+        <item>
+          <name>Частота шейдерных блоков</name>
+          <value>1800 МГц</value>
+        </item>
+        <item>
+          <name>Объем видеопамяти</name>
+          <value>2048 Мб</value>
+        </item>
+        <item>
+          <name>Тип видеопамяти</name>
+          <value>GDDR3</value>
+        </item>
+        <item>
+          <name>Частота видеопамяти</name>
+          <value>1782 МГц</value>
+        </item>
+        <item>
+          <name>Разрядность шины видеопамяти</name>
+          <value>128 бит</value>
+        </item>
+        <item>
+          <name>Частота RAMDAC</name>
+          <value>400 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъемы</name>
+          <value>DVI, поддержка HDCP, HDMI, VGA</value>
+        </item>
+      </items>
+      <items>
+        <name>Математический блок</name>
+        <item>
+          <name>Число универсальных процессоров</name>
+          <value>384</value>
+        </item>
+        <item>
+          <name>Версия шейдеров</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Число текстурных блоков</name>
+          <value>32</value>
+        </item>
+        <item>
+          <name>Число блоков растеризации</name>
+          <value>16</value>
+        </item>
+        <item>
+          <name>Максимальная степень анизотропной фильтрации</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная степень FSAA</name>
+          <value>32x</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>DirectX 11, OpenGL 4.2</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные характеристики</name>
+        <item>
+          <name>Поддержка CUDA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дизайн системы охлаждения</name>
+          <value>кастомный</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Форм-фактор</name>
+          <value> Low Profile (низкопрофильная)</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>150x69 мм</value>
+        </item>
+        <item>
+          <name>Количество занимаемых слотов</name>
+          <value>2</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63383">
+    <title>ASUS GeForce GTX 560 Ti 830Mhz PCI-E 2.0 1024Mb 4000Mhz 256 bit 2xDVI Mini-HDMI HDCP</title>
+    <model>GeForce GTX 560 Ti 830Mhz PCI-E 2.0 1024Mb 4000Mhz 256 bit 2xDVI Mini-HDMI HDCP</model>
+    <marka>ASUS</marka>
+    <catalog id="755737">Видеокарты</catalog>
+    
+    <price1>7095</price1>
+    <price2>11408</price2>
+    <description>
+ядро: 830 МГц, память: 1024 Мб, GDDR5, 4000 МГц, 256 бит, DVI x2, mini HDMI
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип видеокарты</name>
+          <value>офисная/игровая</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>NVIDIA GeForce GTX 560 Ti</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E 16x 2.0</value>
+        </item>
+        <item>
+          <name>Кодовое название графического процессора</name>
+          <value>GF114</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>40 нм</value>
+        </item>
+        <item>
+          <name>Количество поддерживаемых мониторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>2560x1600</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Частота графического процессора</name>
+          <value>830 МГц</value>
+        </item>
+        <item>
+          <name>Частота шейдерных блоков</name>
+          <value>1660 МГц</value>
+        </item>
+        <item>
+          <name>Объем видеопамяти</name>
+          <value>1024 Мб</value>
+        </item>
+        <item>
+          <name>Тип видеопамяти</name>
+          <value>GDDR5</value>
+        </item>
+        <item>
+          <name>Частота видеопамяти</name>
+          <value>4000 МГц</value>
+        </item>
+        <item>
+          <name>Разрядность шины видеопамяти</name>
+          <value>256 бит</value>
+        </item>
+        <item>
+          <name>Частота RAMDAC</name>
+          <value>400 МГц</value>
+        </item>
+        <item>
+          <name>Поддержка режима SLI/CrossFire</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъемы</name>
+          <value>DVI x2, поддержка HDCP, Mini HDMI</value>
+        </item>
+      </items>
+      <items>
+        <name>Математический блок</name>
+        <item>
+          <name>Число универсальных процессоров</name>
+          <value>384</value>
+        </item>
+        <item>
+          <name>Версия шейдеров</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Число текстурных блоков</name>
+          <value>64</value>
+        </item>
+        <item>
+          <name>Число блоков растеризации</name>
+          <value>32</value>
+        </item>
+        <item>
+          <name>Максимальная степень анизотропной фильтрации</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная степень FSAA</name>
+          <value>32x</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>DirectX 11, OpenGL 4.1</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные характеристики</name>
+        <item>
+          <name>Поддержка CUDA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>да, 6 pin + 6 pin</value>
+        </item>
+        <item>
+          <name>Количество занимаемых слотов</name>
+          <value>2</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63385">
+    <title>Palit GeForce GT 640 900Mhz PCI-E 3.0 1024Mb 1782Mhz 128 bit DVI HDMI HDCP</title>
+    <model>GeForce GT 640 900Mhz PCI-E 3.0 1024Mb 1782Mhz 128 bit DVI HDMI HDCP</model>
+    <marka>Palit</marka>
+    <catalog id="755737">Видеокарты</catalog>
+    
+    <price1>2123</price1>
+    <price2>4794</price2>
+    <description>
+ядро: 900 МГц, память: 1024 Мб, GDDR3, 1782 МГц, 128 бит, DVI,  HDMI, VGA
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип видеокарты</name>
+          <value>офисная/игровая</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>NVIDIA GeForce GT 640</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E 16x 3.0</value>
+        </item>
+        <item>
+          <name>Кодовое название графического процессора</name>
+          <value>GK107</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>28 нм</value>
+        </item>
+        <item>
+          <name>Количество поддерживаемых мониторов</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>2560x1600</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Частота графического процессора</name>
+          <value>900 МГц</value>
+        </item>
+        <item>
+          <name>Частота шейдерных блоков</name>
+          <value>1800 МГц</value>
+        </item>
+        <item>
+          <name>Объем видеопамяти</name>
+          <value>1024 Мб</value>
+        </item>
+        <item>
+          <name>Тип видеопамяти</name>
+          <value>GDDR3</value>
+        </item>
+        <item>
+          <name>Частота видеопамяти</name>
+          <value>1782 МГц</value>
+        </item>
+        <item>
+          <name>Разрядность шины видеопамяти</name>
+          <value>128 бит</value>
+        </item>
+        <item>
+          <name>Частота RAMDAC</name>
+          <value>400 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъемы</name>
+          <value>DVI, поддержка HDCP, HDMI, VGA</value>
+        </item>
+      </items>
+      <items>
+        <name>Математический блок</name>
+        <item>
+          <name>Число универсальных процессоров</name>
+          <value>384</value>
+        </item>
+        <item>
+          <name>Версия шейдеров</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Число текстурных блоков</name>
+          <value>32</value>
+        </item>
+        <item>
+          <name>Число блоков растеризации</name>
+          <value>16</value>
+        </item>
+        <item>
+          <name>Максимальная степень анизотропной фильтрации</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная степень FSAA</name>
+          <value>32x</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>DirectX 11, OpenGL 4.2</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные характеристики</name>
+        <item>
+          <name>Поддержка CUDA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дизайн системы охлаждения</name>
+          <value>кастомный</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Форм-фактор</name>
+          <value> Low Profile (низкопрофильная)</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>150x69 мм</value>
+        </item>
+        <item>
+          <name>Количество занимаемых слотов</name>
+          <value>2</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63388">
+    <title>GIGABYTE GeForce GTX 690 915Mhz PCI-E 3.0 4096Mb 6008Mhz 512 bit 3xDVI HDCP</title>
+    <model>GeForce GTX 690 915Mhz PCI-E 3.0 4096Mb 6008Mhz 512 bit 3xDVI HDCP</model>
+    <marka>GIGABYTE</marka>
+    <catalog id="755737">Видеокарты</catalog>
+    
+    <price1>29787</price1>
+    <price2>34789</price2>
+    <description>
+ядро: 915 МГц, память: 4096 Мб, GDDR5, 6008 МГц, 512 бит, DVI x3, Mini DisplayPort
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип видеокарты</name>
+          <value>офисная/игровая</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>2 x NVIDIA GeForce GTX 690</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E 16x 3.0</value>
+        </item>
+        <item>
+          <name>Кодовое название графического процессора</name>
+          <value>2xGK104</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>28 нм</value>
+        </item>
+        <item>
+          <name>Количество поддерживаемых мониторов</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>2560x1600</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Частота графического процессора</name>
+          <value>915 МГц</value>
+        </item>
+        <item>
+          <name>Объем видеопамяти</name>
+          <value>4096 Мб</value>
+        </item>
+        <item>
+          <name>Тип видеопамяти</name>
+          <value>GDDR5</value>
+        </item>
+        <item>
+          <name>Частота видеопамяти</name>
+          <value>6008 МГц</value>
+        </item>
+        <item>
+          <name>Разрядность шины видеопамяти</name>
+          <value>512 бит</value>
+        </item>
+        <item>
+          <name>Частота RAMDAC</name>
+          <value>400 МГц</value>
+        </item>
+        <item>
+          <name>Поддержка режима SLI/CrossFire</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Quad SLI</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъемы</name>
+          <value>DVI x3, поддержка HDCP, Mini DisplayPort</value>
+        </item>
+      </items>
+      <items>
+        <name>Математический блок</name>
+        <item>
+          <name>Число универсальных процессоров</name>
+          <value>3072</value>
+        </item>
+        <item>
+          <name>Версия шейдеров</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Число текстурных блоков</name>
+          <value>256</value>
+        </item>
+        <item>
+          <name>Число блоков растеризации</name>
+          <value>64</value>
+        </item>
+        <item>
+          <name>Максимальная степень анизотропной фильтрации</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная степень FSAA</name>
+          <value>32x</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>DirectX 11, OpenGL 4.2</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные характеристики</name>
+        <item>
+          <name>Поддержка CUDA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>да, 8 pin + 8 pin</value>
+        </item>
+        <item>
+          <name>Дизайн системы охлаждения</name>
+          <value>референсный</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>279x111 мм</value>
+        </item>
+        <item>
+          <name>Количество занимаемых слотов</name>
+          <value>2</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63391">
+    <title>GIGABYTE Radeon HD 7850 975Mhz PCI-E 3.0 2048Mb 4800Mhz 256 bit DVI HDMI HDCP</title>
+    <model>Radeon HD 7850 975Mhz PCI-E 3.0 2048Mb 4800Mhz 256 bit DVI HDMI HDCP</model>
+    <marka>GIGABYTE</marka>
+    <catalog id="755737">Видеокарты</catalog>
+    
+    <price1>6401</price1>
+    <price2>6500</price2>
+    <description>
+ядро: 975 МГц, память: 2048 Мб, GDDR5, 4800 МГц, 256 бит, DVI, Mini DisplayPort,  HDMI
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип видеокарты</name>
+          <value>офисная/игровая</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>AMD Radeon HD 7850</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E 16x 3.0</value>
+        </item>
+        <item>
+          <name>Кодовое название графического процессора</name>
+          <value>Pitcairn Pro</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>28 нм</value>
+        </item>
+        <item>
+          <name>Количество поддерживаемых мониторов</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>4096x2160</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Частота графического процессора</name>
+          <value>975 МГц</value>
+        </item>
+        <item>
+          <name>Объем видеопамяти</name>
+          <value>2048 Мб</value>
+        </item>
+        <item>
+          <name>Тип видеопамяти</name>
+          <value>GDDR5</value>
+        </item>
+        <item>
+          <name>Частота видеопамяти</name>
+          <value>4800 МГц</value>
+        </item>
+        <item>
+          <name>Разрядность шины видеопамяти</name>
+          <value>256 бит</value>
+        </item>
+        <item>
+          <name>Частота RAMDAC</name>
+          <value>400 МГц</value>
+        </item>
+        <item>
+          <name>Поддержка режима SLI/CrossFire</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка CrossFire X</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъемы</name>
+          <value>DVI, поддержка HDCP, HDMI, Mini DisplayPort x2</value>
+        </item>
+      </items>
+      <items>
+        <name>Математический блок</name>
+        <item>
+          <name>Число универсальных процессоров</name>
+          <value>1024</value>
+        </item>
+        <item>
+          <name>Версия шейдеров</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Число текстурных блоков</name>
+          <value>64</value>
+        </item>
+        <item>
+          <name>Число блоков растеризации</name>
+          <value>32</value>
+        </item>
+        <item>
+          <name>Максимальная степень анизотропной фильтрации</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная степень FSAA</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>DirectX 11.1, OpenGL 4.2</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные характеристики</name>
+        <item>
+          <name>Поддержка AMD APP (ATI Stream)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>да, 6 pin</value>
+        </item>
+        <item>
+          <name>Дизайн системы охлаждения</name>
+          <value>кастомный</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>241x137 мм</value>
+        </item>
+        <item>
+          <name>Количество занимаемых слотов</name>
+          <value>2</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63401">
+    <title>ASUS GeForce GT 610 810Mhz PCI-E 2.0 2048Mb 1200Mhz 64 bit DVI HDMI HDCP</title>
+    <model>GeForce GT 610 810Mhz PCI-E 2.0 2048Mb 1200Mhz 64 bit DVI HDMI HDCP</model>
+    <marka>ASUS</marka>
+    <catalog id="755737">Видеокарты</catalog>
+    
+    <price1>1483</price1>
+    <price2>4060</price2>
+    <description>
+ядро: 810 МГц, память: 2048 Мб, GDDR3, 1200 МГц, 64 бит, DVI,  HDMI, VGA
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип видеокарты</name>
+          <value>офисная/игровая</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>NVIDIA GeForce GT 610</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E 16x 2.0</value>
+        </item>
+        <item>
+          <name>Кодовое название графического процессора</name>
+          <value>GF108</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>40 нм</value>
+        </item>
+        <item>
+          <name>Количество поддерживаемых мониторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>2560x1600</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Частота графического процессора</name>
+          <value>810 МГц</value>
+        </item>
+        <item>
+          <name>Частота шейдерных блоков</name>
+          <value>1620 МГц</value>
+        </item>
+        <item>
+          <name>Объем видеопамяти</name>
+          <value>2048 Мб</value>
+        </item>
+        <item>
+          <name>Тип видеопамяти</name>
+          <value>GDDR3</value>
+        </item>
+        <item>
+          <name>Частота видеопамяти</name>
+          <value>1200 МГц</value>
+        </item>
+        <item>
+          <name>Разрядность шины видеопамяти</name>
+          <value>64 бит</value>
+        </item>
+        <item>
+          <name>Частота RAMDAC</name>
+          <value>400 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъемы</name>
+          <value>DVI, поддержка HDCP, HDMI, VGA</value>
+        </item>
+      </items>
+      <items>
+        <name>Математический блок</name>
+        <item>
+          <name>Число универсальных процессоров</name>
+          <value>48</value>
+        </item>
+        <item>
+          <name>Версия шейдеров</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Максимальная степень анизотропной фильтрации</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная степень FSAA</name>
+          <value>32x</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>DirectX 11, OpenGL 4.2</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные характеристики</name>
+        <item>
+          <name>Поддержка CUDA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дизайн системы охлаждения</name>
+          <value>кастомный</value>
+        </item>
+        <item>
+          <name>Охлаждение</name>
+          <value>пассивное</value>
+        </item>
+        <item>
+          <name>Форм-фактор</name>
+          <value> Low Profile (низкопрофильная)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63408">
+    <title>MSI GeForce GTX 550 Ti 900Mhz PCI-E 2.0 1024Mb 4000Mhz 192 bit DVI HDMI HDCP Cool</title>
+    <model>GeForce GTX 550 Ti 900Mhz PCI-E 2.0 1024Mb 4000Mhz 192 bit DVI HDMI HDCP Cool</model>
+    <marka>MSI</marka>
+    <catalog id="755737">Видеокарты</catalog>
+    
+    <price1>3480</price1>
+    <price2>3820</price2>
+    <description>
+ядро: 900 МГц, память: 1024 Мб, GDDR5, 3800 МГц, 192 бит, DVI,  HDMI, VGA
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип видеокарты</name>
+          <value>офисная/игровая</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>NVIDIA GeForce GTX 550 Ti</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E 16x 2.0</value>
+        </item>
+        <item>
+          <name>Кодовое название графического процессора</name>
+          <value>GF116</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>40 нм</value>
+        </item>
+        <item>
+          <name>Количество поддерживаемых мониторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>2560x1600</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Частота графического процессора</name>
+          <value>900 МГц</value>
+        </item>
+        <item>
+          <name>Объем видеопамяти</name>
+          <value>1024 Мб</value>
+        </item>
+        <item>
+          <name>Тип видеопамяти</name>
+          <value>GDDR5</value>
+        </item>
+        <item>
+          <name>Частота видеопамяти</name>
+          <value>4000 МГц</value>
+        </item>
+        <item>
+          <name>Разрядность шины видеопамяти</name>
+          <value>192 бит</value>
+        </item>
+        <item>
+          <name>Частота RAMDAC</name>
+          <value>400 МГц</value>
+        </item>
+        <item>
+          <name>Поддержка режима SLI/CrossFire</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъемы</name>
+          <value>DVI, поддержка HDCP, HDMI, VGA</value>
+        </item>
+      </items>
+      <items>
+        <name>Математический блок</name>
+        <item>
+          <name>Число универсальных процессоров</name>
+          <value>192</value>
+        </item>
+        <item>
+          <name>Версия шейдеров</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Число текстурных блоков</name>
+          <value>32</value>
+        </item>
+        <item>
+          <name>Число блоков растеризации</name>
+          <value>24</value>
+        </item>
+        <item>
+          <name>Максимальная степень анизотропной фильтрации</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная степень FSAA</name>
+          <value>32x</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>DirectX 11, OpenGL 4.1</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные характеристики</name>
+        <item>
+          <name>Поддержка CUDA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>да, 6 pin</value>
+        </item>
+        <item>
+          <name>Дизайн системы охлаждения</name>
+          <value>референсный</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>204x111 мм</value>
+        </item>
+        <item>
+          <name>Количество занимаемых слотов</name>
+          <value>2</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63431">
+    <title>Palit GeForce GT 630 810Mhz PCI-E 2.0 1024Mb 3200Mhz 128 bit DVI HDMI HDCP</title>
+    <model>GeForce GT 630 810Mhz PCI-E 2.0 1024Mb 3200Mhz 128 bit DVI HDMI HDCP</model>
+    <marka>Palit</marka>
+    <catalog id="755737">Видеокарты</catalog>
+    
+    <price1>1698</price1>
+    <price2>4522</price2>
+    <description>
+ядро: 810 МГц, память: 1024 Мб, GDDR5, 3200 МГц, 128 бит, DVI,  HDMI, VGA
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип видеокарты</name>
+          <value>офисная/игровая</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>NVIDIA GeForce GT 630</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E 16x 2.0</value>
+        </item>
+        <item>
+          <name>Кодовое название графического процессора</name>
+          <value>GF108</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>40 нм</value>
+        </item>
+        <item>
+          <name>Количество поддерживаемых мониторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>2560x1600</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Частота графического процессора</name>
+          <value>810 МГц</value>
+        </item>
+        <item>
+          <name>Частота шейдерных блоков</name>
+          <value>1620 МГц</value>
+        </item>
+        <item>
+          <name>Объем видеопамяти</name>
+          <value>1024 Мб</value>
+        </item>
+        <item>
+          <name>Тип видеопамяти</name>
+          <value>GDDR5</value>
+        </item>
+        <item>
+          <name>Частота видеопамяти</name>
+          <value>3200 МГц</value>
+        </item>
+        <item>
+          <name>Разрядность шины видеопамяти</name>
+          <value>128 бит</value>
+        </item>
+        <item>
+          <name>Частота RAMDAC</name>
+          <value>400 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъемы</name>
+          <value>DVI, поддержка HDCP, HDMI, VGA</value>
+        </item>
+      </items>
+      <items>
+        <name>Математический блок</name>
+        <item>
+          <name>Число универсальных процессоров</name>
+          <value>96</value>
+        </item>
+        <item>
+          <name>Версия шейдеров</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Число текстурных блоков</name>
+          <value>16</value>
+        </item>
+        <item>
+          <name>Число блоков растеризации</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Максимальная степень анизотропной фильтрации</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная степень FSAA</name>
+          <value>32x</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>DirectX 11, OpenGL 4.2</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные характеристики</name>
+        <item>
+          <name>Поддержка CUDA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дизайн системы охлаждения</name>
+          <value>кастомный</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>145x112 мм</value>
+        </item>
+        <item>
+          <name>Количество занимаемых слотов</name>
+          <value>2</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63442">
+    <title>PNY Quadro 600 640Mhz PCI-E 2.0 1024Mb 1600Mhz 128 bit DVI</title>
+    <model>Quadro 600 640Mhz PCI-E 2.0 1024Mb 1600Mhz 128 bit DVI</model>
+    <marka>PNY</marka>
+    <catalog id="755737">Видеокарты</catalog>
+    
+    <price1>5230</price1>
+    <price2>7570</price2>
+    <description>
+профессиональная, ядро: 640 МГц, память: 1024 Мб, GDDR3, 1600 МГц, 128 бит, DVI, DisplayPort
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип видеокарты</name>
+          <value>профессиональная</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>NVIDIA Quadro 600</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E 16x 2.0</value>
+        </item>
+        <item>
+          <name>Кодовое название графического процессора</name>
+          <value>GF108</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>40 нм</value>
+        </item>
+        <item>
+          <name>Количество поддерживаемых мониторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>2560x1600</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Частота графического процессора</name>
+          <value>640 МГц</value>
+        </item>
+        <item>
+          <name>Частота шейдерных блоков</name>
+          <value>1280 МГц</value>
+        </item>
+        <item>
+          <name>Объем видеопамяти</name>
+          <value>1024 Мб</value>
+        </item>
+        <item>
+          <name>Тип видеопамяти</name>
+          <value>GDDR3</value>
+        </item>
+        <item>
+          <name>Частота видеопамяти</name>
+          <value>1600 МГц</value>
+        </item>
+        <item>
+          <name>Разрядность шины видеопамяти</name>
+          <value>128 бит</value>
+        </item>
+        <item>
+          <name>Частота RAMDAC</name>
+          <value>400 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъемы</name>
+          <value>DVI, DisplayPort</value>
+        </item>
+      </items>
+      <items>
+        <name>Математический блок</name>
+        <item>
+          <name>Число универсальных процессоров</name>
+          <value>96</value>
+        </item>
+        <item>
+          <name>Версия шейдеров</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Максимальная степень анизотропной фильтрации</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная степень FSAA</name>
+          <value>64x</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>DirectX 11, OpenGL 4.1</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные характеристики</name>
+        <item>
+          <name>Поддержка CUDA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Форм-фактор</name>
+          <value> Low Profile (низкопрофильная)</value>
+        </item>
+        <item>
+          <name>Количество занимаемых слотов</name>
+          <value>1</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63451">
+    <title>MSI GeForce GT 630 810Mhz PCI-E 2.0 1024Mb 1000Mhz 128 bit DVI HDMI HDCP</title>
+    <model>GeForce GT 630 810Mhz PCI-E 2.0 1024Mb 1000Mhz 128 bit DVI HDMI HDCP</model>
+    <marka>MSI</marka>
+    <catalog id="755737">Видеокарты</catalog>
+    
+    <price1>1643</price1>
+    <price2>2555</price2>
+    <description>
+ядро: 810 МГц, память: 1024 Мб, GDDR3, 1000 МГц, 128 бит, DVI,  HDMI, VGA
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип видеокарты</name>
+          <value>офисная/игровая</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>NVIDIA GeForce GT 630</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E 16x 2.0</value>
+        </item>
+        <item>
+          <name>Кодовое название графического процессора</name>
+          <value>GF108</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>40 нм</value>
+        </item>
+        <item>
+          <name>Количество поддерживаемых мониторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>2560x1600</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Частота графического процессора</name>
+          <value>810 МГц</value>
+        </item>
+        <item>
+          <name>Объем видеопамяти</name>
+          <value>1024 Мб</value>
+        </item>
+        <item>
+          <name>Тип видеопамяти</name>
+          <value>GDDR3</value>
+        </item>
+        <item>
+          <name>Частота видеопамяти</name>
+          <value>1000 МГц</value>
+        </item>
+        <item>
+          <name>Разрядность шины видеопамяти</name>
+          <value>128 бит</value>
+        </item>
+        <item>
+          <name>Частота RAMDAC</name>
+          <value>400 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъемы</name>
+          <value>DVI, поддержка HDCP, HDMI, VGA</value>
+        </item>
+      </items>
+      <items>
+        <name>Математический блок</name>
+        <item>
+          <name>Число универсальных процессоров</name>
+          <value>96</value>
+        </item>
+        <item>
+          <name>Версия шейдеров</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Число текстурных блоков</name>
+          <value>16</value>
+        </item>
+        <item>
+          <name>Число блоков растеризации</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Максимальная степень анизотропной фильтрации</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная степень FSAA</name>
+          <value>32x</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>DirectX 11, OpenGL 4.2</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные характеристики</name>
+        <item>
+          <name>Поддержка CUDA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дизайн системы охлаждения</name>
+          <value>кастомный</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>178x73 мм</value>
+        </item>
+        <item>
+          <name>Количество занимаемых слотов</name>
+          <value>2</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63456">
+    <title>ASUS Radeon HD 7970 925Mhz PCI-E 3.0 3072Mb 5500Mhz 384 bit 2xDVI HDCP</title>
+    <model>Radeon HD 7970 925Mhz PCI-E 3.0 3072Mb 5500Mhz 384 bit 2xDVI HDCP</model>
+    <marka>ASUS</marka>
+    <catalog id="755737">Видеокарты</catalog>
+    
+    <price1>12500</price1>
+    <price2>16245</price2>
+    <description>
+ядро: 925 МГц, память: 3072 Мб, GDDR5, 5500 МГц, 384 бит, DVI x2, DisplayPort x4
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип видеокарты</name>
+          <value>офисная/игровая</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>AMD Radeon HD 7970</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E 16x 3.0</value>
+        </item>
+        <item>
+          <name>Кодовое название графического процессора</name>
+          <value>Tahiti XT</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>28 нм</value>
+        </item>
+        <item>
+          <name>Количество поддерживаемых мониторов</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>4096x2160</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Частота графического процессора</name>
+          <value>925 МГц</value>
+        </item>
+        <item>
+          <name>Объем видеопамяти</name>
+          <value>3072 Мб</value>
+        </item>
+        <item>
+          <name>Тип видеопамяти</name>
+          <value>GDDR5</value>
+        </item>
+        <item>
+          <name>Частота видеопамяти</name>
+          <value>5500 МГц</value>
+        </item>
+        <item>
+          <name>Разрядность шины видеопамяти</name>
+          <value>384 бит</value>
+        </item>
+        <item>
+          <name>Частота RAMDAC</name>
+          <value>400 МГц</value>
+        </item>
+        <item>
+          <name>Поддержка режима SLI/CrossFire</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка CrossFire X</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъемы</name>
+          <value>DVI x2, поддержка HDCP, DisplayPort x4</value>
+        </item>
+      </items>
+      <items>
+        <name>Математический блок</name>
+        <item>
+          <name>Число универсальных процессоров</name>
+          <value>2048</value>
+        </item>
+        <item>
+          <name>Версия шейдеров</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Число текстурных блоков</name>
+          <value>128</value>
+        </item>
+        <item>
+          <name>Число блоков растеризации</name>
+          <value>32</value>
+        </item>
+        <item>
+          <name>Максимальная степень анизотропной фильтрации</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная степень FSAA</name>
+          <value>24x</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>DirectX 11, OpenGL 4.2</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные характеристики</name>
+        <item>
+          <name>Поддержка AMD APP (ATI Stream)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>да, 8 pin + 8 pin</value>
+        </item>
+        <item>
+          <name>Количество занимаемых слотов</name>
+          <value>3</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63463">
+    <title>GIGABYTE GeForce GT 640 1050Mhz PCI-E 3.0 2048Mb 1800Mhz 128 bit 2xDVI HDMI HDCP</title>
+    <model>GeForce GT 640 1050Mhz PCI-E 3.0 2048Mb 1800Mhz 128 bit 2xDVI HDMI HDCP</model>
+    <marka>GIGABYTE</marka>
+    <catalog id="755737">Видеокарты</catalog>
+    
+    <price1>2789</price1>
+    <price2>5440</price2>
+    <description>
+ядро: 1050 МГц, память: 2048 Мб, GDDR3, 1800 МГц, 128 бит, DVI x2,  HDMI, VGA
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип видеокарты</name>
+          <value>офисная/игровая</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>NVIDIA GeForce GT 640</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E 16x 3.0</value>
+        </item>
+        <item>
+          <name>Кодовое название графического процессора</name>
+          <value>GK107</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>28 нм</value>
+        </item>
+        <item>
+          <name>Количество поддерживаемых мониторов</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>2560x1600</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Частота графического процессора</name>
+          <value>1050 МГц</value>
+        </item>
+        <item>
+          <name>Объем видеопамяти</name>
+          <value>2048 Мб</value>
+        </item>
+        <item>
+          <name>Тип видеопамяти</name>
+          <value>GDDR3</value>
+        </item>
+        <item>
+          <name>Частота видеопамяти</name>
+          <value>1800 МГц</value>
+        </item>
+        <item>
+          <name>Разрядность шины видеопамяти</name>
+          <value>128 бит</value>
+        </item>
+        <item>
+          <name>Частота RAMDAC</name>
+          <value>400 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъемы</name>
+          <value>DVI x2, поддержка HDCP, HDMI, VGA</value>
+        </item>
+      </items>
+      <items>
+        <name>Математический блок</name>
+        <item>
+          <name>Число универсальных процессоров</name>
+          <value>384</value>
+        </item>
+        <item>
+          <name>Версия шейдеров</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Число текстурных блоков</name>
+          <value>32</value>
+        </item>
+        <item>
+          <name>Число блоков растеризации</name>
+          <value>16</value>
+        </item>
+        <item>
+          <name>Максимальная степень анизотропной фильтрации</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная степень FSAA</name>
+          <value>32x</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>DirectX 11, OpenGL 4.2</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные характеристики</name>
+        <item>
+          <name>Поддержка CUDA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дизайн системы охлаждения</name>
+          <value>кастомный</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>190x137 мм</value>
+        </item>
+        <item>
+          <name>Количество занимаемых слотов</name>
+          <value>2</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="63465">
+    <title>MSI GeForce GT 640 900Mhz PCI-E 3.0 1024Mb 1334Mhz 128 bit DVI HDMI HDCP</title>
+    <model>GeForce GT 640 900Mhz PCI-E 3.0 1024Mb 1334Mhz 128 bit DVI HDMI HDCP</model>
+    <marka>MSI</marka>
+    <catalog id="755737">Видеокарты</catalog>
+    
+    <price1>2324</price1>
+    <price2>6510</price2>
+    <description>
+ядро: 900 МГц, память: 1024 Мб, GDDR3, 1334 МГц, 128 бит, DVI,  HDMI, VGA
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип видеокарты</name>
+          <value>офисная/игровая</value>
+        </item>
+        <item>
+          <name>Графический процессор</name>
+          <value>NVIDIA GeForce GT 640</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E 16x 3.0</value>
+        </item>
+        <item>
+          <name>Кодовое название графического процессора</name>
+          <value>GK107</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>28 нм</value>
+        </item>
+        <item>
+          <name>Количество поддерживаемых мониторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение</name>
+          <value>2560x1600</value>
+        </item>
+      </items>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Частота графического процессора</name>
+          <value>900 МГц</value>
+        </item>
+        <item>
+          <name>Объем видеопамяти</name>
+          <value>1024 Мб</value>
+        </item>
+        <item>
+          <name>Тип видеопамяти</name>
+          <value>GDDR3</value>
+        </item>
+        <item>
+          <name>Частота видеопамяти</name>
+          <value>1334 МГц</value>
+        </item>
+        <item>
+          <name>Разрядность шины видеопамяти</name>
+          <value>128 бит</value>
+        </item>
+        <item>
+          <name>Частота RAMDAC</name>
+          <value>400 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъемы</name>
+          <value>DVI, поддержка HDCP, HDMI, VGA</value>
+        </item>
+      </items>
+      <items>
+        <name>Математический блок</name>
+        <item>
+          <name>Число универсальных процессоров</name>
+          <value>384</value>
+        </item>
+        <item>
+          <name>Версия шейдеров</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Число текстурных блоков</name>
+          <value>32</value>
+        </item>
+        <item>
+          <name>Число блоков растеризации</name>
+          <value>16</value>
+        </item>
+        <item>
+          <name>Максимальная степень анизотропной фильтрации</name>
+          <value>16x</value>
+        </item>
+        <item>
+          <name>Максимальная степень FSAA</name>
+          <value>32x</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>DirectX 11, OpenGL 4.2</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительные характеристики</name>
+        <item>
+          <name>Поддержка CUDA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дизайн системы охлаждения</name>
+          <value>кастомный</value>
+        </item>
+        <item>
+          <name>Количество вентиляторов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>171x115 мм</value>
+        </item>
+        <item>
+          <name>Количество занимаемых слотов</name>
+          <value>2</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

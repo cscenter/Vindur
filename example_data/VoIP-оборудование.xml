@@ -1,0 +1,2078 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="95484">
+    <title>Gigaset A510 IP</title>
+    <model>A510 IP</model>
+    <marka>Gigaset</marka>
+    <catalog id="2449302">VoIP-оборудование</catalog>
+    
+    <price1>2290</price1>
+    <price2>3700</price2>
+    <description>
+
+
+
+VoIP-телефон, поддержка DECT, поддержка SIP, LAN, FXO
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>VoIP-телефон</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка SIP</name>
+          <value>есть, подключение к нескольким серверам</value>
+        </item>
+        <item>
+          <name>Поддержка DECT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>LAN, FXO</value>
+        </item>
+        <item>
+          <name>Количество линий</name>
+          <value>3</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, 150 контактов</value>
+        </item>
+        <item>
+          <name>Поддержка PoE</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Эхокомпенсация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Распознавание голосовой активности</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Генерация комфортного шума</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Определитель номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Удержание, ожидание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конференц-связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Громкая связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NAT</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>LCD-дисплей</name>
+          <value>монохромный</value>
+        </item>
+        <item>
+          <name>Количество поддерживаемых трубок</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Время работы в режиме ожидания</name>
+          <value>290 ч</value>
+        </item>
+        <item>
+          <name>Время работы в режиме разговора</name>
+          <value>23 ч</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>ААА</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxВ)</name>
+          <value>132x46x105 мм </value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="95487">
+    <title>Gigaset C610A IP</title>
+    <model>C610A IP</model>
+    <marka>Gigaset</marka>
+    <catalog id="2449302">VoIP-оборудование</catalog>
+    
+    <price1>2212</price1>
+    <price2>4299</price2>
+    <description>
+
+
+
+VoIP-телефон, поддержка DECT, поддержка SIP, LAN, FXO
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>VoIP-телефон</value>
+        </item>
+        <item>
+          <name>Поддержка SIP</name>
+          <value>есть, подключение к нескольким серверам</value>
+        </item>
+        <item>
+          <name>Поддержка DECT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка GAP</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>LAN, FXO</value>
+        </item>
+        <item>
+          <name>Количество линий</name>
+          <value>3</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, 150 контактов</value>
+        </item>
+        <item>
+          <name>Поддержка PoE</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Определитель номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Удержание, ожидание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Громкая связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>LCD-дисплей</name>
+          <value>цветной</value>
+        </item>
+        <item>
+          <name>Независимая мобильная трубка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество поддерживаемых трубок</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Время работы в режиме ожидания</name>
+          <value>180 ч</value>
+        </item>
+        <item>
+          <name>Время работы в режиме разговора</name>
+          <value>12 ч</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>ААА</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxВ)</name>
+          <value>132x105x46 мм </value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="95489">
+    <title>Panasonic KX-UT113</title>
+    <model>KX-UT113</model>
+    <marka>Panasonic</marka>
+    <catalog id="2449302">VoIP-оборудование</catalog>
+    
+    <price1>2267</price1>
+    <price2>4340</price2>
+    <description>
+
+
+
+VoIP-телефон, поддержка SIP, LAN
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>VoIP-телефон</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка SIP</name>
+          <value>есть, подключение к нескольким серверам</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>LAN</value>
+        </item>
+        <item>
+          <name>Подключение гарнитуры</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, 100 контактов</value>
+        </item>
+        <item>
+          <name>Поддержка PoE</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Определитель номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Удержание, ожидание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конференц-связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Громкая связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NAT</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>LCD-дисплей</name>
+          <value>монохромный</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="95492">
+    <title>Panasonic KX-UT123</title>
+    <model>KX-UT123</model>
+    <marka>Panasonic</marka>
+    <catalog id="2449302">VoIP-оборудование</catalog>
+    
+    <price1>2575</price1>
+    <price2>5330</price2>
+    <description>
+
+
+
+VoIP-телефон, поддержка SIP, WAN, LAN
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>VoIP-телефон</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка SIP</name>
+          <value>есть, подключение к нескольким серверам</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>WAN, LAN</value>
+        </item>
+        <item>
+          <name>Подключение гарнитуры</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, 500 контактов</value>
+        </item>
+        <item>
+          <name>Поддержка PoE</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Определитель номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Удержание, ожидание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конференц-связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Громкая связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NAT</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>LCD-дисплей</name>
+          <value>монохромный</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="95496">
+    <title>Panasonic KX-TGP500</title>
+    <model>KX-TGP500</model>
+    <marka>Panasonic</marka>
+    <catalog id="2449302">VoIP-оборудование</catalog>
+    
+    <price1>2251</price1>
+    <price2>4131</price2>
+    <description>
+
+
+
+VoIP-телефон, поддержка DECT, поддержка SIP, LAN
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>VoIP-телефон</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка SIP</name>
+          <value>есть, подключение к нескольким серверам</value>
+        </item>
+        <item>
+          <name>Поддержка DECT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>LAN</value>
+        </item>
+        <item>
+          <name>Подключение гарнитуры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество линий</name>
+          <value>3</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка PoE</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Эхокомпенсация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Распознавание голосовой активности</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Генерация комфортного шума</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Определитель номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Удержание, ожидание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конференц-связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Громкая связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>LCD-дисплей</name>
+          <value>монохромный</value>
+        </item>
+        <item>
+          <name>Количество поддерживаемых трубок</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Время работы в режиме ожидания</name>
+          <value>240 ч</value>
+        </item>
+        <item>
+          <name>Время работы в режиме разговора</name>
+          <value>5 ч</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>ААА</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>на базе можно зарегистрировать до восьми учётных записей SIP; размеры и вес указаны для базы, размеры трубки - 158.5&amp;#215;47.7&amp;#215;31.3 мм, вес - 130 гр, размеры зарядного устройства для трубки - 75.1&amp;#215;87.4 мм, вес - 60 гр.</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxВ)</name>
+          <value>178x74x134 мм </value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>290 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="95499">
+    <title>D-link DPH-150SE/E/F1</title>
+    <model>DPH-150SE/E/F1</model>
+    <marka>D-link</marka>
+    <catalog id="2449302">VoIP-оборудование</catalog>
+    
+    <price1>2319</price1>
+    <price2>3375</price2>
+    <description>
+
+
+
+VoIP-телефон, поддержка SIP, WAN, LAN
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>VoIP-телефон</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка SIP</name>
+          <value>есть, подключение к нескольким серверам</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>WAN, LAN</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, 500 контактов</value>
+        </item>
+        <item>
+          <name>Поддержка PoE</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Эхокомпенсация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Распознавание голосовой активности</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Генерация комфортного шума</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Определитель номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Удержание, ожидание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конференц-связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Громкая связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NAT</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>LCD-дисплей</name>
+          <value>монохромный</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxВ)</name>
+          <value>240x190x60 мм </value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>410 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="95500">
+    <title>Panasonic KX-UT136</title>
+    <model>KX-UT136</model>
+    <marka>Panasonic</marka>
+    <catalog id="2449302">VoIP-оборудование</catalog>
+    
+    <price1>5335</price1>
+    <price2>8220</price2>
+    <description>
+
+
+
+VoIP-телефон, поддержка SIP, WAN, LAN
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>VoIP-телефон</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка SIP</name>
+          <value>есть, подключение к нескольким серверам</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>WAN, LAN</value>
+        </item>
+        <item>
+          <name>Подключение гарнитуры</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, 500 контактов</value>
+        </item>
+        <item>
+          <name>Поддержка PoE</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Определитель номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Удержание, ожидание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конференц-связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Громкая связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NAT</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>LCD-дисплей</name>
+          <value>монохромный</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="95501">
+    <title>Cisco SPA508G</title>
+    <model>SPA508G</model>
+    <marka>Cisco</marka>
+    <catalog id="2449302">VoIP-оборудование</catalog>
+    
+    <price1>5870</price1>
+    <price2>9260</price2>
+    <description>
+
+
+
+VoIP-телефон, поддержка SIP, WAN, LAN
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>VoIP-телефон</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка SIP</name>
+          <value>есть, подключение к нескольким серверам</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>WAN, LAN</value>
+        </item>
+        <item>
+          <name>Подключение гарнитуры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка дополнительных модулей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество линий</name>
+          <value>8</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка PoE</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Распознавание голосовой активности</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Генерация комфортного шума</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Определитель номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Удержание, ожидание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конференц-связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Громкая связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NAT</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>LCD-дисплей</name>
+          <value>монохромный</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxВ)</name>
+          <value>212x214x44 мм </value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>900 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="95504">
+    <title>Cisco SPA504G</title>
+    <model>SPA504G</model>
+    <marka>Cisco</marka>
+    <catalog id="2449302">VoIP-оборудование</catalog>
+    
+    <price1>4880</price1>
+    <price2>7140</price2>
+    <description>
+
+
+
+VoIP-телефон, поддержка SIP, WAN, LAN
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>VoIP-телефон</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка SIP</name>
+          <value>есть, подключение к нескольким серверам</value>
+        </item>
+        <item>
+          <name>Поддержка SCCP</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>WAN, LAN</value>
+        </item>
+        <item>
+          <name>Подключение гарнитуры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество линий</name>
+          <value>4</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка PoE</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Распознавание голосовой активности</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Генерация комфортного шума</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Определитель номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Удержание, ожидание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конференц-связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Громкая связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NAT</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>LCD-дисплей</name>
+          <value>монохромный</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxВ)</name>
+          <value>212x214x44 мм </value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>900 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="95508">
+    <title>Panasonic KX-UT133</title>
+    <model>KX-UT133</model>
+    <marka>Panasonic</marka>
+    <catalog id="2449302">VoIP-оборудование</catalog>
+    
+    <price1>4109</price1>
+    <price2>6800</price2>
+    <description>
+
+
+
+VoIP-телефон, поддержка SIP, WAN, LAN
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>VoIP-телефон</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка SIP</name>
+          <value>есть, подключение к нескольким серверам</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>WAN, LAN</value>
+        </item>
+        <item>
+          <name>Подключение гарнитуры</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, 500 контактов</value>
+        </item>
+        <item>
+          <name>Поддержка PoE</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Определитель номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Удержание, ожидание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конференц-связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Громкая связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NAT</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>LCD-дисплей</name>
+          <value>монохромный</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="95513">
+    <title>Cisco SPA502G</title>
+    <model>SPA502G</model>
+    <marka>Cisco</marka>
+    <catalog id="2449302">VoIP-оборудование</catalog>
+    
+    <price1>4238</price1>
+    <price2>6690</price2>
+    <description>
+
+
+
+VoIP-телефон, поддержка SIP, WAN, LAN
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>VoIP-телефон</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка SIP</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SCCP</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>WAN, LAN</value>
+        </item>
+        <item>
+          <name>Подключение гарнитуры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество линий</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка PoE</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Распознавание голосовой активности</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Генерация комфортного шума</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Определитель номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Удержание, ожидание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конференц-связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Громкая связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NAT</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>LCD-дисплей</name>
+          <value>монохромный</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxВ)</name>
+          <value>212x214x44 мм </value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>900 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="95516">
+    <title>Cisco 7942G</title>
+    <model>7942G</model>
+    <marka>Cisco</marka>
+    <catalog id="2449302">VoIP-оборудование</catalog>
+    
+    <price1>6200</price1>
+    <price2>17150</price2>
+    <description>
+
+
+
+VoIP-телефон, поддержка SIP, WAN, LAN
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>VoIP-телефон</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка SIP</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SCCP</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>WAN, LAN</value>
+        </item>
+        <item>
+          <name>Подключение гарнитуры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка дополнительных модулей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество линий</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка PoE</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Громкая связь</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>LCD-дисплей</name>
+          <value>монохромный</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="95518">
+    <title>Cisco SPA501G</title>
+    <model>SPA501G</model>
+    <marka>Cisco</marka>
+    <catalog id="2449302">VoIP-оборудование</catalog>
+    
+    <price1>2997</price1>
+    <price2>5640</price2>
+    <description>
+
+
+
+VoIP-телефон, поддержка SIP, WAN, LAN
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>VoIP-телефон</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка SIP</name>
+          <value>есть, подключение к нескольким серверам</value>
+        </item>
+        <item>
+          <name>Поддержка SCCP</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>WAN, LAN</value>
+        </item>
+        <item>
+          <name>Подключение гарнитуры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество линий</name>
+          <value>8</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка PoE</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Распознавание голосовой активности</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Генерация комфортного шума</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Определитель номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Удержание, ожидание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конференц-связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Громкая связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NAT</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>LCD-дисплей</name>
+          <value>отсутствует</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>дисплея нет, вместо него картонка для записи номеров быстрого вызова</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxВ)</name>
+          <value>212x214x44 мм </value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>900 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="95520">
+    <title>Grandstream GXV3140</title>
+    <model>GXV3140</model>
+    <marka>Grandstream</marka>
+    <catalog id="2449302">VoIP-оборудование</catalog>
+    
+    <price1>7492</price1>
+    <price2>24324</price2>
+    <description>
+
+
+
+VoIP-телефон, поддержка Skype, поддержка SIP, поддержка видеоконференций, WAN, LAN
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>VoIP-телефон</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка SIP</name>
+          <value>есть, подключение к нескольким серверам</value>
+        </item>
+        <item>
+          <name>Поддержка видеоконференций</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB, WAN, LAN</value>
+        </item>
+        <item>
+          <name>Подключение гарнитуры</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка PoE</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Эхокомпенсация</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Распознавание голосовой активности</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Генерация комфортного шума</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Определитель номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Удержание, ожидание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конференц-связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Громкая связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NAT</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>LCD-дисплей</name>
+          <value>цветной</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="95522">
+    <title>Cisco SPA303-G2</title>
+    <model>SPA303-G2</model>
+    <marka>Cisco</marka>
+    <catalog id="2449302">VoIP-оборудование</catalog>
+    
+    <price1>2818</price1>
+    <price2>5280</price2>
+    <description>
+
+
+
+VoIP-телефон, поддержка SIP, WAN, LAN
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>VoIP-телефон</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка SIP</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>WAN, LAN</value>
+        </item>
+        <item>
+          <name>Подключение гарнитуры</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Распознавание голосовой активности</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Определитель номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Удержание, ожидание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Громкая связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NAT</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>LCD-дисплей</name>
+          <value>монохромный</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxВ)</name>
+          <value>198x220x30 мм </value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="95526">
+    <title>Cisco SPA509G</title>
+    <model>SPA509G</model>
+    <marka>Cisco</marka>
+    <catalog id="2449302">VoIP-оборудование</catalog>
+    
+    <price1>5770</price1>
+    <price2>9820</price2>
+    <description>
+
+
+
+VoIP-телефон, поддержка SIP, WAN, LAN
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>VoIP-телефон</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка SIP</name>
+          <value>есть, подключение к нескольким серверам</value>
+        </item>
+        <item>
+          <name>Поддержка SCCP</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>WAN, LAN</value>
+        </item>
+        <item>
+          <name>Подключение гарнитуры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка дополнительных модулей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество линий</name>
+          <value>12</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка PoE</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Распознавание голосовой активности</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Генерация комфортного шума</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Определитель номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Удержание, ожидание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конференц-связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Громкая связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NAT</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>LCD-дисплей</name>
+          <value>монохромный</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxВ)</name>
+          <value>212x214x44 мм </value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>900 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="95530">
+    <title>Grandstream GXP2110</title>
+    <model>GXP2110</model>
+    <marka>Grandstream</marka>
+    <catalog id="2449302">VoIP-оборудование</catalog>
+    
+    <price1>3570</price1>
+    <price2>8990</price2>
+    <description>
+
+
+
+VoIP-телефон, поддержка SIP, WAN, LAN
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>VoIP-телефон</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка SIP</name>
+          <value>есть, подключение к нескольким серверам</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>WAN, LAN</value>
+        </item>
+        <item>
+          <name>Подключение гарнитуры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка дополнительных модулей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество линий</name>
+          <value>4</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, 2000 контактов</value>
+        </item>
+        <item>
+          <name>Поддержка PoE</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Определитель номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Удержание, ожидание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конференц-связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Громкая связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NAT</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>LCD-дисплей</name>
+          <value>монохромный</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxВ)</name>
+          <value>210x252x78 мм </value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1080 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="95541">
+    <title>Grandstream GXP2100</title>
+    <model>GXP2100</model>
+    <marka>Grandstream</marka>
+    <catalog id="2449302">VoIP-оборудование</catalog>
+    
+    <price1>3569</price1>
+    <price2>6690</price2>
+    <description>
+
+
+
+VoIP-телефон, поддержка SIP, WAN, LAN
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>VoIP-телефон</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка SIP</name>
+          <value>есть, подключение к нескольким серверам</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>WAN, LAN</value>
+        </item>
+        <item>
+          <name>Подключение гарнитуры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество линий</name>
+          <value>4</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, 2000 контактов</value>
+        </item>
+        <item>
+          <name>Поддержка PoE</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Определитель номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Удержание, ожидание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конференц-связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Громкая связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NAT</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>LCD-дисплей</name>
+          <value>монохромный</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxВ)</name>
+          <value>210x222x93 мм </value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>980 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="95544">
+    <title>Grandstream GXP1450</title>
+    <model>GXP1450</model>
+    <marka>Grandstream</marka>
+    <catalog id="2449302">VoIP-оборудование</catalog>
+    
+    <price1>2830</price1>
+    <price2>5330</price2>
+    <description>
+
+
+
+VoIP-телефон, поддержка SIP, WAN, LAN
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>VoIP-телефон</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка SIP</name>
+          <value>есть, подключение к нескольким серверам</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>WAN, LAN</value>
+        </item>
+        <item>
+          <name>Подключение гарнитуры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество линий</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, 2000 контактов</value>
+        </item>
+        <item>
+          <name>Поддержка PoE</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Определитель номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Удержание, ожидание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конференц-связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Громкая связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NAT</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>LCD-дисплей</name>
+          <value>монохромный</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>звук HD</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxВ)</name>
+          <value>210x186x81 мм </value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>800 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="95546">
+    <title>Grandstream GXP2120</title>
+    <model>GXP2120</model>
+    <marka>Grandstream</marka>
+    <catalog id="2449302">VoIP-оборудование</catalog>
+    
+    <price1>4640</price1>
+    <price2>9180</price2>
+    <description>
+
+
+
+VoIP-телефон, поддержка SIP, WAN, LAN
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>VoIP-телефон</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка SIP</name>
+          <value>есть, подключение к нескольким серверам</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>WAN, LAN</value>
+        </item>
+        <item>
+          <name>Подключение гарнитуры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка дополнительных модулей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество линий</name>
+          <value>6</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Встроенная телефонная книга</name>
+          <value>есть, 2000 контактов</value>
+        </item>
+        <item>
+          <name>Поддержка PoE</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Определитель номера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Удержание, ожидание вызова</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Конференц-связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Громкая связь</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Web-интерфейс</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NAT</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>LCD-дисплей</name>
+          <value>монохромный</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры (ШxДxВ)</name>
+          <value>210x252x78 мм </value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1080 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

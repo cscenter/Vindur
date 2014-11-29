@@ -1,0 +1,1451 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="65076">
+    <title>Kingston KVR1333D3S9/4G</title>
+    <model>KVR1333D3S9/4G</model>
+    <marka>Kingston</marka>
+    <catalog id="755739">Модули памяти</catalog>
+    
+    <price1>1397</price1>
+    <price2>2706</price2>
+    <description>
+DDR3 1333 (PC 10600) SODIMM 204-контактный, 1x4 Гб, 1.5 В, CL 9
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип памяти</name>
+          <value>DDR3</value>
+        </item>
+        <item>
+          <name>Форм-фактор</name>
+          <value>SODIMM 204-контактный</value>
+        </item>
+        <item>
+          <name>Тактовая частота</name>
+          <value>1333 МГц</value>
+        </item>
+        <item>
+          <name>Пропускная способность</name>
+          <value>10600 Мб/с</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>1 модуль 4 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка ECC</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Буферизованная (Registered)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Низкопрофильная (Low Profile)</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Тайминги</name>
+        <item>
+          <name>CAS Latency (CL)</name>
+          <value>9</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Количество чипов каждого модуля</name>
+          <value>16, двусторонняя упаковка</value>
+        </item>
+        <item>
+          <name>Напряжение питания</name>
+          <value>1.5 В</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="65079">
+    <title>Kingston KVR1333D3N9/4G</title>
+    <model>KVR1333D3N9/4G</model>
+    <marka>Kingston</marka>
+    <catalog id="755739">Модули памяти</catalog>
+    
+    <price1>1457</price1>
+    <price2>2029</price2>
+    <description>
+DDR3 1333 (PC 10600) DIMM 240-контактный, 1x4 Гб, 1.5 В, CL 9
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип памяти</name>
+          <value>DDR3</value>
+        </item>
+        <item>
+          <name>Форм-фактор</name>
+          <value>DIMM 240-контактный</value>
+        </item>
+        <item>
+          <name>Тактовая частота</name>
+          <value>1333 МГц</value>
+        </item>
+        <item>
+          <name>Пропускная способность</name>
+          <value>10600 Мб/с</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>1 модуль 4 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка ECC</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Буферизованная (Registered)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Низкопрофильная (Low Profile)</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Тайминги</name>
+        <item>
+          <name>CAS Latency (CL)</name>
+          <value>9</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Напряжение питания</name>
+          <value>1.5 В</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="65081">
+    <title>Kingston KVR1333D3D4R9S/8G</title>
+    <model>KVR1333D3D4R9S/8G</model>
+    <marka>Kingston</marka>
+    <catalog id="755739">Модули памяти</catalog>
+    
+    <price1>3108</price1>
+    <price2>5390</price2>
+    <description>
+DDR3 1333 DIMM 240-контактный, 1x8 Гб, буферизованная, ECC, CL 9
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип памяти</name>
+          <value>DDR3</value>
+        </item>
+        <item>
+          <name>Форм-фактор</name>
+          <value>DIMM 240-контактный</value>
+        </item>
+        <item>
+          <name>Тактовая частота</name>
+          <value>1333 МГц</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>1 модуль 8 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка ECC</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Буферизованная (Registered)</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Низкопрофильная (Low Profile)</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Тайминги</name>
+        <item>
+          <name>CAS Latency (CL)</name>
+          <value>9</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Количество ранков</name>
+          <value>2</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="65082">
+    <title>Kingston KVR1333D3S9/2G</title>
+    <model>KVR1333D3S9/2G</model>
+    <marka>Kingston</marka>
+    <catalog id="755739">Модули памяти</catalog>
+    
+    <price1>758</price1>
+    <price2>1527</price2>
+    <description>
+DDR3 1333 SODIMM 204-контактный, 1x2 Гб, 1.5 В, CL 9
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип памяти</name>
+          <value>DDR3</value>
+        </item>
+        <item>
+          <name>Форм-фактор</name>
+          <value>SODIMM 204-контактный</value>
+        </item>
+        <item>
+          <name>Тактовая частота</name>
+          <value>1333 МГц</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>1 модуль 2 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка ECC</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Буферизованная (Registered)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Низкопрофильная (Low Profile)</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Тайминги</name>
+        <item>
+          <name>CAS Latency (CL)</name>
+          <value>9</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Напряжение питания</name>
+          <value>1.5 В</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="65085">
+    <title>Kingston KVR1333D3S8N9/2G</title>
+    <model>KVR1333D3S8N9/2G</model>
+    <marka>Kingston</marka>
+    <catalog id="755739">Модули памяти</catalog>
+    
+    <price1>797</price1>
+    <price2>1568</price2>
+    <description>
+DDR3 1333 (PC 10600) DIMM 240-контактный, 1x2 Гб, 1.5 В, CL 9
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип памяти</name>
+          <value>DDR3</value>
+        </item>
+        <item>
+          <name>Форм-фактор</name>
+          <value>DIMM 240-контактный</value>
+        </item>
+        <item>
+          <name>Тактовая частота</name>
+          <value>1333 МГц</value>
+        </item>
+        <item>
+          <name>Пропускная способность</name>
+          <value>10600 Мб/с</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>1 модуль 2 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка ECC</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Буферизованная (Registered)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Низкопрофильная (Low Profile)</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Тайминги</name>
+        <item>
+          <name>CAS Latency (CL)</name>
+          <value>9</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Напряжение питания</name>
+          <value>1.5 В</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="65087">
+    <title>Kingston KVR800D2N6/2G</title>
+    <model>KVR800D2N6/2G</model>
+    <marka>Kingston</marka>
+    <catalog id="755739">Модули памяти</catalog>
+    
+    <price1>1240</price1>
+    <price2>3370</price2>
+    <description>
+DDR2 800 (PC2 6400) DIMM 240-контактный, 1x2 Гб, 1.8 В, CL 6
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип памяти</name>
+          <value>DDR2</value>
+        </item>
+        <item>
+          <name>Форм-фактор</name>
+          <value>DIMM 240-контактный</value>
+        </item>
+        <item>
+          <name>Тактовая частота</name>
+          <value>800 МГц</value>
+        </item>
+        <item>
+          <name>Пропускная способность</name>
+          <value>6400 Мб/с</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>1 модуль 2 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка ECC</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Буферизованная (Registered)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Низкопрофильная (Low Profile)</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Тайминги</name>
+        <item>
+          <name>CAS Latency (CL)</name>
+          <value>6</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Количество чипов каждого модуля</name>
+          <value>16, двусторонняя упаковка</value>
+        </item>
+        <item>
+          <name>Напряжение питания</name>
+          <value>1.8 В</value>
+        </item>
+        <item>
+          <name>Количество ранков</name>
+          <value>2</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="65090">
+    <title>Kingston KVR667D2D4F5/4G</title>
+    <model>KVR667D2D4F5/4G</model>
+    <marka>Kingston</marka>
+    <catalog id="755739">Модули памяти</catalog>
+    
+    <price1>3617</price1>
+    <price2>8360</price2>
+    <description>
+DDR2 667 (PC2 5300) FB-DIMM 240-контактный, 1x4 Гб, буферизованная, ECC, 1.8 В, CL 5
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип памяти</name>
+          <value>DDR2</value>
+        </item>
+        <item>
+          <name>Форм-фактор</name>
+          <value>FB-DIMM 240-контактный</value>
+        </item>
+        <item>
+          <name>Тактовая частота</name>
+          <value>667 МГц</value>
+        </item>
+        <item>
+          <name>Пропускная способность</name>
+          <value>5300 Мб/с</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>1 модуль 4 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка ECC</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Буферизованная (Registered)</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Низкопрофильная (Low Profile)</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Тайминги</name>
+        <item>
+          <name>CAS Latency (CL)</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>RAS to CAS Delay (tRCD)</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Row Precharge Delay (tRP)</name>
+          <value>5</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Количество чипов каждого модуля</name>
+          <value>36, двусторонняя упаковка</value>
+        </item>
+        <item>
+          <name>Напряжение питания</name>
+          <value>1.8 В</value>
+        </item>
+        <item>
+          <name>Радиатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество ранков</name>
+          <value>2</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="65093">
+    <title>Kingston KVR1333D3D8R9S/4G</title>
+    <model>KVR1333D3D8R9S/4G</model>
+    <marka>Kingston</marka>
+    <catalog id="755739">Модули памяти</catalog>
+    
+    <price1>1850</price1>
+    <price2>2602</price2>
+    <description>
+DDR3 1333 (PC 10600) DIMM 240-контактный, 1x4 Гб, буферизованная, ECC, 1.5 В, CL 9
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип памяти</name>
+          <value>DDR3</value>
+        </item>
+        <item>
+          <name>Форм-фактор</name>
+          <value>DIMM 240-контактный</value>
+        </item>
+        <item>
+          <name>Тактовая частота</name>
+          <value>1333 МГц</value>
+        </item>
+        <item>
+          <name>Пропускная способность</name>
+          <value>10600 Мб/с</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>1 модуль 4 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка ECC</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Буферизованная (Registered)</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Низкопрофильная (Low Profile)</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Тайминги</name>
+        <item>
+          <name>CAS Latency (CL)</name>
+          <value>9</value>
+        </item>
+        <item>
+          <name>RAS to CAS Delay (tRCD)</name>
+          <value>9</value>
+        </item>
+        <item>
+          <name>Row Precharge Delay (tRP)</name>
+          <value>9</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Количество чипов каждого модуля</name>
+          <value>18, двусторонняя упаковка</value>
+        </item>
+        <item>
+          <name>Напряжение питания</name>
+          <value>1.5 В</value>
+        </item>
+        <item>
+          <name>Количество ранков</name>
+          <value>2</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="65101">
+    <title>Kingston KVR667D2S5/2G</title>
+    <model>KVR667D2S5/2G</model>
+    <marka>Kingston</marka>
+    <catalog id="755739">Модули памяти</catalog>
+    
+    <price1>1247</price1>
+    <price2>3640</price2>
+    <description>
+DDR2 667 (PC2 5300) SODIMM 200-контактный, 1x2 Гб, 1.8 В, CL 5
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип памяти</name>
+          <value>DDR2</value>
+        </item>
+        <item>
+          <name>Форм-фактор</name>
+          <value>SODIMM 200-контактный</value>
+        </item>
+        <item>
+          <name>Тактовая частота</name>
+          <value>667 МГц</value>
+        </item>
+        <item>
+          <name>Пропускная способность</name>
+          <value>5300 Мб/с</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>1 модуль 2 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка ECC</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Буферизованная (Registered)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Низкопрофильная (Low Profile)</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Тайминги</name>
+        <item>
+          <name>CAS Latency (CL)</name>
+          <value>5</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Количество чипов каждого модуля</name>
+          <value>16, двусторонняя упаковка</value>
+        </item>
+        <item>
+          <name>Напряжение питания</name>
+          <value>1.8 В</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="65109">
+    <title>Kingston KVR667D2S5/1G</title>
+    <model>KVR667D2S5/1G</model>
+    <marka>Kingston</marka>
+    <catalog id="755739">Модули памяти</catalog>
+    
+    <price1>920</price1>
+    <price2>1388</price2>
+    <description>
+DDR2 667 (PC2 5300) SODIMM 200-контактный, 1x1 Гб, CL 5
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип памяти</name>
+          <value>DDR2</value>
+        </item>
+        <item>
+          <name>Форм-фактор</name>
+          <value>SODIMM 200-контактный</value>
+        </item>
+        <item>
+          <name>Тактовая частота</name>
+          <value>667 МГц</value>
+        </item>
+        <item>
+          <name>Пропускная способность</name>
+          <value>5300 Мб/с</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>1 модуль 1 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка ECC</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Буферизованная (Registered)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Низкопрофильная (Low Profile)</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Тайминги</name>
+        <item>
+          <name>CAS Latency (CL)</name>
+          <value>5</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="65111">
+    <title>Kingston KVR800D2S6/1G</title>
+    <model>KVR800D2S6/1G</model>
+    <marka>Kingston</marka>
+    <catalog id="755739">Модули памяти</catalog>
+    
+    <price1>697</price1>
+    <price2>1240</price2>
+    <description>
+DDR2 800 (PC2 6400) SODIMM 200-контактный, 1x1 Гб, 1.8 В, CL 6
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип памяти</name>
+          <value>DDR2</value>
+        </item>
+        <item>
+          <name>Форм-фактор</name>
+          <value>SODIMM 200-контактный</value>
+        </item>
+        <item>
+          <name>Тактовая частота</name>
+          <value>800 МГц</value>
+        </item>
+        <item>
+          <name>Пропускная способность</name>
+          <value>6400 Мб/с</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>1 модуль 1 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка ECC</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Буферизованная (Registered)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Низкопрофильная (Low Profile)</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Тайминги</name>
+        <item>
+          <name>CAS Latency (CL)</name>
+          <value>6</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Количество чипов каждого модуля</name>
+          <value>16, двусторонняя упаковка</value>
+        </item>
+        <item>
+          <name>Напряжение питания</name>
+          <value>1.8 В</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="65112">
+    <title>Kingston KVR800D2N6/1G</title>
+    <model>KVR800D2N6/1G</model>
+    <marka>Kingston</marka>
+    <catalog id="755739">Модули памяти</catalog>
+    
+    <price1>1246</price1>
+    <price2>2525</price2>
+    <description>
+DDR2 800 (PC2 6400) DIMM 240-контактный, 1x1 Гб, 1.8 В, CL 6
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип памяти</name>
+          <value>DDR2</value>
+        </item>
+        <item>
+          <name>Форм-фактор</name>
+          <value>DIMM 240-контактный</value>
+        </item>
+        <item>
+          <name>Тактовая частота</name>
+          <value>800 МГц</value>
+        </item>
+        <item>
+          <name>Пропускная способность</name>
+          <value>6400 Мб/с</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>1 модуль 1 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка ECC</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Буферизованная (Registered)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Низкопрофильная (Low Profile)</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Тайминги</name>
+        <item>
+          <name>CAS Latency (CL)</name>
+          <value>6</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Количество чипов каждого модуля</name>
+          <value>8, односторонняя упаковка</value>
+        </item>
+        <item>
+          <name>Напряжение питания</name>
+          <value>1.8 В</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="65116">
+    <title>Kingston KVR1333D3S9/8G</title>
+    <model>KVR1333D3S9/8G</model>
+    <marka>Kingston</marka>
+    <catalog id="755739">Модули памяти</catalog>
+    
+    <price1>2497</price1>
+    <price2>4360</price2>
+    <description>
+DDR3 1333 (PC 10600) SODIMM 204-контактный, 1x8 Гб, 1.5 В, CL 9
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип памяти</name>
+          <value>DDR3</value>
+        </item>
+        <item>
+          <name>Форм-фактор</name>
+          <value>SODIMM 204-контактный</value>
+        </item>
+        <item>
+          <name>Тактовая частота</name>
+          <value>1333 МГц</value>
+        </item>
+        <item>
+          <name>Пропускная способность</name>
+          <value>10600 Мб/с</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>1 модуль 8 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка ECC</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Буферизованная (Registered)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Низкопрофильная (Low Profile)</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Тайминги</name>
+        <item>
+          <name>CAS Latency (CL)</name>
+          <value>9</value>
+        </item>
+        <item>
+          <name>RAS to CAS Delay (tRCD)</name>
+          <value>9</value>
+        </item>
+        <item>
+          <name>Row Precharge Delay (tRP)</name>
+          <value>9</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Количество чипов каждого модуля</name>
+          <value>16, двусторонняя упаковка</value>
+        </item>
+        <item>
+          <name>Напряжение питания</name>
+          <value>1.5 В</value>
+        </item>
+        <item>
+          <name>Количество ранков</name>
+          <value>2</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="65120">
+    <title>Kingston KVR1333D3N9/2G</title>
+    <model>KVR1333D3N9/2G</model>
+    <marka>Kingston</marka>
+    <catalog id="755739">Модули памяти</catalog>
+    
+    <price1>794</price1>
+    <price2>1121</price2>
+    <description>
+DDR3 1333 (PC 10600) DIMM 240-контактный, 1x2 Гб, 1.5 В, CL 9
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип памяти</name>
+          <value>DDR3</value>
+        </item>
+        <item>
+          <name>Форм-фактор</name>
+          <value>DIMM 240-контактный</value>
+        </item>
+        <item>
+          <name>Тактовая частота</name>
+          <value>1333 МГц</value>
+        </item>
+        <item>
+          <name>Пропускная способность</name>
+          <value>10600 Мб/с</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>1 модуль 2 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка ECC</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Буферизованная (Registered)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Низкопрофильная (Low Profile)</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Тайминги</name>
+        <item>
+          <name>CAS Latency (CL)</name>
+          <value>9</value>
+        </item>
+        <item>
+          <name>RAS to CAS Delay (tRCD)</name>
+          <value>9</value>
+        </item>
+        <item>
+          <name>Row Precharge Delay (tRP)</name>
+          <value>9</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Количество чипов каждого модуля</name>
+          <value>16, двусторонняя упаковка</value>
+        </item>
+        <item>
+          <name>Напряжение питания</name>
+          <value>1.5 В</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="65124">
+    <title>Kingston KVR667D2D4F5/8G</title>
+    <model>KVR667D2D4F5/8G</model>
+    <marka>Kingston</marka>
+    <catalog id="755739">Модули памяти</catalog>
+    
+    <price1>9078</price1>
+    <price2>11808</price2>
+    <description>
+DDR2 667 (PC2 5300) FB-DIMM 240-контактный, 1x8 Гб, буферизованная, ECC, 1.8 В, CL 5
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип памяти</name>
+          <value>DDR2</value>
+        </item>
+        <item>
+          <name>Форм-фактор</name>
+          <value>FB-DIMM 240-контактный</value>
+        </item>
+        <item>
+          <name>Тактовая частота</name>
+          <value>667 МГц</value>
+        </item>
+        <item>
+          <name>Пропускная способность</name>
+          <value>5300 Мб/с</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>1 модуль 8 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка ECC</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Буферизованная (Registered)</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Низкопрофильная (Low Profile)</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Тайминги</name>
+        <item>
+          <name>CAS Latency (CL)</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>RAS to CAS Delay (tRCD)</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Row Precharge Delay (tRP)</name>
+          <value>5</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Количество чипов каждого модуля</name>
+          <value>18, двусторонняя упаковка</value>
+        </item>
+        <item>
+          <name>Напряжение питания</name>
+          <value>1.8 В</value>
+        </item>
+        <item>
+          <name>Радиатор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество ранков</name>
+          <value>2</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="65126">
+    <title>Kingston KVR1333D3N9/8G</title>
+    <model>KVR1333D3N9/8G</model>
+    <marka>Kingston</marka>
+    <catalog id="755739">Модули памяти</catalog>
+    
+    <price1>2540</price1>
+    <price2>4050</price2>
+    <description>
+DDR3 1333 (PC 10600) DIMM 240-контактный, 1x8 Гб, 1.5 В, CL 9
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип памяти</name>
+          <value>DDR3</value>
+        </item>
+        <item>
+          <name>Форм-фактор</name>
+          <value>DIMM 240-контактный</value>
+        </item>
+        <item>
+          <name>Тактовая частота</name>
+          <value>1333 МГц</value>
+        </item>
+        <item>
+          <name>Пропускная способность</name>
+          <value>10600 Мб/с</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>1 модуль 8 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка ECC</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Буферизованная (Registered)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Низкопрофильная (Low Profile)</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Тайминги</name>
+        <item>
+          <name>CAS Latency (CL)</name>
+          <value>9</value>
+        </item>
+        <item>
+          <name>RAS to CAS Delay (tRCD)</name>
+          <value>9</value>
+        </item>
+        <item>
+          <name>Row Precharge Delay (tRP)</name>
+          <value>9</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Количество чипов каждого модуля</name>
+          <value>16, двусторонняя упаковка</value>
+        </item>
+        <item>
+          <name>Напряжение питания</name>
+          <value>1.5 В</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="65128">
+    <title>Samsung DDR3 1333 Registered ECC DIMM 8Gb</title>
+    <model>DDR3 1333 Registered ECC DIMM 8Gb</model>
+    <marka>Samsung</marka>
+    <catalog id="755739">Модули памяти</catalog>
+    
+    <price1>3031</price1>
+    <price2>8717</price2>
+    <description>
+DDR3 1333 DIMM 240-контактный, 1x8 Гб, буферизованная, ECC, CL 9
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип памяти</name>
+          <value>DDR3</value>
+        </item>
+        <item>
+          <name>Форм-фактор</name>
+          <value>DIMM 240-контактный</value>
+        </item>
+        <item>
+          <name>Тактовая частота</name>
+          <value>1333 МГц</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>1 модуль 8 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка ECC</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Буферизованная (Registered)</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Низкопрофильная (Low Profile)</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Тайминги</name>
+        <item>
+          <name>CAS Latency (CL)</name>
+          <value>9</value>
+        </item>
+        <item>
+          <name>RAS to CAS Delay (tRCD)</name>
+          <value>9</value>
+        </item>
+        <item>
+          <name>Row Precharge Delay (tRP)</name>
+          <value>9</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Напряжение питания</name>
+          <value>1.5 В</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="65133">
+    <title>Kingston KVR1333D3E9S/8G</title>
+    <model>KVR1333D3E9S/8G</model>
+    <marka>Kingston</marka>
+    <catalog id="755739">Модули памяти</catalog>
+    
+    <price1>3072</price1>
+    <price2>4620</price2>
+    <description>
+DDR3 1333 (PC 10600) DIMM 240-контактный, 1x8 Гб, ECC, 1.5 В, CL 9
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип памяти</name>
+          <value>DDR3</value>
+        </item>
+        <item>
+          <name>Форм-фактор</name>
+          <value>DIMM 240-контактный</value>
+        </item>
+        <item>
+          <name>Тактовая частота</name>
+          <value>1333 МГц</value>
+        </item>
+        <item>
+          <name>Пропускная способность</name>
+          <value>10600 Мб/с</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>1 модуль 8 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка ECC</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Буферизованная (Registered)</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Низкопрофильная (Low Profile)</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Тайминги</name>
+        <item>
+          <name>CAS Latency (CL)</name>
+          <value>9</value>
+        </item>
+        <item>
+          <name>RAS to CAS Delay (tRCD)</name>
+          <value>9</value>
+        </item>
+        <item>
+          <name>Row Precharge Delay (tRP)</name>
+          <value>9</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Количество чипов каждого модуля</name>
+          <value>18, двусторонняя упаковка</value>
+        </item>
+        <item>
+          <name>Напряжение питания</name>
+          <value>1.5 В</value>
+        </item>
+        <item>
+          <name>Количество ранков</name>
+          <value>2</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="65134">
+    <title>Lenovo 46C0568</title>
+    <model>46C0568</model>
+    <marka>Lenovo</marka>
+    <catalog id="755739">Модули памяти</catalog>
+    
+    <price1>3530</price1>
+    <price2>10614</price2>
+    <description>
+DDR3 1333 (PC 10600) DIMM 240-контактный, 1x8 Гб, буферизованная, низкопрофильная, ECC, 1.35 В, CL 9
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип памяти</name>
+          <value>DDR3L</value>
+        </item>
+        <item>
+          <name>Форм-фактор</name>
+          <value>DIMM 240-контактный</value>
+        </item>
+        <item>
+          <name>Тактовая частота</name>
+          <value>1333 МГц</value>
+        </item>
+        <item>
+          <name>Пропускная способность</name>
+          <value>10600 Мб/с</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>1 модуль 8 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка ECC</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Буферизованная (Registered)</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Низкопрофильная (Low Profile)</name>
+          <value>да</value>
+        </item>
+      </items>
+      <items>
+        <name>Тайминги</name>
+        <item>
+          <name>CAS Latency (CL)</name>
+          <value>9</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Напряжение питания</name>
+          <value>1.35 В</value>
+        </item>
+        <item>
+          <name>Количество ранков</name>
+          <value>2</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="65138">
+    <title>Kingston KVR1333D3Q8R9S/8G</title>
+    <model>KVR1333D3Q8R9S/8G</model>
+    <marka>Kingston</marka>
+    <catalog id="755739">Модули памяти</catalog>
+    
+    <price1>3468</price1>
+    <price2>5070</price2>
+    <description>
+DDR3 1333 DIMM 240-контактный, 1x8 Гб, буферизованная, ECC, 1.5 В, CL 9
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип памяти</name>
+          <value>DDR3</value>
+        </item>
+        <item>
+          <name>Форм-фактор</name>
+          <value>DIMM 240-контактный</value>
+        </item>
+        <item>
+          <name>Тактовая частота</name>
+          <value>1333 МГц</value>
+        </item>
+        <item>
+          <name>Объем</name>
+          <value>1 модуль 8 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка ECC</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Буферизованная (Registered)</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Низкопрофильная (Low Profile)</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Тайминги</name>
+        <item>
+          <name>CAS Latency (CL)</name>
+          <value>9</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Напряжение питания</name>
+          <value>1.5 В</value>
+        </item>
+        <item>
+          <name>Количество ранков</name>
+          <value>4</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

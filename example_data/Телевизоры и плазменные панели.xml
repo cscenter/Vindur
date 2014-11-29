@@ -1,0 +1,4250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="42070">
+    <title>Samsung UE40EH5007</title>
+    <model>UE40EH5007</model>
+    <marka>Samsung</marka>
+    <catalog id="108206">Телевизоры и плазменные панели</catalog>
+    
+    <price1>15500</price1>
+    <price2>17500</price2>
+    <description>
+
+
+ЖК-телевизор, 40&amp;quot;, 16:9, 1920x1080, HDTV, 1080p (Full HD), LED-подсветка, 50 Гц, картинка в картинке, мощность звука 20 Вт, HDMI x2, Ethernet
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-телевизор</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>40" (102 см)</value>
+        </item>
+        <item>
+          <name>Формат экрана</name>
+          <value>16:9</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p Full HD</value>
+        </item>
+        <item>
+          <name>Светодиодная (LED) подсветка</name>
+          <value>есть, Edge LED</value>
+        </item>
+        <item>
+          <name>Стереозвук</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Частота обновления</name>
+          <value>50 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием сигнала</name>
+        <item>
+          <name>Поддержка телевизионных стандартов</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T</name>
+          <value>DVB-T MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T2</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-C</name>
+          <value>DVB-C MPEG4</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>с памятью на 1000 стр.</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+        <item>
+          <name>Доступные разрешения при подключении к ПК</name>
+          <value>640x480 &lt;br/&gt;1920x1080 &lt;br/&gt;</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Мощность звука</name>
+          <value>20 Вт (2х10 Вт)</value>
+        </item>
+        <item>
+          <name>Акустическая система</name>
+          <value>два динамика </value>
+        </item>
+        <item>
+          <name>Объемное звучание</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Декодер Dolby Digital</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MPEG4, Xvid, DivX, MKV, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>AV, компонентный, SCART, RGB, HDMI x2, USB</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>оптический</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Слот для CI</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Количество независимых TV-тюнеров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Поддержка 24p True Cinema</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер сна</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от детей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Цвет</name>
+          <value>черно-красный</value>
+        </item>
+        <item>
+          <name>Возможность крепления на стену</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>55 Вт</value>
+        </item>
+        <item>
+          <name>Размеры с подставкой (ШxВxГ)</name>
+          <value>928x607x228 мм</value>
+        </item>
+        <item>
+          <name>Вес с подставкой</name>
+          <value>11 кг</value>
+        </item>
+        <item>
+          <name>Размеры без подставки (ШxВxГ)</name>
+          <value>928x551x93 мм</value>
+        </item>
+        <item>
+          <name>Вес без подставки</name>
+          <value>9 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="42122">
+    <title>Samsung UE46ES7500</title>
+    <model>UE46ES7500</model>
+    <marka>Samsung</marka>
+    <catalog id="108206">Телевизоры и плазменные панели</catalog>
+    
+    <price1>39000</price1>
+    <price2>63800</price2>
+    <description>
+
+
+ЖК-телевизор, 46&amp;quot;, 16:9, 1920x1080, HDTV, 1080p (Full HD), LED-подсветка, 800 Гц, 3D, картинка в картинке, DVR, мощность звука 20 Вт, HDMI x3, Ethernet, Wi-Fi, доступ в интернет
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-телевизор</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>46" (117 см)</value>
+        </item>
+        <item>
+          <name>Формат экрана</name>
+          <value>16:9</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p Full HD</value>
+        </item>
+        <item>
+          <name>Светодиодная (LED) подсветка</name>
+          <value>есть, Edge LED</value>
+        </item>
+        <item>
+          <name>Стереозвук</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Частота обновления</name>
+          <value>800 Гц</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть, затворная технология, конвертация 2D в 3D</value>
+        </item>
+        <item>
+          <name>Доступ в интернет (Smart TV)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием сигнала</name>
+        <item>
+          <name>Поддержка телевизионных стандартов</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T</name>
+          <value>DVB-T MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-C</name>
+          <value>DVB-C MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-S2</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>с памятью на 1000 стр.</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+        <item>
+          <name>Доступные разрешения при подключении к ПК</name>
+          <value>1920x1080 &lt;br/&gt;</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Мощность звука</name>
+          <value>20 Вт (2х10 Вт)</value>
+        </item>
+        <item>
+          <name>Акустическая система</name>
+          <value>два динамика </value>
+        </item>
+        <item>
+          <name>Объемное звучание</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Декодер Dolby Digital</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MPEG4, Xvid, DivX, MKV, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>AV, компонентный, SCART, RGB, HDMI x3, MHL, USB x3, Ethernet (RJ-45), Wi-Fi</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>оптический</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Слот для CI</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Картинка в картинке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка 24p True Cinema</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>на USB-накопитель</value>
+        </item>
+        <item>
+          <name>Функция TimeShift</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>есть, встроенная камера</value>
+        </item>
+        <item>
+          <name>Таймер сна</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от детей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Возможность крепления на стену</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры с подставкой (ШxВxГ)</name>
+          <value>1047x691x277 мм</value>
+        </item>
+        <item>
+          <name>Вес с подставкой</name>
+          <value>13.8 кг</value>
+        </item>
+        <item>
+          <name>Размеры без подставки (ШxВxГ)</name>
+          <value>1047x620x30 мм</value>
+        </item>
+        <item>
+          <name>Вес без подставки</name>
+          <value>11.9 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="42152">
+    <title>Sharp LC-70LE740</title>
+    <model>LC-70LE740</model>
+    <marka>Sharp</marka>
+    <catalog id="108206">Телевизоры и плазменные панели</catalog>
+    
+    <price1>105000</price1>
+    <price2>169990</price2>
+    <description>
+
+
+ЖК-телевизор, 70&amp;quot;, 16:9, 1920x1080, HDTV, 1080p (Full HD), LED-подсветка, 100 Гц, 3D, DVR, 2 TV-тюнера, мощность звука 20 Вт, HDMI x4, VGA, Ethernet, доступ в интернет
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-телевизор</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>70" (178 см)</value>
+        </item>
+        <item>
+          <name>Формат экрана</name>
+          <value>16:9</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p Full HD</value>
+        </item>
+        <item>
+          <name>Светодиодная (LED) подсветка</name>
+          <value>есть, Edge LED</value>
+        </item>
+        <item>
+          <name>Стереозвук</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Частота обновления</name>
+          <value>100 Гц</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть, затворная технология, конвертация 2D в 3D</value>
+        </item>
+        <item>
+          <name>Доступ в интернет (Smart TV)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием сигнала</name>
+        <item>
+          <name>Поддержка стереозвука NICAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка телевизионных стандартов</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T</name>
+          <value>DVB-T MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-C</name>
+          <value>DVB-C MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-S</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-S2</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>с памятью на 2000 стр.</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+        <item>
+          <name>Доступные разрешения при подключении к ПК</name>
+          <value>640x480 &lt;br/&gt;800x600 &lt;br/&gt;1024x768 &lt;br/&gt;1280x1024 &lt;br/&gt;1360x768 &lt;br/&gt;1920x1080 &lt;br/&gt;</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Мощность звука</name>
+          <value>20 Вт (2x10 Вт)</value>
+        </item>
+        <item>
+          <name>Акустическая система</name>
+          <value>два динамика </value>
+        </item>
+        <item>
+          <name>Объемное звучание</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Декодер Dolby Digital</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MPEG4, Xvid, DivX, MKV, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>AV, аудио x3, компонентный, SCART, RGB, VGA, HDMI x4, USB x3, RS-232, Ethernet (RJ-45)</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>оптический</value>
+        </item>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Слот для CI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Устройство для чтения карт памяти</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы флэш-карт</name>
+          <value>SD</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Количество независимых TV-тюнеров</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Поддержка 24p True Cinema</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>на USB-накопитель</value>
+        </item>
+        <item>
+          <name>Функция TimeShift</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер сна</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от детей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Возможность крепления на стену</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>135 Вт</value>
+        </item>
+        <item>
+          <name>Размеры с подставкой (ШxВxГ)</name>
+          <value>1613x1008x333 мм</value>
+        </item>
+        <item>
+          <name>Вес </name>
+          <value>40.5 кг</value>
+        </item>
+        <item>
+          <name>Размеры без подставки (ШxВxГ)</name>
+          <value>1613x975x89 мм</value>
+        </item>
+        <item>
+          <name>Дополнительная информация </name>
+          <value>автовыключение; датчик освещенности</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="42168">
+    <title>Panasonic TX-L55ET5</title>
+    <model>TX-L55ET5</model>
+    <marka>Panasonic</marka>
+    <catalog id="108206">Телевизоры и плазменные панели</catalog>
+    
+    <price1>66900</price1>
+    <price2>78126</price2>
+    <description>
+
+
+ЖК-телевизор, 55&amp;quot;, 16:9, 1920x1080, HDTV, 1080p (Full HD), LED-подсветка, 100 Гц, 3D, мощность звука 20 Вт, HDMI x4, VGA, Ethernet, Wi-Fi, доступ в интернет
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-телевизор</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>55" (140 см)</value>
+        </item>
+        <item>
+          <name>Формат экрана</name>
+          <value>16:9</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p Full HD</value>
+        </item>
+        <item>
+          <name>Светодиодная (LED) подсветка</name>
+          <value>есть, Edge LED</value>
+        </item>
+        <item>
+          <name>Стереозвук</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Частота обновления</name>
+          <value>100 Гц</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть, поляризационная технология, конвертация 2D в 3D</value>
+        </item>
+        <item>
+          <name>Доступ в интернет (Smart TV)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Угол обзора</name>
+          <value>178°</value>
+        </item>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием сигнала</name>
+        <item>
+          <name>Поддержка стереозвука NICAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка телевизионных стандартов</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T</name>
+          <value>DVB-T MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T2</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-C</name>
+          <value>DVB-C MPEG4</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>с памятью на 1500 стр.</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+        <item>
+          <name>Доступные разрешения при подключении к ПК</name>
+          <value>640x480 &lt;br/&gt;800x600 &lt;br/&gt;1024x768 &lt;br/&gt;1280x1024 &lt;br/&gt;1360x768 &lt;br/&gt;1920x1080 &lt;br/&gt;</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Мощность звука</name>
+          <value>20 Вт (2х10 Вт)</value>
+        </item>
+        <item>
+          <name>Акустическая система</name>
+          <value>два динамика </value>
+        </item>
+        <item>
+          <name>Объемное звучание</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Декодер Dolby Digital</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MPEG4, DivX, MKV, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>AV, аудио x2, компонентный, SCART, RGB, VGA, HDMI x4, USB x3, Ethernet (RJ-45), Wi-Fi</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>оптический</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Слот для CI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Устройство для чтения карт памяти</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы флэш-карт</name>
+          <value>SD</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Количество независимых TV-тюнеров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Поддержка 24p True Cinema</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер сна</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от детей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Возможность крепления на стену</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры с подставкой (ШxВxГ)</name>
+          <value>1281x811x282 мм</value>
+        </item>
+        <item>
+          <name>Вес с подставкой</name>
+          <value>29 кг</value>
+        </item>
+        <item>
+          <name>Размеры без подставки (ШxВxГ)</name>
+          <value>1281x765x52 мм</value>
+        </item>
+        <item>
+          <name>Вес без подставки</name>
+          <value>25 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация </name>
+          <value>сканирующая подсветка 300 Гц BLS; 4 пары 3D-очков в комплекте</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="42270">
+    <title>Samsung UE46ES5530</title>
+    <model>UE46ES5530</model>
+    <marka>Samsung</marka>
+    <catalog id="108206">Телевизоры и плазменные панели</catalog>
+    
+    <price1>26900</price1>
+    <price2>46990</price2>
+    <description>
+
+
+ЖК-телевизор, 46&amp;quot;, 16:9, 1920x1080, HDTV, 1080p (Full HD), LED-подсветка, 100 Гц, картинка в картинке, DVR, мощность звука 20 Вт, HDMI x3, Ethernet, доступ в интернет
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-телевизор</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>46" (117 см)</value>
+        </item>
+        <item>
+          <name>Формат экрана</name>
+          <value>16:9</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p Full HD</value>
+        </item>
+        <item>
+          <name>Светодиодная (LED) подсветка</name>
+          <value>есть, Edge LED</value>
+        </item>
+        <item>
+          <name>Стереозвук</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Частота обновления</name>
+          <value>100 Гц</value>
+        </item>
+        <item>
+          <name>Доступ в интернет (Smart TV)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием сигнала</name>
+        <item>
+          <name>Поддержка телевизионных стандартов</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T</name>
+          <value>DVB-T MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-C</name>
+          <value>DVB-C MPEG4</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>с памятью на 1000 стр.</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+        <item>
+          <name>Доступные разрешения при подключении к ПК</name>
+          <value>640x480 &lt;br/&gt;1920x1080 &lt;br/&gt;</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Мощность звука</name>
+          <value>20 Вт (2х10 Вт)</value>
+        </item>
+        <item>
+          <name>Акустическая система</name>
+          <value>два динамика </value>
+        </item>
+        <item>
+          <name>Объемное звучание</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Декодер Dolby Digital</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MPEG4, Xvid, DivX, MKV, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>AV, компонентный, SCART, RGB, HDMI x3, USB x2, Ethernet (RJ-45)</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>оптический</value>
+        </item>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Слот для CI</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Картинка в картинке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество независимых TV-тюнеров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Поддержка 24p True Cinema</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>на USB-накопитель</value>
+        </item>
+        <item>
+          <name>Функция TimeShift</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер сна</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Цвет</name>
+          <value>черная передняя панель с красно-серым декором</value>
+        </item>
+        <item>
+          <name>Возможность крепления на стену</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры с подставкой (ШxВxГ)</name>
+          <value>1063x682x228 мм</value>
+        </item>
+        <item>
+          <name>Вес с подставкой</name>
+          <value>15.3 кг</value>
+        </item>
+        <item>
+          <name>Размеры без подставки (ШxВxГ)</name>
+          <value>1063x631x47 мм</value>
+        </item>
+        <item>
+          <name>Вес без подставки</name>
+          <value>13.18 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация </name>
+          <value>Clear Motion Rate 100</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="42272">
+    <title>LG 42LM669S</title>
+    <model>42LM669S</model>
+    <marka>LG</marka>
+    <catalog id="108206">Телевизоры и плазменные панели</catalog>
+    
+    <price1>33403</price1>
+    <price2>47900</price2>
+    <description>
+
+
+ЖК-телевизор, 42&amp;quot;, 16:9, 1920x1080, HDTV, 1080p (Full HD), LED-подсветка, 400 Гц, 3D, DVR, 2 TV-тюнера, мощность звука 20 Вт, HDMI x4, VGA, Ethernet, Wi-Fi, доступ в интернет
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-телевизор</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>42" (107 см)</value>
+        </item>
+        <item>
+          <name>Формат экрана</name>
+          <value>16:9</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p Full HD</value>
+        </item>
+        <item>
+          <name>Светодиодная (LED) подсветка</name>
+          <value>есть, Edge LED</value>
+        </item>
+        <item>
+          <name>Стереозвук</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Частота обновления</name>
+          <value>400 Гц</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть, поляризационная технология, конвертация 2D в 3D</value>
+        </item>
+        <item>
+          <name>Доступ в интернет (Smart TV)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием сигнала</name>
+        <item>
+          <name>Поддержка телевизионных стандартов</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T</name>
+          <value>DVB-T MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-C</name>
+          <value>DVB-C MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-S</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-S2</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>с памятью на 2000 стр.</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+        <item>
+          <name>Доступные разрешения при подключении к ПК</name>
+          <value>640x480 &lt;br/&gt;800x600 &lt;br/&gt;1024x768 &lt;br/&gt;1280x1024 &lt;br/&gt;1360x768 &lt;br/&gt;1920x1080 &lt;br/&gt;</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Мощность звука</name>
+          <value>20 Вт (2x10 Вт)</value>
+        </item>
+        <item>
+          <name>Акустическая система</name>
+          <value>два динамика </value>
+        </item>
+        <item>
+          <name>Объемное звучание</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Декодер Dolby Digital</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, MPEG4, DivX, MKV, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>AV, аудио x2, компонентный, SCART, RGB, VGA, HDMI x4, USB x3, Ethernet (RJ-45), Wi-Fi</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>оптический</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Слот для CI</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Количество независимых TV-тюнеров</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер сна</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от детей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Цвет</name>
+          <value>серый</value>
+        </item>
+        <item>
+          <name>Возможность крепления на стену</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры с подставкой (ШxВxГ)</name>
+          <value>953x628x269 мм</value>
+        </item>
+        <item>
+          <name>Вес с подставкой</name>
+          <value>15 кг</value>
+        </item>
+        <item>
+          <name>Размеры без подставки (ШxВxГ)</name>
+          <value>953x566x33 мм</value>
+        </item>
+        <item>
+          <name>Вес без подставки</name>
+          <value>12.5 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация </name>
+          <value>MCI 400; подсветка LED Plus; датчик света; Dual Play</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="42280">
+    <title>Toshiba 26KL933</title>
+    <model>26KL933</model>
+    <marka>Toshiba</marka>
+    <catalog id="108206">Телевизоры и плазменные панели</catalog>
+    
+    <price1>8641</price1>
+    <price2>14000</price2>
+    <description>
+
+
+ЖК-телевизор, встроенный DVD-плеер, 26&amp;quot;, 16:9, 1366x768, HDTV, 720p, LED-подсветка, 100 Гц, мощность звука 10 Вт, HDMI x2, VGA
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-телевизор</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>26" (66 см)</value>
+        </item>
+        <item>
+          <name>Формат экрана</name>
+          <value>16:9</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1366x768</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>720p HD</value>
+        </item>
+        <item>
+          <name>Светодиодная (LED) подсветка</name>
+          <value>есть, Edge LED</value>
+        </item>
+        <item>
+          <name>Встроенный DVD-плеер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Стереозвук</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Частота обновления</name>
+          <value>100 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Яркость</name>
+          <value>350 кд/м2</value>
+        </item>
+        <item>
+          <name>Динамическая контрастность</name>
+          <value>3000000:1</value>
+        </item>
+        <item>
+          <name>Угол обзора</name>
+          <value>170°</value>
+        </item>
+        <item>
+          <name>Время отклика пикселя</name>
+          <value>6 мс</value>
+        </item>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием сигнала</name>
+        <item>
+          <name>Поддержка стереозвука NICAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка телевизионных стандартов</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T</name>
+          <value>DVB-T MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-C</name>
+          <value>DVB-C MPEG4</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+        <item>
+          <name>Доступные разрешения при подключении к ПК</name>
+          <value>640x480 &lt;br/&gt;800x600 &lt;br/&gt;1024x768 &lt;br/&gt;1280x1024 &lt;br/&gt;1360x768 &lt;br/&gt;1920x1080 &lt;br/&gt;</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Мощность звука</name>
+          <value>10 Вт (2х5 Вт)</value>
+        </item>
+        <item>
+          <name>Акустическая система</name>
+          <value>два динамика </value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые носители</name>
+          <value>CD, CD-R, CD-RW, DVD, DVD R, DVD RW</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, MPEG4, DivX, MKV, VideoCD, SVCD, Picture CD, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>AV, SCART, RGB, VGA, HDMI x2, USB</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>коаксиальный</value>
+        </item>
+        <item>
+          <name>Разъемы на передней/боковой панели</name>
+          <value>AV</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Слот для CI</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Количество независимых TV-тюнеров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Поддержка 24p True Cinema</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер сна</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от детей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Возможность крепления на стену</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>65 Вт</value>
+        </item>
+        <item>
+          <name>Размеры с подставкой (ШxВxГ)</name>
+          <value>644x447x175 мм</value>
+        </item>
+        <item>
+          <name>Вес с подставкой</name>
+          <value>8 кг</value>
+        </item>
+        <item>
+          <name>Размеры без подставки (ШxВxГ)</name>
+          <value>644x408x59 мм</value>
+        </item>
+        <item>
+          <name>Вес без подставки</name>
+          <value>6.9 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация </name>
+          <value>режим Караоке; 2 разъема для микрофона; AMR 100</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="42284">
+    <title>Samsung UE46ES6907</title>
+    <model>UE46ES6907</model>
+    <marka>Samsung</marka>
+    <catalog id="108206">Телевизоры и плазменные панели</catalog>
+    
+    <price1>36000</price1>
+    <price2>52500</price2>
+    <description>
+
+
+ЖК-телевизор, 46&amp;quot;, 16:9, 1920x1080, HDTV, 1080p (Full HD), LED-подсветка, 400 Гц, 3D, картинка в картинке, DVR, мощность звука 20 Вт, HDMI x3, Ethernet, Wi-Fi, доступ в интернет
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-телевизор</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>46" (117 см)</value>
+        </item>
+        <item>
+          <name>Формат экрана</name>
+          <value>16:9</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p Full HD</value>
+        </item>
+        <item>
+          <name>Светодиодная (LED) подсветка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Стереозвук</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Частота обновления</name>
+          <value>400 Гц</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть, затворная технология, конвертация 2D в 3D</value>
+        </item>
+        <item>
+          <name>Доступ в интернет (Smart TV)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием сигнала</name>
+        <item>
+          <name>Поддержка телевизионных стандартов</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T</name>
+          <value>DVB-T MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T2</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-C</name>
+          <value>DVB-C MPEG4</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>с памятью на 1000 стр.</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+        <item>
+          <name>Доступные разрешения при подключении к ПК</name>
+          <value>640x480 &lt;br/&gt;800x600 &lt;br/&gt;1024x768 &lt;br/&gt;1280x1024 &lt;br/&gt;1360x768 &lt;br/&gt;1920x1080 &lt;br/&gt;</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Мощность звука</name>
+          <value>20 Вт (2х10 Вт)</value>
+        </item>
+        <item>
+          <name>Акустическая система</name>
+          <value>два динамика </value>
+        </item>
+        <item>
+          <name>Объемное звучание</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Декодер Dolby Digital</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MPEG4, Xvid, DivX, MKV, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>AV, компонентный, SCART, RGB, HDMI x3, USB x3, Ethernet (RJ-45), Wi-Fi</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>оптический</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Слот для CI</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Картинка в картинке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество независимых TV-тюнеров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Поддержка 24p True Cinema</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>на USB-накопитель</value>
+        </item>
+        <item>
+          <name>Функция TimeShift</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер сна</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от детей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый</value>
+        </item>
+        <item>
+          <name>Возможность крепления на стену</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>73 Вт</value>
+        </item>
+        <item>
+          <name>Размеры с подставкой (ШxВxГ)</name>
+          <value>1056x698x277 мм</value>
+        </item>
+        <item>
+          <name>Вес с подставкой</name>
+          <value>15 кг</value>
+        </item>
+        <item>
+          <name>Размеры без подставки (ШxВxГ)</name>
+          <value>1056x613x31 мм</value>
+        </item>
+        <item>
+          <name>Вес без подставки</name>
+          <value>13.1 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация </name>
+          <value>Clear Motion Rate 400 Гц; Micro Dimming; 2 пары 3D-очков в комплекте; WiFi Direct</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="42302">
+    <title>Panasonic TX-L47WT50</title>
+    <model>TX-L47WT50</model>
+    <marka>Panasonic</marka>
+    <catalog id="108206">Телевизоры и плазменные панели</catalog>
+    
+    <price1>62400</price1>
+    <price2>68500</price2>
+    <description>
+
+
+ЖК-телевизор, 47&amp;quot;, 16:9, 1920x1080, HDTV, 1080p (Full HD), LED-подсветка, 1600 Гц, 3D, картинка в картинке, DVR, мощность звука 18 Вт, HDMI x4, VGA, Ethernet, Wi-Fi, Bluetooth, доступ в интернет
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-телевизор</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>47" (119 см)</value>
+        </item>
+        <item>
+          <name>Формат экрана</name>
+          <value>16:9</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p Full HD</value>
+        </item>
+        <item>
+          <name>Светодиодная (LED) подсветка</name>
+          <value>есть, Edge LED</value>
+        </item>
+        <item>
+          <name>Стереозвук</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Частота обновления</name>
+          <value>1600 Гц</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть, затворная технология, конвертация 2D в 3D</value>
+        </item>
+        <item>
+          <name>Доступ в интернет (Smart TV)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Угол обзора</name>
+          <value>178°</value>
+        </item>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием сигнала</name>
+        <item>
+          <name>Поддержка стереозвука NICAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка телевизионных стандартов</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T</name>
+          <value>DVB-T MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-C</name>
+          <value>DVB-C MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-S</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-S2</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>с памятью на 1500 стр.</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+        <item>
+          <name>Доступные разрешения при подключении к ПК</name>
+          <value>640x480 &lt;br/&gt;800x600 &lt;br/&gt;1024x768 &lt;br/&gt;1280x1024 &lt;br/&gt;1360x768 &lt;br/&gt;1920x1080 &lt;br/&gt;</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Мощность звука</name>
+          <value>18 Вт (2x4 + 10 Вт)</value>
+        </item>
+        <item>
+          <name>Акустическая система</name>
+          <value>3 динамика </value>
+        </item>
+        <item>
+          <name>Сабвуфер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Объемное звучание</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Декодер Dolby Digital</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MPEG4, DivX, MKV, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>AV, компонентный, RGB, VGA, HDMI x4, USB x3, Ethernet (RJ-45), Bluetooth, Wi-Fi</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>оптический</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Слот для CI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Устройство для чтения карт памяти</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы флэш-карт</name>
+          <value>SD</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Картинка в картинке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мультиэкран</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка 24p True Cinema</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>на USB-накопитель</value>
+        </item>
+        <item>
+          <name>Функция TimeShift</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер сна</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от детей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Возможность крепления на стену</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>132 Вт</value>
+        </item>
+        <item>
+          <name>Размеры с подставкой (ШxВxГ)</name>
+          <value>1066x708x335 мм</value>
+        </item>
+        <item>
+          <name>Вес с подставкой</name>
+          <value>16 кг</value>
+        </item>
+        <item>
+          <name>Размеры без подставки (ШxВxГ)</name>
+          <value>1066x630x27 мм</value>
+        </item>
+        <item>
+          <name>Вес без подставки</name>
+          <value>13 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="42304">
+    <title>Philips 22PFL3507T</title>
+    <model>22PFL3507T</model>
+    <marka>Philips</marka>
+    <catalog id="108206">Телевизоры и плазменные панели</catalog>
+    
+    <price1>9690</price1>
+    <price2>13144</price2>
+    <description>
+
+
+ЖК-телевизор, 22&amp;quot;, 16:9, 1920x1080, HDTV, 1080p (Full HD), LED-подсветка, 100 Гц, мощность звука 10 Вт, HDMI x3, VGA, Ethernet, доступ в интернет
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-телевизор</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>22" (56 см)</value>
+        </item>
+        <item>
+          <name>Формат экрана</name>
+          <value>16:9</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p Full HD</value>
+        </item>
+        <item>
+          <name>Светодиодная (LED) подсветка</name>
+          <value>есть, Edge LED</value>
+        </item>
+        <item>
+          <name>Стереозвук</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Частота обновления</name>
+          <value>100 Гц</value>
+        </item>
+        <item>
+          <name>Доступ в интернет (Smart TV)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Яркость</name>
+          <value>250 кд/м2</value>
+        </item>
+        <item>
+          <name>Динамическая контрастность</name>
+          <value>100000:1</value>
+        </item>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием сигнала</name>
+        <item>
+          <name>Поддержка телевизионных стандартов</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T</name>
+          <value>DVB-T MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T2</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-C</name>
+          <value>DVB-C MPEG4</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>с памятью на 1000 стр.</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+        <item>
+          <name>Доступные разрешения при подключении к ПК</name>
+          <value>640x480 &lt;br/&gt;800x600 &lt;br/&gt;1024x768 &lt;br/&gt;1360x768 &lt;br/&gt;1920x1080 &lt;br/&gt;</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Мощность звука</name>
+          <value>10 Вт (2х5 Вт)</value>
+        </item>
+        <item>
+          <name>Акустическая система</name>
+          <value>два динамика </value>
+        </item>
+        <item>
+          <name>Объемное звучание</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, MPEG4, DivX, MKV, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>AV, аудио x2, компонентный, SCART, RGB, VGA, HDMI x3, USB x2, Ethernet (RJ-45)</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>коаксиальный</value>
+        </item>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Слот для CI</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Количество независимых TV-тюнеров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Поддержка 24p True Cinema</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Возможность крепления на стену</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>26 Вт</value>
+        </item>
+        <item>
+          <name>Размеры с подставкой (ШxВxГ)</name>
+          <value>514x361x147 мм</value>
+        </item>
+        <item>
+          <name>Вес с подставкой</name>
+          <value>4 кг</value>
+        </item>
+        <item>
+          <name>Размеры без подставки (ШxВxГ)</name>
+          <value>514x323x45 мм</value>
+        </item>
+        <item>
+          <name>Вес без подставки</name>
+          <value>3.8 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация </name>
+          <value>Digital Crystal Clear; 100 Hz Perfect Motion Rate</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="42307">
+    <title>Toshiba 19EL933</title>
+    <model>19EL933</model>
+    <marka>Toshiba</marka>
+    <catalog id="108206">Телевизоры и плазменные панели</catalog>
+    
+    <price1>5080</price1>
+    <price2>6619</price2>
+    <description>
+
+
+ЖК-телевизор, 19&amp;quot;, 16:9, 1366x768, HDTV, 720p, LED-подсветка, 100 Гц, мощность звука 6 Вт, HDMI x2, VGA
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-телевизор</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>19" (48 см)</value>
+        </item>
+        <item>
+          <name>Формат экрана</name>
+          <value>16:9</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1366x768</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>720p HD</value>
+        </item>
+        <item>
+          <name>Светодиодная (LED) подсветка</name>
+          <value>есть, Edge LED</value>
+        </item>
+        <item>
+          <name>Стереозвук</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Частота обновления</name>
+          <value>100 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Яркость</name>
+          <value>225 кд/м2</value>
+        </item>
+        <item>
+          <name>Динамическая контрастность</name>
+          <value>1000000:1</value>
+        </item>
+        <item>
+          <name>Угол обзора</name>
+          <value>160°</value>
+        </item>
+        <item>
+          <name>Время отклика пикселя</name>
+          <value>5 мс</value>
+        </item>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием сигнала</name>
+        <item>
+          <name>Поддержка стереозвука NICAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка телевизионных стандартов</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T</name>
+          <value>DVB-T MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-C</name>
+          <value>DVB-C MPEG4</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>с памятью на 100 стр.</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+        <item>
+          <name>Доступные разрешения при подключении к ПК</name>
+          <value>640x480 &lt;br/&gt;800x600 &lt;br/&gt;1024x768 &lt;br/&gt;1280x1024 &lt;br/&gt;1360x768 &lt;br/&gt;</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Мощность звука</name>
+          <value>6 Вт (2х3 Вт)</value>
+        </item>
+        <item>
+          <name>Акустическая система</name>
+          <value>два динамика </value>
+        </item>
+        <item>
+          <name>Декодер Dolby Digital</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, MPEG4, DivX, MKV, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>AV, компонентный, SCART, RGB, VGA, HDMI x2, USB</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>коаксиальный</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Слот для CI</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Количество независимых TV-тюнеров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Поддержка 24p True Cinema</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер сна</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от детей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Цвет</name>
+          <value>черная передняя панель с серебристым оформлением</value>
+        </item>
+        <item>
+          <name>Возможность крепления на стену</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>30 Вт</value>
+        </item>
+        <item>
+          <name>Размеры с подставкой (ШxВxГ)</name>
+          <value>450x320x140 мм</value>
+        </item>
+        <item>
+          <name>Вес с подставкой</name>
+          <value>3 кг</value>
+        </item>
+        <item>
+          <name>Размеры без подставки (ШxВxГ)</name>
+          <value>450x287x37 мм</value>
+        </item>
+        <item>
+          <name>Вес без подставки</name>
+          <value>2.7 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация </name>
+          <value>AMR 100</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="42404">
+    <title>Philips 32PFL5507T</title>
+    <model>32PFL5507T</model>
+    <marka>Philips</marka>
+    <catalog id="108206">Телевизоры и плазменные панели</catalog>
+    
+    <price1>12990</price1>
+    <price2>21000</price2>
+    <description>
+
+
+ЖК-телевизор, 32&amp;quot;, 16:9, 1920x1080, HDTV, 1080p (Full HD), LED-подсветка, 400 Гц, 3D, DVR, мощность звука 20 Вт, HDMI x4, VGA, Ethernet, Wi-Fi, доступ в интернет
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-телевизор</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>32" (81 см)</value>
+        </item>
+        <item>
+          <name>Формат экрана</name>
+          <value>16:9</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p Full HD</value>
+        </item>
+        <item>
+          <name>Светодиодная (LED) подсветка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Стереозвук</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Частота обновления</name>
+          <value>400 Гц</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть, затворная технология, конвертация 2D в 3D</value>
+        </item>
+        <item>
+          <name>Доступ в интернет (Smart TV)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Яркость</name>
+          <value>400 кд/м2</value>
+        </item>
+        <item>
+          <name>Динамическая контрастность</name>
+          <value>500000:1</value>
+        </item>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием сигнала</name>
+        <item>
+          <name>Поддержка стереозвука NICAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка телевизионных стандартов</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T</name>
+          <value>DVB-T MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T2</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-C</name>
+          <value>DVB-C MPEG4</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>с памятью на 1200 стр.</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+        <item>
+          <name>Доступные разрешения при подключении к ПК</name>
+          <value>640x480 &lt;br/&gt;800x600 &lt;br/&gt;1024x768 &lt;br/&gt;1280x1024 &lt;br/&gt;1360x768 &lt;br/&gt;1920x1080 &lt;br/&gt;</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Мощность звука</name>
+          <value>20 Вт (2х10 Вт)</value>
+        </item>
+        <item>
+          <name>Акустическая система</name>
+          <value>два динамика </value>
+        </item>
+        <item>
+          <name>Объемное звучание</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Декодер Dolby Digital</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MPEG4, DivX, MKV, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио x2, компонентный, SCART, RGB, VGA, HDMI x4, USB x3, Ethernet (RJ-45), Wi-Fi</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>оптический</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Слот для CI</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Количество независимых TV-тюнеров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Поддержка 24p True Cinema</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>на USB-накопитель</value>
+        </item>
+        <item>
+          <name>Функция TimeShift</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер сна</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от детей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый</value>
+        </item>
+        <item>
+          <name>Возможность крепления на стену</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>44 Вт</value>
+        </item>
+        <item>
+          <name>Размеры с подставкой (ШxВxГ)</name>
+          <value>742x495x250 мм</value>
+        </item>
+        <item>
+          <name>Вес с подставкой</name>
+          <value>10.2 кг</value>
+        </item>
+        <item>
+          <name>Размеры без подставки (ШxВxГ)</name>
+          <value>742x453x34 мм</value>
+        </item>
+        <item>
+          <name>Вес без подставки</name>
+          <value>8.2 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация </name>
+          <value>Pixel Plus HD; Рerfect Motion Rate 400 Гц; видеозвонки через телевизор</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="42420">
+    <title>Samsung UE46ES6307</title>
+    <model>UE46ES6307</model>
+    <marka>Samsung</marka>
+    <catalog id="108206">Телевизоры и плазменные панели</catalog>
+    
+    <price1>31000</price1>
+    <price2>32000</price2>
+    <description>
+
+
+ЖК-телевизор, 46&amp;quot;, 16:9, 1920x1080, HDTV, 1080p (Full HD), LED-подсветка, 200 Гц, 3D, картинка в картинке, DVR, мощность звука 20 Вт, HDMI x3, Ethernet, Wi-Fi, доступ в интернет
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-телевизор</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>46" (117 см)</value>
+        </item>
+        <item>
+          <name>Формат экрана</name>
+          <value>16:9</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p Full HD</value>
+        </item>
+        <item>
+          <name>Светодиодная (LED) подсветка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Стереозвук</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Частота обновления</name>
+          <value>200 Гц</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть, затворная технология, конвертация 2D в 3D</value>
+        </item>
+        <item>
+          <name>Доступ в интернет (Smart TV)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием сигнала</name>
+        <item>
+          <name>Поддержка телевизионных стандартов</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T</name>
+          <value>DVB-T MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T2</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-C</name>
+          <value>DVB-C MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-S</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-S2</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>с памятью на 1000 стр.</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+        <item>
+          <name>Доступные разрешения при подключении к ПК</name>
+          <value>640x480 &lt;br/&gt;800x600 &lt;br/&gt;1024x768 &lt;br/&gt;1280x1024 &lt;br/&gt;1360x768 &lt;br/&gt;1920x1080 &lt;br/&gt;</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Мощность звука</name>
+          <value>20 Вт (2х10 Вт)</value>
+        </item>
+        <item>
+          <name>Акустическая система</name>
+          <value>два динамика </value>
+        </item>
+        <item>
+          <name>Объемное звучание</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Декодер Dolby Digital</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MPEG4, Xvid, DivX, MKV, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>AV, компонентный, SCART, RGB, HDMI x3, USB x3, Ethernet (RJ-45), Wi-Fi</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>оптический</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Слот для CI</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Картинка в картинке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество независимых TV-тюнеров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Поддержка 24p True Cinema</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>на USB-накопитель</value>
+        </item>
+        <item>
+          <name>Функция TimeShift</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер сна</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от детей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Возможность крепления на стену</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>69 Вт</value>
+        </item>
+        <item>
+          <name>Размеры с подставкой (ШxВxГ)</name>
+          <value>1062x701x277 мм</value>
+        </item>
+        <item>
+          <name>Вес с подставкой</name>
+          <value>14.7 кг</value>
+        </item>
+        <item>
+          <name>Размеры без подставки (ШxВxГ)</name>
+          <value>1062x630x47 мм</value>
+        </item>
+        <item>
+          <name>Вес без подставки</name>
+          <value>12.9 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация </name>
+          <value>Clear Motion Rate 200 Гц; 2 пары 3D-очков в комплекте</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="42428">
+    <title>Samsung UE32EH5307</title>
+    <model>UE32EH5307</model>
+    <marka>Samsung</marka>
+    <catalog id="108206">Телевизоры и плазменные панели</catalog>
+    
+    <price1>13600</price1>
+    <price2>18500</price2>
+    <description>
+
+
+ЖК-телевизор, 32&amp;quot;, 16:9, 1920x1080, HDTV, 1080p (Full HD), LED-подсветка, 50 Гц, картинка в картинке, мощность звука 20 Вт, HDMI x3, Ethernet, доступ в интернет
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-телевизор</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>32" (81 см)</value>
+        </item>
+        <item>
+          <name>Формат экрана</name>
+          <value>16:9</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p Full HD</value>
+        </item>
+        <item>
+          <name>Светодиодная (LED) подсветка</name>
+          <value>есть, Edge LED</value>
+        </item>
+        <item>
+          <name>Стереозвук</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Частота обновления</name>
+          <value>100 Гц</value>
+        </item>
+        <item>
+          <name>Доступ в интернет (Smart TV)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием сигнала</name>
+        <item>
+          <name>Поддержка телевизионных стандартов</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T</name>
+          <value>DVB-T MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T2</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-C</name>
+          <value>DVB-C MPEG4</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>с памятью на 1000 стр.</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+        <item>
+          <name>Доступные разрешения при подключении к ПК</name>
+          <value>640x480 &lt;br/&gt;1920x1080 &lt;br/&gt;</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Мощность звука</name>
+          <value>20 Вт (2х10 Вт)</value>
+        </item>
+        <item>
+          <name>Акустическая система</name>
+          <value>два динамика </value>
+        </item>
+        <item>
+          <name>Объемное звучание</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Декодер Dolby Digital</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MPEG4, Xvid, DivX, MKV, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>AV, компонентный, SCART, RGB, HDMI x3, USB x2, Ethernet (RJ-45)</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>оптический</value>
+        </item>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Слот для CI</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Картинка в картинке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество независимых TV-тюнеров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Поддержка 24p True Cinema</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер сна</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от детей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Возможность крепления на стену</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>39 Вт</value>
+        </item>
+        <item>
+          <name>Размеры с подставкой (ШxВxГ)</name>
+          <value>738x498x192 мм</value>
+        </item>
+        <item>
+          <name>Вес с подставкой</name>
+          <value>6.5 кг</value>
+        </item>
+        <item>
+          <name>Размеры без подставки (ШxВxГ)</name>
+          <value>738x445x93 мм</value>
+        </item>
+        <item>
+          <name>Вес без подставки</name>
+          <value>5.8 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация </name>
+          <value>Clear Motion Rate 100</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="42465">
+    <title>Panasonic TX-L42E5</title>
+    <model>TX-L42E5</model>
+    <marka>Panasonic</marka>
+    <catalog id="108206">Телевизоры и плазменные панели</catalog>
+    
+    <price1>23525</price1>
+    <price2>31290</price2>
+    <description>
+
+
+ЖК-телевизор, 42&amp;quot;, 16:9, 1920x1080, HDTV, 1080p (Full HD), LED-подсветка, 100 Гц, DVR, мощность звука 20 Вт, HDMI x4, VGA, Ethernet, доступ в интернет
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-телевизор</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>42" (107 см)</value>
+        </item>
+        <item>
+          <name>Формат экрана</name>
+          <value>16:9</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p Full HD</value>
+        </item>
+        <item>
+          <name>Светодиодная (LED) подсветка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Стереозвук</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Частота обновления</name>
+          <value>100 Гц</value>
+        </item>
+        <item>
+          <name>Доступ в интернет (Smart TV)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Угол обзора</name>
+          <value>178°</value>
+        </item>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием сигнала</name>
+        <item>
+          <name>Поддержка стереозвука NICAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка телевизионных стандартов</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T</name>
+          <value>DVB-T MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T2</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-C</name>
+          <value>DVB-C MPEG4</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>с памятью на 1000 стр.</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+        <item>
+          <name>Доступные разрешения при подключении к ПК</name>
+          <value>640x480 &lt;br/&gt;800x600 &lt;br/&gt;1024x768 &lt;br/&gt;1280x1024 &lt;br/&gt;1360x768 &lt;br/&gt;</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Мощность звука</name>
+          <value>20 Вт (2х10 Вт)</value>
+        </item>
+        <item>
+          <name>Акустическая система</name>
+          <value>два динамика </value>
+        </item>
+        <item>
+          <name>Объемное звучание</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Декодер Dolby Digital</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MPEG4, DivX, MKV, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>AV, компонентный, SCART, RGB, VGA, HDMI x4, USB x2, Ethernet (RJ-45)</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>оптический</value>
+        </item>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Слот для CI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Устройство для чтения карт памяти</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы флэш-карт</name>
+          <value>SD</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Количество независимых TV-тюнеров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Поддержка 24p True Cinema</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>на USB-накопитель</value>
+        </item>
+        <item>
+          <name>Функция TimeShift</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер сна</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от детей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Возможность крепления на стену</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>86 Вт</value>
+        </item>
+        <item>
+          <name>Размеры с подставкой (ШxВxГ)</name>
+          <value>997x650x247 мм</value>
+        </item>
+        <item>
+          <name>Вес с подставкой</name>
+          <value>17 кг</value>
+        </item>
+        <item>
+          <name>Размеры без подставки (ШxВxГ)</name>
+          <value>997x604x52 мм</value>
+        </item>
+        <item>
+          <name>Вес без подставки</name>
+          <value>14 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="42468">
+    <title>Samsung UE46ES8007</title>
+    <model>UE46ES8007</model>
+    <marka>Samsung</marka>
+    <catalog id="108206">Телевизоры и плазменные панели</catalog>
+    
+    <price1>44990</price1>
+    <price2>55499</price2>
+    <description>
+
+
+ЖК-телевизор, 46&amp;quot;, 16:9, 1920x1080, HDTV, 1080p (Full HD), LED-подсветка, 800 Гц, 3D, картинка в картинке, DVR, мощность звука 20 Вт, HDMI x3, Ethernet, Wi-Fi, доступ в интернет
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-телевизор</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>46" (117 см)</value>
+        </item>
+        <item>
+          <name>Формат экрана</name>
+          <value>16:9</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p Full HD</value>
+        </item>
+        <item>
+          <name>Светодиодная (LED) подсветка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Стереозвук</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Частота обновления</name>
+          <value>800 Гц</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть, затворная технология, конвертация 2D в 3D</value>
+        </item>
+        <item>
+          <name>Доступ в интернет (Smart TV)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием сигнала</name>
+        <item>
+          <name>Поддержка телевизионных стандартов</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T</name>
+          <value>DVB-T MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T2</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-C</name>
+          <value>DVB-C MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-S2</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>с памятью на 1000 стр.</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+        <item>
+          <name>Доступные разрешения при подключении к ПК</name>
+          <value>640x480 &lt;br/&gt;800x600 &lt;br/&gt;1024x768 &lt;br/&gt;1280x1024 &lt;br/&gt;1360x768 &lt;br/&gt;1920x1080 &lt;br/&gt;</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Мощность звука</name>
+          <value>20 Вт (2х10 Вт)</value>
+        </item>
+        <item>
+          <name>Акустическая система</name>
+          <value>два динамика </value>
+        </item>
+        <item>
+          <name>Объемное звучание</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Декодер Dolby Digital</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MPEG4, Xvid, DivX, MKV, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>AV, компонентный, SCART, RGB, HDMI x3, MHL, USB x3, Ethernet (RJ-45), Wi-Fi</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>оптический</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Слот для CI</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Картинка в картинке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка 24p True Cinema</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>на USB-накопитель</value>
+        </item>
+        <item>
+          <name>Функция TimeShift</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>есть, встроенная камера</value>
+        </item>
+        <item>
+          <name>Таймер сна</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от детей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>жестами, голосом</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый</value>
+        </item>
+        <item>
+          <name>Возможность крепления на стену</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>81 Вт</value>
+        </item>
+        <item>
+          <name>Размеры с подставкой (ШxВxГ)</name>
+          <value>1038x653x210 мм</value>
+        </item>
+        <item>
+          <name>Размеры без подставки (ШxВxГ)</name>
+          <value>1038x614x30 мм</value>
+        </item>
+        <item>
+          <name>Дополнительная информация </name>
+          <value>Clear Motion Rate 800 Гц; Ultra Clear Panel; Micro Dimming Ultimate; 2 пары 3D-очков в комплекте; Smart Evolution</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="42487">
+    <title>Sharp LC-80LE645</title>
+    <model>LC-80LE645</model>
+    <marka>Sharp</marka>
+    <catalog id="108206">Телевизоры и плазменные панели</catalog>
+    
+    <price1>229000</price1>
+    <price2>252354</price2>
+    <description>
+
+
+ЖК-телевизор, 80&amp;quot;, 16:9, 1920x1080, HDTV, 1080p (Full HD), LED-подсветка, 100 Гц, DVR, 2 TV-тюнера, мощность звука 20 Вт, HDMI x4, VGA, Ethernet, доступ в интернет
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-телевизор</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>80" (203 см)</value>
+        </item>
+        <item>
+          <name>Формат экрана</name>
+          <value>16:9</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p Full HD</value>
+        </item>
+        <item>
+          <name>Светодиодная (LED) подсветка</name>
+          <value>есть, RGB LED</value>
+        </item>
+        <item>
+          <name>Стереозвук</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Частота обновления</name>
+          <value>100 Гц</value>
+        </item>
+        <item>
+          <name>Доступ в интернет (Smart TV)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием сигнала</name>
+        <item>
+          <name>Поддержка стереозвука NICAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка телевизионных стандартов</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T</name>
+          <value>DVB-T MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-C</name>
+          <value>DVB-C MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-S</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-S2</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>с памятью на 2000 стр.</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+        <item>
+          <name>Доступные разрешения при подключении к ПК</name>
+          <value>640x480 &lt;br/&gt;800x600 &lt;br/&gt;1024x768 &lt;br/&gt;1280x1024 &lt;br/&gt;1360x768 &lt;br/&gt;1920x1080 &lt;br/&gt;</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Мощность звука</name>
+          <value>20 Вт (2x10 Вт)</value>
+        </item>
+        <item>
+          <name>Акустическая система</name>
+          <value>два динамика </value>
+        </item>
+        <item>
+          <name>Объемное звучание</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Декодер Dolby Digital</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MPEG4, Xvid, DivX, MKV, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>AV, аудио x3, компонентный, SCART, RGB, VGA, HDMI x4, USB x3, RS-232, Ethernet (RJ-45)</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>оптический</value>
+        </item>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Слот для CI</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Устройство для чтения карт памяти</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы флэш-карт</name>
+          <value>SD</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Количество независимых TV-тюнеров</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Поддержка 24p True Cinema</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>на USB-накопитель</value>
+        </item>
+        <item>
+          <name>Функция TimeShift</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер сна</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от детей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Возможность крепления на стену</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>131 Вт</value>
+        </item>
+        <item>
+          <name>Размеры с подставкой (ШxВxГ)</name>
+          <value>1862x1145x434 мм</value>
+        </item>
+        <item>
+          <name>Вес </name>
+          <value>56 кг</value>
+        </item>
+        <item>
+          <name>Размеры без подставки (ШxВxГ)</name>
+          <value>1862x1112x99 мм</value>
+        </item>
+        <item>
+          <name>Дополнительная информация </name>
+          <value>автовыключение; датчик освещенности</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="42502">
+    <title>LG 60PM970S</title>
+    <model>60PM970S</model>
+    <marka>LG</marka>
+    <catalog id="108206">Телевизоры и плазменные панели</catalog>
+    
+    <price1>71700</price1>
+    <price2>90614</price2>
+    <description>
+
+
+плазменная панель, 60&amp;quot;, 16:9, 1920x1080, HDTV, 1080p (Full HD), 3D, DVR, мощность звука 20 Вт, HDMI x4, VGA, Ethernet, Wi-Fi, доступ в интернет
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>плазменная панель</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>60" (152 см)</value>
+        </item>
+        <item>
+          <name>Формат экрана</name>
+          <value>16:9</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p Full HD</value>
+        </item>
+        <item>
+          <name>Стереозвук</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть, затворная технология, конвертация 2D в 3D</value>
+        </item>
+        <item>
+          <name>Доступ в интернет (Smart TV)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Динамическая контрастность</name>
+          <value>5000000:1</value>
+        </item>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Технология Sub-Field Driving</name>
+          <value>600 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием сигнала</name>
+        <item>
+          <name>Поддержка стереозвука NICAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка телевизионных стандартов</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T</name>
+          <value>DVB-T MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-C</name>
+          <value>DVB-C MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-S2</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>с памятью на 2000 стр.</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+        <item>
+          <name>Доступные разрешения при подключении к ПК</name>
+          <value>640x480 &lt;br/&gt;800x600 &lt;br/&gt;1024x768 &lt;br/&gt;1280x1024 &lt;br/&gt;1360x768 &lt;br/&gt;1920x1080 &lt;br/&gt;</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Мощность звука</name>
+          <value>20 Вт (2х10 Вт)</value>
+        </item>
+        <item>
+          <name>Акустическая система</name>
+          <value>два динамика </value>
+        </item>
+        <item>
+          <name>Объемное звучание</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Декодер Dolby Digital</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MPEG4, DivX, MKV, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>AV, аудио x2, компонентный, SCART, RGB, VGA, HDMI x4, USB x2, RS-232, Ethernet (RJ-45), Wi-Fi</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>оптический</value>
+        </item>
+        <item>
+          <name>Слот для CI</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Поддержка 24p True Cinema</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер сна</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от детей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный декорированный</value>
+        </item>
+        <item>
+          <name>Возможность крепления на стену</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>183 Вт</value>
+        </item>
+        <item>
+          <name>Размеры с подставкой (ШxВxГ)</name>
+          <value>1387x897x346 мм</value>
+        </item>
+        <item>
+          <name>Вес с подставкой</name>
+          <value>40.2 кг</value>
+        </item>
+        <item>
+          <name>Размеры без подставки (ШxВxГ)</name>
+          <value>1387x827x53 мм</value>
+        </item>
+        <item>
+          <name>Вес без подставки</name>
+          <value>36.8 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="42521">
+    <title>Samsung PS51D8000</title>
+    <model>PS51D8000</model>
+    <marka>Samsung</marka>
+    <catalog id="108206">Телевизоры и плазменные панели</catalog>
+    
+    <price1>39990</price1>
+    <price2>72000</price2>
+    <description>
+
+
+плазменная панель, 51&amp;quot;, 16:9, 1920x1080, HDTV, 1080p (Full HD), 3D, картинка в картинке, мощность звука 20 Вт, HDMI x4, VGA, Ethernet, Wi-Fi, доступ в интернет
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>плазменная панель</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>51" (130 см)</value>
+        </item>
+        <item>
+          <name>Формат экрана</name>
+          <value>16:9</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p Full HD</value>
+        </item>
+        <item>
+          <name>Стереозвук</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка 3D</name>
+          <value>есть, затворная технология, конвертация 2D в 3D</value>
+        </item>
+        <item>
+          <name>Доступ в интернет (Smart TV)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Технология Sub-Field Driving</name>
+          <value>600 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием сигнала</name>
+        <item>
+          <name>Поддержка стереозвука NICAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка телевизионных стандартов</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T</name>
+          <value>DVB-T MPEG4</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+        <item>
+          <name>Доступные разрешения при подключении к ПК</name>
+          <value>640x480 &lt;br/&gt;800x600 &lt;br/&gt;1024x768 &lt;br/&gt;1280x1024 &lt;br/&gt;1360x768 &lt;br/&gt;1920x1080 &lt;br/&gt;</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Мощность звука</name>
+          <value>20 Вт (2х10 Вт)</value>
+        </item>
+        <item>
+          <name>Акустическая система</name>
+          <value>два динамика </value>
+        </item>
+        <item>
+          <name>Объемное звучание</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Декодер Dolby Digital</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MPEG4, Xvid, DivX, MKV, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>AV, аудио x2, компонентный, SCART, RGB, VGA, HDMI x4, USB x2, Ethernet (RJ-45), Wi-Fi</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>оптический</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Слот для CI</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Картинка в картинке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество независимых TV-тюнеров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Поддержка 24p True Cinema</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер сна</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от детей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>универсальный (мультибрендовый) пульт</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый</value>
+        </item>
+        <item>
+          <name>Возможность крепления на стену</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры с подставкой (ШxВxГ)</name>
+          <value>1196x802x310 мм</value>
+        </item>
+        <item>
+          <name>Вес с подставкой</name>
+          <value>25.4 кг</value>
+        </item>
+        <item>
+          <name>Размеры без подставки (ШxВxГ)</name>
+          <value>1196x719x37 мм</value>
+        </item>
+        <item>
+          <name>Вес без подставки</name>
+          <value>23.2 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="42529">
+    <title>Samsung UE40EH5307</title>
+    <model>UE40EH5307</model>
+    <marka>Samsung</marka>
+    <catalog id="108206">Телевизоры и плазменные панели</catalog>
+    
+    <price1>16500</price1>
+    <price2>19499</price2>
+    <description>
+
+
+ЖК-телевизор, 40&amp;quot;, 16:9, 1920x1080, HDTV, 1080p (Full HD), LED-подсветка, 100 Гц, картинка в картинке, мощность звука 20 Вт, HDMI x3, Ethernet, доступ в интернет
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ЖК-телевизор</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>40" (102 см)</value>
+        </item>
+        <item>
+          <name>Формат экрана</name>
+          <value>16:9</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p Full HD</value>
+        </item>
+        <item>
+          <name>Светодиодная (LED) подсветка</name>
+          <value>есть, Edge LED</value>
+        </item>
+        <item>
+          <name>Стереозвук</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Частота обновления</name>
+          <value>100 Гц</value>
+        </item>
+        <item>
+          <name>Доступ в интернет (Smart TV)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Изображение</name>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Прием сигнала</name>
+        <item>
+          <name>Поддержка телевизионных стандартов</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T</name>
+          <value>DVB-T MPEG4</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-T2</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DVB-C</name>
+          <value>DVB-C MPEG4</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>с памятью на 1000 стр.</value>
+        </item>
+        <item>
+          <name>Поддерживаемые форматы входного сигнала</name>
+          <value>480i, 480p, 576i, 576p, 720p, 1080i, 1080p</value>
+        </item>
+        <item>
+          <name>Доступные разрешения при подключении к ПК</name>
+          <value>640x480 &lt;br/&gt;1920x1080 &lt;br/&gt;</value>
+        </item>
+      </items>
+      <items>
+        <name>Звук</name>
+        <item>
+          <name>Мощность звука</name>
+          <value>20 Вт (2х10 Вт)</value>
+        </item>
+        <item>
+          <name>Акустическая система</name>
+          <value>два динамика </value>
+        </item>
+        <item>
+          <name>Объемное звучание</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Декодер Dolby Digital</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедиа</name>
+        <item>
+          <name>Поддерживаемые форматы</name>
+          <value>MP3, WMA, MPEG4, Xvid, DivX, MKV, JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>AV, компонентный, SCART, RGB, HDMI x3, USB x2, Ethernet (RJ-45)</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>оптический</value>
+        </item>
+        <item>
+          <name>Поддержка Wi-Fi</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Слот для CI</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Количество независимых TV-тюнеров</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Поддержка 24p True Cinema</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Skype</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер сна</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от детей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Возможность крепления на стену</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>55 Вт</value>
+        </item>
+        <item>
+          <name>Размеры с подставкой (ШxВxГ)</name>
+          <value>928x607x248 мм</value>
+        </item>
+        <item>
+          <name>Вес с подставкой</name>
+          <value>10.9 кг</value>
+        </item>
+        <item>
+          <name>Размеры без подставки (ШxВxГ)</name>
+          <value>928x551x93 мм</value>
+        </item>
+        <item>
+          <name>Вес без подставки</name>
+          <value>8.9 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация </name>
+          <value>Clear Motion Rate 100 Гц</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

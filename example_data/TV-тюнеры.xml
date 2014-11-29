@@ -1,0 +1,2506 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="80064">
+    <title>AVerMedia Technologies AVerTV Hybrid Ultra USB</title>
+    <model>AVerTV Hybrid Ultra USB</model>
+    <marka>AVerMedia Technologies</marka>
+    <catalog id="2401072">TV-тюнеры</catalog>
+    
+    <price1>3400</price1>
+    <price2>7140</price2>
+    <description>
+
+
+
+TV-тюнер, внешний, гибридный, USB, видеозахват, поддержка HD, PAL, NTSC, SECAM, DVB-T  
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>гибридный TV-тюнер</value>
+        </item>
+        <item>
+          <name>Исполнение</name>
+          <value>внешнее</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Видеозахват</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть, поддержка УКВ</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики видео</name>
+        <item>
+          <name>Поддержка HD</name>
+          <value>720p, 1080i</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение на выходе</name>
+          <value>1600х1200</value>
+        </item>
+        <item>
+          <name>Формат видео на выходе</name>
+          <value>4:3</value>
+        </item>
+        <item>
+          <name>Аналоговые стандарты</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Цифровые стандарты</name>
+          <value>DVB-T</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>MPEG1, MPEG2</value>
+        </item>
+      </items>
+      <items>
+        <name>Входы и выходы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио, S-Video, композитный</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>композитный</value>
+        </item>
+        <item>
+          <name>FireWire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и возможности</name>
+        <item>
+          <name>Картинка в картинке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мультиэкран</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер записи</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим отложенного просмотра</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Системные требования</name>
+          <value>Pentium 4 3,0 GHz, 256MB RAM, звуковая карта, порт USB 2.0, VGA карта с поддержкой DirectX 9.0</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Windows 2000/XP/МСЕ</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>AVerTV Hybrid Ultra USB; FM-радио антенна; установочный компакт-диск; руководство по установке; USB-кабель; пульт дистанционного управления (батареи в комплекте)</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>аппаратный MPEG- 2 кодер</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80069">
+    <title>AVerMedia Technologies AVerTV Hybrid AirExpress</title>
+    <model>AVerTV Hybrid AirExpress</model>
+    <marka>AVerMedia Technologies</marka>
+    <catalog id="2401072">TV-тюнеры</catalog>
+    
+    <price1>1960</price1>
+    <price2>4210</price2>
+    <description>
+
+
+
+TV-тюнер, внутренний, гибридный, ExpressCard/34, видеозахват, поддержка HD, PAL, NTSC, SECAM, DVB-T  
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>гибридный TV-тюнер</value>
+        </item>
+        <item>
+          <name>Исполнение</name>
+          <value>внутреннее</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>ExpressCard/34</value>
+        </item>
+        <item>
+          <name>Видеозахват</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики видео</name>
+        <item>
+          <name>Поддержка HD</name>
+          <value>720p, 1080i</value>
+        </item>
+        <item>
+          <name>Формат видео на выходе</name>
+          <value>4:3</value>
+        </item>
+        <item>
+          <name>Аналоговые стандарты</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Цифровые стандарты</name>
+          <value>DVB-T</value>
+        </item>
+        <item>
+          <name>Поддержка стереозвука NICAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>MPEG2</value>
+        </item>
+      </items>
+      <items>
+        <name>Входы и выходы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио, S-Video, композитный</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>композитный</value>
+        </item>
+        <item>
+          <name>FireWire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и возможности</name>
+        <item>
+          <name>Мультиэкран</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер записи</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим отложенного просмотра</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Системные требования</name>
+          <value>CPU 2.4 ГГц, 1 ГБ RAM, DirectX 9.0с, слот ExpressCard (34 мм или 54 мм), звуковая карта</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Windows XP/XP MCE/Vista/Vista MCE</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>Карта Hybrid AirExpress Руководство пользователя  CD с ПО  Переходник для подключения антенны  S-Video / Композитный «2-в-1» кабель  Фиксатор для слота 54 мм  FM-радио антенна Пульт ДУ (батареи в комплекте)</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>26 г</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>запись в реальном времени в формате H.264 с разрешением 320x240; поддержка сигнала в формате HDTV (MPEG-4 AVC/H.264 и MPEG-2)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80090">
+    <title>AVerMedia Technologies AVerTV Volar Lite II</title>
+    <model>AVerTV Volar Lite II</model>
+    <marka>AVerMedia Technologies</marka>
+    <catalog id="2401072">TV-тюнеры</catalog>
+    
+    <price1>2230</price1>
+    <price2>2699</price2>
+    <description>
+
+
+
+TV-тюнер, внешний, аналоговый, USB, видеозахват, PAL, NTSC, SECAM  
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>аналоговый TV-тюнер</value>
+        </item>
+        <item>
+          <name>Исполнение</name>
+          <value>внешнее</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Видеозахват</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики видео</name>
+        <item>
+          <name>Поддержка HD</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Формат видео на выходе</name>
+          <value>4:3</value>
+        </item>
+        <item>
+          <name>Аналоговые стандарты</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>MPEG4</value>
+        </item>
+      </items>
+      <items>
+        <name>Входы и выходы</name>
+        <item>
+          <name>FireWire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и возможности</name>
+        <item>
+          <name>Картинка в картинке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мультиэкран</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер записи</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим отложенного просмотра</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Системные требования</name>
+          <value>CPU 3.0 ГГц, 512 МБ RAM, DirectX 9.0c, звуковая карта</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Windows XP, Windows Vista, Windows 7</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>Тюнер AVerTV Volar Lite II Краткое руководство пользователя СD с драйверами FM-антенна</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80091">
+    <title>AVerMedia Technologies AVerTV Hybrid Volar HD</title>
+    <model>AVerTV Hybrid Volar HD</model>
+    <marka>AVerMedia Technologies</marka>
+    <catalog id="2401072">TV-тюнеры</catalog>
+    
+    <price1>2623</price1>
+    <price2>4590</price2>
+    <description>
+
+
+
+TV-тюнер, внешний, гибридный, USB, видеозахват, поддержка HD, PAL, NTSC, SECAM, DVB-T  
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>гибридный TV-тюнер</value>
+        </item>
+        <item>
+          <name>Исполнение</name>
+          <value>внешнее</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Видеозахват</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики видео</name>
+        <item>
+          <name>Формат видео на выходе</name>
+          <value>4:3</value>
+        </item>
+        <item>
+          <name>Аналоговые стандарты</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Цифровые стандарты</name>
+          <value>DVB-T</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>MPEG1, MPEG2</value>
+        </item>
+      </items>
+      <items>
+        <name>Входы и выходы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио, S-Video, композитный</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>композитный</value>
+        </item>
+        <item>
+          <name>FireWire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и возможности</name>
+        <item>
+          <name>Телетекст</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер записи</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим отложенного просмотра</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Системные требования</name>
+          <value>Intel Pentium 4 2.0 ГГц, 256 Мб ОЗУ, звуковая карта, порт USB 2.0, видеокарта с поддержкой DirectX 9.0c и HD DXVA</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>AVerTV Hybrid Volar HD; Пульт ДУ (батареи в комплекте) ; Инструкция; Компакт-диск с ПО; Мобильная антенная; Кабель S-Video/композитный 2 в 1; FM-радио антенна</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>24 г</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>поддержка сигнала в формате HDTV (H.264 и MPEG-2); запись видео в формате H.264 для воспроизведения на iPod и PSP; поддержка цифровых субтитров; поддержка SnugTV</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80095">
+    <title>AVerMedia Technologies DVD EZMaker 7</title>
+    <model>DVD EZMaker 7</model>
+    <marka>AVerMedia Technologies</marka>
+    <catalog id="2401072">TV-тюнеры</catalog>
+    
+    <price1>2000</price1>
+    <price2>3500</price2>
+    <description>
+
+
+
+устройство видеозахвата, внешнее, USB, PAL, NTSC, SECAM  
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value> устройство видеозахвата</value>
+        </item>
+        <item>
+          <name>Исполнение</name>
+          <value>внешнее</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>USB</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики видео</name>
+        <item>
+          <name>Поддержка HD</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Формат видео на выходе</name>
+          <value>4:3</value>
+        </item>
+        <item>
+          <name>Аналоговые стандарты</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>MPEG2, MPEG4</value>
+        </item>
+      </items>
+      <items>
+        <name>Входы и выходы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио, S-Video, композитный</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>композитный</value>
+        </item>
+        <item>
+          <name>FireWire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и возможности</name>
+        <item>
+          <name>Таймер записи</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Системные требования</name>
+          <value>CPU 2.4 ГГц, 512 МБ RAM, звуковая карта, USB-порт стандарта 2.0</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Windows XP, Windows Vista, Windows 7</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>Устройство видеозахвата AVerMedia DVD EZMaker 7 CD с драйверами CD с ПО Краткое руководство пользователя USB-кабель</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>50 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80096">
+    <title>AVerMedia Technologies AVerTV Super 009</title>
+    <model>AVerTV Super 009</model>
+    <marka>AVerMedia Technologies</marka>
+    <catalog id="2401072">TV-тюнеры</catalog>
+    
+    <price1>1248</price1>
+    <price2>2240</price2>
+    <description>
+
+
+
+TV-тюнер, внутренний, аналоговый, PCI, видеозахват, PAL, NTSC, SECAM  
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>аналоговый TV-тюнер</value>
+        </item>
+        <item>
+          <name>Исполнение</name>
+          <value>внутреннее</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>PCI</value>
+        </item>
+        <item>
+          <name>Видеозахват</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики видео</name>
+        <item>
+          <name>Поддержка HD</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение на выходе</name>
+          <value>720х576</value>
+        </item>
+        <item>
+          <name>Формат видео на выходе</name>
+          <value>4:3</value>
+        </item>
+        <item>
+          <name>Аналоговые стандарты</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>MPEG1, MPEG2, MPEG4</value>
+        </item>
+      </items>
+      <items>
+        <name>Входы и выходы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио, композитный</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>композитный</value>
+        </item>
+        <item>
+          <name>FireWire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и возможности</name>
+        <item>
+          <name>Картинка в картинке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мультиэкран</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер записи</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим отложенного просмотра</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешнего ИК-датчика</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Системные требования</name>
+          <value>Intel Pentium 4 2.0 ГГц; видеокарта с поддержкой DirectX 9.0c; 256 Мб ОЗУ; слот PCI; звуковая карта</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Windows XP / Vista / Win7 (32/64-бит); Windows Media Center</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>AVerTV Super 009; Руководство по установке; Компакт-диск с ПО и драйверами; Пульт ДУ; Кабель с ИК-датчиком; FM-радио антенна</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>55 г</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>ВЧ-блок NXP TDA18271; чипсет NXP SAA7135HL; встроенный программный MPEG кодировщик; поддержка IPTV-сервиса SnugTV</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80106">
+    <title>AVerMedia Technologies AVerTV Volar GO</title>
+    <model>AVerTV Volar GO</model>
+    <marka>AVerMedia Technologies</marka>
+    <catalog id="2401072">TV-тюнеры</catalog>
+    
+    <price1>2149</price1>
+    <price2>2826</price2>
+    <description>
+
+
+
+TV-тюнер, внешний, аналоговый, USB, видеозахват, PAL, NTSC, SECAM  
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>аналоговый TV-тюнер</value>
+        </item>
+        <item>
+          <name>Исполнение</name>
+          <value>внешнее</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Видеозахват</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики видео</name>
+        <item>
+          <name>Поддержка HD</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение на выходе</name>
+          <value>720х576</value>
+        </item>
+        <item>
+          <name>Формат видео на выходе</name>
+          <value>4:3</value>
+        </item>
+        <item>
+          <name>Аналоговые стандарты</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>MPEG1, MPEG2, MPEG4</value>
+        </item>
+      </items>
+      <items>
+        <name>Входы и выходы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио, S-Video, композитный</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>композитный</value>
+        </item>
+        <item>
+          <name>FireWire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и возможности</name>
+        <item>
+          <name>Картинка в картинке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мультиэкран</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер записи</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим отложенного просмотра</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Системные требования</name>
+          <value>Pentium IV 3 Ггц, 512 MB ОЗУ, порт USB 2.0, звуковая карта, видеокарта с поддержкой DirectX 9.0с</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Windows XP / XP MCE / Vista / Vista MCE</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>Тюнер; FM-антенна; Пульт ДУ; Кабель S-Video/композитный 2 в 1; Компакт-диск с ПО и драйверами; Инструкция</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>встроенный программный MPEG кодировщик обеспечивает полную совместимость с оболочкой MCE; запись видео в формате Н.264 для воспроизведения на iPod или PSP</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80108">
+    <title>AVerMedia Technologies AVerTV Hybrid Volar M</title>
+    <model>AVerTV Hybrid Volar M</model>
+    <marka>AVerMedia Technologies</marka>
+    <catalog id="2401072">TV-тюнеры</catalog>
+    
+    <price1>3808</price1>
+    <price2>3931</price2>
+    <description>
+
+
+
+TV-тюнер, внешний, гибридный, USB, видеозахват, поддержка HD, PAL, NTSC, SECAM, DVB-T  
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>гибридный TV-тюнер</value>
+        </item>
+        <item>
+          <name>Исполнение</name>
+          <value>внешнее</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Видеозахват</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики видео</name>
+        <item>
+          <name>Поддержка HD</name>
+          <value>720p, 1080i</value>
+        </item>
+        <item>
+          <name>Формат видео на выходе</name>
+          <value>4:3</value>
+        </item>
+        <item>
+          <name>Аналоговые стандарты</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Цифровые стандарты</name>
+          <value>DVB-T</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>MPEG1, MPEG2</value>
+        </item>
+      </items>
+      <items>
+        <name>Входы и выходы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио, S-Video, композитный</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>композитный</value>
+        </item>
+        <item>
+          <name>FireWire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и возможности</name>
+        <item>
+          <name>Картинка в картинке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мультиэкран</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер записи</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим отложенного просмотра</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Системные требования</name>
+          <value>Intel Pentium 4 1.7 ГГц, 256 Мб ОЗУ, звуковая карта, порт USB 2.0, видеокарта с поддержкой DirectX 9.0c и HD DXVA</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Windows 7/ Vista/ XP; Mac OS X v10.4 или более поздняя (32/64-Бит)</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>AVerTV Hybrid Volar M; Пульт ДУ с батарейками; 2 в 1 S-Video / Композитный кабель; Мобильная антенна; Кабель USB; FM-антенна; Установочный компакт-диск; Руководство по установке</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>24 г</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>поддержка сигнала в формате HDTV (MPEG-2 и MPEG-4 H.264); экспорт файлов в Toast и iPod; загрузка на YouTube</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80113">
+    <title>Beholder Behold TV Voyage</title>
+    <model>Behold TV Voyage</model>
+    <marka>Beholder</marka>
+    <catalog id="2401072">TV-тюнеры</catalog>
+    
+    <price1>2142</price1>
+    <price2>4720</price2>
+    <description>
+
+
+
+TV-тюнер, внешний, аналоговый, USB, видеозахват, PAL, NTSC, SECAM  
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>аналоговый TV-тюнер</value>
+        </item>
+        <item>
+          <name>Исполнение</name>
+          <value>внешнее</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Видеозахват</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть, поддержка УКВ</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики видео</name>
+        <item>
+          <name>Поддержка HD</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение на выходе</name>
+          <value>720х576</value>
+        </item>
+        <item>
+          <name>Формат видео на выходе</name>
+          <value>4:3</value>
+        </item>
+        <item>
+          <name>Аналоговые стандарты</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддержка стереозвука NICAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>MPEG1, MPEG2</value>
+        </item>
+      </items>
+      <items>
+        <name>Входы и выходы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио, S-Video, композитный</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>композитный</value>
+        </item>
+        <item>
+          <name>FireWire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и возможности</name>
+        <item>
+          <name>Картинка в картинке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мультиэкран</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер записи</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим отложенного просмотра</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Системные требования</name>
+          <value>Pentium III 1000МГц, USB2 HiSpeed хост-контроллер, 256МВ RAM, звуковая плата, VGA-видеоадаптер с поддержкой DirectX8.1</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Windows 2000/XP/2003/Vista</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>TV-тюнер; Пульт ДУ с батарейками; USB-кабель; A/V-кабель; FM-антенна; Установочный компакт-диск; Компакт-диск InterVideo WinDVD Creator; Руководство по установке</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxД)</name>
+          <value>26x16х90 мм</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>чипсет Trident TM6010; ВЧ-модуль XCeive XC5000</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80115">
+    <title>AVerMedia Technologies AVerTV Ultra PCI-E RDS</title>
+    <model>AVerTV Ultra PCI-E RDS</model>
+    <marka>AVerMedia Technologies</marka>
+    <catalog id="2401072">TV-тюнеры</catalog>
+    
+    <price1>2808</price1>
+    <price2>3580</price2>
+    <description>
+
+
+
+TV-тюнер, внутренний, гибридный, PCI-Express, видеозахват, поддержка HD, PAL, NTSC, SECAM, DVB-T  
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>гибридный TV-тюнер</value>
+        </item>
+        <item>
+          <name>Исполнение</name>
+          <value>внутреннее</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>PCI-Express</value>
+        </item>
+        <item>
+          <name>Видеозахват</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики видео</name>
+        <item>
+          <name>Поддержка HD</name>
+          <value>720p, 1080i</value>
+        </item>
+        <item>
+          <name>Формат видео на выходе</name>
+          <value>4:3, 16:9</value>
+        </item>
+        <item>
+          <name>Аналоговые стандарты</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Цифровые стандарты</name>
+          <value>DVB-T</value>
+        </item>
+        <item>
+          <name>Поддержка стереозвука NICAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>MPEG1, MPEG2, MPEG4</value>
+        </item>
+      </items>
+      <items>
+        <name>Входы и выходы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио, S-Video, композитный</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>композитный</value>
+        </item>
+        <item>
+          <name>FireWire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и возможности</name>
+        <item>
+          <name>Картинка в картинке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мультиэкран</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер записи</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим отложенного просмотра</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешнего ИК-датчика</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Системные требования</name>
+          <value>Intel Core 2 Duo 2.4 ГГц, ОЗУ 512 МВ, 500 МВ на диске, видеокарта с поддержкой DirectX 9.0c, звуковая карта, слот PCI Express</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Windows XP / XP MCE / Vista / Vista MCE</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>ТВ-тюнер; пульт ДУ с батарейками; ИК-датчик пульта ДУ; низкопрофильная планка; FM-антенна; аудиокабель; кабель-переходник; CD с ПО; руководство</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>73 г</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>аппаратный MPEG-2 кодировщик; поддержка RDS-функции; новая версия ПО: AVerTV 6.3; запись видео в формат H.264, совместимый с iPod и PSP</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80117">
+    <title>Beholder Behold TV H7</title>
+    <model>Behold TV H7</model>
+    <marka>Beholder</marka>
+    <catalog id="2401072">TV-тюнеры</catalog>
+    
+    <price1>1881</price1>
+    <price2>3440</price2>
+    <description>
+
+
+
+TV-тюнер, внутренний, гибридный, PCI, видеозахват, PAL, NTSC, SECAM, DVB-T  
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>гибридный TV-тюнер</value>
+        </item>
+        <item>
+          <name>Исполнение</name>
+          <value>внутреннее</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>PCI</value>
+        </item>
+        <item>
+          <name>Видеозахват</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть, поддержка УКВ</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики видео</name>
+        <item>
+          <name>Поддержка HD</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Формат видео на выходе</name>
+          <value>4:3</value>
+        </item>
+        <item>
+          <name>Аналоговые стандарты</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Цифровые стандарты</name>
+          <value>DVB-T</value>
+        </item>
+        <item>
+          <name>Поддержка стереозвука NICAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>MPEG1, MPEG2</value>
+        </item>
+      </items>
+      <items>
+        <name>Входы и выходы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио, S-Video, композитный</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>композитный</value>
+        </item>
+        <item>
+          <name>FireWire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и возможности</name>
+        <item>
+          <name>Картинка в картинке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мультиэкран</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер записи</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим отложенного просмотра</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешнего ИК-датчика</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Системные требования</name>
+          <value>Pentium III 450МГц или выше; PCI 2.2 - совместимый слот; Звуковая плата; VGA плата с поддержкой DX8.1</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Windows 2000/2003/XP/Vista/Seven</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>TV-тюнер; Пульт ДУ с батарейками; ИК-датчик пульта ДУ; Планка для крепления в низкопрофильном корпусе; Аудиокабель; A/V-кабель; Кабель включения питания; DVB-T/FM-антенна; Установочный компакт-диск; Компакт-диск InterVideo WinDVD Creator; Руководство</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>DUAI (Dual Universal Antenna Input) - два независимых программно управляемых антенных входа; включение/выключение компьютера с пульта ДУ; чипсет	SAA7135HL; ВЧ-блок Xсeive XC5000</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80125">
+    <title>IconBit TV-HUNTER Analog Stick U100 FM</title>
+    <model>TV-HUNTER Analog Stick U100 FM</model>
+    <marka>IconBit</marka>
+    <catalog id="2401072">TV-тюнеры</catalog>
+    
+    <price1>744</price1>
+    <price2>1669</price2>
+    <description>
+
+
+
+TV-тюнер, внешний, аналоговый, USB, видеозахват, PAL, NTSC, SECAM  
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>аналоговый TV-тюнер</value>
+        </item>
+        <item>
+          <name>Исполнение</name>
+          <value>внешнее</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Видеозахват</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики видео</name>
+        <item>
+          <name>Поддержка HD</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение на выходе</name>
+          <value>720х576</value>
+        </item>
+        <item>
+          <name>Формат видео на выходе</name>
+          <value>4:3</value>
+        </item>
+        <item>
+          <name>Аналоговые стандарты</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддержка стереозвука NICAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>MPEG1, MPEG2</value>
+        </item>
+      </items>
+      <items>
+        <name>Входы и выходы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио, S-Video, композитный</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>композитный</value>
+        </item>
+        <item>
+          <name>FireWire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и возможности</name>
+        <item>
+          <name>Телетекст</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер записи</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим отложенного просмотра</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Системные требования</name>
+          <value>Intel Atom, Celeron, AMD Sempron 1.2Ггц; ОЗУ 256Мб; 150Мб места на диске; видео карта с поддержкой DirectX 9; порт USB 2.0</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Windows/2000, XP, MCE 2005, Vista 32/64 bit, 7 32/64 bit</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>ПО в комплекте - ArcSoft TotalMedia 3.5; поддержка аппаратного ускорения декодирования видео</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80130">
+    <title>AVerMedia Technologies AVer3D Volar Mini</title>
+    <model>AVer3D Volar Mini</model>
+    <marka>AVerMedia Technologies</marka>
+    <catalog id="2401072">TV-тюнеры</catalog>
+    
+    <price1>1825</price1>
+    <price2>2650</price2>
+    <description>
+
+
+
+TV-тюнер, внешний, цифровой, USB, поддержка HD, DVB-T  
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>цифровой TV-тюнер</value>
+        </item>
+        <item>
+          <name>Исполнение</name>
+          <value>внешнее</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Видеозахват</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики видео</name>
+        <item>
+          <name>Формат видео на выходе</name>
+          <value>4:3</value>
+        </item>
+        <item>
+          <name>Цифровые стандарты</name>
+          <value>DVB-T</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>MPEG2, MPEG4</value>
+        </item>
+      </items>
+      <items>
+        <name>Входы и выходы</name>
+        <item>
+          <name>FireWire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и возможности</name>
+        <item>
+          <name>Картинка в картинке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мультиэкран</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер записи</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим отложенного просмотра</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Системные требования</name>
+          <value>Intel Pentium 4 1.7 Ггц, VGA-карта с поддержкой  DirectX 9.0c и HD DXVA, 256 Мб ОЗУ, порт USB, звуковая карта</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Windows 7/  Vista/ XP (32/64-Bit)</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>AVer3D Volar Mini; Пульт ДУ с батарейками; Мобильная антенна; Кабель RF; CD  с ПО; Руководство</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>поддержка просмотра 3D-телеканалов; функция see3D для преобразования обычных 2D-каналов к объемному виду; запись видео в форматы для PSP, iPod, iPhone, iPad и Apple TV</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80135">
+    <title>AVerMedia Technologies AVerTV Volar Go M</title>
+    <model>AVerTV Volar Go M</model>
+    <marka>AVerMedia Technologies</marka>
+    <catalog id="2401072">TV-тюнеры</catalog>
+    
+    <price1>1840</price1>
+    <price2>2430</price2>
+    <description>
+
+
+
+TV-тюнер, внешний, аналоговый, USB, видеозахват, PAL, NTSC, SECAM  
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>аналоговый TV-тюнер</value>
+        </item>
+        <item>
+          <name>Исполнение</name>
+          <value>внешнее</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Видеозахват</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики видео</name>
+        <item>
+          <name>Поддержка HD</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение на выходе</name>
+          <value>720х576</value>
+        </item>
+        <item>
+          <name>Формат видео на выходе</name>
+          <value>4:3</value>
+        </item>
+        <item>
+          <name>Аналоговые стандарты</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддержка стереозвука NICAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>MPEG1, MPEG2, MPEG4</value>
+        </item>
+      </items>
+      <items>
+        <name>Входы и выходы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио, S-Video, композитный</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>композитный</value>
+        </item>
+        <item>
+          <name>FireWire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и возможности</name>
+        <item>
+          <name>Картинка в картинке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мультиэкран</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер записи</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим отложенного просмотра</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Системные требования</name>
+          <value>Intel Pentium 4 2.0 Ггц или компьютер Macintosh с  процессором Intel Core; 512 Мб ОЗУ; 300 Мб на диске; порт USB 2.0; звуковая карта; видеокарта с поддержкой DirectX 9.0c; привод CD или DVD</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Windows 7 / Vista/ XP (32/64-Bit); Mac OS X v10.4 или более поздняя (32/64-Bit)</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>AVerTV Volar Go M; Кабель S-Video / Композитный 2 в 1; Кабель USB; FM-антенна; CD  с ПО; Руководство</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>24 г</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>совместим с пультом ДУ Apple Remote</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80141">
+    <title>AVerMedia Technologies AVerTV Studio 707</title>
+    <model>AVerTV Studio 707</model>
+    <marka>AVerMedia Technologies</marka>
+    <catalog id="2401072">TV-тюнеры</catalog>
+    
+    <price1>1430</price1>
+    <price2>4060</price2>
+    <description>
+
+
+
+TV-тюнер, внутренний, аналоговый, PCI, видеозахват, PAL, NTSC, SECAM  
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>аналоговый TV-тюнер</value>
+        </item>
+        <item>
+          <name>Исполнение</name>
+          <value>внутреннее</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>PCI</value>
+        </item>
+        <item>
+          <name>Видеозахват</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть, поддержка УКВ</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики видео</name>
+        <item>
+          <name>Поддержка HD</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение на выходе</name>
+          <value>720х576</value>
+        </item>
+        <item>
+          <name>Формат видео на выходе</name>
+          <value>4:3, 16:9</value>
+        </item>
+        <item>
+          <name>Аналоговые стандарты</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Поддержка стереозвука NICAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>MPEG1, MPEG2, MPEG4</value>
+        </item>
+      </items>
+      <items>
+        <name>Входы и выходы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио, S-Video, композитный</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>аудио, композитный</value>
+        </item>
+        <item>
+          <name>FireWire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и возможности</name>
+        <item>
+          <name>Мультиэкран</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер записи</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим отложенного просмотра</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешнего ИК-датчика</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Системные требования</name>
+          <value>Intel Pentium 4 2.4 ГГц, 256 Мб ОЗУ, свободный PCI слот, звуковая карта</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Microsoft Windows XP / XP MCE / Vista</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>AVerTV Studio 707; стерео аудиокабель; FM-радио антенна; кабель ИК-датчика ; пульт ДУ (батареи в комплекте); инструкция по установке; CD-диск с ПО и драйверами</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>106 г</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>запись видео в реальном времени в формате MPEG-4 H.264</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80146">
+    <title>AVerMedia Technologies AVerTV Hybrid+FM PCI</title>
+    <model>AVerTV Hybrid+FM PCI</model>
+    <marka>AVerMedia Technologies</marka>
+    <catalog id="2401072">TV-тюнеры</catalog>
+    
+    <price1>1306</price1>
+    <price2>2240</price2>
+    <description>
+
+
+
+TV-тюнер, внутренний, гибридный, PCI, видеозахват, поддержка HD, PAL, NTSC, SECAM, DVB-T  
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>гибридный TV-тюнер</value>
+        </item>
+        <item>
+          <name>Исполнение</name>
+          <value>внутреннее</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>PCI</value>
+        </item>
+        <item>
+          <name>Видеозахват</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть, поддержка УКВ</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики видео</name>
+        <item>
+          <name>Поддержка HD</name>
+          <value>720p, 1080i</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение на выходе</name>
+          <value>1280х768</value>
+        </item>
+        <item>
+          <name>Формат видео на выходе</name>
+          <value>4:3, 16:9</value>
+        </item>
+        <item>
+          <name>Аналоговые стандарты</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Цифровые стандарты</name>
+          <value>DVB-T</value>
+        </item>
+        <item>
+          <name>Поддержка стереозвука NICAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>MPEG1, MPEG2</value>
+        </item>
+      </items>
+      <items>
+        <name>Входы и выходы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио, S-Video</value>
+        </item>
+        <item>
+          <name>FireWire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и возможности</name>
+        <item>
+          <name>Картинка в картинке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мультиэкран</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер записи</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим отложенного просмотра</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешнего ИК-датчика</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Системные требования</name>
+          <value>Pentium 4 2,4 ГГц, 256 Мб ОЗУ, слот PCI 2.1, звуковая карта, видеокарта с поддержкой DirectX 9.0</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Windows 2000/XP</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>AVerTV Hybrid+FM PCI; пульт ДУ (батареи в комплекте) ; аудио кабель; FM-радио антенна; кабель с ИК-датчиком; инструкция по установке; CD-диск с ПО и драйверами</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80158">
+    <title>Beholder Behold TV Wander</title>
+    <model>Behold TV Wander</model>
+    <marka>Beholder</marka>
+    <catalog id="2401072">TV-тюнеры</catalog>
+    
+    <price1>3051</price1>
+    <price2>4290</price2>
+    <description>
+
+
+
+TV-тюнер, внешний, гибридный, USB, видеозахват, PAL, NTSC, SECAM, DVB-T  
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>гибридный TV-тюнер</value>
+        </item>
+        <item>
+          <name>Исполнение</name>
+          <value>внешнее</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Видеозахват</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть, поддержка УКВ</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики видео</name>
+        <item>
+          <name>Поддержка HD</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение на выходе</name>
+          <value>720х576</value>
+        </item>
+        <item>
+          <name>Формат видео на выходе</name>
+          <value>4:3</value>
+        </item>
+        <item>
+          <name>Аналоговые стандарты</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Цифровые стандарты</name>
+          <value>DVB-T</value>
+        </item>
+        <item>
+          <name>Поддержка стереозвука NICAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>MPEG1, MPEG2</value>
+        </item>
+      </items>
+      <items>
+        <name>Входы и выходы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио, S-Video, композитный</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>композитный</value>
+        </item>
+        <item>
+          <name>FireWire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и возможности</name>
+        <item>
+          <name>Картинка в картинке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мультиэкран</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер записи</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим отложенного просмотра</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Системные требования</name>
+          <value>Pentium III 1000МГц, USB2 HiSpeed хост-контроллер, 256МВ RAM, звуковая плата, VGA-видеоадаптер с поддержкой DirectX8.1</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Windows 2000/XP/2003/Vista</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>TV-тюнер; Пульт ДУ с батарейками; USB-кабель; A/V-кабель; DVB-T/FM-антенна; Установочный компакт-диск; Компакт-диск InterVideo WinDVD Creator; Руководство по установке</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxД)</name>
+          <value>26x16х90 мм</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>чипсет Trident TM6010; ВЧ-модуль XCeive XC5000; DVB-T демодулятор Intel CE6353</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80160">
+    <title>AVerMedia Technologies AVerTV CaptureHD</title>
+    <model>AVerTV CaptureHD</model>
+    <marka>AVerMedia Technologies</marka>
+    <catalog id="2401072">TV-тюнеры</catalog>
+    
+    <price1>3336</price1>
+    <price2>4250</price2>
+    <description>
+
+
+
+TV-тюнер, внутренний, гибридный, PCI-Express, видеозахват, поддержка HD, PAL, NTSC, SECAM, DVB-T  
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>гибридный TV-тюнер</value>
+        </item>
+        <item>
+          <name>Исполнение</name>
+          <value>внутреннее</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>PCI-Express</value>
+        </item>
+        <item>
+          <name>Видеозахват</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики видео</name>
+        <item>
+          <name>Поддержка HD</name>
+          <value>720p, 1080i</value>
+        </item>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Формат видео на выходе</name>
+          <value>16:9</value>
+        </item>
+        <item>
+          <name>Аналоговые стандарты</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Цифровые стандарты</name>
+          <value>DVB-T</value>
+        </item>
+        <item>
+          <name>Поддержка стереозвука NICAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>MPEG1, MPEG2, MPEG4</value>
+        </item>
+      </items>
+      <items>
+        <name>Входы и выходы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио, S-Video, компонентный, композитный,  HDMI</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>композитный</value>
+        </item>
+        <item>
+          <name>FireWire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и возможности</name>
+        <item>
+          <name>Картинка в картинке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер записи</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим отложенного просмотра</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешнего ИК-датчика</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Системные требования</name>
+          <value>Pentium III 3 Ггц, 1 Гб ОЗУ, слот PCI-Express, звуковая карта, видеокарта с поддержкой DirectX 9.0с</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Windows XP/ XP MCE/Vista/Vista MCE</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>Тюнер; FM-антенна; Пульт ДУ с батарейками; Кабель S-Video/композитный/компонентный+аудио 10 в 1; ИК-сенсор; CD с ПО; Инструкция</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>поддержка SnugTV; запись в реальном времени в формате H.264 с разрешением 320x240; захват HD-контента в формате MPEG-2 с PS3, Xbox 360 и цифровых видеокамер; картинка-в-картинке: одновременно игра на консоли PS3 или Xbox 360, подключенной к тюнеру, и просмотр TV</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80164">
+    <title>Beholder Behold TV SOLO II</title>
+    <model>Behold TV SOLO II</model>
+    <marka>Beholder</marka>
+    <catalog id="2401072">TV-тюнеры</catalog>
+    
+    <price1>3569</price1>
+    <price2>4850</price2>
+    <description>
+
+
+
+TV-тюнер, внешний, аналоговый, автономный, поддержка HD, PAL, SECAM  
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>аналоговый TV-тюнер</value>
+        </item>
+        <item>
+          <name>Исполнение</name>
+          <value>внешнее</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>автономный</value>
+        </item>
+        <item>
+          <name>Видеозахват</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть, поддержка УКВ</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики видео</name>
+        <item>
+          <name>Поддержка HD</name>
+          <value>720p, 1080i, 1080p</value>
+        </item>
+        <item>
+          <name>Прогрессивная развертка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение на выходе</name>
+          <value>1920х1200</value>
+        </item>
+        <item>
+          <name>Формат видео на выходе</name>
+          <value>4:3, 5:4, 16:9, 16:10</value>
+        </item>
+        <item>
+          <name>Макс. частота при 1024x768</name>
+          <value>75 Гц</value>
+        </item>
+        <item>
+          <name>Макс. частота при 1280х1024</name>
+          <value>75 Гц</value>
+        </item>
+        <item>
+          <name>Аналоговые стандарты</name>
+          <value>PAL, SECAM</value>
+        </item>
+        <item>
+          <name>Поддержка стереозвука NICAM</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Входы и выходы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио, S-Video, композитный, VGA</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>аудио, S-Video, композитный, VGA</value>
+        </item>
+        <item>
+          <name>FireWire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и возможности</name>
+        <item>
+          <name>Мультиэкран</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Системные требования</name>
+          <value>монитор с D-Sub VGA входом</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>TV-тюнер; адаптер питания; пульт ДУ с батарейками; кабель VGA; аудиокабель; кабель RCA; кабель USB; радиоантенна; руководство по установке</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>функция POD - Picture on Display; USB-порт для перепрошивки</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80168">
+    <title>Beholder Behold TV X7</title>
+    <model>Behold TV X7</model>
+    <marka>Beholder</marka>
+    <catalog id="2401072">TV-тюнеры</catalog>
+    
+    <price1>3259</price1>
+    <price2>4490</price2>
+    <description>
+
+
+
+TV-тюнер, внутренний, гибридный, PCI, видеозахват, PAL, NTSC, SECAM, DVB-T  
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>гибридный TV-тюнер</value>
+        </item>
+        <item>
+          <name>Исполнение</name>
+          <value>внутреннее</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>PCI</value>
+        </item>
+        <item>
+          <name>Видеозахват</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>FM-тюнер</name>
+          <value>есть, поддержка УКВ</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики видео</name>
+        <item>
+          <name>Поддержка HD</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение на выходе</name>
+          <value>720х576</value>
+        </item>
+        <item>
+          <name>Формат видео на выходе</name>
+          <value>4:3</value>
+        </item>
+        <item>
+          <name>Аналоговые стандарты</name>
+          <value>PAL, SECAM, NTSC</value>
+        </item>
+        <item>
+          <name>Цифровые стандарты</name>
+          <value>DVB-T</value>
+        </item>
+        <item>
+          <name>Поддержка стереозвука NICAM</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Запись видео</name>
+          <value>MPEG1, MPEG2</value>
+        </item>
+      </items>
+      <items>
+        <name>Входы и выходы</name>
+        <item>
+          <name>Входы</name>
+          <value>аудио, S-Video, композитный</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>композитный</value>
+        </item>
+        <item>
+          <name>FireWire</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции и возможности</name>
+        <item>
+          <name>Картинка в картинке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мультиэкран</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Телетекст</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Таймер записи</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим отложенного просмотра</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение внешнего ИК-датчика</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Системные требования</name>
+          <value>Pentium III 450МГц, PCI 2.2 - совместимый слот, звуковая плата, VGA плата с поддержкой DX8.1</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>Windows 2000/2003/XP/Vista</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>TV-тюнер; пульт ДУ с батарейками; ИК-датчик пульта ДУ; аудиокабель; A/V-кабель; кабель включения питания; DVB-T/FM-антенна; CD с ПО; руководство</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>чипсет Philips SAA7135; ВЧ-модуль XCeive XC5000; аппаратная запись в формате MPEG2; два независимых, универсальных, программно управляемых антенных входа</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

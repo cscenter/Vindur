@@ -1,0 +1,4034 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="70302">
+    <title>Xerox WorkCentre 5016</title>
+    <model>WorkCentre 5016</model>
+    <marka>Xerox</marka>
+    <catalog id="1016608">Принтеры и МФУ</catalog>
+    
+    <price1>25915</price1>
+    <price2>27595</price2>
+    <description>
+принтер/сканер/копир, A3, печать  лазерная черно-белая, 16 стр/мин ч/б, 600x600 dpi, подача: 300 лист., вывод: 250 лист., память: 64 Мб, USB
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Устройство</name>
+          <value>принтер/сканер/копир</value>
+        </item>
+        <item>
+          <name>Тип печати</name>
+          <value>черно-белая</value>
+        </item>
+        <item>
+          <name>Технология печати</name>
+          <value>лазерная</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>настольный</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>малый офис</value>
+        </item>
+        <item>
+          <name>Количество страниц в месяц</name>
+          <value>15000</value>
+        </item>
+      </items>
+      <items>
+        <name>Принтер</name>
+        <item>
+          <name>Максимальный формат</name>
+          <value>A3</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение для ч/б печати</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Скорость печати</name>
+          <value>16 стр/мин (ч/б А4), 9 стр/мин (ч/б А3)</value>
+        </item>
+        <item>
+          <name>Время разогрева</name>
+          <value>27 с</value>
+        </item>
+        <item>
+          <name>Время выхода первого отпечатка</name>
+          <value>7.50 c (ч/б)</value>
+        </item>
+      </items>
+      <items>
+        <name>Сканер</name>
+        <item>
+          <name>Тип сканера</name>
+          <value>планшетный</value>
+        </item>
+        <item>
+          <name>Максимальный формат оригинала</name>
+          <value>A3</value>
+        </item>
+        <item>
+          <name>Максимальный размер сканирования</name>
+          <value>297x432 мм</value>
+        </item>
+        <item>
+          <name>Разрешение сканера</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>TWAIN</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Максимальное разрешение копира (ч/б)</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Скорость копирования</name>
+          <value>16 стр/мин (ч/б А4), 9 стр/мин (ч/б А3)</value>
+        </item>
+        <item>
+          <name>Время выхода первой копии</name>
+          <value>7.5 с</value>
+        </item>
+        <item>
+          <name>Изменение масштаба</name>
+          <value>50-200 %</value>
+        </item>
+        <item>
+          <name>Шаг масштабирования</name>
+          <value>1 %</value>
+        </item>
+        <item>
+          <name>Максимальное количество копий за цикл</name>
+          <value>99</value>
+        </item>
+      </items>
+      <items>
+        <name>Лотки</name>
+        <item>
+          <name>Подача бумаги</name>
+          <value>300 лист. (стандартная), 800 лист. (максимальная)</value>
+        </item>
+        <item>
+          <name>Вывод бумаги</name>
+          <value>250 лист. (стандартный)</value>
+        </item>
+      </items>
+      <items>
+        <name>Расходные материалы</name>
+        <item>
+          <name>Плотность бумаги</name>
+          <value>60-110 г/м2</value>
+        </item>
+        <item>
+          <name>Печать на:</name>
+          <value>карточках, пленках, этикетках, глянцевой бумаге, конвертах, матовой бумаге</value>
+        </item>
+        <item>
+          <name>Ресурс ч/б картриджа/тонера</name>
+          <value>6300 страниц</value>
+        </item>
+        <item>
+          <name>Количество картриджей</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Тип картриджа/тонера</name>
+          <value>106R01277</value>
+        </item>
+      </items>
+      <items>
+        <name>Память/Процессор</name>
+        <item>
+          <name>Объем памяти</name>
+          <value>64 Мб </value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>400 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Шрифты и языки управления</name>
+        <item>
+          <name>Поддержка PostScript</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows, Linux</value>
+        </item>
+        <item>
+          <name>Минимальные системные требования</name>
+          <value>Intel Pentium II</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (при работе)</name>
+          <value>525 Вт</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (в режиме ожидания)</name>
+          <value>5 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума при работе</name>
+          <value>58 дБ</value>
+        </item>
+        <item>
+          <name>Уровень шума в режиме ожидания</name>
+          <value>28 дБ</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>595x528x532 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>33 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70303">
+    <title>Xerox WorkCentre 5020/B</title>
+    <model>WorkCentre 5020/B</model>
+    <marka>Xerox</marka>
+    <catalog id="1016608">Принтеры и МФУ</catalog>
+    
+    <price1>31900</price1>
+    <price2>54600</price2>
+    <description>
+принтер/сканер/копир, A3, печать  лазерная черно-белая, 20 стр/мин ч/б, 600x600 dpi, подача: 300 лист., вывод: 250 лист., память: 64 Мб, USB
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Устройство</name>
+          <value>принтер/сканер/копир</value>
+        </item>
+        <item>
+          <name>Тип печати</name>
+          <value>черно-белая</value>
+        </item>
+        <item>
+          <name>Технология печати</name>
+          <value>лазерная</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>настольный</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>малый офис</value>
+        </item>
+        <item>
+          <name>Количество страниц в месяц</name>
+          <value>20000</value>
+        </item>
+      </items>
+      <items>
+        <name>Принтер</name>
+        <item>
+          <name>Максимальный формат</name>
+          <value>A3</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение для ч/б печати</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Скорость печати</name>
+          <value>20 стр/мин (ч/б А4), 10 стр/мин (ч/б А3)</value>
+        </item>
+        <item>
+          <name>Время разогрева</name>
+          <value>27 с</value>
+        </item>
+        <item>
+          <name>Время выхода первого отпечатка</name>
+          <value>12 c (ч/б)</value>
+        </item>
+      </items>
+      <items>
+        <name>Сканер</name>
+        <item>
+          <name>Тип сканера</name>
+          <value>планшетный</value>
+        </item>
+        <item>
+          <name>Максимальный формат оригинала</name>
+          <value>A3</value>
+        </item>
+        <item>
+          <name>Максимальный размер сканирования</name>
+          <value>297x432 мм</value>
+        </item>
+        <item>
+          <name>Разрешение сканера</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>TWAIN, WIA</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Максимальное разрешение копира (ч/б)</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Скорость копирования</name>
+          <value>20 стр/мин (ч/б А4), 10 стр/мин (ч/б А3)</value>
+        </item>
+        <item>
+          <name>Время выхода первой копии</name>
+          <value>7.5 с</value>
+        </item>
+        <item>
+          <name>Изменение масштаба</name>
+          <value>50-200 %</value>
+        </item>
+        <item>
+          <name>Шаг масштабирования</name>
+          <value>1 %</value>
+        </item>
+        <item>
+          <name>Максимальное количество копий за цикл</name>
+          <value>99</value>
+        </item>
+      </items>
+      <items>
+        <name>Лотки</name>
+        <item>
+          <name>Подача бумаги</name>
+          <value>300 лист. (стандартная), 800 лист. (максимальная)</value>
+        </item>
+        <item>
+          <name>Вывод бумаги</name>
+          <value>250 лист. (стандартный)</value>
+        </item>
+        <item>
+          <name>Емкость лотка ручной подачи</name>
+          <value>50 лист.</value>
+        </item>
+      </items>
+      <items>
+        <name>Расходные материалы</name>
+        <item>
+          <name>Плотность бумаги</name>
+          <value>60-110 г/м2</value>
+        </item>
+        <item>
+          <name>Печать на:</name>
+          <value>карточках, пленках, этикетках, глянцевой бумаге, конвертах, матовой бумаге</value>
+        </item>
+        <item>
+          <name>Ресурс фотобарабана</name>
+          <value>22000 страниц</value>
+        </item>
+        <item>
+          <name>Ресурс ч/б картриджа/тонера</name>
+          <value>6300 страниц</value>
+        </item>
+        <item>
+          <name>Тип картриджа/тонера</name>
+          <value>R01277</value>
+        </item>
+      </items>
+      <items>
+        <name>Память/Процессор</name>
+        <item>
+          <name>Объем памяти</name>
+          <value>64 Мб </value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>400 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Шрифты и языки управления</name>
+        <item>
+          <name>Поддержка PostScript</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows, Linux</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (при работе)</name>
+          <value>525 Вт</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (в режиме ожидания)</name>
+          <value>5 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума при работе</name>
+          <value>58 дБ</value>
+        </item>
+        <item>
+          <name>Уровень шума в режиме ожидания</name>
+          <value>28 дБ</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>595x528x532 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>33 кг</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>Язык описания страниц - GDI.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70304">
+    <title>Canon i-SENSYS MF4410</title>
+    <model>i-SENSYS MF4410</model>
+    <marka>Canon</marka>
+    <catalog id="1016608">Принтеры и МФУ</catalog>
+    
+    <price1>5930</price1>
+    <price2>8500</price2>
+    <description>
+принтер/сканер/копир, A4, печать  лазерная черно-белая, 23 стр/мин ч/б, 600x600 dpi, подача: 251 лист., вывод: 100 лист., память: 64 Мб, USB, ЖК-панель
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Устройство</name>
+          <value>принтер/сканер/копир</value>
+        </item>
+        <item>
+          <name>Тип печати</name>
+          <value>черно-белая</value>
+        </item>
+        <item>
+          <name>Технология печати</name>
+          <value>лазерная</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>настольный</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>персональный</value>
+        </item>
+        <item>
+          <name>Количество страниц в месяц</name>
+          <value>8000</value>
+        </item>
+      </items>
+      <items>
+        <name>Принтер</name>
+        <item>
+          <name>Максимальный формат</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение для ч/б печати</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Скорость печати</name>
+          <value>23 стр/мин (ч/б А4)</value>
+        </item>
+        <item>
+          <name>Время разогрева</name>
+          <value>10 с</value>
+        </item>
+        <item>
+          <name>Время выхода первого отпечатка</name>
+          <value>6 c (ч/б)</value>
+        </item>
+      </items>
+      <items>
+        <name>Сканер</name>
+        <item>
+          <name>Тип сканера</name>
+          <value>планшетный</value>
+        </item>
+        <item>
+          <name>Тип датчика</name>
+          <value>контактный (CIS)</value>
+        </item>
+        <item>
+          <name>Максимальный формат оригинала</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер сканирования</name>
+          <value>216 мм</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>24 бит</value>
+        </item>
+        <item>
+          <name>Оттенки серого</name>
+          <value>256</value>
+        </item>
+        <item>
+          <name>Разрешение сканера</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Разрешение сканера (улучшенное)</name>
+          <value>9600x9600 dpi</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>TWAIN, WIA</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Максимальное разрешение копира (ч/б)</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Скорость копирования</name>
+          <value>23 стр/мин (ч/б А4)</value>
+        </item>
+        <item>
+          <name>Время выхода первой копии</name>
+          <value>9 с</value>
+        </item>
+        <item>
+          <name>Изменение масштаба</name>
+          <value>25-400 %</value>
+        </item>
+        <item>
+          <name>Максимальное количество копий за цикл</name>
+          <value>99</value>
+        </item>
+      </items>
+      <items>
+        <name>Лотки</name>
+        <item>
+          <name>Подача бумаги</name>
+          <value>251 лист. (стандартная)</value>
+        </item>
+        <item>
+          <name>Вывод бумаги</name>
+          <value>100 лист. (стандартный)</value>
+        </item>
+        <item>
+          <name>Емкость лотка ручной подачи</name>
+          <value>1 лист.</value>
+        </item>
+      </items>
+      <items>
+        <name>Расходные материалы</name>
+        <item>
+          <name>Плотность бумаги</name>
+          <value>60-163 г/м2</value>
+        </item>
+        <item>
+          <name>Печать на:</name>
+          <value>карточках, пленках, этикетках, глянцевой бумаге, конвертах, матовой бумаге</value>
+        </item>
+        <item>
+          <name>Ресурс ч/б картриджа/тонера</name>
+          <value>2100 страниц</value>
+        </item>
+        <item>
+          <name>Количество картриджей</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Тип картриджа/тонера</name>
+          <value>Картридж 728</value>
+        </item>
+      </items>
+      <items>
+        <name>Память/Процессор</name>
+        <item>
+          <name>Объем памяти</name>
+          <value>64 Мб </value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Шрифты и языки управления</name>
+        <item>
+          <name>Поддержка PostScript</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows, Linux, Mac OS</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>ЖК-панель</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (при работе)</name>
+          <value>500 Вт</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (в режиме ожидания)</name>
+          <value>3 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума при работе</name>
+          <value>43 дБ</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>390x301x414 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>10.3 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70307">
+    <title>Samsung SCX-3400</title>
+    <model>SCX-3400</model>
+    <marka>Samsung</marka>
+    <catalog id="1016608">Принтеры и МФУ</catalog>
+    
+    <price1>3850</price1>
+    <price2>7550</price2>
+    <description>
+принтер/сканер/копир, A4, печать  лазерная черно-белая, 20 стр/мин ч/б, 1200x1200 dpi, подача: 150 лист., вывод: 100 лист., память: 64 Мб, USB, ЖК-панель
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Устройство</name>
+          <value>принтер/сканер/копир</value>
+        </item>
+        <item>
+          <name>Тип печати</name>
+          <value>черно-белая</value>
+        </item>
+        <item>
+          <name>Технология печати</name>
+          <value>лазерная</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>настольный</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>малый офис</value>
+        </item>
+        <item>
+          <name>Количество страниц в месяц</name>
+          <value>10000</value>
+        </item>
+      </items>
+      <items>
+        <name>Принтер</name>
+        <item>
+          <name>Максимальный формат</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение для ч/б печати</name>
+          <value>1200x1200 dpi</value>
+        </item>
+        <item>
+          <name>Скорость печати</name>
+          <value>20 стр/мин (ч/б А4)</value>
+        </item>
+        <item>
+          <name>Время выхода первого отпечатка</name>
+          <value>8.50 c (ч/б)</value>
+        </item>
+      </items>
+      <items>
+        <name>Сканер</name>
+        <item>
+          <name>Тип сканера</name>
+          <value>планшетный</value>
+        </item>
+        <item>
+          <name>Тип датчика</name>
+          <value>контактный (CIS)</value>
+        </item>
+        <item>
+          <name>Максимальный формат оригинала</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Разрешение сканера</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Разрешение сканера (улучшенное)</name>
+          <value>4800x4800 dpi</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>TWAIN, WIA</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Скорость копирования</name>
+          <value>20 стр/мин (ч/б А4)</value>
+        </item>
+        <item>
+          <name>Время выхода первой копии</name>
+          <value>14 с</value>
+        </item>
+        <item>
+          <name>Изменение масштаба</name>
+          <value>25-400 %</value>
+        </item>
+        <item>
+          <name>Максимальное количество копий за цикл</name>
+          <value>99</value>
+        </item>
+      </items>
+      <items>
+        <name>Лотки</name>
+        <item>
+          <name>Подача бумаги</name>
+          <value>150 лист. (стандартная), 150 лист. (максимальная)</value>
+        </item>
+        <item>
+          <name>Вывод бумаги</name>
+          <value>100 лист. (стандартный), 100 лист. (максимальный)</value>
+        </item>
+      </items>
+      <items>
+        <name>Расходные материалы</name>
+        <item>
+          <name>Печать на:</name>
+          <value>карточках, этикетках, конвертах, матовой бумаге</value>
+        </item>
+        <item>
+          <name>Ресурс ч/б картриджа/тонера</name>
+          <value>1500 страниц</value>
+        </item>
+        <item>
+          <name>Количество картриджей</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Тип картриджа/тонера</name>
+          <value>MLT-D101S</value>
+        </item>
+      </items>
+      <items>
+        <name>Память/Процессор</name>
+        <item>
+          <name>Объем памяти</name>
+          <value>64 Мб </value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>433 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Шрифты и языки управления</name>
+        <item>
+          <name>Поддержка PostScript</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows, Linux, Mac OS</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>ЖК-панель</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (при работе)</name>
+          <value>310 Вт</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (в режиме ожидания)</name>
+          <value>30 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума при работе</name>
+          <value>50 дБ</value>
+        </item>
+        <item>
+          <name>Уровень шума в режиме ожидания</name>
+          <value>26 дБ</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>389x249x274 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6.7 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70309">
+    <title>Xerox WorkCentre 3210N</title>
+    <model>WorkCentre 3210N</model>
+    <marka>Xerox</marka>
+    <catalog id="1016608">Принтеры и МФУ</catalog>
+    
+    <price1>10300</price1>
+    <price2>14000</price2>
+    <description>
+принтер/сканер/копир/факс, A4, печать  лазерная черно-белая, 24 стр/мин ч/б, 600x600 dpi, подача: 251 лист., вывод: 150 лист., память: 128 Мб, Ethernet RJ-45, USB, ЖК-панель, устройство автоподачи оригиналов
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Устройство</name>
+          <value>принтер/сканер/копир/факс</value>
+        </item>
+        <item>
+          <name>Тип печати</name>
+          <value>черно-белая</value>
+        </item>
+        <item>
+          <name>Технология печати</name>
+          <value>лазерная</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>настольный</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>средний офис</value>
+        </item>
+        <item>
+          <name>Количество страниц в месяц</name>
+          <value>50000</value>
+        </item>
+      </items>
+      <items>
+        <name>Принтер</name>
+        <item>
+          <name>Максимальный формат</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение для ч/б печати</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Скорость печати</name>
+          <value>24 стр/мин (ч/б А4)</value>
+        </item>
+        <item>
+          <name>Время разогрева</name>
+          <value>54 с</value>
+        </item>
+        <item>
+          <name>Время выхода первого отпечатка</name>
+          <value>9.50 c (ч/б)</value>
+        </item>
+      </items>
+      <items>
+        <name>Сканер</name>
+        <item>
+          <name>Тип сканера</name>
+          <value>планшетный/протяжный</value>
+        </item>
+        <item>
+          <name>Максимальный формат оригинала</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер сканирования</name>
+          <value>216x356 мм</value>
+        </item>
+        <item>
+          <name>Разрешение сканера</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Разрешение сканера (улучшенное)</name>
+          <value>4800x4800 dpi</value>
+        </item>
+        <item>
+          <name>Устройство автоподачи оригиналов</name>
+          <value>одностороннее</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи оригиналов</name>
+          <value>50 листов</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>TWAIN, WIA</value>
+        </item>
+        <item>
+          <name>Отправка изображения по e-mail</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Максимальное разрешение копира (ч/б)</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Скорость копирования</name>
+          <value>24 стр/мин (ч/б А4)</value>
+        </item>
+        <item>
+          <name>Время выхода первой копии</name>
+          <value>11 с</value>
+        </item>
+        <item>
+          <name>Изменение масштаба</name>
+          <value>25-400 %</value>
+        </item>
+      </items>
+      <items>
+        <name>Лотки</name>
+        <item>
+          <name>Подача бумаги</name>
+          <value>251 лист. (стандартная), 501 лист. (максимальная)</value>
+        </item>
+        <item>
+          <name>Вывод бумаги</name>
+          <value>150 лист. (стандартный)</value>
+        </item>
+        <item>
+          <name>Емкость лотка ручной подачи</name>
+          <value>1 лист.</value>
+        </item>
+      </items>
+      <items>
+        <name>Расходные материалы</name>
+        <item>
+          <name>Плотность бумаги</name>
+          <value>60-163 г/м2</value>
+        </item>
+        <item>
+          <name>Печать на:</name>
+          <value>карточках, пленках, этикетках, глянцевой бумаге, конвертах, матовой бумаге</value>
+        </item>
+        <item>
+          <name>Ресурс ч/б картриджа/тонера</name>
+          <value>2000 страниц</value>
+        </item>
+        <item>
+          <name>Количество картриджей</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Тип картриджа/тонера</name>
+          <value>106R01485, 106R01486 (расш.)</value>
+        </item>
+      </items>
+      <items>
+        <name>Память/Процессор</name>
+        <item>
+          <name>Объем памяти</name>
+          <value>128 Мб, максимальный 384 Мб </value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>360 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Факс</name>
+        <item>
+          <name>Память факса</name>
+          <value>225 страниц</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение факса</name>
+          <value>300x300 dpi</value>
+        </item>
+        <item>
+          <name>Максимальная скорость передачи</name>
+          <value>33.6 кбит/c</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Ethernet (RJ-45), USB 2.0</value>
+        </item>
+        <item>
+          <name>Прямая печать</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Веб-интерфейс</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Шрифты и языки управления</name>
+        <item>
+          <name>Поддержка PostScript</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка</name>
+          <value>PCL 5e, PCL 6</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows, Linux, Mac OS</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>ЖК-панель</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (при работе)</name>
+          <value>450 Вт</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (в режиме ожидания)</name>
+          <value>12 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума при работе</name>
+          <value>50 дБ</value>
+        </item>
+        <item>
+          <name>Уровень шума в режиме ожидания</name>
+          <value>26 дБ</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>445x410x395 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>13.8 кг</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>оптимизированное разрешение до 1200х1200</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70318">
+    <title>HP LaserJet Enterprise 600 M601dn</title>
+    <model>LaserJet Enterprise 600 M601dn</model>
+    <marka>HP</marka>
+    <catalog id="1016608">Принтеры и МФУ</catalog>
+    
+    <price1>30550</price1>
+    <price2>42000</price2>
+    <description>
+принтер, A4, печать  лазерная черно-белая, двусторонняя, 43 стр/мин ч/б, 1200x1200 dpi, подача: 600 лист., вывод: 600 лист., Post Script, память: 512 Мб, Ethernet RJ-45, USB, цветной ЖК-дисплей
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Устройство</name>
+          <value>принтер</value>
+        </item>
+        <item>
+          <name>Тип печати</name>
+          <value>черно-белая</value>
+        </item>
+        <item>
+          <name>Технология печати</name>
+          <value>лазерная</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>настольный</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>большой офис</value>
+        </item>
+        <item>
+          <name>Количество страниц в месяц</name>
+          <value>175000</value>
+        </item>
+      </items>
+      <items>
+        <name>Принтер</name>
+        <item>
+          <name>Максимальный формат</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Автоматическая двусторонняя печать</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение для ч/б печати</name>
+          <value>1200x1200 dpi</value>
+        </item>
+        <item>
+          <name>Скорость печати</name>
+          <value>43 стр/мин (ч/б А4)</value>
+        </item>
+        <item>
+          <name>Время выхода первого отпечатка</name>
+          <value>8.50 c (ч/б)</value>
+        </item>
+      </items>
+      <items>
+        <name>Лотки</name>
+        <item>
+          <name>Подача бумаги</name>
+          <value>600 лист. (стандартная), 3600 лист. (максимальная)</value>
+        </item>
+        <item>
+          <name>Вывод бумаги</name>
+          <value>600 лист. (стандартный), 600 лист. (максимальный)</value>
+        </item>
+        <item>
+          <name>Емкость лотка ручной подачи</name>
+          <value>100 лист.</value>
+        </item>
+      </items>
+      <items>
+        <name>Расходные материалы</name>
+        <item>
+          <name>Плотность бумаги</name>
+          <value>60-200 г/м2</value>
+        </item>
+        <item>
+          <name>Печать на:</name>
+          <value>карточках, пленках, этикетках, глянцевой бумаге, конвертах, матовой бумаге</value>
+        </item>
+        <item>
+          <name>Ресурс ч/б картриджа/тонера</name>
+          <value>10000 страниц</value>
+        </item>
+        <item>
+          <name>Количество картриджей</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Тип картриджа/тонера</name>
+          <value>CE390A</value>
+        </item>
+      </items>
+      <items>
+        <name>Память/Процессор</name>
+        <item>
+          <name>Объем памяти</name>
+          <value>512 Мб, максимальный 1024 Мб </value>
+        </item>
+        <item>
+          <name>Процессор</name>
+          <value>ARM Cortex</value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>800 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Ethernet (RJ-45), USB 2.0</value>
+        </item>
+        <item>
+          <name>Прямая печать</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Веб-интерфейс</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Шрифты и языки управления</name>
+        <item>
+          <name>Поддержка PostScript</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка</name>
+          <value>PostScript 3, PCL 5c, PCL 6, PDF</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows, Linux, Mac OS</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>цветной ЖК-дисплей</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (при работе)</name>
+          <value>790 Вт</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (в режиме ожидания)</name>
+          <value>21 Вт</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>415x398x508 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>26.3 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70326">
+    <title>HP LaserJet Pro M1214nfh (CE842A)</title>
+    <model>LaserJet Pro M1214nfh (CE842A)</model>
+    <marka>HP</marka>
+    <catalog id="1016608">Принтеры и МФУ</catalog>
+    
+    <price1>8866</price1>
+    <price2>9690</price2>
+    <description>
+принтер/сканер/копир/факс/телефон, A4, печать  лазерная черно-белая, 18 стр/мин ч/б, 600x600 dpi, подача: 150 лист., вывод: 100 лист., память: 64 Мб, Ethernet RJ-45, USB, ЖК-панель, устройство автоподачи оригиналов
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Устройство</name>
+          <value>принтер/сканер/копир/факс/телефон</value>
+        </item>
+        <item>
+          <name>Тип печати</name>
+          <value>черно-белая</value>
+        </item>
+        <item>
+          <name>Технология печати</name>
+          <value>лазерная</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>настольный</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>персональный</value>
+        </item>
+        <item>
+          <name>Количество страниц в месяц</name>
+          <value>8000</value>
+        </item>
+      </items>
+      <items>
+        <name>Принтер</name>
+        <item>
+          <name>Максимальный формат</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение для ч/б печати</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Скорость печати</name>
+          <value>18 стр/мин (ч/б А4)</value>
+        </item>
+        <item>
+          <name>Время выхода первого отпечатка</name>
+          <value>8.50 c (ч/б)</value>
+        </item>
+      </items>
+      <items>
+        <name>Сканер</name>
+        <item>
+          <name>Тип сканера</name>
+          <value>планшетный/протяжный</value>
+        </item>
+        <item>
+          <name>Тип датчика</name>
+          <value>контактный (CIS)</value>
+        </item>
+        <item>
+          <name>Максимальный формат оригинала</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер сканирования</name>
+          <value>216x297 мм</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>24 бит</value>
+        </item>
+        <item>
+          <name>Оттенки серого</name>
+          <value>256</value>
+        </item>
+        <item>
+          <name>Разрешение сканера</name>
+          <value>1200x1200 dpi</value>
+        </item>
+        <item>
+          <name>Разрешение сканера (улучшенное)</name>
+          <value>19200x19200 dpi</value>
+        </item>
+        <item>
+          <name>Устройство автоподачи оригиналов</name>
+          <value>одностороннее</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи оригиналов</name>
+          <value>35 листов</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (цветн.)</name>
+          <value>6 стр/мин</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (ч/б)</name>
+          <value>6 стр/мин</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>TWAIN, WIA</value>
+        </item>
+        <item>
+          <name>Отправка изображения по e-mail</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Максимальное разрешение копира (ч/б)</name>
+          <value>600x400 dpi</value>
+        </item>
+        <item>
+          <name>Скорость копирования</name>
+          <value>18 стр/мин (ч/б А4)</value>
+        </item>
+        <item>
+          <name>Изменение масштаба</name>
+          <value>25-400 %</value>
+        </item>
+        <item>
+          <name>Максимальное количество копий за цикл</name>
+          <value>99</value>
+        </item>
+      </items>
+      <items>
+        <name>Лотки</name>
+        <item>
+          <name>Подача бумаги</name>
+          <value>150 лист. (стандартная)</value>
+        </item>
+        <item>
+          <name>Вывод бумаги</name>
+          <value>100 лист. (стандартный)</value>
+        </item>
+      </items>
+      <items>
+        <name>Расходные материалы</name>
+        <item>
+          <name>Плотность бумаги</name>
+          <value>60-175 г/м2</value>
+        </item>
+        <item>
+          <name>Печать на:</name>
+          <value>карточках, пленках, этикетках, глянцевой бумаге, конвертах, матовой бумаге</value>
+        </item>
+        <item>
+          <name>Ресурс ч/б картриджа/тонера</name>
+          <value>1600 страниц</value>
+        </item>
+        <item>
+          <name>Количество картриджей</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Тип картриджа/тонера</name>
+          <value>HP №85A (CE285A)</value>
+        </item>
+      </items>
+      <items>
+        <name>Память/Процессор</name>
+        <item>
+          <name>Объем памяти</name>
+          <value>64 Мб, максимальный 64 Мб </value>
+        </item>
+        <item>
+          <name>Процессор</name>
+          <value>Marvell</value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>400 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Факс</name>
+        <item>
+          <name>Память факса</name>
+          <value>500 страниц</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение факса</name>
+          <value>300x300 dpi</value>
+        </item>
+        <item>
+          <name>Максимальная скорость передачи</name>
+          <value>33.6 кбит/c</value>
+        </item>
+        <item>
+          <name>PC Fax</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Ethernet (RJ-45), USB 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Шрифты и языки управления</name>
+        <item>
+          <name>Поддержка PostScript</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows, Linux, Mac OS</value>
+        </item>
+        <item>
+          <name>Минимальные системные требования</name>
+          <value>Intel Pentium III</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>ЖК-панель</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (при работе)</name>
+          <value>375 Вт</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (в режиме ожидания)</name>
+          <value>4.7 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума при работе</name>
+          <value>50 дБ</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>504x306x265 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>8.6 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Телефон</name>
+        <item>
+          <name>Трубка</name>
+          <value>проводная</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70327">
+    <title>Xerox WorkCentre 3220DN</title>
+    <model>WorkCentre 3220DN</model>
+    <marka>Xerox</marka>
+    <catalog id="1016608">Принтеры и МФУ</catalog>
+    
+    <price1>12450</price1>
+    <price2>16890</price2>
+    <description>
+принтер/сканер/копир/факс, A4, печать  лазерная черно-белая, двусторонняя, 28 стр/мин ч/б, 600x600 dpi, подача: 251 лист., вывод: 150 лист., Post Script, память: 128 Мб, Ethernet RJ-45, USB, ЖК-панель, устройство автоподачи оригиналов
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Устройство</name>
+          <value>принтер/сканер/копир/факс</value>
+        </item>
+        <item>
+          <name>Тип печати</name>
+          <value>черно-белая</value>
+        </item>
+        <item>
+          <name>Технология печати</name>
+          <value>лазерная</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>настольный</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>средний офис</value>
+        </item>
+        <item>
+          <name>Количество страниц в месяц</name>
+          <value>50000</value>
+        </item>
+      </items>
+      <items>
+        <name>Принтер</name>
+        <item>
+          <name>Максимальный формат</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Автоматическая двусторонняя печать</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение для ч/б печати</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Скорость печати</name>
+          <value>28 стр/мин (ч/б А4)</value>
+        </item>
+        <item>
+          <name>Время разогрева</name>
+          <value>15 с</value>
+        </item>
+        <item>
+          <name>Время выхода первого отпечатка</name>
+          <value>8.50 c (ч/б)</value>
+        </item>
+      </items>
+      <items>
+        <name>Сканер</name>
+        <item>
+          <name>Тип сканера</name>
+          <value>планшетный/протяжный</value>
+        </item>
+        <item>
+          <name>Максимальный формат оригинала</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер сканирования</name>
+          <value>216x356 мм</value>
+        </item>
+        <item>
+          <name>Разрешение сканера</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Разрешение сканера (улучшенное)</name>
+          <value>4800x4800 dpi</value>
+        </item>
+        <item>
+          <name>Устройство автоподачи оригиналов</name>
+          <value>одностороннее</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи оригиналов</name>
+          <value>50 листов</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>TWAIN, WIA</value>
+        </item>
+        <item>
+          <name>Отправка изображения по e-mail</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Максимальное разрешение копира (ч/б)</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Скорость копирования</name>
+          <value>28 стр/мин (ч/б А4)</value>
+        </item>
+        <item>
+          <name>Время выхода первой копии</name>
+          <value>11 с</value>
+        </item>
+        <item>
+          <name>Изменение масштаба</name>
+          <value>25-400 %</value>
+        </item>
+      </items>
+      <items>
+        <name>Лотки</name>
+        <item>
+          <name>Подача бумаги</name>
+          <value>251 лист. (стандартная), 501 лист. (максимальная)</value>
+        </item>
+        <item>
+          <name>Вывод бумаги</name>
+          <value>150 лист. (стандартный)</value>
+        </item>
+        <item>
+          <name>Емкость лотка ручной подачи</name>
+          <value>1 лист.</value>
+        </item>
+      </items>
+      <items>
+        <name>Расходные материалы</name>
+        <item>
+          <name>Плотность бумаги</name>
+          <value>60-163 г/м2</value>
+        </item>
+        <item>
+          <name>Печать на:</name>
+          <value>карточках, пленках, этикетках, глянцевой бумаге, конвертах, матовой бумаге</value>
+        </item>
+        <item>
+          <name>Ресурс ч/б картриджа/тонера</name>
+          <value>2000 страниц</value>
+        </item>
+        <item>
+          <name>Количество картриджей</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Тип картриджа/тонера</name>
+          <value>черный	106R01485, 106R01486 (расш.), 106R01487 (расш.)</value>
+        </item>
+      </items>
+      <items>
+        <name>Память/Процессор</name>
+        <item>
+          <name>Объем памяти</name>
+          <value>128 Мб, максимальный 384 Мб </value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>360 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Факс</name>
+        <item>
+          <name>Память факса</name>
+          <value>225 страниц</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение факса</name>
+          <value>300x300 dpi</value>
+        </item>
+        <item>
+          <name>Максимальная скорость передачи</name>
+          <value>33.6 кбит/c</value>
+        </item>
+        <item>
+          <name>PC Fax</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Ethernet (RJ-45), USB 2.0</value>
+        </item>
+        <item>
+          <name>Прямая печать</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Веб-интерфейс</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Шрифты и языки управления</name>
+        <item>
+          <name>Поддержка PostScript</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка</name>
+          <value>PostScript 3, PCL 5e, PCL 6</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows, Linux, Mac OS</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>ЖК-панель</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (при работе)</name>
+          <value>450 Вт</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (в режиме ожидания)</name>
+          <value>12 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума при работе</name>
+          <value>50 дБ</value>
+        </item>
+        <item>
+          <name>Уровень шума в режиме ожидания</name>
+          <value>26 дБ</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>445x395x410 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>13.9 кг</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>оптимизированное разрешение до 1200х1200</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70329">
+    <title>Xerox Phaser 3010</title>
+    <model>Phaser 3010</model>
+    <marka>Xerox</marka>
+    <catalog id="1016608">Принтеры и МФУ</catalog>
+    
+    <price1>2049</price1>
+    <price2>4780</price2>
+    <description>
+принтер, A4, печать  светодиодная черно-белая, 20 стр/мин ч/б, 1200x1200 dpi, подача: 150 лист., вывод: 100 лист., память: 64 Мб, USB
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Устройство</name>
+          <value>принтер</value>
+        </item>
+        <item>
+          <name>Тип печати</name>
+          <value>черно-белая</value>
+        </item>
+        <item>
+          <name>Технология печати</name>
+          <value>светодиодная</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>настольный</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>малый офис</value>
+        </item>
+        <item>
+          <name>Количество страниц в месяц</name>
+          <value>30000</value>
+        </item>
+      </items>
+      <items>
+        <name>Принтер</name>
+        <item>
+          <name>Максимальный формат</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение для ч/б печати</name>
+          <value>1200x1200 dpi</value>
+        </item>
+        <item>
+          <name>Скорость печати</name>
+          <value>20 стр/мин (ч/б А4)</value>
+        </item>
+        <item>
+          <name>Время разогрева</name>
+          <value>25 с</value>
+        </item>
+        <item>
+          <name>Время выхода первого отпечатка</name>
+          <value>8 c (ч/б)</value>
+        </item>
+      </items>
+      <items>
+        <name>Лотки</name>
+        <item>
+          <name>Подача бумаги</name>
+          <value>150 лист. (стандартная), 150 лист. (максимальная)</value>
+        </item>
+        <item>
+          <name>Вывод бумаги</name>
+          <value>100 лист. (стандартный), 100 лист. (максимальный)</value>
+        </item>
+      </items>
+      <items>
+        <name>Расходные материалы</name>
+        <item>
+          <name>Плотность бумаги</name>
+          <value>60-163 г/м2</value>
+        </item>
+        <item>
+          <name>Печать на:</name>
+          <value>карточках, этикетках, глянцевой бумаге, конвертах, матовой бумаге</value>
+        </item>
+        <item>
+          <name>Ресурс ч/б картриджа/тонера</name>
+          <value>1000 страниц</value>
+        </item>
+        <item>
+          <name>Количество картриджей</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Тип картриджа/тонера</name>
+          <value>стандартный 106R02181; повышенной емкости 106R02183 (2300 стандартных страниц)</value>
+        </item>
+      </items>
+      <items>
+        <name>Память/Процессор</name>
+        <item>
+          <name>Объем памяти</name>
+          <value>64 Мб, максимальный 64 Мб </value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>150 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Шрифты и языки управления</name>
+        <item>
+          <name>Поддержка PostScript</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows, Linux, Mac OS</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (при работе)</name>
+          <value>329 Вт</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (в режиме ожидания)</name>
+          <value>57.6 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума при работе</name>
+          <value>52 дБ</value>
+        </item>
+        <item>
+          <name>Уровень шума в режиме ожидания</name>
+          <value>15 дБ</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>358x208x197 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4.6 кг</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>Модель доступна в белом и черном дизайне</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70331">
+    <title>Panasonic KX-MB2020 RU</title>
+    <model>KX-MB2020 RU</model>
+    <marka>Panasonic</marka>
+    <catalog id="1016608">Принтеры и МФУ</catalog>
+    
+    <price1>5600</price1>
+    <price2>7980</price2>
+    <description>
+принтер/сканер/копир/факс/телефон, A4, печать  лазерная черно-белая, 24 стр/мин ч/б, 600x600 dpi, подача: 250 лист., память: 32 Мб, Ethernet RJ-45, USB, ЖК-панель
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Устройство</name>
+          <value>принтер/сканер/копир/факс/телефон</value>
+        </item>
+        <item>
+          <name>Тип печати</name>
+          <value>черно-белая</value>
+        </item>
+        <item>
+          <name>Технология печати</name>
+          <value>лазерная</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>настольный</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>персональный</value>
+        </item>
+        <item>
+          <name>Количество страниц в месяц</name>
+          <value>10000</value>
+        </item>
+      </items>
+      <items>
+        <name>Принтер</name>
+        <item>
+          <name>Максимальный формат</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение для ч/б печати</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Скорость печати</name>
+          <value>24 стр/мин (ч/б А4)</value>
+        </item>
+      </items>
+      <items>
+        <name>Сканер</name>
+        <item>
+          <name>Тип сканера</name>
+          <value>планшетный</value>
+        </item>
+        <item>
+          <name>Максимальный формат оригинала</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Разрешение сканера (улучшенное)</name>
+          <value>9600x9600 dpi</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Максимальное разрешение копира (ч/б)</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Скорость копирования</name>
+          <value>24 стр/мин (ч/б А4)</value>
+        </item>
+        <item>
+          <name>Изменение масштаба</name>
+          <value>25-400 %</value>
+        </item>
+        <item>
+          <name>Шаг масштабирования</name>
+          <value>1 %</value>
+        </item>
+        <item>
+          <name>Максимальное количество копий за цикл</name>
+          <value>99</value>
+        </item>
+      </items>
+      <items>
+        <name>Лотки</name>
+        <item>
+          <name>Подача бумаги</name>
+          <value>250 лист. (стандартная)</value>
+        </item>
+      </items>
+      <items>
+        <name>Расходные материалы</name>
+        <item>
+          <name>Печать на:</name>
+          <value>пленках, глянцевой бумаге, конвертах, матовой бумаге</value>
+        </item>
+        <item>
+          <name>Ресурс ч/б картриджа/тонера</name>
+          <value>2000 страниц</value>
+        </item>
+        <item>
+          <name>Количество картриджей</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Тип картриджа/тонера</name>
+          <value>тонер-картридж черный Panasonic KX-FAT411A(7)</value>
+        </item>
+      </items>
+      <items>
+        <name>Память/Процессор</name>
+        <item>
+          <name>Объем памяти</name>
+          <value>32 Мб </value>
+        </item>
+      </items>
+      <items>
+        <name>Факс</name>
+        <item>
+          <name>Память факса</name>
+          <value>110 страниц</value>
+        </item>
+        <item>
+          <name>Максимальная скорость передачи</name>
+          <value>33.6 кбит/c</value>
+        </item>
+        <item>
+          <name>PC Fax</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Ethernet (RJ-45), USB 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Шрифты и языки управления</name>
+        <item>
+          <name>Поддержка PostScript</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>ЖК-панель</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>цветное сканирование</value>
+        </item>
+      </items>
+      <items>
+        <name>Телефон</name>
+        <item>
+          <name>Трубка</name>
+          <value>проводная</value>
+        </item>
+        <item>
+          <name>Функции телефона</name>
+          <value>АОН, Caller ID, спикерфон</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70332">
+    <title>HP LaserJet Pro 400 M401dn</title>
+    <model>LaserJet Pro 400 M401dn</model>
+    <marka>HP</marka>
+    <catalog id="1016608">Принтеры и МФУ</catalog>
+    
+    <price1>9927</price1>
+    <price2>15180</price2>
+    <description>
+принтер, A4, печать  лазерная черно-белая, двусторонняя, 33 стр/мин ч/б, 1200x1200 dpi, подача: 300 лист., вывод: 150 лист., Post Script, память: 256 Мб, Ethernet RJ-45, USB, цветной ЖК-дисплей
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Устройство</name>
+          <value>принтер</value>
+        </item>
+        <item>
+          <name>Тип печати</name>
+          <value>черно-белая</value>
+        </item>
+        <item>
+          <name>Технология печати</name>
+          <value>лазерная</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>настольный</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>малый офис</value>
+        </item>
+        <item>
+          <name>Количество страниц в месяц</name>
+          <value>50000</value>
+        </item>
+      </items>
+      <items>
+        <name>Принтер</name>
+        <item>
+          <name>Максимальный формат</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Автоматическая двусторонняя печать</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение для ч/б печати</name>
+          <value>1200x1200 dpi</value>
+        </item>
+        <item>
+          <name>Скорость печати</name>
+          <value>33 стр/мин (ч/б А4)</value>
+        </item>
+        <item>
+          <name>Время выхода первого отпечатка</name>
+          <value>8 c (ч/б)</value>
+        </item>
+      </items>
+      <items>
+        <name>Лотки</name>
+        <item>
+          <name>Подача бумаги</name>
+          <value>300 лист. (стандартная), 800 лист. (максимальная)</value>
+        </item>
+        <item>
+          <name>Вывод бумаги</name>
+          <value>150 лист. (стандартный)</value>
+        </item>
+        <item>
+          <name>Емкость лотка ручной подачи</name>
+          <value>50 лист.</value>
+        </item>
+      </items>
+      <items>
+        <name>Расходные материалы</name>
+        <item>
+          <name>Плотность бумаги</name>
+          <value>60-163 г/м2</value>
+        </item>
+        <item>
+          <name>Печать на:</name>
+          <value>карточках, пленках, этикетках, глянцевой бумаге, конвертах, матовой бумаге</value>
+        </item>
+        <item>
+          <name>Ресурс ч/б картриджа/тонера</name>
+          <value>2700 страниц</value>
+        </item>
+        <item>
+          <name>Количество картриджей</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Тип картриджа/тонера</name>
+          <value>HP 80A LaserJet CF280A, 80X LaserJet CF280X (увел.)</value>
+        </item>
+      </items>
+      <items>
+        <name>Память/Процессор</name>
+        <item>
+          <name>Объем памяти</name>
+          <value>256 Мб, максимальный 256 Мб </value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>800 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Ethernet (RJ-45), USB 2.0</value>
+        </item>
+        <item>
+          <name>Прямая печать</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Веб-интерфейс</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Шрифты и языки управления</name>
+        <item>
+          <name>Поддержка PostScript</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка</name>
+          <value>PostScript 3, PCL 5e, PCL 6, PDF</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows, Linux, Mac OS</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>цветной ЖК-дисплей</value>
+        </item>
+        <item>
+          <name>Диагональ дисплея</name>
+          <value>3.5 дюйм.</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (при работе)</name>
+          <value>570 Вт</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (в режиме ожидания)</name>
+          <value>8 Вт</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>365x271x368 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>11 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70345">
+    <title>HP LaserJet P2035</title>
+    <model>LaserJet P2035</model>
+    <marka>HP</marka>
+    <catalog id="1016608">Принтеры и МФУ</catalog>
+    
+    <price1>5700</price1>
+    <price2>10134</price2>
+    <description>
+принтер, A4, печать  лазерная черно-белая, 30 стр/мин ч/б, 600x600 dpi, подача: 300 лист., вывод: 150 лист., память: 16 Мб, USB, LPT
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Устройство</name>
+          <value>принтер</value>
+        </item>
+        <item>
+          <name>Тип печати</name>
+          <value>черно-белая</value>
+        </item>
+        <item>
+          <name>Технология печати</name>
+          <value>лазерная</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>настольный</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>малый офис</value>
+        </item>
+        <item>
+          <name>Количество страниц в месяц</name>
+          <value>25000</value>
+        </item>
+      </items>
+      <items>
+        <name>Принтер</name>
+        <item>
+          <name>Максимальный формат</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение для ч/б печати</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Скорость печати</name>
+          <value>30 стр/мин (ч/б А4)</value>
+        </item>
+        <item>
+          <name>Время выхода первого отпечатка</name>
+          <value>8 c (ч/б)</value>
+        </item>
+      </items>
+      <items>
+        <name>Лотки</name>
+        <item>
+          <name>Подача бумаги</name>
+          <value>300 лист. (стандартная), 300 лист. (максимальная)</value>
+        </item>
+        <item>
+          <name>Вывод бумаги</name>
+          <value>150 лист. (стандартный), 150 лист. (максимальный)</value>
+        </item>
+        <item>
+          <name>Емкость лотка ручной подачи</name>
+          <value>50 лист.</value>
+        </item>
+      </items>
+      <items>
+        <name>Расходные материалы</name>
+        <item>
+          <name>Плотность бумаги</name>
+          <value>60-163 г/м2</value>
+        </item>
+        <item>
+          <name>Печать на:</name>
+          <value>карточках, пленках, этикетках, глянцевой бумаге, конвертах, матовой бумаге</value>
+        </item>
+        <item>
+          <name>Ресурс ч/б картриджа/тонера</name>
+          <value>2300 страниц</value>
+        </item>
+        <item>
+          <name>Количество картриджей</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Тип картриджа/тонера</name>
+          <value>HP 05A CE505A</value>
+        </item>
+      </items>
+      <items>
+        <name>Память/Процессор</name>
+        <item>
+          <name>Объем памяти</name>
+          <value>16 Мб, максимальный 16 Мб </value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>266 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>LPT, USB 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Шрифты и языки управления</name>
+        <item>
+          <name>Поддержка PostScript</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка</name>
+          <value>PCL 5e</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows, Linux, Mac OS</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (при работе)</name>
+          <value>550 Вт</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (в режиме ожидания)</name>
+          <value>7 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума при работе</name>
+          <value>54 дБ</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>365x268x368 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>10 кг</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>размеры носителей до 216x356мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70348">
+    <title>Canon i-SENSYS MF4550d</title>
+    <model>i-SENSYS MF4550d</model>
+    <marka>Canon</marka>
+    <catalog id="1016608">Принтеры и МФУ</catalog>
+    
+    <price1>7400</price1>
+    <price2>10490</price2>
+    <description>
+принтер/сканер/копир/факс, A4, печать  лазерная черно-белая, двусторонняя, 25 стр/мин ч/б, 600x600 dpi, подача: 251 лист., вывод: 100 лист., память: 64 Мб, USB, ЖК-панель, устройство автоподачи оригиналов
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Устройство</name>
+          <value>принтер/сканер/копир/факс</value>
+        </item>
+        <item>
+          <name>Тип печати</name>
+          <value>черно-белая</value>
+        </item>
+        <item>
+          <name>Технология печати</name>
+          <value>лазерная</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>настольный</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>малый офис</value>
+        </item>
+        <item>
+          <name>Количество страниц в месяц</name>
+          <value>10000</value>
+        </item>
+      </items>
+      <items>
+        <name>Принтер</name>
+        <item>
+          <name>Максимальный формат</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Автоматическая двусторонняя печать</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение для ч/б печати</name>
+          <value>1200x600 dpi</value>
+        </item>
+        <item>
+          <name>Скорость печати</name>
+          <value>25 стр/мин (ч/б А4)</value>
+        </item>
+        <item>
+          <name>Время разогрева</name>
+          <value>12 с</value>
+        </item>
+        <item>
+          <name>Время выхода первого отпечатка</name>
+          <value>6 c (ч/б)</value>
+        </item>
+      </items>
+      <items>
+        <name>Сканер</name>
+        <item>
+          <name>Тип сканера</name>
+          <value>планшетный/протяжный</value>
+        </item>
+        <item>
+          <name>Тип датчика</name>
+          <value>контактный (CIS)</value>
+        </item>
+        <item>
+          <name>Максимальный формат оригинала</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер сканирования</name>
+          <value>216 мм</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>24 бит</value>
+        </item>
+        <item>
+          <name>Оттенки серого</name>
+          <value>256</value>
+        </item>
+        <item>
+          <name>Разрешение сканера</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Разрешение сканера (улучшенное)</name>
+          <value>9600x9600 dpi</value>
+        </item>
+        <item>
+          <name>Устройство автоподачи оригиналов</name>
+          <value>одностороннее</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи оригиналов</name>
+          <value>35 листов</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>TWAIN, WIA</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Максимальное разрешение копира (ч/б)</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Скорость копирования</name>
+          <value>25 стр/мин (ч/б А4)</value>
+        </item>
+        <item>
+          <name>Время выхода первой копии</name>
+          <value>9 с</value>
+        </item>
+        <item>
+          <name>Изменение масштаба</name>
+          <value>25-400 %</value>
+        </item>
+        <item>
+          <name>Шаг масштабирования</name>
+          <value>1 %</value>
+        </item>
+        <item>
+          <name>Максимальное количество копий за цикл</name>
+          <value>99</value>
+        </item>
+      </items>
+      <items>
+        <name>Лотки</name>
+        <item>
+          <name>Подача бумаги</name>
+          <value>251 лист. (стандартная)</value>
+        </item>
+        <item>
+          <name>Вывод бумаги</name>
+          <value>100 лист. (стандартный)</value>
+        </item>
+        <item>
+          <name>Емкость лотка ручной подачи</name>
+          <value>1 лист.</value>
+        </item>
+      </items>
+      <items>
+        <name>Расходные материалы</name>
+        <item>
+          <name>Плотность бумаги</name>
+          <value>60-163 г/м2</value>
+        </item>
+        <item>
+          <name>Печать на:</name>
+          <value>карточках, пленках, этикетках, глянцевой бумаге, конвертах, матовой бумаге</value>
+        </item>
+        <item>
+          <name>Ресурс ч/б картриджа/тонера</name>
+          <value>2100 страниц</value>
+        </item>
+        <item>
+          <name>Количество картриджей</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Тип картриджа/тонера</name>
+          <value>Картридж 728</value>
+        </item>
+      </items>
+      <items>
+        <name>Память/Процессор</name>
+        <item>
+          <name>Объем памяти</name>
+          <value>64 Мб </value>
+        </item>
+      </items>
+      <items>
+        <name>Факс</name>
+        <item>
+          <name>Память факса</name>
+          <value>256 страниц</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение факса</name>
+          <value>200x400 dpi</value>
+        </item>
+        <item>
+          <name>Максимальная скорость передачи</name>
+          <value>33.6 кбит/c</value>
+        </item>
+        <item>
+          <name>PC Fax</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Шрифты и языки управления</name>
+        <item>
+          <name>Поддержка PostScript</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows, Linux, Mac OS</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>ЖК-панель</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (при работе)</name>
+          <value>500 Вт</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (в режиме ожидания)</name>
+          <value>3 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума при работе</name>
+          <value>43 дБ</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>390x370x421 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>11.8 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70350">
+    <title>Epson L100</title>
+    <model>L100</model>
+    <marka>Epson</marka>
+    <catalog id="1016608">Принтеры и МФУ</catalog>
+    
+    <price1>5120</price1>
+    <price2>6550</price2>
+    <description>
+принтер, A4, печать  пьезоэлектрическая струйная цветная, 4-цветная, 27 стр/мин ч/б, 15 стр/мин цветн., 5760x1440 dpi, подача: 100 лист., вывод: 50 лист., USB, печать фотографий
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Устройство</name>
+          <value>принтер</value>
+        </item>
+        <item>
+          <name>Тип печати</name>
+          <value>цветная</value>
+        </item>
+        <item>
+          <name>Технология печати</name>
+          <value>пьезоэлектрическая струйная</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>настольный</value>
+        </item>
+      </items>
+      <items>
+        <name>Принтер</name>
+        <item>
+          <name>Максимальный формат</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Печать фотографий</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество цветов</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Минимальный объем капли</name>
+          <value>4 пл</value>
+        </item>
+        <item>
+          <name>Печать без полей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение для цветной печати</name>
+          <value>5760x1440 dpi</value>
+        </item>
+        <item>
+          <name>Скорость печати</name>
+          <value>27 стр/мин (ч/б А4), 15 стр/мин (цветн. А4)</value>
+        </item>
+        <item>
+          <name>Время печати 10x15 см (цветн.)</name>
+          <value>66 с</value>
+        </item>
+      </items>
+      <items>
+        <name>Лотки</name>
+        <item>
+          <name>Подача бумаги</name>
+          <value>100 лист. (стандартная), 100 лист. (максимальная)</value>
+        </item>
+        <item>
+          <name>Вывод бумаги</name>
+          <value>50 лист. (стандартный), 50 лист. (максимальный)</value>
+        </item>
+      </items>
+      <items>
+        <name>Расходные материалы</name>
+        <item>
+          <name>Плотность бумаги</name>
+          <value>64-300 г/м2</value>
+        </item>
+        <item>
+          <name>Печать на:</name>
+          <value>карточках, пленках, этикетках, фотобумаге, глянцевой бумаге, конвертах, матовой бумаге</value>
+        </item>
+        <item>
+          <name>Ресурс цветного картриджа/тонера</name>
+          <value>6000 страниц</value>
+        </item>
+        <item>
+          <name>Ресурс ч/б картриджа/тонера</name>
+          <value>4500 страниц</value>
+        </item>
+        <item>
+          <name>Количество картриджей</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Тип картриджа/тонера</name>
+          <value>черный T6641, голубой T6642, пурпурный T6643, желтый T6644</value>
+        </item>
+        <item>
+          <name>Система непрерывной подачи чернил</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Шрифты и языки управления</name>
+        <item>
+          <name>Поддержка PostScript</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows, Mac OS</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (при работе)</name>
+          <value>10.1 Вт</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (в режиме ожидания)</name>
+          <value>2.5 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума при работе</name>
+          <value>53 дБ</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>487x135x228 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.8 кг</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>система непрерывной подачи чернил; контейнеры с чернилами объёмом 70 мл</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70365">
+    <title>Xerox WorkCentre 3045B</title>
+    <model>WorkCentre 3045B</model>
+    <marka>Xerox</marka>
+    <catalog id="1016608">Принтеры и МФУ</catalog>
+    
+    <price1>4059</price1>
+    <price2>6970</price2>
+    <description>
+принтер/сканер/копир, A4, печать  светодиодная черно-белая, 24 стр/мин ч/б, 1200x1200 dpi, подача: 150 лист., вывод: 100 лист., память: 128 Мб, USB, ЖК-панель
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Устройство</name>
+          <value>принтер/сканер/копир</value>
+        </item>
+        <item>
+          <name>Тип печати</name>
+          <value>черно-белая</value>
+        </item>
+        <item>
+          <name>Технология печати</name>
+          <value>светодиодная</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>настольный</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>малый офис</value>
+        </item>
+        <item>
+          <name>Количество страниц в месяц</name>
+          <value>30000</value>
+        </item>
+      </items>
+      <items>
+        <name>Принтер</name>
+        <item>
+          <name>Максимальный формат</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение для ч/б печати</name>
+          <value>1200x1200 dpi</value>
+        </item>
+        <item>
+          <name>Скорость печати</name>
+          <value>24 стр/мин (ч/б А4)</value>
+        </item>
+        <item>
+          <name>Время разогрева</name>
+          <value>25 с</value>
+        </item>
+        <item>
+          <name>Время выхода первого отпечатка</name>
+          <value>8 c (ч/б)</value>
+        </item>
+      </items>
+      <items>
+        <name>Сканер</name>
+        <item>
+          <name>Тип сканера</name>
+          <value>планшетный</value>
+        </item>
+        <item>
+          <name>Максимальный формат оригинала</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер сканирования</name>
+          <value>216x297 мм</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>24 бит</value>
+        </item>
+        <item>
+          <name>Оттенки серого</name>
+          <value>256</value>
+        </item>
+        <item>
+          <name>Разрешение сканера</name>
+          <value>1200x1200 dpi</value>
+        </item>
+        <item>
+          <name>Разрешение сканера (улучшенное)</name>
+          <value>9600x9600 dpi</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Максимальное разрешение копира (ч/б)</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Скорость копирования</name>
+          <value>24 стр/мин (ч/б А4)</value>
+        </item>
+        <item>
+          <name>Время выхода первой копии</name>
+          <value>24 с</value>
+        </item>
+        <item>
+          <name>Изменение масштаба</name>
+          <value>25-400 %</value>
+        </item>
+        <item>
+          <name>Максимальное количество копий за цикл</name>
+          <value>99</value>
+        </item>
+      </items>
+      <items>
+        <name>Лотки</name>
+        <item>
+          <name>Подача бумаги</name>
+          <value>150 лист. (стандартная), 150 лист. (максимальная)</value>
+        </item>
+        <item>
+          <name>Вывод бумаги</name>
+          <value>100 лист. (стандартный), 100 лист. (максимальный)</value>
+        </item>
+      </items>
+      <items>
+        <name>Расходные материалы</name>
+        <item>
+          <name>Плотность бумаги</name>
+          <value>60-163 г/м2</value>
+        </item>
+        <item>
+          <name>Печать на:</name>
+          <value>карточках, пленках, этикетках, глянцевой бумаге, конвертах, матовой бумаге</value>
+        </item>
+        <item>
+          <name>Ресурс ч/б картриджа/тонера</name>
+          <value>1000 страниц</value>
+        </item>
+        <item>
+          <name>Количество картриджей</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Тип картриджа/тонера</name>
+          <value>стандартный 106R02181; повышенной емкости 106R02183 (2300 стандартных страниц)</value>
+        </item>
+      </items>
+      <items>
+        <name>Память/Процессор</name>
+        <item>
+          <name>Объем памяти</name>
+          <value>128 Мб, максимальный 128 Мб </value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>300 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Прямая печать</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Шрифты и языки управления</name>
+        <item>
+          <name>Поддержка PostScript</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows, Linux, Mac OS</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>ЖК-панель</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (при работе)</name>
+          <value>332 Вт</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (в режиме ожидания)</name>
+          <value>51.4 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума при работе</name>
+          <value>54 дБ</value>
+        </item>
+        <item>
+          <name>Уровень шума в режиме ожидания</name>
+          <value>15 дБ</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>410x299x389 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>8.9 кг</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>Модель доступна в белом и черном дизайне</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70366">
+    <title>HP LaserJet Enterprise P3015dn</title>
+    <model>LaserJet Enterprise P3015dn</model>
+    <marka>HP</marka>
+    <catalog id="1016608">Принтеры и МФУ</catalog>
+    
+    <price1>19298</price1>
+    <price2>29077</price2>
+    <description>
+принтер, A4, печать  лазерная черно-белая, двусторонняя, 40 стр/мин ч/б, 1200x1200 dpi, подача: 600 лист., вывод: 250 лист., Post Script, память: 128 Мб, Ethernet RJ-45, USB, ЖК-панель
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Устройство</name>
+          <value>принтер</value>
+        </item>
+        <item>
+          <name>Тип печати</name>
+          <value>черно-белая</value>
+        </item>
+        <item>
+          <name>Технология печати</name>
+          <value>лазерная</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>настольный</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>средний офис</value>
+        </item>
+        <item>
+          <name>Количество страниц в месяц</name>
+          <value>100000</value>
+        </item>
+      </items>
+      <items>
+        <name>Принтер</name>
+        <item>
+          <name>Максимальный формат</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Автоматическая двусторонняя печать</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение для ч/б печати</name>
+          <value>1200x1200 dpi</value>
+        </item>
+        <item>
+          <name>Скорость печати</name>
+          <value>40 стр/мин (ч/б А4)</value>
+        </item>
+        <item>
+          <name>Время выхода первого отпечатка</name>
+          <value>7.50 c (ч/б)</value>
+        </item>
+      </items>
+      <items>
+        <name>Лотки</name>
+        <item>
+          <name>Подача бумаги</name>
+          <value>600 лист. (стандартная), 1600 лист. (максимальная)</value>
+        </item>
+        <item>
+          <name>Вывод бумаги</name>
+          <value>250 лист. (стандартный), 250 лист. (максимальный)</value>
+        </item>
+        <item>
+          <name>Емкость лотка ручной подачи</name>
+          <value>100 лист.</value>
+        </item>
+      </items>
+      <items>
+        <name>Расходные материалы</name>
+        <item>
+          <name>Плотность бумаги</name>
+          <value>60-199 г/м2</value>
+        </item>
+        <item>
+          <name>Печать на:</name>
+          <value>карточках, пленках, этикетках, глянцевой бумаге, конвертах, матовой бумаге</value>
+        </item>
+        <item>
+          <name>Ресурс ч/б картриджа/тонера</name>
+          <value>6000 страниц</value>
+        </item>
+        <item>
+          <name>Количество картриджей</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Тип картриджа/тонера</name>
+          <value>CE255A, CE255X (расш.)</value>
+        </item>
+      </items>
+      <items>
+        <name>Память/Процессор</name>
+        <item>
+          <name>Объем памяти</name>
+          <value>128 Мб, максимальный 640 Мб </value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>540 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Ethernet (RJ-45), USB 2.0</value>
+        </item>
+        <item>
+          <name>Число слотов расширения</name>
+          <value>1, свободных 1</value>
+        </item>
+        <item>
+          <name>Прямая печать</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Шрифты и языки управления</name>
+        <item>
+          <name>Поддержка PostScript</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка</name>
+          <value>PostScript 3, PCL 5e, PCL 6, PDF</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows, Linux, Mac OS</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>ЖК-панель</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (при работе)</name>
+          <value>780 Вт</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (в режиме ожидания)</name>
+          <value>8.5 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума при работе</name>
+          <value>54 дБ</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>448x316x412 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>15.9 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70367">
+    <title>HP LaserJet Enterprise M551n</title>
+    <model>LaserJet Enterprise M551n</model>
+    <marka>HP</marka>
+    <catalog id="1016608">Принтеры и МФУ</catalog>
+    
+    <price1>16699</price1>
+    <price2>27505</price2>
+    <description>
+принтер, A4, печать  лазерная цветная, 4-цветная, 32 стр/мин ч/б, 32 стр/мин цветн., 1200x1200 dpi, подача: 600 лист., вывод: 250 лист., Post Script, память: 1024 Мб, Ethernet RJ-45, USB, ЖК-панель
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Устройство</name>
+          <value>принтер</value>
+        </item>
+        <item>
+          <name>Тип печати</name>
+          <value>цветная</value>
+        </item>
+        <item>
+          <name>Технология печати</name>
+          <value>лазерная</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>настольный</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>средний офис</value>
+        </item>
+        <item>
+          <name>Количество страниц в месяц</name>
+          <value>75000</value>
+        </item>
+      </items>
+      <items>
+        <name>Принтер</name>
+        <item>
+          <name>Максимальный формат</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Количество цветов</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение для ч/б печати</name>
+          <value>1200x1200 dpi</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение для цветной печати</name>
+          <value>1200x1200 dpi</value>
+        </item>
+        <item>
+          <name>Скорость печати</name>
+          <value>32 стр/мин (ч/б А4), 32 стр/мин (цветн. А4)</value>
+        </item>
+        <item>
+          <name>Время выхода первого отпечатка</name>
+          <value>11 c (ч/б), 11 c (цветн.)</value>
+        </item>
+      </items>
+      <items>
+        <name>Лотки</name>
+        <item>
+          <name>Подача бумаги</name>
+          <value>600 лист. (стандартная), 1100 лист. (максимальная)</value>
+        </item>
+        <item>
+          <name>Вывод бумаги</name>
+          <value>250 лист. (стандартный)</value>
+        </item>
+        <item>
+          <name>Емкость лотка ручной подачи</name>
+          <value>100 лист.</value>
+        </item>
+      </items>
+      <items>
+        <name>Расходные материалы</name>
+        <item>
+          <name>Плотность бумаги</name>
+          <value>60-220 г/м2</value>
+        </item>
+        <item>
+          <name>Печать на:</name>
+          <value>карточках, пленках, этикетках, глянцевой бумаге, конвертах, матовой бумаге</value>
+        </item>
+        <item>
+          <name>Ресурс цветного картриджа/тонера</name>
+          <value>6000 страниц</value>
+        </item>
+        <item>
+          <name>Ресурс ч/б картриджа/тонера</name>
+          <value>5500 страниц</value>
+        </item>
+        <item>
+          <name>Количество картриджей</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Тип картриджа/тонера</name>
+          <value>CE400A, CE400X (экономичный); CE403A (пурпурный), CE402A (желтый), CE401A (голубой)</value>
+        </item>
+      </items>
+      <items>
+        <name>Память/Процессор</name>
+        <item>
+          <name>Объем памяти</name>
+          <value>1024 Мб, максимальный 1024 Мб </value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>800 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Ethernet (RJ-45), USB 2.0</value>
+        </item>
+        <item>
+          <name>Веб-интерфейс</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Шрифты и языки управления</name>
+        <item>
+          <name>Поддержка PostScript</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка</name>
+          <value>PostScript 3, PCL 5c, PCL 6, PDF</value>
+        </item>
+        <item>
+          <name>Количество установленных шрифтов PostScript</name>
+          <value>92</value>
+        </item>
+        <item>
+          <name>Количество установленных шрифтов PCL</name>
+          <value>105</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows, Mac OS</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>ЖК-панель</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (при работе)</name>
+          <value>605 Вт</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (в режиме ожидания)</name>
+          <value>51 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума при работе</name>
+          <value>52 дБ</value>
+        </item>
+        <item>
+          <name>Уровень шума в режиме ожидания</name>
+          <value>30 дБ</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>514x385x491 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>34 кг</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>1 внешний и 2 внутренних псевдо-USB 2.0 порта для подключения сторонних устройств</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70368">
+    <title>Samsung ML-2160</title>
+    <model>ML-2160</model>
+    <marka>Samsung</marka>
+    <catalog id="1016608">Принтеры и МФУ</catalog>
+    
+    <price1>1900</price1>
+    <price2>3850</price2>
+    <description>
+принтер, A4, печать  лазерная черно-белая, 20 стр/мин ч/б, 1200x1200 dpi, подача: 150 лист., вывод: 100 лист., память: 8 Мб, USB
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Устройство</name>
+          <value>принтер</value>
+        </item>
+        <item>
+          <name>Тип печати</name>
+          <value>черно-белая</value>
+        </item>
+        <item>
+          <name>Технология печати</name>
+          <value>лазерная</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>настольный</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>малый офис</value>
+        </item>
+        <item>
+          <name>Количество страниц в месяц</name>
+          <value>10000</value>
+        </item>
+      </items>
+      <items>
+        <name>Принтер</name>
+        <item>
+          <name>Максимальный формат</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение для ч/б печати</name>
+          <value>1200x1200 dpi</value>
+        </item>
+        <item>
+          <name>Скорость печати</name>
+          <value>20 стр/мин (ч/б А4)</value>
+        </item>
+        <item>
+          <name>Время выхода первого отпечатка</name>
+          <value>8.50 c (ч/б)</value>
+        </item>
+      </items>
+      <items>
+        <name>Лотки</name>
+        <item>
+          <name>Подача бумаги</name>
+          <value>150 лист. (стандартная), 150 лист. (максимальная)</value>
+        </item>
+        <item>
+          <name>Вывод бумаги</name>
+          <value>100 лист. (стандартный), 100 лист. (максимальный)</value>
+        </item>
+      </items>
+      <items>
+        <name>Расходные материалы</name>
+        <item>
+          <name>Печать на:</name>
+          <value>карточках, этикетках, конвертах, матовой бумаге</value>
+        </item>
+        <item>
+          <name>Ресурс ч/б картриджа/тонера</name>
+          <value>1500 страниц</value>
+        </item>
+        <item>
+          <name>Количество картриджей</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Тип картриджа/тонера</name>
+          <value>MLT-D101S</value>
+        </item>
+      </items>
+      <items>
+        <name>Память/Процессор</name>
+        <item>
+          <name>Объем памяти</name>
+          <value>8 Мб </value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>300 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Шрифты и языки управления</name>
+        <item>
+          <name>Поддержка PostScript</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows, Linux, Mac OS</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (при работе)</name>
+          <value>310 Вт</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (в режиме ожидания)</name>
+          <value>30 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума при работе</name>
+          <value>50 дБ</value>
+        </item>
+        <item>
+          <name>Уровень шума в режиме ожидания</name>
+          <value>26 дБ</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>331x178x215 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70369">
+    <title>Xerox Phaser 3635MFP/S</title>
+    <model>Phaser 3635MFP/S</model>
+    <marka>Xerox</marka>
+    <catalog id="1016608">Принтеры и МФУ</catalog>
+    
+    <price1>46300</price1>
+    <price2>66036</price2>
+    <description>
+принтер/сканер/копир, A4, печать  лазерная черно-белая, двусторонняя, 33 стр/мин ч/б, 1200x1200 dpi, подача: 550 лист., вывод: 250 лист., Post Script, память: 256 Мб, 80 Гб HDD, Ethernet RJ-45, USB, цветной ЖК-дисплей, устройство автоподачи оригиналов
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Устройство</name>
+          <value>принтер/сканер/копир</value>
+        </item>
+        <item>
+          <name>Тип печати</name>
+          <value>черно-белая</value>
+        </item>
+        <item>
+          <name>Технология печати</name>
+          <value>лазерная</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>настольный</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>средний офис</value>
+        </item>
+        <item>
+          <name>Количество страниц в месяц</name>
+          <value>75000</value>
+        </item>
+      </items>
+      <items>
+        <name>Принтер</name>
+        <item>
+          <name>Максимальный формат</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Автоматическая двусторонняя печать</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение для ч/б печати</name>
+          <value>1200x1200 dpi</value>
+        </item>
+        <item>
+          <name>Скорость печати</name>
+          <value>33 стр/мин (ч/б А4)</value>
+        </item>
+        <item>
+          <name>Время разогрева</name>
+          <value>25 с</value>
+        </item>
+        <item>
+          <name>Время выхода первого отпечатка</name>
+          <value>9 c (ч/б)</value>
+        </item>
+      </items>
+      <items>
+        <name>Сканер</name>
+        <item>
+          <name>Тип сканера</name>
+          <value>планшетный/протяжный</value>
+        </item>
+        <item>
+          <name>Максимальный формат оригинала</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер сканирования</name>
+          <value>219x303 мм</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>36 бит</value>
+        </item>
+        <item>
+          <name>Оттенки серого</name>
+          <value>256</value>
+        </item>
+        <item>
+          <name>Разрешение сканера</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Разрешение сканера (улучшенное)</name>
+          <value>4800x4800 dpi</value>
+        </item>
+        <item>
+          <name>Устройство автоподачи оригиналов</name>
+          <value>двустороннее</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи оригиналов</name>
+          <value>50 листов</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (цветн.)</name>
+          <value>до 24 стр/мин</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (ч/б)</name>
+          <value>до 35 стр/мин</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>TWAIN, WIA</value>
+        </item>
+        <item>
+          <name>Отправка изображения по e-mail</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Максимальное разрешение копира (ч/б)</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Скорость копирования</name>
+          <value>33 стр/мин (ч/б А4)</value>
+        </item>
+        <item>
+          <name>Время выхода первой копии</name>
+          <value>9 с</value>
+        </item>
+        <item>
+          <name>Изменение масштаба</name>
+          <value>25-400 %</value>
+        </item>
+        <item>
+          <name>Шаг масштабирования</name>
+          <value>1 %</value>
+        </item>
+        <item>
+          <name>Максимальное количество копий за цикл</name>
+          <value>999</value>
+        </item>
+      </items>
+      <items>
+        <name>Лотки</name>
+        <item>
+          <name>Подача бумаги</name>
+          <value>550 лист. (стандартная), 1050 лист. (максимальная)</value>
+        </item>
+        <item>
+          <name>Вывод бумаги</name>
+          <value>250 лист. (стандартный)</value>
+        </item>
+        <item>
+          <name>Емкость лотка ручной подачи</name>
+          <value>50 лист.</value>
+        </item>
+      </items>
+      <items>
+        <name>Расходные материалы</name>
+        <item>
+          <name>Плотность бумаги</name>
+          <value>60-163 г/м2</value>
+        </item>
+        <item>
+          <name>Печать на:</name>
+          <value>карточках, пленках, этикетках, глянцевой бумаге, конвертах, матовой бумаге</value>
+        </item>
+        <item>
+          <name>Ресурс ч/б картриджа/тонера</name>
+          <value>5000 страниц</value>
+        </item>
+        <item>
+          <name>Количество картриджей</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Тип картриджа/тонера</name>
+          <value>108R00794, 108R00796</value>
+        </item>
+      </items>
+      <items>
+        <name>Память/Процессор</name>
+        <item>
+          <name>Объем памяти</name>
+          <value>256 Мб, максимальный 512 Мб </value>
+        </item>
+        <item>
+          <name>Емкость жесткого диска</name>
+          <value>80 Гб</value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>360 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Ethernet (RJ-45), USB 2.0</value>
+        </item>
+        <item>
+          <name>Прямая печать</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Веб-интерфейс</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Шрифты и языки управления</name>
+        <item>
+          <name>Поддержка PostScript</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка</name>
+          <value>PostScript 3, PCL 5e, PCL 6</value>
+        </item>
+        <item>
+          <name>Количество установленных шрифтов PostScript</name>
+          <value>136</value>
+        </item>
+        <item>
+          <name>Количество установленных шрифтов PCL</name>
+          <value>45</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows, Linux, Mac OS</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>цветной ЖК-дисплей</value>
+        </item>
+        <item>
+          <name>Диагональ дисплея</name>
+          <value>7 дюйм.</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (при работе)</name>
+          <value>600 Вт</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (в режиме ожидания)</name>
+          <value>15 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума при работе</name>
+          <value>59 дБ</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>472x543x478 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>22 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70371">
+    <title>HP LaserJet Pro 400 M401dw</title>
+    <model>LaserJet Pro 400 M401dw</model>
+    <marka>HP</marka>
+    <catalog id="1016608">Принтеры и МФУ</catalog>
+    
+    <price1>11228</price1>
+    <price2>15986</price2>
+    <description>
+принтер, A4, печать  лазерная черно-белая, двусторонняя, 33 стр/мин ч/б, 1200x1200 dpi, подача: 300 лист., вывод: 150 лист., Post Script, память: 256 Мб, Ethernet RJ-45, USB, Wi-Fi, цветной ЖК-дисплей
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Устройство</name>
+          <value>принтер</value>
+        </item>
+        <item>
+          <name>Тип печати</name>
+          <value>черно-белая</value>
+        </item>
+        <item>
+          <name>Технология печати</name>
+          <value>лазерная</value>
+        </item>
+        <item>
+          <name>Размещение</name>
+          <value>настольный</value>
+        </item>
+        <item>
+          <name>Область применения</name>
+          <value>малый офис</value>
+        </item>
+        <item>
+          <name>Количество страниц в месяц</name>
+          <value>50000</value>
+        </item>
+      </items>
+      <items>
+        <name>Принтер</name>
+        <item>
+          <name>Максимальный формат</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Автоматическая двусторонняя печать</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение для ч/б печати</name>
+          <value>1200x1200 dpi</value>
+        </item>
+        <item>
+          <name>Скорость печати</name>
+          <value>33 стр/мин (ч/б А4)</value>
+        </item>
+        <item>
+          <name>Время выхода первого отпечатка</name>
+          <value>8 c (ч/б)</value>
+        </item>
+      </items>
+      <items>
+        <name>Лотки</name>
+        <item>
+          <name>Подача бумаги</name>
+          <value>300 лист. (стандартная), 800 лист. (максимальная)</value>
+        </item>
+        <item>
+          <name>Вывод бумаги</name>
+          <value>150 лист. (стандартный)</value>
+        </item>
+        <item>
+          <name>Емкость лотка ручной подачи</name>
+          <value>50 лист.</value>
+        </item>
+      </items>
+      <items>
+        <name>Расходные материалы</name>
+        <item>
+          <name>Плотность бумаги</name>
+          <value>60-163 г/м2</value>
+        </item>
+        <item>
+          <name>Печать на:</name>
+          <value>карточках, пленках, этикетках, глянцевой бумаге, конвертах, матовой бумаге</value>
+        </item>
+        <item>
+          <name>Ресурс ч/б картриджа/тонера</name>
+          <value>2700 страниц</value>
+        </item>
+        <item>
+          <name>Количество картриджей</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Тип картриджа/тонера</name>
+          <value>HP 80A LaserJet CF280A, 80X LaserJet CF280X (увел.)</value>
+        </item>
+      </items>
+      <items>
+        <name>Память/Процессор</name>
+        <item>
+          <name>Объем памяти</name>
+          <value>256 Мб, максимальный 256 Мб </value>
+        </item>
+        <item>
+          <name>Частота процессора</name>
+          <value>800 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Ethernet (RJ-45), Wi-Fi, 802.11n, USB 2.0</value>
+        </item>
+        <item>
+          <name>Прямая печать</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Веб-интерфейс</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Шрифты и языки управления</name>
+        <item>
+          <name>Поддержка PostScript</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка</name>
+          <value>PostScript 3, PCL 5e, PCL 5c, PCL 6, PDF</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows, Linux, Mac OS</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>цветной ЖК-дисплей</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (при работе)</name>
+          <value>570 Вт</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность (в режиме ожидания)</name>
+          <value>8 Вт</value>
+        </item>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>365x271x368 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>11 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

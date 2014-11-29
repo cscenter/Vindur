@@ -1,0 +1,1684 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="20">
+    <title>iRobot Roomba 780</title>
+    <model>Roomba 780</model>
+    <marka>iRobot</marka>
+    <catalog id="176217">Пылесосы</catalog>
+    
+    <price1>21380</price1>
+    <price2>33100</price2>
+    <description>
+
+
+робот, уборка: сухая, без мешка для сбора пыли (циклон), вес 3.7 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>робот</value>
+        </item>
+        <item>
+          <name>Уборка</name>
+          <value>сухая</value>
+        </item>
+        <item>
+          <name>Пылесборник</name>
+          <value>циклонный фильтр</value>
+        </item>
+        <item>
+          <name>Регулятор мощности</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Фильтр тонкой очистки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Источник питания</name>
+          <value>аккумулятор</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>NiMH, емкостью 3000 мА*ч, время зарядки 180 мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Функции и возможности</name>
+          <value>индикатор заполнения пылесборника</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.7 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>сенсорное управление; 2 автоматические виртуальных стены-маяка, способных разграничивать комнаты; 2 НЕРА-фильтра; ручка для переноски; бампер из мягкого полимера предохраняет от повреждения мебель и стены; 3-ступенчатая система очистки, которая, автоматически приспосабливается к различным поверхностям (плитка, ковер, линолеум, ламинат)</value>
+        </item>
+      </items>
+      <items>
+        <name>Робот</name>
+        <item>
+          <name>Датчики</name>
+          <value>ультразвуковые</value>
+        </item>
+        <item>
+          <name>Ограничитель зоны уборки</name>
+          <value>виртуальная стена</value>
+        </item>
+        <item>
+          <name>Режимы уборки</name>
+          <value>местная уборка</value>
+        </item>
+        <item>
+          <name>Особенности робота</name>
+          <value>пульт ДУ, боковая щетка, ограничение времени уборки, программирование по дням недели, таймер</value>
+        </item>
+        <item>
+          <name>Установка на зарядное устройство</name>
+          <value>автоматическая</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="21">
+    <title>iRobot Roomba 564</title>
+    <model>Roomba 564</model>
+    <marka>iRobot</marka>
+    <catalog id="176217">Пылесосы</catalog>
+    
+    <price1>20850</price1>
+    <price2>23700</price2>
+    <description>
+
+
+робот, уборка: сухая, без мешка для сбора пыли (циклон), турбощётка в комплекте, вес 2.9 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>робот</value>
+        </item>
+        <item>
+          <name>Уборка</name>
+          <value>сухая</value>
+        </item>
+        <item>
+          <name>Пылесборник</name>
+          <value>циклонный фильтр, емкостью 0.50 л</value>
+        </item>
+        <item>
+          <name>Регулятор мощности</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Фильтр тонкой очистки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Источник питания</name>
+          <value>аккумулятор</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>емкостью 3000 мА*ч, время зарядки 120 мин, время работы 120 мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Размеры пылесоса (ШxГxВ)</name>
+          <value>34x34x9 cм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.9 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>пылесос для уборки шерсти домашних животных; 2 виртуальные стены в комплекте; 2 запасных фильтра; 2 запасные щетки; запасная боковая щетка; 2 инструмента для чистки щёток; дополнительный контейнер для мусора повышенной вместительности</value>
+        </item>
+      </items>
+      <items>
+        <name>Трубки и насадки</name>
+        <item>
+          <name>Электрощетка в комплекте</name>
+          <value> да</value>
+        </item>
+      </items>
+      <items>
+        <name>Робот</name>
+        <item>
+          <name>Ограничитель зоны уборки</name>
+          <value>виртуальная стена</value>
+        </item>
+        <item>
+          <name>Режимы движения</name>
+          <value>вдоль стен</value>
+        </item>
+        <item>
+          <name>Особенности робота</name>
+          <value>боковая щетка, программирование по дням недели, таймер</value>
+        </item>
+        <item>
+          <name>Установка на зарядное устройство</name>
+          <value>автоматическая</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="22">
+    <title>iRobot Roomba 770</title>
+    <model>Roomba 770</model>
+    <marka>iRobot</marka>
+    <catalog id="176217">Пылесосы</catalog>
+    
+    <price1>19990</price1>
+    <price2>25400</price2>
+    <description>
+
+
+робот, уборка: сухая, без мешка для сбора пыли (циклон), вес 3.7 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>робот</value>
+        </item>
+        <item>
+          <name>Уборка</name>
+          <value>сухая</value>
+        </item>
+        <item>
+          <name>Пылесборник</name>
+          <value>циклонный фильтр</value>
+        </item>
+        <item>
+          <name>Регулятор мощности</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Фильтр тонкой очистки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Источник питания</name>
+          <value>аккумулятор</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>NiMH, емкостью 3000 мА*ч, время зарядки 180 мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Функции и возможности</name>
+          <value>индикатор заполнения пылесборника</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.7 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>2 НЕРА-фильтра; ручка для переноски; бампер из мягкого полимера предохраняет от повреждения мебель и стены; 3-ступенчатая система очистки, которая, автоматически приспосабливается к различным поверхностям (плитка, ковер, линолеум, ламинат)</value>
+        </item>
+      </items>
+      <items>
+        <name>Робот</name>
+        <item>
+          <name>Датчики</name>
+          <value>ультразвуковые</value>
+        </item>
+        <item>
+          <name>Ограничитель зоны уборки</name>
+          <value>виртуальная стена</value>
+        </item>
+        <item>
+          <name>Режимы уборки</name>
+          <value>местная уборка</value>
+        </item>
+        <item>
+          <name>Особенности робота</name>
+          <value>пульт ДУ, боковая щетка, программирование по дням недели</value>
+        </item>
+        <item>
+          <name>Установка на зарядное устройство</name>
+          <value>автоматическая</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="24">
+    <title>iRobot Roomba 581</title>
+    <model>Roomba 581</model>
+    <marka>iRobot</marka>
+    <catalog id="176217">Пылесосы</catalog>
+    
+    <price1>17500</price1>
+    <price2>27800</price2>
+    <description>
+
+
+робот, уборка: сухая, без мешка для сбора пыли (циклон), вес 3.8 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>робот</value>
+        </item>
+        <item>
+          <name>Уборка</name>
+          <value>сухая</value>
+        </item>
+        <item>
+          <name>Пылесборник</name>
+          <value>циклонный фильтр</value>
+        </item>
+        <item>
+          <name>Регулятор мощности</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Фильтр тонкой очистки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Источник питания</name>
+          <value>аккумулятор</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>NiMH, емкостью 1500 мА*ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Размеры пылесоса (ШxГxВ)</name>
+          <value>34x34x9.5 cм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.8 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>3 виртуальных стены в комплекте; система против запутывания; пластиковая цилиндрическая гребенка для очистки основной щетки</value>
+        </item>
+      </items>
+      <items>
+        <name>Трубки и насадки</name>
+        <item>
+          <name>Дополнительные насадки в комплекте</name>
+          <value>основная; щетинистая щетка; резиновая щетка</value>
+        </item>
+      </items>
+      <items>
+        <name>Робот</name>
+        <item>
+          <name>Датчики</name>
+          <value>оптические</value>
+        </item>
+        <item>
+          <name>Ограничитель зоны уборки</name>
+          <value>виртуальная стена</value>
+        </item>
+        <item>
+          <name>Режимы движения</name>
+          <value>по спирали, зигзагом, вдоль стен</value>
+        </item>
+        <item>
+          <name>Режимы уборки</name>
+          <value>местная уборка</value>
+        </item>
+        <item>
+          <name>Особенности робота</name>
+          <value>пульт ДУ, боковая щетка, расчет времени уборки, программирование по дням недели</value>
+        </item>
+        <item>
+          <name>Установка на зарядное устройство</name>
+          <value>автоматическая</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="25">
+    <title>iRobot Roomba 521</title>
+    <model>Roomba 521</model>
+    <marka>iRobot</marka>
+    <catalog id="176217">Пылесосы</catalog>
+    
+    <price1>12850</price1>
+    <price2>12900</price2>
+    <description>
+
+
+робот, уборка: сухая, без мешка для сбора пыли (циклон), вес 3.8 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>робот</value>
+        </item>
+        <item>
+          <name>Уборка</name>
+          <value>сухая</value>
+        </item>
+        <item>
+          <name>Пылесборник</name>
+          <value>циклонный фильтр, емкостью 1 л</value>
+        </item>
+        <item>
+          <name>Регулятор мощности</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Фильтр тонкой очистки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Источник питания</name>
+          <value>аккумулятор</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Размеры пылесоса (ШxГxВ)</name>
+          <value>34x34x9.5 cм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.8 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>для сухой уборки напольных покрытий: плитки, ламината, паркета, ковров с коротким ворсом; пластиковая цилиндрическая гребенка для чистки основной щетки; пульт ДУ - доп. опция; русифицированный модуль</value>
+        </item>
+      </items>
+      <items>
+        <name>Робот</name>
+        <item>
+          <name>Датчики</name>
+          <value>оптические</value>
+        </item>
+        <item>
+          <name>Особенности робота</name>
+          <value>боковая щетка</value>
+        </item>
+        <item>
+          <name>Установка на зарядное устройство</name>
+          <value>автоматическая</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="30">
+    <title>iRobot Scooba 385</title>
+    <model>Scooba 385</model>
+    <marka>iRobot</marka>
+    <catalog id="176217">Пылесосы</catalog>
+    
+    <price1>19900</price1>
+    <price2>22400</price2>
+    <description>
+
+
+робот, уборка: влажная, без мешка для сбора пыли (циклон), вес 3 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>робот</value>
+        </item>
+        <item>
+          <name>Уборка</name>
+          <value>влажная</value>
+        </item>
+        <item>
+          <name>Пылесборник</name>
+          <value>циклонный фильтр, емкостью 1 л</value>
+        </item>
+        <item>
+          <name>Регулятор мощности</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Источник питания</name>
+          <value>аккумулятор</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>NiMH, время зарядки 240 мин, время работы 120 мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Функции и возможности</name>
+          <value>индикатор заполнения пылесборника</value>
+        </item>
+        <item>
+          <name>Размеры пылесоса (ШxГxВ)</name>
+          <value>37x37x9 cм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>бак чистой воды 1 л; предназначен для кафельных полов, линолеума и водостойких деревянных полов; в комплект входит мерный стакан; 1 виртуальная стена в комплекте; обработка 80 кв.м покрытия одним зарядом батареи</value>
+        </item>
+      </items>
+      <items>
+        <name>Робот</name>
+        <item>
+          <name>Датчики</name>
+          <value>оптические</value>
+        </item>
+        <item>
+          <name>Ограничитель зоны уборки</name>
+          <value>виртуальная стена</value>
+        </item>
+        <item>
+          <name>Режимы движения</name>
+          <value>по спирали, зигзагом, вдоль стен</value>
+        </item>
+        <item>
+          <name>Режимы уборки</name>
+          <value>местная уборка</value>
+        </item>
+        <item>
+          <name>Установка на зарядное устройство</name>
+          <value>ручная</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="31">
+    <title>iRobot Roomba 760</title>
+    <model>Roomba 760</model>
+    <marka>iRobot</marka>
+    <catalog id="176217">Пылесосы</catalog>
+    
+    <price1>18750</price1>
+    <price2>23385</price2>
+    <description>
+
+
+робот, уборка: сухая, без мешка для сбора пыли (циклон)
+
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>робот</value>
+        </item>
+        <item>
+          <name>Уборка</name>
+          <value>сухая</value>
+        </item>
+        <item>
+          <name>Пылесборник</name>
+          <value>циклонный фильтр</value>
+        </item>
+        <item>
+          <name>Регулятор мощности</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Фильтр тонкой очистки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Источник питания</name>
+          <value>аккумулятор</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>NiMH, емкостью 3000 мА*ч, время зарядки 180 мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>ручка для переноски; бампер из мягкого полимера предохраняет от повреждения мебель и стены</value>
+        </item>
+      </items>
+      <items>
+        <name>Робот</name>
+        <item>
+          <name>Датчики</name>
+          <value>оптические</value>
+        </item>
+        <item>
+          <name>Ограничитель зоны уборки</name>
+          <value>виртуальная стена</value>
+        </item>
+        <item>
+          <name>Режимы уборки</name>
+          <value>местная уборка</value>
+        </item>
+        <item>
+          <name>Особенности робота</name>
+          <value>пульт ДУ, боковая щетка, программирование по дням недели, таймер</value>
+        </item>
+        <item>
+          <name>Установка на зарядное устройство</name>
+          <value>автоматическая</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="32">
+    <title>Thomas TWIN T2 Aquafilter</title>
+    <model>TWIN T2 Aquafilter</model>
+    <marka>Thomas</marka>
+    <catalog id="176217">Пылесосы</catalog>
+    
+    <price1>15378</price1>
+    <price2>25910</price2>
+    <description>
+
+
+обычный, уборка: сухая / влажная, без мешка для сбора пыли (аквафильтр), мощность 1700 Вт, регулятор мощности на корпусе, вес 10 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>обычный</value>
+        </item>
+        <item>
+          <name>Уборка</name>
+          <value>сухая / влажная</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>1700 Вт</value>
+        </item>
+        <item>
+          <name>Пылесборник</name>
+          <value>аквафильтр</value>
+        </item>
+        <item>
+          <name>Регулятор мощности</name>
+          <value>на корпусе</value>
+        </item>
+        <item>
+          <name>Фильтр тонкой очистки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Источник питания</name>
+          <value>сеть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Уровень шума</name>
+          <value>86 дБ</value>
+        </item>
+        <item>
+          <name>Длина сетевого шнура</name>
+          <value>6 м</value>
+        </item>
+        <item>
+          <name>Функции и возможности</name>
+          <value>индикатор заполнения пылесборника,  автосматывание сетевого шнура,  ножной переключатель вкл./выкл. на корпусе,  вертикальная парковка трубы всасывания на корпусе пылесоса</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>10 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>радиус действия 10м; съёмный резервуар для моющего раствора 2.4л; насос, обеспечивающий давление  моющего раствора 4 бара; механическое регулирование распыляемой жидкости</value>
+        </item>
+      </items>
+      <items>
+        <name>Трубки и насадки</name>
+        <item>
+          <name>Труба всасывания</name>
+          <value>телескопическая</value>
+        </item>
+        <item>
+          <name>Возможность подключения электрощетки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные насадки в комплекте</name>
+          <value>щетка пол/ковер; для мягкой мебели; щелевая; кисточка для корпусной мебели и аппаратуры; сифонная; распылительная для влажной чистки ковров с адаптером для твердых напольных покрытий; распылительная для влажной чистки мягкой мебели; адаптер для мытья окон</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="35">
+    <title>Samsung SC4141</title>
+    <model>SC4141</model>
+    <marka>Samsung</marka>
+    <catalog id="176217">Пылесосы</catalog>
+    
+    <price1>2140</price1>
+    <price2>2950</price2>
+    <description>
+
+
+обычный, уборка: сухая, с мешком для сбора пыли, мощность 1600 Вт, мощность всасывания 320 Вт, регулятор мощности на корпусе, 5-ступенчатая система фильтрации, вес 4 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>обычный</value>
+        </item>
+        <item>
+          <name>Уборка</name>
+          <value>сухая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>1600 Вт</value>
+        </item>
+        <item>
+          <name>Мощность всасывания</name>
+          <value>320 Вт</value>
+        </item>
+        <item>
+          <name>Пылесборник</name>
+          <value>мешок</value>
+        </item>
+        <item>
+          <name>Регулятор мощности</name>
+          <value>на корпусе</value>
+        </item>
+        <item>
+          <name>Число ступеней фильтрации</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Фильтр тонкой очистки</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Длина сетевого шнура</name>
+          <value>6 м</value>
+        </item>
+        <item>
+          <name>Функции и возможности</name>
+          <value>индикатор заполнения пылесборника,  автосматывание сетевого шнура,  ножной переключатель вкл./выкл. на корпусе,  вертикальная парковка трубы всасывания на корпусе пылесоса</value>
+        </item>
+        <item>
+          <name>Размеры пылесоса (ШxГxВ)</name>
+          <value>27.5x23x36.5 cм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>поворот шланга на 360°; радиус действия 9,2 м.</value>
+        </item>
+      </items>
+      <items>
+        <name>Трубки и насадки</name>
+        <item>
+          <name>Труба всасывания</name>
+          <value>телескопическая</value>
+        </item>
+        <item>
+          <name>Дополнительные насадки в комплекте</name>
+          <value>щетка ковер/пол; щетка для чистки щелей; щетка для мебели</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="37">
+    <title>Samsung SC6650</title>
+    <model>SC6650</model>
+    <marka>Samsung</marka>
+    <catalog id="176217">Пылесосы</catalog>
+    
+    <price1>5160</price1>
+    <price2>6260</price2>
+    <description>
+
+
+обычный, уборка: сухая, без мешка для сбора пыли (циклон), мощность 1800 Вт, мощность всасывания 380 Вт, регулятор мощности на рукоятке (дистанционное управление), турбощётка в комплекте, вес 5.3 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>обычный</value>
+        </item>
+        <item>
+          <name>Уборка</name>
+          <value>сухая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>1800 Вт</value>
+        </item>
+        <item>
+          <name>Мощность всасывания</name>
+          <value>380 Вт</value>
+        </item>
+        <item>
+          <name>Пылесборник</name>
+          <value>циклонный фильтр, емкостью 1.40 л</value>
+        </item>
+        <item>
+          <name>Регулятор мощности</name>
+          <value>на рукоятке (дистанционное управление)</value>
+        </item>
+        <item>
+          <name>Фильтр тонкой очистки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Источник питания</name>
+          <value>сеть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Функции и возможности</name>
+          <value>индикатор заполнения пылесборника,  автосматывание сетевого шнура</value>
+        </item>
+        <item>
+          <name>Размеры пылесоса (ШxГxВ)</name>
+          <value>28.3x42.4x25.2 cм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>5.3 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>радиус действия 9,2 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Трубки и насадки</name>
+        <item>
+          <name>Труба всасывания</name>
+          <value>телескопическая</value>
+        </item>
+        <item>
+          <name>Турбощетка в комплекте</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные насадки в комплекте</name>
+          <value>стандартная щетка; щетка для чистки щелей; щетка для мебели</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="38">
+    <title>Samsung SC5640</title>
+    <model>SC5640</model>
+    <marka>Samsung</marka>
+    <catalog id="176217">Пылесосы</catalog>
+    
+    <price1>1987</price1>
+    <price2>2990</price2>
+    <description>
+
+
+обычный, уборка: сухая, с мешком для сбора пыли, мощность 1600 Вт, мощность всасывания 360 Вт, регулятор мощности на корпусе, вес 4.4 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>обычный</value>
+        </item>
+        <item>
+          <name>Уборка</name>
+          <value>сухая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>1600 Вт</value>
+        </item>
+        <item>
+          <name>Мощность всасывания</name>
+          <value>360 Вт</value>
+        </item>
+        <item>
+          <name>Пылесборник</name>
+          <value>мешок, емкостью 3.50 л</value>
+        </item>
+        <item>
+          <name>Регулятор мощности</name>
+          <value>на корпусе</value>
+        </item>
+        <item>
+          <name>Фильтр тонкой очистки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Источник питания</name>
+          <value>сеть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Уровень шума</name>
+          <value>78 дБ</value>
+        </item>
+        <item>
+          <name>Функции и возможности</name>
+          <value>индикатор заполнения пылесборника,  автосматывание сетевого шнура,  ножной переключатель вкл./выкл. на корпусе</value>
+        </item>
+        <item>
+          <name>Размеры пылесоса (ШxГxВ)</name>
+          <value>29x45x25 cм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4.4 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Трубки и насадки</name>
+        <item>
+          <name>Труба всасывания</name>
+          <value>телескопическая</value>
+        </item>
+        <item>
+          <name>Возможность подключения электрощетки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные насадки в комплекте</name>
+          <value>набор Power Pet</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="42">
+    <title>Bosch BSA 3125 RU</title>
+    <model>BSA 3125 RU</model>
+    <marka>Bosch</marka>
+    <catalog id="176217">Пылесосы</catalog>
+    
+    <price1>3750</price1>
+    <price2>6670</price2>
+    <description>
+
+
+обычный, уборка: сухая, с мешком для сбора пыли, мощность 2100 Вт, регулятор мощности на корпусе, турбощётка в комплекте
+
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>обычный</value>
+        </item>
+        <item>
+          <name>Уборка</name>
+          <value>сухая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>2100 Вт</value>
+        </item>
+        <item>
+          <name>Мощность всасывания</name>
+          <value>300 Вт</value>
+        </item>
+        <item>
+          <name>Пылесборник</name>
+          <value>мешок, емкостью 3.50 л</value>
+        </item>
+        <item>
+          <name>Регулятор мощности</name>
+          <value>на корпусе</value>
+        </item>
+        <item>
+          <name>Источник питания</name>
+          <value>сеть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Функции и возможности</name>
+          <value>индикатор заполнения пылесборника,  автосматывание сетевого шнура,  ножной переключатель вкл./выкл. на корпусе</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>радиус действия 8 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Трубки и насадки</name>
+        <item>
+          <name>Труба всасывания</name>
+          <value>телескопическая</value>
+        </item>
+        <item>
+          <name>Турбощетка в комплекте</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные насадки в комплекте</name>
+          <value>пол/ковер; щелевая; для мягкой мебели</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="43">
+    <title>Samsung SC5135</title>
+    <model>SC5135</model>
+    <marka>Samsung</marka>
+    <catalog id="176217">Пылесосы</catalog>
+    
+    <price1>2640</price1>
+    <price2>2982</price2>
+    <description>
+
+
+обычный, уборка: сухая, с мешком для сбора пыли, мощность 1600 Вт, мощность всасывания 400 Вт, регулятор мощности на рукоятке (дистанционное управление), 4-ступенчатая система фильтрации, вес 4.3 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>обычный</value>
+        </item>
+        <item>
+          <name>Уборка</name>
+          <value>сухая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>1600 Вт</value>
+        </item>
+        <item>
+          <name>Мощность всасывания</name>
+          <value>400 Вт</value>
+        </item>
+        <item>
+          <name>Пылесборник</name>
+          <value>мешок, емкостью 2.40 л</value>
+        </item>
+        <item>
+          <name>Регулятор мощности</name>
+          <value>на рукоятке (дистанционное управление)</value>
+        </item>
+        <item>
+          <name>Число ступеней фильтрации</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Фильтр тонкой очистки</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Длина сетевого шнура</name>
+          <value>6 м</value>
+        </item>
+        <item>
+          <name>Функции и возможности</name>
+          <value>индикатор заполнения пылесборника,  автосматывание сетевого шнура</value>
+        </item>
+        <item>
+          <name>Размеры пылесоса (ШxГxВ)</name>
+          <value>37x38.1x23 cм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4.3 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>Радиус действия 9.2 м.</value>
+        </item>
+      </items>
+      <items>
+        <name>Трубки и насадки</name>
+        <item>
+          <name>Труба всасывания</name>
+          <value>телескопическая</value>
+        </item>
+        <item>
+          <name>Дополнительные насадки в комплекте</name>
+          <value>Pet Brush; щетка для чистки щелей; щетка для мебели</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="45">
+    <title>Samsung SC6340</title>
+    <model>SC6340</model>
+    <marka>Samsung</marka>
+    <catalog id="176217">Пылесосы</catalog>
+    
+    <price1>5530</price1>
+    <price2>7294</price2>
+    <description>
+
+
+обычный, уборка: сухая, с мешком для сбора пыли, мощность 2000 Вт, мощность всасывания 400 Вт, регулятор мощности на рукоятке (дистанционное управление), регулятор мощности на корпусе, вес 6 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>обычный</value>
+        </item>
+        <item>
+          <name>Уборка</name>
+          <value>сухая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>2000 Вт</value>
+        </item>
+        <item>
+          <name>Мощность всасывания</name>
+          <value>400 Вт</value>
+        </item>
+        <item>
+          <name>Пылесборник</name>
+          <value>мешок, емкостью 3 л</value>
+        </item>
+        <item>
+          <name>Регулятор мощности</name>
+          <value>на рукоятке (дистанционное управление) / на корпусе</value>
+        </item>
+        <item>
+          <name>Источник питания</name>
+          <value>сеть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Уровень шума</name>
+          <value>67 дБ</value>
+        </item>
+        <item>
+          <name>Функции и возможности</name>
+          <value>индикатор заполнения пылесборника,  автосматывание сетевого шнура,  ножной переключатель вкл./выкл. на корпусе</value>
+        </item>
+        <item>
+          <name>Размеры пылесоса (ШxГxВ)</name>
+          <value>44.5x24x28.8 cм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Трубки и насадки</name>
+        <item>
+          <name>Труба всасывания</name>
+          <value>телескопическая</value>
+        </item>
+        <item>
+          <name>Дополнительные насадки в комплекте</name>
+          <value>стандартная щетка; щетка для мебели; мягкая щетка; щетка для чистки щелей</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="46">
+    <title>Bosch BSG 82425</title>
+    <model>BSG 82425</model>
+    <marka>Bosch</marka>
+    <catalog id="176217">Пылесосы</catalog>
+    
+    <price1>7549</price1>
+    <price2>9590</price2>
+    <description>
+
+
+обычный, уборка: сухая, с мешком для сбора пыли, мощность 2400 Вт, регулятор мощности на корпусе, вес 6.1 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>обычный</value>
+        </item>
+        <item>
+          <name>Уборка</name>
+          <value>сухая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>2400 Вт</value>
+        </item>
+        <item>
+          <name>Пылесборник</name>
+          <value>мешок, емкостью 6 л</value>
+        </item>
+        <item>
+          <name>Регулятор мощности</name>
+          <value>на корпусе</value>
+        </item>
+        <item>
+          <name>Фильтр тонкой очистки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Источник питания</name>
+          <value>сеть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Функции и возможности</name>
+          <value>индикатор заполнения пылесборника,  автосматывание сетевого шнура,  вертикальная парковка трубы всасывания на корпусе пылесоса</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6.1 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>радиус действия 13 м; плавный старт двигателя</value>
+        </item>
+      </items>
+      <items>
+        <name>Трубки и насадки</name>
+        <item>
+          <name>Труба всасывания</name>
+          <value>телескопическая</value>
+        </item>
+        <item>
+          <name>Дополнительные насадки в комплекте</name>
+          <value>щетка для пола ProAnimal Hair; щетка для мягкой мебели; роликовая щетка ковер/пол 280 мм; интегрированная 4 в 1(для мягкой мебели, для корпусной мебели, раздвижная щелевая)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47">
+    <title>Philips FC 9170</title>
+    <model>FC 9170</model>
+    <marka>Philips</marka>
+    <catalog id="176217">Пылесосы</catalog>
+    
+    <price1>6500</price1>
+    <price2>11590</price2>
+    <description>
+
+
+обычный, уборка: сухая, с мешком для сбора пыли, мощность 2200 Вт, мощность всасывания 500 Вт, регулятор мощности на корпусе, вес 6.3 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>обычный</value>
+        </item>
+        <item>
+          <name>Уборка</name>
+          <value>сухая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>2200 Вт</value>
+        </item>
+        <item>
+          <name>Мощность всасывания</name>
+          <value>500 Вт</value>
+        </item>
+        <item>
+          <name>Пылесборник</name>
+          <value>мешок, емкостью 4 л</value>
+        </item>
+        <item>
+          <name>Регулятор мощности</name>
+          <value>на корпусе</value>
+        </item>
+        <item>
+          <name>Фильтр тонкой очистки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Источник питания</name>
+          <value>сеть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Уровень шума</name>
+          <value>78 дБ</value>
+        </item>
+        <item>
+          <name>Длина сетевого шнура</name>
+          <value>9 м</value>
+        </item>
+        <item>
+          <name>Функции и возможности</name>
+          <value>индикатор заполнения пылесборника,  автосматывание сетевого шнура,  ножной переключатель вкл./выкл. на корпусе</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6.3 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Трубки и насадки</name>
+        <item>
+          <name>Труба всасывания</name>
+          <value>телескопическая</value>
+        </item>
+        <item>
+          <name>Дополнительные насадки в комплекте</name>
+          <value>универсальная Tri-Active; щётка; для щелей; маленькая</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48">
+    <title>Philips FC 9071</title>
+    <model>FC 9071</model>
+    <marka>Philips</marka>
+    <catalog id="176217">Пылесосы</catalog>
+    
+    <price1>4699</price1>
+    <price2>11186</price2>
+    <description>
+
+
+обычный, уборка: сухая, с мешком для сбора пыли, мощность 2000 Вт, мощность всасывания 450 Вт, регулятор мощности на корпусе, вес 5.7 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>обычный</value>
+        </item>
+        <item>
+          <name>Уборка</name>
+          <value>сухая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>2000 Вт</value>
+        </item>
+        <item>
+          <name>Мощность всасывания</name>
+          <value>450 Вт</value>
+        </item>
+        <item>
+          <name>Пылесборник</name>
+          <value>мешок, емкостью 3 л</value>
+        </item>
+        <item>
+          <name>Регулятор мощности</name>
+          <value>на корпусе</value>
+        </item>
+        <item>
+          <name>Фильтр тонкой очистки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Источник питания</name>
+          <value>сеть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Уровень шума</name>
+          <value>77 дБ</value>
+        </item>
+        <item>
+          <name>Длина сетевого шнура</name>
+          <value>7 м</value>
+        </item>
+        <item>
+          <name>Функции и возможности</name>
+          <value>индикатор заполнения пылесборника,  автосматывание сетевого шнура,  ножной переключатель вкл./выкл. на корпусе,  вертикальная парковка трубы всасывания на корпусе пылесоса, функция ароматизации, место для хранения насадок</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>5.7 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>фильтр НЕРА13; радиус действия 10м</value>
+        </item>
+      </items>
+      <items>
+        <name>Трубки и насадки</name>
+        <item>
+          <name>Труба всасывания</name>
+          <value>телескопическая</value>
+        </item>
+        <item>
+          <name>Дополнительные насадки в комплекте</name>
+          <value>пол/ковер Tri-Active; для чистки щелей; маленькая</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="51">
+    <title>Samsung SC9540</title>
+    <model>SC9540</model>
+    <marka>Samsung</marka>
+    <catalog id="176217">Пылесосы</catalog>
+    
+    <price1>6620</price1>
+    <price2>8940</price2>
+    <description>
+
+
+обычный, уборка: сухая, без мешка для сбора пыли (циклон), мощность 1800 Вт, мощность всасывания 360 Вт, регулятор мощности на рукоятке (дистанционное управление), регулятор мощности на корпусе, вес 6.9 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>обычный</value>
+        </item>
+        <item>
+          <name>Уборка</name>
+          <value>сухая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>1800 Вт</value>
+        </item>
+        <item>
+          <name>Мощность всасывания</name>
+          <value>360 Вт</value>
+        </item>
+        <item>
+          <name>Пылесборник</name>
+          <value>циклонный фильтр, емкостью 1.50 л</value>
+        </item>
+        <item>
+          <name>Регулятор мощности</name>
+          <value>на рукоятке (дистанционное управление) / на корпусе</value>
+        </item>
+        <item>
+          <name>Фильтр тонкой очистки</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Функции и возможности</name>
+          <value>индикатор заполнения пылесборника,  автосматывание сетевого шнура</value>
+        </item>
+        <item>
+          <name>Размеры пылесоса (ШxГxВ)</name>
+          <value>29.5x44x27 cм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6.9 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>радиус действия 10,5 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Трубки и насадки</name>
+        <item>
+          <name>Труба всасывания</name>
+          <value>телескопическая</value>
+        </item>
+        <item>
+          <name>Дополнительные насадки в комплекте</name>
+          <value>стандартная щетка Smart Deluxe; щетка для чистки щелей; щетка для мебели</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="52">
+    <title>Bosch BSG 61800</title>
+    <model>BSG 61800</model>
+    <marka>Bosch</marka>
+    <catalog id="176217">Пылесосы</catalog>
+    
+    <price1>2900</price1>
+    <price2>3944</price2>
+    <description>
+
+
+обычный, уборка: сухая, с мешком для сбора пыли, мощность 1800 Вт, регулятор мощности на корпусе
+
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>обычный</value>
+        </item>
+        <item>
+          <name>Уборка</name>
+          <value>сухая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>1800 Вт</value>
+        </item>
+        <item>
+          <name>Пылесборник</name>
+          <value>мешок</value>
+        </item>
+        <item>
+          <name>Регулятор мощности</name>
+          <value>на корпусе</value>
+        </item>
+        <item>
+          <name>Источник питания</name>
+          <value>сеть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Функции и возможности</name>
+          <value> автосматывание сетевого шнура,  вертикальная парковка трубы всасывания на корпусе пылесоса</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>радиус действия 10 м; сменный пылесборник MEGAfilt SuperTEX</value>
+        </item>
+      </items>
+      <items>
+        <name>Трубки и насадки</name>
+        <item>
+          <name>Труба всасывания</name>
+          <value>телескопическая</value>
+        </item>
+        <item>
+          <name>Дополнительные насадки в комплекте</name>
+          <value>щетка ковер/ пол; для чистки щелей; для мягкой мебели</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="53">
+    <title>Samsung SC5491</title>
+    <model>SC5491</model>
+    <marka>Samsung</marka>
+    <catalog id="176217">Пылесосы</catalog>
+    
+    <price1>3418</price1>
+    <price2>4600</price2>
+    <description>
+
+
+обычный, уборка: сухая, с мешком для сбора пыли, мощность 2100 Вт, мощность всасывания 460 Вт, регулятор мощности на рукоятке (дистанционное управление)
+
+
+</description>
+    <specification>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>обычный</value>
+        </item>
+        <item>
+          <name>Уборка</name>
+          <value>сухая</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>2100 Вт</value>
+        </item>
+        <item>
+          <name>Мощность всасывания</name>
+          <value>460 Вт</value>
+        </item>
+        <item>
+          <name>Пылесборник</name>
+          <value>мешок, емкостью 2.40 л</value>
+        </item>
+        <item>
+          <name>Регулятор мощности</name>
+          <value>на рукоятке (дистанционное управление)</value>
+        </item>
+        <item>
+          <name>Фильтр тонкой очистки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Источник питания</name>
+          <value>сеть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Длина сетевого шнура</name>
+          <value>6 м</value>
+        </item>
+        <item>
+          <name>Функции и возможности</name>
+          <value>индикатор заполнения пылесборника,  автосматывание сетевого шнура,  ножной переключатель вкл./выкл. на корпусе,  вертикальная парковка трубы всасывания на корпусе пылесоса</value>
+        </item>
+        <item>
+          <name>Размеры пылесоса (ШxГxВ)</name>
+          <value>27.3x37x23.3 cм</value>
+        </item>
+      </items>
+      <items>
+        <name>Трубки и насадки</name>
+        <item>
+          <name>Труба всасывания</name>
+          <value>телескопическая</value>
+        </item>
+        <item>
+          <name>Дополнительные насадки в комплекте</name>
+          <value>пол/ковер; Pet brush</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

@@ -1,0 +1,1106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="36276">
+    <title>Sony ICF-C414</title>
+    <model>ICF-C414</model>
+    <marka>Sony</marka>
+    <catalog id="137646">Радиоприемники</catalog>
+    
+    <price1>1200</price1>
+    <price2>1900</price2>
+    <description>
+
+радиобудильник, прием: FM, СВ
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>радиобудильник</value>
+        </item>
+        <item>
+          <name>Настройка частоты</name>
+          <value>аналоговая</value>
+        </item>
+        <item>
+          <name>Прием</name>
+          <value>FM, СВ</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>дисплей</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>часы</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="36278">
+    <title>Sony ICF-C273L</title>
+    <model>ICF-C273L</model>
+    <marka>Sony</marka>
+    <catalog id="137646">Радиоприемники</catalog>
+    
+    <price1>1100</price1>
+    <price2>2059</price2>
+    <description>
+
+радиобудильник, питание от сети, фиксированных настроек: 15, прием: FM, СВ, ДВ
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>радиобудильник</value>
+        </item>
+        <item>
+          <name>Настройка частоты</name>
+          <value>цифровая</value>
+        </item>
+        <item>
+          <name>Прием</name>
+          <value>FM, ДВ, СВ</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>дисплей</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>часы</value>
+        </item>
+        <item>
+          <name>Питание от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>173х57х134 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.63 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>функция Snooze; двойной сигнал; сигнал с мелодией; обратный таймер; таймер сна; трехформатное отображение времени</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="36286">
+    <title>Sony ICF-C205</title>
+    <model>ICF-C205</model>
+    <marka>Sony</marka>
+    <catalog id="137646">Радиоприемники</catalog>
+    
+    <price1>540</price1>
+    <price2>890</price2>
+    <description>
+
+радиобудильник, элементы питания: 1x6F22 (крона), питание от сети, прием: FM, СВ
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>радиобудильник</value>
+        </item>
+        <item>
+          <name>Настройка частоты</name>
+          <value>аналоговая</value>
+        </item>
+        <item>
+          <name>Прием</name>
+          <value>FM, СВ</value>
+        </item>
+        <item>
+          <name>Количество динамиков</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>часы</value>
+        </item>
+        <item>
+          <name>Элементы питания</name>
+          <value>1x6F22 (крона)</value>
+        </item>
+        <item>
+          <name>Питание от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>146х145х69 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.555 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>таймер сна</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="36287">
+    <title>Philips AJ 3231</title>
+    <model>AJ 3231</model>
+    <marka>Philips</marka>
+    <catalog id="137646">Радиоприемники</catalog>
+    
+    <price1>925</price1>
+    <price2>1743</price2>
+    <description>
+
+радиобудильник, элементы питания: 1x6F22 (крона), питание от сети, прием: FM, СВ
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>радиобудильник</value>
+        </item>
+        <item>
+          <name>Настройка частоты</name>
+          <value>цифровая</value>
+        </item>
+        <item>
+          <name>Прием</name>
+          <value>FM, СВ</value>
+        </item>
+        <item>
+          <name>Количество динамиков</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>дисплей</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>часы</value>
+        </item>
+        <item>
+          <name>Элементы питания</name>
+          <value>1x6F22 (крона)</value>
+        </item>
+        <item>
+          <name>Питание от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>140х140х61 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.9 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>пробуждение под музыку или сигнал, два времени установки будильника, повторный звуковой сигнал, таймер отключения</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="36292">
+    <title>Sony ICF-C318</title>
+    <model>ICF-C318</model>
+    <marka>Sony</marka>
+    <catalog id="137646">Радиоприемники</catalog>
+    
+    <price1>1120</price1>
+    <price2>1249</price2>
+    <description>
+
+радиобудильник, элементы питания: 1xCR2032, питание от сети, прием: FM, СВ
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>радиобудильник</value>
+        </item>
+        <item>
+          <name>Настройка частоты</name>
+          <value>аналоговая</value>
+        </item>
+        <item>
+          <name>Прием</name>
+          <value>FM, СВ</value>
+        </item>
+        <item>
+          <name>Количество динамиков</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>часы</value>
+        </item>
+        <item>
+          <name>Элементы питания</name>
+          <value>1xCR2032</value>
+        </item>
+        <item>
+          <name>Питание от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>155х82х152 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.493 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>AM/FM, двойной режим будильника, таймер сна, дата, кнопка летнего времени, светодиодный дисплей зеленого цвета</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="36299">
+    <title>Tangent Uno</title>
+    <model>Uno</model>
+    <marka>Tangent</marka>
+    <catalog id="137646">Радиоприемники</catalog>
+    
+    <price1>7434</price1>
+    <price2>10620</price2>
+    <description>
+
+стационарный, питание от сети, прием: FM, СВ
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>стационарный</value>
+        </item>
+        <item>
+          <name>Настройка частоты</name>
+          <value>аналоговая</value>
+        </item>
+        <item>
+          <name>Прием</name>
+          <value>FM, СВ</value>
+        </item>
+        <item>
+          <name>Количество динамиков</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность звука</name>
+          <value>5 Вт</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Питание от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>125х190х133 мм</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>диапазоны AM, FM.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="36302">
+    <title>Philips AJ 7000</title>
+    <model>AJ 7000</model>
+    <marka>Philips</marka>
+    <catalog id="137646">Радиоприемники</catalog>
+    
+    <price1>1990</price1>
+    <price2>2990</price2>
+    <description>
+
+радиобудильник, питание от сети, прием: FM, СВ
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>радиобудильник</value>
+        </item>
+        <item>
+          <name>Настройка частоты</name>
+          <value>цифровая</value>
+        </item>
+        <item>
+          <name>Прием</name>
+          <value>FM, СВ</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>дисплей</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>часы</value>
+        </item>
+        <item>
+          <name>Питание от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>134х112х42 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.4 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>"мягкий" будильник, двойное время будильника, повтор сигнала будильника, алюминиевый корпус, таймер отключения</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="36306">
+    <title>Philips AJ 3551</title>
+    <model>AJ 3551</model>
+    <marka>Philips</marka>
+    <catalog id="137646">Радиоприемники</catalog>
+    
+    <price1>1119</price1>
+    <price2>1770</price2>
+    <description>
+
+радиобудильник, элементы питания: 4xAAA, питание от сети, прием: FM, СВ
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>радиобудильник</value>
+        </item>
+        <item>
+          <name>Настройка частоты</name>
+          <value>цифровая</value>
+        </item>
+        <item>
+          <name>Прием</name>
+          <value>FM, СВ</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>дисплей</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>часы</value>
+        </item>
+        <item>
+          <name>Элементы питания</name>
+          <value>4xAAA</value>
+        </item>
+        <item>
+          <name>Питание от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>172х92х63 мм</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>повтор будильника через 24 часа, таймер отключения</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="36307">
+    <title>Philips AJ 1003</title>
+    <model>AJ 1003</model>
+    <marka>Philips</marka>
+    <catalog id="137646">Радиоприемники</catalog>
+    
+    <price1>910</price1>
+    <price2>2388</price2>
+    <description>
+
+радиобудильник, питание от сети, фиксированных настроек: 20, прием: FM
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>радиобудильник</value>
+        </item>
+        <item>
+          <name>Настройка частоты</name>
+          <value>цифровая</value>
+        </item>
+        <item>
+          <name>Прием</name>
+          <value>FM</value>
+        </item>
+        <item>
+          <name>Количество динамиков</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>дисплей</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>часы</value>
+        </item>
+        <item>
+          <name>Питание от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>185х52х85 мм</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>пробуждение под радио или сигнал, повтор сигнала, время двойного будильника, мягкий будильник, таймер сна</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="36308">
+    <title>Philips AJ 3123</title>
+    <model>AJ 3123</model>
+    <marka>Philips</marka>
+    <catalog id="137646">Радиоприемники</catalog>
+    
+    <price1>515</price1>
+    <price2>1120</price2>
+    <description>
+
+радиобудильник, элементы питания: 1x6F22 (крона), питание от сети, фиксированных настроек: 10, прием: FM
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>радиобудильник</value>
+        </item>
+        <item>
+          <name>Настройка частоты</name>
+          <value>цифровая</value>
+        </item>
+        <item>
+          <name>Прием</name>
+          <value>FM</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>дисплей</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>часы</value>
+        </item>
+        <item>
+          <name>Элементы питания</name>
+          <value>1x6F22 (крона)</value>
+        </item>
+        <item>
+          <name>Питание от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>177х48х123 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.53 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>повтор будильника через 24 часа, пробуждение под радио/сигнал, повтор сигнала (после пробуждения), таймер отключения</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="36310">
+    <title>Sony ICF-C218</title>
+    <model>ICF-C218</model>
+    <marka>Sony</marka>
+    <catalog id="137646">Радиоприемники</catalog>
+    
+    <price1>740</price1>
+    <price2>1097</price2>
+    <description>
+
+радиобудильник, элементы питания: 1xCR2032, питание от сети, прием: FM, СВ
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>радиобудильник</value>
+        </item>
+        <item>
+          <name>Настройка частоты</name>
+          <value>аналоговая</value>
+        </item>
+        <item>
+          <name>Прием</name>
+          <value>FM, СВ</value>
+        </item>
+        <item>
+          <name>Количество динамиков</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>дисплей</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>часы</value>
+        </item>
+        <item>
+          <name>Элементы питания</name>
+          <value>1xCR2032</value>
+        </item>
+        <item>
+          <name>Питание от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>155х65х150 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.47 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="36313">
+    <title>Hyundai H-1628</title>
+    <model>H-1628</model>
+    <marka>Hyundai</marka>
+    <catalog id="137646">Радиоприемники</catalog>
+    
+    <price1>610</price1>
+    <price2>1070</price2>
+    <description>
+
+радиобудильник, элементы питания: 5xAA, питание от сети, прием: FM, УКВ, СВ
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>радиобудильник</value>
+        </item>
+        <item>
+          <name>Настройка частоты</name>
+          <value>цифровая</value>
+        </item>
+        <item>
+          <name>Прием</name>
+          <value>FM, УКВ, СВ</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>дисплей</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>часы, термометр</value>
+        </item>
+        <item>
+          <name>Элементы питания</name>
+          <value>5xAA</value>
+        </item>
+        <item>
+          <name>Питание от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>автоматическое включение/выключение, будильник, линейный вход, цвет: черная кожа, темное дерево</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="36319">
+    <title>Hyundai H-1614</title>
+    <model>H-1614</model>
+    <marka>Hyundai</marka>
+    <catalog id="137646">Радиоприемники</catalog>
+    
+    <price1>759</price1>
+    <price2>1035</price2>
+    <description>
+
+переносной, элементы питания: 2xAA, фиксированных настроек: 30, прием: FM, УКВ, СВ
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>переносной</value>
+        </item>
+        <item>
+          <name>Настройка частоты</name>
+          <value>цифровая</value>
+        </item>
+        <item>
+          <name>Прием</name>
+          <value>FM, УКВ, СВ</value>
+        </item>
+        <item>
+          <name>Количество динамиков</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>дисплей</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>часы</value>
+        </item>
+        <item>
+          <name>Элементы питания</name>
+          <value>2xAA</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>135х136х37 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.096 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>3-х диапазонный микрокомпьютерный тюнер FM/MW/SW; номинальная выходная мощность 150 мВт; переключатель моно/стерео; ЖК-дисплей</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="36322">
+    <title>SUPRA ST-110</title>
+    <model>ST-110</model>
+    <marka>SUPRA</marka>
+    <catalog id="137646">Радиоприемники</catalog>
+    
+    <price1>582</price1>
+    <price2>1040</price2>
+    <description>
+
+переносной, элементы питания: 3xD, прием: FM, УКВ, СВ, КВ
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>переносной</value>
+        </item>
+        <item>
+          <name>Настройка частоты</name>
+          <value>цифровая</value>
+        </item>
+        <item>
+          <name>Прием</name>
+          <value>FM, УКВ, СВ, КВ</value>
+        </item>
+        <item>
+          <name>Количество динамиков</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность звука</name>
+          <value>1 Вт</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>дисплей</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>часы</value>
+        </item>
+        <item>
+          <name>Элементы питания</name>
+          <value>3xD</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>будильник, цифровое отображение принимаемой частоты</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="36323">
+    <title>Philips AJ 3115</title>
+    <model>AJ 3115</model>
+    <marka>Philips</marka>
+    <catalog id="137646">Радиоприемники</catalog>
+    
+    <price1>482</price1>
+    <price2>1250</price2>
+    <description>
+
+радиобудильник, элементы питания: 1x6F22 (крона), питание от сети, прием: FM
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>радиобудильник</value>
+        </item>
+        <item>
+          <name>Настройка частоты</name>
+          <value>цифровая</value>
+        </item>
+        <item>
+          <name>Прием</name>
+          <value>FM</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>дисплей</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>часы</value>
+        </item>
+        <item>
+          <name>Элементы питания</name>
+          <value>1x6F22 (крона)</value>
+        </item>
+        <item>
+          <name>Питание от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>130х46х130 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.25 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>пробуждение под радио/сигнал, повтор будильника через 24 часа, повторный сигнал (после сигнала пробуждения), таймер отключения</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="36334">
+    <title>Sony ICF-S22</title>
+    <model>ICF-S22</model>
+    <marka>Sony</marka>
+    <catalog id="137646">Радиоприемники</catalog>
+    
+    <price1>450</price1>
+    <price2>1289</price2>
+    <description>
+
+карманный, элементы питания: 2xAA, прием: FM, СВ
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>карманный</value>
+        </item>
+        <item>
+          <name>Настройка частоты</name>
+          <value>аналоговая</value>
+        </item>
+        <item>
+          <name>Прием</name>
+          <value>FM, СВ</value>
+        </item>
+        <item>
+          <name>Количество динамиков</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Элементы питания</name>
+          <value>2xAA</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>76х121х37 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.203 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>аналоговый FM / AM.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="36336">
+    <title>Ritmix RPR-2980</title>
+    <model>RPR-2980</model>
+    <marka>Ritmix</marka>
+    <catalog id="137646">Радиоприемники</catalog>
+    
+    <price1>270</price1>
+    <price2>770</price2>
+    <description>
+
+переносной, элементы питания: 2xD, питание от сети, прием: FM, УКВ, СВ, КВ
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>переносной</value>
+        </item>
+        <item>
+          <name>Настройка частоты</name>
+          <value>аналоговая</value>
+        </item>
+        <item>
+          <name>Прием</name>
+          <value>FM, УКВ, СВ, КВ</value>
+        </item>
+        <item>
+          <name>Количество динамиков</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность звука</name>
+          <value>1 Вт</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Элементы питания</name>
+          <value>2xD</value>
+        </item>
+        <item>
+          <name>Питание от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>175х110х46 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.472 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="36346">
+    <title>Panasonic RF-P50EG-S</title>
+    <model>RF-P50EG-S</model>
+    <marka>Panasonic</marka>
+    <catalog id="137646">Радиоприемники</catalog>
+    
+    <price1>440</price1>
+    <price2>890</price2>
+    <description>
+
+карманный, элементы питания: 2xAA, прием: FM, СВ
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>карманный</value>
+        </item>
+        <item>
+          <name>Настройка частоты</name>
+          <value>аналоговая</value>
+        </item>
+        <item>
+          <name>Прием</name>
+          <value>FM, СВ</value>
+        </item>
+        <item>
+          <name>Количество динамиков</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Элементы питания</name>
+          <value>2xAA</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>70х117х30 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.14 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>гнездо для подключения наушников - моно</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="36348">
+    <title>SUPRA SA-16FM</title>
+    <model>SA-16FM</model>
+    <marka>SUPRA</marka>
+    <catalog id="137646">Радиоприемники</catalog>
+    
+    <price1>400</price1>
+    <price2>1120</price2>
+    <description>
+
+элементы питания: 1x6F22 (крона), питание от сети, прием: FM, УКВ, СВ
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Настройка частоты</name>
+          <value>аналоговая</value>
+        </item>
+        <item>
+          <name>Прием</name>
+          <value>FM, УКВ, СВ</value>
+        </item>
+        <item>
+          <name>Количество динамиков</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>дисплей</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>часы</value>
+        </item>
+        <item>
+          <name>Элементы питания</name>
+          <value>1x6F22 (крона)</value>
+        </item>
+        <item>
+          <name>Питание от сети</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="36350">
+    <title>SUPRA SA-30FM</title>
+    <model>SA-30FM</model>
+    <marka>SUPRA</marka>
+    <catalog id="137646">Радиоприемники</catalog>
+    
+    <price1>520</price1>
+    <price2>1170</price2>
+    <description>
+
+радиобудильник, питание от сети, прием: FM, УКВ, СВ
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>радиобудильник</value>
+        </item>
+        <item>
+          <name>Настройка частоты</name>
+          <value>цифровая</value>
+        </item>
+        <item>
+          <name>Прием</name>
+          <value>FM, УКВ, СВ</value>
+        </item>
+        <item>
+          <name>Количество динамиков</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Отображение информации</name>
+          <value>дисплей</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>часы</value>
+        </item>
+        <item>
+          <name>Питание от сети</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>кварцевый стабилизатор, 2 режима будильника, таймер автоматического отключения</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

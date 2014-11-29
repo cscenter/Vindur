@@ -1,0 +1,630 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="76940">
+    <title>Transcend TS*SDHC10</title>
+    <model>TS*SDHC10</model>
+    <marka>Transcend</marka>
+    <catalog id="432805">Карты памяти</catalog>
+    
+    <price1>274</price1>
+    <price2>1680</price2>
+    <description>Secure Digital HC, 4-32 Гб, Class 10</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Secure Digital HC</value>
+        </item>
+        <item>
+          <name>Объем памяти</name>
+          <value>16 Гб</value>
+        </item>
+        <item>
+          <name>Класс скорости</name>
+          <value>Class 10</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="76941">
+    <title>Transcend TS*SDHC6</title>
+    <model>TS*SDHC6</model>
+    <marka>Transcend</marka>
+    <catalog id="432805">Карты памяти</catalog>
+    
+    <price1>225</price1>
+    <price2>1150</price2>
+    <description>Secure Digital HC, 4-32 Гб, Class 6</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Secure Digital HC</value>
+        </item>
+        <item>
+          <name>Объем памяти</name>
+          <value>16 Гб</value>
+        </item>
+        <item>
+          <name>Класс скорости</name>
+          <value>Class 6</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="76944">
+    <title>Transcend TS*CF133</title>
+    <model>TS*CF133</model>
+    <marka>Transcend</marka>
+    <catalog id="432805">Карты памяти</catalog>
+    
+    <price1>1240</price1>
+    <price2>3990</price2>
+    <description>Compact Flash, 2-32 Гб, 20 Мб/с, 133 x</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Compact Flash</value>
+        </item>
+        <item>
+          <name>Объем памяти</name>
+          <value>32 Гб</value>
+        </item>
+        <item>
+          <name>Скорость обмена данными</name>
+          <value>133 x</value>
+        </item>
+        <item>
+          <name>Скорость чтения</name>
+          <value>20 Мб/с</value>
+        </item>
+        <item>
+          <name>Скорость записи</name>
+          <value>18 Мб/с</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="76946">
+    <title>Kingston SD4</title>
+    <model>SD4</model>
+    <marka>Kingston</marka>
+    <catalog id="432805">Карты памяти</catalog>
+    
+    <price1>241</price1>
+    <price2>790</price2>
+    <description>Secure Digital HC, 4-32 Гб, Class 4</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Secure Digital HC</value>
+        </item>
+        <item>
+          <name>Объем памяти</name>
+          <value>16 Гб</value>
+        </item>
+        <item>
+          <name>Класс скорости</name>
+          <value>Class 4</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="76954">
+    <title>Transcend TS*CF400</title>
+    <model>TS*CF400</model>
+    <marka>Transcend</marka>
+    <catalog id="432805">Карты памяти</catalog>
+    
+    <price1>1100</price1>
+    <price2>2300</price2>
+    <description>Compact Flash, 8-64 Гб, 60-90 Мб/с, 400 x</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Compact Flash</value>
+        </item>
+        <item>
+          <name>Объем памяти</name>
+          <value>16 Гб</value>
+        </item>
+        <item>
+          <name>Скорость обмена данными</name>
+          <value>400 x</value>
+        </item>
+        <item>
+          <name>Скорость чтения</name>
+          <value>60 Мб/с</value>
+        </item>
+        <item>
+          <name>Скорость записи</name>
+          <value>30 Мб/с</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="76962">
+    <title>Transcend TS*CF600</title>
+    <model>TS*CF600</model>
+    <marka>Transcend</marka>
+    <catalog id="432805">Карты памяти</catalog>
+    
+    <price1>7990</price1>
+    <price2>16400</price2>
+    <description>Compact Flash, 8-64 Гб, 90 Мб/с, 600 x</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Compact Flash</value>
+        </item>
+        <item>
+          <name>Объем памяти</name>
+          <value>64 Гб</value>
+        </item>
+        <item>
+          <name>Скорость обмена данными</name>
+          <value>600 x</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="76966">
+    <title>Silicon Power SDHC Card Class 10</title>
+    <model>SDHC Card Class 10</model>
+    <marka>Silicon Power</marka>
+    <catalog id="432805">Карты памяти</catalog>
+    
+    <price1>251</price1>
+    <price2>1249</price2>
+    <description>Secure Digital HC, 4-32 Гб, Class 10</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Secure Digital HC</value>
+        </item>
+        <item>
+          <name>Объем памяти</name>
+          <value>16 Гб</value>
+        </item>
+        <item>
+          <name>Класс скорости</name>
+          <value>Class 10</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="76968">
+    <title>Transcend TS*SDHC4</title>
+    <model>TS*SDHC4</model>
+    <marka>Transcend</marka>
+    <catalog id="432805">Карты памяти</catalog>
+    
+    <price1>493</price1>
+    <price2>2000</price2>
+    <description>Secure Digital HC, 4-32 Гб, Class 4</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Secure Digital HC</value>
+        </item>
+        <item>
+          <name>Объем памяти</name>
+          <value>32 Гб</value>
+        </item>
+        <item>
+          <name>Класс скорости</name>
+          <value>Class 4</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="76971">
+    <title>Transcend TS*USDHC10</title>
+    <model>TS*USDHC10</model>
+    <marka>Transcend</marka>
+    <catalog id="432805">Карты памяти</catalog>
+    
+    <price1>510</price1>
+    <price2>1800</price2>
+    <description>microSDHC, 4-32 Гб, 20 Мб/с, Class 10</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>microSDHC</value>
+        </item>
+        <item>
+          <name>Объем памяти</name>
+          <value>32 Гб</value>
+        </item>
+        <item>
+          <name>Класс скорости</name>
+          <value>Class 10</value>
+        </item>
+        <item>
+          <name>Скорость чтения</name>
+          <value>20 Мб/с</value>
+        </item>
+        <item>
+          <name>Скорость записи</name>
+          <value>10 Мб/с</value>
+        </item>
+        <item>
+          <name>В комплекте</name>
+          <value>адаптер на SD</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="76975">
+    <title>Silicon Power SDHC Card Class 6</title>
+    <model>SDHC Card Class 6</model>
+    <marka>Silicon Power</marka>
+    <catalog id="432805">Карты памяти</catalog>
+    
+    <price1>462</price1>
+    <price2>1350</price2>
+    <description>Secure Digital HC, 4-32 Гб, Class 6</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Secure Digital HC</value>
+        </item>
+        <item>
+          <name>Объем памяти</name>
+          <value>32 Гб</value>
+        </item>
+        <item>
+          <name>Класс скорости</name>
+          <value>Class 6</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="76991">
+    <title>Transcend TS*USDHC4</title>
+    <model>TS*USDHC4</model>
+    <marka>Transcend</marka>
+    <catalog id="432805">Карты памяти</catalog>
+    
+    <price1>131</price1>
+    <price2>523</price2>
+    <description>microSDHC, 4-32 Гб, Class 4</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>microSDHC</value>
+        </item>
+        <item>
+          <name>Объем памяти</name>
+          <value>8 Гб</value>
+        </item>
+        <item>
+          <name>Класс скорости</name>
+          <value>Class 4</value>
+        </item>
+        <item>
+          <name>В комплекте</name>
+          <value>адаптер на SD</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="76992">
+    <title>Silicon Power 200X Professional Compact Flash Card</title>
+    <model>200X Professional Compact Flash Card</model>
+    <marka>Silicon Power</marka>
+    <catalog id="432805">Карты памяти</catalog>
+    
+    <price1>1474</price1>
+    <price2>4100</price2>
+    <description>Compact Flash, 4-32 Гб, 30 Мб/с, 200 x</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Compact Flash</value>
+        </item>
+        <item>
+          <name>Объем памяти</name>
+          <value>32 Гб</value>
+        </item>
+        <item>
+          <name>Скорость обмена данными</name>
+          <value>200 x</value>
+        </item>
+        <item>
+          <name>Скорость чтения</name>
+          <value>30 Мб/с</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="76993">
+    <title>Transcend TS*USDHC6</title>
+    <model>TS*USDHC6</model>
+    <marka>Transcend</marka>
+    <catalog id="432805">Карты памяти</catalog>
+    
+    <price1>273</price1>
+    <price2>1690</price2>
+    <description>microSDHC, 4-16 Гб, Class 6</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>microSDHC</value>
+        </item>
+        <item>
+          <name>Объем памяти</name>
+          <value>16 Гб</value>
+        </item>
+        <item>
+          <name>Класс скорости</name>
+          <value>Class 6</value>
+        </item>
+        <item>
+          <name>В комплекте</name>
+          <value>адаптер на SD</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="76995">
+    <title>Silicon Power 400X Professional Compact Flash Card</title>
+    <model>400X Professional Compact Flash Card</model>
+    <marka>Silicon Power</marka>
+    <catalog id="432805">Карты памяти</catalog>
+    
+    <price1>2254</price1>
+    <price2>4550</price2>
+    <description>Compact Flash, 4-64 Гб, 400 x</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Compact Flash</value>
+        </item>
+        <item>
+          <name>Объем памяти</name>
+          <value>64 Гб</value>
+        </item>
+        <item>
+          <name>Скорость обмена данными</name>
+          <value>400 x</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="76997">
+    <title>Silicon Power micro SDHC Card Class 4 + SD adapter</title>
+    <model>micro SDHC Card Class 4 + SD adapter</model>
+    <marka>Silicon Power</marka>
+    <catalog id="432805">Карты памяти</catalog>
+    
+    <price1>232</price1>
+    <price2>633</price2>
+    <description>microSDHC, 4-32 Гб, Class 4</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>microSDHC</value>
+        </item>
+        <item>
+          <name>Объем памяти</name>
+          <value>16 Гб</value>
+        </item>
+        <item>
+          <name>Класс скорости</name>
+          <value>Class 4</value>
+        </item>
+        <item>
+          <name>В комплекте</name>
+          <value>адаптер на SD</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="76999">
+    <title>Silicon Power SDHC Card Class 4</title>
+    <model>SDHC Card Class 4</model>
+    <marka>Silicon Power</marka>
+    <catalog id="432805">Карты памяти</catalog>
+    
+    <price1>118</price1>
+    <price2>529</price2>
+    <description>Secure Digital HC, 4-32 Гб, Class 4</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Secure Digital HC</value>
+        </item>
+        <item>
+          <name>Объем памяти</name>
+          <value>4 Гб</value>
+        </item>
+        <item>
+          <name>Класс скорости</name>
+          <value>Class 4</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="77000">
+    <title>Transcend TS*SDXC10</title>
+    <model>TS*SDXC10</model>
+    <marka>Transcend</marka>
+    <catalog id="432805">Карты памяти</catalog>
+    
+    <price1>2715</price1>
+    <price2>6490</price2>
+    <description>Secure Digital XC, 64-128 Гб, 22 Мб/с, Class 10</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Secure Digital XC</value>
+        </item>
+        <item>
+          <name>Объем памяти</name>
+          <value>128 Гб</value>
+        </item>
+        <item>
+          <name>Класс скорости</name>
+          <value>Class 10</value>
+        </item>
+        <item>
+          <name>Скорость чтения</name>
+          <value>22 Мб/с</value>
+        </item>
+        <item>
+          <name>Скорость записи</name>
+          <value>16 Мб/с</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="77006">
+    <title>Silicon Power micro SDHC Card Class 10 + SD adapter</title>
+    <model>micro SDHC Card Class 10 + SD adapter</model>
+    <marka>Silicon Power</marka>
+    <catalog id="432805">Карты памяти</catalog>
+    
+    <price1>500</price1>
+    <price2>1850</price2>
+    <description>microSDHC, 4-32 Гб, Class 10</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>microSDHC</value>
+        </item>
+        <item>
+          <name>Объем памяти</name>
+          <value>32 Гб</value>
+        </item>
+        <item>
+          <name>Класс скорости</name>
+          <value>Class 10</value>
+        </item>
+        <item>
+          <name>В комплекте</name>
+          <value>адаптер на SD</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="77015">
+    <title>Kingston SD10</title>
+    <model>SD10</model>
+    <marka>Kingston</marka>
+    <catalog id="432805">Карты памяти</catalog>
+    
+    <price1>675</price1>
+    <price2>2180</price2>
+    <description>Secure Digital HC, 8-32 Гб, 22 Мб/с, Class 10</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>Secure Digital HC</value>
+        </item>
+        <item>
+          <name>Объем памяти</name>
+          <value>32 Гб</value>
+        </item>
+        <item>
+          <name>Класс скорости</name>
+          <value>Class 10</value>
+        </item>
+        <item>
+          <name>Скорость чтения</name>
+          <value>22 Мб/с</value>
+        </item>
+        <item>
+          <name>Скорость записи</name>
+          <value>18 Мб/с</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="77017">
+    <title>Kingston SDC4</title>
+    <model>SDC4</model>
+    <marka>Kingston</marka>
+    <catalog id="432805">Карты памяти</catalog>
+    
+    <price1>111</price1>
+    <price2>500</price2>
+    <description>microSDHC, 4-32 Гб, Class 4</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>microSDHC</value>
+        </item>
+        <item>
+          <name>Объем памяти</name>
+          <value>4 Гб</value>
+        </item>
+        <item>
+          <name>Класс скорости</name>
+          <value>Class 4</value>
+        </item>
+        <item>
+          <name>В комплекте</name>
+          <value>адаптер на SD</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

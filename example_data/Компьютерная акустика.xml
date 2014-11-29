@@ -1,0 +1,1713 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="80067">
+    <title>Genius SP-S110</title>
+    <model>SP-S110</model>
+    <marka>Genius</marka>
+    <catalog id="932399">Компьютерная акустика</catalog>
+    
+    <price1>197</price1>
+    <price2>670</price2>
+    <description>
+стерео, мощность 1 Вт, 200-20000 Гц, материал колонок: пластик, разъем для наушников
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Число каналов</name>
+          <value>2.0</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>1 Вт</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>черный, белый</value>
+        </item>
+        <item>
+          <name>Материал корпуса фронтальных колонок/сателлитов</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>200-20000 Гц</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>70 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name> Функциональные возможности</name>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Линейный вход (стерео)</name>
+          <value>есть, разъем mini jack</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>0.5 Вт</value>
+        </item>
+        <item>
+          <name>Размеры динамиков фронтальных колонок</name>
+          <value>1x(50x90) мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>67x174x85 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80070">
+    <title>Sven SPS-820</title>
+    <model>SPS-820</model>
+    <marka>Sven</marka>
+    <catalog id="932399">Компьютерная акустика</catalog>
+    
+    <price1>1669</price1>
+    <price2>4360</price2>
+    <description>
+число каналов: 2.1, мощность 38 Вт, 50-20000 Гц, материал колонок: MDF, материал сабвуфера: MDF, магнитное экранирование
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Число каналов</name>
+          <value>2.1</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>38 Вт</value>
+        </item>
+        <item>
+          <name>Материал корпуса фронтальных колонок/сателлитов</name>
+          <value>MDF</value>
+        </item>
+        <item>
+          <name>Материал корпуса сабвуфера</name>
+          <value>MDF</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>50-20000 Гц</value>
+        </item>
+        <item>
+          <name>Частотный диапазон фронтальных колонок/сателлитов</name>
+          <value>100-20000 Гц</value>
+        </item>
+        <item>
+          <name>Частотный диапазон сабвуфера</name>
+          <value>50-300 Гц</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>75 дБ</value>
+        </item>
+        <item>
+          <name>Разделение каналов</name>
+          <value>45 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name> Функциональные возможности</name>
+        <item>
+          <name>Магнитное экранирование фронтальных колонок/сателлитов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Магнитное экранирование сабвуфера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка  тембра</name>
+          <value>НЧ</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Линейный вход (стерео)</name>
+          <value>есть, разъем RCA</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>10 Вт</value>
+        </item>
+        <item>
+          <name>Мощность сабвуфера</name>
+          <value>18 Вт</value>
+        </item>
+        <item>
+          <name>Размеры динамиков фронтальных колонок</name>
+          <value>1x75 мм</value>
+        </item>
+        <item>
+          <name>Размеры динамиков сабвуфера</name>
+          <value>1x100 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>110x185x120 мм</value>
+        </item>
+        <item>
+          <name>Размеры сабвуфера (ШxВxГ)</name>
+          <value>150x260x270 мм</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>регулировка тона</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80071">
+    <title>Genius SP-J330</title>
+    <model>SP-J330</model>
+    <marka>Genius</marka>
+    <catalog id="932399">Компьютерная акустика</catalog>
+    
+    <price1>583</price1>
+    <price2>1655</price2>
+    <description>
+стерео, мощность 8 Вт, 50-20000 Гц, материал колонок: пластик, разъем для наушников
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Число каналов</name>
+          <value>2.0</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>8 Вт</value>
+        </item>
+        <item>
+          <name>Материал корпуса фронтальных колонок/сателлитов</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>50-20000 Гц</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>75 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name> Функциональные возможности</name>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Линейный вход (стерео)</name>
+          <value>есть, разъем mini jack</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>4 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Особенности</name>
+          <value>дополнительный линейный вход minijack; регулировка тона; функция 3D</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80074">
+    <title>Sven SPS-700</title>
+    <model>SPS-700</model>
+    <marka>Sven</marka>
+    <catalog id="932399">Компьютерная акустика</catalog>
+    
+    <price1>1359</price1>
+    <price2>2601</price2>
+    <description>
+стерео, мощность 40 Вт, 40-20000 Гц, материал колонок: MDF, магнитное экранирование
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Число каналов</name>
+          <value>2.0</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>40 Вт</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>черный, серебро, орех</value>
+        </item>
+        <item>
+          <name>Материал корпуса фронтальных колонок/сателлитов</name>
+          <value>MDF</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>40-20000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name> Функциональные возможности</name>
+        <item>
+          <name>Магнитное экранирование фронтальных колонок/сателлитов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка  тембра</name>
+          <value>НЧ/ВЧ</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Линейный вход (стерео)</name>
+          <value>есть, разъем RCA</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>20 Вт</value>
+        </item>
+        <item>
+          <name>Размеры динамиков фронтальных колонок</name>
+          <value>1x20, 1x115 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>150x255x195 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80080">
+    <title>Sven SPS-609</title>
+    <model>SPS-609</model>
+    <marka>Sven</marka>
+    <catalog id="932399">Компьютерная акустика</catalog>
+    
+    <price1>843</price1>
+    <price2>1838</price2>
+    <description>
+стерео, мощность 10 Вт, 70-18000 Гц, материал колонок: MDF, магнитное экранирование
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Число каналов</name>
+          <value>2.0</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>10 Вт</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>черный, вишня</value>
+        </item>
+        <item>
+          <name>Материал корпуса фронтальных колонок/сателлитов</name>
+          <value>MDF</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>70-18000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name> Функциональные возможности</name>
+        <item>
+          <name>Магнитное экранирование фронтальных колонок/сателлитов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Линейный вход (стерео)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>5 Вт</value>
+        </item>
+        <item>
+          <name>Размеры динамиков фронтальных колонок</name>
+          <value>1x76 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>115x225x155 мм</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>регулировка тона</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80082">
+    <title>Sven SPS-607</title>
+    <model>SPS-607</model>
+    <marka>Sven</marka>
+    <catalog id="932399">Компьютерная акустика</catalog>
+    
+    <price1>622</price1>
+    <price2>2690</price2>
+    <description>
+стерео, мощность 6 Вт, 80-18000 Гц, материал колонок: MDF, магнитное экранирование
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Число каналов</name>
+          <value>2.0</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>6 Вт</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>орех, черный, темный дуб</value>
+        </item>
+        <item>
+          <name>Материал корпуса фронтальных колонок/сателлитов</name>
+          <value>MDF</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>80-18000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name> Функциональные возможности</name>
+        <item>
+          <name>Магнитное экранирование фронтальных колонок/сателлитов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Линейный вход (стерео)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>3 Вт</value>
+        </item>
+        <item>
+          <name>Размеры динамиков фронтальных колонок</name>
+          <value>1x76 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>117x207x105 мм</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>регулировка тона</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80084">
+    <title>Sven SPS-702</title>
+    <model>SPS-702</model>
+    <marka>Sven</marka>
+    <catalog id="932399">Компьютерная акустика</catalog>
+    
+    <price1>1358</price1>
+    <price2>4080</price2>
+    <description>
+стерео, мощность 40 Вт, 40-22000 Гц, разъем для наушников, магнитное экранирование
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Число каналов</name>
+          <value>2.0</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>40 Вт</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>черный, орех</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>40-22000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name> Функциональные возможности</name>
+        <item>
+          <name>Магнитное экранирование фронтальных колонок/сателлитов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка  тембра</name>
+          <value>НЧ/ВЧ</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Линейный вход (стерео)</name>
+          <value>есть, разъем RCA</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>20 Вт</value>
+        </item>
+        <item>
+          <name>Размеры динамиков фронтальных колонок</name>
+          <value>1x19, 1x100 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>143x265x150 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80098">
+    <title>Sven SPS-611S</title>
+    <model>SPS-611S</model>
+    <marka>Sven</marka>
+    <catalog id="932399">Компьютерная акустика</catalog>
+    
+    <price1>1302</price1>
+    <price2>3890</price2>
+    <description>
+стерео, мощность 36 Вт, 40-18000 Гц, материал колонок: дерево, магнитное экранирование
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Число каналов</name>
+          <value>2.0</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>36 Вт</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>дерево, серебристый</value>
+        </item>
+        <item>
+          <name>Материал корпуса фронтальных колонок/сателлитов</name>
+          <value>дерево</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>40-18000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name> Функциональные возможности</name>
+        <item>
+          <name>Магнитное экранирование фронтальных колонок/сателлитов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка  тембра</name>
+          <value>НЧ/ВЧ</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Линейный вход (стерео)</name>
+          <value>есть, разъем RCA</value>
+        </item>
+        <item>
+          <name>Выход на сабвуфер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>18 Вт</value>
+        </item>
+        <item>
+          <name>Размеры динамиков фронтальных колонок</name>
+          <value>1x37, 1x100 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>143x250x175 мм</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>регулировка высоких частот ±10 дБ; регулировка низких частот ±10 дБ</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80099">
+    <title>Sven SPS-704</title>
+    <model>SPS-704</model>
+    <marka>Sven</marka>
+    <catalog id="932399">Компьютерная акустика</catalog>
+    
+    <price1>1888</price1>
+    <price2>3021</price2>
+    <description>
+стерео, мощность 50 Вт, 45-25000 Гц, материал колонок: MDF, разъем для наушников, магнитное экранирование
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Число каналов</name>
+          <value>2.0</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>50 Вт</value>
+        </item>
+        <item>
+          <name>Материал корпуса фронтальных колонок/сателлитов</name>
+          <value>MDF</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>45-25000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name> Функциональные возможности</name>
+        <item>
+          <name>Магнитное экранирование фронтальных колонок/сателлитов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка  тембра</name>
+          <value>НЧ/ВЧ</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Линейный вход (стерео)</name>
+          <value>есть, разъем RCA</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>25 Вт</value>
+        </item>
+        <item>
+          <name>Размеры динамиков фронтальных колонок</name>
+          <value>1x19, 1x100 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>151x266x180 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80100">
+    <title>Sven SPS-610</title>
+    <model>SPS-610</model>
+    <marka>Sven</marka>
+    <catalog id="932399">Компьютерная акустика</catalog>
+    
+    <price1>1231</price1>
+    <price2>3840</price2>
+    <description>
+стерео, мощность 20 Вт, 40-20000 Гц, разъем для наушников, магнитное экранирование
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Число каналов</name>
+          <value>2.0</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>20 Вт</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>орех, чёрный</value>
+        </item>
+        <item>
+          <name>Материал корпуса фронтальных колонок/сателлитов</name>
+          <value>MDF</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>40-20000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name> Функциональные возможности</name>
+        <item>
+          <name>Магнитное экранирование фронтальных колонок/сателлитов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка  тембра</name>
+          <value>НЧ/ВЧ</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Линейный вход (стерео)</name>
+          <value>есть, разъем RCA</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>10 Вт</value>
+        </item>
+        <item>
+          <name>Размеры динамиков фронтальных колонок</name>
+          <value>1x19, 1x100 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>145x246x160 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80148">
+    <title>Genius SP-S350</title>
+    <model>SP-S350</model>
+    <marka>Genius</marka>
+    <catalog id="932399">Компьютерная акустика</catalog>
+    
+    <price1>679</price1>
+    <price2>1733</price2>
+    <description>
+стерео, мощность 10 Вт, материал колонок: пластик, разъем для наушников
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Число каналов</name>
+          <value>2.0</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>10 Вт RMS/350 Вт PMPO</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Материал корпуса фронтальных колонок/сателлитов</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>20-20000 Гц</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>70 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name> Функциональные возможности</name>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Линейный вход (стерео)</name>
+          <value>есть, разъем mini jack</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>5 Вт</value>
+        </item>
+        <item>
+          <name>Размеры динамиков фронтальных колонок</name>
+          <value>1x63.5 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>104x225x94 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80150">
+    <title>Genius SP-J200</title>
+    <model>SP-J200</model>
+    <marka>Genius</marka>
+    <catalog id="932399">Компьютерная акустика</catalog>
+    
+    <price1>300</price1>
+    <price2>1481</price2>
+    <description>
+стерео, мощность 5 Вт, 50-20000 Гц, разъем для наушников
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Число каналов</name>
+          <value>2.0</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>5 Вт</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>50-20000 Гц</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>75 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name> Функциональные возможности</name>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Линейный вход (стерео)</name>
+          <value>есть, разъем mini jack</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>2.5 Вт</value>
+        </item>
+        <item>
+          <name>Размеры динамиков фронтальных колонок</name>
+          <value>1x50.8 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Особенности</name>
+          <value>дополнительный линейный вход minijack; регулировка тона</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80157">
+    <title>Genius SP-M120</title>
+    <model>SP-M120</model>
+    <marka>Genius</marka>
+    <catalog id="932399">Компьютерная акустика</catalog>
+    
+    <price1>319</price1>
+    <price2>1324</price2>
+    <description>
+стерео, мощность 2 Вт, 100-20000 Гц, материал колонок: пластик, разъем для наушников
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Число каналов</name>
+          <value>2.0</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>2 Вт</value>
+        </item>
+        <item>
+          <name>Материал корпуса фронтальных колонок/сателлитов</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>100-20000 Гц</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>72 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name> Функциональные возможности</name>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Линейный вход (стерео)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>1 Вт</value>
+        </item>
+        <item>
+          <name>Размеры динамиков фронтальных колонок</name>
+          <value>1x(50x90) мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80159">
+    <title>Sven MS-915</title>
+    <model>MS-915</model>
+    <marka>Sven</marka>
+    <catalog id="932399">Компьютерная акустика</catalog>
+    
+    <price1>1680</price1>
+    <price2>2740</price2>
+    <description>
+число каналов: 2.1, мощность 26 Вт, 50-20000 Гц, магнитное экранирование
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Число каналов</name>
+          <value>2.1</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>26 Вт</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>дерево, черный</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>50-20000 Гц</value>
+        </item>
+        <item>
+          <name>Частотный диапазон фронтальных колонок/сателлитов</name>
+          <value>140-20000 Гц</value>
+        </item>
+        <item>
+          <name>Частотный диапазон сабвуфера</name>
+          <value>50-140 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name> Функциональные возможности</name>
+        <item>
+          <name>Магнитное экранирование фронтальных колонок/сателлитов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Магнитное экранирование сабвуфера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка  тембра</name>
+          <value>НЧ/ВЧ</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Линейный вход (стерео)</name>
+          <value>есть, разъем RCA</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>8 Вт</value>
+        </item>
+        <item>
+          <name>Мощность сабвуфера</name>
+          <value>10 Вт</value>
+        </item>
+        <item>
+          <name>Размеры динамиков фронтальных колонок</name>
+          <value>1х75 мм</value>
+        </item>
+        <item>
+          <name>Размеры динамиков сабвуфера</name>
+          <value>1х137 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>119x154x122 мм</value>
+        </item>
+        <item>
+          <name>Размеры сабвуфера (ШxВxГ)</name>
+          <value>212x221x239 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80162">
+    <title>Logitech S220</title>
+    <model>S220</model>
+    <marka>Logitech</marka>
+    <catalog id="932399">Компьютерная акустика</catalog>
+    
+    <price1>995</price1>
+    <price2>1964</price2>
+    <description>
+число каналов: 2.1, мощность 17.10 Вт, 50-20000 Гц, материал колонок: пластик, материал сабвуфера: дерево, разъем для наушников, пульт ДУ
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Число каналов</name>
+          <value>2.1</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>17.10 Вт</value>
+        </item>
+        <item>
+          <name>Материал корпуса фронтальных колонок/сателлитов</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Материал корпуса сабвуфера</name>
+          <value>дерево</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>50-20000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name> Функциональные возможности</name>
+        <item>
+          <name>Регулировка  тембра</name>
+          <value>НЧ</value>
+        </item>
+        <item>
+          <name>Пульт дистанционного управления</name>
+          <value>проводной</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Линейный вход (стерео)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Вход для микрофона</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>2.9 Вт</value>
+        </item>
+        <item>
+          <name>Мощность сабвуфера</name>
+          <value>11.3 Вт</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80172">
+    <title>Genius SW-2.1 355</title>
+    <model>SW-2.1 355</model>
+    <marka>Genius</marka>
+    <catalog id="932399">Компьютерная акустика</catalog>
+    
+    <price1>767</price1>
+    <price2>1726</price2>
+    <description>
+число каналов: 2.1, мощность 10 Вт, 20-20000 Гц
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Число каналов</name>
+          <value>2.1</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>10 Вт</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>20-20000 Гц</value>
+        </item>
+        <item>
+          <name>Частотный диапазон фронтальных колонок/сателлитов</name>
+          <value>120-20000 Гц</value>
+        </item>
+        <item>
+          <name>Частотный диапазон сабвуфера</name>
+          <value>20-140 Гц</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>75 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name> Функциональные возможности</name>
+        <item>
+          <name>Регулировка  тембра</name>
+          <value>НЧ</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Линейный вход (стерео)</name>
+          <value>есть, разъем mini jack</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>2.5 Вт</value>
+        </item>
+        <item>
+          <name>Мощность сабвуфера</name>
+          <value>5 Вт</value>
+        </item>
+        <item>
+          <name>Размеры динамиков фронтальных колонок</name>
+          <value>1x76.2 мм</value>
+        </item>
+        <item>
+          <name>Размеры динамиков сабвуфера</name>
+          <value>1x101.6 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80174">
+    <title>Logitech LS-21</title>
+    <model>LS-21</model>
+    <marka>Logitech</marka>
+    <catalog id="932399">Компьютерная акустика</catalog>
+    
+    <price1>808</price1>
+    <price2>2134</price2>
+    <description>
+число каналов: 2.1, мощность 7 Вт, разъем для наушников, пульт ДУ
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Число каналов</name>
+          <value>2.1</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>7 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name> Функциональные возможности</name>
+        <item>
+          <name>Пульт дистанционного управления</name>
+          <value>проводной</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Линейный вход (стерео)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>1.5 Вт</value>
+        </item>
+        <item>
+          <name>Мощность сабвуфера</name>
+          <value>4 Вт</value>
+        </item>
+        <item>
+          <name>Размеры динамиков фронтальных колонок</name>
+          <value>1x50 мм</value>
+        </item>
+        <item>
+          <name>Размеры динамиков сабвуфера</name>
+          <value>1x95 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>85x146x82 мм</value>
+        </item>
+        <item>
+          <name>Размеры сабвуфера (ШxВxГ)</name>
+          <value>140x190x178 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80176">
+    <title>JBL Creature III</title>
+    <model>Creature III</model>
+    <marka>JBL</marka>
+    <catalog id="932399">Компьютерная акустика</catalog>
+    
+    <price1>1951</price1>
+    <price2>3970</price2>
+    <description>
+число каналов: 2.1, мощность 25 Вт, 50-20000 Гц
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Число каналов</name>
+          <value>2.1</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>25 Вт</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>50-20000 Гц</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>80 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name> Функциональные возможности</name>
+        <item>
+          <name>Регулировка  тембра</name>
+          <value>НЧ/ВЧ</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Линейный вход (стерео)</name>
+          <value>есть, разъем mini jack</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>5 Вт</value>
+        </item>
+        <item>
+          <name>Мощность сабвуфера</name>
+          <value>15 Вт</value>
+        </item>
+        <item>
+          <name>Размеры динамиков фронтальных колонок</name>
+          <value>1x40 мм</value>
+        </item>
+        <item>
+          <name>Размеры динамиков сабвуфера</name>
+          <value>1x75 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>75x70x75 мм</value>
+        </item>
+        <item>
+          <name>Размеры сабвуфера (ШxВxГ)</name>
+          <value>230x230x230 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80177">
+    <title>Logitech Z-323</title>
+    <model>Z-323</model>
+    <marka>Logitech</marka>
+    <catalog id="932399">Компьютерная акустика</catalog>
+    
+    <price1>1488</price1>
+    <price2>4350</price2>
+    <description>
+число каналов: 2.1, мощность 30 Вт, 40-20000 Гц, разъем для наушников
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Число каналов</name>
+          <value>2.1</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>30 Вт</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>40-20000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name> Функциональные возможности</name>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Линейный вход (стерео)</name>
+          <value>есть, разъем RCA/mini jack</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>6 Вт</value>
+        </item>
+        <item>
+          <name>Мощность сабвуфера</name>
+          <value>18 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>86x203x134 мм</value>
+        </item>
+        <item>
+          <name>Размеры сабвуфера (ШxВxГ)</name>
+          <value>152x221x183 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80423">
+    <title>Sven MS-920</title>
+    <model>MS-920</model>
+    <marka>Sven</marka>
+    <catalog id="932399">Компьютерная акустика</catalog>
+    
+    <price1>1700</price1>
+    <price2>2762</price2>
+    <description>
+число каналов: 2.1, мощность 26 Вт, 50-20000 Гц, магнитное экранирование
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Число каналов</name>
+          <value>2.1</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>26 Вт</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>светлое дерево, серебристый</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>50-20000 Гц</value>
+        </item>
+        <item>
+          <name>Частотный диапазон фронтальных колонок/сателлитов</name>
+          <value>140-20000 Гц</value>
+        </item>
+        <item>
+          <name>Частотный диапазон сабвуфера</name>
+          <value>50-140 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name> Функциональные возможности</name>
+        <item>
+          <name>Магнитное экранирование фронтальных колонок/сателлитов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Магнитное экранирование сабвуфера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка  тембра</name>
+          <value>НЧ</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Линейный вход (стерео)</name>
+          <value>есть, разъем RCA</value>
+        </item>
+      </items>
+      <items>
+        <name>Акустика</name>
+        <item>
+          <name>Количество полос фронтальных колонок</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность фронтальных колонок</name>
+          <value>8 Вт</value>
+        </item>
+        <item>
+          <name>Мощность сабвуфера</name>
+          <value>10 Вт</value>
+        </item>
+        <item>
+          <name>Размеры динамиков фронтальных колонок</name>
+          <value>1х75 мм</value>
+        </item>
+        <item>
+          <name>Размеры динамиков сабвуфера</name>
+          <value>1х137 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Размеры фронтальных колонок (ШxВxГ)</name>
+          <value>119x154x122 мм</value>
+        </item>
+        <item>
+          <name>Размеры сабвуфера (ШxВxГ)</name>
+          <value>212x221x239 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

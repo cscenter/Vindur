@@ -1,0 +1,1994 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="67028">
+    <title>Intel Xeon Gulftown</title>
+    <model>Xeon Gulftown</model>
+    <marka>Intel</marka>
+    <catalog id="651600">Процессоры (CPU)</catalog>
+    
+    <price1>55692</price1>
+    <price2>133650</price2>
+    <description>LGA1366, 1600-3600 МГц, 1024-1536 Кб, 4096-12288 Кб, Поддержка SSE2, Поддержка SSE3, Встроенный контроллер памяти</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA1366</value>
+        </item>
+      </items>
+      <items>
+        <name>Ядро</name>
+        <item>
+          <name>Ядро</name>
+          <value>Gulftown</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>32 нм</value>
+        </item>
+      </items>
+      <items>
+        <name>Частотные характеристики</name>
+        <item>
+          <name>Тактовая частота</name>
+          <value>3200 МГц</value>
+        </item>
+        <item>
+          <name>Системная шина</name>
+          <value>QPI</value>
+        </item>
+        <item>
+          <name>Коэффициент умножения</name>
+          <value>24</value>
+        </item>
+        <item>
+          <name>Напряжение на ядре</name>
+          <value>0.75 B</value>
+        </item>
+        <item>
+          <name>Встроенный контроллер памяти</name>
+          <value>есть, полоса 32 Гб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Кэш</name>
+        <item>
+          <name>Объем кэша L1</name>
+          <value>64 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>1024 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>12288 Кб</value>
+        </item>
+      </items>
+      <items>
+        <name>Наборы команд</name>
+        <item>
+          <name>Поддержка Hyper-Threading</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Инструкции</name>
+          <value>MMX, SSE, SSE2, SSE3, SSE4</value>
+        </item>
+        <item>
+          <name>Поддержка AMD64/EM64T</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NX Bit</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Virtualization Technology</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Типичное тепловыделение</name>
+          <value>95 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная рабочая температура</name>
+          <value>82.9 °C</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>напряжение на ядре 0.750В-1.350В</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67030">
+    <title>Intel Xeon Sandy Bridge-EP</title>
+    <model>Xeon Sandy Bridge-EP</model>
+    <marka>Intel</marka>
+    <catalog id="651600">Процессоры (CPU)</catalog>
+    
+    <price1>30500</price1>
+    <price2>103785</price2>
+    <description>LGA2011, 1800-3300 МГц, 512-2048 Кб, 5120-20480 Кб, Поддержка SSE2, Поддержка SSE3, Встроенный контроллер памяти</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA2011</value>
+        </item>
+      </items>
+      <items>
+        <name>Ядро</name>
+        <item>
+          <name>Ядро</name>
+          <value>Sandy Bridge-EP</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>32 нм</value>
+        </item>
+      </items>
+      <items>
+        <name>Частотные характеристики</name>
+        <item>
+          <name>Тактовая частота</name>
+          <value>3000 МГц</value>
+        </item>
+        <item>
+          <name>Системная шина</name>
+          <value>QPI</value>
+        </item>
+        <item>
+          <name>Напряжение на ядре</name>
+          <value>0.6 B</value>
+        </item>
+        <item>
+          <name>Встроенный контроллер памяти</name>
+          <value>есть, полоса 51.2 Гб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Кэш</name>
+        <item>
+          <name>Объем кэша L1</name>
+          <value>64 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>512 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>5120 Кб</value>
+        </item>
+      </items>
+      <items>
+        <name>Наборы команд</name>
+        <item>
+          <name>Поддержка Hyper-Threading</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Инструкции</name>
+          <value>MMX, SSE, SSE2, SSE3, SSE4</value>
+        </item>
+        <item>
+          <name>Поддержка AMD64/EM64T</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NX Bit</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Virtualization Technology</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Типичное тепловыделение</name>
+          <value>80 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная рабочая температура</name>
+          <value>70 °C</value>
+        </item>
+        <item>
+          <name>Поддержка Intel vPro</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>напряжение на ядре 0.6-1.35В</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67035">
+    <title>Intel Core i5 Ivy Bridge</title>
+    <model>Core i5 Ivy Bridge</model>
+    <marka>Intel</marka>
+    <catalog id="651600">Процессоры (CPU)</catalog>
+    
+    <price1>5626</price1>
+    <price2>7230</price2>
+    <description>LGA1155, 2300-3400 МГц, 512-1024 Кб, 3072-6144 Кб, Поддержка SSE2, Поддержка SSE3, Встроенный контроллер памяти</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA1155</value>
+        </item>
+      </items>
+      <items>
+        <name>Ядро</name>
+        <item>
+          <name>Ядро</name>
+          <value>Ivy Bridge</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>22 нм</value>
+        </item>
+      </items>
+      <items>
+        <name>Частотные характеристики</name>
+        <item>
+          <name>Тактовая частота</name>
+          <value>3100 МГц</value>
+        </item>
+        <item>
+          <name>Системная шина</name>
+          <value>DMI</value>
+        </item>
+        <item>
+          <name>Интегрированное графическое ядро</name>
+          <value>HD Graphics 2500, 1100 МГц</value>
+        </item>
+        <item>
+          <name>Встроенный контроллер памяти</name>
+          <value>есть, полоса 25.6 Гб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Кэш</name>
+        <item>
+          <name>Объем кэша L1</name>
+          <value>64 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>1024 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>6144 Кб</value>
+        </item>
+      </items>
+      <items>
+        <name>Наборы команд</name>
+        <item>
+          <name>Инструкции</name>
+          <value>MMX, SSE, SSE2, SSE3, SSE4</value>
+        </item>
+        <item>
+          <name>Поддержка AMD64/EM64T</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NX Bit</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Virtualization Technology</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Типичное тепловыделение</name>
+          <value>77 Вт</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67036">
+    <title>Intel Pentium Sandy Bridge</title>
+    <model>Pentium Sandy Bridge</model>
+    <marka>Intel</marka>
+    <catalog id="651600">Процессоры (CPU)</catalog>
+    
+    <price1>1560</price1>
+    <price2>5150</price2>
+    <description>LGA1155, 2200-3100 МГц, 512 Кб, 3072 Кб, Поддержка SSE2, Поддержка SSE3, Встроенный контроллер памяти</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA1155</value>
+        </item>
+      </items>
+      <items>
+        <name>Ядро</name>
+        <item>
+          <name>Ядро</name>
+          <value>Sandy Bridge</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>32 нм</value>
+        </item>
+      </items>
+      <items>
+        <name>Частотные характеристики</name>
+        <item>
+          <name>Тактовая частота</name>
+          <value>2300 МГц</value>
+        </item>
+        <item>
+          <name>Системная шина</name>
+          <value>DMI</value>
+        </item>
+        <item>
+          <name>Интегрированное графическое ядро</name>
+          <value>HD Graphics, 1100 МГц</value>
+        </item>
+        <item>
+          <name>Встроенный контроллер памяти</name>
+          <value>есть, полоса 21 Гб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Кэш</name>
+        <item>
+          <name>Объем кэша L1</name>
+          <value>64 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>512 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>3072 Кб</value>
+        </item>
+      </items>
+      <items>
+        <name>Наборы команд</name>
+        <item>
+          <name>Инструкции</name>
+          <value>MMX, SSE, SSE2, SSE3, SSE4</value>
+        </item>
+        <item>
+          <name>Поддержка AMD64/EM64T</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NX Bit</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Virtualization Technology</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Типичное тепловыделение</name>
+          <value>35 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная рабочая температура</name>
+          <value>65 °C</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67038">
+    <title>Intel Core i3 Sandy Bridge</title>
+    <model>Core i3 Sandy Bridge</model>
+    <marka>Intel</marka>
+    <catalog id="651600">Процессоры (CPU)</catalog>
+    
+    <price1>2389</price1>
+    <price2>8892</price2>
+    <description>LGA1155, 2500-3400 МГц, 512 Кб, 3072 Кб, Поддержка SSE2, Поддержка SSE3, Встроенный контроллер памяти</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA1155</value>
+        </item>
+      </items>
+      <items>
+        <name>Ядро</name>
+        <item>
+          <name>Ядро</name>
+          <value>Sandy Bridge</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>32 нм</value>
+        </item>
+      </items>
+      <items>
+        <name>Частотные характеристики</name>
+        <item>
+          <name>Тактовая частота</name>
+          <value>3100 МГц</value>
+        </item>
+        <item>
+          <name>Системная шина</name>
+          <value>DMI</value>
+        </item>
+        <item>
+          <name>Интегрированное графическое ядро</name>
+          <value>HD Graphics 3000, 1100 МГц</value>
+        </item>
+        <item>
+          <name>Встроенный контроллер памяти</name>
+          <value>есть, полоса 21 Гб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Кэш</name>
+        <item>
+          <name>Объем кэша L1</name>
+          <value>64 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>512 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>3072 Кб</value>
+        </item>
+      </items>
+      <items>
+        <name>Наборы команд</name>
+        <item>
+          <name>Поддержка Hyper-Threading</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Инструкции</name>
+          <value>MMX, SSE, SSE2, SSE3, SSE4</value>
+        </item>
+        <item>
+          <name>Поддержка AMD64/EM64T</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NX Bit</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Virtualization Technology</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Типичное тепловыделение</name>
+          <value>65 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная рабочая температура</name>
+          <value>69.1 °C</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67042">
+    <title>AMD Athlon II X2</title>
+    <model>Athlon II X2</model>
+    <marka>AMD</marka>
+    <catalog id="651600">Процессоры (CPU)</catalog>
+    
+    <price1>1119</price1>
+    <price2>1493</price2>
+    <description>AM3, 1600-3500 МГц, 1024-2048 Кб, Поддержка SSE2, Поддержка SSE3, Встроенный контроллер памяти</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Socket</name>
+          <value>AM3</value>
+        </item>
+      </items>
+      <items>
+        <name>Ядро</name>
+        <item>
+          <name>Ядро</name>
+          <value>Regor</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>45 нм</value>
+        </item>
+      </items>
+      <items>
+        <name>Частотные характеристики</name>
+        <item>
+          <name>Тактовая частота</name>
+          <value>3000 МГц</value>
+        </item>
+        <item>
+          <name>Системная шина</name>
+          <value>HT</value>
+        </item>
+        <item>
+          <name>Коэффициент умножения</name>
+          <value>15</value>
+        </item>
+        <item>
+          <name>Напряжение на ядре</name>
+          <value>0.85 B</value>
+        </item>
+        <item>
+          <name>Встроенный контроллер памяти</name>
+          <value>есть, полоса 17.1 Гб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Кэш</name>
+        <item>
+          <name>Объем кэша L1</name>
+          <value>128 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>2048 Кб</value>
+        </item>
+      </items>
+      <items>
+        <name>Наборы команд</name>
+        <item>
+          <name>Инструкции</name>
+          <value>MMX, SSE, SSE2, SSE3, SSE4, 3DNow!</value>
+        </item>
+        <item>
+          <name>Поддержка AMD64/EM64T</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NX Bit</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Virtualization Technology</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Типичное тепловыделение</name>
+          <value>65 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная рабочая температура</name>
+          <value>74 °C</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>напряжение на ядре 0.85-1.425В</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67044">
+    <title>Intel Xeon Sandy Bridge</title>
+    <model>Xeon Sandy Bridge</model>
+    <marka>Intel</marka>
+    <catalog id="651600">Процессоры (CPU)</catalog>
+    
+    <price1>27690</price1>
+    <price2>32112</price2>
+    <description>LGA1155, 2200-3600 МГц, 512-1024 Кб, 3072-8192 Кб, Поддержка SSE2, Поддержка SSE3, Встроенный контроллер памяти</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA1155</value>
+        </item>
+      </items>
+      <items>
+        <name>Ядро</name>
+        <item>
+          <name>Ядро</name>
+          <value>Sandy Bridge</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>32 нм</value>
+        </item>
+      </items>
+      <items>
+        <name>Частотные характеристики</name>
+        <item>
+          <name>Тактовая частота</name>
+          <value>3600 МГц</value>
+        </item>
+        <item>
+          <name>Системная шина</name>
+          <value>DMI</value>
+        </item>
+        <item>
+          <name>Встроенный контроллер памяти</name>
+          <value>есть, полоса 21 Гб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Кэш</name>
+        <item>
+          <name>Объем кэша L1</name>
+          <value>64 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>1024 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>8192 Кб</value>
+        </item>
+      </items>
+      <items>
+        <name>Наборы команд</name>
+        <item>
+          <name>Поддержка Hyper-Threading</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Инструкции</name>
+          <value>MMX, SSE, SSE2, SSE3, SSE4</value>
+        </item>
+        <item>
+          <name>Поддержка AMD64/EM64T</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NX Bit</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Virtualization Technology</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Типичное тепловыделение</name>
+          <value>95 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная рабочая температура</name>
+          <value>56.7 °C</value>
+        </item>
+        <item>
+          <name>Поддержка Intel vPro</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67045">
+    <title>Intel Xeon Harpertown</title>
+    <model>Xeon Harpertown</model>
+    <marka>Intel</marka>
+    <catalog id="651600">Процессоры (CPU)</catalog>
+    
+    <price1>4991</price1>
+    <price2>31117</price2>
+    <description>LGA771, 2000-3333 МГц, 12288 Кб, Поддержка SSE2, Поддержка SSE3</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA771</value>
+        </item>
+      </items>
+      <items>
+        <name>Ядро</name>
+        <item>
+          <name>Ядро</name>
+          <value>Harpertown</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>45 нм</value>
+        </item>
+      </items>
+      <items>
+        <name>Частотные характеристики</name>
+        <item>
+          <name>Тактовая частота</name>
+          <value>2333 МГц</value>
+        </item>
+        <item>
+          <name>Системная шина</name>
+          <value>1333 МГц</value>
+        </item>
+        <item>
+          <name>Коэффициент умножения</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Напряжение на ядре</name>
+          <value>1.35 B</value>
+        </item>
+      </items>
+      <items>
+        <name>Кэш</name>
+        <item>
+          <name>Объем кэша L1</name>
+          <value>64 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>12288 Кб</value>
+        </item>
+      </items>
+      <items>
+        <name>Наборы команд</name>
+        <item>
+          <name>Инструкции</name>
+          <value>MMX, SSE, SSE2, SSE3, SSE4</value>
+        </item>
+        <item>
+          <name>Поддержка AMD64/EM64T</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NX Bit</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Virtualization Technology</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Типичное тепловыделение</name>
+          <value>50 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная рабочая температура</name>
+          <value>57 °C</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>напряжение на ядре 0.95В - 1.225В</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67052">
+    <title>Intel Celeron Sandy Bridge</title>
+    <model>Celeron Sandy Bridge</model>
+    <marka>Intel</marka>
+    <catalog id="651600">Процессоры (CPU)</catalog>
+    
+    <price1>1151</price1>
+    <price2>1495</price2>
+    <description>LGA1155, 1600-2700 МГц, 256-512 Кб, 1024-2048 Кб, Поддержка SSE2, Поддержка SSE3, Встроенный контроллер памяти</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA1155</value>
+        </item>
+      </items>
+      <items>
+        <name>Ядро</name>
+        <item>
+          <name>Ядро</name>
+          <value>Sandy Bridge</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>32 нм</value>
+        </item>
+      </items>
+      <items>
+        <name>Частотные характеристики</name>
+        <item>
+          <name>Тактовая частота</name>
+          <value>1900 МГц</value>
+        </item>
+        <item>
+          <name>Системная шина</name>
+          <value>DMI</value>
+        </item>
+        <item>
+          <name>Коэффициент умножения</name>
+          <value>19</value>
+        </item>
+        <item>
+          <name>Интегрированное графическое ядро</name>
+          <value>HD Graphics</value>
+        </item>
+        <item>
+          <name>Встроенный контроллер памяти</name>
+          <value>есть, полоса 17 Гб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Кэш</name>
+        <item>
+          <name>Объем кэша L1</name>
+          <value>64 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>256 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>1536 Кб</value>
+        </item>
+      </items>
+      <items>
+        <name>Наборы команд</name>
+        <item>
+          <name>Поддержка Hyper-Threading</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Инструкции</name>
+          <value>MMX, SSE, SSE2, SSE3, SSE4</value>
+        </item>
+        <item>
+          <name>Поддержка AMD64/EM64T</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NX Bit</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Virtualization Technology</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Типичное тепловыделение</name>
+          <value>35 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная рабочая температура</name>
+          <value>65.5 °C</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67054">
+    <title>Intel Xeon Woodcrest</title>
+    <model>Xeon Woodcrest</model>
+    <marka>Intel</marka>
+    <catalog id="651600">Процессоры (CPU)</catalog>
+    
+    <price1>7560</price1>
+    <price2>62050</price2>
+    <description>LGA771, 1600-3000 МГц, 4096 Кб, Поддержка SSE2, Поддержка SSE3</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA771</value>
+        </item>
+        <item>
+          <name>Код процессора</name>
+          <value>5148</value>
+        </item>
+      </items>
+      <items>
+        <name>Ядро</name>
+        <item>
+          <name>Ядро</name>
+          <value>Woodcrest</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>65 нм</value>
+        </item>
+      </items>
+      <items>
+        <name>Частотные характеристики</name>
+        <item>
+          <name>Тактовая частота</name>
+          <value>2333 МГц</value>
+        </item>
+        <item>
+          <name>Системная шина</name>
+          <value>1333 МГц</value>
+        </item>
+        <item>
+          <name>Коэффициент умножения</name>
+          <value>6.5</value>
+        </item>
+        <item>
+          <name>Напряжение на ядре</name>
+          <value>1.25 B</value>
+        </item>
+      </items>
+      <items>
+        <name>Кэш</name>
+        <item>
+          <name>Объем кэша L1</name>
+          <value>64 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>4096 Кб</value>
+        </item>
+      </items>
+      <items>
+        <name>Наборы команд</name>
+        <item>
+          <name>Инструкции</name>
+          <value>MMX, SSE, SSE2, SSE3</value>
+        </item>
+        <item>
+          <name>Поддержка AMD64/EM64T</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NX Bit</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Virtualization Technology</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Типичное тепловыделение</name>
+          <value>40 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная рабочая температура</name>
+          <value>58 °C</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67058">
+    <title>Intel Xeon Gainestown</title>
+    <model>Xeon Gainestown</model>
+    <marka>Intel</marka>
+    <catalog id="651600">Процессоры (CPU)</catalog>
+    
+    <price1>6582</price1>
+    <price2>21460</price2>
+    <description>LGA1366, 1866-3200 МГц, 512-1024 Кб, 4096-8192 Кб, Поддержка SSE2, Поддержка SSE3, Встроенный контроллер памяти</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA1366</value>
+        </item>
+      </items>
+      <items>
+        <name>Ядро</name>
+        <item>
+          <name>Ядро</name>
+          <value>Gainestown</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>45 нм</value>
+        </item>
+      </items>
+      <items>
+        <name>Частотные характеристики</name>
+        <item>
+          <name>Тактовая частота</name>
+          <value>1866 МГц</value>
+        </item>
+        <item>
+          <name>Системная шина</name>
+          <value>QPI</value>
+        </item>
+        <item>
+          <name>Коэффициент умножения</name>
+          <value>14</value>
+        </item>
+        <item>
+          <name>Напряжение на ядре</name>
+          <value>0.75 B</value>
+        </item>
+        <item>
+          <name>Встроенный контроллер памяти</name>
+          <value>есть, полоса 19.2 Гб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Кэш</name>
+        <item>
+          <name>Объем кэша L1</name>
+          <value>64 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>512 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>4096 Кб</value>
+        </item>
+      </items>
+      <items>
+        <name>Наборы команд</name>
+        <item>
+          <name>Инструкции</name>
+          <value>MMX, SSE, SSE2, SSE3, SSE4</value>
+        </item>
+        <item>
+          <name>Поддержка AMD64/EM64T</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NX Bit</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Типичное тепловыделение</name>
+          <value>80 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная рабочая температура</name>
+          <value>76 °C</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>напряжение на ядре 0.75В-1.35В</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67060">
+    <title>AMD Opteron Dual Core Santa Rosa</title>
+    <model>Opteron Dual Core Santa Rosa</model>
+    <marka>AMD</marka>
+    <catalog id="651600">Процессоры (CPU)</catalog>
+    
+    <price1>8258</price1>
+    <price2>23002</price2>
+    <description>S1207 (Socket F), 1800-3000 МГц, 2048 Кб, Поддержка SSE2, Поддержка SSE3, Встроенный контроллер памяти</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Socket</name>
+          <value>S1207 (Socket F)</value>
+        </item>
+        <item>
+          <name>Код процессора</name>
+          <value>2212</value>
+        </item>
+      </items>
+      <items>
+        <name>Ядро</name>
+        <item>
+          <name>Ядро</name>
+          <value>Santa Rosa</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>90 нм</value>
+        </item>
+      </items>
+      <items>
+        <name>Частотные характеристики</name>
+        <item>
+          <name>Тактовая частота</name>
+          <value>2000 МГц</value>
+        </item>
+        <item>
+          <name>Системная шина</name>
+          <value>HT</value>
+        </item>
+        <item>
+          <name>Напряжение на ядре</name>
+          <value>1.3 B</value>
+        </item>
+        <item>
+          <name>Встроенный контроллер памяти</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Кэш</name>
+        <item>
+          <name>Объем кэша L1</name>
+          <value>128 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>2048 Кб</value>
+        </item>
+      </items>
+      <items>
+        <name>Наборы команд</name>
+        <item>
+          <name>Инструкции</name>
+          <value>MMX, SSE, SSE2, SSE3, 3DNow!</value>
+        </item>
+        <item>
+          <name>Поддержка AMD64/EM64T</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NX Bit</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Virtualization Technology</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Типичное тепловыделение</name>
+          <value>95 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная рабочая температура</name>
+          <value>72 °C</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>напряжение на ядре 1.30В/1.35В</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67063">
+    <title>AMD Athlon II X3</title>
+    <model>Athlon II X3</model>
+    <marka>AMD</marka>
+    <catalog id="651600">Процессоры (CPU)</catalog>
+    
+    <price1>1770</price1>
+    <price2>3610</price2>
+    <description>AM3, 2600-3400 МГц, 1536 Кб, Поддержка SSE2, Поддержка SSE3, Встроенный контроллер памяти</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Socket</name>
+          <value>AM3</value>
+        </item>
+      </items>
+      <items>
+        <name>Ядро</name>
+        <item>
+          <name>Ядро</name>
+          <value>Rana</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>45 нм</value>
+        </item>
+      </items>
+      <items>
+        <name>Частотные характеристики</name>
+        <item>
+          <name>Тактовая частота</name>
+          <value>3200 МГц</value>
+        </item>
+        <item>
+          <name>Системная шина</name>
+          <value>HT</value>
+        </item>
+        <item>
+          <name>Коэффициент умножения</name>
+          <value>16</value>
+        </item>
+        <item>
+          <name>Встроенный контроллер памяти</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Кэш</name>
+        <item>
+          <name>Объем кэша L1</name>
+          <value>128 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>1536 Кб</value>
+        </item>
+      </items>
+      <items>
+        <name>Наборы команд</name>
+        <item>
+          <name>Инструкции</name>
+          <value>MMX, SSE, SSE2, SSE3, SSE4, 3DNow!</value>
+        </item>
+        <item>
+          <name>Поддержка AMD64/EM64T</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NX Bit</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Virtualization Technology</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Типичное тепловыделение</name>
+          <value>95 Вт</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67069">
+    <title>Intel Xeon Clovertown</title>
+    <model>Xeon Clovertown</model>
+    <marka>Intel</marka>
+    <catalog id="651600">Процессоры (CPU)</catalog>
+    
+    <price1>8609</price1>
+    <price2>39072</price2>
+    <description>LGA771, 1600-3000 МГц, 8192 Кб, Поддержка SSE2, Поддержка SSE3</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA771</value>
+        </item>
+      </items>
+      <items>
+        <name>Ядро</name>
+        <item>
+          <name>Ядро</name>
+          <value>Clovertown</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>65 нм</value>
+        </item>
+      </items>
+      <items>
+        <name>Частотные характеристики</name>
+        <item>
+          <name>Тактовая частота</name>
+          <value>1600 МГц</value>
+        </item>
+        <item>
+          <name>Системная шина</name>
+          <value>1066 МГц</value>
+        </item>
+        <item>
+          <name>Коэффициент умножения</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Напряжение на ядре</name>
+          <value>1.5 B</value>
+        </item>
+      </items>
+      <items>
+        <name>Кэш</name>
+        <item>
+          <name>Объем кэша L1</name>
+          <value>64 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>8192 Кб</value>
+        </item>
+      </items>
+      <items>
+        <name>Наборы команд</name>
+        <item>
+          <name>Инструкции</name>
+          <value>MMX, SSE, SSE2, SSE3</value>
+        </item>
+        <item>
+          <name>Поддержка AMD64/EM64T</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NX Bit</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Virtualization Technology</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Типичное тепловыделение</name>
+          <value>80 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная рабочая температура</name>
+          <value>66 °C</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67070">
+    <title>AMD A6 Llano</title>
+    <model>A6 Llano</model>
+    <marka>AMD</marka>
+    <catalog id="651600">Процессоры (CPU)</catalog>
+    
+    <price1>1099</price1>
+    <price2>3700</price2>
+    <description>FM1, 2100-2700 МГц, 3072-4096 Кб, Поддержка SSE2, Поддержка SSE3, Встроенный контроллер памяти</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Socket</name>
+          <value>FM1</value>
+        </item>
+      </items>
+      <items>
+        <name>Ядро</name>
+        <item>
+          <name>Ядро</name>
+          <value>Llano</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>32 нм</value>
+        </item>
+      </items>
+      <items>
+        <name>Частотные характеристики</name>
+        <item>
+          <name>Тактовая частота</name>
+          <value>2100 МГц</value>
+        </item>
+        <item>
+          <name>Интегрированное графическое ядро</name>
+          <value>HD 6530D</value>
+        </item>
+        <item>
+          <name>Встроенный контроллер памяти</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Кэш</name>
+        <item>
+          <name>Объем кэша L1</name>
+          <value>128 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>3072 Кб</value>
+        </item>
+      </items>
+      <items>
+        <name>Наборы команд</name>
+        <item>
+          <name>Инструкции</name>
+          <value>MMX, SSE, SSE2, SSE3, SSE4, 3DNow!</value>
+        </item>
+        <item>
+          <name>Поддержка AMD64/EM64T</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NX Bit</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Virtualization Technology</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Типичное тепловыделение</name>
+          <value>65 Вт</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67074">
+    <title>Intel Xeon Ivy Bridge-H2</title>
+    <model>Xeon Ivy Bridge-H2</model>
+    <marka>Intel</marka>
+    <catalog id="651600">Процессоры (CPU)</catalog>
+    
+    <price1>6781</price1>
+    <price2>16016</price2>
+    <description>LGA1155, 2300-3700 МГц, 512-1024 Кб, 3072-8192 Кб, Поддержка SSE2, Поддержка SSE3, Встроенный контроллер памяти</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA1155</value>
+        </item>
+      </items>
+      <items>
+        <name>Ядро</name>
+        <item>
+          <name>Ядро</name>
+          <value>Ivy Bridge-H2</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>22 нм</value>
+        </item>
+      </items>
+      <items>
+        <name>Частотные характеристики</name>
+        <item>
+          <name>Тактовая частота</name>
+          <value>3100 МГц</value>
+        </item>
+        <item>
+          <name>Системная шина</name>
+          <value>DMI</value>
+        </item>
+        <item>
+          <name>Коэффициент умножения</name>
+          <value>31</value>
+        </item>
+        <item>
+          <name>Встроенный контроллер памяти</name>
+          <value>есть, полоса 25.6 Гб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Кэш</name>
+        <item>
+          <name>Объем кэша L1</name>
+          <value>64 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>1024 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>8192 Кб</value>
+        </item>
+      </items>
+      <items>
+        <name>Наборы команд</name>
+        <item>
+          <name>Инструкции</name>
+          <value>MMX, SSE, SSE2, SSE3, SSE4</value>
+        </item>
+        <item>
+          <name>Поддержка AMD64/EM64T</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NX Bit</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Virtualization Technology</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Типичное тепловыделение</name>
+          <value>69 Вт</value>
+        </item>
+        <item>
+          <name>Поддержка Intel vPro</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67083">
+    <title>AMD Opteron Dual Core Italy</title>
+    <model>Opteron Dual Core Italy</model>
+    <marka>AMD</marka>
+    <catalog id="651600">Процессоры (CPU)</catalog>
+    
+    <price1>25312</price1>
+    <price2>107151</price2>
+    <description>S940, 1800-2600 МГц, 2048 Кб, Поддержка SSE2, Поддержка SSE3 (опционально), Встроенный контроллер памяти</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Socket</name>
+          <value>S940</value>
+        </item>
+        <item>
+          <name>Код процессора</name>
+          <value>285</value>
+        </item>
+      </items>
+      <items>
+        <name>Ядро</name>
+        <item>
+          <name>Ядро</name>
+          <value>Italy</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>90 нм</value>
+        </item>
+      </items>
+      <items>
+        <name>Частотные характеристики</name>
+        <item>
+          <name>Тактовая частота</name>
+          <value>2600 МГц</value>
+        </item>
+        <item>
+          <name>Системная шина</name>
+          <value>HT</value>
+        </item>
+        <item>
+          <name>Напряжение на ядре</name>
+          <value>1.35 B</value>
+        </item>
+        <item>
+          <name>Встроенный контроллер памяти</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Кэш</name>
+        <item>
+          <name>Объем кэша L1</name>
+          <value>128 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>2048 Кб</value>
+        </item>
+      </items>
+      <items>
+        <name>Наборы команд</name>
+        <item>
+          <name>Инструкции</name>
+          <value>MMX, SSE, SSE2, SSE3, 3DNow!</value>
+        </item>
+        <item>
+          <name>Поддержка AMD64/EM64T</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NX Bit</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Типичное тепловыделение</name>
+          <value>95 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная рабочая температура</name>
+          <value>67 °C</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67088">
+    <title>Intel Xeon MP Beckton</title>
+    <model>Xeon MP Beckton</model>
+    <marka>Intel</marka>
+    <catalog id="651600">Процессоры (CPU)</catalog>
+    
+    <price1>24734</price1>
+    <price2>105822</price2>
+    <description>LGA1567, 1867-2667 МГц, 1024-2048 Кб, 12288-24576 Кб, Поддержка SSE2, Поддержка SSE3</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA1567</value>
+        </item>
+      </items>
+      <items>
+        <name>Ядро</name>
+        <item>
+          <name>Ядро</name>
+          <value>Beckton</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>45 нм</value>
+        </item>
+      </items>
+      <items>
+        <name>Частотные характеристики</name>
+        <item>
+          <name>Тактовая частота</name>
+          <value>1867 МГц</value>
+        </item>
+        <item>
+          <name>Системная шина</name>
+          <value>QPI</value>
+        </item>
+        <item>
+          <name>Коэффициент умножения</name>
+          <value>14</value>
+        </item>
+        <item>
+          <name>Напряжение на ядре</name>
+          <value>0.675 B</value>
+        </item>
+      </items>
+      <items>
+        <name>Кэш</name>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>1536 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>12288 Кб</value>
+        </item>
+      </items>
+      <items>
+        <name>Наборы команд</name>
+        <item>
+          <name>Поддержка Hyper-Threading</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Инструкции</name>
+          <value>MMX, SSE, SSE2, SSE3, SSE4</value>
+        </item>
+        <item>
+          <name>Поддержка AMD64/EM64T</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NX Bit</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Virtualization Technology</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Типичное тепловыделение</name>
+          <value>105 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная рабочая температура</name>
+          <value>64 °C</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>напряжение на ядре 0.675–1.35В</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67094">
+    <title>Intel Core i7 Extreme Edition Sandy Bridge-E</title>
+    <model>Core i7 Extreme Edition Sandy Bridge-E</model>
+    <marka>Intel</marka>
+    <catalog id="651600">Процессоры (CPU)</catalog>
+    
+    <price1>31920</price1>
+    <price2>37275</price2>
+    <description>LGA2011, 3300 МГц, 1536 Кб, 15360 Кб, Поддержка SSE2, Поддержка SSE3, Встроенный контроллер памяти</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA2011</value>
+        </item>
+      </items>
+      <items>
+        <name>Ядро</name>
+        <item>
+          <name>Ядро</name>
+          <value>Sandy Bridge-E</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>32 нм</value>
+        </item>
+      </items>
+      <items>
+        <name>Частотные характеристики</name>
+        <item>
+          <name>Тактовая частота</name>
+          <value>3300 МГц</value>
+        </item>
+        <item>
+          <name>Напряжение на ядре</name>
+          <value>0.6 B</value>
+        </item>
+        <item>
+          <name>Встроенный контроллер памяти</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Кэш</name>
+        <item>
+          <name>Объем кэша L1</name>
+          <value>64 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>1536 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L3</name>
+          <value>15360 Кб</value>
+        </item>
+      </items>
+      <items>
+        <name>Наборы команд</name>
+        <item>
+          <name>Поддержка Hyper-Threading</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Инструкции</name>
+          <value>MMX, SSE, SSE2, SSE3, SSE4</value>
+        </item>
+        <item>
+          <name>Поддержка AMD64/EM64T</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NX Bit</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Virtualization Technology</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Типичное тепловыделение</name>
+          <value>130 Вт</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>напряжение на ядре 0.6-1.35В</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="67097">
+    <title>Intel Celeron Wolfdale</title>
+    <model>Celeron Wolfdale</model>
+    <marka>Intel</marka>
+    <catalog id="651600">Процессоры (CPU)</catalog>
+    
+    <price1>858</price1>
+    <price2>2290</price2>
+    <description>LGA775, 2500-2600 МГц, 1024 Кб, Поддержка SSE2, Поддержка SSE3</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Socket</name>
+          <value>LGA775</value>
+        </item>
+      </items>
+      <items>
+        <name>Ядро</name>
+        <item>
+          <name>Ядро</name>
+          <value>Wolfdale</value>
+        </item>
+        <item>
+          <name>Количество ядер</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Техпроцесс</name>
+          <value>45 нм</value>
+        </item>
+      </items>
+      <items>
+        <name>Частотные характеристики</name>
+        <item>
+          <name>Тактовая частота</name>
+          <value>2500 МГц</value>
+        </item>
+        <item>
+          <name>Системная шина</name>
+          <value>800 МГц</value>
+        </item>
+        <item>
+          <name>Коэффициент умножения</name>
+          <value>12.5</value>
+        </item>
+      </items>
+      <items>
+        <name>Кэш</name>
+        <item>
+          <name>Объем кэша L1</name>
+          <value>64 Кб</value>
+        </item>
+        <item>
+          <name>Объем кэша L2</name>
+          <value>1024 Кб</value>
+        </item>
+      </items>
+      <items>
+        <name>Наборы команд</name>
+        <item>
+          <name>Инструкции</name>
+          <value>MMX, SSE, SSE2, SSE3</value>
+        </item>
+        <item>
+          <name>Поддержка AMD64/EM64T</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка NX Bit</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка Virtualization Technology</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Типичное тепловыделение</name>
+          <value>65 Вт</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

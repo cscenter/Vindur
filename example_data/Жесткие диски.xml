@@ -1,0 +1,2001 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="57343">
+    <title>Seagate ST500DM002</title>
+    <model>ST500DM002</model>
+    <marka>Seagate</marka>
+    <catalog id="686672">Жесткие диски</catalog>
+    
+    <price1>1527</price1>
+    <price2>3780</price2>
+    <description>
+Barracuda 7200.12, для настольного компьютера, 3.5&amp;quot;, SATA 6Gb/s, 500 Гб, буфер 16 Мб, скорость вращения 7200 rpm, cреднее время доступа 8.5 мс
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Линейка</name>
+          <value>Barracuda 7200.14</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>HDD</value>
+        </item>
+        <item>
+          <name>Поддержка секторов размером 4 Кб</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>для настольного компьютера</value>
+        </item>
+        <item>
+          <name>Форм-фактор HDD</name>
+          <value>3.5"</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики накопителя</name>
+        <item>
+          <name>Объем</name>
+          <value>500 Гб</value>
+        </item>
+        <item>
+          <name>Объем буферной памяти</name>
+          <value>16 Мб</value>
+        </item>
+        <item>
+          <name>Количество головок</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество пластин</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>7200 rpm</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейс</name>
+        <item>
+          <name>Подключение</name>
+          <value>SATA 6Gb/s</value>
+        </item>
+        <item>
+          <name>Внешняя скорость передачи данных</name>
+          <value>600 Мб/с</value>
+        </item>
+        <item>
+          <name>Поддержка NCQ</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Временные характеристики</name>
+        <item>
+          <name>Среднее время доступа, чтение</name>
+          <value>8.5 мс</value>
+        </item>
+        <item>
+          <name>Среднее время доступа, запись</name>
+          <value>9.5 мс</value>
+        </item>
+        <item>
+          <name>Среднее время задержки (Latency)</name>
+          <value>4.16 мс</value>
+        </item>
+      </items>
+      <items>
+        <name>Механика/Надежность</name>
+        <item>
+          <name>Ударостойкость при работе</name>
+          <value>70 G</value>
+        </item>
+        <item>
+          <name>Уровень шума работы</name>
+          <value>27 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>8 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>101.6x20x146.99 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="57345">
+    <title>Western Digital WD20EARX</title>
+    <model>WD20EARX</model>
+    <marka>Western Digital</marka>
+    <catalog id="686672">Жесткие диски</catalog>
+    
+    <price1>3347</price1>
+    <price2>7650</price2>
+    <description>
+WD Caviar Green, для настольного компьютера, 3.5&amp;quot;, SATA 6Gb/s, 2000 Гб, буфер 64 Мб
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Линейка</name>
+          <value>WD Caviar Green</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>HDD</value>
+        </item>
+        <item>
+          <name>Поддержка секторов размером 4 Кб</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>для настольного компьютера</value>
+        </item>
+        <item>
+          <name>Форм-фактор HDD</name>
+          <value>3.5"</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики накопителя</name>
+        <item>
+          <name>Объем</name>
+          <value>2000 Гб</value>
+        </item>
+        <item>
+          <name>Объем буферной памяти</name>
+          <value>64 Мб</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейс</name>
+        <item>
+          <name>Подключение</name>
+          <value>SATA 6Gb/s</value>
+        </item>
+        <item>
+          <name>Внешняя скорость передачи данных</name>
+          <value>600 Мб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Механика/Надежность</name>
+        <item>
+          <name>Ударостойкость при работе</name>
+          <value>30 G</value>
+        </item>
+        <item>
+          <name>Ударостойкость при хранении</name>
+          <value>250 G</value>
+        </item>
+        <item>
+          <name>Уровень шума простоя</name>
+          <value>24 дБ</value>
+        </item>
+        <item>
+          <name>Уровень шума работы</name>
+          <value>29 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>4.50 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>101.6x25.4x147 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>640 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="57346">
+    <title>Western Digital WD30EZRX</title>
+    <model>WD30EZRX</model>
+    <marka>Western Digital</marka>
+    <catalog id="686672">Жесткие диски</catalog>
+    
+    <price1>3647</price1>
+    <price2>7490</price2>
+    <description>
+WD Caviar Green, для настольного компьютера, 3.5&amp;quot;, SATA 6Gb/s, 3000 Гб, буфер 64 Мб
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Линейка</name>
+          <value>WD Caviar Green</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>HDD</value>
+        </item>
+        <item>
+          <name>Поддержка секторов размером 4 Кб</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>для настольного компьютера</value>
+        </item>
+        <item>
+          <name>Форм-фактор HDD</name>
+          <value>3.5"</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики накопителя</name>
+        <item>
+          <name>Объем</name>
+          <value>3000 Гб</value>
+        </item>
+        <item>
+          <name>Объем буферной памяти</name>
+          <value>64 Мб</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейс</name>
+        <item>
+          <name>Подключение</name>
+          <value>SATA 6Gb/s</value>
+        </item>
+        <item>
+          <name>Внешняя скорость передачи данных</name>
+          <value>600 Мб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Механика/Надежность</name>
+        <item>
+          <name>Ударостойкость при работе</name>
+          <value>65 G</value>
+        </item>
+        <item>
+          <name>Ударостойкость при хранении</name>
+          <value>250 G</value>
+        </item>
+        <item>
+          <name>Уровень шума простоя</name>
+          <value>24 дБ</value>
+        </item>
+        <item>
+          <name>Уровень шума работы</name>
+          <value>29 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>6 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>101.6x25.4x147 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>730 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="57352">
+    <title>Seagate ST2000DM001</title>
+    <model>ST2000DM001</model>
+    <marka>Seagate</marka>
+    <catalog id="686672">Жесткие диски</catalog>
+    
+    <price1>2697</price1>
+    <price2>5915</price2>
+    <description>
+Barracuda 7200.14, для настольного компьютера, 3.5&amp;quot;, SATA 6Gb/s, 2000 Гб, буфер 64 Мб, скорость вращения 7200 rpm, cреднее время доступа 8.5 мс
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Линейка</name>
+          <value>Barracuda 7200.14</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>HDD</value>
+        </item>
+        <item>
+          <name>Поддержка секторов размером 4 Кб</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>для настольного компьютера</value>
+        </item>
+        <item>
+          <name>Форм-фактор HDD</name>
+          <value>3.5"</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики накопителя</name>
+        <item>
+          <name>Объем</name>
+          <value>2000 Гб</value>
+        </item>
+        <item>
+          <name>Объем буферной памяти</name>
+          <value>64 Мб</value>
+        </item>
+        <item>
+          <name>Количество головок</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Количество пластин</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>7200 rpm</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейс</name>
+        <item>
+          <name>Подключение</name>
+          <value>SATA 6Gb/s</value>
+        </item>
+        <item>
+          <name>Внешняя скорость передачи данных</name>
+          <value>600 Мб/с</value>
+        </item>
+        <item>
+          <name>Поддержка NCQ</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Временные характеристики</name>
+        <item>
+          <name>Среднее время доступа, чтение</name>
+          <value>8.5 мс</value>
+        </item>
+        <item>
+          <name>Среднее время доступа, запись</name>
+          <value>9.5 мс</value>
+        </item>
+        <item>
+          <name>Среднее время задержки (Latency)</name>
+          <value>4.16 мс</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>8 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>101.6x26.11x146.99 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>626 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="57362">
+    <title>Transcend TS750GSJ25M2</title>
+    <model>TS750GSJ25M2</model>
+    <marka>Transcend</marka>
+    <catalog id="686672">Жесткие диски</catalog>
+    
+    <price1>2650</price1>
+    <price2>5064</price2>
+    <description>
+StoreJet 25M2, внешний, 2.5&amp;quot;, USB 2.0, 750 Гб, буфер 8 Мб, скорость вращения 5400 rpm
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Линейка</name>
+          <value>StoreJet 25M2</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>HDD</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Форм-фактор HDD</name>
+          <value>2.5"</value>
+        </item>
+        <item>
+          <name>Количество мест под HDD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество HDD</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики накопителя</name>
+        <item>
+          <name>Объем</name>
+          <value>750 Гб</value>
+        </item>
+        <item>
+          <name>Объем буферной памяти</name>
+          <value>8 Мб</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>5400 rpm</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейс</name>
+        <item>
+          <name>Подключение</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Внешняя скорость передачи данных</name>
+          <value>60 Мб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Питание от двух USB</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>82.4x20.4x126.25 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>206 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="57365">
+    <title>ADATA CH94 500GB</title>
+    <model>CH94 500GB</model>
+    <marka>ADATA</marka>
+    <catalog id="686672">Жесткие диски</catalog>
+    
+    <price1>1897</price1>
+    <price2>2554</price2>
+    <description>
+CH94, внешний, 2.5&amp;quot;, USB 2.0, 500 Гб
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Линейка</name>
+          <value>CH94</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>HDD</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Форм-фактор HDD</name>
+          <value>2.5"</value>
+        </item>
+        <item>
+          <name>Количество мест под HDD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество HDD</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики накопителя</name>
+        <item>
+          <name>Объем</name>
+          <value>500 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейс</name>
+        <item>
+          <name>Подключение</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Внешняя скорость передачи данных</name>
+          <value>60 Мб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>87.05x20.3x130.88 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>172 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="57367">
+    <title>Western Digital WD5000AAKX</title>
+    <model>WD5000AAKX</model>
+    <marka>Western Digital</marka>
+    <catalog id="686672">Жесткие диски</catalog>
+    
+    <price1>1491</price1>
+    <price2>5910</price2>
+    <description>
+WD Caviar Blue, для настольного компьютера, 3.5&amp;quot;, SATA 6Gb/s, 500 Гб, буфер 16 Мб, скорость вращения 7200 rpm
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Линейка</name>
+          <value>WD Caviar Blue</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>HDD</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>для настольного компьютера</value>
+        </item>
+        <item>
+          <name>Форм-фактор HDD</name>
+          <value>3.5"</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики накопителя</name>
+        <item>
+          <name>Объем</name>
+          <value>500 Гб</value>
+        </item>
+        <item>
+          <name>Объем буферной памяти</name>
+          <value>16 Мб</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>7200 rpm</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейс</name>
+        <item>
+          <name>Подключение</name>
+          <value>SATA 6Gb/s</value>
+        </item>
+        <item>
+          <name>Внешняя скорость передачи данных</name>
+          <value>600 Мб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Механика/Надежность</name>
+        <item>
+          <name>Ударостойкость при работе</name>
+          <value>30 G</value>
+        </item>
+        <item>
+          <name>Ударостойкость при хранении</name>
+          <value>350 G</value>
+        </item>
+        <item>
+          <name>Уровень шума простоя</name>
+          <value>29 дБ</value>
+        </item>
+        <item>
+          <name>Уровень шума работы</name>
+          <value>30 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>6 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>101.6x25.4x147 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>450 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="57368">
+    <title>Seagate ST3000DM001</title>
+    <model>ST3000DM001</model>
+    <marka>Seagate</marka>
+    <catalog id="686672">Жесткие диски</catalog>
+    
+    <price1>3538</price1>
+    <price2>7385</price2>
+    <description>
+Barracuda 7200.14, для настольного компьютера, 3.5&amp;quot;, SATA 6Gb/s, 3000 Гб, буфер 64 Мб, скорость вращения 7200 rpm, cреднее время доступа 8.5 мс
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Линейка</name>
+          <value>Barracuda 7200.14</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>HDD</value>
+        </item>
+        <item>
+          <name>Поддержка секторов размером 4 Кб</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>для настольного компьютера</value>
+        </item>
+        <item>
+          <name>Форм-фактор HDD</name>
+          <value>3.5"</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики накопителя</name>
+        <item>
+          <name>Объем</name>
+          <value>3000 Гб</value>
+        </item>
+        <item>
+          <name>Объем буферной памяти</name>
+          <value>64 Мб</value>
+        </item>
+        <item>
+          <name>Количество головок</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Количество пластин</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>7200 rpm</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейс</name>
+        <item>
+          <name>Подключение</name>
+          <value>SATA 6Gb/s</value>
+        </item>
+        <item>
+          <name>Внешняя скорость передачи данных</name>
+          <value>600 Мб/с</value>
+        </item>
+        <item>
+          <name>Поддержка NCQ</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Временные характеристики</name>
+        <item>
+          <name>Среднее время доступа, чтение</name>
+          <value>8.5 мс</value>
+        </item>
+        <item>
+          <name>Среднее время доступа, запись</name>
+          <value>9.5 мс</value>
+        </item>
+        <item>
+          <name>Среднее время задержки (Latency)</name>
+          <value>4.16 мс</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>8 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>101.6x26.11x146.99 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>626 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="57375">
+    <title>Seagate ST320DM000</title>
+    <model>ST320DM000</model>
+    <marka>Seagate</marka>
+    <catalog id="686672">Жесткие диски</catalog>
+    
+    <price1>1795</price1>
+    <price2>5310</price2>
+    <description>
+Barracuda 7200.12, для настольного компьютера, 3.5&amp;quot;, SATA 6Gb/s, 320 Гб, буфер 16 Мб, скорость вращения 7200 rpm
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Линейка</name>
+          <value>Barracuda 7200.14</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>HDD</value>
+        </item>
+        <item>
+          <name>Поддержка секторов размером 4 Кб</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>для настольного компьютера</value>
+        </item>
+        <item>
+          <name>Форм-фактор HDD</name>
+          <value>3.5"</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики накопителя</name>
+        <item>
+          <name>Объем</name>
+          <value>320 Гб</value>
+        </item>
+        <item>
+          <name>Объем буферной памяти</name>
+          <value>16 Мб</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>7200 rpm</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейс</name>
+        <item>
+          <name>Подключение</name>
+          <value>SATA 6Gb/s</value>
+        </item>
+        <item>
+          <name>Внешняя скорость передачи данных</name>
+          <value>600 Мб/с</value>
+        </item>
+        <item>
+          <name>Поддержка NCQ</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Временные характеристики</name>
+        <item>
+          <name>Среднее время доступа, чтение</name>
+          <value>8.5 мс</value>
+        </item>
+        <item>
+          <name>Среднее время доступа, запись</name>
+          <value>9.5 мс</value>
+        </item>
+        <item>
+          <name>Среднее время задержки (Latency)</name>
+          <value>4.17 мс</value>
+        </item>
+      </items>
+      <items>
+        <name>Механика/Надежность</name>
+        <item>
+          <name>Ударостойкость при работе</name>
+          <value>70 G</value>
+        </item>
+        <item>
+          <name>Уровень шума работы</name>
+          <value>27 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>8 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>101.6x20x146.99 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>410 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="57377">
+    <title>Transcend TS500GSJ25H3P</title>
+    <model>TS500GSJ25H3P</model>
+    <marka>Transcend</marka>
+    <catalog id="686672">Жесткие диски</catalog>
+    
+    <price1>1942</price1>
+    <price2>3842</price2>
+    <description>
+StoreJet 25H3P, внешний, 2.5&amp;quot;, USB 3.0, 500 Гб, буфер 8 Мб, скорость вращения 5400 rpm
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Линейка</name>
+          <value>StoreJet 25H3P</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>HDD</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Форм-фактор HDD</name>
+          <value>2.5"</value>
+        </item>
+        <item>
+          <name>Количество мест под HDD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество HDD</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики накопителя</name>
+        <item>
+          <name>Объем</name>
+          <value>500 Гб</value>
+        </item>
+        <item>
+          <name>Объем буферной памяти</name>
+          <value>8 Мб</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>5400 rpm</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейс</name>
+        <item>
+          <name>Подключение</name>
+          <value>USB 3.0</value>
+        </item>
+        <item>
+          <name>Внешняя скорость передачи данных</name>
+          <value>500 Мб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Питание от двух USB</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>80.8x19x130.8 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>216 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="57379">
+    <title>Seagate ST3300657SS</title>
+    <model>ST3300657SS</model>
+    <marka>Seagate</marka>
+    <catalog id="686672">Жесткие диски</catalog>
+    
+    <price1>4628</price1>
+    <price2>19480</price2>
+    <description>
+Cheetah 15K.7, для сервера, 3.5&amp;quot;, SAS, 300 Гб, буфер 16 Мб, скорость вращения 15000 rpm, cреднее время доступа 3.4 мс
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Линейка</name>
+          <value>Cheetah 15K.7</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>HDD</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>для сервера</value>
+        </item>
+        <item>
+          <name>Форм-фактор HDD</name>
+          <value>3.5"</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики накопителя</name>
+        <item>
+          <name>Объем</name>
+          <value>300 Гб</value>
+        </item>
+        <item>
+          <name>Объем буферной памяти</name>
+          <value>16 Мб</value>
+        </item>
+        <item>
+          <name>Количество головок</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Количество пластин</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>15000 rpm</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейс</name>
+        <item>
+          <name>Подключение</name>
+          <value>SAS</value>
+        </item>
+        <item>
+          <name>Внешняя скорость передачи данных</name>
+          <value>600 Мб/с</value>
+        </item>
+        <item>
+          <name>Внутренняя скорость передачи данных</name>
+          <value>2370 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Временные характеристики</name>
+        <item>
+          <name>Среднее время доступа, чтение</name>
+          <value>3.4 мс</value>
+        </item>
+        <item>
+          <name>Среднее время доступа, запись</name>
+          <value>3.9 мс</value>
+        </item>
+        <item>
+          <name>Время доступа track to track</name>
+          <value>0.2 мс</value>
+        </item>
+        <item>
+          <name>Среднее время задержки (Latency)</name>
+          <value>2 мс</value>
+        </item>
+      </items>
+      <items>
+        <name>Механика/Надежность</name>
+        <item>
+          <name>Ударостойкость при работе</name>
+          <value>60 G</value>
+        </item>
+        <item>
+          <name>Ударостойкость при хранении</name>
+          <value>300 G</value>
+        </item>
+        <item>
+          <name>Уровень шума простоя</name>
+          <value>36 дБ</value>
+        </item>
+        <item>
+          <name>Время наработки на отказ</name>
+          <value>1600000 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>8.98 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>101.6x25.4x146.52 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>671 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="57387">
+    <title>Western Digital WD5003ABYX</title>
+    <model>WD5003ABYX</model>
+    <marka>Western Digital</marka>
+    <catalog id="686672">Жесткие диски</catalog>
+    
+    <price1>2497</price1>
+    <price2>8280</price2>
+    <description>
+WD RE4, для сервера, 3.5&amp;quot;, SATA 3Gb/s, 500 Гб, буфер 64 Мб, скорость вращения 7200 rpm
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Линейка</name>
+          <value>WD RE4</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>HDD</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>для сервера</value>
+        </item>
+        <item>
+          <name>Форм-фактор HDD</name>
+          <value>3.5"</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики накопителя</name>
+        <item>
+          <name>Объем</name>
+          <value>500 Гб</value>
+        </item>
+        <item>
+          <name>Объем буферной памяти</name>
+          <value>64 Мб</value>
+        </item>
+        <item>
+          <name>Количество головок</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Количество пластин</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>7200 rpm</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейс</name>
+        <item>
+          <name>Подключение</name>
+          <value>SATA 3Gb/s</value>
+        </item>
+        <item>
+          <name>Внешняя скорость передачи данных</name>
+          <value>300 Мб/с</value>
+        </item>
+        <item>
+          <name>Поддержка NCQ</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Временные характеристики</name>
+        <item>
+          <name>Среднее время задержки (Latency)</name>
+          <value>4.2 мс</value>
+        </item>
+      </items>
+      <items>
+        <name>Механика/Надежность</name>
+        <item>
+          <name>Ударостойкость при работе</name>
+          <value>65 G</value>
+        </item>
+        <item>
+          <name>Ударостойкость при хранении</name>
+          <value>350 G</value>
+        </item>
+        <item>
+          <name>Уровень шума простоя</name>
+          <value>27 дБ</value>
+        </item>
+        <item>
+          <name>Уровень шума работы</name>
+          <value>30 дБ</value>
+        </item>
+        <item>
+          <name>Время наработки на отказ</name>
+          <value>1200000 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>7.90 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>101.6x26.1x147 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>450 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="57390">
+    <title>Western Digital WD2500AAKX</title>
+    <model>WD2500AAKX</model>
+    <marka>Western Digital</marka>
+    <catalog id="686672">Жесткие диски</catalog>
+    
+    <price1>1399</price1>
+    <price2>5320</price2>
+    <description>
+WD Caviar Blue, для настольного компьютера, 3.5&amp;quot;, SATA 6Gb/s, 250 Гб, буфер 16 Мб, скорость вращения 7200 rpm
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Линейка</name>
+          <value>WD Caviar Blue</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>HDD</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>для настольного компьютера</value>
+        </item>
+        <item>
+          <name>Форм-фактор HDD</name>
+          <value>3.5"</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики накопителя</name>
+        <item>
+          <name>Объем</name>
+          <value>250 Гб</value>
+        </item>
+        <item>
+          <name>Объем буферной памяти</name>
+          <value>16 Мб</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>7200 rpm</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейс</name>
+        <item>
+          <name>Подключение</name>
+          <value>SATA 6Gb/s</value>
+        </item>
+        <item>
+          <name>Внешняя скорость передачи данных</name>
+          <value>600 Мб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Механика/Надежность</name>
+        <item>
+          <name>Ударостойкость при работе</name>
+          <value>65 G</value>
+        </item>
+        <item>
+          <name>Ударостойкость при хранении</name>
+          <value>350 G</value>
+        </item>
+        <item>
+          <name>Уровень шума простоя</name>
+          <value>29 дБ</value>
+        </item>
+        <item>
+          <name>Уровень шума работы</name>
+          <value>30 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>6 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>101.6x25.4x147 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>450 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="57395">
+    <title>Seagate ST33000650SS</title>
+    <model>ST33000650SS</model>
+    <marka>Seagate</marka>
+    <catalog id="686672">Жесткие диски</catalog>
+    
+    <price1>8070</price1>
+    <price2>22420</price2>
+    <description>
+Constellation ES.2, для сервера, 3.5&amp;quot;, SAS, 3000 Гб, буфер 64 Мб, скорость вращения 7200 rpm, cреднее время доступа 8.5 мс
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Линейка</name>
+          <value>Constellation ES.2</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>HDD</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>для сервера</value>
+        </item>
+        <item>
+          <name>Форм-фактор HDD</name>
+          <value>3.5"</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики накопителя</name>
+        <item>
+          <name>Объем</name>
+          <value>3000 Гб</value>
+        </item>
+        <item>
+          <name>Объем буферной памяти</name>
+          <value>64 Мб</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>7200 rpm</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейс</name>
+        <item>
+          <name>Подключение</name>
+          <value>SAS</value>
+        </item>
+        <item>
+          <name>Внешняя скорость передачи данных</name>
+          <value>600 Мб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Временные характеристики</name>
+        <item>
+          <name>Среднее время доступа, чтение</name>
+          <value>8.5 мс</value>
+        </item>
+        <item>
+          <name>Среднее время доступа, запись</name>
+          <value>9.5 мс</value>
+        </item>
+        <item>
+          <name>Среднее время задержки (Latency)</name>
+          <value>4.16 мс</value>
+        </item>
+      </items>
+      <items>
+        <name>Механика/Надежность</name>
+        <item>
+          <name>Ударостойкость при работе</name>
+          <value>40 G</value>
+        </item>
+        <item>
+          <name>Ударостойкость при хранении</name>
+          <value>300 G</value>
+        </item>
+        <item>
+          <name>Время наработки на отказ</name>
+          <value>1200000 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>11.30 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>101.85x26.1x147 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>700 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="57398">
+    <title>Seagate ST3600057SS</title>
+    <model>ST3600057SS</model>
+    <marka>Seagate</marka>
+    <catalog id="686672">Жесткие диски</catalog>
+    
+    <price1>8280</price1>
+    <price2>22460</price2>
+    <description>
+Cheetah 15K.7, для сервера, 3.5&amp;quot;, SAS, 600 Гб, буфер 16 Мб, скорость вращения 15000 rpm, cреднее время доступа 3.4 мс
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Линейка</name>
+          <value>Cheetah 15K.7</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>HDD</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>для сервера</value>
+        </item>
+        <item>
+          <name>Форм-фактор HDD</name>
+          <value>3.5"</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики накопителя</name>
+        <item>
+          <name>Объем</name>
+          <value>600 Гб</value>
+        </item>
+        <item>
+          <name>Объем буферной памяти</name>
+          <value>16 Мб</value>
+        </item>
+        <item>
+          <name>Количество головок</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Количество пластин</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>15000 rpm</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейс</name>
+        <item>
+          <name>Подключение</name>
+          <value>SAS</value>
+        </item>
+        <item>
+          <name>Внешняя скорость передачи данных</name>
+          <value>600 Мб/с</value>
+        </item>
+        <item>
+          <name>Внутренняя скорость передачи данных</name>
+          <value>2370 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Временные характеристики</name>
+        <item>
+          <name>Среднее время доступа, чтение</name>
+          <value>3.4 мс</value>
+        </item>
+        <item>
+          <name>Среднее время доступа, запись</name>
+          <value>3.9 мс</value>
+        </item>
+        <item>
+          <name>Время доступа track to track</name>
+          <value>0.2 мс</value>
+        </item>
+        <item>
+          <name>Среднее время задержки (Latency)</name>
+          <value>2 мс</value>
+        </item>
+      </items>
+      <items>
+        <name>Механика/Надежность</name>
+        <item>
+          <name>Ударостойкость при работе</name>
+          <value>60 G</value>
+        </item>
+        <item>
+          <name>Ударостойкость при хранении</name>
+          <value>300 G</value>
+        </item>
+        <item>
+          <name>Уровень шума простоя</name>
+          <value>36 дБ</value>
+        </item>
+        <item>
+          <name>Время наработки на отказ</name>
+          <value>1600000 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>11.68 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>101.6x25.4x146.52 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>686 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="57401">
+    <title>Seagate ST250DM000</title>
+    <model>ST250DM000</model>
+    <marka>Seagate</marka>
+    <catalog id="686672">Жесткие диски</catalog>
+    
+    <price1>1389</price1>
+    <price2>5070</price2>
+    <description>
+Barracuda 7200.12, для настольного компьютера, 3.5&amp;quot;, SATA 6Gb/s, 250 Гб, буфер 16 Мб, скорость вращения 7200 rpm
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Линейка</name>
+          <value>Barracuda 7200.14</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>HDD</value>
+        </item>
+        <item>
+          <name>Поддержка секторов размером 4 Кб</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>для настольного компьютера</value>
+        </item>
+        <item>
+          <name>Форм-фактор HDD</name>
+          <value>3.5"</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики накопителя</name>
+        <item>
+          <name>Объем</name>
+          <value>250 Гб</value>
+        </item>
+        <item>
+          <name>Объем буферной памяти</name>
+          <value>16 Мб</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>7200 rpm</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейс</name>
+        <item>
+          <name>Подключение</name>
+          <value>SATA 6Gb/s</value>
+        </item>
+        <item>
+          <name>Внешняя скорость передачи данных</name>
+          <value>600 Мб/с</value>
+        </item>
+        <item>
+          <name>Поддержка NCQ</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Временные характеристики</name>
+        <item>
+          <name>Среднее время доступа, чтение</name>
+          <value>8.5 мс</value>
+        </item>
+        <item>
+          <name>Среднее время доступа, запись</name>
+          <value>9.5 мс</value>
+        </item>
+        <item>
+          <name>Среднее время задержки (Latency)</name>
+          <value>4.17 мс</value>
+        </item>
+      </items>
+      <items>
+        <name>Механика/Надежность</name>
+        <item>
+          <name>Ударостойкость при работе</name>
+          <value>70 G</value>
+        </item>
+        <item>
+          <name>Уровень шума работы</name>
+          <value>27 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>8 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>101.6x20x146.99 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="57403">
+    <title>Seagate ST1000NM0011</title>
+    <model>ST1000NM0011</model>
+    <marka>Seagate</marka>
+    <catalog id="686672">Жесткие диски</catalog>
+    
+    <price1>3250</price1>
+    <price2>17740</price2>
+    <description>
+Constellation ES, для сервера, 3.5&amp;quot;, SATA 6Gb/s, 1000 Гб, буфер 64 Мб, скорость вращения 7200 rpm, cреднее время доступа 8.5 мс
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Линейка</name>
+          <value>Constellation ES</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>HDD</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>для сервера</value>
+        </item>
+        <item>
+          <name>Форм-фактор HDD</name>
+          <value>3.5"</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики накопителя</name>
+        <item>
+          <name>Объем</name>
+          <value>1000 Гб</value>
+        </item>
+        <item>
+          <name>Объем буферной памяти</name>
+          <value>64 Мб</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>7200 rpm</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейс</name>
+        <item>
+          <name>Подключение</name>
+          <value>SATA 6Gb/s</value>
+        </item>
+        <item>
+          <name>Внешняя скорость передачи данных</name>
+          <value>600 Мб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Временные характеристики</name>
+        <item>
+          <name>Среднее время доступа, чтение</name>
+          <value>8.5 мс</value>
+        </item>
+        <item>
+          <name>Среднее время доступа, запись</name>
+          <value>9.5 мс</value>
+        </item>
+        <item>
+          <name>Среднее время задержки (Latency)</name>
+          <value>4.16 мс</value>
+        </item>
+      </items>
+      <items>
+        <name>Механика/Надежность</name>
+        <item>
+          <name>Ударостойкость при работе</name>
+          <value>70 G</value>
+        </item>
+        <item>
+          <name>Ударостойкость при хранении</name>
+          <value>350 G</value>
+        </item>
+        <item>
+          <name>Время наработки на отказ</name>
+          <value>1200000 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>5.16 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>101.85x26.11x147 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>640 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="57404">
+    <title>Seagate ST32000645NS</title>
+    <model>ST32000645NS</model>
+    <marka>Seagate</marka>
+    <catalog id="686672">Жесткие диски</catalog>
+    
+    <price1>4790</price1>
+    <price2>8085</price2>
+    <description>
+Constellation ES.2, для сервера, 3.5&amp;quot;, SATA 6Gb/s, 2000 Гб, буфер 64 Мб, скорость вращения 7200 rpm, cреднее время доступа 8.5 мс
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Линейка</name>
+          <value>Constellation ES.2</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>HDD</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>для сервера</value>
+        </item>
+        <item>
+          <name>Форм-фактор HDD</name>
+          <value>3.5"</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики накопителя</name>
+        <item>
+          <name>Объем</name>
+          <value>2000 Гб</value>
+        </item>
+        <item>
+          <name>Объем буферной памяти</name>
+          <value>64 Мб</value>
+        </item>
+        <item>
+          <name>Скорость вращения</name>
+          <value>7200 rpm</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейс</name>
+        <item>
+          <name>Подключение</name>
+          <value>SATA 6Gb/s</value>
+        </item>
+        <item>
+          <name>Внешняя скорость передачи данных</name>
+          <value>600 Мб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Временные характеристики</name>
+        <item>
+          <name>Среднее время доступа, чтение</name>
+          <value>8.5 мс</value>
+        </item>
+        <item>
+          <name>Среднее время доступа, запись</name>
+          <value>9.5 мс</value>
+        </item>
+        <item>
+          <name>Среднее время задержки (Latency)</name>
+          <value>4.16 мс</value>
+        </item>
+      </items>
+      <items>
+        <name>Механика/Надежность</name>
+        <item>
+          <name>Ударостойкость при работе</name>
+          <value>40 G</value>
+        </item>
+        <item>
+          <name>Ударостойкость при хранении</name>
+          <value>300 G</value>
+        </item>
+        <item>
+          <name>Время наработки на отказ</name>
+          <value>1200000 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>10.70 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>101.85x26.1x147 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>700 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="57408">
+    <title>Western Digital WDBPCK5000ABK</title>
+    <model>WDBPCK5000ABK</model>
+    <marka>Western Digital</marka>
+    <catalog id="686672">Жесткие диски</catalog>
+    
+    <price1>1995</price1>
+    <price2>3355</price2>
+    <description>
+WD Elements Portable SE, внешний, 2.5&amp;quot;, USB 3.0, 500 Гб
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Линейка</name>
+          <value>WD Elements Portable SE</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>HDD</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Форм-фактор HDD</name>
+          <value>2.5"</value>
+        </item>
+        <item>
+          <name>Количество мест под HDD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество HDD</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики накопителя</name>
+        <item>
+          <name>Объем</name>
+          <value>500 Гб</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейс</name>
+        <item>
+          <name>Подключение</name>
+          <value>USB 3.0</value>
+        </item>
+        <item>
+          <name>Внешняя скорость передачи данных</name>
+          <value>500 Мб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>78x19x113 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>210 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="57410">
+    <title>Western Digital WD10EZRX</title>
+    <model>WD10EZRX</model>
+    <marka>Western Digital</marka>
+    <catalog id="686672">Жесткие диски</catalog>
+    
+    <price1>1823</price1>
+    <price2>5145</price2>
+    <description>
+WD Caviar Green, для настольного компьютера, 3.5&amp;quot;, SATA 6Gb/s, 1000 Гб, буфер 64 Мб
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Линейка</name>
+          <value>WD Caviar Green</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>HDD</value>
+        </item>
+        <item>
+          <name>Поддержка секторов размером 4 Кб</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>для настольного компьютера</value>
+        </item>
+        <item>
+          <name>Форм-фактор HDD</name>
+          <value>3.5"</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики накопителя</name>
+        <item>
+          <name>Объем</name>
+          <value>1000 Гб</value>
+        </item>
+        <item>
+          <name>Объем буферной памяти</name>
+          <value>64 Мб</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейс</name>
+        <item>
+          <name>Подключение</name>
+          <value>SATA 6Gb/s</value>
+        </item>
+        <item>
+          <name>Внешняя скорость передачи данных</name>
+          <value>600 Мб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Механика/Надежность</name>
+        <item>
+          <name>Ударостойкость при работе</name>
+          <value>30 G</value>
+        </item>
+        <item>
+          <name>Ударостойкость при хранении</name>
+          <value>350 G</value>
+        </item>
+        <item>
+          <name>Уровень шума простоя</name>
+          <value>21 дБ</value>
+        </item>
+        <item>
+          <name>Уровень шума работы</name>
+          <value>22 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>3.70 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>101.6x26.1x147 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>450 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

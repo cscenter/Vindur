@@ -1,0 +1,1849 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="80524">
+    <title>Plantronics .Audio 995</title>
+    <model>.Audio 995</model>
+    <marka>Plantronics</marka>
+    <catalog id="6339840">Компьютерные гарнитуры</catalog>
+    
+    <price1>2001</price1>
+    <price2>3011</price2>
+    <description>
+
+
+
+
+беспроводная гарнитура с мониторными наушниками, регулятор громкости, разъем USB
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип наушников</name>
+          <value>мониторные</value>
+        </item>
+        <item>
+          <name>Частота воспроизведения</name>
+          <value>20 - 20000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Микрофон</name>
+        <item>
+          <name>Крепление микрофона</name>
+          <value>подвижное</value>
+        </item>
+        <item>
+          <name>Выключение микрофона</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Тип крепления</name>
+          <value>оголовье</value>
+        </item>
+        <item>
+          <name>Диаметр мембраны</name>
+          <value>40 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Тип подключения</name>
+          <value>беспроводное</value>
+        </item>
+        <item>
+          <name>Разъём</name>
+          <value>USB</value>
+        </item>
+      </items>
+      <items>
+        <name>Беспроводные гарнитуры</name>
+        <item>
+          <name>Канал передачи данных</name>
+          <value>радиоканал</value>
+        </item>
+        <item>
+          <name>Цифровая передача сигнала</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Радиус действия беспроводной гарнитуры</name>
+          <value>12 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Продолжительность работы от аккумуляторов</name>
+          <value>8 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Регулятор громкости</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>регулятор громкости на наушнике</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80526">
+    <title>Plantronics .Audio 355</title>
+    <model>.Audio 355</model>
+    <marka>Plantronics</marka>
+    <catalog id="6339840">Компьютерные гарнитуры</catalog>
+    
+    <price1>727</price1>
+    <price2>1100</price2>
+    <description>
+
+
+
+
+проводная гарнитура с мониторными наушниками, регулятор громкости, вес 360 г, разъем mini jack 3.5 mm, кабель 2 м
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип наушников</name>
+          <value>мониторные</value>
+        </item>
+        <item>
+          <name>Частота воспроизведения</name>
+          <value>20 - 20000 Гц</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>360 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Микрофон</name>
+        <item>
+          <name>Крепление микрофона</name>
+          <value>подвижное</value>
+        </item>
+        <item>
+          <name>Частотный диапазон микрофона</name>
+          <value>100 - 10000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Тип крепления</name>
+          <value>оголовье</value>
+        </item>
+        <item>
+          <name>Диаметр мембраны</name>
+          <value>40 мм</value>
+        </item>
+        <item>
+          <name>Подключение кабеля</name>
+          <value>одностороннее</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Тип подключения</name>
+          <value>с проводом</value>
+        </item>
+        <item>
+          <name>Разъём</name>
+          <value>2 x mini jack 3.5 mm</value>
+        </item>
+        <item>
+          <name>Форма разъема</name>
+          <value>прямая</value>
+        </item>
+        <item>
+          <name>Длина кабеля</name>
+          <value>2 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Регулятор громкости</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>регулятор громкости на проводе</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80527">
+    <title>Plantronics .Audio 310</title>
+    <model>.Audio 310</model>
+    <marka>Plantronics</marka>
+    <catalog id="6339840">Компьютерные гарнитуры</catalog>
+    
+    <price1>500</price1>
+    <price2>1120</price2>
+    <description>
+
+
+
+
+проводная гарнитура с накладными наушниками, односторонняя, микрофон с шумоподавлением, разъем mini jack 3.5 mm
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип наушников</name>
+          <value>накладные</value>
+        </item>
+      </items>
+      <items>
+        <name>Микрофон</name>
+        <item>
+          <name>Микрофон с шумоподавлением</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Крепление микрофона</name>
+          <value>подвижное</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Односторонняя гарнитура</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Тип крепления</name>
+          <value>оголовье</value>
+        </item>
+        <item>
+          <name>Подключение кабеля</name>
+          <value>одностороннее</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Тип подключения</name>
+          <value>с проводом</value>
+        </item>
+        <item>
+          <name>Разъём</name>
+          <value>2 x mini jack 3.5 mm</value>
+        </item>
+        <item>
+          <name>Форма разъема</name>
+          <value>прямая</value>
+        </item>
+        <item>
+          <name>Позолоченные разъемы</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80529">
+    <title>Logitech G35 Surround Sound Headset</title>
+    <model>G35 Surround Sound Headset</model>
+    <marka>Logitech</marka>
+    <catalog id="6339840">Компьютерные гарнитуры</catalog>
+    
+    <price1>3316</price1>
+    <price2>4890</price2>
+    <description>
+
+
+
+
+проводная гарнитура с мониторными наушниками, регулятор громкости, микрофон с шумоподавлением, разъем USB, кабель 3 м
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип наушников</name>
+          <value>мониторные</value>
+        </item>
+        <item>
+          <name>Частота воспроизведения</name>
+          <value>20 - 20000 Гц</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>32 Ом</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>90 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Микрофон</name>
+        <item>
+          <name>Микрофон с шумоподавлением</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Крепление микрофона</name>
+          <value>подвижное</value>
+        </item>
+        <item>
+          <name>Импеданс микрофона</name>
+          <value>2200 Ом</value>
+        </item>
+        <item>
+          <name>Чувствительность микрофона</name>
+          <value>-42 дБ</value>
+        </item>
+        <item>
+          <name>Частотный диапазон микрофона</name>
+          <value>100 - 10000 Гц</value>
+        </item>
+        <item>
+          <name>Выключение микрофона</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Тип крепления</name>
+          <value>оголовье</value>
+        </item>
+        <item>
+          <name>Диаметр мембраны</name>
+          <value>40 мм</value>
+        </item>
+        <item>
+          <name>Подключение кабеля</name>
+          <value>одностороннее</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Тип подключения</name>
+          <value>с проводом</value>
+        </item>
+        <item>
+          <name>Разъём</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Длина кабеля</name>
+          <value>3 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Звук Surround</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Изменение голоса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулятор громкости</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Неодимовые магниты</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>регулятор громкости на наушнике, в комплекте 3 сменных накладки для обода оголовья</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80532">
+    <title>Plantronics .Audio 628</title>
+    <model>.Audio 628</model>
+    <marka>Plantronics</marka>
+    <catalog id="6339840">Компьютерные гарнитуры</catalog>
+    
+    <price1>993</price1>
+    <price2>1510</price2>
+    <description>
+
+
+
+
+проводная гарнитура с накладными наушниками, регулятор громкости, микрофон с шумоподавлением, разъем USB, кабель 2 м
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип наушников</name>
+          <value>накладные</value>
+        </item>
+        <item>
+          <name>Частота воспроизведения</name>
+          <value>20 - 20000 Гц</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>32 Ом</value>
+        </item>
+      </items>
+      <items>
+        <name>Микрофон</name>
+        <item>
+          <name>Микрофон с шумоподавлением</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Крепление микрофона</name>
+          <value>подвижное</value>
+        </item>
+        <item>
+          <name>Частотный диапазон микрофона</name>
+          <value>100 - 10000 Гц</value>
+        </item>
+        <item>
+          <name>Выключение микрофона</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Тип крепления</name>
+          <value>оголовье</value>
+        </item>
+        <item>
+          <name>Подключение кабеля</name>
+          <value>двухстороннее</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Тип подключения</name>
+          <value>с проводом</value>
+        </item>
+        <item>
+          <name>Разъём</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Длина кабеля</name>
+          <value>2 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Регулятор громкости</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>регулятор громкости на проводе</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80533">
+    <title>Logitech USB Headset H360</title>
+    <model>USB Headset H360</model>
+    <marka>Logitech</marka>
+    <catalog id="6339840">Компьютерные гарнитуры</catalog>
+    
+    <price1>800</price1>
+    <price2>1898</price2>
+    <description>
+
+
+
+
+проводная гарнитура с накладными наушниками, регулятор громкости, разъем USB
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип наушников</name>
+          <value>накладные</value>
+        </item>
+        <item>
+          <name>Частота воспроизведения</name>
+          <value>40 - 18000 Гц</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>32 Ом</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>94 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Микрофон</name>
+        <item>
+          <name>Крепление микрофона</name>
+          <value>подвижное</value>
+        </item>
+        <item>
+          <name>Импеданс микрофона</name>
+          <value>2200 Ом</value>
+        </item>
+        <item>
+          <name>Чувствительность микрофона</name>
+          <value>-44 дБ</value>
+        </item>
+        <item>
+          <name>Частотный диапазон микрофона</name>
+          <value>100 - 16000 Гц</value>
+        </item>
+        <item>
+          <name>Выключение микрофона</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Тип крепления</name>
+          <value>затылочная дужка</value>
+        </item>
+        <item>
+          <name>Подключение кабеля</name>
+          <value>одностороннее</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Тип подключения</name>
+          <value>с проводом</value>
+        </item>
+        <item>
+          <name>Разъём</name>
+          <value>USB</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Регулятор громкости</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>регулятор громкости на проводе</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80534">
+    <title>Logitech Stereo Headset H390</title>
+    <model>Stereo Headset H390</model>
+    <marka>Logitech</marka>
+    <catalog id="6339840">Компьютерные гарнитуры</catalog>
+    
+    <price1>1039</price1>
+    <price2>3220</price2>
+    <description>
+
+
+
+
+проводная гарнитура с накладными наушниками, регулятор громкости, разъем USB, кабель 2.4 м
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип наушников</name>
+          <value>накладные</value>
+        </item>
+        <item>
+          <name>Частота воспроизведения</name>
+          <value>20 - 20000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Микрофон</name>
+        <item>
+          <name>Крепление микрофона</name>
+          <value>подвижное</value>
+        </item>
+        <item>
+          <name>Чувствительность микрофона</name>
+          <value>-62 дБ</value>
+        </item>
+        <item>
+          <name>Частотный диапазон микрофона</name>
+          <value>100 - 10000 Гц</value>
+        </item>
+        <item>
+          <name>Выключение микрофона</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Тип крепления</name>
+          <value>оголовье</value>
+        </item>
+        <item>
+          <name>Подключение кабеля</name>
+          <value>одностороннее</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Тип подключения</name>
+          <value>с проводом</value>
+        </item>
+        <item>
+          <name>Разъём</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Длина кабеля</name>
+          <value>2.4 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Регулятор громкости</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>регулятор громкости на проводе</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80535">
+    <title>Plantronics .Audio 345</title>
+    <model>.Audio 345</model>
+    <marka>Plantronics</marka>
+    <catalog id="6339840">Компьютерные гарнитуры</catalog>
+    
+    <price1>506</price1>
+    <price2>890</price2>
+    <description>
+
+
+
+
+проводная гарнитура с накладными наушниками, регулятор громкости, микрофон с шумоподавлением, разъем mini jack 3.5 mm, кабель 3 м
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип наушников</name>
+          <value>накладные</value>
+        </item>
+        <item>
+          <name>Частота воспроизведения</name>
+          <value>20 - 20000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Микрофон</name>
+        <item>
+          <name>Микрофон с шумоподавлением</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Крепление микрофона</name>
+          <value>подвижное</value>
+        </item>
+        <item>
+          <name>Выключение микрофона</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Тип крепления</name>
+          <value>затылочная дужка</value>
+        </item>
+        <item>
+          <name>Диаметр мембраны</name>
+          <value>36 мм</value>
+        </item>
+        <item>
+          <name>Количество излучателей</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Подключение кабеля</name>
+          <value>одностороннее</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Тип подключения</name>
+          <value>с проводом</value>
+        </item>
+        <item>
+          <name>Разъём</name>
+          <value>2 x mini jack 3.5 mm</value>
+        </item>
+        <item>
+          <name>Форма разъема</name>
+          <value>прямая</value>
+        </item>
+        <item>
+          <name>Длина кабеля</name>
+          <value>3 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Регулятор громкости</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80536">
+    <title>Logitech Wireless Gaming Headset G930</title>
+    <model>Wireless Gaming Headset G930</model>
+    <marka>Logitech</marka>
+    <catalog id="6339840">Компьютерные гарнитуры</catalog>
+    
+    <price1>5699</price1>
+    <price2>11880</price2>
+    <description>
+
+
+
+
+беспроводная гарнитура с мониторными наушниками, закрытая, регулятор громкости, микрофон с шумоподавлением, разъем USB
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип наушников</name>
+          <value>мониторные</value>
+        </item>
+        <item>
+          <name>Частота воспроизведения</name>
+          <value>20 - 20000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Микрофон</name>
+        <item>
+          <name>Тип микрофона</name>
+          <value>конденсаторный/электретный</value>
+        </item>
+        <item>
+          <name>Микрофон с шумоподавлением</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Крепление микрофона</name>
+          <value>подвижное</value>
+        </item>
+        <item>
+          <name>Выключение микрофона</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Направленность микрофона</name>
+          <value>направленный</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Тип акустического оформления</name>
+          <value>закрытое</value>
+        </item>
+        <item>
+          <name>Тип крепления</name>
+          <value>оголовье</value>
+        </item>
+        <item>
+          <name>Диаметр мембраны</name>
+          <value>40 мм</value>
+        </item>
+        <item>
+          <name>Складная конструкция</name>
+          <value>да</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Тип подключения</name>
+          <value>беспроводное</value>
+        </item>
+        <item>
+          <name>Разъём</name>
+          <value>USB</value>
+        </item>
+      </items>
+      <items>
+        <name>Беспроводные гарнитуры</name>
+        <item>
+          <name>Канал передачи данных</name>
+          <value>радиоканал</value>
+        </item>
+        <item>
+          <name>Радиус действия беспроводной гарнитуры</name>
+          <value>12 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Продолжительность работы от аккумуляторов</name>
+          <value>10 ч</value>
+        </item>
+        <item>
+          <name>Время зарядки</name>
+          <value>2.5 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Звук Surround</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулятор громкости</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Неодимовые магниты</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>регулятор громкости на наушнике</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80537">
+    <title>Logitech Stereo Headset H250</title>
+    <model>Stereo Headset H250</model>
+    <marka>Logitech</marka>
+    <catalog id="6339840">Компьютерные гарнитуры</catalog>
+    
+    <price1>795</price1>
+    <price2>1696</price2>
+    <description>
+
+
+
+
+проводная гарнитура с накладными наушниками, регулятор громкости, микрофон с шумоподавлением, разъем mini jack 3.5 mm
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип наушников</name>
+          <value>накладные</value>
+        </item>
+      </items>
+      <items>
+        <name>Микрофон</name>
+        <item>
+          <name>Микрофон с шумоподавлением</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Крепление микрофона</name>
+          <value>подвижное</value>
+        </item>
+        <item>
+          <name>Выключение микрофона</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Тип крепления</name>
+          <value>оголовье</value>
+        </item>
+        <item>
+          <name>Подключение кабеля</name>
+          <value>одностороннее</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Тип подключения</name>
+          <value>с проводом</value>
+        </item>
+        <item>
+          <name>Разъём</name>
+          <value>2 x mini jack 3.5 mm</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Регулятор громкости</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>регулятор громкости на проводе</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80541">
+    <title>Plantronics Gamecom 307</title>
+    <model>Gamecom 307</model>
+    <marka>Plantronics</marka>
+    <catalog id="6339840">Компьютерные гарнитуры</catalog>
+    
+    <price1>770</price1>
+    <price2>1480</price2>
+    <description>
+
+
+
+
+проводная гарнитура с мониторными наушниками, регулятор громкости, микрофон с шумоподавлением, разъем mini jack 3.5 mm
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип наушников</name>
+          <value>мониторные</value>
+        </item>
+      </items>
+      <items>
+        <name>Микрофон</name>
+        <item>
+          <name>Микрофон с шумоподавлением</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Крепление микрофона</name>
+          <value>подвижное</value>
+        </item>
+        <item>
+          <name>Выключение микрофона</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Тип крепления</name>
+          <value>оголовье</value>
+        </item>
+        <item>
+          <name>Диаметр мембраны</name>
+          <value>40 мм</value>
+        </item>
+        <item>
+          <name>Подключение кабеля</name>
+          <value>одностороннее</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Тип подключения</name>
+          <value>с проводом</value>
+        </item>
+        <item>
+          <name>Разъём</name>
+          <value>2 x mini jack 3.5 mm</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Регулятор громкости</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>регулятор громкости на проводе</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80567">
+    <title>Microsoft LifeChat LX-3000</title>
+    <model>LifeChat LX-3000</model>
+    <marka>Microsoft</marka>
+    <catalog id="6339840">Компьютерные гарнитуры</catalog>
+    
+    <price1>1018</price1>
+    <price2>1593</price2>
+    <description>
+
+
+
+
+проводная гарнитура с мониторными наушниками, регулятор громкости, разъем USB, кабель 1.8 м
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип наушников</name>
+          <value>мониторные</value>
+        </item>
+      </items>
+      <items>
+        <name>Микрофон</name>
+        <item>
+          <name>Крепление микрофона</name>
+          <value>подвижное</value>
+        </item>
+        <item>
+          <name>Выключение микрофона</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Тип крепления</name>
+          <value>оголовье</value>
+        </item>
+        <item>
+          <name>Подключение кабеля</name>
+          <value>одностороннее</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Тип подключения</name>
+          <value>с проводом</value>
+        </item>
+        <item>
+          <name>Разъём</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Длина кабеля</name>
+          <value>1.8 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Регулятор громкости</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>регулятор громкости на проводе</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80568">
+    <title>Logitech Wireless Headset H800</title>
+    <model>Wireless Headset H800</model>
+    <marka>Logitech</marka>
+    <catalog id="6339840">Компьютерные гарнитуры</catalog>
+    
+    <price1>3620</price1>
+    <price2>7360</price2>
+    <description>
+
+
+
+
+беспроводная гарнитура с накладными наушниками, регулятор громкости, микрофон с шумоподавлением, разъем USB
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип наушников</name>
+          <value>накладные</value>
+        </item>
+      </items>
+      <items>
+        <name>Микрофон</name>
+        <item>
+          <name>Микрофон с шумоподавлением</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Крепление микрофона</name>
+          <value>подвижное</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Тип крепления</name>
+          <value>оголовье</value>
+        </item>
+        <item>
+          <name>Складная конструкция</name>
+          <value>да</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Тип подключения</name>
+          <value>беспроводное</value>
+        </item>
+        <item>
+          <name>Разъём</name>
+          <value>USB</value>
+        </item>
+      </items>
+      <items>
+        <name>Беспроводные гарнитуры</name>
+        <item>
+          <name>Канал передачи данных</name>
+          <value>радиоканал</value>
+        </item>
+        <item>
+          <name>Радиус действия беспроводной гарнитуры</name>
+          <value>12 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Регулятор громкости</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>регулятор громкости на наушнике</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80571">
+    <title>Logitech Stereo Headset H130</title>
+    <model>Stereo Headset H130</model>
+    <marka>Logitech</marka>
+    <catalog id="6339840">Компьютерные гарнитуры</catalog>
+    
+    <price1>650</price1>
+    <price2>999</price2>
+    <description>
+
+
+
+
+проводная гарнитура с накладными наушниками, микрофон с шумоподавлением, разъем mini jack 3.5 mm
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип наушников</name>
+          <value>накладные</value>
+        </item>
+      </items>
+      <items>
+        <name>Микрофон</name>
+        <item>
+          <name>Микрофон с шумоподавлением</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Крепление микрофона</name>
+          <value>подвижное</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Тип крепления</name>
+          <value>затылочная дужка</value>
+        </item>
+        <item>
+          <name>Подключение кабеля</name>
+          <value>одностороннее</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Тип подключения</name>
+          <value>с проводом</value>
+        </item>
+        <item>
+          <name>Разъём</name>
+          <value>2 x mini jack 3.5 mm</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80577">
+    <title>Plantronics .Audio 440</title>
+    <model>.Audio 440</model>
+    <marka>Plantronics</marka>
+    <catalog id="6339840">Компьютерные гарнитуры</catalog>
+    
+    <price1>300</price1>
+    <price2>935</price2>
+    <description>
+
+
+
+
+проводная гарнитура с наушниками-вкладышами, регулятор громкости, разъем mini jack 3.5 mm, кабель 1.5 м
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип наушников</name>
+          <value>вкладыши</value>
+        </item>
+        <item>
+          <name>Частота воспроизведения</name>
+          <value>100 - 18000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Микрофон</name>
+        <item>
+          <name>Крепление микрофона</name>
+          <value>на проводе</value>
+        </item>
+        <item>
+          <name>Импеданс микрофона</name>
+          <value>2200 Ом</value>
+        </item>
+        <item>
+          <name>Чувствительность микрофона</name>
+          <value>-44 дБ</value>
+        </item>
+        <item>
+          <name>Частотный диапазон микрофона</name>
+          <value>300 - 3000 Гц</value>
+        </item>
+        <item>
+          <name>Выключение микрофона</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Направленность микрофона</name>
+          <value>ненаправленный</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Тип крепления</name>
+          <value>крепление на ухе</value>
+        </item>
+        <item>
+          <name>Диаметр мембраны</name>
+          <value>13.6 мм</value>
+        </item>
+        <item>
+          <name>Подключение кабеля</name>
+          <value>двухстороннее</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Тип подключения</name>
+          <value>с проводом</value>
+        </item>
+        <item>
+          <name>Разъём</name>
+          <value>2 x mini jack 3.5 mm</value>
+        </item>
+        <item>
+          <name>Форма разъема</name>
+          <value>прямая</value>
+        </item>
+        <item>
+          <name>Длина кабеля</name>
+          <value>1.5 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Регулятор громкости</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>регулятор громкости на проводе</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80578">
+    <title>Logitech USB Headset H530</title>
+    <model>USB Headset H530</model>
+    <marka>Logitech</marka>
+    <catalog id="6339840">Компьютерные гарнитуры</catalog>
+    
+    <price1>1260</price1>
+    <price2>1680</price2>
+    <description>
+
+
+
+
+проводная гарнитура с накладными наушниками, регулятор громкости, разъем USB, кабель 2.43 м
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип наушников</name>
+          <value>накладные</value>
+        </item>
+        <item>
+          <name>Частота воспроизведения</name>
+          <value>20 - 20000 Гц</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>62 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Микрофон</name>
+        <item>
+          <name>Крепление микрофона</name>
+          <value>подвижное</value>
+        </item>
+        <item>
+          <name>Чувствительность микрофона</name>
+          <value>-42 дБ</value>
+        </item>
+        <item>
+          <name>Частотный диапазон микрофона</name>
+          <value>100 - 10000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Тип крепления</name>
+          <value>оголовье</value>
+        </item>
+        <item>
+          <name>Диаметр мембраны</name>
+          <value>31 мм</value>
+        </item>
+        <item>
+          <name>Подключение кабеля</name>
+          <value>одностороннее</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Тип подключения</name>
+          <value>с проводом</value>
+        </item>
+        <item>
+          <name>Разъём</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Длина кабеля</name>
+          <value>2.43 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Регулятор громкости</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>регулятор громкости на наушнике</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80599">
+    <title>SteelSeries Siberia Full-size Headset v2</title>
+    <model>Siberia Full-size Headset v2</model>
+    <marka>SteelSeries</marka>
+    <catalog id="6339840">Компьютерные гарнитуры</catalog>
+    
+    <price1>2800</price1>
+    <price2>7590</price2>
+    <description>
+
+
+
+
+проводная гарнитура с мониторными наушниками, закрытая, регулятор громкости, микрофон с шумоподавлением, разъем mini jack 3.5 mm, кабель 1 м
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип наушников</name>
+          <value>мониторные</value>
+        </item>
+        <item>
+          <name>Частота воспроизведения</name>
+          <value>18 - 28000 Гц</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>32 Ом</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>112 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Микрофон</name>
+        <item>
+          <name>Микрофон с шумоподавлением</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Крепление микрофона</name>
+          <value>подвижное</value>
+        </item>
+        <item>
+          <name>Чувствительность микрофона</name>
+          <value>-38 дБ</value>
+        </item>
+        <item>
+          <name>Частотный диапазон микрофона</name>
+          <value>50 - 16000 Гц</value>
+        </item>
+        <item>
+          <name>Выключение микрофона</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Направленность микрофона</name>
+          <value>направленный</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Тип акустического оформления</name>
+          <value>закрытое</value>
+        </item>
+        <item>
+          <name>Тип крепления</name>
+          <value>оголовье</value>
+        </item>
+        <item>
+          <name>Диаметр мембраны</name>
+          <value>50 мм</value>
+        </item>
+        <item>
+          <name>Подключение кабеля</name>
+          <value>одностороннее</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Тип подключения</name>
+          <value>с проводом</value>
+        </item>
+        <item>
+          <name>Разъём</name>
+          <value>2 x mini jack 3.5 mm</value>
+        </item>
+        <item>
+          <name>Длина кабеля</name>
+          <value>1 м</value>
+        </item>
+        <item>
+          <name>Удлинительный кабель в комплекте</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Длина удлинительного кабеля</name>
+          <value>2 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Звук Surround</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулятор громкости</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>регулятор громкости на проводе</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80605">
+    <title>Logitech Stereo Headset H150</title>
+    <model>Stereo Headset H150</model>
+    <marka>Logitech</marka>
+    <catalog id="6339840">Компьютерные гарнитуры</catalog>
+    
+    <price1>459</price1>
+    <price2>1580</price2>
+    <description>
+
+
+
+
+проводная гарнитура с накладными наушниками, регулятор громкости, микрофон с шумоподавлением, разъем mini jack 3.5 mm
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип наушников</name>
+          <value>накладные</value>
+        </item>
+      </items>
+      <items>
+        <name>Микрофон</name>
+        <item>
+          <name>Микрофон с шумоподавлением</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Крепление микрофона</name>
+          <value>подвижное</value>
+        </item>
+        <item>
+          <name>Выключение микрофона</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Тип крепления</name>
+          <value>оголовье</value>
+        </item>
+        <item>
+          <name>Подключение кабеля</name>
+          <value>одностороннее</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Тип подключения</name>
+          <value>с проводом</value>
+        </item>
+        <item>
+          <name>Разъём</name>
+          <value>2 x mini jack 3.5 mm</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Регулятор громкости</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>регулятор громкости на проводе</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80626">
+    <title>Logitech Wireless Headset H600</title>
+    <model>Wireless Headset H600</model>
+    <marka>Logitech</marka>
+    <catalog id="6339840">Компьютерные гарнитуры</catalog>
+    
+    <price1>2380</price1>
+    <price2>4370</price2>
+    <description>
+
+
+
+
+беспроводная гарнитура с накладными наушниками, регулятор громкости, микрофон с шумоподавлением, разъем USB
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип наушников</name>
+          <value>накладные</value>
+        </item>
+      </items>
+      <items>
+        <name>Микрофон</name>
+        <item>
+          <name>Микрофон с шумоподавлением</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Крепление микрофона</name>
+          <value>подвижное</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Тип крепления</name>
+          <value>оголовье</value>
+        </item>
+        <item>
+          <name>Складная конструкция</name>
+          <value>да</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Тип подключения</name>
+          <value>беспроводное</value>
+        </item>
+        <item>
+          <name>Разъём</name>
+          <value>USB</value>
+        </item>
+      </items>
+      <items>
+        <name>Беспроводные гарнитуры</name>
+        <item>
+          <name>Канал передачи данных</name>
+          <value>радиоканал</value>
+        </item>
+        <item>
+          <name>Радиус действия беспроводной гарнитуры</name>
+          <value>10 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Продолжительность работы от аккумуляторов</name>
+          <value>6 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Регулятор громкости</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>регулятор громкости на наушнике</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="80628">
+    <title>Plantronics .Audio 655 DSP</title>
+    <model>.Audio 655 DSP</model>
+    <marka>Plantronics</marka>
+    <catalog id="6339840">Компьютерные гарнитуры</catalog>
+    
+    <price1>1182</price1>
+    <price2>2092</price2>
+    <description>
+
+
+
+
+проводная гарнитура с мониторными наушниками, регулятор громкости, микрофон с шумоподавлением, разъем USB
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип наушников</name>
+          <value>мониторные</value>
+        </item>
+      </items>
+      <items>
+        <name>Микрофон</name>
+        <item>
+          <name>Микрофон с шумоподавлением</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Крепление микрофона</name>
+          <value>подвижное</value>
+        </item>
+        <item>
+          <name>Частотный диапазон микрофона</name>
+          <value>100 - 10000 Гц</value>
+        </item>
+        <item>
+          <name>Выключение микрофона</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Тип крепления</name>
+          <value>оголовье</value>
+        </item>
+        <item>
+          <name>Диаметр мембраны</name>
+          <value>40 мм</value>
+        </item>
+        <item>
+          <name>Подключение кабеля</name>
+          <value>одностороннее</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Тип подключения</name>
+          <value>с проводом</value>
+        </item>
+        <item>
+          <name>Разъём</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Форма разъема</name>
+          <value>прямая</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Регулятор громкости</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>регулятор громкости на наушнике</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

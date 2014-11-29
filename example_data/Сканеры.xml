@@ -1,0 +1,1974 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="70431">
+    <title>Canon CanoScan LiDE 110</title>
+    <model>CanoScan LiDE 110</model>
+    <marka>Canon</marka>
+    <catalog id="142493">Сканеры</catalog>
+    
+    <price1>2278</price1>
+    <price2>3600</price2>
+    <description>
+
+планшетный, CIS, 2400x4800 dpi, USB 2.0
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>планшетный</value>
+        </item>
+        <item>
+          <name>Тип датчика</name>
+          <value>CIS</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>PC, MAC</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x297 мм</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>2400x4800 dpi</value>
+        </item>
+        <item>
+          <name>Разрешение (улучшенное)</name>
+          <value>19200x19200 dpi</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (цветн.)</name>
+          <value>3.7 мс на линию (300 т./д.), 16.7 мс на линию (2400 т./д. )</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (ч/б)</name>
+          <value>3.7 мс на линию (300 т./д.), 5.6 мс на линию (2400 т./д.)</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>48 бит</value>
+        </item>
+        <item>
+          <name>Глубина цвета (внешн.)</name>
+          <value>24 бит</value>
+        </item>
+        <item>
+          <name>Количество оттенков серого</name>
+          <value>256</value>
+        </item>
+        <item>
+          <name>Тип источника света</name>
+          <value>светодиод (LED)</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Питание от USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Формат файла сканирования</name>
+          <value>PDF, JPEG</value>
+        </item>
+        <item>
+          <name>Мощность при работе / в режиме ожидания</name>
+          <value>2 Вт / 1 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>250x40x370 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.6 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70433">
+    <title>HP ScanJet G2410</title>
+    <model>ScanJet G2410</model>
+    <marka>HP</marka>
+    <catalog id="142493">Сканеры</catalog>
+    
+    <description>
+
+планшетный, CCD, 1200x1200 dpi, USB 2.0
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>планшетный</value>
+        </item>
+        <item>
+          <name>Тип датчика</name>
+          <value>CCD</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>PC, MAC</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x297 мм</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1200x1200 dpi</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (цветн.)</name>
+          <value>текст A4 около 47 сек, цветное фото 10 x 15 см - 21 с</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (ч/б)</name>
+          <value>текст A4 около 47 сек</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>48 бит</value>
+        </item>
+        <item>
+          <name>Количество оттенков серого</name>
+          <value>256</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Сканирование объемных объектов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Формат файла сканирования</name>
+          <value>BMP, JPEG, TIFF, TIFF со сжатием, PNG, PCX, FlashPix (FPX), PDF, PDF с индексацией для поиска, RTF, HTM, TXT</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>TWAIN</value>
+        </item>
+        <item>
+          <name>Мощность при работе</name>
+          <value>17 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>458x62x275 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.2 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70435">
+    <title>HP ScanJet G4050</title>
+    <model>ScanJet G4050</model>
+    <marka>HP</marka>
+    <catalog id="142493">Сканеры</catalog>
+    
+    <price1>6188</price1>
+    <price2>10478</price2>
+    <description>
+
+планшетный, CCD, 4800x4800 dpi, слайд-адаптер, USB 2.0
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>планшетный</value>
+        </item>
+        <item>
+          <name>Тип датчика</name>
+          <value>CCD</value>
+        </item>
+        <item>
+          <name>Слайд-адаптер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>PC, MAC</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x311 мм</value>
+        </item>
+        <item>
+          <name>Максимальный размер слайда</name>
+          <value>120x120 мм</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>4800x4800 dpi</value>
+        </item>
+        <item>
+          <name>Разрешение (улучшенное)</name>
+          <value>4800x9600 dpi</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (цветн.)</name>
+          <value>А4 - 29 с, слайд - 11с.</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (ч/б)</name>
+          <value>А4 - 29 с, слайд - 11с.</value>
+        </item>
+        <item>
+          <name>Глубина цвета (внешн.)</name>
+          <value>96 бит</value>
+        </item>
+        <item>
+          <name>Количество оттенков серого</name>
+          <value>256</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Сканирование объемных объектов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Формат файла сканирования</name>
+          <value>PDF, BMP, TIFF, TIFF сжатый, PCX, JPEG, FlashPix (FPX), GIF, PNG; HTML, TXT, Rich Text Format (RTF); PDF (доступный для поиска)</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>TWAIN</value>
+        </item>
+        <item>
+          <name>Мощность при работе</name>
+          <value>25 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>303x108x508 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>5.3 кг</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>Возможности устранения загрязнений и царапин, восстановления выцветших цветов, адаптивного осветления, автоматич. устранение эффекта "красных глаз", 30 кадров в слайд адаптере</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70437">
+    <title>Canon CanoScan LiDE 210</title>
+    <model>CanoScan LiDE 210</model>
+    <marka>Canon</marka>
+    <catalog id="142493">Сканеры</catalog>
+    
+    <price1>2648</price1>
+    <price2>6253</price2>
+    <description>
+
+планшетный, CIS, 4800x4800 dpi, USB 2.0
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>планшетный</value>
+        </item>
+        <item>
+          <name>Тип датчика</name>
+          <value>CIS</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>PC, MAC</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x297 мм</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>4800x4800 dpi</value>
+        </item>
+        <item>
+          <name>Разрешение (улучшенное)</name>
+          <value>19200x19200 dpi</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (цветн.)</name>
+          <value>2,2 мс на линию (300 т./д.), 33,2 мс на линию (4800 т./д.)</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (ч/б)</name>
+          <value>2,2 мс на линию (300 т./д.), 11,1 мс на линию (4800 т./д.)</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>48 бит</value>
+        </item>
+        <item>
+          <name>Глубина цвета (внешн.)</name>
+          <value>24 бит</value>
+        </item>
+        <item>
+          <name>Количество оттенков серого</name>
+          <value>256</value>
+        </item>
+        <item>
+          <name>Тип источника света</name>
+          <value>светодиод (LED)</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Питание от USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Формат файла сканирования</name>
+          <value>PDF, JPEG</value>
+        </item>
+        <item>
+          <name>Мощность при работе / в режиме ожидания</name>
+          <value>2 Вт / 1 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>250x39x365 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.6 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70440">
+    <title>HP Scanjet G3110</title>
+    <model>Scanjet G3110</model>
+    <marka>HP</marka>
+    <catalog id="142493">Сканеры</catalog>
+    
+    <price1>3108</price1>
+    <price2>4817</price2>
+    <description>
+
+планшетный, CCD, 4800x9600 dpi, слайд-адаптер, USB 2.0
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>планшетный</value>
+        </item>
+        <item>
+          <name>Тип датчика</name>
+          <value>CCD</value>
+        </item>
+        <item>
+          <name>Слайд-адаптер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>PC, MAC</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>220x300 мм</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>4800x9600 dpi</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (цветн.)</name>
+          <value>цветное фото 10 x 15 см в файл: около 9 с - сканирование нескольких изображений, до 28 с - одного изображения</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>48 бит</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Формат файла сканирования</name>
+          <value>PDF, TIFF, JPG, BMP, PNG, FPX, GIF, PCX, RTF, TXT, HTML, PICT</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>TWAIN</value>
+        </item>
+        <item>
+          <name>Мощность при работе</name>
+          <value>15 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>455x70x305 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.9 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70443">
+    <title>HP ScanJet G4010</title>
+    <model>ScanJet G4010</model>
+    <marka>HP</marka>
+    <catalog id="142493">Сканеры</catalog>
+    
+    <price1>4830</price1>
+    <price2>7124</price2>
+    <description>
+
+планшетный, CCD, 4800x4800 dpi, слайд-адаптер, USB 2.0
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>планшетный</value>
+        </item>
+        <item>
+          <name>Тип датчика</name>
+          <value>CCD</value>
+        </item>
+        <item>
+          <name>Слайд-адаптер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>PC</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x311 мм</value>
+        </item>
+        <item>
+          <name>Максимальный размер слайда</name>
+          <value>35x35 мм</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>4800x4800 dpi</value>
+        </item>
+        <item>
+          <name>Разрешение (улучшенное)</name>
+          <value>4800x9600 dpi</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (цветн.)</name>
+          <value>А4 - 29 с, слайд - 6 с.</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (ч/б)</name>
+          <value>А4 - 29 с, слайд - 6 с.</value>
+        </item>
+        <item>
+          <name>Глубина цвета (внешн.)</name>
+          <value>96 бит</value>
+        </item>
+        <item>
+          <name>Количество оттенков серого</name>
+          <value>256</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Сканирование объемных объектов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Формат файла сканирования</name>
+          <value>PDF, BMP, TIFF, TIFF сжатый, PCX, JPEG, FlashPix (FPX), GIF, PNG; HTML, TXT, Rich Text Format (RTF); PDF, PDF (доступный для поиска)</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>TWAIN</value>
+        </item>
+        <item>
+          <name>Мощность при работе</name>
+          <value>25 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>303x98x508 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4.4 кг</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>Возможности устранения загрязнений и царапин, восстановления выцветших цветов, адаптивного осветления, автоматич. устранение эффекта "красных глаз"</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70445">
+    <title>HP ScanJet N6310</title>
+    <model>ScanJet N6310</model>
+    <marka>HP</marka>
+    <catalog id="142493">Сканеры</catalog>
+    
+    <price1>20830</price1>
+    <price2>29459</price2>
+    <description>
+
+планшетный, CCD, 2400x2400 dpi, слайд-адаптер, устройство автоподачи, USB 2.0
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>планшетный</value>
+        </item>
+        <item>
+          <name>Тип датчика</name>
+          <value>CCD</value>
+        </item>
+        <item>
+          <name>Слайд-адаптер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>PC, MAC</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x356 мм</value>
+        </item>
+        <item>
+          <name>Максимальный размер слайда</name>
+          <value>35x35 мм</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>2400x2400 dpi</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (цветн.)</name>
+          <value>15 стр./мин</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (ч/б)</name>
+          <value>15 стр./мин</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>48 бит</value>
+        </item>
+        <item>
+          <name>Количество оттенков серого</name>
+          <value>256</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Устройство автоподачи</name>
+          <value>одностороннее</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи</name>
+          <value>50 листов</value>
+        </item>
+        <item>
+          <name>Сканирование объемных объектов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Формат файла сканирования</name>
+          <value>PDF, PDF с функцией поиска, JPG, BMP, TIFF, сжатый TIFF, TXT, HTML, RTF, FPX, PNG, PCX</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>ISIS, TWAIN, WIA</value>
+        </item>
+        <item>
+          <name>Мощность при работе</name>
+          <value>60 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>416x162x502 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6.7 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70447">
+    <title>HP ScanJet G2710</title>
+    <model>ScanJet G2710</model>
+    <marka>HP</marka>
+    <catalog id="142493">Сканеры</catalog>
+    
+    <price1>3210</price1>
+    <price2>3421</price2>
+    <description>
+
+планшетный, CCD, 2400x2400 dpi, USB 2.0
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>планшетный</value>
+        </item>
+        <item>
+          <name>Тип датчика</name>
+          <value>CCD</value>
+        </item>
+        <item>
+          <name>Слайд-адаптер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>PC, MAC</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x297 мм</value>
+        </item>
+        <item>
+          <name>Максимальный размер слайда</name>
+          <value>35x35 мм</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>2400x2400 dpi</value>
+        </item>
+        <item>
+          <name>Разрешение (улучшенное)</name>
+          <value>2400x4800 dpi</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (цветн.)</name>
+          <value>текст A4 около 35 сек, цветное фото 10 x 15 см - 21с</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (ч/б)</name>
+          <value>текст A4 около 35 сек</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>48 бит</value>
+        </item>
+        <item>
+          <name>Количество оттенков серого</name>
+          <value>256</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Сканирование объемных объектов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Формат файла сканирования</name>
+          <value>BMP, JPEG, GIF, TIFF, TIFF со сжатием, PNG, PCX, FlashPix (FPX), PDF, PDF с возможностью поиска, RTF, HTM, TXT</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>TWAIN</value>
+        </item>
+        <item>
+          <name>Мощность при работе</name>
+          <value>21 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>450x65x287 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.1 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70453">
+    <title>Canon CanoScan LiDE 700F</title>
+    <model>CanoScan LiDE 700F</model>
+    <marka>Canon</marka>
+    <catalog id="142493">Сканеры</catalog>
+    
+    <price1>3810</price1>
+    <price2>8769</price2>
+    <description>
+
+планшетный, CIS, 4800x4800 dpi, слайд-адаптер, USB 2.0
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>планшетный</value>
+        </item>
+        <item>
+          <name>Тип датчика</name>
+          <value>CIS</value>
+        </item>
+        <item>
+          <name>Слайд-адаптер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>PC, MAC</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x297 мм</value>
+        </item>
+        <item>
+          <name>Максимальный размер слайда</name>
+          <value>35x35 мм</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>4800x4800 dpi</value>
+        </item>
+        <item>
+          <name>Разрешение (улучшенное)</name>
+          <value>19200x19200 dpi</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (цветн.)</name>
+          <value>34,3 мс на линию (4800 dpi)</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (ч/б)</name>
+          <value>11,4 мс на линию (2400 dpi)</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>48 бит</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Питание от USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Формат файла сканирования</name>
+          <value>PDF, JPEG, DOC</value>
+        </item>
+        <item>
+          <name>Мощность при работе / в режиме ожидания</name>
+          <value>2 Вт / 1 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>292x44x409 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.1 кг</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>4 кнопки EZ Button.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70454">
+    <title>HP ScanJet N6350</title>
+    <model>ScanJet N6350</model>
+    <marka>HP</marka>
+    <catalog id="142493">Сканеры</catalog>
+    
+    <price1>26870</price1>
+    <price2>36929</price2>
+    <description>
+
+планшетный, CCD, 2400x2400 dpi, слайд-адаптер, устройство автоподачи, USB 2.0, Ethernet
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>планшетный</value>
+        </item>
+        <item>
+          <name>Тип датчика</name>
+          <value>CCD</value>
+        </item>
+        <item>
+          <name>Слайд-адаптер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0, Ethernet</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>PC</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>220x356 мм</value>
+        </item>
+        <item>
+          <name>Максимальный размер слайда</name>
+          <value>35x35 мм</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>2400x2400 dpi</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (цветн.)</name>
+          <value>15 стр/мин</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>48 бит</value>
+        </item>
+        <item>
+          <name>Количество оттенков серого</name>
+          <value>65536</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Устройство автоподачи</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи</name>
+          <value>50 листов</value>
+        </item>
+        <item>
+          <name>Формат файла сканирования</name>
+          <value>PDF, PDF с функцией поиска, JPG, BMP, TIFF, сжатый TIFF, TXT, HTML, RTF, FPX, PNG, PCX, GIF</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>ISIS, TWAIN</value>
+        </item>
+        <item>
+          <name>Мощность при работе</name>
+          <value>60 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>415x168x502 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6.7 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70456">
+    <title>Canon CanoScan 5600F</title>
+    <model>CanoScan 5600F</model>
+    <marka>Canon</marka>
+    <catalog id="142493">Сканеры</catalog>
+    
+    <price1>6730</price1>
+    <price2>8140</price2>
+    <description>
+
+планшетный, CCD, 4800x9600 dpi, слайд-адаптер, USB 2.0
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>планшетный</value>
+        </item>
+        <item>
+          <name>Тип датчика</name>
+          <value>CCD</value>
+        </item>
+        <item>
+          <name>Слайд-адаптер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>PC, MAC</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x297 мм</value>
+        </item>
+        <item>
+          <name>Максимальный размер слайда</name>
+          <value>35x35 мм</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>4800x9600 dpi</value>
+        </item>
+        <item>
+          <name>Разрешение (улучшенное)</name>
+          <value>19200x19200 dpi</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (цветн.)</name>
+          <value>1,8 мс на линию (300 dpi), 14,6 мс на линию (4800 dpi)</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (ч/б)</name>
+          <value>1,8 мс на линию (300 dpi), 14,6 мс на линию (4800 dpi)</value>
+        </item>
+        <item>
+          <name>Глубина цвета (внешн.)</name>
+          <value>48 бит</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Мощность при работе</name>
+          <value>19 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>272x97x491 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4.3 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70458">
+    <title>Epson Perfection V500 Photo</title>
+    <model>Perfection V500 Photo</model>
+    <marka>Epson</marka>
+    <catalog id="142493">Сканеры</catalog>
+    
+    <price1>12070</price1>
+    <price2>19980</price2>
+    <description>
+
+планшетный, CCD, 6400x9600 dpi, слайд-адаптер, USB 2.0
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>планшетный</value>
+        </item>
+        <item>
+          <name>Тип датчика</name>
+          <value>CCD</value>
+        </item>
+        <item>
+          <name>Слайд-адаптер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>PC, MAC, Linux</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x297 мм</value>
+        </item>
+        <item>
+          <name>Максимальный размер слайда</name>
+          <value>60x120 мм</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>6400x9600 dpi</value>
+        </item>
+        <item>
+          <name>Разрешение (улучшенное)</name>
+          <value>12800x12800 dpi</value>
+        </item>
+        <item>
+          <name>Максимальная оптическая плотность</name>
+          <value>3.4 D</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (цветн.)</name>
+          <value>A4 300 dpi - 15 сек.</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (ч/б)</name>
+          <value>A4 600 dpi - 33 сек.</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>48 бит</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>475x113x272 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70461">
+    <title>Epson GT-1500</title>
+    <model>GT-1500</model>
+    <marka>Epson</marka>
+    <catalog id="142493">Сканеры</catalog>
+    
+    <price1>12070</price1>
+    <price2>15700</price2>
+    <description>
+
+планшетный, CCD, 1200x2400 dpi, устройство автоподачи, USB 2.0
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>планшетный</value>
+        </item>
+        <item>
+          <name>Тип датчика</name>
+          <value>CCD</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>PC, MAC, Linux</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x297 мм</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1200x2400 dpi</value>
+        </item>
+        <item>
+          <name>Разрешение (улучшенное)</name>
+          <value>4800x4800 dpi</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (цветн.)</name>
+          <value>12 стр/мин (A4, 300 dpi)</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (ч/б)</name>
+          <value>20 стр/мин (A4, 300 dpi)</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>48 бит</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Устройство автоподачи</name>
+          <value>одностороннее</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи</name>
+          <value>40 листов</value>
+        </item>
+        <item>
+          <name>Мощность при работе / в режиме ожидания</name>
+          <value>12 Вт / 5 Вт</value>
+        </item>
+        <item>
+          <name>Уровень шума при работе</name>
+          <value>50 дБ</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>470x121x318 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.9 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70463">
+    <title>Epson Perfection V600 Photo</title>
+    <model>Perfection V600 Photo</model>
+    <marka>Epson</marka>
+    <catalog id="142493">Сканеры</catalog>
+    
+    <price1>13540</price1>
+    <price2>19301</price2>
+    <description>
+
+планшетный, CCD, 6400x9600 dpi, слайд-адаптер, USB 2.0
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>планшетный</value>
+        </item>
+        <item>
+          <name>Тип датчика</name>
+          <value>CCD</value>
+        </item>
+        <item>
+          <name>Слайд-адаптер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>PC, MAC</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x297 мм</value>
+        </item>
+        <item>
+          <name>Максимальный размер слайда</name>
+          <value>60x200 мм</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>6400x9600 dpi</value>
+        </item>
+        <item>
+          <name>Разрешение (улучшенное)</name>
+          <value>12800x12800 dpi</value>
+        </item>
+        <item>
+          <name>Максимальная оптическая плотность</name>
+          <value>3.4 D</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (цветн.)</name>
+          <value>4 сек/стр (А4)</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>48 бит</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Набор рамок в комплекте</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мощность при работе</name>
+          <value>16 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>280x118x485 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4.1 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70464">
+    <title>Epson Perfection V750 Pro</title>
+    <model>Perfection V750 Pro</model>
+    <marka>Epson</marka>
+    <catalog id="142493">Сканеры</catalog>
+    
+    <price1>33230</price1>
+    <price2>46100</price2>
+    <description>
+
+планшетный, CCD, 6400x9600 dpi, слайд-адаптер, USB 2.0, FireWire
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>планшетный</value>
+        </item>
+        <item>
+          <name>Тип датчика</name>
+          <value>CCD</value>
+        </item>
+        <item>
+          <name>Слайд-адаптер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0, FireWire</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>PC, MAC, Linux</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x297 мм</value>
+        </item>
+        <item>
+          <name>Максимальный размер слайда</name>
+          <value>120x220 мм</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>6400x9600 dpi</value>
+        </item>
+        <item>
+          <name>Разрешение (улучшенное)</name>
+          <value>12800x12800 dpi</value>
+        </item>
+        <item>
+          <name>Максимальная оптическая плотность</name>
+          <value>4 D</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (цветн.)</name>
+          <value>А4, 300dpi, - 14 сек.,</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (ч/б)</name>
+          <value>А4, 300dpi - 11 сек</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>48 бит</value>
+        </item>
+        <item>
+          <name>Глубина цвета (внешн.)</name>
+          <value>48 бит</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Набор рамок в комплекте</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мощность при работе / в режиме ожидания</name>
+          <value>32 Вт / 19 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>308x152x503 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6.6 кг</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>Автоматическое удаление пыли и царапин с помощью технологии Digital ICE. Сканирует пленки: пленка 120/200, пленка 35 мм, пленка 4 x 5 дюймов</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70466">
+    <title>Epson Perfection V700 Photo</title>
+    <model>Perfection V700 Photo</model>
+    <marka>Epson</marka>
+    <catalog id="142493">Сканеры</catalog>
+    
+    <price1>24940</price1>
+    <price2>34350</price2>
+    <description>
+
+планшетный, CCD, 6400x9600 dpi, слайд-адаптер, USB 2.0, FireWire
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>планшетный</value>
+        </item>
+        <item>
+          <name>Тип датчика</name>
+          <value>CCD</value>
+        </item>
+        <item>
+          <name>Слайд-адаптер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0, FireWire</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>PC, MAC, Linux</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x297 мм</value>
+        </item>
+        <item>
+          <name>Максимальный размер слайда</name>
+          <value>203x254 мм</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>6400x9600 dpi</value>
+        </item>
+        <item>
+          <name>Разрешение (улучшенное)</name>
+          <value>12800x12800 dpi</value>
+        </item>
+        <item>
+          <name>Максимальная оптическая плотность</name>
+          <value>4 D</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (цветн.)</name>
+          <value>14 сек - A4 300dpi</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (ч/б)</name>
+          <value>11 сек.- A4 300dpi</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>48 бит</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Набор рамок в комплекте</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Мощность при работе / в режиме ожидания</name>
+          <value>32 Вт / 4 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>308x152x502 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6.6 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70468">
+    <title>Epson GT-2500</title>
+    <model>GT-2500</model>
+    <marka>Epson</marka>
+    <catalog id="142493">Сканеры</catalog>
+    
+    <description>
+
+протяжный, CCD, 1200x1200 dpi, устройство автоподачи, USB 2.0
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>протяжный</value>
+        </item>
+        <item>
+          <name>Тип датчика</name>
+          <value>CCD</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>PC, MAC, Linux</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x297 мм</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>1200x1200 dpi</value>
+        </item>
+        <item>
+          <name>Разрешение (улучшенное)</name>
+          <value>9600x9600 dpi</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (цветн.)</name>
+          <value>11 стр. в минуту</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (ч/б)</name>
+          <value>27 стр. в минуту</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>48 бит</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Устройство автоподачи</name>
+          <value>двустороннее</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>ISIS, TWAIN</value>
+        </item>
+        <item>
+          <name>Мощность при работе</name>
+          <value>43 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>395x200x468 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>10 кг</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>Двухстороннее сканирование документов. Функция улучшения текста.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70474">
+    <title>Epson GT-20000</title>
+    <model>GT-20000</model>
+    <marka>Epson</marka>
+    <catalog id="142493">Сканеры</catalog>
+    
+    <price1>42090</price1>
+    <price2>51090</price2>
+    <description>
+
+планшетный, CCD, 600x1200 dpi, USB 2.0, SCSI
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>планшетный</value>
+        </item>
+        <item>
+          <name>Тип датчика</name>
+          <value>CCD</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0, SCSI</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>PC, Linux</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A3</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>297x432 мм</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>600x1200 dpi</value>
+        </item>
+        <item>
+          <name>Разрешение (улучшенное)</name>
+          <value>9600x9600 dpi</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (цветн.)</name>
+          <value>300 dpi - 6.1 сек/стр</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (ч/б)</name>
+          <value>300 dpi - 4.3 сек/стр</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>48 бит</value>
+        </item>
+        <item>
+          <name>Глубина цвета (внешн.)</name>
+          <value>24 бит</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>ISIS, TWAIN</value>
+        </item>
+        <item>
+          <name>Мощность при работе</name>
+          <value>60 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>458x158x656 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>13.5 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70478">
+    <title>Epson GT-S85N</title>
+    <model>GT-S85N</model>
+    <marka>Epson</marka>
+    <catalog id="142493">Сканеры</catalog>
+    
+    <price1>30350</price1>
+    <price2>40850</price2>
+    <description>
+
+протяжный, CCD, 600x600 dpi, устройство автоподачи, USB 2.0, Ethernet
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>протяжный</value>
+        </item>
+        <item>
+          <name>Тип датчика</name>
+          <value>CCD</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0, Ethernet</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>PC, MAC</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x914 мм</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (цветн.)</name>
+          <value>40 стр/мин (200dpi); 80 изображ/мин (200dpi)</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (ч/б)</name>
+          <value>40 стр/мин (200dpi); 80 изображ/мин (200dpi)</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>24 бит</value>
+        </item>
+        <item>
+          <name>Количество оттенков серого</name>
+          <value>256</value>
+        </item>
+        <item>
+          <name>Тип источника света</name>
+          <value>светодиод (LED)</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Устройство автоподачи</name>
+          <value>двустороннее</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи</name>
+          <value>75 листов</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>ISIS, TWAIN, WIA</value>
+        </item>
+        <item>
+          <name>Мощность при работе / в режиме ожидания</name>
+          <value>45 Вт / 6 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>302x213x198 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4.6 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="70480">
+    <title>HP Scanjet 5590P</title>
+    <model>Scanjet 5590P</model>
+    <marka>HP</marka>
+    <catalog id="142493">Сканеры</catalog>
+    
+    <price1>5940</price1>
+    <price2>246714</price2>
+    <description>
+
+планшетный, CCD, 2400x2400 dpi, слайд-адаптер, USB 2.0
+
+</description>
+    <specification>
+      <items>
+        <name>Общее</name>
+        <item>
+          <name>Тип</name>
+          <value>планшетный</value>
+        </item>
+        <item>
+          <name>Тип датчика</name>
+          <value>CCD</value>
+        </item>
+        <item>
+          <name>Слайд-адаптер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Совместимость</name>
+          <value>PC, MAC</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x297 мм</value>
+        </item>
+        <item>
+          <name>Максимальный размер слайда</name>
+          <value>35x35 мм</value>
+        </item>
+        <item>
+          <name>Разрешение</name>
+          <value>2400x2400 dpi</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (цветн.)</name>
+          <value>8 стр./мин/4 изображений/мин</value>
+        </item>
+        <item>
+          <name>Скорость сканирования (ч/б)</name>
+          <value>8 стр./мин/4 изображений/мин</value>
+        </item>
+        <item>
+          <name>Глубина цвета</name>
+          <value>48 бит</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Формат файла сканирования</name>
+          <value>BMP, JPEG, TIFF, TIFF со сжатием, PNG, PCX, Flashpix (FPX), PDF, PDF с индексацией для поиска, RTF, HTM, TXT;</value>
+        </item>
+        <item>
+          <name>Поддержка стандартов</name>
+          <value>TWAIN</value>
+        </item>
+        <item>
+          <name>Мощность при работе</name>
+          <value>36 Вт</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>488x83x340 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.4 кг</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>Масштабирование от 10 до 2000% с шагом 1%.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

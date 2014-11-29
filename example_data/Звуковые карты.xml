@@ -1,0 +1,2015 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="64041">
+    <title>Creative Audigy SE</title>
+    <model>Audigy SE</model>
+    <marka>Creative</marka>
+    <catalog id="755738">Звуковые карты</catalog>
+    
+    <price1>750</price1>
+    <price2>2618</price2>
+    <description>
+PCI, 7.1CH, разрядность ЦАП: 24 бит, частота дискретизации ЦАП: 96 кГц, EAX 3
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>внутренняя</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>PCI</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Возможность вывода многоканального звука</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звуковые характеристики</name>
+        <item>
+          <name>Разрядность ЦАП/АЦП</name>
+          <value>24 бит / 24 бит</value>
+        </item>
+        <item>
+          <name>Максимальная частота ЦАП (стерео)</name>
+          <value>96 кГц</value>
+        </item>
+        <item>
+          <name>Максимальная частота ЦАП (многоканальный)</name>
+          <value>96 кГц</value>
+        </item>
+        <item>
+          <name>Максимальная частота АЦП</name>
+          <value>96 кГц</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум ЦАП</name>
+          <value>100 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые входы</name>
+        <item>
+          <name>Входных аналоговых каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Входных разъемов jack 3.5 мм</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Микрофонных входов</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые выходы</name>
+        <item>
+          <name>Выходных аналоговых каналов</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Выходных аналоговых разъемов</name>
+          <value>3</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие разъемы и интерфейсы</name>
+        <item>
+          <name>Цифровые интерфейсы S/PDIF</name>
+          <value>коаксиальный выход</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Поддержка EAX</name>
+          <value>v. 3</value>
+        </item>
+        <item>
+          <name>Поддержка ASIO</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>поддерживает выход SPDIF для подключения цифровых стерео колонок/ цифрового интерфейсного модуля Creative Digital I/O Module, продается отдельно</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64042">
+    <title>Creative Recon3D</title>
+    <model>Recon3D</model>
+    <marka>Creative</marka>
+    <catalog id="755738">Звуковые карты</catalog>
+    
+    <price1>1536</price1>
+    <price2>3971</price2>
+    <description>
+USB, CH, разрядность ЦАП: 24 бит, частота дискретизации ЦАП: 48 кГц
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>внешняя</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Звуковые характеристики</name>
+        <item>
+          <name>Разрядность ЦАП</name>
+          <value>24 бит</value>
+        </item>
+        <item>
+          <name>Максимальная частота ЦАП (стерео)</name>
+          <value>48 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые входы</name>
+        <item>
+          <name>Входных аналоговых каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Входных разъемов jack 3.5 мм</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Микрофонных входов</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые выходы</name>
+        <item>
+          <name>Выходных аналоговых каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Выходных аналоговых разъемов</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие разъемы и интерфейсы</name>
+        <item>
+          <name>Цифровые интерфейсы S/PDIF</name>
+          <value>оптический вход</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Поддержка EAX</name>
+          <value>v. 5</value>
+        </item>
+        <item>
+          <name>Поддержка ASIO</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>виртуально 5.1</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64043">
+    <title>Creative X-Fi Xtreme Audio</title>
+    <model>X-Fi Xtreme Audio</model>
+    <marka>Creative</marka>
+    <catalog id="755738">Звуковые карты</catalog>
+    
+    <price1>1494</price1>
+    <price2>3570</price2>
+    <description>
+PCI, 7.1CH, разрядность ЦАП: 24 бит, частота дискретизации ЦАП: 96 кГц, EAX 4
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>внутренняя</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>PCI 2.1</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Возможность вывода многоканального звука</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звуковые характеристики</name>
+        <item>
+          <name>Разрядность ЦАП/АЦП</name>
+          <value>24 бит / 24 бит</value>
+        </item>
+        <item>
+          <name>Максимальная частота ЦАП (стерео)</name>
+          <value>96 кГц</value>
+        </item>
+        <item>
+          <name>Максимальная частота ЦАП (многоканальный)</name>
+          <value>96 кГц</value>
+        </item>
+        <item>
+          <name>Максимальная частота АЦП</name>
+          <value>96 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые входы</name>
+        <item>
+          <name>Входных аналоговых каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Входных разъемов jack 3.5 мм</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Микрофонных входов</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые выходы</name>
+        <item>
+          <name>Выходных аналоговых каналов</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Выходных аналоговых разъемов</name>
+          <value>3</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие разъемы и интерфейсы</name>
+        <item>
+          <name>Разъем для подключения к передней панели ПК</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Поддержка EAX</name>
+          <value>v. 4</value>
+        </item>
+        <item>
+          <name>Поддержка ASIO</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>S/PDIF in/out коаксиальный и оптический доступен при помощи дополнительного адаптера</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64044">
+    <title>M-Audio Fast Track Ultra</title>
+    <model>Fast Track Ultra</model>
+    <marka>M-Audio</marka>
+    <catalog id="755738">Звуковые карты</catalog>
+    
+    <description>
+USB, 7.1CH, разрядность ЦАП: 24 бит, частота дискретизации ЦАП: 96 кГц, ASIO 2.0
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>внешняя</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность вывода многоканального звука</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звуковые характеристики</name>
+        <item>
+          <name>Разрядность ЦАП/АЦП</name>
+          <value>24 бит / 24 бит</value>
+        </item>
+        <item>
+          <name>Максимальная частота ЦАП (стерео)</name>
+          <value>96 кГц</value>
+        </item>
+        <item>
+          <name>Максимальная частота АЦП</name>
+          <value>96 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые входы</name>
+        <item>
+          <name>Входных аналоговых каналов (балансных)</name>
+          <value>6 (6)</value>
+        </item>
+        <item>
+          <name>Входных разъемов jack 6.3 мм</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Входных разъемов XLR</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Микрофонных входов</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Фантомное питание</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Инструментальный вход (Hi-Z)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые выходы</name>
+        <item>
+          <name>Выходных аналоговых каналов</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Выходных аналоговых разъемов</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Независимых выходов на наушники</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие разъемы и интерфейсы</name>
+        <item>
+          <name>Цифровые интерфейсы S/PDIF</name>
+          <value>коаксиальный вход, коаксиальный выход</value>
+        </item>
+        <item>
+          <name>MIDI-интерфейсы - входы/выходы</name>
+          <value>1 / 1</value>
+        </item>
+        <item>
+          <name>Разъем Insert</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Поддержка EAX</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка ASIO</name>
+          <value>v. 2.0</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64046">
+    <title>ESI Juli@</title>
+    <model>Juli@</model>
+    <marka>ESI</marka>
+    <catalog id="755738">Звуковые карты</catalog>
+    
+    <price1>4100</price1>
+    <price2>5985</price2>
+    <description>
+PCI, стерео, разрядность ЦАП: 24 бит, частота дискретизации ЦАП: 192 кГц, ASIO 2.0
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>внутренняя</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>PCI 2.3</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Возможность вывода многоканального звука</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звуковые характеристики</name>
+        <item>
+          <name>Разрядность ЦАП/АЦП</name>
+          <value>24 бит / 24 бит</value>
+        </item>
+        <item>
+          <name>Максимальная частота ЦАП (стерео)</name>
+          <value>192 кГц</value>
+        </item>
+        <item>
+          <name>Максимальная частота АЦП</name>
+          <value>192 кГц</value>
+        </item>
+        <item>
+          <name>Динамический диапазон ЦАП/АЦП</name>
+          <value>112 дБ / 114 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые входы</name>
+        <item>
+          <name>Входных аналоговых каналов (балансных)</name>
+          <value>2 (2)</value>
+        </item>
+        <item>
+          <name>Входных разъемов RCA</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Входных разъемов jack 6.3 мм</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые выходы</name>
+        <item>
+          <name>Выходных аналоговых разъемов</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие разъемы и интерфейсы</name>
+        <item>
+          <name>Цифровые интерфейсы S/PDIF</name>
+          <value>коаксиальный вход, коаксиальный выход, оптический выход</value>
+        </item>
+        <item>
+          <name>MIDI-интерфейсы - входы/выходы</name>
+          <value>1 / 1</value>
+        </item>
+        <item>
+          <name>Разъем для подключения к передней панели ПК</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Поддержка EAX</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка ASIO</name>
+          <value>v. 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>Поддержка DirectWIRE 3.0, возможность использования с балансными разъемами Jack TRS или небалансными RCA. Поддержка EWDM драйвера для Windows 98SE/ME/2000 и XP, MAC OS 10.2 или старше. Смена балансных разъемов на небалансные осуществляется переворотом аналоговой части карты.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64048">
+    <title>ASUS Xonar DS</title>
+    <model>Xonar DS</model>
+    <marka>ASUS</marka>
+    <catalog id="755738">Звуковые карты</catalog>
+    
+    <price1>1363</price1>
+    <price2>3706</price2>
+    <description>
+PCI, 7.1CH, разрядность ЦАП: 24 бит, частота дискретизации ЦАП: 192 кГц, EAX 2, ASIO 2.0
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>внутренняя</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>PCI 2.2</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Возможность вывода многоканального звука</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звуковые характеристики</name>
+        <item>
+          <name>Разрядность ЦАП</name>
+          <value>24 бит</value>
+        </item>
+        <item>
+          <name>Максимальная частота ЦАП (стерео)</name>
+          <value>192 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые входы</name>
+        <item>
+          <name>Входных аналоговых каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Входных разъемов jack 3.5 мм</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Микрофонных входов</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые выходы</name>
+        <item>
+          <name>Выходных аналоговых каналов</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Выходных аналоговых разъемов</name>
+          <value>4</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие разъемы и интерфейсы</name>
+        <item>
+          <name>Цифровые интерфейсы S/PDIF</name>
+          <value>оптический выход</value>
+        </item>
+        <item>
+          <name>Разъем для подключения к передней панели ПК</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Поддержка EAX</name>
+          <value>v. 2</value>
+        </item>
+        <item>
+          <name>Поддержка ASIO</name>
+          <value>v. 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>В комплект поставки входит оптический адаптер S/PDIF</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64050">
+    <title>Creative X-Fi HD</title>
+    <model>X-Fi HD</model>
+    <marka>Creative</marka>
+    <catalog id="755738">Звуковые карты</catalog>
+    
+    <price1>3328</price1>
+    <price2>5780</price2>
+    <description>
+USB, CH, разрядность ЦАП: 24 бит, частота дискретизации ЦАП: 96 кГц
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>внешняя</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Звуковые характеристики</name>
+        <item>
+          <name>Разрядность ЦАП/АЦП</name>
+          <value>24 бит / 24 бит</value>
+        </item>
+        <item>
+          <name>Максимальная частота ЦАП (стерео)</name>
+          <value>96 кГц</value>
+        </item>
+        <item>
+          <name>Максимальная частота АЦП</name>
+          <value>96 кГц</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум ЦАП</name>
+          <value>114 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые входы</name>
+        <item>
+          <name>Входных разъемов RCA</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Микрофонных входов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Встроенный фонокорректор</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые выходы</name>
+        <item>
+          <name>Выходных аналоговых разъемов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Независимых выходов на наушники</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие разъемы и интерфейсы</name>
+        <item>
+          <name>Цифровые интерфейсы S/PDIF</name>
+          <value>оптический вход, оптический выход</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Поддержка EAX</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка ASIO</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>вход фонокорректора</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64051">
+    <title>Echo AudioFire 2</title>
+    <model>AudioFire 2</model>
+    <marka>Echo</marka>
+    <catalog id="755738">Звуковые карты</catalog>
+    
+    <description>
+FireWire, CH, разрядность ЦАП: 24 бит, частота дискретизации ЦАП: 96 кГц, ASIO 2.0
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>внешняя</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>FireWire</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звуковые характеристики</name>
+        <item>
+          <name>Разрядность ЦАП/АЦП</name>
+          <value>24 бит / 24 бит</value>
+        </item>
+        <item>
+          <name>Максимальная частота ЦАП (стерео)</name>
+          <value>96 кГц</value>
+        </item>
+        <item>
+          <name>Максимальная частота АЦП</name>
+          <value>96 кГц</value>
+        </item>
+        <item>
+          <name>Динамический диапазон ЦАП/АЦП</name>
+          <value>114 дБ / 113 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые входы</name>
+        <item>
+          <name>Входных аналоговых каналов (балансных)</name>
+          <value>2 (2)</value>
+        </item>
+        <item>
+          <name>Входных разъемов jack 6.3 мм</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые выходы</name>
+        <item>
+          <name>Выходных аналоговых каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Выходных аналоговых разъемов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Независимых выходов на наушники</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие разъемы и интерфейсы</name>
+        <item>
+          <name>Цифровые интерфейсы S/PDIF</name>
+          <value>коаксиальный вход, коаксиальный выход</value>
+        </item>
+        <item>
+          <name>Поддержка внешней синхронизации</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>MIDI-интерфейсы - входы/выходы</name>
+          <value>1 / 1</value>
+        </item>
+        <item>
+          <name>Портов FireWire</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Поддержка EAX</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка ASIO</name>
+          <value>v. 2.0</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64052">
+    <title>ESI Dr.Dac prime</title>
+    <model>Dr.Dac prime</model>
+    <marka>ESI</marka>
+    <catalog id="755738">Звуковые карты</catalog>
+    
+    <price1>13190</price1>
+    <price2>14671</price2>
+    <description>
+USB, стерео, разрядность ЦАП: 24 бит, частота дискретизации ЦАП: 192 кГц
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>внешняя</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звуковые характеристики</name>
+        <item>
+          <name>Разрядность ЦАП</name>
+          <value>24 бит</value>
+        </item>
+        <item>
+          <name>Максимальная частота ЦАП (стерео)</name>
+          <value>192 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые входы</name>
+        <item>
+          <name>Входных аналоговых каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Входных разъемов RCA</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые выходы</name>
+        <item>
+          <name>Выходных аналоговых каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Выходных аналоговых разъемов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Независимых выходов на наушники</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие разъемы и интерфейсы</name>
+        <item>
+          <name>Цифровые интерфейсы S/PDIF</name>
+          <value>коаксиальный вход, коаксиальный выход</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Поддержка EAX</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка ASIO</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64053">
+    <title>M-Audio Delta 66</title>
+    <model>Delta 66</model>
+    <marka>M-Audio</marka>
+    <catalog id="755738">Звуковые карты</catalog>
+    
+    <price1>3607</price1>
+    <price2>7668</price2>
+    <description>
+PCI, 4CH, разрядность ЦАП: 24 бит, частота дискретизации ЦАП: 96 кГц, ASIO 2.0
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>внутренняя с доп. блоком</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>PCI 2.2</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Звуковые характеристики</name>
+        <item>
+          <name>Разрядность ЦАП/АЦП</name>
+          <value>24 бит / 24 бит</value>
+        </item>
+        <item>
+          <name>Максимальная частота ЦАП (стерео)</name>
+          <value>96 кГц</value>
+        </item>
+        <item>
+          <name>Максимальная частота ЦАП (многоканальный)</name>
+          <value>96 кГц</value>
+        </item>
+        <item>
+          <name>Максимальная частота АЦП</name>
+          <value>96 кГц</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум ЦАП/АЦП</name>
+          <value>103 дБ / 99 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон ЦАП/АЦП</name>
+          <value>103 дБ / 99 дБ</value>
+        </item>
+        <item>
+          <name>THD ЦАП/АЦП</name>
+          <value>0.0015 % / 0.0023 %</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые входы</name>
+        <item>
+          <name>Входных аналоговых каналов</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Входных разъемов jack 6.3 мм</name>
+          <value>4</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые выходы</name>
+        <item>
+          <name>Выходных аналоговых разъемов</name>
+          <value>4</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие разъемы и интерфейсы</name>
+        <item>
+          <name>Цифровые интерфейсы S/PDIF</name>
+          <value>коаксиальный вход, коаксиальный выход</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Поддержка EAX</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка ASIO</name>
+          <value>v. 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>Аппартный мониторинг с нулевой задержкой. Входы и выходы с возможностью балансного или небалансного подключения. Интегрированный в плату цифровой микшер. Поддерживает работу по протоколу SCMS. Поддержка Full Duplex.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64054">
+    <title>Creative SB 5.1 VX</title>
+    <model>SB 5.1 VX</model>
+    <marka>Creative</marka>
+    <catalog id="755738">Звуковые карты</catalog>
+    
+    <price1>536</price1>
+    <price2>2550</price2>
+    <description>
+PCI, 5.1CH, разрядность ЦАП: 24 бит, частота дискретизации ЦАП: 96 кГц, EAX 2
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>внутренняя</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>PCI</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Возможность вывода многоканального звука</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звуковые характеристики</name>
+        <item>
+          <name>Разрядность ЦАП</name>
+          <value>24 бит</value>
+        </item>
+        <item>
+          <name>Максимальная частота ЦАП (стерео)</name>
+          <value>96 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые входы</name>
+        <item>
+          <name>Входных аналоговых каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Входных разъемов jack 3.5 мм</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Микрофонных входов</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые выходы</name>
+        <item>
+          <name>Выходных аналоговых каналов</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Выходных аналоговых разъемов</name>
+          <value>3</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Поддержка EAX</name>
+          <value>v. 2</value>
+        </item>
+        <item>
+          <name>Поддержка ASIO</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64055">
+    <title>INFRASONIC Amon</title>
+    <model>Amon</model>
+    <marka>INFRASONIC</marka>
+    <catalog id="755738">Звуковые карты</catalog>
+    
+    <price1>3876</price1>
+    <price2>4210</price2>
+    <description>
+USB, стерео, разрядность ЦАП: 24 бит, частота дискретизации ЦАП: 96 кГц, ASIO 2.0
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>внешняя</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Звуковые характеристики</name>
+        <item>
+          <name>Разрядность ЦАП</name>
+          <value>24 бит</value>
+        </item>
+        <item>
+          <name>Максимальная частота ЦАП (стерео)</name>
+          <value>96 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые входы</name>
+        <item>
+          <name>Входных аналоговых каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Входных разъемов jack 6.3 мм</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Микрофонных входов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Инструментальный вход (Hi-Z)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые выходы</name>
+        <item>
+          <name>Выходных аналоговых каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Выходных аналоговых разъемов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Независимых выходов на наушники</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Поддержка EAX</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка ASIO</name>
+          <value>v. 2.0</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64056">
+    <title>M-Audio MobilePre USB</title>
+    <model>MobilePre USB</model>
+    <marka>M-Audio</marka>
+    <catalog id="755738">Звуковые карты</catalog>
+    
+    <description>
+USB, стерео, разрядность ЦАП: 16 бит, частота дискретизации ЦАП: 48 кГц, ASIO 2.0
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>внешняя</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звуковые характеристики</name>
+        <item>
+          <name>Разрядность ЦАП/АЦП</name>
+          <value>16 бит / 16 бит</value>
+        </item>
+        <item>
+          <name>Максимальная частота ЦАП (стерео)</name>
+          <value>48 кГц</value>
+        </item>
+        <item>
+          <name>Максимальная частота АЦП</name>
+          <value>48 кГц</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум ЦАП/АЦП</name>
+          <value>91 дБ / 96 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон ЦАП/АЦП</name>
+          <value>91 дБ / 96 дБ</value>
+        </item>
+        <item>
+          <name>THD ЦАП</name>
+          <value>0.013 %</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые входы</name>
+        <item>
+          <name>Входных аналоговых каналов (балансных)</name>
+          <value>2 (2)</value>
+        </item>
+        <item>
+          <name>Входных разъемов jack 6.3 мм</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Входных разъемов XLR</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Микрофонных входов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Фантомное питание</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые выходы</name>
+        <item>
+          <name>Выходных аналоговых каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Выходных аналоговых разъемов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Независимых выходов на наушники</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Поддержка EAX</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка ASIO</name>
+          <value>v. 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>Кнопка контроля gain для каждого входного канала. Питание по шине USB. Аппаратный мониторинг с нулевой задержкой. Программный контроль уровня сигнала.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64057">
+    <title>ESI UGM96</title>
+    <model>UGM96</model>
+    <marka>ESI</marka>
+    <catalog id="755738">Звуковые карты</catalog>
+    
+    <description>
+USB, стерео, разрядность ЦАП: 24 бит, частота дискретизации ЦАП: 96 кГц, ASIO 2.0
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>внешняя</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Звуковые характеристики</name>
+        <item>
+          <name>Разрядность ЦАП/АЦП</name>
+          <value>24 бит / 24 бит</value>
+        </item>
+        <item>
+          <name>Максимальная частота ЦАП (стерео)</name>
+          <value>96 кГц</value>
+        </item>
+        <item>
+          <name>Максимальная частота АЦП</name>
+          <value>96 кГц</value>
+        </item>
+        <item>
+          <name>Динамический диапазон ЦАП/АЦП</name>
+          <value>103 дБ / 105 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые входы</name>
+        <item>
+          <name>Входных аналоговых каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Входных разъемов jack 6.3 мм</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Микрофонных входов</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые выходы</name>
+        <item>
+          <name>Выходных аналоговых каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Выходных аналоговых разъемов</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Поддержка EAX</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка ASIO</name>
+          <value>v. 2.0</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64058">
+    <title>M-Audio Delta 1010</title>
+    <model>Delta 1010</model>
+    <marka>M-Audio</marka>
+    <catalog id="755738">Звуковые карты</catalog>
+    
+    <price1>11300</price1>
+    <price2>17900</price2>
+    <description>
+PCI, 7.1CH, разрядность ЦАП: 24 бит, частота дискретизации ЦАП: 96 кГц, ASIO 2.0
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>внутренняя с доп. блоком</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>PCI 2.2</value>
+        </item>
+        <item>
+          <name>Возможность вывода многоканального звука</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звуковые характеристики</name>
+        <item>
+          <name>Разрядность ЦАП/АЦП</name>
+          <value>24 бит / 24 бит</value>
+        </item>
+        <item>
+          <name>Максимальная частота ЦАП (стерео)</name>
+          <value>96 кГц</value>
+        </item>
+        <item>
+          <name>Максимальная частота ЦАП (многоканальный)</name>
+          <value>96 кГц</value>
+        </item>
+        <item>
+          <name>Максимальная частота АЦП</name>
+          <value>96 кГц</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум ЦАП/АЦП</name>
+          <value>114 дБ / 114 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон ЦАП/АЦП</name>
+          <value>114 дБ / 114 дБ</value>
+        </item>
+        <item>
+          <name>THD ЦАП/АЦП</name>
+          <value>0.002 % / 0.002 %</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые входы</name>
+        <item>
+          <name>Входных аналоговых каналов (балансных)</name>
+          <value>8 (8)</value>
+        </item>
+        <item>
+          <name>Входных разъемов jack 6.3 мм</name>
+          <value>8</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые выходы</name>
+        <item>
+          <name>Выходных аналоговых каналов</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Выходных аналоговых разъемов</name>
+          <value>8</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие разъемы и интерфейсы</name>
+        <item>
+          <name>Цифровые интерфейсы S/PDIF</name>
+          <value>коаксиальный вход, коаксиальный выход</value>
+        </item>
+        <item>
+          <name>HDMI-выход</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка внешней синхронизации</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>MIDI-интерфейсы - входы/выходы</name>
+          <value>1 / 1</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Поддержка EAX</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка ASIO</name>
+          <value>v. 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>Аппаратный переключатель микрофон/инструмент. Поддерживается Full duplex. Поддерживает работу по протоколу SCMS. Входы и выходы работают как в балансном, так и в небалансном режиме.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64059">
+    <title>E-MU 0404 PCI-e</title>
+    <model>0404 PCI-e</model>
+    <marka>E-MU</marka>
+    <catalog id="755738">Звуковые карты</catalog>
+    
+    <price1>3570</price1>
+    <price2>4255</price2>
+    <description>
+PCI-E, стерео, разрядность ЦАП: 24 бит, частота дискретизации ЦАП: 192 кГц, ASIO 2.0
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>внутренняя</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>PCI-E</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Звуковые характеристики</name>
+        <item>
+          <name>Разрядность ЦАП/АЦП</name>
+          <value>24 бит / 24 бит</value>
+        </item>
+        <item>
+          <name>Максимальная частота ЦАП (стерео)</name>
+          <value>192 кГц</value>
+        </item>
+        <item>
+          <name>Максимальная частота АЦП</name>
+          <value>192 кГц</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум ЦАП/АЦП</name>
+          <value>116 дБ / 111 дБ</value>
+        </item>
+        <item>
+          <name>Динамический диапазон ЦАП/АЦП</name>
+          <value>116 дБ / 111 дБ</value>
+        </item>
+        <item>
+          <name>THD ЦАП/АЦП</name>
+          <value>0.001 % / 0.001 %</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые входы</name>
+        <item>
+          <name>Входных аналоговых каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Входных разъемов jack 6.3 мм</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые выходы</name>
+        <item>
+          <name>Выходных аналоговых каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Выходных аналоговых разъемов</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие разъемы и интерфейсы</name>
+        <item>
+          <name>Цифровые интерфейсы S/PDIF</name>
+          <value>коаксиальный вход, оптический вход, коаксиальный выход, оптический выход</value>
+        </item>
+        <item>
+          <name>Поддержка AES/EBU</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка ADAT</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка внешней синхронизации</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>MIDI-интерфейсы - входы/выходы</name>
+          <value>1 / 1</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Поддержка EAX</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка ASIO</name>
+          <value>v. 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>32-битный цифровой сигнальный процессор</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64060">
+    <title>M-Audio Fast Track Ultra 8R</title>
+    <model>Fast Track Ultra 8R</model>
+    <marka>M-Audio</marka>
+    <catalog id="755738">Звуковые карты</catalog>
+    
+    <price1>20914</price1>
+    <price2>22100</price2>
+    <description>
+USB, CH, разрядность ЦАП: 24 бит, частота дискретизации ЦАП: 96 кГц, ASIO 2.0
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>внешняя</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность вывода многоканального звука</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звуковые характеристики</name>
+        <item>
+          <name>Разрядность ЦАП</name>
+          <value>24 бит</value>
+        </item>
+        <item>
+          <name>Максимальная частота ЦАП (стерео)</name>
+          <value>96 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые входы</name>
+        <item>
+          <name>Входных аналоговых каналов</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Входных разъемов jack 6.3 мм</name>
+          <value>10</value>
+        </item>
+        <item>
+          <name>Входных разъемов XLR</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Фантомное питание</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Инструментальный вход (Hi-Z)</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые выходы</name>
+        <item>
+          <name>Выходных аналоговых каналов</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Выходных аналоговых разъемов</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Независимых выходов на наушники</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие разъемы и интерфейсы</name>
+        <item>
+          <name>Цифровые интерфейсы S/PDIF</name>
+          <value>коаксиальный выход</value>
+        </item>
+        <item>
+          <name>Разъем Insert</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Поддержка EAX</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка ASIO</name>
+          <value>v. 2.0</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64061">
+    <title>Creative Recon3D PCIe</title>
+    <model>Recon3D PCIe</model>
+    <marka>Creative</marka>
+    <catalog id="755738">Звуковые карты</catalog>
+    
+    <price1>1520</price1>
+    <price2>4010</price2>
+    <description>
+PCI-E, CH, разрядность ЦАП: 24 бит, частота дискретизации ЦАП: 96 кГц, EAX 5
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>внутренняя</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>PCI-E</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Возможность вывода многоканального звука</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звуковые характеристики</name>
+        <item>
+          <name>Разрядность ЦАП</name>
+          <value>24 бит</value>
+        </item>
+        <item>
+          <name>Максимальная частота ЦАП (стерео)</name>
+          <value>96 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые входы</name>
+        <item>
+          <name>Входных аналоговых каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Входных разъемов jack 3.5 мм</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Микрофонных входов</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые выходы</name>
+        <item>
+          <name>Выходных аналоговых каналов</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Выходных аналоговых разъемов</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Независимых выходов на наушники</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие разъемы и интерфейсы</name>
+        <item>
+          <name>Цифровые интерфейсы S/PDIF</name>
+          <value>оптический вход, оптический выход</value>
+        </item>
+        <item>
+          <name>Разъем для подключения к передней панели ПК</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Поддержка EAX</name>
+          <value>v. 5</value>
+        </item>
+        <item>
+          <name>Поддержка ASIO</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка OpenAL</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>есть усилитель для наушников</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64062">
+    <title>ASUS Xonar DSX</title>
+    <model>Xonar DSX</model>
+    <marka>ASUS</marka>
+    <catalog id="755738">Звуковые карты</catalog>
+    
+    <price1>1613</price1>
+    <price2>2503</price2>
+    <description>
+PCI-E, CH, разрядность ЦАП: 24 бит, частота дискретизации ЦАП: 192 кГц, EAX 5, ASIO 2.0
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>внутренняя</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>PCI-E</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Возможность вывода многоканального звука</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звуковые характеристики</name>
+        <item>
+          <name>Разрядность ЦАП</name>
+          <value>24 бит</value>
+        </item>
+        <item>
+          <name>Максимальная частота ЦАП (стерео)</name>
+          <value>192 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые входы</name>
+        <item>
+          <name>Входных аналоговых каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Входных разъемов jack 3.5 мм</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые выходы</name>
+        <item>
+          <name>Выходных аналоговых каналов</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Выходных аналоговых разъемов</name>
+          <value>4</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие разъемы и интерфейсы</name>
+        <item>
+          <name>Цифровые интерфейсы S/PDIF</name>
+          <value>оптический выход</value>
+        </item>
+        <item>
+          <name>Разъем для подключения к передней панели ПК</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Поддержка EAX</name>
+          <value>v. 5</value>
+        </item>
+        <item>
+          <name>Поддержка ASIO</name>
+          <value>v. 2.0</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="64063">
+    <title>ASUS Xonar DG</title>
+    <model>Xonar DG</model>
+    <marka>ASUS</marka>
+    <catalog id="755738">Звуковые карты</catalog>
+    
+    <price1>905</price1>
+    <price2>3298</price2>
+    <description>
+PCI, 5.1CH, разрядность ЦАП: 24 бит, частота дискретизации ЦАП: 96 кГц, EAX 2, ASIO 2.0
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>внутренняя</value>
+        </item>
+        <item>
+          <name>Тип подключения</name>
+          <value>PCI 2.2</value>
+        </item>
+        <item>
+          <name>Необходимость дополнительного питания</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Возможность вывода многоканального звука</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звуковые характеристики</name>
+        <item>
+          <name>Разрядность ЦАП</name>
+          <value>24 бит</value>
+        </item>
+        <item>
+          <name>Максимальная частота ЦАП (стерео)</name>
+          <value>96 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые входы</name>
+        <item>
+          <name>Входных аналоговых каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Входных разъемов jack 3.5 мм</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Микрофонных входов</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Аналоговые выходы</name>
+        <item>
+          <name>Выходных аналоговых каналов</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Выходных аналоговых разъемов</name>
+          <value>3</value>
+        </item>
+      </items>
+      <items>
+        <name>Прочие разъемы и интерфейсы</name>
+        <item>
+          <name>Цифровые интерфейсы S/PDIF</name>
+          <value>оптический выход</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Поддержка EAX</name>
+          <value>v. 2</value>
+        </item>
+        <item>
+          <name>Поддержка ASIO</name>
+          <value>v. 2.0</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

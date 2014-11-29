@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="119557">
+    <title>Mak Fuoco 5</title>
+    <model>Fuoco 5</model>
+    <marka>Mak</marka>
+    <catalog id="922145">Колесные диски</catalog>
+    
+    <price1>8800</price1>
+    <price2>11913</price2>
+    <description>литые, алюминиевый сплав, 15 / 16 / 17 / 18 / 19 / 20 / 22</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>литые</value>
+        </item>
+        <item>
+          <name>Материал</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый+черный</value>
+        </item>
+      </items>
+      <items>
+        <name>Типоразмер</name>
+        <item>
+          <name>Ширина х диаметр обода</name>
+          <value>9х18"</value>
+        </item>
+        <item>
+          <name>Количество крепежных отверстий</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Диаметр расположения отверстий (PCD)</name>
+          <value>112 мм</value>
+        </item>
+        <item>
+          <name>Диаметр центрального отверстия</name>
+          <value>76 мм</value>
+        </item>
+        <item>
+          <name>Вылет (ET)</name>
+          <value>35 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="119580">
+    <title>OZ Racing Ultraleggera</title>
+    <model>Ultraleggera</model>
+    <marka>OZ Racing</marka>
+    <catalog id="922145">Колесные диски</catalog>
+    
+    <price1>14860</price1>
+    <price2>17400</price2>
+    <description>литые, алюминиевый сплав / магниевый сплав, 15 / 16 / 17 / 18 / 19 / 20</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>литые</value>
+        </item>
+        <item>
+          <name>Материал</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый</value>
+        </item>
+      </items>
+      <items>
+        <name>Типоразмер</name>
+        <item>
+          <name>Ширина х диаметр обода</name>
+          <value>8х18"</value>
+        </item>
+        <item>
+          <name>Количество крепежных отверстий</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Диаметр расположения отверстий (PCD)</name>
+          <value>105 мм</value>
+        </item>
+        <item>
+          <name>Вылет (ET)</name>
+          <value>40 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="119586">
+    <title>Alutec Grip</title>
+    <model>Grip</model>
+    <marka>Alutec</marka>
+    <catalog id="922145">Колесные диски</catalog>
+    
+    <price1>5480</price1>
+    <price2>6000</price2>
+    <description>литые, алюминиевый сплав, 14 / 15 / 16 / 17 / 18</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>литые</value>
+        </item>
+        <item>
+          <name>Материал</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>графит</value>
+        </item>
+      </items>
+      <items>
+        <name>Типоразмер</name>
+        <item>
+          <name>Ширина х диаметр обода</name>
+          <value>7.5х17"</value>
+        </item>
+        <item>
+          <name>Количество крепежных отверстий</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Диаметр расположения отверстий (PCD)</name>
+          <value>112 мм</value>
+        </item>
+        <item>
+          <name>Диаметр центрального отверстия</name>
+          <value>70.1 мм</value>
+        </item>
+        <item>
+          <name>Вылет (ET)</name>
+          <value>48 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="119606">
+    <title>OZ Racing Superturismo GT</title>
+    <model>Superturismo GT</model>
+    <marka>OZ Racing</marka>
+    <catalog id="922145">Колесные диски</catalog>
+    
+    <price1>9500</price1>
+    <price2>11150</price2>
+    <description>литые, алюминиевый сплав, 14 / 15 / 16 / 17 / 18 / 19</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>литые</value>
+        </item>
+        <item>
+          <name>Материал</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый</value>
+        </item>
+      </items>
+      <items>
+        <name>Типоразмер</name>
+        <item>
+          <name>Ширина х диаметр обода</name>
+          <value>7х17"</value>
+        </item>
+        <item>
+          <name>Количество крепежных отверстий</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Диаметр расположения отверстий (PCD)</name>
+          <value>108 мм</value>
+        </item>
+        <item>
+          <name>Вылет (ET)</name>
+          <value>48 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="119608">
+    <title>OZ Racing Superturismo LM</title>
+    <model>Superturismo LM</model>
+    <marka>OZ Racing</marka>
+    <catalog id="922145">Колесные диски</catalog>
+    
+    <price1>15200</price1>
+    <price2>15480</price2>
+    <description>литые, алюминиевый сплав, 17 / 18 / 19</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>литые</value>
+        </item>
+        <item>
+          <name>Материал</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>графит</value>
+        </item>
+      </items>
+      <items>
+        <name>Типоразмер</name>
+        <item>
+          <name>Ширина х диаметр обода</name>
+          <value>7.5х18"</value>
+        </item>
+        <item>
+          <name>Количество крепежных отверстий</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Диаметр расположения отверстий (PCD)</name>
+          <value>112 мм</value>
+        </item>
+        <item>
+          <name>Вылет (ET)</name>
+          <value>50 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="119612">
+    <title>Скад Sakura</title>
+    <model>Sakura</model>
+    <marka>Скад</marka>
+    <catalog id="922145">Колесные диски</catalog>
+    
+    <price1>2210</price1>
+    <price2>4071</price2>
+    <description>литые, алюминиевый сплав, 15 / 16</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>литые</value>
+        </item>
+        <item>
+          <name>Материал</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый+черный</value>
+        </item>
+      </items>
+      <items>
+        <name>Типоразмер</name>
+        <item>
+          <name>Ширина х диаметр обода</name>
+          <value>6х15"</value>
+        </item>
+        <item>
+          <name>Количество крепежных отверстий</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Диаметр расположения отверстий (PCD)</name>
+          <value>112 мм</value>
+        </item>
+        <item>
+          <name>Диаметр центрального отверстия</name>
+          <value>57.1 мм</value>
+        </item>
+        <item>
+          <name>Вылет (ET)</name>
+          <value>35 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="119632">
+    <title>DEZENT RE</title>
+    <model>RE</model>
+    <marka>DEZENT</marka>
+    <catalog id="922145">Колесные диски</catalog>
+    
+    <price1>3373</price1>
+    <price2>7880</price2>
+    <description>литые, алюминиевый сплав, 14 / 15 / 16 / 17 / 18 / 19</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>литые</value>
+        </item>
+        <item>
+          <name>Материал</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+      </items>
+      <items>
+        <name>Типоразмер</name>
+        <item>
+          <name>Ширина х диаметр обода</name>
+          <value>7.5х17"</value>
+        </item>
+        <item>
+          <name>Количество крепежных отверстий</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Диаметр расположения отверстий (PCD)</name>
+          <value>112 мм</value>
+        </item>
+        <item>
+          <name>Диаметр центрального отверстия</name>
+          <value>70.1 мм</value>
+        </item>
+        <item>
+          <name>Вылет (ET)</name>
+          <value>35 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="119639">
+    <title>OZ Racing Lounge 8 &amp;amp;amp; 10</title>
+    <model>Lounge 8 &amp;amp;amp; 10</model>
+    <marka>OZ Racing</marka>
+    <catalog id="922145">Колесные диски</catalog>
+    
+    <price1>10860</price1>
+    <price2>12850</price2>
+    <description>литые, алюминиевый сплав, 14 / 15 / 16 / 17 / 18 / 19</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>литые</value>
+        </item>
+        <item>
+          <name>Материал</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый</value>
+        </item>
+      </items>
+      <items>
+        <name>Типоразмер</name>
+        <item>
+          <name>Ширина х диаметр обода</name>
+          <value>8х18"</value>
+        </item>
+        <item>
+          <name>Количество крепежных отверстий</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Диаметр расположения отверстий (PCD)</name>
+          <value>112 мм</value>
+        </item>
+        <item>
+          <name>Диаметр центрального отверстия</name>
+          <value>75 мм</value>
+        </item>
+        <item>
+          <name>Вылет (ET)</name>
+          <value>48 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="119641">
+    <title>Mak Fuoco 6</title>
+    <model>Fuoco 6</model>
+    <marka>Mak</marka>
+    <catalog id="922145">Колесные диски</catalog>
+    
+    <price1>21800</price1>
+    <price2>24000</price2>
+    <description>литые, алюминиевый сплав, 17 / 18 / 20 / 22</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>литые</value>
+        </item>
+        <item>
+          <name>Материал</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый+черный</value>
+        </item>
+      </items>
+      <items>
+        <name>Типоразмер</name>
+        <item>
+          <name>Ширина х диаметр обода</name>
+          <value>9х22"</value>
+        </item>
+        <item>
+          <name>Количество крепежных отверстий</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Диаметр расположения отверстий (PCD)</name>
+          <value>139.7 мм</value>
+        </item>
+        <item>
+          <name>Диаметр центрального отверстия</name>
+          <value>112 мм</value>
+        </item>
+        <item>
+          <name>Вылет (ET)</name>
+          <value>20 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="119648">
+    <title>Enzo 101</title>
+    <model>101</model>
+    <marka>Enzo</marka>
+    <catalog id="922145">Колесные диски</catalog>
+    
+    <price1>3396</price1>
+    <price2>5059</price2>
+    <description>литые, алюминиевый сплав, 14 / 15 / 16 / 17</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>литые</value>
+        </item>
+        <item>
+          <name>Материал</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый+черный</value>
+        </item>
+      </items>
+      <items>
+        <name>Типоразмер</name>
+        <item>
+          <name>Ширина х диаметр обода</name>
+          <value>7х17"</value>
+        </item>
+        <item>
+          <name>Количество крепежных отверстий</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Диаметр расположения отверстий (PCD)</name>
+          <value>100 мм</value>
+        </item>
+        <item>
+          <name>Диаметр центрального отверстия</name>
+          <value>60.1 мм</value>
+        </item>
+        <item>
+          <name>Вылет (ET)</name>
+          <value>38 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="119669">
+    <title>OZ Racing Envy</title>
+    <model>Envy</model>
+    <marka>OZ Racing</marka>
+    <catalog id="922145">Колесные диски</catalog>
+    
+    <price1>10860</price1>
+    <price2>12850</price2>
+    <description>литые, алюминиевый сплав, 15 / 16 / 17 / 18</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>литые</value>
+        </item>
+        <item>
+          <name>Материал</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый</value>
+        </item>
+      </items>
+      <items>
+        <name>Типоразмер</name>
+        <item>
+          <name>Ширина х диаметр обода</name>
+          <value>8х18"</value>
+        </item>
+        <item>
+          <name>Количество крепежных отверстий</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Диаметр расположения отверстий (PCD)</name>
+          <value>120 мм</value>
+        </item>
+        <item>
+          <name>Диаметр центрального отверстия</name>
+          <value>79 мм</value>
+        </item>
+        <item>
+          <name>Вылет (ET)</name>
+          <value>40 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="119713">
+    <title>Скад Гранит</title>
+    <model>Гранит</model>
+    <marka>Скад</marka>
+    <catalog id="922145">Колесные диски</catalog>
+    
+    <price1>2960</price1>
+    <price2>4130</price2>
+    <description>литые, алюминиевый сплав, 15 / 16</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>литые</value>
+        </item>
+        <item>
+          <name>Материал</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый</value>
+        </item>
+      </items>
+      <items>
+        <name>Типоразмер</name>
+        <item>
+          <name>Ширина х диаметр обода</name>
+          <value>6.5х16"</value>
+        </item>
+        <item>
+          <name>Количество крепежных отверстий</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Диаметр расположения отверстий (PCD)</name>
+          <value>112 мм</value>
+        </item>
+        <item>
+          <name>Диаметр центрального отверстия</name>
+          <value>57.1 мм</value>
+        </item>
+        <item>
+          <name>Вылет (ET)</name>
+          <value>50 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="119756">
+    <title>Borbet LV5</title>
+    <model>LV5</model>
+    <marka>Borbet</marka>
+    <catalog id="922145">Колесные диски</catalog>
+    
+    <price1>7700</price1>
+    <price2>8550</price2>
+    <description>литые, алюминиевый сплав, 15 / 16 / 17 / 18</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>литые</value>
+        </item>
+        <item>
+          <name>Материал</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+      </items>
+      <items>
+        <name>Типоразмер</name>
+        <item>
+          <name>Ширина х диаметр обода</name>
+          <value>7х18"</value>
+        </item>
+        <item>
+          <name>Количество крепежных отверстий</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Диаметр расположения отверстий (PCD)</name>
+          <value>114.3 мм</value>
+        </item>
+        <item>
+          <name>Диаметр центрального отверстия</name>
+          <value>67.1 мм</value>
+        </item>
+        <item>
+          <name>Вылет (ET)</name>
+          <value>54 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="119771">
+    <title>Dotz Rapier</title>
+    <model>Rapier</model>
+    <marka>Dotz</marka>
+    <catalog id="922145">Колесные диски</catalog>
+    
+    <price1>2846</price1>
+    <price2>7501</price2>
+    <description>литые, алюминиевый сплав, 16 / 17 / 18</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>литые</value>
+        </item>
+        <item>
+          <name>Материал</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый+черный</value>
+        </item>
+      </items>
+      <items>
+        <name>Типоразмер</name>
+        <item>
+          <name>Ширина х диаметр обода</name>
+          <value>7х16"</value>
+        </item>
+        <item>
+          <name>Количество крепежных отверстий</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Диаметр расположения отверстий (PCD)</name>
+          <value>100 мм</value>
+        </item>
+        <item>
+          <name>Диаметр центрального отверстия</name>
+          <value>60.1 мм</value>
+        </item>
+        <item>
+          <name>Вылет (ET)</name>
+          <value>38 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="119780">
+    <title>DEZENT V</title>
+    <model>V</model>
+    <marka>DEZENT</marka>
+    <catalog id="922145">Колесные диски</catalog>
+    
+    <price1>2822</price1>
+    <price2>4092</price2>
+    <description>литые, алюминиевый сплав, 14 / 15 / 16 / 17</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>литые</value>
+        </item>
+        <item>
+          <name>Материал</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый</value>
+        </item>
+      </items>
+      <items>
+        <name>Типоразмер</name>
+        <item>
+          <name>Ширина х диаметр обода</name>
+          <value>7х16"</value>
+        </item>
+        <item>
+          <name>Количество крепежных отверстий</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Диаметр расположения отверстий (PCD)</name>
+          <value>108 мм</value>
+        </item>
+        <item>
+          <name>Диаметр центрального отверстия</name>
+          <value>70.1 мм</value>
+        </item>
+        <item>
+          <name>Вылет (ET)</name>
+          <value>48 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="119786">
+    <title>DEZENT F</title>
+    <model>F</model>
+    <marka>DEZENT</marka>
+    <catalog id="922145">Колесные диски</catalog>
+    
+    <price1>4621</price1>
+    <price2>6436</price2>
+    <description>литые, алюминиевый сплав, 14 / 15 / 16 / 17 / 18</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>литые</value>
+        </item>
+        <item>
+          <name>Материал</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый</value>
+        </item>
+      </items>
+      <items>
+        <name>Типоразмер</name>
+        <item>
+          <name>Ширина х диаметр обода</name>
+          <value>7х16"</value>
+        </item>
+        <item>
+          <name>Количество крепежных отверстий</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Диаметр расположения отверстий (PCD)</name>
+          <value>110 мм</value>
+        </item>
+        <item>
+          <name>Диаметр центрального отверстия</name>
+          <value>65.1 мм</value>
+        </item>
+        <item>
+          <name>Вылет (ET)</name>
+          <value>39 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="119795">
+    <title>RIAL Lugano</title>
+    <model>Lugano</model>
+    <marka>RIAL</marka>
+    <catalog id="922145">Колесные диски</catalog>
+    
+    <price1>5986</price1>
+    <price2>9143</price2>
+    <description>литые, алюминиевый сплав, 16 / 17 / 18 / 19</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>литые</value>
+        </item>
+        <item>
+          <name>Материал</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый+черный</value>
+        </item>
+      </items>
+      <items>
+        <name>Типоразмер</name>
+        <item>
+          <name>Ширина х диаметр обода</name>
+          <value>8х18"</value>
+        </item>
+        <item>
+          <name>Количество крепежных отверстий</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Диаметр расположения отверстий (PCD)</name>
+          <value>114.3 мм</value>
+        </item>
+        <item>
+          <name>Диаметр центрального отверстия</name>
+          <value>70.1 мм</value>
+        </item>
+        <item>
+          <name>Вылет (ET)</name>
+          <value>50 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="119809">
+    <title>iFree Кальвадос</title>
+    <model>Кальвадос</model>
+    <marka>iFree</marka>
+    <catalog id="922145">Колесные диски</catalog>
+    
+    <price1>2969</price1>
+    <price2>3285</price2>
+    <description>литые, алюминиевый сплав, 16</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>литые</value>
+        </item>
+        <item>
+          <name>Материал</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>черный</value>
+        </item>
+      </items>
+      <items>
+        <name>Типоразмер</name>
+        <item>
+          <name>Ширина х диаметр обода</name>
+          <value>7х16"</value>
+        </item>
+        <item>
+          <name>Количество крепежных отверстий</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Диаметр расположения отверстий (PCD)</name>
+          <value>114.3 мм</value>
+        </item>
+        <item>
+          <name>Диаметр центрального отверстия</name>
+          <value>67.1 мм</value>
+        </item>
+        <item>
+          <name>Вылет (ET)</name>
+          <value>34 мм</value>
+        </item>
+        <item>
+          <name>Вес)</name>
+          <value>7.44 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="119843">
+    <title>K&amp;amp;amp;K X-fighter</title>
+    <model>K&amp;amp;amp;K X-fighter</model>
+    <marka>K&amp;amp;K</marka>
+    <catalog id="922145">Колесные диски</catalog>
+    
+    <price1>6150</price1>
+    <price2>6475</price2>
+    <description>литые, алюминиевый сплав, 19</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>литые</value>
+        </item>
+        <item>
+          <name>Материал</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый+бронзовый</value>
+        </item>
+      </items>
+      <items>
+        <name>Типоразмер</name>
+        <item>
+          <name>Ширина х диаметр обода</name>
+          <value>8х19"</value>
+        </item>
+        <item>
+          <name>Количество крепежных отверстий</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Диаметр расположения отверстий (PCD)</name>
+          <value>114.3 мм</value>
+        </item>
+        <item>
+          <name>Диаметр центрального отверстия</name>
+          <value>67.1 мм</value>
+        </item>
+        <item>
+          <name>Вылет (ET)</name>
+          <value>35 мм</value>
+        </item>
+        <item>
+          <name>Вес)</name>
+          <value>13.88 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="119856">
+    <title>Dotz Freeride peak</title>
+    <model>Freeride peak</model>
+    <marka>Dotz</marka>
+    <catalog id="922145">Колесные диски</catalog>
+    
+    <price1>5185</price1>
+    <price2>6973</price2>
+    <description>литые, алюминиевый сплав, 15 / 16 / 17 / 18</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>литые</value>
+        </item>
+        <item>
+          <name>Материал</name>
+          <value>алюминиевый сплав</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый+черный</value>
+        </item>
+      </items>
+      <items>
+        <name>Типоразмер</name>
+        <item>
+          <name>Ширина х диаметр обода</name>
+          <value>6.5х15"</value>
+        </item>
+        <item>
+          <name>Количество крепежных отверстий</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Диаметр расположения отверстий (PCD)</name>
+          <value>100 мм</value>
+        </item>
+        <item>
+          <name>Диаметр центрального отверстия</name>
+          <value>60.1 мм</value>
+        </item>
+        <item>
+          <name>Вылет (ET)</name>
+          <value>38 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

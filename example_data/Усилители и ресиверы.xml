@@ -1,0 +1,4518 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="48013">
+    <title>Onkyo TX-NR809</title>
+    <model>TX-NR809</model>
+    <marka>Onkyo</marka>
+    <catalog id="1018899">Усилители и ресиверы</catalog>
+    
+    <description>
+
+
+
+AV-ресивер 7.2, количество каналов: 7, мощность: 180 Вт, C/Ш: 110 дБ, коэффициент гармоник: 0.08 %, HDMI, тюнер AM/FM, Dolby Digital, Dolby Digital Plus, Dolby TrueHD, DTS, ПДУ
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>AV-ресивер, 7.2</value>
+        </item>
+        <item>
+          <name>Количество каналов</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Схемотехника</name>
+          <value>полупроводниковый</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры усилителя</name>
+        <item>
+          <name>Мощность фронтальных каналов</name>
+          <value>180 Вт (6 Ом, 1 кГц, 1% КГИ)</value>
+        </item>
+        <item>
+          <name>Рекомендуемое сопротивление нагрузки</name>
+          <value>4 - 16 Ом</value>
+        </item>
+        <item>
+          <name>Воспроизводимый диапазон частот</name>
+          <value>5 - 100000 Гц</value>
+        </item>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.08 % (20 Гц - 20 кГц)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>110 дБ</value>
+        </item>
+        <item>
+          <name>Коэффициент демпфирования</name>
+          <value>60</value>
+        </item>
+      </items>
+      <items>
+        <name>Линейный вход/выход</name>
+        <item>
+          <name>Чувствительность</name>
+          <value>200 мВ</value>
+        </item>
+        <item>
+          <name>Входное сопротивление</name>
+          <value>47 кОм</value>
+        </item>
+        <item>
+          <name>Выходное напряжение</name>
+          <value>200 мВ</value>
+        </item>
+      </items>
+      <items>
+        <name>Фонокорректор</name>
+        <item>
+          <name>Фонокорректор</name>
+          <value>есть, MM</value>
+        </item>
+        <item>
+          <name>Чувствительность (звукосниматель MM)</name>
+          <value>2.5 мВ</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум (звукосниматель MM)</name>
+          <value>80 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Регулировки</name>
+        <item>
+          <name>Регулировка тембра</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон регулировки тембра НЧ</name>
+          <value>10 дБ</value>
+        </item>
+        <item>
+          <name>Диапазон регулировки тембра ВЧ</name>
+          <value>10 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Цифровая обработка звука</name>
+        <item>
+          <name>DSP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>композитный x4, S-Video x4, компонентный x2, HDMI x7, коаксиальный x2, оптический x3, 7.1CH x1, линейный x5, Phono</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>сабвуфер x1, композитный x2, S-Video x2, компонентный x1, HDMI x2, наушники x1, 7.1CH x1, линейный x2, триггер x2, PreAmp</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>RS-232, USB Type A, Ethernet RJ-45, внешний ИК-датчик</value>
+        </item>
+        <item>
+          <name>Разъемы на передней панели</name>
+          <value>наушники, линейный вход, композитный вход, HDMI-вход, оптический вход, USB Type A</value>
+        </item>
+        <item>
+          <name>Поддержка сигнала 1080p (HDMI)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для подключения наушников</name>
+          <value>6.3 мм</value>
+        </item>
+        <item>
+          <name>Разъемы для акустики</name>
+          <value>винтовые</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Режим Direct</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Увеличение разрешения видеосигнала</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Увеличение разрешения до 1080p (HDMI)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Экранное меню</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение дополнительных комплектов акустики</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Сетевые возможности</name>
+          <value>DLNA, интернет-радио</value>
+        </item>
+      </items>
+      <items>
+        <name>Декодеры</name>
+        <item>
+          <name>Dolby Digital</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Digital Plus</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby TrueHD</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Pro Logic</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Pro Logic II</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Pro Logic IIx</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Pro Logic IIz</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Digital EX</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS 96/24</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS ES Matrix 6.1</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS ES Discrete 6.1</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS Neo:6</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Тип тюнера</name>
+          <value>цифровой</value>
+        </item>
+        <item>
+          <name>Режимы</name>
+          <value>AM/FM</value>
+        </item>
+        <item>
+          <name>Количество станций</name>
+          <value>общее: 40</value>
+        </item>
+        <item>
+          <name>Диапазон частот AM</name>
+          <value>522 - 1611 кГц</value>
+        </item>
+        <item>
+          <name>Диапазон частот FM</name>
+          <value>87.5 - 108.0 МГц</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>автоматическая настройка, ручная настройка, RDS</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>710 Вт </value>
+        </item>
+        <item>
+          <name>Потребляемая мощность в режиме ожидания</name>
+          <value>0.3 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x199x436 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>18.3 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть, управление другими компонентами</value>
+        </item>
+        <item>
+          <name>Сертификаты</name>
+          <value>THX Select 2 Plus</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48035">
+    <title>Onkyo A-5VL</title>
+    <model>A-5VL</model>
+    <marka>Onkyo</marka>
+    <catalog id="1018899">Усилители и ресиверы</catalog>
+    
+    <price1>19990</price1>
+    <price2>20000</price2>
+    <description>
+
+
+
+интегральный усилитель стерео, количество каналов: 2, мощность: 40 Вт, C/Ш: 100 дБ, коэффициент гармоник: 0.08 %, ПДУ
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>интегральный усилитель, стерео</value>
+        </item>
+        <item>
+          <name>Количество каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Схемотехника</name>
+          <value>полупроводниковый</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры усилителя</name>
+        <item>
+          <name>Мощность фронтальных каналов</name>
+          <value>40 Вт (8 Ом, 1 кГц, 0.8% КГИ), 80 Вт (4 Ом, 1 кГц, 0.8% КГИ)</value>
+        </item>
+        <item>
+          <name>Пиковая мощность фронтальных каналов</name>
+          <value>115 Вт</value>
+        </item>
+        <item>
+          <name>Рекомендуемое сопротивление нагрузки</name>
+          <value>4 - 16 Ом</value>
+        </item>
+        <item>
+          <name>Воспроизводимый диапазон частот</name>
+          <value>5 - 60000 Гц (+1/-3 дБ)</value>
+        </item>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.08 % (1 кГц, 1 Вт)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>100 дБ</value>
+        </item>
+        <item>
+          <name>Коэффициент демпфирования</name>
+          <value>60</value>
+        </item>
+      </items>
+      <items>
+        <name>Линейный вход/выход</name>
+        <item>
+          <name>Чувствительность</name>
+          <value>200 мВ</value>
+        </item>
+        <item>
+          <name>Входное сопротивление</name>
+          <value>33 кОм</value>
+        </item>
+      </items>
+      <items>
+        <name>Фонокорректор</name>
+        <item>
+          <name>Фонокорректор</name>
+          <value>есть, MM, MC</value>
+        </item>
+        <item>
+          <name>Чувствительность (звукосниматель MM)</name>
+          <value>2.4 мВ</value>
+        </item>
+      </items>
+      <items>
+        <name>Регулировки</name>
+        <item>
+          <name>Регулировка баланса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка тембра</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон регулировки тембра НЧ</name>
+          <value>14 дБ</value>
+        </item>
+        <item>
+          <name>Диапазон регулировки тембра ВЧ</name>
+          <value>12 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>коаксиальный x1, оптический x1, линейный x4, Phono</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>наушники x1, линейный x1</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>внешний ИК-датчик</value>
+        </item>
+        <item>
+          <name>Разъемы на передней панели</name>
+          <value>наушники</value>
+        </item>
+        <item>
+          <name>Разъем для подключения наушников</name>
+          <value>6.3 мм</value>
+        </item>
+        <item>
+          <name>Разъемы для акустики</name>
+          <value>винтовые</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Режим Direct</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Bi/Tri-amping</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение дополнительных комплектов акустики</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x80x340 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>10.2 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть, управление другими компонентами</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48047">
+    <title>Yamaha R-S300</title>
+    <model>R-S300</model>
+    <marka>Yamaha</marka>
+    <catalog id="1018899">Усилители и ресиверы</catalog>
+    
+    <price1>7665</price1>
+    <price2>15990</price2>
+    <description>
+
+
+
+ресивер стерео, количество каналов: 2, мощность: 55 Вт, C/Ш: 100 дБ, коэффициент гармоник: 0.015 %, тюнер AM/FM, ПДУ
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ресивер, стерео</value>
+        </item>
+        <item>
+          <name>Количество каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Схемотехника</name>
+          <value>полупроводниковый</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры усилителя</name>
+        <item>
+          <name>Мощность фронтальных каналов</name>
+          <value>55 Вт (4 Ом, 1 кГц, 0.7% КГИ), 50 Вт (8 Ом, 20 Гц - 20 кГц, 0.04% КГИ)</value>
+        </item>
+        <item>
+          <name>Пиковая мощность фронтальных каналов</name>
+          <value>100 Вт</value>
+        </item>
+        <item>
+          <name>Воспроизводимый диапазон частот</name>
+          <value>10 - 100000 Гц (±1 дБ)</value>
+        </item>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.015 % (20 Гц - 20 кГц, 25 Вт, 8 Ом)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>100 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Фонокорректор</name>
+        <item>
+          <name>Фонокорректор</name>
+          <value>есть, MM</value>
+        </item>
+      </items>
+      <items>
+        <name>Регулировки</name>
+        <item>
+          <name>Регулировка баланса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка тембра</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тонкомпенсация</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>линейный x4, вход для iPod, Phono</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>сабвуфер x1, наушники x1, линейный x2</value>
+        </item>
+        <item>
+          <name>Разъемы на передней панели</name>
+          <value>наушники</value>
+        </item>
+        <item>
+          <name>Разъем для подключения наушников</name>
+          <value>6.3 мм</value>
+        </item>
+        <item>
+          <name>Разъемы для акустики</name>
+          <value>винтовые</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Режим Direct</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение дополнительных комплектов акустики</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Тип тюнера</name>
+          <value>цифровой</value>
+        </item>
+        <item>
+          <name>Режимы</name>
+          <value>AM/FM</value>
+        </item>
+        <item>
+          <name>Количество станций</name>
+          <value>общее: 40</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>в режиме FM моно: 74 дБ, в режиме FM стерео: 70 дБ</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>автоматическая настройка, ручная настройка</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x151x387 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>8.8 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть, управление другими компонентами</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48058">
+    <title>Onkyo TX-NR5009</title>
+    <model>TX-NR5009</model>
+    <marka>Onkyo</marka>
+    <catalog id="1018899">Усилители и ресиверы</catalog>
+    
+    <price1>77900</price1>
+    <price2>100000</price2>
+    <description>
+
+
+
+AV-ресивер 9.2, количество каналов: 11, мощность: 220 Вт, C/Ш: 110 дБ, коэффициент гармоник: 0.05 %, HDMI 1.4a, тюнер AM/FM, Dolby Digital, Dolby Digital Plus, Dolby TrueHD, DTS, DTS-HD High Resolution, DTS-HD Master Audio, ПДУ
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>AV-ресивер, 9.2</value>
+        </item>
+        <item>
+          <name>Количество каналов</name>
+          <value>11</value>
+        </item>
+        <item>
+          <name>Схемотехника</name>
+          <value>полупроводниковый</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры усилителя</name>
+        <item>
+          <name>Мощность фронтальных каналов</name>
+          <value>220 Вт (6 Ом, 1 кГц, 1% КГИ)</value>
+        </item>
+        <item>
+          <name>Пиковая мощность фронтальных каналов</name>
+          <value>400 Вт</value>
+        </item>
+        <item>
+          <name>Мощность фронтальных каналов (многоканальный режим)</name>
+          <value>220 Вт</value>
+        </item>
+        <item>
+          <name>Мощность центрального канала</name>
+          <value>220 Вт</value>
+        </item>
+        <item>
+          <name>Мощность тыловых каналов</name>
+          <value>220 Вт</value>
+        </item>
+        <item>
+          <name>Мощность центральных тыловых каналов</name>
+          <value>220 Вт</value>
+        </item>
+        <item>
+          <name>Рекомендуемое сопротивление нагрузки</name>
+          <value>4 - 16 Ом</value>
+        </item>
+        <item>
+          <name>Воспроизводимый диапазон частот</name>
+          <value>5 - 100000 Гц (+1/-3 дБ)</value>
+        </item>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.05 % (20 Гц - 20 кГц)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>110 дБ</value>
+        </item>
+        <item>
+          <name>Коэффициент демпфирования</name>
+          <value>60</value>
+        </item>
+      </items>
+      <items>
+        <name>Линейный вход/выход</name>
+        <item>
+          <name>Чувствительность</name>
+          <value>200 мВ</value>
+        </item>
+        <item>
+          <name>Входное сопротивление</name>
+          <value>47 кОм</value>
+        </item>
+        <item>
+          <name>Выходное напряжение</name>
+          <value>1000 мВ</value>
+        </item>
+        <item>
+          <name>Выходное сопротивление</name>
+          <value>0.47 кОм</value>
+        </item>
+      </items>
+      <items>
+        <name>Фонокорректор</name>
+        <item>
+          <name>Фонокорректор</name>
+          <value>есть, MM</value>
+        </item>
+        <item>
+          <name>Чувствительность (звукосниматель MM)</name>
+          <value>2.5 мВ</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум (звукосниматель MM)</name>
+          <value>80 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Регулировки</name>
+        <item>
+          <name>Регулировка тембра</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон регулировки тембра НЧ</name>
+          <value>10 дБ</value>
+        </item>
+        <item>
+          <name>Диапазон регулировки тембра ВЧ</name>
+          <value>10 дБ</value>
+        </item>
+        <item>
+          <name>Эквалайзер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Цифровая обработка звука</name>
+        <item>
+          <name>DSP</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Частота дискретизации аудио ЦАП</name>
+          <value>192 кГц</value>
+        </item>
+        <item>
+          <name>Разрядность аудио ЦАП</name>
+          <value>32 бит</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>композитный x4, S-Video x4, HDMI x7, коаксиальный x3, оптический x3, 7.1CH x1, линейный x6, Phono</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>сабвуфер x1, композитный x3, S-Video x2, HDMI x2, наушники x1, 7.1CH x1, линейный x4, триггер x2, PreAmp</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>RS-232, USB Type A, Ethernet RJ-45, внешний ИК-датчик</value>
+        </item>
+        <item>
+          <name>Разъемы на передней панели</name>
+          <value>наушники, линейный вход, композитный вход, HDMI-вход, оптический вход, USB Type A</value>
+        </item>
+        <item>
+          <name>Версия HDMI</name>
+          <value>HDMI 1.4a</value>
+        </item>
+        <item>
+          <name>Поддержка сигнала 1080p (HDMI)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для подключения наушников</name>
+          <value>6.3 мм</value>
+        </item>
+        <item>
+          <name>Разъемы для акустики</name>
+          <value>винтовые</value>
+        </item>
+        <item>
+          <name>Позолоченные разъемы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Режим Direct</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Bi/Tri-amping</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая калибровка объемного звука</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Увеличение разрешения видеосигнала</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Увеличение разрешения до 1080p (HDMI)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Экранное меню</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение дополнительных комплектов акустики</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Сетевые возможности</name>
+          <value>DLNA, интернет-радио</value>
+        </item>
+      </items>
+      <items>
+        <name>Декодеры</name>
+        <item>
+          <name>Dolby Digital</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Digital Plus</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby TrueHD</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Pro Logic II</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Pro Logic IIx</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Pro Logic IIz</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Digital EX</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS Express</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS 96/24</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS-HD High Resolution Audio</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS-HD Master Audio</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS ES Matrix 6.1</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS ES Discrete 6.1</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS Neo:6</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS NEO:X</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Тип тюнера</name>
+          <value>цифровой</value>
+        </item>
+        <item>
+          <name>Режимы</name>
+          <value>AM/FM</value>
+        </item>
+        <item>
+          <name>Количество станций</name>
+          <value>общее: 40</value>
+        </item>
+        <item>
+          <name>Диапазон частот AM</name>
+          <value>522 - 1611 кГц</value>
+        </item>
+        <item>
+          <name>Диапазон частот FM</name>
+          <value>87.5 - 108.0 МГц</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>автоматическая настройка, ручная настройка, RDS</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>1160 Вт </value>
+        </item>
+        <item>
+          <name>Потребляемая мощность в режиме ожидания</name>
+          <value>0.3 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x199x464 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>25 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть, мультибрендовый, управление другими компонентами, с режимом обучения</value>
+        </item>
+        <item>
+          <name>Сертификаты</name>
+          <value> THX Ultra II Plus</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>разъем Universal Port</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48064">
+    <title>Pioneer VSX-527</title>
+    <model>VSX-527</model>
+    <marka>Pioneer</marka>
+    <catalog id="1018899">Усилители и ресиверы</catalog>
+    
+    <description>
+
+
+
+AV-ресивер 5.1, количество каналов: 5, мощность: 130 Вт, коэффициент гармоник: 0.06 %, HDMI 1.4a, тюнер AM/FM, Dolby Digital, Dolby Digital Plus, Dolby TrueHD, DTS, DTS-HD High Resolution, DTS-HD Master Audio, ПДУ
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>AV-ресивер, 5.1</value>
+        </item>
+        <item>
+          <name>Количество каналов</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Схемотехника</name>
+          <value>полупроводниковый</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры усилителя</name>
+        <item>
+          <name>Мощность фронтальных каналов</name>
+          <value>130 Вт (6 Ом, 1 кГц, 1% КГИ), 100 Вт (8 Ом, 20 Гц - 20 кГц, 0.09% КГИ)</value>
+        </item>
+        <item>
+          <name>Рекомендуемое сопротивление нагрузки</name>
+          <value>6 - 16 Ом</value>
+        </item>
+        <item>
+          <name>Воспроизводимый диапазон частот</name>
+          <value>5 - 100000 Гц (+0/-3 дБ)</value>
+        </item>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.06 % (20 Гц - 20 кГц, 8 Ом, 50 Вт/канал)</value>
+        </item>
+      </items>
+      <items>
+        <name>Линейный вход/выход</name>
+        <item>
+          <name>Чувствительность</name>
+          <value>200 мВ</value>
+        </item>
+        <item>
+          <name>Входное сопротивление</name>
+          <value>47 кОм</value>
+        </item>
+      </items>
+      <items>
+        <name>Цифровая обработка звука</name>
+        <item>
+          <name>DSP</name>
+          <value>есть, Texas Instruments Aureus TMS320DA788</value>
+        </item>
+        <item>
+          <name>Частота дискретизации аудио ЦАП</name>
+          <value>192 кГц</value>
+        </item>
+        <item>
+          <name>Разрядность аудио ЦАП</name>
+          <value>24 бит</value>
+        </item>
+        <item>
+          <name>Количество предустановок DSP</name>
+          <value>10</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>композитный x2, HDMI x6, коаксиальный x1, оптический x1, линейный x3, вход для iPod</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>сабвуфер x1, композитный x1, HDMI x1, наушники x1, линейный x1</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Ethernet RJ-45</value>
+        </item>
+        <item>
+          <name>Разъемы на передней панели</name>
+          <value>наушники, USB Type A</value>
+        </item>
+        <item>
+          <name>Версия HDMI</name>
+          <value>HDMI 1.4a</value>
+        </item>
+        <item>
+          <name>Поддержка сигнала 1080p (HDMI)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для подключения наушников</name>
+          <value>6.3 мм</value>
+        </item>
+        <item>
+          <name>Разъемы для акустики</name>
+          <value>винтовые</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Автоматическая калибровка объемного звука</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Экранное меню</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Сетевые возможности</name>
+          <value>AirPlay, DLNA, интернет-радио</value>
+        </item>
+      </items>
+      <items>
+        <name>Декодеры</name>
+        <item>
+          <name>Dolby Digital</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Digital Plus</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby TrueHD</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Pro Logic II</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Pro Logic IIx</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Pro Logic IIz</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Digital EX</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS Express</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS 96/24</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS-HD High Resolution Audio</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS-HD Master Audio</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS ES Matrix 6.1</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS ES Discrete 6.1</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS Neo:6</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Тип тюнера</name>
+          <value>цифровой</value>
+        </item>
+        <item>
+          <name>Режимы</name>
+          <value>AM/FM</value>
+        </item>
+        <item>
+          <name>Количество станций</name>
+          <value>общее: 30</value>
+        </item>
+        <item>
+          <name>Диапазон частот AM</name>
+          <value>531 - 1602 кГц</value>
+        </item>
+        <item>
+          <name>Диапазон частот FM</name>
+          <value>87.5 - 108.0 МГц</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>автоматическая настройка, ручная настройка, RDS</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>450 Вт </value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x168x343 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>8.9 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть, управление другими компонентами</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48069">
+    <title>Yamaha A-S1000</title>
+    <model>A-S1000</model>
+    <marka>Yamaha</marka>
+    <catalog id="1018899">Усилители и ресиверы</catalog>
+    
+    <price1>39999</price1>
+    <price2>50910</price2>
+    <description>
+
+
+
+интегральный усилитель стерео, количество каналов: 2, мощность: 90 Вт, C/Ш: 98 дБ, коэффициент гармоник: 0.015 %
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>интегральный усилитель, стерео</value>
+        </item>
+        <item>
+          <name>Количество каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Схемотехника</name>
+          <value>полупроводниковый</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры усилителя</name>
+        <item>
+          <name>Мощность фронтальных каналов</name>
+          <value>90 Вт (8 Ом, 20 Гц - 20 кГц, 0.02% КГИ), 140 Вт (4 Ом, 20 Гц - 20 кГц, 0.02% КГИ)</value>
+        </item>
+        <item>
+          <name>Воспроизводимый диапазон частот</name>
+          <value>5 - 100000 Гц (+0/-3 дБ)</value>
+        </item>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.015 % (90 Вт, 8 Ом)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>98 дБ</value>
+        </item>
+        <item>
+          <name>Разделение каналов</name>
+          <value>74 дБ</value>
+        </item>
+        <item>
+          <name>Коэффициент демпфирования</name>
+          <value>160</value>
+        </item>
+      </items>
+      <items>
+        <name>Линейный вход/выход</name>
+        <item>
+          <name>Чувствительность</name>
+          <value>150 мВ</value>
+        </item>
+        <item>
+          <name>Входное сопротивление</name>
+          <value>47 кОм</value>
+        </item>
+      </items>
+      <items>
+        <name>Фонокорректор</name>
+        <item>
+          <name>Фонокорректор</name>
+          <value>есть, MM, MC</value>
+        </item>
+        <item>
+          <name>Чувствительность (звукосниматель MC)</name>
+          <value>0.5 мВ</value>
+        </item>
+        <item>
+          <name>Чувствительность (звукосниматель MM)</name>
+          <value>5 мВ</value>
+        </item>
+      </items>
+      <items>
+        <name>Регулировки</name>
+        <item>
+          <name>Регулировка баланса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка тембра</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон регулировки тембра НЧ</name>
+          <value>9 дБ</value>
+        </item>
+        <item>
+          <name>Диапазон регулировки тембра ВЧ</name>
+          <value>9 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>линейный x5, PreAmp, Phono</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>наушники x1, PreAmp</value>
+        </item>
+        <item>
+          <name>Разъемы на передней панели</name>
+          <value>наушники</value>
+        </item>
+        <item>
+          <name>Разъем для подключения наушников</name>
+          <value>6.3 мм</value>
+        </item>
+        <item>
+          <name>Разъемы для акустики</name>
+          <value>винтовые</value>
+        </item>
+        <item>
+          <name>Позолоченные разъемы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Bi/Tri-amping</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение дополнительных комплектов акустики</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>350 Вт </value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x137x465 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>22 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48079">
+    <title>Yamaha A-S2000</title>
+    <model>A-S2000</model>
+    <marka>Yamaha</marka>
+    <catalog id="1018899">Усилители и ресиверы</catalog>
+    
+    <price1>59900</price1>
+    <price2>74210</price2>
+    <description>
+
+
+
+интегральный усилитель стерео, количество каналов: 2, мощность: 150 Вт, C/Ш: 98 дБ, коэффициент гармоник: 0.015 %, балансный вход, ПДУ
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>интегральный усилитель, стерео</value>
+        </item>
+        <item>
+          <name>Количество каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Схемотехника</name>
+          <value>полупроводниковый</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры усилителя</name>
+        <item>
+          <name>Мощность фронтальных каналов</name>
+          <value>150 Вт (4 Ом, 20 Гц - 20 кГц, 0.02% КГИ), 90 Вт (8 Ом)</value>
+        </item>
+        <item>
+          <name>Пиковая мощность фронтальных каналов</name>
+          <value>160 Вт</value>
+        </item>
+        <item>
+          <name>Воспроизводимый диапазон частот</name>
+          <value>5 - 100000 Гц (0/-3 дБ)</value>
+        </item>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.015 % (20 Гц - 20 кГц)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>98 дБ</value>
+        </item>
+        <item>
+          <name>Коэффициент демпфирования</name>
+          <value>160</value>
+        </item>
+      </items>
+      <items>
+        <name>Линейный вход/выход</name>
+        <item>
+          <name>Чувствительность</name>
+          <value>150 мВ</value>
+        </item>
+        <item>
+          <name>Входное сопротивление</name>
+          <value>47 кОм</value>
+        </item>
+        <item>
+          <name>Выходное напряжение</name>
+          <value>150 мВ</value>
+        </item>
+      </items>
+      <items>
+        <name>Фонокорректор</name>
+        <item>
+          <name>Фонокорректор</name>
+          <value>есть, MM, MC</value>
+        </item>
+        <item>
+          <name>Чувствительность (звукосниматель MC)</name>
+          <value>0.1 мВ</value>
+        </item>
+        <item>
+          <name>Чувствительность (звукосниматель MM)</name>
+          <value>2.5 мВ</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум (звукосниматель MC)</name>
+          <value>85 дБ</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум (звукосниматель MM)</name>
+          <value>93 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Регулировки</name>
+        <item>
+          <name>Регулировка баланса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка тембра</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон регулировки тембра НЧ</name>
+          <value>9 дБ</value>
+        </item>
+        <item>
+          <name>Диапазон регулировки тембра ВЧ</name>
+          <value>9 дБ</value>
+        </item>
+        <item>
+          <name>Эквалайзер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>линейный x6, балансный x1, Phono</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>наушники x1, PreAmp</value>
+        </item>
+        <item>
+          <name>Разъемы на передней панели</name>
+          <value>наушники</value>
+        </item>
+        <item>
+          <name>Разъем для подключения наушников</name>
+          <value>6.3 мм</value>
+        </item>
+        <item>
+          <name>Разъемы для акустики</name>
+          <value>винтовые</value>
+        </item>
+        <item>
+          <name>Позолоченные разъемы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Подключение дополнительных комплектов акустики</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x137x465 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>22.7 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48090">
+    <title>Onkyo TX-NR579</title>
+    <model>TX-NR579</model>
+    <marka>Onkyo</marka>
+    <catalog id="1018899">Усилители и ресиверы</catalog>
+    
+    <price1>15990</price1>
+    <price2>16990</price2>
+    <description>
+
+
+
+AV-ресивер 7.1, количество каналов: 7, мощность: 130 Вт, C/Ш: 100 дБ, коэффициент гармоник: 0.08 %, тюнер AM/FM, Dolby Digital, Dolby Digital Plus, Dolby TrueHD, DTS, ПДУ
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>AV-ресивер, 7.1</value>
+        </item>
+        <item>
+          <name>Количество каналов</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Схемотехника</name>
+          <value>полупроводниковый</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры усилителя</name>
+        <item>
+          <name>Мощность фронтальных каналов</name>
+          <value>130 Вт (6 Ом, 1 кГц, 1% КГИ)</value>
+        </item>
+        <item>
+          <name>Пиковая мощность фронтальных каналов</name>
+          <value>180 Вт</value>
+        </item>
+        <item>
+          <name>Рекомендуемое сопротивление нагрузки</name>
+          <value>6 - 16 Ом</value>
+        </item>
+        <item>
+          <name>Воспроизводимый диапазон частот</name>
+          <value>20 - 50000 Гц (+1/-3 дБ)</value>
+        </item>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.08 % (20 Гц - 20 кГц)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>100 дБ</value>
+        </item>
+        <item>
+          <name>Коэффициент демпфирования</name>
+          <value>60</value>
+        </item>
+      </items>
+      <items>
+        <name>Линейный вход/выход</name>
+        <item>
+          <name>Чувствительность</name>
+          <value>200 мВ</value>
+        </item>
+        <item>
+          <name>Входное сопротивление</name>
+          <value>47 кОм</value>
+        </item>
+        <item>
+          <name>Выходное напряжение</name>
+          <value>200 мВ</value>
+        </item>
+        <item>
+          <name>Выходное сопротивление</name>
+          <value>2.2 кОм</value>
+        </item>
+      </items>
+      <items>
+        <name>Регулировки</name>
+        <item>
+          <name>Регулировка тембра</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон регулировки тембра НЧ</name>
+          <value>10 дБ</value>
+        </item>
+        <item>
+          <name>Диапазон регулировки тембра ВЧ</name>
+          <value>10 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Цифровая обработка звука</name>
+        <item>
+          <name>DSP</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Частота дискретизации аудио ЦАП</name>
+          <value>192 кГц</value>
+        </item>
+        <item>
+          <name>Разрядность аудио ЦАП</name>
+          <value>24 бит</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>композитный x4, компонентный x2, коаксиальный x2, оптический x2, линейный x5, вход для iPod</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>сабвуфер x1, композитный x2, компонентный x1, наушники x1, линейный x2, PreAmp</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Ethernet RJ-45, внешний ИК-датчик</value>
+        </item>
+        <item>
+          <name>Разъемы на передней панели</name>
+          <value>наушники, линейный вход, композитный вход, USB Type A</value>
+        </item>
+        <item>
+          <name>Поддержка сигнала 1080p (HDMI)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для подключения наушников</name>
+          <value>6.3 мм</value>
+        </item>
+        <item>
+          <name>Разъемы для акустики</name>
+          <value>винтовые</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Автоматическая калибровка объемного звука</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Экранное меню</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение дополнительных комплектов акустики</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Сетевые возможности</name>
+          <value>DLNA, интернет-радио</value>
+        </item>
+      </items>
+      <items>
+        <name>Декодеры</name>
+        <item>
+          <name>Dolby Digital</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Digital Plus</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby TrueHD</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Pro Logic II</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Pro Logic IIx</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Pro Logic IIz</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Digital EX</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS 96/24</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS ES Matrix 6.1</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS ES Discrete 6.1</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS Neo:6</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Тип тюнера</name>
+          <value>цифровой</value>
+        </item>
+        <item>
+          <name>Режимы</name>
+          <value>AM/FM</value>
+        </item>
+        <item>
+          <name>Количество станций</name>
+          <value>общее: 40</value>
+        </item>
+        <item>
+          <name>Диапазон частот AM</name>
+          <value>522 - 1611 кГц</value>
+        </item>
+        <item>
+          <name>Диапазон частот FM</name>
+          <value>87.5 - 108.0 МГц</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>автоматическая настройка, ручная настройка, RDS</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>460 Вт </value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x174x328 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>9.5 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть, управление другими компонентами</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48094">
+    <title>Onkyo TX-8050</title>
+    <model>TX-8050</model>
+    <marka>Onkyo</marka>
+    <catalog id="1018899">Усилители и ресиверы</catalog>
+    
+    <price1>16950</price1>
+    <price2>23500</price2>
+    <description>
+
+
+
+ресивер стерео, количество каналов: 2, мощность: 130 Вт, C/Ш: 106 дБ, тюнер AM/FM, ПДУ
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ресивер, стерео</value>
+        </item>
+        <item>
+          <name>Количество каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Схемотехника</name>
+          <value>полупроводниковый</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры усилителя</name>
+        <item>
+          <name>Мощность фронтальных каналов</name>
+          <value>130 Вт (6 Ом, 1 кГц, 1% КГИ)</value>
+        </item>
+        <item>
+          <name>Пиковая мощность фронтальных каналов</name>
+          <value>180 Вт</value>
+        </item>
+        <item>
+          <name>Рекомендуемое сопротивление нагрузки</name>
+          <value>4 - 16 Ом</value>
+        </item>
+        <item>
+          <name>Воспроизводимый диапазон частот</name>
+          <value>5 - 100000 Гц (+1/-3 дБ)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>106 дБ</value>
+        </item>
+        <item>
+          <name>Коэффициент демпфирования</name>
+          <value>60</value>
+        </item>
+      </items>
+      <items>
+        <name>Линейный вход/выход</name>
+        <item>
+          <name>Чувствительность</name>
+          <value>200 мВ</value>
+        </item>
+        <item>
+          <name>Входное сопротивление</name>
+          <value>47 кОм</value>
+        </item>
+        <item>
+          <name>Выходное напряжение</name>
+          <value>200 мВ</value>
+        </item>
+        <item>
+          <name>Выходное сопротивление</name>
+          <value>2.2 кОм</value>
+        </item>
+      </items>
+      <items>
+        <name>Фонокорректор</name>
+        <item>
+          <name>Фонокорректор</name>
+          <value>есть, MM</value>
+        </item>
+        <item>
+          <name>Чувствительность (звукосниматель MM)</name>
+          <value>2.5 мВ</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум (звукосниматель MM)</name>
+          <value>80 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Регулировки</name>
+        <item>
+          <name>Регулировка баланса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка тембра</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон регулировки тембра НЧ</name>
+          <value>10 дБ</value>
+        </item>
+        <item>
+          <name>Диапазон регулировки тембра ВЧ</name>
+          <value>10 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Цифровая обработка звука</name>
+        <item>
+          <name>DSP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>композитный x4, коаксиальный x2, оптический x2, линейный x6, Phono</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>сабвуфер x1, композитный x2, наушники x1, линейный x2, PreAmp</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Ethernet RJ-45, внешний ИК-датчик</value>
+        </item>
+        <item>
+          <name>Разъемы на передней панели</name>
+          <value>наушники, USB Type A</value>
+        </item>
+        <item>
+          <name>Разъем для подключения наушников</name>
+          <value>6.3 мм</value>
+        </item>
+        <item>
+          <name>Разъемы для акустики</name>
+          <value>винтовые</value>
+        </item>
+        <item>
+          <name>Позолоченные разъемы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Режим Direct</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение дополнительных комплектов акустики</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Сетевые возможности</name>
+          <value>DLNA, интернет-радио</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Тип тюнера</name>
+          <value>цифровой</value>
+        </item>
+        <item>
+          <name>Режимы</name>
+          <value>AM/FM</value>
+        </item>
+        <item>
+          <name>Количество станций</name>
+          <value>общее: 40</value>
+        </item>
+        <item>
+          <name>Диапазон частот AM</name>
+          <value>522 - 1611 кГц</value>
+        </item>
+        <item>
+          <name>Диапазон частот FM</name>
+          <value>87.5 - 108.0 МГц</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>автоматическая настройка, ручная настройка, RDS</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>295 Вт </value>
+        </item>
+        <item>
+          <name>Потребляемая мощность в режиме ожидания</name>
+          <value>0.3 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x150x328 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>8.8 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть, управление другими компонентами</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>разъем Universal Port</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48098">
+    <title>Yamaha A-S300</title>
+    <model>A-S300</model>
+    <marka>Yamaha</marka>
+    <catalog id="1018899">Усилители и ресиверы</catalog>
+    
+    <price1>8300</price1>
+    <price2>12290</price2>
+    <description>
+
+
+
+интегральный усилитель стерео, количество каналов: 2, мощность: 95 Вт, C/Ш: 100 дБ, коэффициент гармоник: 0.015 %, ПДУ
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>интегральный усилитель, стерео</value>
+        </item>
+        <item>
+          <name>Количество каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Схемотехника</name>
+          <value>полупроводниковый</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры усилителя</name>
+        <item>
+          <name>Мощность фронтальных каналов</name>
+          <value>95 Вт (4 Ом, 1 кГц, 0.7% КГИ), 60 Вт (8 Ом, 20 Гц - 20 кГц)</value>
+        </item>
+        <item>
+          <name>Воспроизводимый диапазон частот</name>
+          <value>10 - 100000 Гц (±1 дБ)</value>
+        </item>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.015 %</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>100 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Фонокорректор</name>
+        <item>
+          <name>Фонокорректор</name>
+          <value>есть, MM</value>
+        </item>
+      </items>
+      <items>
+        <name>Регулировки</name>
+        <item>
+          <name>Регулировка баланса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка тембра</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тонкомпенсация</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>линейный x5, вход для iPod, Phono</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>сабвуфер x1, наушники x1, линейный x2</value>
+        </item>
+        <item>
+          <name>Разъемы на передней панели</name>
+          <value>наушники</value>
+        </item>
+        <item>
+          <name>Разъем для подключения наушников</name>
+          <value>6.3 мм</value>
+        </item>
+        <item>
+          <name>Разъемы для акустики</name>
+          <value>винтовые</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Режим Direct</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение дополнительных комплектов акустики</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x151x387 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>9 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть, управление другими компонентами</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48099">
+    <title>Onkyo TX-NR616</title>
+    <model>TX-NR616</model>
+    <marka>Onkyo</marka>
+    <catalog id="1018899">Усилители и ресиверы</catalog>
+    
+    <price1>21900</price1>
+    <price2>30490</price2>
+    <description>
+
+
+
+AV-ресивер 7.2, количество каналов: 7, мощность: 160 Вт, C/Ш: 106 дБ, коэффициент гармоник: 0.08 %, HDMI, тюнер AM/FM, Dolby Digital, Dolby Digital Plus, Dolby TrueHD, DTS, DTS-HD High Resolution, DTS-HD Master Audio, ПДУ
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>AV-ресивер, 7.2</value>
+        </item>
+        <item>
+          <name>Количество каналов</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Схемотехника</name>
+          <value>полупроводниковый</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры усилителя</name>
+        <item>
+          <name>Мощность фронтальных каналов</name>
+          <value>160 Вт (6 Ом, 1 кГц, 1% КГИ)</value>
+        </item>
+        <item>
+          <name>Мощность фронтальных каналов (многоканальный режим)</name>
+          <value>160 Вт</value>
+        </item>
+        <item>
+          <name>Мощность центрального канала</name>
+          <value>160 Вт</value>
+        </item>
+        <item>
+          <name>Мощность тыловых каналов</name>
+          <value>160 Вт</value>
+        </item>
+        <item>
+          <name>Мощность центральных тыловых каналов</name>
+          <value>160 Вт</value>
+        </item>
+        <item>
+          <name>Рекомендуемое сопротивление нагрузки</name>
+          <value>6 - 16 Ом</value>
+        </item>
+        <item>
+          <name>Воспроизводимый диапазон частот</name>
+          <value>5 - 100000 Гц (+1/-3 дБ)</value>
+        </item>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.08 % (20 Гц - 20 кГц)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>106 дБ</value>
+        </item>
+        <item>
+          <name>Коэффициент демпфирования</name>
+          <value>60</value>
+        </item>
+      </items>
+      <items>
+        <name>Линейный вход/выход</name>
+        <item>
+          <name>Чувствительность</name>
+          <value>200 мВ</value>
+        </item>
+        <item>
+          <name>Входное сопротивление</name>
+          <value>47 кОм</value>
+        </item>
+      </items>
+      <items>
+        <name>Регулировки</name>
+        <item>
+          <name>Регулировка тембра</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон регулировки тембра НЧ</name>
+          <value>10 дБ</value>
+        </item>
+        <item>
+          <name>Диапазон регулировки тембра ВЧ</name>
+          <value>10 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Цифровая обработка звука</name>
+        <item>
+          <name>DSP</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Частота дискретизации аудио ЦАП</name>
+          <value>192 кГц</value>
+        </item>
+        <item>
+          <name>Разрядность аудио ЦАП</name>
+          <value>24 бит</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>компонентный x1, HDMI x7, коаксиальный x2, оптический x2, линейный x6</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>сабвуфер x2, компонентный x1, HDMI x2, наушники x1, линейный x2</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A, Ethernet RJ-45, внешний ИК-датчик</value>
+        </item>
+        <item>
+          <name>Разъемы на передней панели</name>
+          <value>наушники, композитный вход, HDMI-вход, USB Type A</value>
+        </item>
+        <item>
+          <name>Поддержка сигнала 1080p (HDMI)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для подключения наушников</name>
+          <value>6.3 мм</value>
+        </item>
+        <item>
+          <name>Разъемы для акустики</name>
+          <value>винтовые + пружинные</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Режим Direct</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая калибровка объемного звука</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Увеличение разрешения видеосигнала</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Увеличение разрешения до 1080p (HDMI)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение дополнительных комплектов акустики</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Сетевые возможности</name>
+          <value>DLNA, интернет-радио</value>
+        </item>
+      </items>
+      <items>
+        <name>Декодеры</name>
+        <item>
+          <name>Dolby Digital</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Digital Plus</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby TrueHD</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Pro Logic</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Pro Logic II</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Pro Logic IIx</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Pro Logic IIz</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Digital EX</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS Express</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS 96/24</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS-HD High Resolution Audio</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS-HD Master Audio</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS ES Matrix 6.1</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS ES Discrete 6.1</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS Neo:6</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Тип тюнера</name>
+          <value>цифровой</value>
+        </item>
+        <item>
+          <name>Режимы</name>
+          <value>AM/FM</value>
+        </item>
+        <item>
+          <name>Количество станций</name>
+          <value>общее: 40</value>
+        </item>
+        <item>
+          <name>Диапазон частот AM</name>
+          <value>522 - 1611 кГц</value>
+        </item>
+        <item>
+          <name>Диапазон частот FM</name>
+          <value>87.5 - 108.0 МГц</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>автоматическая настройка, ручная настройка, RDS</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x174x328 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>11 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть, управление другими компонентами</value>
+        </item>
+        <item>
+          <name>Сертификаты</name>
+          <value>THX Select 2 Plus</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48103">
+    <title>Yamaha R-S500</title>
+    <model>R-S500</model>
+    <marka>Yamaha</marka>
+    <catalog id="1018899">Усилители и ресиверы</catalog>
+    
+    <price1>9900</price1>
+    <price2>17628</price2>
+    <description>
+
+
+
+ресивер стерео, количество каналов: 2, мощность: 105 Вт, C/Ш: 100 дБ, коэффициент гармоник: 0.015 %, тюнер AM/FM, ПДУ
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ресивер, стерео</value>
+        </item>
+        <item>
+          <name>Количество каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Схемотехника</name>
+          <value>полупроводниковый</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры усилителя</name>
+        <item>
+          <name>Мощность фронтальных каналов</name>
+          <value>105 Вт (4 Ом, 1 кГц, 0.7% КГИ), 75 Вт (8 Ом, 20 Гц - 20 кГц, 0.04% КГИ)</value>
+        </item>
+        <item>
+          <name>Пиковая мощность фронтальных каналов</name>
+          <value>178 Вт</value>
+        </item>
+        <item>
+          <name>Воспроизводимый диапазон частот</name>
+          <value>10 - 100000 Гц (±1 дБ)</value>
+        </item>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.015 % (20 Гц - 20 кГц, 37.8 Вт, 8 Ом)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>100 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Фонокорректор</name>
+        <item>
+          <name>Фонокорректор</name>
+          <value>есть, MM</value>
+        </item>
+      </items>
+      <items>
+        <name>Регулировки</name>
+        <item>
+          <name>Регулировка баланса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка тембра</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тонкомпенсация</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>линейный x5, вход для iPod, Phono</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>сабвуфер x1, наушники x1, линейный x2</value>
+        </item>
+        <item>
+          <name>Разъемы на передней панели</name>
+          <value>наушники</value>
+        </item>
+        <item>
+          <name>Разъем для подключения наушников</name>
+          <value>6.3 мм</value>
+        </item>
+        <item>
+          <name>Разъемы для акустики</name>
+          <value>винтовые</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Режим Direct</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение дополнительных комплектов акустики</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Тип тюнера</name>
+          <value>цифровой</value>
+        </item>
+        <item>
+          <name>Режимы</name>
+          <value>AM/FM</value>
+        </item>
+        <item>
+          <name>Количество станций</name>
+          <value>общее: 40</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>в режиме FM моно: 74 дБ, в режиме FM стерео: 70 дБ</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>автоматическая настройка, ручная настройка</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x151x387 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>10.2 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть, управление другими компонентами</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48115">
+    <title>Denon AVR-1612</title>
+    <model>AVR-1612</model>
+    <marka>Denon</marka>
+    <catalog id="1018899">Усилители и ресиверы</catalog>
+    
+    <price1>14480</price1>
+    <price2>15200</price2>
+    <description>
+
+
+
+AV-ресивер 5.1, количество каналов: 5, мощность: 120 Вт, C/Ш: 98 дБ, HDMI 1.4a, тюнер AM/FM, Dolby Digital, Dolby Digital Plus, Dolby TrueHD, DTS, ПДУ
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>AV-ресивер, 5.1</value>
+        </item>
+        <item>
+          <name>Количество каналов</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Схемотехника</name>
+          <value>полупроводниковый</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры усилителя</name>
+        <item>
+          <name>Мощность фронтальных каналов</name>
+          <value>120 Вт (6 Ом, 1 кГц, 0.7% КГИ), 75 Вт (8 Ом, 20 Гц - 20 кГц, 0.08% КГИ)</value>
+        </item>
+        <item>
+          <name>Рекомендуемое сопротивление нагрузки</name>
+          <value>6 - 16 Ом</value>
+        </item>
+        <item>
+          <name>Воспроизводимый диапазон частот</name>
+          <value>10 - 100000 Гц (+1/-3 дБ)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>98 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Линейный вход/выход</name>
+        <item>
+          <name>Чувствительность</name>
+          <value>200 мВ</value>
+        </item>
+        <item>
+          <name>Входное сопротивление</name>
+          <value>47 кОм</value>
+        </item>
+      </items>
+      <items>
+        <name>Регулировки</name>
+        <item>
+          <name>Эквалайзер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Цифровая обработка звука</name>
+        <item>
+          <name>DSP</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>композитный x2, S-Video x1, HDMI x4, коаксиальный x1, оптический x1, линейный x3, вход для iPod</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>сабвуфер x1, композитный x1, HDMI x1, наушники x1, линейный x1, PreAmp</value>
+        </item>
+        <item>
+          <name>Разъемы на передней панели</name>
+          <value>наушники, линейный вход, композитный вход</value>
+        </item>
+        <item>
+          <name>Версия HDMI</name>
+          <value>HDMI 1.4a</value>
+        </item>
+        <item>
+          <name>Поддержка сигнала 1080p (HDMI)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для подключения наушников</name>
+          <value>6.3 мм</value>
+        </item>
+        <item>
+          <name>Разъемы для акустики</name>
+          <value>винтовые</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Режим Direct</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая калибровка объемного звука</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Экранное меню</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Декодеры</name>
+        <item>
+          <name>Dolby Digital</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Digital Plus</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby TrueHD</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Pro Logic II</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Pro Logic IIx</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Pro Logic IIz</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Digital EX</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS 96/24</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS ES Matrix 6.1</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS ES Discrete 6.1</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS Neo:6</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Тип тюнера</name>
+          <value>цифровой</value>
+        </item>
+        <item>
+          <name>Режимы</name>
+          <value>AM/FM</value>
+        </item>
+        <item>
+          <name>Диапазон частот AM</name>
+          <value>522 - 1611 кГц</value>
+        </item>
+        <item>
+          <name>Диапазон частот FM</name>
+          <value>87.5 - 108.0 МГц</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>автоматическая настройка, ручная настройка, RDS</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>360 Вт </value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x162x382 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>9.2 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть, управление другими компонентами</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48127">
+    <title>Denon DRA-500AE</title>
+    <model>DRA-500AE</model>
+    <marka>Denon</marka>
+    <catalog id="1018899">Усилители и ресиверы</catalog>
+    
+    <price1>10000</price1>
+    <price2>18800</price2>
+    <description>
+
+
+
+ресивер стерео, количество каналов: 2, мощность: 75 Вт, C/Ш: 98 дБ, тюнер AM/FM, ПДУ
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>ресивер, стерео</value>
+        </item>
+        <item>
+          <name>Количество каналов</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры усилителя</name>
+        <item>
+          <name>Мощность фронтальных каналов</name>
+          <value>75 Вт (сопротивление нагрузки 8 Ом, для сигнала 20 Гц ~ 20 кГц, для коэффициента гармоник 0.08%)</value>
+        </item>
+        <item>
+          <name>Рекомендуемое сопротивление нагрузки</name>
+          <value>4 - 16 Ом</value>
+        </item>
+        <item>
+          <name>Воспроизводимый диапазон частот</name>
+          <value>10 - 100000 Гц (+1, -3 дБ)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>98 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Линейный вход/выход</name>
+        <item>
+          <name>Чувствительность</name>
+          <value>200 мВ</value>
+        </item>
+        <item>
+          <name>Входное сопротивление</name>
+          <value>47 кОм</value>
+        </item>
+      </items>
+      <items>
+        <name>Регулировки</name>
+        <item>
+          <name>Регулировка тембра</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тонкомпенсация</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>линейный x5, вход для iPod</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>наушники x1, линейный x2</value>
+        </item>
+        <item>
+          <name>Разъемы на передней панели</name>
+          <value>наушники</value>
+        </item>
+        <item>
+          <name>Разъем для подключения наушников</name>
+          <value>6.3 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Режим Direct</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Тип тюнера</name>
+          <value>цифровой</value>
+        </item>
+        <item>
+          <name>Режимы</name>
+          <value>AM/FM</value>
+        </item>
+        <item>
+          <name>Диапазон частот AM</name>
+          <value>522 - 1611 кГц</value>
+        </item>
+        <item>
+          <name>Диапазон частот FM</name>
+          <value>87.5 - 108 МГц</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>в режиме FM моно: 77 дБ, в режиме FM стерео: 72 дБ</value>
+        </item>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>в режиме FM моно: 0.15 %, в режиме FM стерео: 0.30 %</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>автоматическая настройка, ручная настройка, RDS</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>230 Вт </value>
+        </item>
+        <item>
+          <name>Потребляемая мощность в режиме ожидания</name>
+          <value>1 Вт</value>
+        </item>
+        <item>
+          <name>Количество сетевых розеток</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>алюминий</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>434x147x414 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>9 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48128">
+    <title>Onkyo TX-NR515</title>
+    <model>TX-NR515</model>
+    <marka>Onkyo</marka>
+    <catalog id="1018899">Усилители и ресиверы</catalog>
+    
+    <description>
+
+
+
+AV-ресивер 7.2, количество каналов: 7, мощность: 130 Вт, C/Ш: 100 дБ, коэффициент гармоник: 0.08 %, HDMI, тюнер AM/FM, Dolby Digital, Dolby Digital Plus, Dolby TrueHD, DTS, DTS-HD High Resolution, DTS-HD Master Audio, ПДУ
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>AV-ресивер, 7.2</value>
+        </item>
+        <item>
+          <name>Количество каналов</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Схемотехника</name>
+          <value>полупроводниковый</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры усилителя</name>
+        <item>
+          <name>Мощность фронтальных каналов</name>
+          <value>130 Вт (6 Ом, 1% КГИ)</value>
+        </item>
+        <item>
+          <name>Мощность фронтальных каналов (многоканальный режим)</name>
+          <value>130 Вт</value>
+        </item>
+        <item>
+          <name>Мощность центрального канала</name>
+          <value>130 Вт</value>
+        </item>
+        <item>
+          <name>Мощность тыловых каналов</name>
+          <value>130 Вт</value>
+        </item>
+        <item>
+          <name>Мощность центральных тыловых каналов</name>
+          <value>130 Вт</value>
+        </item>
+        <item>
+          <name>Рекомендуемое сопротивление нагрузки</name>
+          <value>6 - 16 Ом</value>
+        </item>
+        <item>
+          <name>Воспроизводимый диапазон частот</name>
+          <value>5 - 100000 Гц (+1/-3 дБ)</value>
+        </item>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.08 % (20 Гц - 20 кГц)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>100 дБ</value>
+        </item>
+        <item>
+          <name>Коэффициент демпфирования</name>
+          <value>60</value>
+        </item>
+      </items>
+      <items>
+        <name>Линейный вход/выход</name>
+        <item>
+          <name>Чувствительность</name>
+          <value>200 мВ</value>
+        </item>
+        <item>
+          <name>Входное сопротивление</name>
+          <value>2.2 кОм</value>
+        </item>
+      </items>
+      <items>
+        <name>Регулировки</name>
+        <item>
+          <name>Регулировка тембра</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон регулировки тембра НЧ</name>
+          <value>10 дБ</value>
+        </item>
+        <item>
+          <name>Диапазон регулировки тембра ВЧ</name>
+          <value>10 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Цифровая обработка звука</name>
+        <item>
+          <name>DSP</name>
+          <value>есть, 4</value>
+        </item>
+        <item>
+          <name>Частота дискретизации аудио ЦАП</name>
+          <value>192 кГц</value>
+        </item>
+        <item>
+          <name>Разрядность аудио ЦАП</name>
+          <value>24 бит</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>композитный x4, компонентный x1, HDMI x7, коаксиальный x2, оптический x2, линейный x5</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>сабвуфер x2, композитный x1, компонентный x1, HDMI x2, наушники x1, линейный x1</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type A, Ethernet RJ-45, внешний ИК-датчик</value>
+        </item>
+        <item>
+          <name>Разъемы на передней панели</name>
+          <value>наушники, композитный вход, HDMI-вход, USB Type A</value>
+        </item>
+        <item>
+          <name>Поддержка сигнала 1080p (HDMI)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для подключения наушников</name>
+          <value>6.3 мм</value>
+        </item>
+        <item>
+          <name>Разъемы для акустики</name>
+          <value>винтовые + пружинные</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Режим Direct</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая калибровка объемного звука</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Увеличение разрешения видеосигнала</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Увеличение разрешения до 1080p (HDMI)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение дополнительных комплектов акустики</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Сетевые возможности</name>
+          <value>DLNA, интернет-радио</value>
+        </item>
+      </items>
+      <items>
+        <name>Декодеры</name>
+        <item>
+          <name>Dolby Digital</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Digital Plus</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby TrueHD</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Pro Logic II</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Pro Logic IIx</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Pro Logic IIz</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Digital EX</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS Express</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS 96/24</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS-HD High Resolution Audio</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS-HD Master Audio</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS ES Matrix 6.1</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS ES Discrete 6.1</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS Neo:6</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Тип тюнера</name>
+          <value>цифровой</value>
+        </item>
+        <item>
+          <name>Режимы</name>
+          <value>AM/FM</value>
+        </item>
+        <item>
+          <name>Количество станций</name>
+          <value>общее: 40</value>
+        </item>
+        <item>
+          <name>Диапазон частот AM</name>
+          <value>522 - 1611 кГц</value>
+        </item>
+        <item>
+          <name>Диапазон частот FM</name>
+          <value>87.5 - 108 МГц</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>автоматическая настройка, ручная настройка, RDS</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x174x328 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>9.2 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть, управление другими компонентами</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48137">
+    <title>Marantz PM KI</title>
+    <model>PM KI</model>
+    <marka>Marantz</marka>
+    <catalog id="1018899">Усилители и ресиверы</catalog>
+    
+    <description>
+
+
+
+интегральный усилитель стерео, количество каналов: 2, мощность: 90 Вт, C/Ш: 89 дБ, коэффициент гармоник: 0.05 %, ПДУ
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>интегральный усилитель, стерео</value>
+        </item>
+        <item>
+          <name>Количество каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Схемотехника</name>
+          <value>полупроводниковый</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры усилителя</name>
+        <item>
+          <name>Мощность фронтальных каналов</name>
+          <value>90 Вт (8 Ом), 140 Вт (4 Ом)</value>
+        </item>
+        <item>
+          <name>Рекомендуемое сопротивление нагрузки</name>
+          <value>4 - 8 Ом</value>
+        </item>
+        <item>
+          <name>Воспроизводимый диапазон частот</name>
+          <value>5 - 100000 Гц (+/-3 дБ)</value>
+        </item>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.05 % (20 Гц - 20 кГц, 8 Ом)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>89 дБ</value>
+        </item>
+        <item>
+          <name>Коэффициент демпфирования</name>
+          <value>100</value>
+        </item>
+      </items>
+      <items>
+        <name>Линейный вход/выход</name>
+        <item>
+          <name>Чувствительность</name>
+          <value>240 мВ</value>
+        </item>
+        <item>
+          <name>Входное сопротивление</name>
+          <value>20 кОм</value>
+        </item>
+      </items>
+      <items>
+        <name>Фонокорректор</name>
+        <item>
+          <name>Фонокорректор</name>
+          <value>есть, MM, MC</value>
+        </item>
+        <item>
+          <name>Чувствительность (звукосниматель MC)</name>
+          <value>0.27 мВ</value>
+        </item>
+        <item>
+          <name>Чувствительность (звукосниматель MM)</name>
+          <value>2.7 мВ</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум (звукосниматель MC)</name>
+          <value>75 дБ</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум (звукосниматель MM)</name>
+          <value>86 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Регулировки</name>
+        <item>
+          <name>Регулировка баланса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка тембра</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон регулировки тембра НЧ</name>
+          <value>10 дБ</value>
+        </item>
+        <item>
+          <name>Диапазон регулировки тембра ВЧ</name>
+          <value>10 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>линейный x5, PreAmp, Phono</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>наушники x1, линейный x2, PreAmp</value>
+        </item>
+        <item>
+          <name>Разъемы на передней панели</name>
+          <value>наушники</value>
+        </item>
+        <item>
+          <name>Разъем для подключения наушников</name>
+          <value>6.3 мм</value>
+        </item>
+        <item>
+          <name>Разъемы для акустики</name>
+          <value>винтовые</value>
+        </item>
+        <item>
+          <name>Позолоченные разъемы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>220 Вт </value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>440x127x400 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>20 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть, управление другими компонентами</value>
+        </item>
+        <item>
+          <name>Управление по системной шине</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48140">
+    <title>Onkyo TX-NR609</title>
+    <model>TX-NR609</model>
+    <marka>Onkyo</marka>
+    <catalog id="1018899">Усилители и ресиверы</catalog>
+    
+    <description>
+
+
+
+AV-ресивер 7.2, количество каналов: 7, мощность: 160 Вт, C/Ш: 106 дБ, коэффициент гармоник: 0.08 %, HDMI, тюнер AM/FM, Dolby Digital, Dolby Digital Plus, Dolby TrueHD, DTS, THX Surround EX, ПДУ
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>AV-ресивер, 7.2</value>
+        </item>
+        <item>
+          <name>Количество каналов</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Схемотехника</name>
+          <value>полупроводниковый</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры усилителя</name>
+        <item>
+          <name>Мощность фронтальных каналов</name>
+          <value>160 Вт (6 Ом, 1 кГц, 1% КГИ)</value>
+        </item>
+        <item>
+          <name>Пиковая мощность фронтальных каналов</name>
+          <value>240 Вт</value>
+        </item>
+        <item>
+          <name>Мощность фронтальных каналов (многоканальный режим)</name>
+          <value>160 Вт</value>
+        </item>
+        <item>
+          <name>Мощность центрального канала</name>
+          <value>160 Вт</value>
+        </item>
+        <item>
+          <name>Мощность тыловых каналов</name>
+          <value>160 Вт</value>
+        </item>
+        <item>
+          <name>Мощность центральных тыловых каналов</name>
+          <value>160 Вт</value>
+        </item>
+        <item>
+          <name>Рекомендуемое сопротивление нагрузки</name>
+          <value>4 - 16 Ом</value>
+        </item>
+        <item>
+          <name>Воспроизводимый диапазон частот</name>
+          <value>5 - 100000 Гц (+1/-3 дБ)</value>
+        </item>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.08 % (20 Гц - 20 кГц)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>106 дБ</value>
+        </item>
+        <item>
+          <name>Коэффициент демпфирования</name>
+          <value>60</value>
+        </item>
+      </items>
+      <items>
+        <name>Линейный вход/выход</name>
+        <item>
+          <name>Чувствительность</name>
+          <value>200 мВ</value>
+        </item>
+        <item>
+          <name>Входное сопротивление</name>
+          <value>47 кОм</value>
+        </item>
+        <item>
+          <name>Выходное напряжение</name>
+          <value>200 мВ</value>
+        </item>
+        <item>
+          <name>Выходное сопротивление</name>
+          <value>2.2 кОм</value>
+        </item>
+      </items>
+      <items>
+        <name>Регулировки</name>
+        <item>
+          <name>Регулировка тембра</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон регулировки тембра НЧ</name>
+          <value>10 дБ</value>
+        </item>
+        <item>
+          <name>Диапазон регулировки тембра ВЧ</name>
+          <value>10 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Цифровая обработка звука</name>
+        <item>
+          <name>DSP</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Частота дискретизации аудио ЦАП</name>
+          <value>192 кГц</value>
+        </item>
+        <item>
+          <name>Разрядность аудио ЦАП</name>
+          <value>24 бит</value>
+        </item>
+        <item>
+          <name>Количество предустановок DSP</name>
+          <value>4</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>композитный x4, компонентный x2, HDMI x5, коаксиальный x2, оптический x2, линейный x6</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>сабвуфер x2, композитный x2, компонентный x1, HDMI x1, наушники x1, линейный x2, PreAmp</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>RS-232, Ethernet RJ-45, внешний ИК-датчик</value>
+        </item>
+        <item>
+          <name>Разъемы на передней панели</name>
+          <value>наушники, композитный вход, HDMI-вход, USB Type A</value>
+        </item>
+        <item>
+          <name>Поддержка сигнала 1080p (HDMI)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для подключения наушников</name>
+          <value>6.3 мм</value>
+        </item>
+        <item>
+          <name>Разъемы для акустики</name>
+          <value>винтовые</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Режим Direct</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Bi/Tri-amping</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая калибровка объемного звука</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Увеличение разрешения видеосигнала</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Увеличение разрешения до 1080p (HDMI)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Экранное меню</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение дополнительных комплектов акустики</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Сетевые возможности</name>
+          <value>DLNA, интернет-радио</value>
+        </item>
+      </items>
+      <items>
+        <name>Декодеры</name>
+        <item>
+          <name>Dolby Digital</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Digital Plus</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby TrueHD</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Pro Logic II</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Pro Logic IIx</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Pro Logic IIz</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Dolby Digital EX</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>THX Surround EX</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS 96/24</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS ES Matrix 6.1</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS ES Discrete 6.1</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>DTS Neo:6</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Тюнер</name>
+        <item>
+          <name>Тип тюнера</name>
+          <value>цифровой</value>
+        </item>
+        <item>
+          <name>Режимы</name>
+          <value>AM/FM</value>
+        </item>
+        <item>
+          <name>Количество станций</name>
+          <value>общее: 40</value>
+        </item>
+        <item>
+          <name>Диапазон частот AM</name>
+          <value>522 - 1611 кГц</value>
+        </item>
+        <item>
+          <name>Диапазон частот FM</name>
+          <value>87.5 - 108.0 МГц</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>автоматическая настройка, ручная настройка, RDS</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>610 Вт </value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x174x328 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>11.2 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть, управление другими компонентами</value>
+        </item>
+        <item>
+          <name>Сертификаты</name>
+          <value>THX Select 2 Plus</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48146">
+    <title>Yamaha A-S700</title>
+    <model>A-S700</model>
+    <marka>Yamaha</marka>
+    <catalog id="1018899">Усилители и ресиверы</catalog>
+    
+    <price1>17790</price1>
+    <price2>25050</price2>
+    <description>
+
+
+
+интегральный усилитель стерео, количество каналов: 2, мощность: 160 Вт, C/Ш: 110 дБ, коэффициент гармоник: 0.012 %, ПДУ
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>интегральный усилитель, стерео</value>
+        </item>
+        <item>
+          <name>Количество каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Схемотехника</name>
+          <value>полупроводниковый</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры усилителя</name>
+        <item>
+          <name>Мощность фронтальных каналов</name>
+          <value>160 Вт (4 Ом, 1 кГц, 0.7% КГИ), 105 Вт (6 Ом, 0.03% КГИ, 20 Гц - 20 кГц), 90 Вт (8 Ом, 0.019% КГИ, 20 Гц - 20 кГц)</value>
+        </item>
+        <item>
+          <name>Рекомендуемое сопротивление нагрузки</name>
+          <value>4 - 8 Ом</value>
+        </item>
+        <item>
+          <name>Воспроизводимый диапазон частот</name>
+          <value>10 - 100000 Гц (±1 дБ)</value>
+        </item>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.012 % (20 Гц - 20 кГц, 50 Вт, 8 Ом)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>110 дБ</value>
+        </item>
+        <item>
+          <name>Коэффициент демпфирования</name>
+          <value>240</value>
+        </item>
+      </items>
+      <items>
+        <name>Линейный вход/выход</name>
+        <item>
+          <name>Чувствительность</name>
+          <value>200 мВ</value>
+        </item>
+        <item>
+          <name>Входное сопротивление</name>
+          <value>47 кОм</value>
+        </item>
+      </items>
+      <items>
+        <name>Фонокорректор</name>
+        <item>
+          <name>Фонокорректор</name>
+          <value>есть, MM</value>
+        </item>
+      </items>
+      <items>
+        <name>Регулировки</name>
+        <item>
+          <name>Регулировка баланса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка тембра</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тонкомпенсация</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>линейный x5, Phono</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>наушники x1, линейный x2</value>
+        </item>
+        <item>
+          <name>Разъемы на передней панели</name>
+          <value>наушники</value>
+        </item>
+        <item>
+          <name>Разъем для подключения наушников</name>
+          <value>6.3 мм</value>
+        </item>
+        <item>
+          <name>Разъемы для акустики</name>
+          <value>винтовые</value>
+        </item>
+        <item>
+          <name>Позолоченные разъемы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Режим Direct</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Bi/Tri-amping</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Подключение дополнительных комплектов акустики</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>260 Вт </value>
+        </item>
+        <item>
+          <name>Количество сетевых розеток</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип трансформатора</name>
+          <value>Ш-образный</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x151x385 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>10.9 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть, управление другими компонентами</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48148">
+    <title>Onkyo P-3000R</title>
+    <model>P-3000R</model>
+    <marka>Onkyo</marka>
+    <catalog id="1018899">Усилители и ресиверы</catalog>
+    
+    <price1>67900</price1>
+    <price2>70000</price2>
+    <description>
+
+
+
+предварительный усилитель стерео, C/Ш: 110 дБ, коэффициент гармоник: 0.05 %, ПДУ
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>предварительный усилитель, стерео</value>
+        </item>
+        <item>
+          <name>Количество каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Схемотехника</name>
+          <value>полупроводниковый</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры усилителя</name>
+        <item>
+          <name>Воспроизводимый диапазон частот</name>
+          <value>5 - 100000 Гц (0/-3 дБ)</value>
+        </item>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.05 % (20 Гц - 20 кГц)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>110 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Линейный вход/выход</name>
+        <item>
+          <name>Чувствительность</name>
+          <value>200 мВ</value>
+        </item>
+        <item>
+          <name>Входное сопротивление</name>
+          <value>47 кОм</value>
+        </item>
+        <item>
+          <name>Выходное напряжение</name>
+          <value>1000 мВ</value>
+        </item>
+        <item>
+          <name>Выходное сопротивление</name>
+          <value>0.33 кОм</value>
+        </item>
+      </items>
+      <items>
+        <name>Фонокорректор</name>
+        <item>
+          <name>Фонокорректор</name>
+          <value>есть, MM</value>
+        </item>
+        <item>
+          <name>Чувствительность (звукосниматель MM)</name>
+          <value>2.7 мВ</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум (звукосниматель MM)</name>
+          <value>80 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Регулировки</name>
+        <item>
+          <name>Регулировка тембра</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон регулировки тембра НЧ</name>
+          <value>8 дБ</value>
+        </item>
+        <item>
+          <name>Диапазон регулировки тембра ВЧ</name>
+          <value>8 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Цифровая обработка звука</name>
+        <item>
+          <name>DSP</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Частота дискретизации аудио ЦАП</name>
+          <value>192 кГц</value>
+        </item>
+        <item>
+          <name>Разрядность аудио ЦАП</name>
+          <value>32 бит</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>коаксиальный x2, оптический x2, линейный x4, Phono</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>наушники x1, оптический x1, линейный x2, триггер x1, PreAmp</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB Type B, внешний ИК-датчик</value>
+        </item>
+        <item>
+          <name>Разъемы на передней панели</name>
+          <value>наушники</value>
+        </item>
+        <item>
+          <name>Разъем для подключения наушников</name>
+          <value>6.3 мм</value>
+        </item>
+        <item>
+          <name>Позолоченные разъемы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Режим Direct</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Bi/Tri-amping</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x99x333 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>11 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>цифровой балансный вход AES/EBU</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48152">
+    <title>Onkyo A-9070</title>
+    <model>A-9070</model>
+    <marka>Onkyo</marka>
+    <catalog id="1018899">Усилители и ресиверы</catalog>
+    
+    <price1>40900</price1>
+    <price2>52000</price2>
+    <description>
+
+
+
+интегральный усилитель стерео, количество каналов: 2, мощность: 140 Вт, C/Ш: 107 дБ, коэффициент гармоник: 0.008 %, ПДУ
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>интегральный усилитель, стерео</value>
+        </item>
+        <item>
+          <name>Количество каналов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Схемотехника</name>
+          <value>полупроводниковый</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры усилителя</name>
+        <item>
+          <name>Мощность фронтальных каналов</name>
+          <value>140 Вт (4 Ом, 20 Гц - 20 кГц, 0.05% КГИ), 75 Вт (8 Ом, 20 Гц - 20 кГц, 0.05% КГИ)</value>
+        </item>
+        <item>
+          <name>Рекомендуемое сопротивление нагрузки</name>
+          <value>4 - 16 Ом</value>
+        </item>
+        <item>
+          <name>Воспроизводимый диапазон частот</name>
+          <value>10 - 100000 Гц (+0/-1 дБ)</value>
+        </item>
+        <item>
+          <name>Коэффициент гармоник</name>
+          <value>0.008 % (20 Гц - 20 кГц)</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум</name>
+          <value>107 дБ</value>
+        </item>
+        <item>
+          <name>Коэффициент демпфирования</name>
+          <value>130</value>
+        </item>
+      </items>
+      <items>
+        <name>Линейный вход/выход</name>
+        <item>
+          <name>Чувствительность</name>
+          <value>150 мВ</value>
+        </item>
+        <item>
+          <name>Входное сопротивление</name>
+          <value>47 кОм</value>
+        </item>
+      </items>
+      <items>
+        <name>Фонокорректор</name>
+        <item>
+          <name>Фонокорректор</name>
+          <value>есть, MM, MC</value>
+        </item>
+        <item>
+          <name>Чувствительность (звукосниматель MC)</name>
+          <value>0.18 мВ</value>
+        </item>
+        <item>
+          <name>Чувствительность (звукосниматель MM)</name>
+          <value>2.25 мВ</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум (звукосниматель MC)</name>
+          <value>70 дБ</value>
+        </item>
+        <item>
+          <name>Отношение сигнал/шум (звукосниматель MM)</name>
+          <value>60 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Регулировки</name>
+        <item>
+          <name>Регулировка баланса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка тембра</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диапазон регулировки тембра НЧ</name>
+          <value>10 дБ</value>
+        </item>
+        <item>
+          <name>Диапазон регулировки тембра ВЧ</name>
+          <value>10 дБ</value>
+        </item>
+      </items>
+      <items>
+        <name>Цифровая обработка звука</name>
+        <item>
+          <name>DSP</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Частота дискретизации аудио ЦАП</name>
+          <value>192 кГц</value>
+        </item>
+        <item>
+          <name>Разрядность аудио ЦАП</name>
+          <value>24 бит</value>
+        </item>
+      </items>
+      <items>
+        <name>Интерфейсы</name>
+        <item>
+          <name>Входы</name>
+          <value>коаксиальный x2, оптический x1, линейный x3, PreAmp, Phono</value>
+        </item>
+        <item>
+          <name>Выходы</name>
+          <value>наушники x1, линейный x1, PreAmp</value>
+        </item>
+        <item>
+          <name>Разъемы на передней панели</name>
+          <value>наушники</value>
+        </item>
+        <item>
+          <name>Разъем для подключения наушников</name>
+          <value>6.3 мм</value>
+        </item>
+        <item>
+          <name>Разъемы для акустики</name>
+          <value>винтовые</value>
+        </item>
+        <item>
+          <name>Позолоченные разъемы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Подключение дополнительных комплектов акустики</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Потребляемая мощность</name>
+          <value>290 Вт </value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Цветовое оформление</name>
+          <value>черный, серебристый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x175x431 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>18.1 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть, управление другими компонентами</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

@@ -1,0 +1,2066 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="18085">
+    <title>Philips HD9140</title>
+    <model>HD9140</model>
+    <marka>Philips</marka>
+    <catalog id="948391">Пароварки</catalog>
+    
+    <price1>1300</price1>
+    <price2>4200</price2>
+    <description>
+электронное управление, количество ярусов - 3, объем паровых корзин 3.50/2.60/2.50 л, максимальная потребляемая мощность 900 Вт, автоприготовление, отключение по таймеру, долив воды во время приготовления
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Количество ярусов</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Максимальная потребляемая мощность</name>
+          <value>900 Вт</value>
+        </item>
+        <item>
+          <name>Звуковой сигнал</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Индикация включения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отключение при недостатке воды</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик/нерж. сталь</value>
+        </item>
+        <item>
+          <name>Материал паровых корзин</name>
+          <value>прозрачный пластик</value>
+        </item>
+        <item>
+          <name>Объем паровых корзин</name>
+          <value>3.5/2.6/2.5 л</value>
+        </item>
+        <item>
+          <name>Объем резервуара для воды</name>
+          <value>1.1 л</value>
+        </item>
+        <item>
+          <name>Чаша для риса</name>
+          <value>есть, на 1.2 л</value>
+        </item>
+        <item>
+          <name>Индикатор уровня воды</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Съемные решетки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Углубления для варки яиц</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Долив воды во время приготовления</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Автоприготовление</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Термостат</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отсрочка старта</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>31x45x23 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.3 кг</value>
+        </item>
+        <item>
+          <name>Компактное хранение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отсек для сетевого шнура</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Длина сетевого шнура</name>
+          <value>1 м</value>
+        </item>
+        <item>
+          <name>Дополнительно</name>
+          <value>устройство Flavour Booster - насыщает блюда вкуснейшими ароматами трав и специй, индикатор необходимости очистки от накипи со звуковым сигналом, индикатор добавления воды</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="18086">
+    <title>Braun FS 20</title>
+    <model>FS 20</model>
+    <marka>Braun</marka>
+    <catalog id="948391">Пароварки</catalog>
+    
+    <price1>2527</price1>
+    <price2>3990</price2>
+    <description>
+механическое управление, количество ярусов - 2, объем паровых корзин 3.10/3.10 л, максимальная потребляемая мощность 850 Вт, отключение по таймеру
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Количество ярусов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Максимальная потребляемая мощность</name>
+          <value>850 Вт</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>на 60 мин, с отключением</value>
+        </item>
+        <item>
+          <name>Звуковой сигнал</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Индикация включения</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Материал паровых корзин</name>
+          <value>непрозрачный пластик</value>
+        </item>
+        <item>
+          <name>Объем паровых корзин</name>
+          <value>3.1/3.1 л</value>
+        </item>
+        <item>
+          <name>Чаша для риса</name>
+          <value>есть, на 2 л</value>
+        </item>
+        <item>
+          <name>Индикатор уровня воды</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Углубления для варки яиц</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Долив воды во время приготовления</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Термостат</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Режим Быстрый пар</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отсрочка старта</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Вес</name>
+          <value>2.3 кг</value>
+        </item>
+        <item>
+          <name>Отсек для сетевого шнура</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дополнительно</name>
+          <value>дополнительная чаша для окрашивающих продуктов</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="18091">
+    <title>Philips HD9110</title>
+    <model>HD9110</model>
+    <marka>Philips</marka>
+    <catalog id="948391">Пароварки</catalog>
+    
+    <price1>1010</price1>
+    <price2>2500</price2>
+    <description>
+механическое управление, количество ярусов - 2, объем паровых корзин 2.50/2.60 л, максимальная потребляемая мощность 900 Вт, отключение по таймеру, долив воды во время приготовления
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Количество ярусов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Максимальная потребляемая мощность</name>
+          <value>900 Вт</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>на 60 мин, с отключением</value>
+        </item>
+        <item>
+          <name>Звуковой сигнал</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Индикация включения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отключение при недостатке воды</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Материал паровых корзин</name>
+          <value>прозрачный пластик</value>
+        </item>
+        <item>
+          <name>Объем паровых корзин</name>
+          <value>2.5/2.6 л</value>
+        </item>
+        <item>
+          <name>Объем резервуара для воды</name>
+          <value>1.1 л</value>
+        </item>
+        <item>
+          <name>Чаша для риса</name>
+          <value>есть, на 1.2 л</value>
+        </item>
+        <item>
+          <name>Индикатор уровня воды</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Съемные решетки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Углубления для варки яиц</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Долив воды во время приготовления</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Отсрочка старта</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>31.2x45x22.8 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.9 кг</value>
+        </item>
+        <item>
+          <name>Компактное хранение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отсек для сетевого шнура</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Длина сетевого шнура</name>
+          <value>1 м</value>
+        </item>
+        <item>
+          <name>Дополнительно</name>
+          <value>Flavour Booster - отсек для специй; прорезиненные ножки</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="18102">
+    <title>Tefal VS 7001 VitaCuisine Gourmand</title>
+    <model>VS 7001 VitaCuisine Gourmand</model>
+    <marka>Tefal</marka>
+    <catalog id="948391">Пароварки</catalog>
+    
+    <price1>4140</price1>
+    <price2>6207</price2>
+    <description>
+механическое управление, количество ярусов - 2, объем паровых корзин 5/4.40 л, максимальная потребляемая мощность 2000 Вт, отключение по таймеру, долив воды во время приготовления
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Количество ярусов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Максимальная потребляемая мощность</name>
+          <value>2000 Вт</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>на 60 мин, с отключением</value>
+        </item>
+        <item>
+          <name>Звуковой сигнал</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Индикация включения</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Материал паровых корзин</name>
+          <value>прозрачный пластик</value>
+        </item>
+        <item>
+          <name>Объем паровых корзин</name>
+          <value>5/4.4 л</value>
+        </item>
+        <item>
+          <name>Чаша для риса</name>
+          <value>есть, на 1.5 л</value>
+        </item>
+        <item>
+          <name>Индикатор уровня воды</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Долив воды во время приготовления</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Термостат</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим Быстрый пар</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Отсрочка старта</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Дополнительно</name>
+          <value>2 корзины из нержавеющей стали с ручками по 2,5 литра; Vitamin+; 2 поддона для готовки в соусе и маринаде; 6 стаканчиков verrine</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="18103">
+    <title>Philips HD9120</title>
+    <model>HD9120</model>
+    <marka>Philips</marka>
+    <catalog id="948391">Пароварки</catalog>
+    
+    <price1>1500</price1>
+    <price2>3087</price2>
+    <description>
+механическое управление, количество ярусов - 3, объем паровых корзин 3.50/2.60/2.50 л, максимальная потребляемая мощность 900 Вт, отключение по таймеру, долив воды во время приготовления
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Количество ярусов</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Максимальная потребляемая мощность</name>
+          <value>900 Вт</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>на 60 мин, с отключением</value>
+        </item>
+        <item>
+          <name>Звуковой сигнал</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Индикация включения</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Материал паровых корзин</name>
+          <value>прозрачный пластик</value>
+        </item>
+        <item>
+          <name>Объем паровых корзин</name>
+          <value>3.5/2.6/2.5 л</value>
+        </item>
+        <item>
+          <name>Объем резервуара для воды</name>
+          <value>1.1 л</value>
+        </item>
+        <item>
+          <name>Чаша для риса</name>
+          <value>есть, на 1.2 л</value>
+        </item>
+        <item>
+          <name>Индикатор уровня воды</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Съемные решетки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Углубления для варки яиц</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Долив воды во время приготовления</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Термостат</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Режим Быстрый пар</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Отсрочка старта</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>31x45x23 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.3 кг</value>
+        </item>
+        <item>
+          <name>Компактное хранение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отсек для сетевого шнура</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Длина сетевого шнура</name>
+          <value>1 м</value>
+        </item>
+        <item>
+          <name>Дополнительно</name>
+          <value>устройство Flavour Booster - насыщает блюда вкуснейшими ароматами трав и специй</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="18105">
+    <title>Tefal VS 4003 VitaCuisine Compact</title>
+    <model>VS 4003 VitaCuisine Compact</model>
+    <marka>Tefal</marka>
+    <catalog id="948391">Пароварки</catalog>
+    
+    <price1>3990</price1>
+    <price2>5467</price2>
+    <description>
+электронное управление, количество ярусов - 3, максимальная потребляемая мощность 1800 Вт, отключение по таймеру, отсрочка старта
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Количество ярусов</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Максимальная потребляемая мощность</name>
+          <value>1800 Вт</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>на 60 мин, с отключением</value>
+        </item>
+        <item>
+          <name>Индикация включения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отключение при недостатке воды</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Материал паровых корзин</name>
+          <value>прозрачный пластик</value>
+        </item>
+        <item>
+          <name>Съемные решетки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Углубления для варки яиц</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Термостат</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отсрочка старта</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Компактное хранение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительно</name>
+          <value>индикация низкого уровня воды; Vitamin+; 2 поддона для готовки в соусе и маринаде</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="18107">
+    <title>Tefal VC 1017 Simply Invents</title>
+    <model>VC 1017 Simply Invents</model>
+    <marka>Tefal</marka>
+    <catalog id="948391">Пароварки</catalog>
+    
+    <price1>3240</price1>
+    <price2>4376</price2>
+    <description>
+механическое управление, количество ярусов - 2, объем паровых корзин 3/3 л, максимальная потребляемая мощность 900 Вт, отключение по таймеру
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Количество ярусов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Максимальная потребляемая мощность</name>
+          <value>900 Вт</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>на 60 мин, с отключением</value>
+        </item>
+        <item>
+          <name>Звуковой сигнал</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Индикация включения</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>нерж. сталь</value>
+        </item>
+        <item>
+          <name>Материал паровых корзин</name>
+          <value>нерж. сталь</value>
+        </item>
+        <item>
+          <name>Объем паровых корзин</name>
+          <value>3/3 л</value>
+        </item>
+        <item>
+          <name>Чаша для риса</name>
+          <value>есть, на 1.1 л</value>
+        </item>
+        <item>
+          <name>Индикатор уровня воды</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Съемные решетки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Углубления для варки яиц</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Долив воды во время приготовления</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Термостат</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим Быстрый пар</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Отсрочка старта</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>28x34x24 см</value>
+        </item>
+        <item>
+          <name>Компактное хранение</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="18114">
+    <title>Tefal VC 1301 Minicompact</title>
+    <model>VC 1301 Minicompact</model>
+    <marka>Tefal</marka>
+    <catalog id="948391">Пароварки</catalog>
+    
+    <price1>1160</price1>
+    <price2>2029</price2>
+    <description>
+механическое управление, количество ярусов - 3, максимальная потребляемая мощность 650 Вт, отключение по таймеру
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Количество ярусов</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Максимальная потребляемая мощность</name>
+          <value>650 Вт</value>
+        </item>
+        <item>
+          <name>Индикация включения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отключение при недостатке воды</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Материал паровых корзин</name>
+          <value>прозрачный пластик</value>
+        </item>
+        <item>
+          <name>Чаша для риса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Индикатор уровня воды</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Термостат</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Отсрочка старта</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Компактное хранение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительно</name>
+          <value>акватаймер (время приготовления зависит от количества воды)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="18117">
+    <title>Tefal VC 1002 Ultra Compact</title>
+    <model>VC 1002 Ultra Compact</model>
+    <marka>Tefal</marka>
+    <catalog id="948391">Пароварки</catalog>
+    
+    <price1>1850</price1>
+    <price2>3050</price2>
+    <description>
+механическое управление, количество ярусов - 3, объем паровых корзин 3/3/3 л, максимальная потребляемая мощность 900 Вт, отключение по таймеру, долив воды во время приготовления
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Количество ярусов</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Максимальная потребляемая мощность</name>
+          <value>900 Вт</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>на 60 мин, с отключением</value>
+        </item>
+        <item>
+          <name>Звуковой сигнал</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Материал паровых корзин</name>
+          <value>прозрачный пластик</value>
+        </item>
+        <item>
+          <name>Объем паровых корзин</name>
+          <value>3/3/3 л</value>
+        </item>
+        <item>
+          <name>Чаша для риса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Индикатор уровня воды</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Съемные решетки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Углубления для варки яиц</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Долив воды во время приготовления</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Термостат</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Режим Быстрый пар</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Отсрочка старта</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Компактное хранение</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="18120">
+    <title>Kenwood FS-460</title>
+    <model>FS-460</model>
+    <marka>Kenwood</marka>
+    <catalog id="948391">Пароварки</catalog>
+    
+    <price1>1560</price1>
+    <price2>3290</price2>
+    <description>
+электронное управление, количество ярусов - 3, объем паровых корзин 2.70/2.50/3.50 л, максимальная потребляемая мощность 900 Вт, автоприготовление, отключение по таймеру, долив воды во время приготовления
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Количество ярусов</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Максимальная потребляемая мощность</name>
+          <value>900 Вт</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>на 90 мин, с отключением</value>
+        </item>
+        <item>
+          <name>Индикация включения</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Материал паровых корзин</name>
+          <value>прозрачный пластик</value>
+        </item>
+        <item>
+          <name>Объем паровых корзин</name>
+          <value>2.7/2.5/3.5 л</value>
+        </item>
+        <item>
+          <name>Объем резервуара для воды</name>
+          <value>1.1 л</value>
+        </item>
+        <item>
+          <name>Чаша для риса</name>
+          <value>есть, на 1.2 л</value>
+        </item>
+        <item>
+          <name>Индикатор уровня воды</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Съемные решетки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Долив воды во время приготовления</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Автоприготовление</name>
+          <value>есть, рецептов - 6</value>
+        </item>
+        <item>
+          <name>Термостат</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим Быстрый пар</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>32x43x25 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.5 кг</value>
+        </item>
+        <item>
+          <name>Отсек для сетевого шнура</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Длина сетевого шнура</name>
+          <value>1.1 м</value>
+        </item>
+        <item>
+          <name>Дополнительно</name>
+          <value>зеленая подсветка дисплея</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="18121">
+    <title>Tefal VC 1014 Invent</title>
+    <model>VC 1014 Invent</model>
+    <marka>Tefal</marka>
+    <catalog id="948391">Пароварки</catalog>
+    
+    <price1>2010</price1>
+    <price2>3290</price2>
+    <description>
+механическое управление, количество ярусов - 3, объем паровых корзин 2/2/2 л, максимальная потребляемая мощность 900 Вт, отключение по таймеру
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Количество ярусов</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Максимальная потребляемая мощность</name>
+          <value>900 Вт</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>на 60 мин, с отключением</value>
+        </item>
+        <item>
+          <name>Звуковой сигнал</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Индикация включения</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Материал паровых корзин</name>
+          <value>прозрачный пластик</value>
+        </item>
+        <item>
+          <name>Объем паровых корзин</name>
+          <value>2/2/2 л</value>
+        </item>
+        <item>
+          <name>Объем резервуара для воды</name>
+          <value>1.1 л</value>
+        </item>
+        <item>
+          <name>Чаша для риса</name>
+          <value>есть, на 1.1 л</value>
+        </item>
+        <item>
+          <name>Индикатор уровня воды</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Съемные решетки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Углубления для варки яиц</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Долив воды во время приготовления</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Термостат</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим Быстрый пар</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Отсрочка старта</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Компактное хранение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Длина сетевого шнура</name>
+          <value>1 м</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="18122">
+    <title>Kenwood FS-360</title>
+    <model>FS-360</model>
+    <marka>Kenwood</marka>
+    <catalog id="948391">Пароварки</catalog>
+    
+    <price1>1655</price1>
+    <price2>2957</price2>
+    <description>
+механическое управление, количество ярусов - 3, объем паровых корзин 2.70/2.50/3.50 л, максимальная потребляемая мощность 900 Вт, отключение по таймеру, долив воды во время приготовления
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Количество ярусов</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Максимальная потребляемая мощность</name>
+          <value>900 Вт</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>на 60 мин, с отключением</value>
+        </item>
+        <item>
+          <name>Звуковой сигнал</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Индикация включения</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Материал паровых корзин</name>
+          <value>прозрачный пластик</value>
+        </item>
+        <item>
+          <name>Объем паровых корзин</name>
+          <value>2.7/2.5/3.5 л</value>
+        </item>
+        <item>
+          <name>Объем резервуара для воды</name>
+          <value>1.1 л</value>
+        </item>
+        <item>
+          <name>Чаша для риса</name>
+          <value>есть, на 1.2 л</value>
+        </item>
+        <item>
+          <name>Индикатор уровня воды</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Съемные решетки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Углубления для варки яиц</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Долив воды во время приготовления</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Термостат</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Режим Быстрый пар</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отсрочка старта</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>32x43x25 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.3 кг</value>
+        </item>
+        <item>
+          <name>Отсек для сетевого шнура</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Длина сетевого шнура</name>
+          <value>1 м</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="18124">
+    <title>Philips HD9139</title>
+    <model>HD9139</model>
+    <marka>Philips</marka>
+    <catalog id="948391">Пароварки</catalog>
+    
+    <price1>1931</price1>
+    <price2>2990</price2>
+    <description>
+электронное управление, количество ярусов - 2, максимальная потребляемая мощность 900 Вт, автоприготовление, долив воды во время приготовления
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Количество ярусов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Максимальная потребляемая мощность</name>
+          <value>900 Вт</value>
+        </item>
+        <item>
+          <name>Звуковой сигнал</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Индикация включения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отключение при недостатке воды</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик/нерж. сталь</value>
+        </item>
+        <item>
+          <name>Материал паровых корзин</name>
+          <value>прозрачный пластик</value>
+        </item>
+        <item>
+          <name>Объем резервуара для воды</name>
+          <value>1.1 л</value>
+        </item>
+        <item>
+          <name>Индикатор уровня воды</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Съемные решетки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Углубления для варки яиц</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Долив воды во время приготовления</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Автоприготовление</name>
+          <value>есть, рецептов - 5</value>
+        </item>
+        <item>
+          <name>Отсрочка старта</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>36x45x22.7 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.3 кг</value>
+        </item>
+        <item>
+          <name>Длина сетевого шнура</name>
+          <value>1 м</value>
+        </item>
+        <item>
+          <name>Дополнительно</name>
+          <value>Flavour Booster, индикатор очистки от накипи</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="18131">
+    <title>Moulinex MV 1000 Principio</title>
+    <model>MV 1000 Principio</model>
+    <marka>Moulinex</marka>
+    <catalog id="948391">Пароварки</catalog>
+    
+    <price1>1315</price1>
+    <price2>1530</price2>
+    <description>
+механическое управление, количество ярусов - 2, объем паровых корзин 3/2 л, максимальная потребляемая мощность 600 Вт, отключение по таймеру
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Количество ярусов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Максимальная потребляемая мощность</name>
+          <value>600 Вт</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>на 60 мин, с отключением</value>
+        </item>
+        <item>
+          <name>Индикация включения</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Материал паровых корзин</name>
+          <value>прозрачный пластик</value>
+        </item>
+        <item>
+          <name>Объем паровых корзин</name>
+          <value>3/2 л</value>
+        </item>
+        <item>
+          <name>Индикатор уровня воды</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Углубления для варки яиц</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Долив воды во время приготовления</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Термостат</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Режим Быстрый пар</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Отсрочка старта</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>28x34x24 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.6 кг</value>
+        </item>
+        <item>
+          <name>Компактное хранение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Длина сетевого шнура</name>
+          <value>0.85 м</value>
+        </item>
+        <item>
+          <name>Дополнительно</name>
+          <value>прорезиненные ножки</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="18132">
+    <title>Bosch HBC 24D553</title>
+    <model>HBC 24D553</model>
+    <marka>Bosch</marka>
+    <catalog id="948391">Пароварки</catalog>
+    
+    <price1>29380</price1>
+    <price2>48050</price2>
+    <description>
+электронное управление, максимальная потребляемая мощность 1900 Вт, автоприготовление
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Встраиваемая</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Максимальная потребляемая мощность</name>
+          <value>1900 Вт</value>
+        </item>
+        <item>
+          <name>Индикация включения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отключение при недостатке воды</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>нерж. сталь</value>
+        </item>
+        <item>
+          <name>Объем резервуара для воды</name>
+          <value>1.3 л</value>
+        </item>
+        <item>
+          <name>Индикатор уровня воды</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Углубления для варки яиц</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Долив воды во время приготовления</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Автоприготовление</name>
+          <value>есть, рецептов - 20</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>59.4x45.4x52 см</value>
+        </item>
+        <item>
+          <name>Отсек для сетевого шнура</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дополнительно</name>
+          <value>блокировка от детей, часы, освещение камеры, программа удаления накипи</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="18135">
+    <title>Siemens HB 26D555</title>
+    <model>HB 26D555</model>
+    <marka>Siemens</marka>
+    <catalog id="948391">Пароварки</catalog>
+    
+    <price1>35360</price1>
+    <price2>58990</price2>
+    <description>
+электронное управление, максимальная потребляемая мощность 1900 Вт, автоприготовление
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Встраиваемая</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Максимальная потребляемая мощность</name>
+          <value>1900 Вт</value>
+        </item>
+        <item>
+          <name>Индикация включения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отключение при недостатке воды</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>нерж. сталь</value>
+        </item>
+        <item>
+          <name>Объем резервуара для воды</name>
+          <value>1.3 л</value>
+        </item>
+        <item>
+          <name>Углубления для варки яиц</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Долив воды во время приготовления</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Автоприготовление</name>
+          <value>есть, рецептов - 40</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>59.5x45.4x55 см</value>
+        </item>
+        <item>
+          <name>Дополнительно</name>
+          <value>функция разморозки, подогрева; защита от детей; 4 направляющих</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="18138">
+    <title>Hotpoint-Ariston MSK 103 X HA</title>
+    <model>MSK 103 X HA</model>
+    <marka>Hotpoint-Ariston</marka>
+    <catalog id="948391">Пароварки</catalog>
+    
+    <price1>27720</price1>
+    <price2>30974</price2>
+    <description>
+электронное управление, максимальная потребляемая мощность 1000 Вт, автоприготовление, отсрочка старта
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Встраиваемая</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Максимальная потребляемая мощность</name>
+          <value>1000 Вт</value>
+        </item>
+        <item>
+          <name>Индикация включения</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>нерж. сталь</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Долив воды во время приготовления</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Автоприготовление</name>
+          <value>есть, рецептов - 2</value>
+        </item>
+        <item>
+          <name>Отсрочка старта</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>59.5x45.8x54.5 см</value>
+        </item>
+        <item>
+          <name>Отсек для сетевого шнура</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дополнительно</name>
+          <value>разморозка, блокировка панели управления, блокировка дверцы, электронный контроль температуры, система вентиляции</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="18141">
+    <title>Gorenje FS900E</title>
+    <model>FS900E</model>
+    <marka>Gorenje</marka>
+    <catalog id="948391">Пароварки</catalog>
+    
+    <price1>2120</price1>
+    <price2>3340</price2>
+    <description>
+электронное управление, количество ярусов - 3, максимальная потребляемая мощность 900 Вт, автоприготовление, отключение по таймеру, долив воды во время приготовления
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Количество ярусов</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Максимальная потребляемая мощность</name>
+          <value>900 Вт</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>на 45 мин, с отключением</value>
+        </item>
+        <item>
+          <name>Звуковой сигнал</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Индикация включения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отключение при недостатке воды</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Материал паровых корзин</name>
+          <value>прозрачный пластик</value>
+        </item>
+        <item>
+          <name>Объем резервуара для воды</name>
+          <value>1.2 л</value>
+        </item>
+        <item>
+          <name>Чаша для риса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Индикатор уровня воды</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Углубления для варки яиц</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Долив воды во время приготовления</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Автоприготовление</name>
+          <value>есть, рецептов - 7</value>
+        </item>
+        <item>
+          <name>Термостат</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>30x36.5x13 см</value>
+        </item>
+        <item>
+          <name>Компактное хранение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительно</name>
+          <value>отделение для зелени или приправ</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="18143">
+    <title>Philips HD9149</title>
+    <model>HD9149</model>
+    <marka>Philips</marka>
+    <catalog id="948391">Пароварки</catalog>
+    
+    <price1>1543</price1>
+    <price2>4390</price2>
+    <description>
+электронное управление, количество ярусов - 3, объем паровых корзин 3.20/2.80/2.60 л, максимальная потребляемая мощность 900 Вт, отключение по таймеру, долив воды во время приготовления
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Количество ярусов</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Максимальная потребляемая мощность</name>
+          <value>900 Вт</value>
+        </item>
+        <item>
+          <name>Звуковой сигнал</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Индикация включения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отключение при недостатке воды</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Материал паровых корзин</name>
+          <value>прозрачный пластик</value>
+        </item>
+        <item>
+          <name>Объем паровых корзин</name>
+          <value>3.2/2.8/2.6 л</value>
+        </item>
+        <item>
+          <name>Объем резервуара для воды</name>
+          <value>1.1 л</value>
+        </item>
+        <item>
+          <name>Чаша для риса</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Индикатор уровня воды</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Съемные решетки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Углубления для варки яиц</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Долив воды во время приготовления</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Термостат</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Компактное хранение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отсек для сетевого шнура</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Длина сетевого шнура</name>
+          <value>1 м</value>
+        </item>
+        <item>
+          <name>Дополнительно</name>
+          <value>контейнер для добавления трав и специй</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="18146">
+    <title>Siemens HB 25D5L2</title>
+    <model>HB 25D5L2</model>
+    <marka>Siemens</marka>
+    <catalog id="948391">Пароварки</catalog>
+    
+    <price1>22050</price1>
+    <price2>35990</price2>
+    <description>
+электронное управление, максимальная потребляемая мощность 1250 Вт, автоприготовление, отключение по таймеру
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Встраиваемая</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Тип управления</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Максимальная потребляемая мощность</name>
+          <value>1250 Вт</value>
+        </item>
+        <item>
+          <name>Индикация включения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отключение при недостатке воды</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>нерж. сталь</value>
+        </item>
+        <item>
+          <name>Объем резервуара для воды</name>
+          <value>0.9 л</value>
+        </item>
+        <item>
+          <name>Углубления для варки яиц</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Долив воды во время приготовления</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Автоприготовление</name>
+          <value>есть, рецептов - 20</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>59.4x30x38.2 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>13 кг</value>
+        </item>
+        <item>
+          <name>Отсек для сетевого шнура</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Длина сетевого шнура</name>
+          <value>1.8 м</value>
+        </item>
+        <item>
+          <name>Дополнительно</name>
+          <value>открытие дверцы налево; вентилятор охлаждения, автоматический контроль нагревания, программа удаления накипи, подсветка; 5 температурных режимов 40/60/80/90/100 С; 3 уровня установки противней; часы</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

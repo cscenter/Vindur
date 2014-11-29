@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="97139">
+    <title>D-link DFE-520TX</title>
+    <model>DFE-520TX</model>
+    <marka>D-link</marka>
+    <catalog id="755742">Сетевые карты</catalog>
+    
+    <price1>137</price1>
+    <price2>552</price2>
+    <description>
+10/100 Мбит/c, PCI
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Скорость передачи данных</name>
+          <value>10/100 Мбит/с</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI 2.1, 32 бит</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Количество разъемов RJ-45</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Стандарты</name>
+          <value>802.3x Flow Control</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows 98 SE/2000/ME/XP</value>
+        </item>
+        <item>
+          <name>Аппаратное шифрование</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97150">
+    <title>D-link DUB-E100</title>
+    <model>DUB-E100</model>
+    <marka>D-link</marka>
+    <catalog id="755742">Сетевые карты</catalog>
+    
+    <price1>742</price1>
+    <price2>2091</price2>
+    <description>
+10/100 Мбит/c, USB
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Скорость передачи данных</name>
+          <value>10/100 Мбит/с</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Количество разъемов RJ-45</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Microsoft Windows Vista/XP/Me/2000/98SE</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97154">
+    <title>D-link DGE-528T</title>
+    <model>DGE-528T</model>
+    <marka>D-link</marka>
+    <catalog id="755742">Сетевые карты</catalog>
+    
+    <price1>179</price1>
+    <price2>960</price2>
+    <description>
+10/100/1000 Мбит/c, PCI, WakeOnLAN
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Скорость передачи данных</name>
+          <value>10/100/1000 Мбит/с</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI 2.2, 32 бит</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Количество разъемов RJ-45</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Стандарты</name>
+          <value>802.1Q VLAN, 802.3x Flow Control</value>
+        </item>
+        <item>
+          <name>Поддержка Wake-on-LAN</name>
+          <value>да</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Microsoft Windows 98, NT 4.0, ME, 2000, XP; Novell NetWare Server 5.x, 6.x; Linux kernel 2.2.x, 2.4.x; Macintosh OS X.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97163">
+    <title>TP-LINK TG-3269</title>
+    <model>TG-3269</model>
+    <marka>TP-LINK</marka>
+    <catalog id="755742">Сетевые карты</catalog>
+    
+    <price1>150</price1>
+    <price2>769</price2>
+    <description>
+10/100/1000 Мбит/c, PCI
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Скорость передачи данных</name>
+          <value>10/100/1000 Мбит/с</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI 2.2, 32 бит, 66 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Количество разъемов RJ-45</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Автоматическое определение (MDI/MDIX)</name>
+          <value>да</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Стандарты</name>
+          <value>802.1p, 802.1Q VLAN, 802.3x Flow Control</value>
+        </item>
+        <item>
+          <name>Поддержка Jumbo Frame</name>
+          <value>да</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows 95/98/ME/NT4.0/2000/2003/XP/Vista, Netware, Linux</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97165">
+    <title>D-link DGE-560T</title>
+    <model>DGE-560T</model>
+    <marka>D-link</marka>
+    <catalog id="755742">Сетевые карты</catalog>
+    
+    <price1>377</price1>
+    <price2>779</price2>
+    <description>
+10/100/1000 Мбит/c, PCI-E, WakeOnLAN
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Скорость передачи данных</name>
+          <value>10/100/1000 Мбит/с</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Количество разъемов RJ-45</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Стандарты</name>
+          <value>802.1p, 802.1Q VLAN, 802.3x Flow Control</value>
+        </item>
+        <item>
+          <name>Поддержка Jumbo Frame</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>TCP Checksum Offload</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>TCP Segmentation</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Поддержка Wake-on-LAN</name>
+          <value>да</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows 2003/2000/XP, Linux 2.2/2.6</value>
+        </item>
+        <item>
+          <name>Аппаратное шифрование</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>SNMP v1 и встроенная диагностика кабеля, PXE, RPL</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97166">
+    <title>TP-LINK TG-3468</title>
+    <model>TG-3468</model>
+    <marka>TP-LINK</marka>
+    <catalog id="755742">Сетевые карты</catalog>
+    
+    <price1>301</price1>
+    <price2>1000</price2>
+    <description>
+10/100/1000 Мбит/c, PCI-E, WakeOnLAN
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Скорость передачи данных</name>
+          <value>10/100/1000 Мбит/с</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Количество разъемов RJ-45</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Автоматическое определение (MDI/MDIX)</name>
+          <value>да</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Стандарты</name>
+          <value>802.1p, 802.1Q VLAN, 802.3x Flow Control</value>
+        </item>
+        <item>
+          <name>Поддержка Jumbo Frame</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Поддержка Wake-on-LAN</name>
+          <value>да</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Аппаратное шифрование</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97172">
+    <title>ZyXEL FN312</title>
+    <model>FN312</model>
+    <marka>ZyXEL</marka>
+    <catalog id="755742">Сетевые карты</catalog>
+    
+    <price1>225</price1>
+    <price2>385</price2>
+    <description>
+10/100 Мбит/c, PCI, WakeOnLAN
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Скорость передачи данных</name>
+          <value>10/100 Мбит/с</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI 2.2, 32 бит, 33 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Количество разъемов RJ-45</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Автоматическое определение (MDI/MDIX)</name>
+          <value>да</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Стандарты</name>
+          <value>802.3x Flow Control</value>
+        </item>
+        <item>
+          <name>Поддержка Wake-on-LAN</name>
+          <value>да</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows Workgroup 3.11/NT 4.0/98/ME/2000/XP, Novell NetWare Client 32/Server 4.x/5.x, RedHat Linux 6.x/7.x</value>
+        </item>
+        <item>
+          <name>Аппаратное шифрование</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97175">
+    <title>Intel PWLA8391GT</title>
+    <model>PWLA8391GT</model>
+    <marka>Intel</marka>
+    <catalog id="755742">Сетевые карты</catalog>
+    
+    <price1>476</price1>
+    <price2>2591</price2>
+    <description>
+10/100/1000 Мбит/c, PCI, WakeOnLAN
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Скорость передачи данных</name>
+          <value>10/100/1000 Мбит/с</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI 2.3, 32 бит, 66 МГц</value>
+        </item>
+        <item>
+          <name>Чип</name>
+          <value>Intel 82541PI</value>
+        </item>
+        <item>
+          <name>Объем буфера</name>
+          <value>64 Кб</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Количество разъемов RJ-45</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Стандарты</name>
+          <value>802.1p, 802.1Q VLAN, 802.3x Flow Control</value>
+        </item>
+        <item>
+          <name>Координация прерываний</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>TCP Checksum Offload</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Поддержка Wake-on-LAN</name>
+          <value>да</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows 2000/XP/NT4.0/98SE/Me, Linux 2.2.5 и выше, Novell Netware 4.2/5.1/6.0</value>
+        </item>
+        <item>
+          <name>Аппаратное шифрование</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97176">
+    <title>Intel E1G44HT</title>
+    <model>E1G44HT</model>
+    <marka>Intel</marka>
+    <catalog id="755742">Сетевые карты</catalog>
+    
+    <price1>8976</price1>
+    <price2>15370</price2>
+    <description>
+10/100/1000 Мбит/c, PCI-E, Low Profile
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Скорость передачи данных</name>
+          <value>10/100/1000 Мбит/с</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E</value>
+        </item>
+        <item>
+          <name>Чип</name>
+          <value>Intel 82580</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Количество разъемов RJ-45</name>
+          <value>4</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Стандарты</name>
+          <value>802.1p, 802.1Q VLAN, 802.3x Flow Control</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows Server 2003/Vista/Server 2008/7, Linux</value>
+        </item>
+        <item>
+          <name>Низкопрофильная карта (Low Profile)</name>
+          <value>да</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97180">
+    <title>D-link DGE-530T</title>
+    <model>DGE-530T</model>
+    <marka>D-link</marka>
+    <catalog id="755742">Сетевые карты</catalog>
+    
+    <price1>292</price1>
+    <price2>708</price2>
+    <description>
+10/100/1000 Мбит/c, PCI, WakeOnLAN
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Скорость передачи данных</name>
+          <value>10/100/1000 Мбит/с</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI 2.2, 32 бит</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Количество разъемов RJ-45</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Автоматическое определение (MDI/MDIX)</name>
+          <value>да</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Стандарты</name>
+          <value>802.1p, 802.1Q VLAN, 802.3x Flow Control</value>
+        </item>
+        <item>
+          <name>Поддержка Jumbo Frame</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Поддержка Wake-on-LAN</name>
+          <value>да</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Win98 SE, Windows 2000, ME, XP, NT 4.0,</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97191">
+    <title>Intel EXPI9402PT</title>
+    <model>EXPI9402PT</model>
+    <marka>Intel</marka>
+    <catalog id="755742">Сетевые карты</catalog>
+    
+    <price1>3510</price1>
+    <price2>12120</price2>
+    <description>
+10/100/1000 Мбит/c, PCI-E, WakeOnLAN
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Скорость передачи данных</name>
+          <value>10/100/1000 Мбит/с</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E</value>
+        </item>
+        <item>
+          <name>Чип</name>
+          <value>Intel 8257</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Количество разъемов RJ-45</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Стандарты</name>
+          <value>802.1p, 802.1Q VLAN, 802.3x Flow Control</value>
+        </item>
+        <item>
+          <name>Координация прерываний</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>TCP Checksum Offload</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>TCP Segmentation</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Поддержка Wake-on-LAN</name>
+          <value>да</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows Server 2000/Server 2003/Red Hat Linux/Free BSD/Novell Netware/SunSolaris x86/SCO Open Server 5/OpenUNIX 8</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97199">
+    <title>ZyXEL GN680-T</title>
+    <model>GN680-T</model>
+    <marka>ZyXEL</marka>
+    <catalog id="755742">Сетевые карты</catalog>
+    
+    <price1>580</price1>
+    <price2>947</price2>
+    <description>
+10/100/1000 Мбит/c, PCI, WakeOnLAN
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Скорость передачи данных</name>
+          <value>10/100/1000 Мбит/с</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI 2.2, 32 бит, 66 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Количество разъемов RJ-45</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Автоматическое определение (MDI/MDIX)</name>
+          <value>да</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Стандарты</name>
+          <value>802.1p, 802.1Q VLAN, 802.3x Flow Control</value>
+        </item>
+        <item>
+          <name>Поддержка Wake-on-LAN</name>
+          <value>да</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows NT 4.0/98SE/ME/2000/XP/2003, Linux kernel 2.4.18 &amp; 2.2.x/ Novell Netware Server 4x/5x</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97200">
+    <title>TRENDnet TE100-PCIWN</title>
+    <model>TE100-PCIWN</model>
+    <marka>TRENDnet</marka>
+    <catalog id="755742">Сетевые карты</catalog>
+    
+    <price1>113</price1>
+    <price2>320</price2>
+    <description>
+10/100 Мбит/c, PCI, WakeOnLAN
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Скорость передачи данных</name>
+          <value>10/100 Мбит/с</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI 2.2, 32 бит, 33 МГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Количество разъемов RJ-45</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Поддержка Wake-on-LAN</name>
+          <value>да</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Novell NetWare ODI, NDIS, SCO UNIX, LAN Manager, Windows 95/98/2000/NT, Windows for Workgroups, LAN server, Warp server, Linux.</value>
+        </item>
+        <item>
+          <name>Аппаратное шифрование</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97203">
+    <title>TP-LINK TF-3200</title>
+    <model>TF-3200</model>
+    <marka>TP-LINK</marka>
+    <catalog id="755742">Сетевые карты</catalog>
+    
+    <price1>139</price1>
+    <price2>555</price2>
+    <description>
+10/100 Мбит/c, PCI
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Скорость передачи данных</name>
+          <value>10/100 Мбит/с</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI, 32 бит</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Количество разъемов RJ-45</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Стандарты</name>
+          <value>802.3x Flow Control</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows 95/Me/NT/2000/2003/XP/Vista, NetWare 4.x, 5.x, Linux</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97205">
+    <title>Intel E1G44ET</title>
+    <model>E1G44ET</model>
+    <marka>Intel</marka>
+    <catalog id="755742">Сетевые карты</catalog>
+    
+    <price1>12470</price1>
+    <price2>15646</price2>
+    <description>
+10/100/1000 Мбит/c, PCI-E, WakeOnLAN, Low Profile
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Скорость передачи данных</name>
+          <value>10/100/1000 Мбит/с</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E</value>
+        </item>
+        <item>
+          <name>Чип</name>
+          <value>Intel 82576</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Количество разъемов RJ-45</name>
+          <value>4</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Стандарты</name>
+          <value>802.1p, 802.1Q VLAN, 802.3x Flow Control</value>
+        </item>
+        <item>
+          <name>Координация прерываний</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>TCP Checksum Offload</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>TCP Segmentation</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Поддержка Wake-on-LAN</name>
+          <value>да</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows Vista/Server 2003/Server 2008/XP/7/Netware/Novell/FreeBSD/Linux/MS-DOS</value>
+        </item>
+        <item>
+          <name>Низкопрофильная карта (Low Profile)</name>
+          <value>да</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97207">
+    <title>TRENDnet TEG-ECTX</title>
+    <model>TEG-ECTX</model>
+    <marka>TRENDnet</marka>
+    <catalog id="755742">Сетевые карты</catalog>
+    
+    <price1>1676</price1>
+    <price2>4995</price2>
+    <description>
+10/100/1000 Мбит/c, PCI-E, WakeOnLAN
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Скорость передачи данных</name>
+          <value>10/100/1000 Мбит/с</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Количество разъемов RJ-45</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Автоматическое определение (MDI/MDIX)</name>
+          <value>да</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Стандарты</name>
+          <value>802.1p, 802.1Q VLAN, 802.3x Flow Control</value>
+        </item>
+        <item>
+          <name>Поддержка Jumbo Frame</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>TCP Checksum Offload</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>TCP Segmentation</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Поддержка Wake-on-LAN</name>
+          <value>да</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Аппаратное шифрование</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97208">
+    <title>Intel EXPI9301CT</title>
+    <model>EXPI9301CT</model>
+    <marka>Intel</marka>
+    <catalog id="755742">Сетевые карты</catalog>
+    
+    <price1>964</price1>
+    <price2>2200</price2>
+    <description>
+10/100/1000 Мбит/c, PCI-E, WakeOnLAN, Low Profile
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Скорость передачи данных</name>
+          <value>10/100/1000 Мбит/с</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E</value>
+        </item>
+        <item>
+          <name>Чип</name>
+          <value>Intel 82574L</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Количество разъемов RJ-45</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Стандарты</name>
+          <value>802.1p</value>
+        </item>
+        <item>
+          <name>Координация прерываний</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Поддержка Jumbo Frame</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>TCP Checksum Offload</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>TCP Segmentation</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Поддержка Wake-on-LAN</name>
+          <value>да</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows 2000/2003 Server/2008 Server/XP/Vista/7/8 Linux, FreeBSD, Novell Netware 6.5, DOS</value>
+        </item>
+        <item>
+          <name>Низкопрофильная карта (Low Profile)</name>
+          <value>да</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97217">
+    <title>ASUS NX1001</title>
+    <model>NX1001</model>
+    <marka>ASUS</marka>
+    <catalog id="755742">Сетевые карты</catalog>
+    
+    <price1>203</price1>
+    <price2>598</price2>
+    <description>
+10/100 Мбит/c, PCI, WakeOnLAN
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Скорость передачи данных</name>
+          <value>10/100 Мбит/с</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI 2.2, 32 бит</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Количество разъемов RJ-45</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Стандарты</name>
+          <value>802.3x Flow Control</value>
+        </item>
+        <item>
+          <name>Поддержка Wake-on-LAN</name>
+          <value>да</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Windows 98SE/ME/2000/XP/NT4.0, Linux, MAC 10.X, Novell, SCO 5, Solaris 8, Unixware</value>
+        </item>
+        <item>
+          <name>Аппаратное шифрование</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97237">
+    <title>Intel EXPI9400PTBLK</title>
+    <model>EXPI9400PTBLK</model>
+    <marka>Intel</marka>
+    <catalog id="755742">Сетевые карты</catalog>
+    
+    <price1>2766</price1>
+    <price2>5809</price2>
+    <description>
+10/100/1000 Мбит/c, PCI-E
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Скорость передачи данных</name>
+          <value>10/100/1000 Мбит/с</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-E</value>
+        </item>
+        <item>
+          <name>Чип</name>
+          <value>Intel 82572EI</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Количество разъемов RJ-45</name>
+          <value>1</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="97247">
+    <title>Intel PWLA8494GT</title>
+    <model>PWLA8494GT</model>
+    <marka>Intel</marka>
+    <catalog id="755742">Сетевые карты</catalog>
+    
+    <price1>13502</price1>
+    <price2>15799</price2>
+    <description>
+10/100/1000 Мбит/c, PCI-X, Low Profile
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Скорость передачи данных</name>
+          <value>10/100/1000 Мбит/с</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>PCI-X</value>
+        </item>
+        <item>
+          <name>Чип</name>
+          <value>2 x Intel 82546GB</value>
+        </item>
+        <item>
+          <name>Объем буфера</name>
+          <value>256 Кб</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Количество разъемов RJ-45</name>
+          <value>4</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка стандартов</name>
+        <item>
+          <name>Стандарты</name>
+          <value>802.1p, 802.1Q VLAN, 802.3x Flow Control</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Поддержка ОС</name>
+          <value>Novell NetWare 5.1/UnixWare 7/Caldera OpenUnix 8/Linux 2.4/FreeBSD 4.0/Microsoft Windows 2000/XP/Server 2003/SunSoft Solaris 7/8/Novell NetWare 6.5</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

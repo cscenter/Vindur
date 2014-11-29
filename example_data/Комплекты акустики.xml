@@ -1,0 +1,3514 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="47360">
+    <title>Wharfedale Obsidian 600 5.0</title>
+    <model>Obsidian 600 5.0</model>
+    <marka>Wharfedale</marka>
+    <catalog id="309081">Комплекты акустики</catalog>
+    
+    <price1>22970</price1>
+    <price2>32990</price2>
+    <description>
+
+
+пассивная, стандарт 5.0, фронтальные колонки, тыловые колонки, центральный канал
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Тип акустической системы</name>
+          <value>пассивная</value>
+        </item>
+      </items>
+      <items>
+        <name>Фронтальные колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>напольные</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм, СЧ: 2x125 мм, НЧ: 200 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Тыловые колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Центральный канал</name>
+        <item>
+          <name>Центральный канал</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47373">
+    <title>Yamaha YSP-5100</title>
+    <model>YSP-5100</model>
+    <marka>Yamaha</marka>
+    <catalog id="309081">Комплекты акустики</catalog>
+    
+    <price1>38800</price1>
+    <price2>62860</price2>
+    <description>
+
+
+активная, звуковой проектор, суммарная мощность 120 Вт, 75-20000 Гц, Dolby Digital, DTS Neo:6, Dolby Pro Logic II, пульт ДУ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>7.1</value>
+        </item>
+        <item>
+          <name>Тип акустической системы</name>
+          <value> звуковая панель, активная</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>120 Вт</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>75-20000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Фронтальные колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>120 Вт</value>
+        </item>
+        <item>
+          <name>Магнитная защита</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 2x25 мм, СЧ: 40x38.1 мм, НЧ: 2x114.3 мм</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>75-20000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>1200x212x90 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>11 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Усилитель</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>линейный вход (стерео), цифровой оптический вход, цифровой коаксиальный вход, выход HDMI, вход HDMI x4</value>
+        </item>
+        <item>
+          <name>Декодеры</name>
+          <value>DTS Neo:6, DTS-HD Master Audio, Dolby Digital, Dolby Pro Logic II, Dolby TrueHD</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Крепления для монтажа</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>входы: 1 видео композитный, 1 видео компонентный, RS-232C; поддержка iPod через док-станцию YIS-W10</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47375">
+    <title>Jamo S506 HCS 3</title>
+    <model>S506 HCS 3</model>
+    <marka>Jamo</marka>
+    <catalog id="309081">Комплекты акустики</catalog>
+    
+    <price1>15700</price1>
+    <price2>25734</price2>
+    <description>
+
+
+пассивная, стандарт 5.0, фронтальные колонки 130 Вт, тыловые колонки 80 Вт, центральный канал 100 Вт, 45-20000 Гц
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Тип акустической системы</name>
+          <value>пассивная</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>420 Вт</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>45-20000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Фронтальные колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>напольные</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>130 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>89 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>6 Ом</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм, НЧ: 2x165 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>45-20000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>195x1000x301 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>15.2 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Тыловые колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>80 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>86 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>6 Ом</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>80-20000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Центральный канал</name>
+        <item>
+          <name>Центральный канал</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>100 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>87 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>6 Ом</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>75-20000 Гц</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47390">
+    <title>Jamo S426 HCS3</title>
+    <model>S426 HCS3</model>
+    <marka>Jamo</marka>
+    <catalog id="309081">Комплекты акустики</catalog>
+    
+    <price1>11150</price1>
+    <price2>28680</price2>
+    <description>
+
+
+пассивная, стандарт 5.0, фронтальные колонки 100 Вт, тыловые колонки 60 Вт, центральный канал 80 Вт, материал колонок: MDF, 48-20000 Гц
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Тип акустической системы</name>
+          <value>пассивная</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>400 Вт</value>
+        </item>
+        <item>
+          <name>Материал корпуса колонок</name>
+          <value>MDF</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>48-20000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Фронтальные колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>напольные</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>100 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>89 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>6 Ом</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>2.5 кГц</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм, НЧ: 2x140 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>48-20000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>180x910x238 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>8.7 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Тыловые колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>60 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>86 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>6 Ом</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>2.5 кГц</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм, НЧ: 89 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>закрытого типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>90-20000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>118x215x125 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.05 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Центральный канал</name>
+        <item>
+          <name>Центральный канал</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>80 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>87 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>6 Ом</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм, НЧ: 2x89 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>закрытого типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>90-20000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>340x118x125 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.83 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>комплект состоит из 2-х фронтальных АС Jamo S426, FC центрального канала Jamo S420 Cen и 2-х тыловых АС Jamo S420 Sur</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47392">
+    <title>Jamo S608 HCS3</title>
+    <model>S608 HCS3</model>
+    <marka>Jamo</marka>
+    <catalog id="309081">Комплекты акустики</catalog>
+    
+    <price1>22899</price1>
+    <price2>49980</price2>
+    <description>
+
+
+пассивная, стандарт 5.0, фронтальные колонки 150 Вт, тыловые колонки 80 Вт, центральный канал 80 Вт, 37-20000 Гц, Bi-wiring
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Тип акустической системы</name>
+          <value>пассивная</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>540 Вт</value>
+        </item>
+        <item>
+          <name>Суммарная мощность (макс.)</name>
+          <value>870 Вт</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>37-20000 Гц</value>
+        </item>
+        <item>
+          <name>Bi-wiring</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Фронтальные колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>напольные</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>150 Вт</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>6 Ом</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм, СЧ: 3x127 мм, НЧ: 254 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>37-20000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>190x1134x380 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Тыловые колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>80 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>87 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>6 Ом</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм, НЧ: 102 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>80-20000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>133x240x210 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.4 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Центральный канал</name>
+        <item>
+          <name>Центральный канал</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>80 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>87 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>6 Ом</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм, НЧ: 2x101.6 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>75-20000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>400x133x210 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4.9 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>комплект состоит из 2-х фронтальных напольных АС S 608, 2-х полочных тыловых АС S 602, АС центрального канала S 60 CEN</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47406">
+    <title>Yamaha YSP-4100</title>
+    <model>YSP-4100</model>
+    <marka>Yamaha</marka>
+    <catalog id="309081">Комплекты акустики</catalog>
+    
+    <price1>27900</price1>
+    <price2>52243</price2>
+    <description>
+
+
+активная, звуковой проектор, суммарная мощность 120 Вт, 90-20000 Гц, Dolby Digital, DTS Neo:6, Dolby Pro Logic II, пульт ДУ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>7.1</value>
+        </item>
+        <item>
+          <name>Тип акустической системы</name>
+          <value> звуковая панель, активная</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>120 Вт</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>90-20000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Фронтальные колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>полочные</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>120 Вт</value>
+        </item>
+        <item>
+          <name>Магнитная защита</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>СЧ: 40x38.1 мм, НЧ: 2x114.3 мм</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>90-20000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>1030x212x90 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>10 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Усилитель</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>линейный вход (стерео), цифровой оптический вход, цифровой коаксиальный вход, выход на сабвуфер, выход HDMI, вход HDMI x4</value>
+        </item>
+        <item>
+          <name>Декодеры</name>
+          <value>DTS Neo:6, DTS-HD Master Audio, Dolby Digital, Dolby Pro Logic II, Dolby TrueHD</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Радиотюнер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Крепления для монтажа</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>входы: 1 видео композитный, 1 видео компонентный, RS-232C; поддержка iPod через док-станцию YIS-W10</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47410">
+    <title>Magnat Monitor Supreme 812</title>
+    <model>Monitor Supreme 812</model>
+    <marka>Magnat</marka>
+    <catalog id="309081">Комплекты акустики</catalog>
+    
+    <price1>14000</price1>
+    <price2>25019</price2>
+    <description>
+
+
+пассивная, стандарт 5.0, фронтальные колонки 160 Вт, тыловые колонки 55 Вт, центральный канал 75 Вт, материал колонок: MDF, 22-38000 Гц
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Тип акустической системы</name>
+          <value>пассивная</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>505 Вт</value>
+        </item>
+        <item>
+          <name>Материал корпуса колонок</name>
+          <value>MDF</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>22-38000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Фронтальные колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>напольные</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>160 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>92 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>8 Ом</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2.5</value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>500 Гц, 3.5 кГц</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм, СЧ: 165 мм, НЧ: 165 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>22-38000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>210x850x280 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>14 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Тыловые колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>55 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>89 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>8 Ом</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 13 мм, НЧ: 114.3 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>42-34000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>145x235x195 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.8 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Центральный канал</name>
+        <item>
+          <name>Центральный канал</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>75 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>90 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>8 Ом</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 13 мм, НЧ: 2x 114.3 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>40-34000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>420x145x195 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4.9 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Варианты отделки</name>
+          <value>орех, вишня, черный</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>комплект состоит из 2-х фронтальных АС Monitor Supreme 800, 2-х полочных тыловых АС Monitor Supreme 100 и АС центрального канала Monitor Supreme Center 250</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47412">
+    <title>Magnat Monitor Supreme 1250</title>
+    <model>Monitor Supreme 1250</model>
+    <marka>Magnat</marka>
+    <catalog id="309081">Комплекты акустики</catalog>
+    
+    <price1>27700</price1>
+    <price2>47894</price2>
+    <description>
+
+
+пассивная с активным сабвуфером, стандарт 5.1, фронтальные колонки 180 Вт, тыловые колонки 75 Вт, центральный канал 100 Вт, сабвуфер 100 Вт, 16-38000 Гц
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>5.1</value>
+        </item>
+        <item>
+          <name>Тип акустической системы</name>
+          <value>пассивная с активным сабвуфером</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>710 Вт</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>16-38000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Фронтальные колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>напольные</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>180 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>92 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>8 Ом</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>500 Гц, 3.5 кГц</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм, СЧ: 165 мм, НЧ: 2x165 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>19-38000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>210x950x320 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>17 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Тыловые колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>75 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>91 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>8 Ом</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>3.5 кГц</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм, НЧ: 165 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>34-38000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>210x355x280 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6.2 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Центральный канал</name>
+        <item>
+          <name>Центральный канал</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>100 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>90 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>6 Ом</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>3.5 кГц</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 12 мм, НЧ: 2x130 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>40-34000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>420x145x195 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4.9 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Сабвуфер</name>
+        <item>
+          <name>Сабвуфер</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>100 Вт</value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>50-150 Гц</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>300 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>16-200 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>335x440x395 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>16 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Варианты отделки</name>
+          <value>черный, вишня, орех</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47413">
+    <title>Jamo S606 HCS 3</title>
+    <model>S606 HCS 3</model>
+    <marka>Jamo</marka>
+    <catalog id="309081">Комплекты акустики</catalog>
+    
+    <price1>19700</price1>
+    <price2>43980</price2>
+    <description>
+
+
+пассивная, стандарт 5.0, фронтальные колонки 130 Вт, тыловые колонки 80 Вт, центральный канал 80 Вт, 42-20000 Гц, Bi-wiring
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Тип акустической системы</name>
+          <value>пассивная</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>500 Вт</value>
+        </item>
+        <item>
+          <name>Суммарная мощность (макс.)</name>
+          <value>810 Вт</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>42-20000 Гц</value>
+        </item>
+        <item>
+          <name>Bi-wiring</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Фронтальные колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>напольные</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>130 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>89 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>6 Ом</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм, СЧ: 2х127 мм, НЧ: 203 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>42-20000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>190x1080x345 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>24.1 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Тыловые колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>80 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>87 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>6 Ом</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм, НЧ: 102 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>80-20000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>133x240x210 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.4 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Центральный канал</name>
+        <item>
+          <name>Центральный канал</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>80 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>87 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>6 Ом</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 1х25 мм, НЧ: 2х102 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>75-20000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>400x133x210 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4.9 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Позолоченные разъемы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Крепления для монтажа</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47417">
+    <title>Magnat Quantum 5335</title>
+    <model>Quantum 5335</model>
+    <marka>Magnat</marka>
+    <catalog id="309081">Комплекты акустики</catalog>
+    
+    <price1>59990</price1>
+    <price2>62500</price2>
+    <description>
+
+
+пассивная с активным сабвуфером, стандарт 5.1, фронтальные колонки 180 Вт, тыловые колонки 100 Вт, центральный канал 100 Вт, сабвуфер 175 Вт, 19-50000 Гц, Bi-wiring
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>5.1</value>
+        </item>
+        <item>
+          <name>Тип акустической системы</name>
+          <value>пассивная с активным сабвуфером</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>835 Вт</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>19-50000 Гц</value>
+        </item>
+        <item>
+          <name>Bi-wiring</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Фронтальные колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>напольные</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>180 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>92 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>8 Ом</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2.5</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 30.5 мм, СЧ: 165 мм, НЧ: 165 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>22-50000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>202x995x316 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Тыловые колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>100 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>91 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>8 Ом</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 30.5 мм, НЧ: 165 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>30-50000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>202x350x280 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Центральный канал</name>
+        <item>
+          <name>Центральный канал</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>100 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>91 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>8 Ом</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 30.5 мм, НЧ: 2x133.3 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>32-50000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>490x175x280 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Сабвуфер</name>
+        <item>
+          <name>Сабвуфер</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>175 Вт</value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>50-150 Гц</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>254 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>19-300 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>360x535x420 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Позолоченные разъемы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Варианты отделки</name>
+          <value>черный, вишня, мокка, кальвадос</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>комплект состоит из 2-х фронтальных АС Quantum 655, АС центрального канала Quantum center 63, 2-х тыловых АС Quantum 653 и сабвуфера Quantum Sub 625 A</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47422">
+    <title>Defender Hollywood 35</title>
+    <model>Hollywood 35</model>
+    <marka>Defender</marka>
+    <catalog id="309081">Комплекты акустики</catalog>
+    
+    <price1>1799</price1>
+    <price2>3020</price2>
+    <description>
+
+
+активная, стандарт 5.1, фронтальные колонки 5 Вт, тыловые колонки 5 Вт, центральный канал 5 Вт, сабвуфер 20 Вт, 50-20000 Гц, пульт ДУ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>5.1</value>
+        </item>
+        <item>
+          <name>Тип акустической системы</name>
+          <value>активная</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>45 Вт</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>50-20000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Фронтальные колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>полочные</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>5 Вт</value>
+        </item>
+        <item>
+          <name>Магнитная защита</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>СЧ: 76.2 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>закрытого типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>200-20000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>90x125x110 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Тыловые колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>5 Вт</value>
+        </item>
+        <item>
+          <name>Магнитная защита</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>СЧ: 76.2 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>закрытого типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>200-20000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>90x125x110 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Центральный канал</name>
+        <item>
+          <name>Центральный канал</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>5 Вт</value>
+        </item>
+        <item>
+          <name>Магнитная защита</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>СЧ: 76.2 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>закрытого типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>200-20000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>90x125x110 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Сабвуфер</name>
+        <item>
+          <name>Сабвуфер</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>20 Вт</value>
+        </item>
+        <item>
+          <name>Магнитная защита</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>101.6 мм</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>140x257x240 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Усилитель</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>линейный вход (стерео), линейный вход (многоканальный)</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>общая регулировка громкости и регулировка каждого канала в отдельности (фронт, центр, тыл, сабвуфер)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47425">
+    <title>Wharfedale Diamond 10 SCP</title>
+    <model>Diamond 10 SCP</model>
+    <marka>Wharfedale</marka>
+    <catalog id="309081">Комплекты акустики</catalog>
+    
+    <price1>14990</price1>
+    <price2>47999</price2>
+    <description>
+
+
+пассивная, стандарт 5.0, фронтальные колонки, тыловые колонки, центральный канал, 55-24000 Гц
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Тип акустической системы</name>
+          <value>пассивная</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>55-24000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Фронтальные колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>напольные</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>86 дБ</value>
+        </item>
+        <item>
+          <name>Магнитная защита</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>6 Ом</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм, НЧ: 2x101.6 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>55-24000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>173x900x220 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>10.2 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Тыловые колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>88 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>6 Ом</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>2.2 кГц</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм, НЧ: 100 мм</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>70-24000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>185x236x117 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Центральный канал</name>
+        <item>
+          <name>Центральный канал</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>88 дБ</value>
+        </item>
+        <item>
+          <name>Магнитная защита</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>6 Ом</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>2.5 кГц</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм, НЧ: 2x100 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>75-24000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>330x120x130 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>комплект состоит из 2-х фронтальных АС Diamond 10.MT, АС центрального канала Diamond 10 CC и 2-х тыловых АС Diamond 10.SR</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47427">
+    <title>Magnat Interior 5001A</title>
+    <model>Interior 5001A</model>
+    <marka>Magnat</marka>
+    <catalog id="309081">Комплекты акустики</catalog>
+    
+    <price1>22500</price1>
+    <price2>22505</price2>
+    <description>
+
+
+пассивная с активным сабвуфером, стандарт 5.1, фронтальные колонки 18 Вт, тыловые колонки 18 Вт, центральный канал 60 Вт, сабвуфер 120 Вт
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>5.1</value>
+        </item>
+        <item>
+          <name>Тип акустической системы</name>
+          <value>пассивная с активным сабвуфером</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>252 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Фронтальные колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>полочные</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>18 Вт</value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>3.5 кГц</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм, НЧ: 130 мм</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>34-32000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>150x240x180 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Тыловые колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>18 Вт</value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>3.5 кГц</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм, НЧ: 130 мм</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>34-32000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>150x240x180 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Центральный канал</name>
+        <item>
+          <name>Центральный канал</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>60 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+      </items>
+      <items>
+        <name>Сабвуфер</name>
+        <item>
+          <name>Сабвуфер</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>120 Вт</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Крепления для монтажа</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Варианты отделки</name>
+          <value>черный лак, белый лак</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47432">
+    <title>Yamaha YSP-2200</title>
+    <model>YSP-2200</model>
+    <marka>Yamaha</marka>
+    <catalog id="309081">Комплекты акустики</catalog>
+    
+    <price1>26900</price1>
+    <price2>40558</price2>
+    <description>
+
+
+активная, звуковой проектор, сабвуфер 70 Вт, суммарная мощность 132 Вт, 40-20000 Гц, пульт ДУ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>7.1</value>
+        </item>
+        <item>
+          <name>Тип акустической системы</name>
+          <value> звуковая панель, активная</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>132 Вт</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>40-20000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Фронтальные колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>полочные</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>62 Вт</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>НЧ: 16x28 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>закрытого типа</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>944x79x145 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4.3 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Сабвуфер</name>
+        <item>
+          <name>Сабвуфер</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>70 Вт</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>2x101.6 мм</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>435x137x350 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Усилитель</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>линейный вход (стерео), цифровой оптический вход, цифровой коаксиальный вход, выход HDMI, вход HDMI x3</value>
+        </item>
+        <item>
+          <name>Декодеры</name>
+          <value>Dolby TrueHD</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>система автоматической калибровки IntelliBeam; возможность вертикального и горизонтального расположения сабвуфера; 11 CINEMA DSP-программ; выходы: 1 x композитный; порт для подключения дополнительного адаптера YID-W10, YDS-12 или YBA-10</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47435">
+    <title>Magnat Quantum 7335</title>
+    <model>Quantum 7335</model>
+    <marka>Magnat</marka>
+    <catalog id="309081">Комплекты акустики</catalog>
+    
+    <price1>66990</price1>
+    <price2>70000</price2>
+    <description>
+
+
+пассивная с активным сабвуфером, стандарт 5.1, фронтальные колонки 200 Вт, тыловые колонки 100 Вт, центральный канал 100 Вт, сабвуфер 175 Вт, 19-50000 Гц, Bi-wiring
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>5.1</value>
+        </item>
+        <item>
+          <name>Тип акустической системы</name>
+          <value>пассивная с активным сабвуфером</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>875 Вт</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>19-50000 Гц</value>
+        </item>
+        <item>
+          <name>Bi-wiring</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Фронтальные колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>напольные</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>200 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>93 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>8 Ом</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 30.5 мм, СЧ: 165 мм, НЧ: 2x165 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>20-50000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>202x1080x316 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Тыловые колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>100 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>91 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>8 Ом</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 30.5 мм, НЧ: 165 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>30-50000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>202x350x280 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Центральный канал</name>
+        <item>
+          <name>Центральный канал</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>100 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>91 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>8 Ом</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 30.5 мм, НЧ: 2x133.3 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>32-50000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>490x175x280 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Сабвуфер</name>
+        <item>
+          <name>Сабвуфер</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>175 Вт</value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>50-150 Гц</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>254 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>19-300 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>360x535x420 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Позолоченные разъемы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Варианты отделки</name>
+          <value>черный, вишня, мокка, кальвадос</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>комплект состоит из 2-х фронтальных АС Quantum 657, АС центрального канала Quantum center 63, 2-х тыловых АС Quantum 653 и сабвуфера Quantum Sub 625 A</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47445">
+    <title>Sven HT-435</title>
+    <model>HT-435</model>
+    <marka>Sven</marka>
+    <catalog id="309081">Комплекты акустики</catalog>
+    
+    <price1>3376</price1>
+    <price2>6760</price2>
+    <description>
+
+
+активная, стандарт 5.1, фронтальные колонки 15 Вт, тыловые колонки 15 Вт, центральный канал 15 Вт, сабвуфер 35 Вт, материал колонок: MDF, материал сабвуфера: MDF, 40-20000 Гц, пульт ДУ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>5.1</value>
+        </item>
+        <item>
+          <name>Тип акустической системы</name>
+          <value>активная</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>110 Вт</value>
+        </item>
+        <item>
+          <name>Материал корпуса колонок</name>
+          <value>MDF</value>
+        </item>
+        <item>
+          <name>Материал корпуса сабвуфера</name>
+          <value>MDF</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>40-20000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Фронтальные колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>полочные</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>15 Вт</value>
+        </item>
+        <item>
+          <name>Магнитная защита</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>НЧ: 76 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>закрытого типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>150-20000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>110x120x95 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Тыловые колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>15 Вт</value>
+        </item>
+        <item>
+          <name>Магнитная защита</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>НЧ: 76 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>закрытого типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>150-20000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>110x120x95 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Центральный канал</name>
+        <item>
+          <name>Центральный канал</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>15 Вт</value>
+        </item>
+        <item>
+          <name>Магнитная защита</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>НЧ: 2x76 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>закрытого типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>150-20000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>220x110x95 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Сабвуфер</name>
+        <item>
+          <name>Сабвуфер</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>35 Вт</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>165 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>40-150 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>170x313x313 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Усилитель</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>линейный вход (стерео), линейный вход (многоканальный)</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Варианты отделки</name>
+          <value>вишня, чёрный</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47449">
+    <title>Magnat Vector 2733</title>
+    <model>Vector 2733</model>
+    <marka>Magnat</marka>
+    <catalog id="309081">Комплекты акустики</catalog>
+    
+    <price1>41990</price1>
+    <price2>60046</price2>
+    <description>
+
+
+пассивная, стандарт 5.0, фронтальные колонки 180 Вт, тыловые колонки 90 Вт, центральный канал 90 Вт, 22-55000 Гц
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>5.0</value>
+        </item>
+        <item>
+          <name>Тип акустической системы</name>
+          <value>пассивная</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>630 Вт</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>22-55000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Фронтальные колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>напольные</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>180 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>92 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>8 Ом</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>300 Гц, 3.2 кГц</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм, СЧ: 170 мм, НЧ: 2x170 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>22-55000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>200x1100x330 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>21 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Тыловые колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>90 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>91 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>8 Ом</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>3.2 кГц</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм, НЧ: 170 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>32-55000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>200x365x300 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>7 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Центральный канал</name>
+        <item>
+          <name>Центральный канал</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>90 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>91 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>8 Ом</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм, НЧ: 2x130 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>34-55000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>450x188x270 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>8.6 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>комплект состоит из двух напольных АС Vector 207, двух полочных АС Vector 203 и АС центрального канала Vector Center 213</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47451">
+    <title>Magnat Quantum 5573</title>
+    <model>Quantum 5573</model>
+    <marka>Magnat</marka>
+    <catalog id="309081">Комплекты акустики</catalog>
+    
+    <price1>56250</price1>
+    <price2>80419</price2>
+    <description>
+
+
+пассивная с активным сабвуфером, стандарт 5.1, фронтальные колонки 180 Вт, тыловые колонки 90 Вт, центральный канал 90 Вт, сабвуфер 140 Вт, материал колонок: MDF, материал сабвуфера: MDF, 20-55000 Гц, Bi-wiring
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>5.1</value>
+        </item>
+        <item>
+          <name>Тип акустической системы</name>
+          <value>пассивная с активным сабвуфером</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>770 Вт</value>
+        </item>
+        <item>
+          <name>Материал корпуса колонок</name>
+          <value>MDF</value>
+        </item>
+        <item>
+          <name>Материал корпуса сабвуфера</name>
+          <value>MDF</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>20-55000 Гц</value>
+        </item>
+        <item>
+          <name>Bi-wiring</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Фронтальные колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>напольные</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>180 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>93 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>8 Ом</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>350 Гц, 3.3 кГц</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм, СЧ: 165 мм, НЧ: 2x165 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>20-55000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>215x1070x320 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Тыловые колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>90 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>91 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>8 Ом</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм, НЧ: 152.4 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>30-55000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>215x360x320 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Центральный канал</name>
+        <item>
+          <name>Центральный канал</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>90 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>91 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>8 Ом</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм, НЧ: 2x133.3 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>34-55000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>460x180x290 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Сабвуфер</name>
+        <item>
+          <name>Сабвуфер</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>140 Вт</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>304.8 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>20-150 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>400x480x410 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>24 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Позолоченные разъемы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Варианты отделки</name>
+          <value>черный, грецкий орех</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>комплект состоит из 2-х фронтальных напольных АС Quantum 557, 2-х полочных тыловых АС Quantum 553, АС центрального канала Quantum center 53 и сабвуфера Quantum Sub 530A</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47453">
+    <title>Magnat Quantum 5551</title>
+    <model>Quantum 5551</model>
+    <marka>Magnat</marka>
+    <catalog id="309081">Комплекты акустики</catalog>
+    
+    <price1>47250</price1>
+    <price2>47260</price2>
+    <description>
+
+
+пассивная с активным сабвуфером, стандарт 5.1, фронтальные колонки 160 Вт, тыловые колонки 80 Вт, центральный канал 85 Вт, сабвуфер 140 Вт, материал колонок: MDF, материал сабвуфера: MDF, 20-50000 Гц, Bi-wiring
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>5.1</value>
+        </item>
+        <item>
+          <name>Тип акустической системы</name>
+          <value>пассивная с активным сабвуфером</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>705 Вт</value>
+        </item>
+        <item>
+          <name>Материал корпуса колонок</name>
+          <value>MDF</value>
+        </item>
+        <item>
+          <name>Материал корпуса сабвуфера</name>
+          <value>MDF</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>20-50000 Гц</value>
+        </item>
+        <item>
+          <name>Bi-wiring</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Фронтальные колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>напольные</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>160 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>92 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>8 Ом</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>350 Гц, 3.3 кГц</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм, СЧ: 165 мм, НЧ: 165 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>22-50000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>215x970x320 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Тыловые колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>80 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>90 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>8 Ом</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>3.3 кГц</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>36-50000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>162x270x220 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Центральный канал</name>
+        <item>
+          <name>Центральный канал</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>85 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>90 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>8 Ом</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>3.3 кГц</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>ВЧ: 25 мм, НЧ: 2x114.3 мм</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>36-50000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>395x160x220 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Сабвуфер</name>
+        <item>
+          <name>Сабвуфер</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>140 Вт</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>304.8 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>20-150 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>400x480x410 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>24 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Варианты отделки</name>
+          <value>черный, вишня, грецкий орех</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>комплект состоит из 2-х напольных фронтальных акустических систем Quantum 555, 2-х полочных тыловых акустических систем Quantum 551, акустической системы центрального канала Quantum center 51 и сабвуфера Quantum Sub 530A</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="47464">
+    <title>Sven HT-435D</title>
+    <model>HT-435D</model>
+    <marka>Sven</marka>
+    <catalog id="309081">Комплекты акустики</catalog>
+    
+    <price1>4344</price1>
+    <price2>6130</price2>
+    <description>
+
+
+активная, стандарт 5.1, фронтальные колонки 15 Вт, тыловые колонки 15 Вт, центральный канал 15 Вт, сабвуфер 35 Вт, материал колонок: MDF, материал сабвуфера: MDF, 40-20000 Гц, Dolby Digital, DTS, пульт ДУ
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>5.1</value>
+        </item>
+        <item>
+          <name>Тип акустической системы</name>
+          <value>активная</value>
+        </item>
+        <item>
+          <name>Суммарная мощность</name>
+          <value>110 Вт</value>
+        </item>
+        <item>
+          <name>Материал корпуса колонок</name>
+          <value>MDF</value>
+        </item>
+        <item>
+          <name>Материал корпуса сабвуфера</name>
+          <value>MDF</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>40-20000 Гц</value>
+        </item>
+      </items>
+      <items>
+        <name>Фронтальные колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>полочные</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>15 Вт</value>
+        </item>
+        <item>
+          <name>Магнитная защита</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>СЧ: 76 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>закрытого типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>150-20000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>110x120x95 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Тыловые колонки</name>
+        <item>
+          <name>Количество колонок в комплекте</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>15 Вт</value>
+        </item>
+        <item>
+          <name>Магнитная защита</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>СЧ: 76 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>закрытого типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>150-20000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>110x120x95 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Центральный канал</name>
+        <item>
+          <name>Центральный канал</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>15 Вт</value>
+        </item>
+        <item>
+          <name>Магнитная защита</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество полос</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>СЧ: 2x76 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>закрытого типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>150-20000 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>220x110x95 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Сабвуфер</name>
+        <item>
+          <name>Сабвуфер</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>35 Вт</value>
+        </item>
+        <item>
+          <name>Размеры динамиков</name>
+          <value>165 мм</value>
+        </item>
+        <item>
+          <name>Корпус</name>
+          <value>фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Частотный диапазон</name>
+          <value>40-150 Гц</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>170x313x313 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Усилитель</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>линейный вход (стерео), цифровой оптический вход, цифровой коаксиальный вход</value>
+        </item>
+        <item>
+          <name>Декодеры</name>
+          <value>Dolby Digital, DTS</value>
+        </item>
+        <item>
+          <name>Регулировка тембра</name>
+          <value>НЧ</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Защита от перегрузки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Варианты отделки</name>
+          <value>чёрный, вишня</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

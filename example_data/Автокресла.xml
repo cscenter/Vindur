@@ -1,0 +1,1750 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="106372">
+    <title>Maxi-Cosi CabrioFix</title>
+    <model>CabrioFix</model>
+    <marka>Maxi-Cosi</marka>
+    <catalog id="965788">Автокресла</catalog>
+    
+    <price1>7090</price1>
+    <price2>17900</price2>
+    <description>
+ группа 0+ (до 13 кг), внутренние ремни трехточечные, установка спиной вперед, поддержка для головы новорожденного, тент от солнца
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Бустер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Группа</name>
+          <value>0+ (до 13 кг), автокресло-переноска</value>
+        </item>
+        <item>
+          <name>Крепление Isofix</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Крепление Latch</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Установка</name>
+          <value>спиной вперед, внешние ремни трехточечные</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Горизонтальное положение спинки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Использование в качестве качалки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Анатомическая подушка</name>
+          <value>есть, можно использовать с рождения</value>
+        </item>
+        <item>
+          <name>Внутренние ремни</name>
+          <value>трехточечные, с мягкими накладками</value>
+        </item>
+        <item>
+          <name>Ручка для переноски</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная защита от боковых ударов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тент от солнца</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Съемный чехол</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отделение / карман для вещей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Подстаканник</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Совместимость с транспортными системами</name>
+          <value>Maxi-Cosi Quinny Buzz, Zapp, Speedi</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="106374">
+    <title>Maxi-Cosi Tobi</title>
+    <model>Tobi</model>
+    <marka>Maxi-Cosi</marka>
+    <catalog id="965788">Автокресла</catalog>
+    
+    <price1>11800</price1>
+    <price2>18999</price2>
+    <description>
+ группа 1 (9-18 кг), внутренние ремни пятиточечные, установка лицом вперед, регулировка наклона спинки, вес 8.9 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Бустер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Группа</name>
+          <value>1 (9-18 кг)</value>
+        </item>
+        <item>
+          <name>Крепление Isofix</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Крепление Latch</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Установка</name>
+          <value>лицом вперед</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>8.9 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Горизонтальное положение спинки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Анатомическая подушка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренние ремни</name>
+          <value>пятиточечные, с мягкими накладками</value>
+        </item>
+        <item>
+          <name>Регулировка высоты внутренних ремней</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка наклона спинки</name>
+          <value>есть, положений - 5</value>
+        </item>
+        <item>
+          <name>Регулировка высоты подголовника</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная защита от боковых ударов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тент от солнца</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Съемный чехол</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отделение / карман для вещей</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Подстаканник</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="106376">
+    <title>Maxi-Cosi Pebble</title>
+    <model>Pebble</model>
+    <marka>Maxi-Cosi</marka>
+    <catalog id="965788">Автокресла</catalog>
+    
+    <price1>8690</price1>
+    <price2>21990</price2>
+    <description>
+ группа 0+ (до 13 кг), внутренние ремни трехточечные, установка спиной вперед, поддержка для головы новорожденного, тент от солнца
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Бустер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Группа</name>
+          <value>0+ (до 13 кг), автокресло-переноска</value>
+        </item>
+        <item>
+          <name>Крепление Isofix</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Крепление Latch</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Установка</name>
+          <value>спиной вперед, внешние ремни трехточечные</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Горизонтальное положение спинки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Использование в качестве качалки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Анатомическая подушка</name>
+          <value>есть, можно использовать с рождения</value>
+        </item>
+        <item>
+          <name>Внутренние ремни</name>
+          <value>трехточечные</value>
+        </item>
+        <item>
+          <name>Регулировка высоты внутренних ремней</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ручка для переноски</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная защита от боковых ударов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тент от солнца</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отделение / карман для вещей</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Подстаканник</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>обновленная и улучшенная модель автокресла Cabrio Fix, регулировка глубины кресла в соответствии с весом ребенка, кресло может быть установлено на базы: EasyBase-2 (крепится в машине ремнями) и FamilyFix (устанавливается при помощи системы IsoFix)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="106378">
+    <title>Maxi-Cosi Priori XP</title>
+    <model>Priori XP</model>
+    <marka>Maxi-Cosi</marka>
+    <catalog id="965788">Автокресла</catalog>
+    
+    <price1>9300</price1>
+    <price2>15500</price2>
+    <description>
+ группа 1 (9-18 кг), внутренние ремни пятиточечные, установка лицом вперед, регулировка наклона спинки, вес 9.2 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Бустер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Группа</name>
+          <value>1 (9-18 кг)</value>
+        </item>
+        <item>
+          <name>Крепление Isofix</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Крепление Latch</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Установка</name>
+          <value>лицом вперед</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>9.2 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Горизонтальное положение спинки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Внутренние ремни</name>
+          <value>пятиточечные, с мягкими накладками</value>
+        </item>
+        <item>
+          <name>Регулировка высоты внутренних ремней</name>
+          <value>есть, положений - 3</value>
+        </item>
+        <item>
+          <name>Регулировка наклона спинки</name>
+          <value>есть, положений - 4</value>
+        </item>
+        <item>
+          <name>Дополнительная защита от боковых ударов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тент от солнца</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Съемный чехол</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отделение / карман для вещей</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Подстаканник</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="106379">
+    <title>Maxi-Cosi Pearl</title>
+    <model>Pearl</model>
+    <marka>Maxi-Cosi</marka>
+    <catalog id="965788">Автокресла</catalog>
+    
+    <price1>10200</price1>
+    <price2>26480</price2>
+    <description>
+ группа 1 (9-18 кг), крепление Isofix, внутренние ремни пятиточечные, установка лицом вперед, регулировка наклона спинки, вес 6 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Бустер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Группа</name>
+          <value>1 (9-18 кг)</value>
+        </item>
+        <item>
+          <name>Крепление Isofix</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Крепление Latch</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Установка</name>
+          <value>лицом вперед, внешние ремни трехточечные</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Горизонтальное положение спинки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Анатомическая подушка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренние ремни</name>
+          <value>пятиточечные, с мягкими накладками</value>
+        </item>
+        <item>
+          <name>Регулировка высоты внутренних ремней</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка наклона спинки</name>
+          <value>есть, положений - 5</value>
+        </item>
+        <item>
+          <name>Регулировка высоты подголовника</name>
+          <value>есть, положений - 7</value>
+        </item>
+        <item>
+          <name>Дополнительная защита от боковых ударов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тент от солнца</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Съемный чехол</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отделение / карман для вещей</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Подстаканник</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>крепится в автомобиле с помощью базы FamilyFix</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="106382">
+    <title>Romer King Plus</title>
+    <model>King Plus</model>
+    <marka>Romer</marka>
+    <catalog id="965788">Автокресла</catalog>
+    
+    <price1>9580</price1>
+    <price2>16699</price2>
+    <description>
+ группа 1 (9-18 кг), внутренние ремни пятиточечные, установка лицом вперед, регулировка наклона спинки
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Бустер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Группа</name>
+          <value>1 (9-18 кг)</value>
+        </item>
+        <item>
+          <name>Крепление Isofix</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Крепление Latch</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Установка</name>
+          <value>лицом вперед, внешние ремни трехточечные</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Горизонтальное положение спинки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Анатомическая подушка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренние ремни</name>
+          <value>пятиточечные, с мягкими накладками</value>
+        </item>
+        <item>
+          <name>Регулировка наклона спинки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная защита от боковых ударов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фиксатор натяжения штатного ремня автомобиля</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тент от солнца</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Съемный чехол</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отделение / карман для вещей</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Подстаканник</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="106384">
+    <title>Romer Kidfix Sict</title>
+    <model>Kidfix Sict</model>
+    <marka>Romer</marka>
+    <catalog id="965788">Автокресла</catalog>
+    
+    <price1>12680</price1>
+    <price2>15240</price2>
+    <description>
+ группа 2/3 (15-36 кг), крепление Isofix, установка лицом вперед, вес 6.9 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Бустер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Группа</name>
+          <value>2/3 (15-36 кг)</value>
+        </item>
+        <item>
+          <name>Крепление Isofix</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Крепление Latch</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Установка</name>
+          <value>лицом вперед, внешние ремни трехточечные</value>
+        </item>
+        <item>
+          <name>Размеры (ШxГxВ)</name>
+          <value>61x41x85 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6.9 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Горизонтальное положение спинки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Анатомическая подушка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка высоты подголовника</name>
+          <value>есть, положений - 11</value>
+        </item>
+        <item>
+          <name>Дополнительная защита от боковых ударов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фиксатор натяжения штатного ремня автомобиля</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тент от солнца</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Съемный чехол</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отделение / карман для вещей</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Подстаканник</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Возможность установки на шасси</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>регулируемая ширина сиденья; дополнительная боковая защита</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="106387">
+    <title>Maxi-Cosi Citi</title>
+    <model>Citi</model>
+    <marka>Maxi-Cosi</marka>
+    <catalog id="965788">Автокресла</catalog>
+    
+    <price1>6470</price1>
+    <price2>9999</price2>
+    <description>
+ группа 0+ (до 13 кг), внутренние ремни трехточечные, установка спиной вперед, поддержка для головы новорожденного, тент от солнца, вес 2.75 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Бустер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Группа</name>
+          <value>0+ (до 13 кг), автокресло-переноска</value>
+        </item>
+        <item>
+          <name>Крепление Isofix</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Крепление Latch</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Установка</name>
+          <value>спиной вперед</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.75 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Горизонтальное положение спинки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Использование в качестве качалки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Анатомическая подушка</name>
+          <value>есть, можно использовать с рождения</value>
+        </item>
+        <item>
+          <name>Внутренние ремни</name>
+          <value>трехточечные, с мягкими накладками</value>
+        </item>
+        <item>
+          <name>Регулировка высоты внутренних ремней</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ручка для переноски</name>
+          <value>есть, положений ручки - 3</value>
+        </item>
+        <item>
+          <name>Дополнительная защита от боковых ударов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тент от солнца</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Съемный чехол</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отделение / карман для вещей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Подстаканник</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Совместимость с транспортными системами</name>
+          <value>Maxi-Cosi Quinny</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="106389">
+    <title>Romer SafeFix Plus Isofix</title>
+    <model>SafeFix Plus Isofix</model>
+    <marka>Romer</marka>
+    <catalog id="965788">Автокресла</catalog>
+    
+    <price1>16500</price1>
+    <price2>24560</price2>
+    <description>
+ группа 1 (9-18 кг), крепление Isofix, внутренние ремни пятиточечные, установка лицом вперед, регулировка наклона спинки
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Бустер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Группа</name>
+          <value>1 (9-18 кг)</value>
+        </item>
+        <item>
+          <name>Крепление Isofix</name>
+          <value>есть, система упора в пол автомобиля</value>
+        </item>
+        <item>
+          <name>Крепление Latch</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Установка</name>
+          <value>лицом вперед, внешние ремни трехточечные</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Горизонтальное положение спинки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Анатомическая подушка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренние ремни</name>
+          <value>пятиточечные, с мягкими накладками</value>
+        </item>
+        <item>
+          <name>Регулировка наклона спинки</name>
+          <value>есть, положений - 4</value>
+        </item>
+        <item>
+          <name>Регулировка высоты подголовника</name>
+          <value>есть, положений - 7</value>
+        </item>
+        <item>
+          <name>Дополнительная защита от боковых ударов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тент от солнца</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Съемный чехол</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отделение / карман для вещей</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Подстаканник</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="106398">
+    <title>Romer Kid Plus</title>
+    <model>Kid Plus</model>
+    <marka>Romer</marka>
+    <catalog id="965788">Автокресла</catalog>
+    
+    <price1>6800</price1>
+    <price2>16670</price2>
+    <description>
+бустер,  группа 2/3 (15-36 кг), установка лицом вперед, регулировка наклона спинки
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Бустер</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Группа</name>
+          <value>2/3 (15-36 кг)</value>
+        </item>
+        <item>
+          <name>Крепление Isofix</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Крепление Latch</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Установка</name>
+          <value>лицом вперед</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Горизонтальное положение спинки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Анатомическая подушка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка наклона спинки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка высоты подголовника</name>
+          <value>есть, положений - 11</value>
+        </item>
+        <item>
+          <name>Дополнительная защита от боковых ударов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тент от солнца</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Съемный чехол</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отделение / карман для вещей</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Подстаканник</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>Регулировки сидения по ширине в 3 положениях.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="106410">
+    <title>Cybex Pallas 2-Fix</title>
+    <model>Pallas 2-Fix</model>
+    <marka>Cybex</marka>
+    <catalog id="965788">Автокресла</catalog>
+    
+    <price1>10862</price1>
+    <price2>14999</price2>
+    <description>
+бустер,  группа 1/2/3 (9-36 кг), крепление Isofix, установка лицом вперед, регулировка наклона спинки, вес 11.2 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Бустер</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Группа</name>
+          <value>1/2/3 (9-36 кг)</value>
+        </item>
+        <item>
+          <name>Крепление Isofix</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Крепление Latch</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Установка</name>
+          <value>лицом вперед, внешние ремни трехточечные</value>
+        </item>
+        <item>
+          <name>Размеры (ШxГxВ)</name>
+          <value>56x90 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>11.2 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Горизонтальное положение спинки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Анатомическая подушка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка наклона спинки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка высоты подголовника</name>
+          <value>есть, положений - 11</value>
+        </item>
+        <item>
+          <name>Дополнительная защита от боковых ударов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тент от солнца</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Съемный чехол</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отделение / карман для вещей</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Подстаканник</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>регулировка задней части подголовника в 3-х позициях, 2 положения столика (столик выполняет дополнительную функцию безопасности и используется до 18 кг)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="106413">
+    <title>Romer Duo Plus Isofix</title>
+    <model>Duo Plus Isofix</model>
+    <marka>Romer</marka>
+    <catalog id="965788">Автокресла</catalog>
+    
+    <price1>14600</price1>
+    <price2>23950</price2>
+    <description>
+ группа 1 (9-18 кг), крепление Isofix, внутренние ремни пятиточечные, установка лицом вперед, регулировка наклона спинки
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Бустер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Группа</name>
+          <value>1 (9-18 кг)</value>
+        </item>
+        <item>
+          <name>Крепление Isofix</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Крепление Latch</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Установка</name>
+          <value>лицом вперед, внешние ремни трехточечные</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Горизонтальное положение спинки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Внутренние ремни</name>
+          <value>пятиточечные, с мягкими накладками</value>
+        </item>
+        <item>
+          <name>Регулировка высоты внутренних ремней</name>
+          <value>есть, положений - 7</value>
+        </item>
+        <item>
+          <name>Регулировка наклона спинки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная защита от боковых ударов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тент от солнца</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Съемный чехол</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Подстаканник</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="106418">
+    <title>Recaro Young Sport</title>
+    <model>Young Sport</model>
+    <marka>Recaro</marka>
+    <catalog id="965788">Автокресла</catalog>
+    
+    <price1>10000</price1>
+    <price2>15550</price2>
+    <description>
+ группа 1/2/3 (9-36 кг), установка лицом вперед, регулировка наклона спинки
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Бустер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Группа</name>
+          <value>1/2/3 (9-36 кг)</value>
+        </item>
+        <item>
+          <name>Крепление Isofix</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Крепление Latch</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Установка</name>
+          <value>лицом вперед</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Горизонтальное положение спинки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Анатомическая подушка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Ручка для переноски</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка наклона спинки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка высоты подголовника</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная защита от боковых ударов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тент от солнца</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Съемный чехол</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отделение / карман для вещей</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Подстаканник</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="106420">
+    <title>CBX by Cybex Free Fix</title>
+    <model>Free Fix</model>
+    <marka>CBX by Cybex</marka>
+    <catalog id="965788">Автокресла</catalog>
+    
+    <price1>6160</price1>
+    <price2>6400</price2>
+    <description>
+ группа 2/3 (15-36 кг), крепление Isofix, установка лицом вперед, регулировка наклона спинки
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Бустер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Группа</name>
+          <value>2/3 (15-36 кг)</value>
+        </item>
+        <item>
+          <name>Крепление Isofix</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Крепление Latch</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Установка</name>
+          <value>лицом вперед, внешние ремни трехточечные</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Горизонтальное положение спинки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Анатомическая подушка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка наклона спинки</name>
+          <value>есть, положений - 2</value>
+        </item>
+        <item>
+          <name>Регулировка высоты подголовника</name>
+          <value>есть, положений - 7</value>
+        </item>
+        <item>
+          <name>Дополнительная защита от боковых ударов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тент от солнца</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Съемный чехол</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отделение / карман для вещей</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Подстаканник</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="106421">
+    <title>Peg-Perego Primo Viaggio Tri-Fix</title>
+    <model>Primo Viaggio Tri-Fix</model>
+    <marka>Peg-Perego</marka>
+    <catalog id="965788">Автокресла</catalog>
+    
+    <price1>6190</price1>
+    <price2>13890</price2>
+    <description>
+ группа 0+ (до 13 кг), внутренние ремни пятиточечные, установка спиной вперед, поддержка для головы новорожденного, тент от солнца
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Бустер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Группа</name>
+          <value>0+ (до 13 кг), автокресло-переноска</value>
+        </item>
+        <item>
+          <name>Крепление Isofix</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Крепление Latch</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Установка</name>
+          <value>спиной вперед</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Горизонтальное положение спинки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Использование в качестве качалки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Анатомическая подушка</name>
+          <value>есть, можно использовать с рождения</value>
+        </item>
+        <item>
+          <name>Внутренние ремни</name>
+          <value>пятиточечные, с мягкими накладками</value>
+        </item>
+        <item>
+          <name>Ручка для переноски</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная защита от боковых ударов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тент от солнца</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Подстаканник</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>Дополнительно можно приобрести пластиковое основание Adjustable Base или Isofix Base.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="106426">
+    <title>Cybex Pallas</title>
+    <model>Pallas</model>
+    <marka>Cybex</marka>
+    <catalog id="965788">Автокресла</catalog>
+    
+    <price1>9900</price1>
+    <price2>10500</price2>
+    <description>
+ группа 1/2/3 (9-36 кг), установка лицом вперед, регулировка наклона спинки, вес 9.5 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Бустер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Группа</name>
+          <value>1/2/3 (9-36 кг)</value>
+        </item>
+        <item>
+          <name>Крепление Isofix</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Крепление Latch</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Установка</name>
+          <value>лицом вперед, внешние ремни трехточечные</value>
+        </item>
+        <item>
+          <name>Размеры (ШxГxВ)</name>
+          <value>48x72 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>9.5 кг</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Горизонтальное положение спинки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Анатомическая подушка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка наклона спинки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка высоты подголовника</name>
+          <value>есть, положений - 11</value>
+        </item>
+        <item>
+          <name>Дополнительная защита от боковых ударов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тент от солнца</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Съемный чехол</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отделение / карман для вещей</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Подстаканник</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>столик безопасности (максимальный вес ребенка до 18 кг), регулируемая база и съемный столик превращаются автокресло в модель Solution X (группы 2-3), высота кресла до 89 см</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="106428">
+    <title>Britax First Class Si</title>
+    <model>First Class Si</model>
+    <marka>Britax</marka>
+    <catalog id="965788">Автокресла</catalog>
+    
+    <price1>9800</price1>
+    <price2>12460</price2>
+    <description>
+ группа 0/1 (до 18 кг), внутренние ремни пятиточечные, установка спиной или лицом вперед, поддержка для головы новорожденного, регулировка наклона спинки
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Бустер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Группа</name>
+          <value>0/1 (до 18 кг)</value>
+        </item>
+        <item>
+          <name>Крепление Isofix</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Крепление Latch</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Установка</name>
+          <value>спиной или лицом вперед, внешние ремни трехточечные</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Горизонтальное положение спинки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Анатомическая подушка</name>
+          <value>есть, можно использовать с рождения</value>
+        </item>
+        <item>
+          <name>Внутренние ремни</name>
+          <value>пятиточечные, с мягкими накладками</value>
+        </item>
+        <item>
+          <name>Регулировка высоты внутренних ремней</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка наклона спинки</name>
+          <value>есть, положений - 5</value>
+        </item>
+        <item>
+          <name>Дополнительная защита от боковых ударов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое натяжение штатного ремня автомобиля</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Тент от солнца</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Съемный чехол</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отделение / карман для вещей</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Подстаканник</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Возможность установки на шасси</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="106430">
+    <title>Recaro Young Profi Plus</title>
+    <model>Young Profi Plus</model>
+    <marka>Recaro</marka>
+    <catalog id="965788">Автокресла</catalog>
+    
+    <price1>7950</price1>
+    <price2>16300</price2>
+    <description>
+ группа 0+ (до 13 кг), крепление Isofix, внутренние ремни пятиточечные, установка спиной вперед, поддержка для головы новорожденного, тент от солнца
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Бустер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Группа</name>
+          <value>0+ (до 13 кг), автокресло-переноска</value>
+        </item>
+        <item>
+          <name>Крепление Isofix</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Крепление Latch</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Установка</name>
+          <value>спиной вперед, внешние ремни трехточечные</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Горизонтальное положение спинки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Использование в качестве качалки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Анатомическая подушка</name>
+          <value>есть, можно использовать с рождения</value>
+        </item>
+        <item>
+          <name>Внутренние ремни</name>
+          <value>пятиточечные, съемные, с мягкими накладками</value>
+        </item>
+        <item>
+          <name>Регулировка высоты внутренних ремней</name>
+          <value>есть, положений - 3</value>
+        </item>
+        <item>
+          <name>Ручка для переноски</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная защита от боковых ударов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тент от солнца</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Съемный чехол</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отделение / карман для вещей</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Подстаканник</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>Возможность использования крепления Isofix (приобретается отдельно), двойная защита от бокового удара</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="106434">
+    <title>STM Starlight SP</title>
+    <model>Starlight SP</model>
+    <marka>STM</marka>
+    <catalog id="965788">Автокресла</catalog>
+    
+    <price1>8850</price1>
+    <price2>11180</price2>
+    <description>
+ группа 1/2/3 (9-36 кг), внутренние ремни пятиточечные, установка лицом вперед, регулировка наклона спинки
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Бустер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Группа</name>
+          <value>1/2/3 (9-36 кг)</value>
+        </item>
+        <item>
+          <name>Крепление Isofix</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Крепление Latch</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Установка</name>
+          <value>лицом вперед, внешние ремни трехточечные</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Горизонтальное положение спинки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Внутренние ремни</name>
+          <value>пятиточечные, с мягкими накладками</value>
+        </item>
+        <item>
+          <name>Ручка для переноски</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка наклона спинки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка высоты подголовника</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная защита от боковых ударов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое натяжение штатного ремня автомобиля</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Фиксатор натяжения штатного ремня автомобиля</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Тент от солнца</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Съемный чехол</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отделение / карман для вещей</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Подстаканник</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>С помощью удобной ручки одним движением кресло переводится в положение комфортного отдыха, надежно фиксируясь в данном положении.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="106438">
+    <title>STM Ipai Seatfix</title>
+    <model>Ipai Seatfix</model>
+    <marka>STM</marka>
+    <catalog id="965788">Автокресла</catalog>
+    
+    <price1>9990</price1>
+    <price2>11760</price2>
+    <description>
+ группа 2/3 (15-36 кг), крепление Isofix, установка лицом вперед
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Бустер</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Группа</name>
+          <value>2/3 (15-36 кг)</value>
+        </item>
+        <item>
+          <name>Крепление Isofix</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Крепление Latch</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Установка</name>
+          <value>лицом вперед, внешние ремни трехточечные</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Горизонтальное положение спинки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Анатомическая подушка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка высоты подголовника</name>
+          <value>есть, положений - 11</value>
+        </item>
+        <item>
+          <name>Дополнительная защита от боковых ударов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Тент от солнца</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Съемный чехол</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Подстаканник</name>
+          <value>нет</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

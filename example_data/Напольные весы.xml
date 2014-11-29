@@ -1,0 +1,1386 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="23666">
+    <title>Bosch PPW4200</title>
+    <model>PPW4200</model>
+    <marka>Bosch</marka>
+    <catalog id="974546">Напольные весы</catalog>
+    
+    <price1>1340</price1>
+    <price2>3050</price2>
+    <description>
+
+
+
+электронные, максимальная нагрузка 150 кг, точность измерения 0.1 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электронные</value>
+        </item>
+        <item>
+          <name>Материал платформы</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Выносной блок управления</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>33.6x4x33.9 см</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>прозрачные</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Максимальная нагрузка</name>
+          <value>150 кг</value>
+        </item>
+        <item>
+          <name>Точность измерения</name>
+          <value>0.1 кг</value>
+        </item>
+        <item>
+          <name>Единицы измерения</name>
+          <value>кг</value>
+        </item>
+        <item>
+          <name>Автоматическое выключение</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="23669">
+    <title>Bosch PPW2250</title>
+    <model>PPW2250</model>
+    <marka>Bosch</marka>
+    <catalog id="974546">Напольные весы</catalog>
+    
+    <price1>1966</price1>
+    <price2>3491</price2>
+    <description>
+
+
+
+электронные, максимальная нагрузка 150 кг, точность измерения 0.1 кг, определение массовой доли воды, определение содержания жировой ткани, память
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электронные</value>
+        </item>
+        <item>
+          <name>Материал платформы</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Элементы питания</name>
+          <value>CR2032x2</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Максимальная нагрузка</name>
+          <value>150 кг</value>
+        </item>
+        <item>
+          <name>Точность измерения</name>
+          <value>0.1 кг</value>
+        </item>
+        <item>
+          <name>Единицы измерения</name>
+          <value>кг</value>
+        </item>
+        <item>
+          <name>Дополнительные измерения</name>
+          <value>содержание воды, содержание жировой ткани, массовая доля мышечной ткани, массовая доля костной ткани</value>
+        </item>
+        <item>
+          <name>Память</name>
+          <value>есть, число пользователей - 10 </value>
+        </item>
+        <item>
+          <name>Автоматическое включение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое выключение</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="23672">
+    <title>Bosch PPW3120</title>
+    <model>PPW3120</model>
+    <marka>Bosch</marka>
+    <catalog id="974546">Напольные весы</catalog>
+    
+    <price1>1399</price1>
+    <price2>2690</price2>
+    <description>
+
+
+
+электронные, максимальная нагрузка 150 кг, точность измерения 0.1 кг, определение массовой доли воды, определение содержания жировой ткани
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электронные</value>
+        </item>
+        <item>
+          <name>Материал платформы</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Выносной блок управления</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>белый</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Максимальная нагрузка</name>
+          <value>150 кг</value>
+        </item>
+        <item>
+          <name>Точность измерения</name>
+          <value>0.1 кг</value>
+        </item>
+        <item>
+          <name>Единицы измерения</name>
+          <value>кг</value>
+        </item>
+        <item>
+          <name>Дополнительные измерения</name>
+          <value>содержание воды, содержание жировой ткани</value>
+        </item>
+        <item>
+          <name>Автоматическое выключение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>Высота цифр дисплея 38 мм.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="23674">
+    <title>Bosch PPW3301</title>
+    <model>PPW3301</model>
+    <marka>Bosch</marka>
+    <catalog id="974546">Напольные весы</catalog>
+    
+    <price1>1060</price1>
+    <price2>2300</price2>
+    <description>
+
+
+
+электронные, максимальная нагрузка 180 кг, точность измерения 0.1 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электронные</value>
+        </item>
+        <item>
+          <name>Материал платформы</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Выносной блок управления</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>30x1.7x30 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.7 кг</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>рисунок</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Максимальная нагрузка</name>
+          <value>180 кг</value>
+        </item>
+        <item>
+          <name>Точность измерения</name>
+          <value>0.1 кг</value>
+        </item>
+        <item>
+          <name>Автоматическое включение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое выключение</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="23679">
+    <title>Bosch PPW3300</title>
+    <model>PPW3300</model>
+    <marka>Bosch</marka>
+    <catalog id="974546">Напольные весы</catalog>
+    
+    <price1>1079</price1>
+    <price2>2300</price2>
+    <description>
+
+
+
+электронные, максимальная нагрузка 180 кг, точность измерения 0.1 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электронные</value>
+        </item>
+        <item>
+          <name>Материал платформы</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Выносной блок управления</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>30x1.7x30 см</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>белый</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Максимальная нагрузка</name>
+          <value>180 кг</value>
+        </item>
+        <item>
+          <name>Точность измерения</name>
+          <value>0.1 кг</value>
+        </item>
+        <item>
+          <name>Единицы измерения</name>
+          <value>кг</value>
+        </item>
+        <item>
+          <name>Автоматическое включение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое выключение</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="23682">
+    <title>Bosch PPW3100</title>
+    <model>PPW3100</model>
+    <marka>Bosch</marka>
+    <catalog id="974546">Напольные весы</catalog>
+    
+    <price1>959</price1>
+    <price2>2200</price2>
+    <description>
+
+
+
+электронные, максимальная нагрузка 150 кг, точность измерения 0.1 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электронные</value>
+        </item>
+        <item>
+          <name>Материал платформы</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Выносной блок управления</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>34x3.8x35 см</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>белый</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Максимальная нагрузка</name>
+          <value>150 кг</value>
+        </item>
+        <item>
+          <name>Точность измерения</name>
+          <value>0.1 кг</value>
+        </item>
+        <item>
+          <name>Единицы измерения</name>
+          <value>кг</value>
+        </item>
+        <item>
+          <name>Автоматическое включение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое выключение</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="23689">
+    <title>Bosch PPW2000</title>
+    <model>PPW2000</model>
+    <marka>Bosch</marka>
+    <catalog id="974546">Напольные весы</catalog>
+    
+    <price1>1345</price1>
+    <price2>2140</price2>
+    <description>
+
+
+
+электронные, максимальная нагрузка 150 кг, точность измерения 0.1 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электронные</value>
+        </item>
+        <item>
+          <name>Материал платформы</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Элементы питания</name>
+          <value>CR2032x1 3 В</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>белый</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Максимальная нагрузка</name>
+          <value>150 кг</value>
+        </item>
+        <item>
+          <name>Точность измерения</name>
+          <value>0.1 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>батарейка в комплекте</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="23692">
+    <title>Bosch PPW3330</title>
+    <model>PPW3330</model>
+    <marka>Bosch</marka>
+    <catalog id="974546">Напольные весы</catalog>
+    
+    <price1>1584</price1>
+    <price2>2990</price2>
+    <description>
+
+
+
+электронные, максимальная нагрузка 180 кг, точность измерения 0.1 кг, определение массовой доли воды, определение содержания жировой ткани, память
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электронные</value>
+        </item>
+        <item>
+          <name>Материал платформы</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Выносной блок управления</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Элементы питания</name>
+          <value>CR2032x1</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>30x1.8x30 см</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>белый</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Максимальная нагрузка</name>
+          <value>180 кг</value>
+        </item>
+        <item>
+          <name>Точность измерения</name>
+          <value>0.1 кг</value>
+        </item>
+        <item>
+          <name>Единицы измерения</name>
+          <value>кг</value>
+        </item>
+        <item>
+          <name>Дополнительные измерения</name>
+          <value>содержание воды, содержание жировой ткани, массовая доля мышечной ткани, массовая доля костной ткани</value>
+        </item>
+        <item>
+          <name>Память</name>
+          <value>есть, число пользователей - 10 </value>
+        </item>
+        <item>
+          <name>Автоматическое включение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое выключение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>режим измерений для спортсменов</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="23703">
+    <title>Bosch PPW3320</title>
+    <model>PPW3320</model>
+    <marka>Bosch</marka>
+    <catalog id="974546">Напольные весы</catalog>
+    
+    <price1>1426</price1>
+    <price2>2690</price2>
+    <description>
+
+
+
+электронные, максимальная нагрузка 180 кг, точность измерения 0.1 кг, определение массовой доли воды, определение содержания жировой ткани, память
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электронные</value>
+        </item>
+        <item>
+          <name>Материал платформы</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Выносной блок управления</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Элементы питания</name>
+          <value>CR2032x1</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>30x3.8x30 см</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>синий</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Максимальная нагрузка</name>
+          <value>180 кг</value>
+        </item>
+        <item>
+          <name>Точность измерения</name>
+          <value>0.1 кг</value>
+        </item>
+        <item>
+          <name>Единицы измерения</name>
+          <value>кг</value>
+        </item>
+        <item>
+          <name>Дополнительные измерения</name>
+          <value>содержание воды, содержание жировой ткани</value>
+        </item>
+        <item>
+          <name>Память</name>
+          <value>есть, число пользователей - 10 </value>
+        </item>
+        <item>
+          <name>Автоматическое включение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое выключение</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="23707">
+    <title>Tefal PP8043 Luminance</title>
+    <model>PP8043 Luminance</model>
+    <marka>Tefal</marka>
+    <catalog id="974546">Напольные весы</catalog>
+    
+    <price1>1580</price1>
+    <price2>2903</price2>
+    <description>
+
+
+
+электронные, максимальная нагрузка 160 кг, точность измерения 0.1 кг, память
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электронные</value>
+        </item>
+        <item>
+          <name>Материал платформы</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Выносной блок управления</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Элементы питания</name>
+          <value>AAAx4</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>серебристый</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Максимальная нагрузка</name>
+          <value>160 кг</value>
+        </item>
+        <item>
+          <name>Точность измерения</name>
+          <value>0.1 кг</value>
+        </item>
+        <item>
+          <name>Единицы измерения</name>
+          <value>кг</value>
+        </item>
+        <item>
+          <name>Память</name>
+          <value>есть, число пользователей - 4 </value>
+        </item>
+        <item>
+          <name>Автоматическое включение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое выключение</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="23711">
+    <title>Tefal PP6000 Tendancy</title>
+    <model>PP6000 Tendancy</model>
+    <marka>Tefal</marka>
+    <catalog id="974546">Напольные весы</catalog>
+    
+    <price1>1290</price1>
+    <price2>3660</price2>
+    <description>
+
+
+
+электронные, максимальная нагрузка 160 кг, точность измерения 0.1 кг, память
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электронные</value>
+        </item>
+        <item>
+          <name>Материал платформы</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Выносной блок управления</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Элементы питания</name>
+          <value>AAx2</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>32x4x29.5 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2 кг</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>прозрачные</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Максимальная нагрузка</name>
+          <value>160 кг</value>
+        </item>
+        <item>
+          <name>Точность измерения</name>
+          <value>0.1 кг</value>
+        </item>
+        <item>
+          <name>Единицы измерения</name>
+          <value>кг</value>
+        </item>
+        <item>
+          <name>Память</name>
+          <value>есть, число пользователей - 4 </value>
+        </item>
+        <item>
+          <name>Автоматическое включение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое выключение</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="23726">
+    <title>Tefal PP1101 Classic</title>
+    <model>PP1101 Classic</model>
+    <marka>Tefal</marka>
+    <catalog id="974546">Напольные весы</catalog>
+    
+    <price1>809</price1>
+    <price2>1502</price2>
+    <description>
+
+
+
+электронные, максимальная нагрузка 160 кг, точность измерения 0.1 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электронные</value>
+        </item>
+        <item>
+          <name>Материал платформы</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Выносной блок управления</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размер дисплея</name>
+          <value>70х38 мм</value>
+        </item>
+        <item>
+          <name>Элементы питания</name>
+          <value> 3 В</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>29x2.2x30 см</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>голубой</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Максимальная нагрузка</name>
+          <value>160 кг</value>
+        </item>
+        <item>
+          <name>Точность измерения</name>
+          <value>0.1 кг</value>
+        </item>
+        <item>
+          <name>Единицы измерения</name>
+          <value>кг</value>
+        </item>
+        <item>
+          <name>Автоматическое включение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое выключение</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="23727">
+    <title>Tefal PP4000 Evolis</title>
+    <model>PP4000 Evolis</model>
+    <marka>Tefal</marka>
+    <catalog id="974546">Напольные весы</catalog>
+    
+    <price1>1430</price1>
+    <price2>2642</price2>
+    <description>
+
+
+
+электронные, максимальная нагрузка 160 кг, точность измерения 0.1 кг, память
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электронные</value>
+        </item>
+        <item>
+          <name>Материал платформы</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Выносной блок управления</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Элементы питания</name>
+          <value>AAAx2</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>белый</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Максимальная нагрузка</name>
+          <value>160 кг</value>
+        </item>
+        <item>
+          <name>Точность измерения</name>
+          <value>0.1 кг</value>
+        </item>
+        <item>
+          <name>Память</name>
+          <value>есть, число пользователей - 2 </value>
+        </item>
+        <item>
+          <name>Автоматическое включение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое выключение</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="23739">
+    <title>Tefal PP1201 Premio</title>
+    <model>PP1201 Premio</model>
+    <marka>Tefal</marka>
+    <catalog id="974546">Напольные весы</catalog>
+    
+    <price1>816</price1>
+    <price2>2190</price2>
+    <description>
+
+
+
+электронные, максимальная нагрузка 160 кг, точность измерения 0.1 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электронные</value>
+        </item>
+        <item>
+          <name>Материал платформы</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Выносной блок управления</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размер дисплея</name>
+          <value>65х65 мм</value>
+        </item>
+        <item>
+          <name>Элементы питания</name>
+          <value> 3 В</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>32x2.2x30 см</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>розовый</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Максимальная нагрузка</name>
+          <value>160 кг</value>
+        </item>
+        <item>
+          <name>Точность измерения</name>
+          <value>0.1 кг</value>
+        </item>
+        <item>
+          <name>Единицы измерения</name>
+          <value>кг/фунты</value>
+        </item>
+        <item>
+          <name>Автоматическое включение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое выключение</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="23745">
+    <title>Tefal PP3019 Atlantis</title>
+    <model>PP3019 Atlantis</model>
+    <marka>Tefal</marka>
+    <catalog id="974546">Напольные весы</catalog>
+    
+    <price1>1290</price1>
+    <price2>1450</price2>
+    <description>
+
+
+
+электронные, максимальная нагрузка 160 кг, точность измерения 0.1 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электронные</value>
+        </item>
+        <item>
+          <name>Материал платформы</name>
+          <value>металл + стекло</value>
+        </item>
+        <item>
+          <name>Выносной блок управления</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Элементы питания</name>
+          <value>AAAx2</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>прозрачные</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Максимальная нагрузка</name>
+          <value>160 кг</value>
+        </item>
+        <item>
+          <name>Точность измерения</name>
+          <value>0.1 кг</value>
+        </item>
+        <item>
+          <name>Единицы измерения</name>
+          <value>кг</value>
+        </item>
+        <item>
+          <name>Автоматическое включение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое выключение</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="23747">
+    <title>Bosch PPW3303</title>
+    <model>PPW3303</model>
+    <marka>Bosch</marka>
+    <catalog id="974546">Напольные весы</catalog>
+    
+    <price1>982</price1>
+    <price2>2090</price2>
+    <description>
+
+
+
+электронные, максимальная нагрузка 180 кг, точность измерения 0.1 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электронные</value>
+        </item>
+        <item>
+          <name>Материал платформы</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Выносной блок управления</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размер дисплея</name>
+          <value>38 мм</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>30x1.7x30 см</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>белый</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Максимальная нагрузка</name>
+          <value>180 кг</value>
+        </item>
+        <item>
+          <name>Точность измерения</name>
+          <value>0.1 кг</value>
+        </item>
+        <item>
+          <name>Единицы измерения</name>
+          <value>кг</value>
+        </item>
+        <item>
+          <name>Автоматическое включение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое выключение</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="23753">
+    <title>Tefal PP1203 Premio</title>
+    <model>PP1203 Premio</model>
+    <marka>Tefal</marka>
+    <catalog id="974546">Напольные весы</catalog>
+    
+    <price1>857</price1>
+    <price2>1100</price2>
+    <description>
+
+
+
+электронные, максимальная нагрузка 160 кг, точность измерения 0.1 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электронные</value>
+        </item>
+        <item>
+          <name>Материал платформы</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Выносной блок управления</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размер дисплея</name>
+          <value>65х65 мм</value>
+        </item>
+        <item>
+          <name>Элементы питания</name>
+          <value> 3 В</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>32x2.2x30 см</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>синий</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Максимальная нагрузка</name>
+          <value>160 кг</value>
+        </item>
+        <item>
+          <name>Точность измерения</name>
+          <value>0.1 кг</value>
+        </item>
+        <item>
+          <name>Единицы измерения</name>
+          <value>кг/фунты</value>
+        </item>
+        <item>
+          <name>Автоматическое включение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое выключение</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="23764">
+    <title>Bosch PPW 3105</title>
+    <model>PPW 3105</model>
+    <marka>Bosch</marka>
+    <catalog id="974546">Напольные весы</catalog>
+    
+    <price1>1117</price1>
+    <price2>2090</price2>
+    <description>
+
+
+
+электронные, максимальная нагрузка 180 кг, точность измерения 0.1 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электронные</value>
+        </item>
+        <item>
+          <name>Материал платформы</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Выносной блок управления</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размер дисплея</name>
+          <value>38 мм</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>синий</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Максимальная нагрузка</name>
+          <value>180 кг</value>
+        </item>
+        <item>
+          <name>Точность измерения</name>
+          <value>0.1 кг</value>
+        </item>
+        <item>
+          <name>Единицы измерения</name>
+          <value>кг</value>
+        </item>
+        <item>
+          <name>Автоматическое включение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое выключение</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="23765">
+    <title>Beurer GS 27 Black Flower</title>
+    <model>GS 27 Black Flower</model>
+    <marka>Beurer</marka>
+    <catalog id="974546">Напольные весы</catalog>
+    
+    <price1>1020</price1>
+    <price2>1900</price2>
+    <description>
+
+
+
+электронные, максимальная нагрузка 150 кг, точность измерения 0.1 кг
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электронные</value>
+        </item>
+        <item>
+          <name>Материал платформы</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхД)</name>
+          <value>30x1.7x30 см</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>рисунок</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Максимальная нагрузка</name>
+          <value>150 кг</value>
+        </item>
+        <item>
+          <name>Точность измерения</name>
+          <value>0.1 кг</value>
+        </item>
+        <item>
+          <name>Единицы измерения</name>
+          <value>кг</value>
+        </item>
+        <item>
+          <name>Автоматическое включение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое выключение</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="23773">
+    <title>Tefal BM7000 Bodysignal</title>
+    <model>BM7000 Bodysignal</model>
+    <marka>Tefal</marka>
+    <catalog id="974546">Напольные весы</catalog>
+    
+    <price1>2129</price1>
+    <price2>3165</price2>
+    <description>
+
+
+
+электронные, диагностические, максимальная нагрузка 160 кг, точность измерения 0.1 кг, определение содержания жировой ткани, расчет индекса массы тела (BMI), память
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электронные</value>
+        </item>
+        <item>
+          <name>Материал платформы</name>
+          <value>стекло</value>
+        </item>
+        <item>
+          <name>Выносной блок управления</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Элементы питания</name>
+          <value>AAAx4 1.5 В</value>
+        </item>
+        <item>
+          <name>Цвет</name>
+          <value>прозрачные</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Максимальная нагрузка</name>
+          <value>160 кг</value>
+        </item>
+        <item>
+          <name>Точность измерения</name>
+          <value>0.1 кг</value>
+        </item>
+        <item>
+          <name>Единицы измерения</name>
+          <value>кг</value>
+        </item>
+        <item>
+          <name>Дополнительные измерения</name>
+          <value>содержание жировой ткани</value>
+        </item>
+        <item>
+          <name>Память</name>
+          <value>есть, число пользователей - 4 </value>
+        </item>
+        <item>
+          <name>Автоматическое включение</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическое выключение</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

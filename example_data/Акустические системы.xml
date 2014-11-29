@@ -1,0 +1,2273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="48147">
+    <title>Wharfedale Diamond 10.7</title>
+    <model>Diamond 10.7</model>
+    <marka>Wharfedale</marka>
+    <catalog id="135048">Акустические системы</catalog>
+    
+    <price1>32700</price1>
+    <price2>71980</price2>
+    <description>
+
+
+
+
+
+тип АС: напольная, пассивная, назначение: фронтальный громкоговоритель, 90 дБ, 30-24000 Гц, Bi-wiring, 223x965x301 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип</name>
+          <value>напольная, пассивная</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>фронтальный громкоговоритель</value>
+        </item>
+        <item>
+          <name>Состав комплекта</name>
+          <value>2 громкоговорителя</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Количество полос</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Раздельное подключение НЧ и ВЧ (Bi-wiring)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Рекомендуемая мощность усилителя</name>
+          <value>30-200 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>90 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>6 Ом</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>30-24000 Гц </value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>150 Гц, 850 Гц, 4.5 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъем для подключения к усилителю мощности</name>
+          <value>винтовой</value>
+        </item>
+      </items>
+      <items>
+        <name>Излучатели</name>
+        <item>
+          <name>Тип излучателей</name>
+          <value>динамические</value>
+        </item>
+        <item>
+          <name>ВЧ-излучатель</name>
+          <value>25 мм, купол</value>
+        </item>
+        <item>
+          <name>СЧ-излучатель</name>
+          <value>50 мм, купол</value>
+        </item>
+        <item>
+          <name>НЧ-излучатель</name>
+          <value>2x 165 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Шипы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Съемная решетка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Варианты отделки</name>
+          <value>клен, венге, черное дерево, вишня, орех, красное дерево</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>223x965x301 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48149">
+    <title>Bowers &amp;amp;amp; Wilkins 684</title>
+    <model>Bowers &amp;amp;amp; Wilkins 684</model>
+    <marka>Bowers &amp;amp; Wilkins</marka>
+    <catalog id="135048">Акустические системы</catalog>
+    
+    <price1>39990</price1>
+    <price2>57750</price2>
+    <description>
+
+
+
+
+
+тип АС: напольная, пассивная, фазоинверторного типа, назначение: фронтальный громкоговоритель, 90 дБ, 38-22000 Гц, 198x910x300 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип</name>
+          <value>напольная, пассивная, фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>фронтальный громкоговоритель</value>
+        </item>
+        <item>
+          <name>Состав комплекта</name>
+          <value>2 громкоговорителя</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Количество полос</name>
+          <value>2.5</value>
+        </item>
+        <item>
+          <name>Рекомендуемая мощность усилителя</name>
+          <value>25-150 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>90 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>3-8 Ом</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>44-22000 Гц (+/-3 дБ) </value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъем для подключения к усилителю мощности</name>
+          <value>винтовой</value>
+        </item>
+        <item>
+          <name>Позолоченные разъемы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Излучатели</name>
+        <item>
+          <name>Тип излучателей</name>
+          <value>динамические</value>
+        </item>
+        <item>
+          <name>ВЧ-излучатель</name>
+          <value>25 мм, купол, алюминий</value>
+        </item>
+        <item>
+          <name>НЧ/СЧ-излучатель</name>
+          <value>165 мм, кевлар</value>
+        </item>
+        <item>
+          <name>НЧ-излучатель</name>
+          <value>165 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Шипы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Съемная решетка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Варианты отделки</name>
+          <value>чёрный пепел винил, светлый дуб винил, красная вишня винил, венге винил</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>198x910x300 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>18.2 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48150">
+    <title>Wharfedale Diamond 10.5</title>
+    <model>Diamond 10.5</model>
+    <marka>Wharfedale</marka>
+    <catalog id="135048">Акустические системы</catalog>
+    
+    <price1>18990</price1>
+    <price2>55990</price2>
+    <description>
+
+
+
+
+
+тип АС: напольная, пассивная, назначение: фронтальный громкоговоритель, 86 дБ, 35-24000 Гц, Bi-wiring, 223x850x301 мм, магнитная защита
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип</name>
+          <value>напольная, пассивная</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>фронтальный громкоговоритель</value>
+        </item>
+        <item>
+          <name>Состав комплекта</name>
+          <value>2 громкоговорителя</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Количество полос</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Раздельное подключение НЧ и ВЧ (Bi-wiring)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Рекомендуемая мощность усилителя</name>
+          <value>20-120 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>86 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>6 Ом</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>35-24000 Гц </value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>600 Гц, 3.8 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъем для подключения к усилителю мощности</name>
+          <value>винтовой</value>
+        </item>
+      </items>
+      <items>
+        <name>Излучатели</name>
+        <item>
+          <name>Тип излучателей</name>
+          <value>динамические</value>
+        </item>
+        <item>
+          <name>ВЧ-излучатель</name>
+          <value>25 мм</value>
+        </item>
+        <item>
+          <name>СЧ-излучатель</name>
+          <value>50 мм</value>
+        </item>
+        <item>
+          <name>НЧ-излучатель</name>
+          <value>165 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Шипы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Съемная решетка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Магнитная защита</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Варианты отделки</name>
+          <value>клен, венге, черное дерево, вишня, орех, красное дерево</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>223x850x301 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48153">
+    <title>DALI Ikon 6 MK2</title>
+    <model>Ikon 6 MK2</model>
+    <marka>DALI</marka>
+    <catalog id="135048">Акустические системы</catalog>
+    
+    <price1>54000</price1>
+    <price2>200000</price2>
+    <description>
+
+
+
+
+
+тип АС: напольная, пассивная, фазоинверторного типа, 89 дБ, 39-30000 Гц, Bi-wiring, 188x1028x352 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип</name>
+          <value>напольная, пассивная, фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>фронтальный громкоговоритель</value>
+        </item>
+        <item>
+          <name>Состав комплекта</name>
+          <value>2 громкоговорителя</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Количество полос</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Раздельное подключение НЧ и ВЧ (Bi-wiring)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Рекомендуемая мощность усилителя</name>
+          <value>25-180 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>89 дБ</value>
+        </item>
+        <item>
+          <name>Максимальное звуковое давление</name>
+          <value>110 дБ SPL</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>6 Ом</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>39-30000 Гц (+/-3 дБ) </value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>700 Гц, 2.6 кГц, 14 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъем для подключения к усилителю мощности</name>
+          <value>винтовой</value>
+        </item>
+        <item>
+          <name>Позолоченные разъемы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Излучатели</name>
+        <item>
+          <name>Тип излучателей</name>
+          <value>динамические</value>
+        </item>
+        <item>
+          <name>Ультра ВЧ-излучатель</name>
+          <value>17x45 мм, ленточный</value>
+        </item>
+        <item>
+          <name>ВЧ-излучатель</name>
+          <value>28 мм, купол</value>
+        </item>
+        <item>
+          <name>НЧ-излучатель</name>
+          <value>2x 165 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Шипы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Съемная решетка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>188x1028x352 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>17.8 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48155">
+    <title>Bowers &amp;amp;amp; Wilkins CM1</title>
+    <model>Bowers &amp;amp;amp; Wilkins CM1</model>
+    <marka>Bowers &amp;amp; Wilkins</marka>
+    <catalog id="135048">Акустические системы</catalog>
+    
+    <price1>33700</price1>
+    <price2>66990</price2>
+    <description>
+
+
+
+
+
+тип АС: полочная, пассивная, фазоинверторного типа, 84 дБ, 45-50000 Гц, 165x280x276 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип</name>
+          <value>полочная, пассивная, фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Состав комплекта</name>
+          <value>2 громкоговорителя</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Рекомендуемая мощность усилителя</name>
+          <value>30-100 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>84 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>5.10-8 Ом</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>45-50000 Гц </value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>4kHz</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъем для подключения к усилителю мощности</name>
+          <value>винтовой</value>
+        </item>
+        <item>
+          <name>Позолоченные разъемы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Излучатели</name>
+        <item>
+          <name>Тип излучателей</name>
+          <value>динамические</value>
+        </item>
+        <item>
+          <name>ВЧ-излучатель</name>
+          <value>1х25 мм, купол, алюминий</value>
+        </item>
+        <item>
+          <name>СЧ-излучатель</name>
+          <value>1х130 мм, конус</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Съемная решетка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Варианты отделки</name>
+          <value>клен, розовый орех</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>165x280x276 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>6.7 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48157">
+    <title>Wharfedale Diamond 10.6</title>
+    <model>Diamond 10.6</model>
+    <marka>Wharfedale</marka>
+    <catalog id="135048">Акустические системы</catalog>
+    
+    <price1>12150</price1>
+    <price2>25640</price2>
+    <description>
+
+
+
+
+
+тип АС: напольная, пассивная, назначение: фронтальный громкоговоритель, 88 дБ, 35-24000 Гц, 223x900x301 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип</name>
+          <value>напольная, пассивная</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>фронтальный громкоговоритель</value>
+        </item>
+        <item>
+          <name>Состав комплекта</name>
+          <value>2 громкоговорителя</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Количество полос</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Рекомендуемая мощность усилителя</name>
+          <value>20-150 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>88 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>6 Ом</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>35-24000 Гц </value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>100 Гц, 2.5 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъем для подключения к усилителю мощности</name>
+          <value>винтовой</value>
+        </item>
+      </items>
+      <items>
+        <name>Излучатели</name>
+        <item>
+          <name>Тип излучателей</name>
+          <value>динамические</value>
+        </item>
+        <item>
+          <name>ВЧ-излучатель</name>
+          <value>25 мм</value>
+        </item>
+        <item>
+          <name>НЧ/СЧ-излучатель</name>
+          <value>165 мм</value>
+        </item>
+        <item>
+          <name>НЧ-излучатель</name>
+          <value>165 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Шипы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Съемная решетка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Варианты отделки</name>
+          <value>клен, венге, черное дерево, вишня, орех, красное дерево</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>223x900x301 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48160">
+    <title>Wharfedale Diamond 10.4</title>
+    <model>Diamond 10.4</model>
+    <marka>Wharfedale</marka>
+    <catalog id="135048">Акустические системы</catalog>
+    
+    <price1>17976</price1>
+    <price2>42990</price2>
+    <description>
+
+
+
+
+
+тип АС: напольная, пассивная, назначение: фронтальный громкоговоритель, 88 дБ, 38-24000 Гц, Bi-wiring, 194x850x278 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип</name>
+          <value>напольная, пассивная</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>фронтальный громкоговоритель</value>
+        </item>
+        <item>
+          <name>Состав комплекта</name>
+          <value>2 громкоговорителя</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Количество полос</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Раздельное подключение НЧ и ВЧ (Bi-wiring)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Рекомендуемая мощность усилителя</name>
+          <value>20-120 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>88 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>6 Ом</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>38-24000 Гц </value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>140 Гц, 3.8 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъем для подключения к усилителю мощности</name>
+          <value>винтовой</value>
+        </item>
+      </items>
+      <items>
+        <name>Излучатели</name>
+        <item>
+          <name>Тип излучателей</name>
+          <value>динамические</value>
+        </item>
+        <item>
+          <name>ВЧ-излучатель</name>
+          <value>25 мм</value>
+        </item>
+        <item>
+          <name>НЧ/СЧ-излучатель</name>
+          <value>125 мм</value>
+        </item>
+        <item>
+          <name>НЧ-излучатель</name>
+          <value>125 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Шипы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Съемная решетка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Варианты отделки</name>
+          <value>клен, венге, черное дерево, вишня, орех, красное дерево</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>194x850x278 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48162">
+    <title>Monitor Audio Silver RX6</title>
+    <model>Silver RX6</model>
+    <marka>Monitor Audio</marka>
+    <catalog id="135048">Акустические системы</catalog>
+    
+    <price1>38490</price1>
+    <price2>67990</price2>
+    <description>
+
+
+
+
+
+тип АС: напольная, пассивная, фазоинверторного типа, назначение: фронтальный громкоговоритель, 125 Вт, 90 дБ, 38-35000 Гц, Bi-wiring, 185x850x250 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип</name>
+          <value>напольная, пассивная, фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>фронтальный громкоговоритель</value>
+        </item>
+        <item>
+          <name>Состав комплекта</name>
+          <value>2 громкоговорителя</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Количество полос</name>
+          <value>2.5</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>125 Вт</value>
+        </item>
+        <item>
+          <name>Раздельное подключение НЧ и ВЧ (Bi-wiring)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Рекомендуемая мощность усилителя</name>
+          <value>40-125 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>90 дБ</value>
+        </item>
+        <item>
+          <name>Максимальное звуковое давление</name>
+          <value>115 дБ SPL</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>6 Ом</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>38-35000 Гц </value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>700 Гц, 2.7 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъем для подключения к усилителю мощности</name>
+          <value>винтовой</value>
+        </item>
+        <item>
+          <name>Позолоченные разъемы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Излучатели</name>
+        <item>
+          <name>Тип излучателей</name>
+          <value>динамические</value>
+        </item>
+        <item>
+          <name>ВЧ-излучатель</name>
+          <value>25 мм, купол, золото</value>
+        </item>
+        <item>
+          <name>НЧ/СЧ-излучатель</name>
+          <value>150 мм</value>
+        </item>
+        <item>
+          <name>НЧ-излучатель</name>
+          <value>150 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Шипы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Съемная решетка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Варианты отделки</name>
+          <value>черный дуб, грецкий орех, натуральный дуб, красное дерево, черный глянцевый, белый глянцевый</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>185x850x250 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>16.4 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48163">
+    <title>Monitor Audio Bronze BX5</title>
+    <model>Bronze BX5</model>
+    <marka>Monitor Audio</marka>
+    <catalog id="135048">Акустические системы</catalog>
+    
+    <price1>24990</price1>
+    <price2>94359</price2>
+    <description>
+
+
+
+
+
+тип АС: напольная, пассивная, фазоинверторного типа, 90 дБ, 36-30000 Гц, 166x850x248 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип</name>
+          <value>напольная, пассивная, фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>фронтальный громкоговоритель</value>
+        </item>
+        <item>
+          <name>Состав комплекта</name>
+          <value>2 громкоговорителя</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Количество полос</name>
+          <value>2.5</value>
+        </item>
+        <item>
+          <name>Рекомендуемая мощность усилителя</name>
+          <value>30-120 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>90 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>8 Ом</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>36-30000 Гц (+/-3 дБ) </value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>400 Гц, 3.2 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъем для подключения к усилителю мощности</name>
+          <value>винтовой</value>
+        </item>
+        <item>
+          <name>Позолоченные разъемы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Излучатели</name>
+        <item>
+          <name>Тип излучателей</name>
+          <value>динамические</value>
+        </item>
+        <item>
+          <name>ВЧ-излучатель</name>
+          <value>25 мм, купол, золото</value>
+        </item>
+        <item>
+          <name>НЧ/СЧ-излучатель</name>
+          <value>140 мм</value>
+        </item>
+        <item>
+          <name>НЧ-излучатель</name>
+          <value>140 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Шипы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Съемная решетка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Варианты отделки</name>
+          <value>винил: черный дуб, натуральный дуб, лесной орех, красный орех</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>166x850x248 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>12 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48164">
+    <title>DALI Concept Sub</title>
+    <model>Concept Sub</model>
+    <marka>DALI</marka>
+    <catalog id="135048">Акустические системы</catalog>
+    
+    <price1>27000</price1>
+    <price2>32600</price2>
+    <description>
+
+
+
+
+
+тип АС: напольная, активная, закрытого типа, назначение: сабвуфер, 29-170 Гц, 380x410x420 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип</name>
+          <value>напольная, активная, закрытого типа</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>сабвуфер</value>
+        </item>
+        <item>
+          <name>Состав комплекта</name>
+          <value>1 громкоговоритель</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Количество полос</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Максимальная мощность</name>
+          <value>160 Вт</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>29-170 Гц (+/- 3 дБ) </value>
+        </item>
+        <item>
+          <name>Регулировка частоты кроссовера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка фазы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Излучатели</name>
+        <item>
+          <name>Тип излучателей</name>
+          <value>динамические</value>
+        </item>
+        <item>
+          <name>НЧ-излучатель</name>
+          <value>305 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Съемная решетка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Варианты отделки</name>
+          <value>натуральный шпон вишни или светлого дуба</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>380x410x420 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>21.2 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48165">
+    <title>Jamo SUB 210</title>
+    <model>SUB 210</model>
+    <marka>Jamo</marka>
+    <catalog id="135048">Акустические системы</catalog>
+    
+    <price1>7800</price1>
+    <price2>13190</price2>
+    <description>
+
+
+
+
+
+тип АС: напольная, активная, фазоинверторного типа, назначение: сабвуфер, 200 Вт, 38-200 Гц, 283x313x305 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип</name>
+          <value>напольная, активная, фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>сабвуфер</value>
+        </item>
+        <item>
+          <name>Состав комплекта</name>
+          <value>1 громкоговоритель</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Количество полос</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>200 Вт</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>38-200 Гц </value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>40-200 Гц</value>
+        </item>
+        <item>
+          <name>Регулировка частоты кроссовера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка фазы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Усилитель</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>линейный вход x2</value>
+        </item>
+      </items>
+      <items>
+        <name>Излучатели</name>
+        <item>
+          <name>Тип излучателей</name>
+          <value>динамические</value>
+        </item>
+        <item>
+          <name>НЧ-излучатель</name>
+          <value>203.2 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>283x313x305 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>7.5 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48169">
+    <title>Bowers &amp;amp;amp; Wilkins 686</title>
+    <model>Bowers &amp;amp;amp; Wilkins 686</model>
+    <marka>Bowers &amp;amp; Wilkins</marka>
+    <catalog id="135048">Акустические системы</catalog>
+    
+    <price1>12792</price1>
+    <price2>27646</price2>
+    <description>
+
+
+
+
+
+тип АС: полочная, пассивная, фазоинверторного типа, 84 дБ, 55-22000 Гц, 170x265x284 мм, магнитная защита
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип</name>
+          <value>полочная, пассивная, фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Состав комплекта</name>
+          <value>2 громкоговорителя</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Рекомендуемая мощность усилителя</name>
+          <value>25-100 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>84 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>5.10-8 Ом</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>55-22000 Гц (±3 дБ) </value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъем для подключения к усилителю мощности</name>
+          <value>винтовой</value>
+        </item>
+      </items>
+      <items>
+        <name>Излучатели</name>
+        <item>
+          <name>Тип излучателей</name>
+          <value>динамические</value>
+        </item>
+        <item>
+          <name>ВЧ-излучатель</name>
+          <value>25 мм, купол, алюминий</value>
+        </item>
+        <item>
+          <name>НЧ/СЧ-излучатель</name>
+          <value>130 мм, кевлар</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Съемная решетка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Магнитная защита</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>170x265x284 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4.9 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48172">
+    <title>Velodyne SPL-8U</title>
+    <model>SPL-8U</model>
+    <marka>Velodyne</marka>
+    <catalog id="135048">Акустические системы</catalog>
+    
+    <price1>41100</price1>
+    <price2>63001</price2>
+    <description>
+
+
+
+
+
+тип АС: напольная, активная, закрытого типа, назначение: сабвуфер, 26-120 Гц, магнитная защита
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип</name>
+          <value>напольная, активная, закрытого типа</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>сабвуфер</value>
+        </item>
+        <item>
+          <name>Состав комплекта</name>
+          <value>1 громкоговоритель</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Количество полос</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>26-120 Гц </value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>40-120 Гц</value>
+        </item>
+        <item>
+          <name>Регулировка частоты кроссовера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка фазы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Излучатели</name>
+        <item>
+          <name>Тип излучателей</name>
+          <value>динамические</value>
+        </item>
+        <item>
+          <name>НЧ-излучатель</name>
+          <value>200 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Съемная решетка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Варианты отделки</name>
+          <value>черный</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>дисплей на передней панели корпуса</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48175">
+    <title>Yamaha YST-SW215</title>
+    <model>YST-SW215</model>
+    <marka>Yamaha</marka>
+    <catalog id="135048">Акустические системы</catalog>
+    
+    <price1>5980</price1>
+    <price2>10190</price2>
+    <description>
+
+
+
+
+
+тип АС: напольная, фазоинверторного типа, назначение: сабвуфер, 28-200 Гц, магнитная защита
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип</name>
+          <value>напольная, активная, фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>сабвуфер</value>
+        </item>
+        <item>
+          <name>Состав комплекта</name>
+          <value>1 громкоговоритель</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Количество полос</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>150 Вт</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>28-200 Гц </value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>50-150 Гц</value>
+        </item>
+        <item>
+          <name>Регулировка частоты кроссовера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка фазы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Излучатели</name>
+        <item>
+          <name>Тип излучателей</name>
+          <value>динамические</value>
+        </item>
+        <item>
+          <name>НЧ-излучатель</name>
+          <value>200 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Магнитная защита</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Варианты отделки</name>
+          <value>вишня, черный</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>290x360x322 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>11.5 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48178">
+    <title>Velodyne SPL-10U</title>
+    <model>SPL-10U</model>
+    <marka>Velodyne</marka>
+    <catalog id="135048">Акустические системы</catalog>
+    
+    <price1>51100</price1>
+    <price2>73200</price2>
+    <description>
+
+
+
+
+
+тип АС: напольная, активная, закрытого типа, назначение: сабвуфер, 1200 Вт, 23-120 Гц, 330x343x406 мм, магнитная защита
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип</name>
+          <value>напольная, активная, закрытого типа</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>сабвуфер</value>
+        </item>
+        <item>
+          <name>Состав комплекта</name>
+          <value>1 громкоговоритель</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Количество полос</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>1200 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная мощность</name>
+          <value>2400 Вт</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>23-120 Гц </value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>40-120 Гц</value>
+        </item>
+        <item>
+          <name>Регулировка частоты кроссовера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка фазы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Излучатели</name>
+        <item>
+          <name>Тип излучателей</name>
+          <value>динамические</value>
+        </item>
+        <item>
+          <name>НЧ-излучатель</name>
+          <value>254 мм, прессованная целлюлоза</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Съемная решетка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Магнитная защита</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>330x343x406 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>20 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>дисплей на передней панели корпуса; калибровочный микрофон</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48181">
+    <title>Yamaha YST-SW012</title>
+    <model>YST-SW012</model>
+    <marka>Yamaha</marka>
+    <catalog id="135048">Акустические системы</catalog>
+    
+    <price1>2870</price1>
+    <price2>4900</price2>
+    <description>
+
+
+
+
+
+тип АС: напольная, активная, фазоинверторного типа, назначение: сабвуфер, 50 Вт, 28-200 Гц, 290x290x328 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип</name>
+          <value>напольная, активная, фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>сабвуфер</value>
+        </item>
+        <item>
+          <name>Состав комплекта</name>
+          <value>1 громкоговоритель</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Количество полос</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Мощность</name>
+          <value>50 Вт</value>
+        </item>
+        <item>
+          <name>Максимальная мощность</name>
+          <value>100 Вт</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>28-200 Гц </value>
+        </item>
+      </items>
+      <items>
+        <name>Излучатели</name>
+        <item>
+          <name>Тип излучателей</name>
+          <value>динамические</value>
+        </item>
+        <item>
+          <name>НЧ-излучатель</name>
+          <value>200 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Съемная решетка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Варианты отделки</name>
+          <value>серебристый, вишня, черный</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>290x290x328 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>8.5 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48185">
+    <title>DALI Lektor 2</title>
+    <model>Lektor 2</model>
+    <marka>DALI</marka>
+    <catalog id="135048">Акустические системы</catalog>
+    
+    <price1>16000</price1>
+    <price2>31990</price2>
+    <description>
+
+
+
+
+
+тип АС: полочная, пассивная, фазоинверторного типа, материал корпуса: MDF, 85 дБ, 49-27000 Гц, 176x310x221 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип</name>
+          <value>полочная, пассивная, фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Рекомендуемая мощность усилителя</name>
+          <value>25-100 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>85 дБ</value>
+        </item>
+        <item>
+          <name>Максимальное звуковое давление</name>
+          <value>106 дБ SPL</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>6 Ом</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>49-27000 Гц (+/-3 дБ) </value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>2.7 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъем для подключения к усилителю мощности</name>
+          <value>винтовой</value>
+        </item>
+        <item>
+          <name>Позолоченные разъемы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Излучатели</name>
+        <item>
+          <name>Тип излучателей</name>
+          <value>динамические</value>
+        </item>
+        <item>
+          <name>ВЧ-излучатель</name>
+          <value>28 мм, конус</value>
+        </item>
+        <item>
+          <name>НЧ-излучатель</name>
+          <value>127 мм, бумага</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>MDF</value>
+        </item>
+        <item>
+          <name>Съемная решетка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Крепления для монтажа</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Варианты отделки</name>
+          <value>черный, светлый орех</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>176x310x221 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>4.1 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48188">
+    <title>Bowers &amp;amp;amp; Wilkins 685</title>
+    <model>Bowers &amp;amp;amp; Wilkins 685</model>
+    <marka>Bowers &amp;amp; Wilkins</marka>
+    <catalog id="135048">Акустические системы</catalog>
+    
+    <price1>21500</price1>
+    <price2>35175</price2>
+    <description>
+
+
+
+
+
+тип АС: полочная, пассивная, фазоинверторного типа, 88 дБ, 49-22000 Гц, 198x340x331 мм, магнитная защита
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип</name>
+          <value>полочная, пассивная, фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Состав комплекта</name>
+          <value>2 громкоговорителя</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Рекомендуемая мощность усилителя</name>
+          <value>25-100 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>88 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>3.70-8 Ом</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>49-22000 Гц (±3 дБ) </value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>4 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Излучатели</name>
+        <item>
+          <name>Тип излучателей</name>
+          <value>динамические</value>
+        </item>
+        <item>
+          <name>ВЧ-излучатель</name>
+          <value>25 мм, купол, алюминий</value>
+        </item>
+        <item>
+          <name>НЧ/СЧ-излучатель</name>
+          <value>165 мм, кевлар</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Съемная решетка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Магнитная защита</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Варианты отделки</name>
+          <value>темно-пепельный винил, светло-дубовый винил, вишневый винил, венге винил</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>198x340x331 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>7 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48197">
+    <title>Monitor Audio Bronze BX6</title>
+    <model>Bronze BX6</model>
+    <marka>Monitor Audio</marka>
+    <catalog id="135048">Акустические системы</catalog>
+    
+    <price1>33000</price1>
+    <price2>109999</price2>
+    <description>
+
+
+
+
+
+тип АС: напольная, пассивная, фазоинверторного типа, 90 дБ, 34-30000 Гц, 186x985x315 мм
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип</name>
+          <value>напольная, пассивная, фазоинверторного типа</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Назначение</name>
+          <value>фронтальный громкоговоритель</value>
+        </item>
+        <item>
+          <name>Состав комплекта</name>
+          <value>2 громкоговорителя</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Количество полос</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Рекомендуемая мощность усилителя</name>
+          <value>40-150 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>90 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>8 Ом</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>34-30000 Гц (+/-3 дБ) </value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>600 Гц, 3.4 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъем для подключения к усилителю мощности</name>
+          <value>винтовой</value>
+        </item>
+        <item>
+          <name>Позолоченные разъемы</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Излучатели</name>
+        <item>
+          <name>Тип излучателей</name>
+          <value>динамические</value>
+        </item>
+        <item>
+          <name>ВЧ-излучатель</name>
+          <value>25 мм, купол, золото</value>
+        </item>
+        <item>
+          <name>НЧ/СЧ-излучатель</name>
+          <value>165 мм</value>
+        </item>
+        <item>
+          <name>НЧ-излучатель</name>
+          <value>2x 165 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Шипы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Съемная решетка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Варианты отделки</name>
+          <value>винил: черный дуб, натуральный дуб, лесной орех, красный орех</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>186x985x315 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>18.25 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="48201">
+    <title>Wharfedale Diamond 10.2</title>
+    <model>Diamond 10.2</model>
+    <marka>Wharfedale</marka>
+    <catalog id="135048">Акустические системы</catalog>
+    
+    <price1>12100</price1>
+    <price2>12340</price2>
+    <description>
+
+
+
+
+
+тип АС: полочная, пассивная, 86 дБ, 40-24000 Гц, 223x364x301 мм, магнитная защита
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные параметры</name>
+        <item>
+          <name>Тип</name>
+          <value>полочная, пассивная</value>
+        </item>
+        <item>
+          <name>Акустическое излучение</name>
+          <value>монополярная</value>
+        </item>
+        <item>
+          <name>Состав комплекта</name>
+          <value>2 громкоговорителя</value>
+        </item>
+      </items>
+      <items>
+        <name>Характеристики</name>
+        <item>
+          <name>Количество полос</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Рекомендуемая мощность усилителя</name>
+          <value>20-100 Вт</value>
+        </item>
+        <item>
+          <name>Чувствительность</name>
+          <value>86 дБ</value>
+        </item>
+        <item>
+          <name>Импеданс</name>
+          <value>6 Ом</value>
+        </item>
+        <item>
+          <name>Диапазон воспроизводимых частот</name>
+          <value>40-24000 Гц </value>
+        </item>
+        <item>
+          <name>Частота кроссовера</name>
+          <value>1.8 кГц</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Разъем для подключения к усилителю мощности</name>
+          <value>винтовой</value>
+        </item>
+      </items>
+      <items>
+        <name>Излучатели</name>
+        <item>
+          <name>Тип излучателей</name>
+          <value>динамические</value>
+        </item>
+        <item>
+          <name>ВЧ-излучатель</name>
+          <value>25 мм</value>
+        </item>
+        <item>
+          <name>НЧ/СЧ-излучатель</name>
+          <value>165 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Съемная решетка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Магнитная защита</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Варианты отделки</name>
+          <value>клен, венге, черное дерево, вишня, орех, красное дерево</value>
+        </item>
+        <item>
+          <name>Размеры (ШхВхГ)</name>
+          <value>223x364x301 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

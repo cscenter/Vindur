@@ -1,0 +1,1878 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="54606">
+    <title>Sony DPF-C70A</title>
+    <model>DPF-C70A</model>
+    <marka>Sony</marka>
+    <catalog id="1590061">Цифровые фоторамки и фотоальбомы</catalog>
+    
+    <price1>1640</price1>
+    <price2>1950</price2>
+    <description>
+дисплей 7&amp;quot;, разрешение 480x234, формат 16:10, встроенная память: нет, таймер
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Экран</name>
+          <value>диагональ 7'',  480x234, формат 16:10</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+        <item>
+          <name>Выход на наушники</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Встроенная память</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>Secure Digital, Secure Digital HC, Memory Stick Duo, Memory Stick Pro Duo</value>
+        </item>
+      </items>
+      <items>
+        <name>Просмотр изображений</name>
+        <item>
+          <name>Режимы</name>
+          <value>слайдшоу</value>
+        </item>
+        <item>
+          <name>Число режимов смены картинки</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Поддержка изображений</name>
+          <value>JPEG, RAW, BMP, TIFF</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Настенное крепление</name>
+          <value>горизонтальное</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>таймер, часы, календарь</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="54609">
+    <title>Sony DPF-C700</title>
+    <model>DPF-C700</model>
+    <marka>Sony</marka>
+    <catalog id="1590061">Цифровые фоторамки и фотоальбомы</catalog>
+    
+    <price1>1989</price1>
+    <price2>2709</price2>
+    <description>
+дисплей 7&amp;quot;, разрешение 800x480, формат 16:10, встроенная память: нет, поддержка USB Flash, порт USB, таймер
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Экран</name>
+          <value>диагональ 7'',  800x480, формат 15:9</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Выход на наушники</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Встроенная память</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>Secure Digital, Secure Digital HC, Memory Stick Duo, Memory Stick Pro Duo</value>
+        </item>
+        <item>
+          <name>Поддержка USB-накопителей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Просмотр изображений</name>
+        <item>
+          <name>Режимы</name>
+          <value>слайдшоу</value>
+        </item>
+        <item>
+          <name>Число режимов смены картинки</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Поддержка изображений</name>
+          <value>JPEG, RAW, BMP, TIFF</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Настенное крепление</name>
+          <value>горизонтальное</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>таймер, часы, календарь</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>18.88x13.24x6.16 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>283 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="54612">
+    <title>Sony DPF-HD800</title>
+    <model>DPF-HD800</model>
+    <marka>Sony</marka>
+    <catalog id="1590061">Цифровые фоторамки и фотоальбомы</catalog>
+    
+    <price1>4990</price1>
+    <price2>5010</price2>
+    <description>
+дисплей 8&amp;quot;, разрешение 800x480, формат 16:10, встроенная память: Flash, поддержка USB Flash, порт USB, таймер, проигрывание видео, встроенные динамики
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Экран</name>
+          <value>диагональ 8'',  800x480, формат 15:9</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Встроенная память</name>
+          <value>Flash</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>Secure Digital, Secure Digital HC, Secure Digital XC, Memory Stick Duo, Memory Stick Pro Duo</value>
+        </item>
+        <item>
+          <name>Поддержка USB-накопителей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Просмотр изображений</name>
+        <item>
+          <name>Режимы</name>
+          <value>слайдшоу</value>
+        </item>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Поддержка изображений</name>
+          <value>JPEG, RAW, BMP, TIFF</value>
+        </item>
+        <item>
+          <name>Поддержка аудиофайлов</name>
+          <value>MP3, WAV, AAC</value>
+        </item>
+        <item>
+          <name>Поддержка видеокодеков</name>
+          <value>MPEG1, MPEG4, Motion JPEG</value>
+        </item>
+        <item>
+          <name>Поддержка видеоформатов</name>
+          <value>AVI, MOV, MP4</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Настенное крепление</name>
+          <value>вертикальное / горизонтальное</value>
+        </item>
+        <item>
+          <name>Встроенные динамики</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>таймер, часы, календарь, пульт ДУ, поддержка прямой печати</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="54616">
+    <title>Sony DPF-WA700</title>
+    <model>DPF-WA700</model>
+    <marka>Sony</marka>
+    <catalog id="1590061">Цифровые фоторамки и фотоальбомы</catalog>
+    
+    <price1>3408</price1>
+    <price2>5990</price2>
+    <description>
+дисплей 7&amp;quot;, сенсорный, разрешение 800x480, формат 16:9, встроенная память: Flash, 
+1024 Мб встроенной памяти, поддержка USB Flash, порт USB, Wi-Fi, таймер, проигрывание видео, встроенные динамики
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Экран</name>
+          <value>диагональ 7'',  800x480, формат 15:9, сенсорный </value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB, Wi-Fi</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Встроенная память</name>
+          <value>Flash, 
+1024 Мб встроенной памяти</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>Secure Digital, Secure Digital HC, Secure Digital XC, Memory Stick Duo, Memory Stick Pro Duo</value>
+        </item>
+        <item>
+          <name>Поддержка USB-накопителей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Просмотр изображений</name>
+        <item>
+          <name>Режимы</name>
+          <value>слайдшоу</value>
+        </item>
+        <item>
+          <name>Число режимов смены картинки</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Поддержка изображений</name>
+          <value>JPEG</value>
+        </item>
+        <item>
+          <name>Поддержка аудиофайлов</name>
+          <value>MP3, WMA</value>
+        </item>
+        <item>
+          <name>Поддержка видеокодеков</name>
+          <value>MPEG1, MPEG4, Motion JPEG</value>
+        </item>
+        <item>
+          <name>Поддержка видеоформатов</name>
+          <value>AVI, MOV, MP4</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Встроенные динамики</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>таймер</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>интернет-радио vTuner; прогноз погоды AccuWeather</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="54617">
+    <title>Transcend PF830</title>
+    <model>PF830</model>
+    <marka>Transcend</marka>
+    <catalog id="1590061">Цифровые фоторамки и фотоальбомы</catalog>
+    
+    <price1>2796</price1>
+    <price2>3271</price2>
+    <description>
+дисплей 8&amp;quot;, разрешение 800x600, формат 4:3, встроенная память: Flash, 
+2 Гб встроенной памяти, поддержка USB Flash, порт USB, таймер, проигрывание видео, встроенные динамики
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Экран</name>
+          <value>диагональ 8'',  800x600, формат 4:3</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Выход на наушники</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Встроенная память</name>
+          <value>Flash, 
+2 Гб встроенной памяти</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>Secure Digital, Secure Digital HC, Compact Flash, MultiMedia Card, Memory Stick, Memory Stick Pro, Memory Stick Duo, Memory Stick Pro Duo, micro Memory Stick</value>
+        </item>
+        <item>
+          <name>Поддержка USB-накопителей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Просмотр изображений</name>
+        <item>
+          <name>Режимы</name>
+          <value>слайдшоу</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>Zoom, вращение картинки, выбор изображений для слайдшоу</value>
+        </item>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Поддержка изображений</name>
+          <value>JPEG</value>
+        </item>
+        <item>
+          <name>Поддержка аудиофайлов</name>
+          <value>MP3, WMA</value>
+        </item>
+        <item>
+          <name>Поддержка видеокодеков</name>
+          <value>Motion JPEG</value>
+        </item>
+        <item>
+          <name>Поддержка видеоформатов</name>
+          <value>AVI, MOV</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Встроенные динамики</name>
+          <value>1x0.5 Вт</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>таймер, часы, будильник, календарь, пульт ДУ</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>21.2x17.2x3.9 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>510 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="54618">
+    <title>Ritmix RDF-702</title>
+    <model>RDF-702</model>
+    <marka>Ritmix</marka>
+    <catalog id="1590061">Цифровые фоторамки и фотоальбомы</catalog>
+    
+    <price1>1490</price1>
+    <price2>1650</price2>
+    <description>
+дисплей 7&amp;quot;, разрешение 800x480, яркость 300 кд/м2, контраст 300:1, формат 16:9, встроенная память: Flash, 
+1 Мб встроенной памяти, поддержка USB Flash, порт USB, таймер, проигрывание видео, встроенные динамики
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Экран</name>
+          <value>диагональ 7'',  800x480, формат 15:9</value>
+        </item>
+        <item>
+          <name>Яркость</name>
+          <value>300 кд/м&lt;sup&gt;2&lt;/sup&gt;</value>
+        </item>
+        <item>
+          <name>Контрастность</name>
+          <value>300:1</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Встроенная память</name>
+          <value>Flash, 
+1 Мб встроенной памяти</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>Secure Digital, Secure Digital HC, MultiMedia Card</value>
+        </item>
+        <item>
+          <name>Поддержка USB-накопителей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Просмотр изображений</name>
+        <item>
+          <name>Режимы</name>
+          <value>мозаика (предпросмотр, слайдшоу</value>
+        </item>
+        <item>
+          <name>Число режимов смены картинки</name>
+          <value>10</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>Zoom, вращение картинки</value>
+        </item>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Поддержка изображений</name>
+          <value>JPEG</value>
+        </item>
+        <item>
+          <name>Поддержка аудиофайлов</name>
+          <value>MP3, WMA</value>
+        </item>
+        <item>
+          <name>Поддержка видеокодеков</name>
+          <value>MPEG1, MPEG2, MPEG4, Motion JPEG</value>
+        </item>
+        <item>
+          <name>Поддержка видеоформатов</name>
+          <value>AVI</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Встроенные динамики</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>таймер, часы, будильник, календарь, пульт ДУ</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>20.3x14.2x2.2 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>650 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="54622">
+    <title>Ritmix RDF-1002</title>
+    <model>RDF-1002</model>
+    <marka>Ritmix</marka>
+    <catalog id="1590061">Цифровые фоторамки и фотоальбомы</catalog>
+    
+    <price1>2390</price1>
+    <price2>2990</price2>
+    <description>
+дисплей 10&amp;quot;, разрешение 1024x600, формат 17:10, встроенная память: Flash, поддержка USB Flash, порт USB, проигрывание видео, встроенные динамики
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Экран</name>
+          <value>диагональ 10'',  1024x600, формат 16:10</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Выход на наушники</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Встроенная память</name>
+          <value>Flash</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>Secure Digital, Secure Digital HC, MultiMedia Card, Memory Stick</value>
+        </item>
+        <item>
+          <name>Поддержка USB-накопителей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Просмотр изображений</name>
+        <item>
+          <name>Режимы</name>
+          <value>слайдшоу</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>Zoom, вращение картинки</value>
+        </item>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Поддержка изображений</name>
+          <value>JPEG</value>
+        </item>
+        <item>
+          <name>Поддержка аудиофайлов</name>
+          <value>MP3, WMA</value>
+        </item>
+        <item>
+          <name>Поддержка видеокодеков</name>
+          <value>MPEG1, MPEG2, MPEG4, DivX,  XviD</value>
+        </item>
+        <item>
+          <name>Поддержка видеоформатов</name>
+          <value>AVI</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Встроенные динамики</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>часы, будильник, календарь, пульт ДУ</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>27.5x18.6x2.7 см</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>встроенная память 512 Кб; регулировка яркости, контрастности, насыщенности дисплея</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="54630">
+    <title>Transcend PF705</title>
+    <model>PF705</model>
+    <marka>Transcend</marka>
+    <catalog id="1590061">Цифровые фоторамки и фотоальбомы</catalog>
+    
+    <price1>1628</price1>
+    <price2>3672</price2>
+    <description>
+дисплей 7&amp;quot;, разрешение 480x234, формат 16:9, встроенная память: нет, поддержка USB Flash, порт USB, таймер
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Экран</name>
+          <value>диагональ 7'',  480x234, формат 16:9</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Выход на наушники</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Встроенная память</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>Secure Digital, Secure Digital HC, MultiMedia Card, Memory Stick</value>
+        </item>
+        <item>
+          <name>Поддержка USB-накопителей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Просмотр изображений</name>
+        <item>
+          <name>Режимы</name>
+          <value>мозаика (предпросмотр, слайдшоу</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>Zoom, вращение картинки, выбор изображений для слайдшоу</value>
+        </item>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Поддержка изображений</name>
+          <value>JPEG, BMP</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>таймер, часы, календарь</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>20.5x14.3x2.9 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>378 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="54653">
+    <title>Ritmix RDF-801</title>
+    <model>RDF-801</model>
+    <marka>Ritmix</marka>
+    <catalog id="1590061">Цифровые фоторамки и фотоальбомы</catalog>
+    
+    <price1>1640</price1>
+    <price2>1990</price2>
+    <description>
+дисплей 8&amp;quot;, разрешение 800x600, формат 4:3, встроенная память: Flash, поддержка USB Flash
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Экран</name>
+          <value>диагональ 8'',  800x600, формат 4:3</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+        <item>
+          <name>Выход на наушники</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Встроенная память</name>
+          <value>Flash</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>Secure Digital, Secure Digital HC, MultiMedia Card, Memory Stick</value>
+        </item>
+        <item>
+          <name>Поддержка USB-накопителей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Просмотр изображений</name>
+        <item>
+          <name>Режимы</name>
+          <value>слайдшоу</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>Zoom, вращение картинки</value>
+        </item>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Поддержка изображений</name>
+          <value>JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>часы, календарь, пульт ДУ</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>встроенная память 512 кб</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="54654">
+    <title>Ritmix RDF-805</title>
+    <model>RDF-805</model>
+    <marka>Ritmix</marka>
+    <catalog id="1590061">Цифровые фоторамки и фотоальбомы</catalog>
+    
+    <price1>1770</price1>
+    <price2>2709</price2>
+    <description>
+дисплей 8&amp;quot;, разрешение 800x600, формат 4:3, встроенная память: Flash, порт USB, проигрывание видео, встроенные динамики
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Экран</name>
+          <value>диагональ 8'',  800x600, формат 4:3</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Встроенная память</name>
+          <value>Flash</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>Secure Digital, Secure Digital HC, MultiMedia Card, Memory Stick</value>
+        </item>
+      </items>
+      <items>
+        <name>Просмотр изображений</name>
+        <item>
+          <name>Режимы</name>
+          <value>слайдшоу</value>
+        </item>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Поддержка изображений</name>
+          <value>JPEG</value>
+        </item>
+        <item>
+          <name>Поддержка аудиофайлов</name>
+          <value>MP3, WMA</value>
+        </item>
+        <item>
+          <name>Поддержка видеокодеков</name>
+          <value>MPEG1, MPEG2, MPEG4, DivX,  XviD, Motion JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Настенное крепление</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенные динамики</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>часы, календарь, пульт ДУ</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>22.5x20x1.2 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>600 г</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>встроенная память 512 Кб</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="54658">
+    <title>Ritmix RDF-701</title>
+    <model>RDF-701</model>
+    <marka>Ritmix</marka>
+    <catalog id="1590061">Цифровые фоторамки и фотоальбомы</catalog>
+    
+    <price1>1256</price1>
+    <price2>1776</price2>
+    <description>
+дисплей 7&amp;quot;, разрешение 800x480, яркость 300 кд/м2, контраст 300:1, формат 16:9, встроенная память: Flash, 
+1 Мб встроенной памяти, поддержка USB Flash, порт USB
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Экран</name>
+          <value>диагональ 7'',  800x480, формат 15:9</value>
+        </item>
+        <item>
+          <name>Яркость</name>
+          <value>300 кд/м&lt;sup&gt;2&lt;/sup&gt;</value>
+        </item>
+        <item>
+          <name>Контрастность</name>
+          <value>300:1</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Выход на наушники</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Встроенная память</name>
+          <value>Flash, 
+1 Мб встроенной памяти</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>Secure Digital, Secure Digital HC, MultiMedia Card</value>
+        </item>
+        <item>
+          <name>Поддержка USB-накопителей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Просмотр изображений</name>
+        <item>
+          <name>Режимы</name>
+          <value>мозаика (предпросмотр, слайдшоу</value>
+        </item>
+        <item>
+          <name>Число режимов смены картинки</name>
+          <value>10</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>Zoom, вращение картинки</value>
+        </item>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Поддержка изображений</name>
+          <value>JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>часы, календарь, пульт ДУ</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>20.3x14.2x2.2 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>600 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="54660">
+    <title>Sony DPF-C1000</title>
+    <model>DPF-C1000</model>
+    <marka>Sony</marka>
+    <catalog id="1590061">Цифровые фоторамки и фотоальбомы</catalog>
+    
+    <price1>3090</price1>
+    <price2>4490</price2>
+    <description>
+дисплей 10.2&amp;quot;, разрешение 1024x600, формат 16:10, встроенная память: нет, поддержка USB Flash, таймер
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Экран</name>
+          <value>диагональ 10.2'',  1024x600, формат 16:10</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+        <item>
+          <name>Выход на наушники</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Встроенная память</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>Secure Digital, Secure Digital HC, Memory Stick Duo, Memory Stick Pro Duo</value>
+        </item>
+        <item>
+          <name>Поддержка USB-накопителей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Просмотр изображений</name>
+        <item>
+          <name>Режимы</name>
+          <value>слайдшоу</value>
+        </item>
+        <item>
+          <name>Число режимов смены картинки</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Поддержка изображений</name>
+          <value>JPEG, RAW, BMP, TIFF</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Настенное крепление</name>
+          <value>горизонтальное</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>таймер, часы, календарь</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="54673">
+    <title>Digma PF-750</title>
+    <model>PF-750</model>
+    <marka>Digma</marka>
+    <catalog id="1590061">Цифровые фоторамки и фотоальбомы</catalog>
+    
+    <price1>1488</price1>
+    <price2>2473</price2>
+    <description>
+дисплей 7&amp;quot;, разрешение 800x480, формат 16:9, встроенная память: Flash, 
+16 Мб встроенной памяти, поддержка USB Flash, порт USB, таймер, проигрывание видео, встроенные динамики
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Экран</name>
+          <value>диагональ 7'',  800x480, формат 15:9</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Встроенная память</name>
+          <value>Flash, 
+16 Мб встроенной памяти</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>Secure Digital, Secure Digital HC, Secure Digital XC, MultiMedia Card, Memory Stick</value>
+        </item>
+        <item>
+          <name>Поддержка USB-накопителей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Просмотр изображений</name>
+        <item>
+          <name>Режимы</name>
+          <value>мозаика (предпросмотр, слайдшоу</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>Zoom, вращение картинки</value>
+        </item>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Поддержка изображений</name>
+          <value>JPEG</value>
+        </item>
+        <item>
+          <name>Поддержка аудиофайлов</name>
+          <value>MP3, WMA</value>
+        </item>
+        <item>
+          <name>Поддержка видеокодеков</name>
+          <value>MPEG1, MPEG2, MPEG4, DivX,  XviD</value>
+        </item>
+        <item>
+          <name>Поддержка видеоформатов</name>
+          <value>AVI</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Встроенные динамики</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>таймер, часы, будильник, календарь, пульт ДУ</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>20.4x14.3x2.4 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>660 г</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>функция слайд-шоу с одновременным воспроизведением музыки</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="54677">
+    <title>Digma PF-730</title>
+    <model>PF-730</model>
+    <marka>Digma</marka>
+    <catalog id="1590061">Цифровые фоторамки и фотоальбомы</catalog>
+    
+    <price1>1307</price1>
+    <price2>2318</price2>
+    <description>
+дисплей 7&amp;quot;, разрешение 800x480, формат 16:9, встроенная память: Flash, 
+8 Мб встроенной памяти, поддержка USB Flash
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Экран</name>
+          <value>диагональ 7'',  800x480, формат 15:9</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+        <item>
+          <name>Выход на наушники</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Встроенная память</name>
+          <value>Flash, 
+8 Мб встроенной памяти</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>Secure Digital, Secure Digital HC, MultiMedia Card</value>
+        </item>
+        <item>
+          <name>Поддержка USB-накопителей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Просмотр изображений</name>
+        <item>
+          <name>Режимы</name>
+          <value>слайдшоу</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>Zoom, вращение картинки</value>
+        </item>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Поддержка изображений</name>
+          <value>JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>часы, календарь</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>20.4x14.3x2.4 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>680 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="54678">
+    <title>Digma PF-830</title>
+    <model>PF-830</model>
+    <marka>Digma</marka>
+    <catalog id="1590061">Цифровые фоторамки и фотоальбомы</catalog>
+    
+    <price1>1802</price1>
+    <price2>2620</price2>
+    <description>
+дисплей 8&amp;quot;, разрешение 800x600, формат 4:3, встроенная память: Flash, 
+16 Мб встроенной памяти, поддержка USB Flash, порт USB, таймер, проигрывание видео, встроенные динамики
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Экран</name>
+          <value>диагональ 8'',  800x600, формат 4:3</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Встроенная память</name>
+          <value>Flash, 
+16 Мб встроенной памяти</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>Secure Digital, Secure Digital HC, MultiMedia Card, Memory Stick</value>
+        </item>
+        <item>
+          <name>Поддержка USB-накопителей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Просмотр изображений</name>
+        <item>
+          <name>Режимы</name>
+          <value>слайдшоу</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>Zoom, вращение картинки</value>
+        </item>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Поддержка изображений</name>
+          <value>JPEG</value>
+        </item>
+        <item>
+          <name>Поддержка аудиофайлов</name>
+          <value>MP3, WMA</value>
+        </item>
+        <item>
+          <name>Поддержка видеокодеков</name>
+          <value>MPEG1, MPEG2, MPEG4, DivX,  XviD</value>
+        </item>
+        <item>
+          <name>Поддержка видеоформатов</name>
+          <value>AVI</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Встроенные динамики</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>таймер, часы, будильник, календарь, пульт ДУ</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>22.06x17.65x2.25 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>730 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="54683">
+    <title>Ritmix RDF-806</title>
+    <model>RDF-806</model>
+    <marka>Ritmix</marka>
+    <catalog id="1590061">Цифровые фоторамки и фотоальбомы</catalog>
+    
+    <price1>1935</price1>
+    <price2>2300</price2>
+    <description>
+дисплей 8&amp;quot;, разрешение 800x600, формат 4:3, встроенная память: Flash, поддержка USB Flash, порт USB, проигрывание видео, встроенные динамики
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Экран</name>
+          <value>диагональ 8'',  800x600, формат 4:3</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Выход на наушники</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Встроенная память</name>
+          <value>Flash</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>Secure Digital, Secure Digital HC, MultiMedia Card, Memory Stick</value>
+        </item>
+        <item>
+          <name>Поддержка USB-накопителей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Просмотр изображений</name>
+        <item>
+          <name>Режимы</name>
+          <value>слайдшоу</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>Zoom, вращение картинки</value>
+        </item>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Поддержка изображений</name>
+          <value>JPEG</value>
+        </item>
+        <item>
+          <name>Поддержка аудиофайлов</name>
+          <value>MP3, WMA</value>
+        </item>
+        <item>
+          <name>Поддержка видеокодеков</name>
+          <value>MPEG1, MPEG2, MPEG4, DivX,  XviD, Motion JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Встроенные динамики</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>часы, календарь, пульт ДУ, сменные панели</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>26x21.66x3.07 см</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="54702">
+    <title>Ritmix RDF-711</title>
+    <model>RDF-711</model>
+    <marka>Ritmix</marka>
+    <catalog id="1590061">Цифровые фоторамки и фотоальбомы</catalog>
+    
+    <description>
+дисплей 7&amp;quot;, разрешение 800x480, яркость 300 кд/м2, контраст 300:1, формат 16:9, встроенная память: Flash, поддержка USB Flash, порт USB
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Экран</name>
+          <value>диагональ 7'',  800x480, формат 15:9</value>
+        </item>
+        <item>
+          <name>Яркость</name>
+          <value>300 кд/м&lt;sup&gt;2&lt;/sup&gt;</value>
+        </item>
+        <item>
+          <name>Контрастность</name>
+          <value>300:1</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Выход на наушники</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Встроенная память</name>
+          <value>Flash</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>Secure Digital, Secure Digital HC, MultiMedia Card</value>
+        </item>
+        <item>
+          <name>Поддержка USB-накопителей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Просмотр изображений</name>
+        <item>
+          <name>Режимы</name>
+          <value>слайдшоу</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>Zoom, вращение картинки</value>
+        </item>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Поддержка изображений</name>
+          <value>JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>часы, календарь, пульт ДУ</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>22.3x16.2x2.7 см</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>встроенная память 512 Кб</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="54716">
+    <title>Ritmix RDF-706</title>
+    <model>RDF-706</model>
+    <marka>Ritmix</marka>
+    <catalog id="1590061">Цифровые фоторамки и фотоальбомы</catalog>
+    
+    <price1>1790</price1>
+    <price2>1950</price2>
+    <description>
+дисплей 7&amp;quot;, разрешение 800x600, формат 4:3, встроенная память: Flash, поддержка USB Flash, порт USB, проигрывание видео, встроенные динамики
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Экран</name>
+          <value>диагональ 7'',  800x600, формат 4:3</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Выход на наушники</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Встроенная память</name>
+          <value>Flash</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>Secure Digital, Secure Digital HC, MultiMedia Card, Memory Stick, xD-Picture</value>
+        </item>
+        <item>
+          <name>Поддержка USB-накопителей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Просмотр изображений</name>
+        <item>
+          <name>Режимы</name>
+          <value>мозаика (предпросмотр, слайдшоу</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>Zoom, вращение картинки</value>
+        </item>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Поддержка изображений</name>
+          <value>JPEG</value>
+        </item>
+        <item>
+          <name>Поддержка аудиофайлов</name>
+          <value>MP3, WMA</value>
+        </item>
+        <item>
+          <name>Поддержка видеокодеков</name>
+          <value>MPEG1, MPEG2, MPEG4, DivX,  XviD, Motion JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Встроенные динамики</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>часы, календарь, пульт ДУ, сменные панели</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>20.45x18.38x3.06 см</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>память 512 Кб</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="54724">
+    <title>Ritmix RDF-820</title>
+    <model>RDF-820</model>
+    <marka>Ritmix</marka>
+    <catalog id="1590061">Цифровые фоторамки и фотоальбомы</catalog>
+    
+    <price1>2450</price1>
+    <price2>2500</price2>
+    <description>
+дисплей 8&amp;quot;, разрешение 800x600, формат 4:3, встроенная память: Flash, поддержка USB Flash, порт USB, проигрывание видео, встроенные динамики
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Экран</name>
+          <value>диагональ 8'',  800x600, формат 4:3</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Выход на наушники</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Встроенная память</name>
+          <value>Flash</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>Secure Digital, Secure Digital HC, MultiMedia Card, Memory Stick</value>
+        </item>
+        <item>
+          <name>Поддержка USB-накопителей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Просмотр изображений</name>
+        <item>
+          <name>Режимы</name>
+          <value>слайдшоу</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>Zoom, вращение картинки</value>
+        </item>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Поддержка изображений</name>
+          <value>JPEG</value>
+        </item>
+        <item>
+          <name>Поддержка аудиофайлов</name>
+          <value>MP3, WMA</value>
+        </item>
+        <item>
+          <name>Поддержка видеокодеков</name>
+          <value>MPEG1, MPEG2, MPEG4, DivX,  XviD, Motion JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Встроенные динамики</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>часы, календарь, пульт ДУ</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>21.6x17.1x1.76 см</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>встроенная память 512 Кб</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="54738">
+    <title>Inch F8t</title>
+    <model>F8t</model>
+    <marka>Inch</marka>
+    <catalog id="1590061">Цифровые фоторамки и фотоальбомы</catalog>
+    
+    <description>
+дисплей 8&amp;quot;, разрешение 800x600, яркость 250 кд/м2, контраст 500:1, формат 4:3, встроенная память: Flash, 
+2 Гб встроенной памяти, поддержка USB Flash, порт USB, проигрывание видео, встроенные динамики
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Экран</name>
+          <value>диагональ 8'',  800x600, формат 4:3</value>
+        </item>
+        <item>
+          <name>Яркость</name>
+          <value>250 кд/м&lt;sup&gt;2&lt;/sup&gt;</value>
+        </item>
+        <item>
+          <name>Контрастность</name>
+          <value>500:1</value>
+        </item>
+        <item>
+          <name>Питание</name>
+          <value>от сети</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB</value>
+        </item>
+        <item>
+          <name>Выход на наушники</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память</name>
+        <item>
+          <name>Встроенная память</name>
+          <value>Flash, 
+2 Гб встроенной памяти</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>Secure Digital, Secure Digital HC, MultiMedia Card, Memory Stick, Memory Stick Pro</value>
+        </item>
+        <item>
+          <name>Поддержка USB-накопителей</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Просмотр изображений</name>
+        <item>
+          <name>Режимы</name>
+          <value>мозаика (предпросмотр, слайдшоу</value>
+        </item>
+        <item>
+          <name>Проигрывание видео</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддерживаемые форматы</name>
+        <item>
+          <name>Поддержка изображений</name>
+          <value>JPEG</value>
+        </item>
+        <item>
+          <name>Поддержка аудиофайлов</name>
+          <value>MP3, WMA</value>
+        </item>
+        <item>
+          <name>Поддержка видеокодеков</name>
+          <value>MPEG1, MPEG2, MPEG4, DivX,  XviD, Motion JPEG</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Встроенные динамики</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительные возможности</name>
+          <value>часы, будильник, календарь, пульт ДУ</value>
+        </item>
+        <item>
+          <name>Размеры</name>
+          <value>22x18x0.9 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>445 г</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

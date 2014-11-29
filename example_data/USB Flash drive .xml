@@ -1,0 +1,897 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="55741">
+    <title>Silicon Power LuxMini 720</title>
+    <model>LuxMini 720</model>
+    <marka>Silicon Power</marka>
+    <catalog id="488214">USB Flash drive </catalog>
+    
+    <price1>478</price1>
+    <price2>1390</price2>
+    <description>2-32 Гб, USB 2.0</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Объем</name>
+          <value>32 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Работа с данными</name>
+          <value>защита паролем, сжатие данных</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>продается в комплекте с SmartKit security software</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Размеры (ШхДхТ)</name>
+          <value>17x55x7 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55744">
+    <title>Transcend JetFlash 500</title>
+    <model>JetFlash 500</model>
+    <marka>Transcend</marka>
+    <catalog id="488214">USB Flash drive </catalog>
+    
+    <price1>916</price1>
+    <price2>3400</price2>
+    <description>2-64 Гб, USB 2.0, 14-32 Мб/с</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Объем</name>
+          <value>64 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Скорость чтения</name>
+          <value>32 Мб/с</value>
+        </item>
+        <item>
+          <name>Скорость записи</name>
+          <value>18 Мб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Выдвижной разъем</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Размеры (ШхДхТ)</name>
+          <value>21x63x8 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55749">
+    <title>Transcend JetFlash 530</title>
+    <model>JetFlash 530</model>
+    <marka>Transcend</marka>
+    <catalog id="488214">USB Flash drive </catalog>
+    
+    <price1>428</price1>
+    <price2>1590</price2>
+    <description>2-64 Гб, USB 2.0, 14-32 Мб/с</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Объем</name>
+          <value>32 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Скорость чтения</name>
+          <value>21 Мб/с</value>
+        </item>
+        <item>
+          <name>Скорость записи</name>
+          <value>10 Мб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>вес - 10г</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Выдвижной разъем</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхДхТ)</name>
+          <value>21x63x9 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55754">
+    <title>Transcend JetFlash 620</title>
+    <model>JetFlash 620</model>
+    <marka>Transcend</marka>
+    <catalog id="488214">USB Flash drive </catalog>
+    
+    <price1>371</price1>
+    <price2>1200</price2>
+    <description>4-64 Гб, USB 2.0, 32 Мб/с</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Объем</name>
+          <value>16 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Скорость чтения</name>
+          <value>32 Мб/с</value>
+        </item>
+        <item>
+          <name>Скорость записи</name>
+          <value>12 Мб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Работа с данными</name>
+          <value>защита паролем</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>поставляется с JetFlash SecureDrive software</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Размеры (ШхДхТ)</name>
+          <value>19x61x9 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55759">
+    <title>Transcend JetFlash 300</title>
+    <model>JetFlash 300</model>
+    <marka>Transcend</marka>
+    <catalog id="488214">USB Flash drive </catalog>
+    
+    <price1>428</price1>
+    <price2>1200</price2>
+    <description>2-32 Гб, USB 2.0, 18 Мб/с</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Объем</name>
+          <value>32 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Скорость чтения</name>
+          <value>15 Мб/с</value>
+        </item>
+        <item>
+          <name>Скорость записи</name>
+          <value>11 Мб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>вес - 8.5г</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Размеры (ШхДхТ)</name>
+          <value>19x60x9 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55762">
+    <title>ADATA S805</title>
+    <model>S805</model>
+    <marka>ADATA</marka>
+    <catalog id="488214">USB Flash drive </catalog>
+    
+    <price1>350</price1>
+    <price2>1150</price2>
+    <description>4-32 Гб, USB 2.0</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Объем</name>
+          <value>16 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Поддержка ReadyBoost</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>вес-25г</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Выдвижной разъем</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Размеры (ШхДхТ)</name>
+          <value>19x62x3 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55764">
+    <title>Transcend JetFlash 350</title>
+    <model>JetFlash 350</model>
+    <marka>Transcend</marka>
+    <catalog id="488214">USB Flash drive </catalog>
+    
+    <price1>149</price1>
+    <price2>820</price2>
+    <description>4-64 Гб, USB 2.0</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Объем</name>
+          <value>4 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Размеры (ШхДхТ)</name>
+          <value>18x60x8 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55772">
+    <title>Silicon Power LuxMini 710</title>
+    <model>LuxMini 710</model>
+    <marka>Silicon Power</marka>
+    <catalog id="488214">USB Flash drive </catalog>
+    
+    <price1>205</price1>
+    <price2>890</price2>
+    <description>2-32 Гб, USB 2.0</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Объем</name>
+          <value>8 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Работа с данными</name>
+          <value>защита паролем</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Размеры (ШхДхТ)</name>
+          <value>16x50x7 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55775">
+    <title>Transcend JetFlash 370</title>
+    <model>JetFlash 370</model>
+    <marka>Transcend</marka>
+    <catalog id="488214">USB Flash drive </catalog>
+    
+    <price1>140</price1>
+    <price2>568</price2>
+    <description>4-64 Гб, USB 2.0</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Объем</name>
+          <value>4 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Размеры (ШхДхТ)</name>
+          <value>19x60x9 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55776">
+    <title>Transcend JetFlash 330</title>
+    <model>JetFlash 330</model>
+    <marka>Transcend</marka>
+    <catalog id="488214">USB Flash drive </catalog>
+    
+    <price1>441</price1>
+    <price2>2190</price2>
+    <description>2-32 Гб, USB 2.0, 15 Мб/с</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Объем</name>
+          <value>32 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Скорость чтения</name>
+          <value>15 Мб/с</value>
+        </item>
+        <item>
+          <name>Скорость записи</name>
+          <value>11 Мб/с</value>
+        </item>
+        <item>
+          <name>Поддержка ReadyBoost</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Размеры (ШхДхТ)</name>
+          <value>18x60x8 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="55778">
+    <title>Transcend JetFlash V70</title>
+    <model>JetFlash V70</model>
+    <marka>Transcend</marka>
+    <catalog id="488214">USB Flash drive </catalog>
+    
+    <price1>610</price1>
+    <price2>1314</price2>
+    <description>4-32 Гб, USB 2.0, 15 Мб/с, Водонепроницаемый корпус</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Объем</name>
+          <value>32 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Скорость чтения</name>
+          <value>15 Мб/с</value>
+        </item>
+        <item>
+          <name>Скорость записи</name>
+          <value>11 Мб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Работа с данными</name>
+          <value>защита паролем</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>функция защиты данных реализуется через фирменное ПО JetFlash elite V2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Корпус</name>
+          <value>водонепроницаемый</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>резина</value>
+        </item>
+        <item>
+          <name>Размеры (ШхДхТ)</name>
+          <value>22x63x11 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="56058">
+    <title>Silicon Power UFD ULTIMA II-I</title>
+    <model>UFD ULTIMA II-I</model>
+    <marka>Silicon Power</marka>
+    <catalog id="488214">USB Flash drive </catalog>
+    
+    <price1>432</price1>
+    <price2>990</price2>
+    <description>2-64 Гб, USB 2.0</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Объем</name>
+          <value>32 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Работа с данными</name>
+          <value>защита паролем</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Размеры (ШхДхТ)</name>
+          <value>18x61x8 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="56059">
+    <title>Kingston DataTraveler G3</title>
+    <model>DataTraveler G3</model>
+    <marka>Kingston</marka>
+    <catalog id="488214">USB Flash drive </catalog>
+    
+    <price1>534</price1>
+    <price2>1800</price2>
+    <description>2-32 Гб, USB 2.0, 10 Мб/с</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Объем</name>
+          <value>32 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Скорость чтения</name>
+          <value>10 Мб/с</value>
+        </item>
+        <item>
+          <name>Скорость записи</name>
+          <value>5 Мб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Размеры (ШхДхТ)</name>
+          <value>22x66x11 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="56064">
+    <title>Silicon Power Helios 101</title>
+    <model>Helios 101</model>
+    <marka>Silicon Power</marka>
+    <catalog id="488214">USB Flash drive </catalog>
+    
+    <price1>164</price1>
+    <price2>200</price2>
+    <description>2-32 Гб, USB 2.0</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Объем</name>
+          <value>2 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>вес - 10г</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Размеры (ШхДхТ)</name>
+          <value>19x56x7 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="56065">
+    <title>Transcend JetFlash V85</title>
+    <model>JetFlash V85</model>
+    <marka>Transcend</marka>
+    <catalog id="488214">USB Flash drive </catalog>
+    
+    <price1>292</price1>
+    <price2>790</price2>
+    <description>2-32 Гб, USB 2.0, 14.5 Мб/с, Аппаратное шифрование данных</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Объем</name>
+          <value>8 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Скорость чтения</name>
+          <value>10 Мб/с</value>
+        </item>
+        <item>
+          <name>Скорость записи</name>
+          <value>3 Мб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Работа с данными</name>
+          <value>аппаратное шифрование, резервное копирование</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Размеры (ШхДхТ)</name>
+          <value>7x50x16 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="56067">
+    <title>ADATA C008</title>
+    <model>C008</model>
+    <marka>ADATA</marka>
+    <catalog id="488214">USB Flash drive </catalog>
+    
+    <price1>954</price1>
+    <price2>1560</price2>
+    <description>4-64 Гб, USB 2.0</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Объем</name>
+          <value>64 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Выдвижной разъем</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Размеры (ШхДхТ)</name>
+          <value>20x60x9 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="56069">
+    <title>Apacer Handy Steno AH326</title>
+    <model>Handy Steno AH326</model>
+    <marka>Apacer</marka>
+    <catalog id="488214">USB Flash drive </catalog>
+    
+    <price1>1450</price1>
+    <price2>4230</price2>
+    <description>2-64 Гб, USB 2.0</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Объем</name>
+          <value>64 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Работа с данными</name>
+          <value>защита паролем</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>вес - 8г; ПО - Apacer Compression Explorer</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Выдвижной разъем</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхДхТ)</name>
+          <value>21x66x9 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="56072">
+    <title>Kingston DataTraveler 100 G2</title>
+    <model>DataTraveler 100 G2</model>
+    <marka>Kingston</marka>
+    <catalog id="488214">USB Flash drive </catalog>
+    
+    <price1>159</price1>
+    <price2>390</price2>
+    <description>4-32 Гб, USB 2.0, 10 Мб/с</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Объем</name>
+          <value>4 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Выдвижной разъем</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШхДхТ)</name>
+          <value>22x70x13 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="56077">
+    <title>ADATA C903</title>
+    <model>C903</model>
+    <marka>ADATA</marka>
+    <catalog id="488214">USB Flash drive </catalog>
+    
+    <price1>239</price1>
+    <price2>400</price2>
+    <description>4-32 Гб, USB 2.0, 18-30 Мб/с</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Объем</name>
+          <value>4 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Скорость чтения</name>
+          <value>18 Мб/с</value>
+        </item>
+        <item>
+          <name>Скорость записи</name>
+          <value>5 Мб/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>вес-16г</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл</value>
+        </item>
+        <item>
+          <name>Размеры (ШхДхТ)</name>
+          <value>19x57x11 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="56083">
+    <title>Verbatim Micro USB Drive</title>
+    <model>Micro USB Drive</model>
+    <marka>Verbatim</marka>
+    <catalog id="488214">USB Flash drive </catalog>
+    
+    <price1>247</price1>
+    <price2>727</price2>
+    <description>2-32 Гб, USB 2.0, 10 Мб/с</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Объем</name>
+          <value>16 Гб</value>
+        </item>
+        <item>
+          <name>Интерфейс</name>
+          <value>USB 2.0</value>
+        </item>
+        <item>
+          <name>Скорость чтения</name>
+          <value>10 Мб/с</value>
+        </item>
+        <item>
+          <name>Скорость записи</name>
+          <value>4 Мб/с</value>
+        </item>
+        <item>
+          <name>Поддержка ReadyBoost</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Особенности</name>
+        <item>
+          <name>Работа с данными</name>
+          <value>защита паролем</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>вес-1.2г</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Размеры (ШхДхТ)</name>
+          <value>12x30x2 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

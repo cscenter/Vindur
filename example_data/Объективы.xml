@@ -1,0 +1,1898 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="49736">
+    <title>Canon EF 50mm f/1.8 II</title>
+    <model>EF 50mm f/1.8 II</model>
+    <marka>Canon</marka>
+    <catalog id="966791">Объективы</catalog>
+    
+    <price1>3149</price1>
+    <price2>5916</price2>
+    <description>
+стандартный, автофокус, размеры (DxL): 68.2x41 мм, вес: 130 г, крепление: Canon EF
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип объектива</name>
+          <value>стандартный</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>50 мм</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>F1.80</value>
+        </item>
+        <item>
+          <name>Минимальная диафрагма</name>
+          <value>F22</value>
+        </item>
+        <item>
+          <name>Крепление</name>
+          <value>Canon EF</value>
+        </item>
+        <item>
+          <name>Автоматическая фокусировка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Число элементов / групп элементов</name>
+          <value>6 / 5</value>
+        </item>
+        <item>
+          <name>Число лепестков диафрагмы</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Размеры (D x L)</name>
+          <value>68.2 x 41 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>130 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры съемки</name>
+        <item>
+          <name>Угол обзора</name>
+          <value>46 град.мин</value>
+        </item>
+        <item>
+          <name>Минимальное расстояние фокусировки</name>
+          <value>0.45 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Диаметр резьбы для светофильтра</name>
+          <value>52 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="49738">
+    <title>Canon EF 70-300mm f/4.0-5.6 IS USM</title>
+    <model>EF 70-300mm f/4.0-5.6 IS USM</model>
+    <marka>Canon</marka>
+    <catalog id="966791">Объективы</catalog>
+    
+    <price1>12540</price1>
+    <price2>26000</price2>
+    <description>
+телеобъектив, Zoom, стабилизатор изображения, автофокус, ультразвуковой мотор, режим макросъемки, размеры (DxL): 76.5x142.8 мм, вес: 630 г, крепление: Canon EF
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип объектива</name>
+          <value>телеобъектив Zoom</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>70 - 300 мм</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>F4 - F5.60</value>
+        </item>
+        <item>
+          <name>Минимальная диафрагма</name>
+          <value>F45</value>
+        </item>
+        <item>
+          <name>Крепление</name>
+          <value>Canon EF</value>
+        </item>
+        <item>
+          <name>Стабилизация изображения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим макросъемки</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Число элементов / групп элементов</name>
+          <value>15 / 10</value>
+        </item>
+        <item>
+          <name>Число низкодисперсных элементов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Число лепестков диафрагмы</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Размеры (D x L)</name>
+          <value>76.5 x 142.8 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>630 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры съемки</name>
+        <item>
+          <name>Угол обзора</name>
+          <value>8.15 - 34 град.мин</value>
+        </item>
+        <item>
+          <name>Минимальное расстояние фокусировки</name>
+          <value>1.5 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Ультразвуковой мотор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диаметр резьбы для светофильтра</name>
+          <value>58 мм</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>3-ступенчатая система стабилизации.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="49741">
+    <title>Nikon 18-105mm f/3.5-5.6G AF-S ED DX VR Nikkor</title>
+    <model>18-105mm f/3.5-5.6G AF-S ED DX VR Nikkor</model>
+    <marka>Nikon</marka>
+    <catalog id="966791">Объективы</catalog>
+    
+    <price1>7290</price1>
+    <price2>15100</price2>
+    <description>
+стандартный, Zoom, неполнокадровый, стабилизатор изображения, автофокус, ультразвуковой мотор, асферические линзы, размеры (DxL): 76x89 мм, вес: 420 г, крепление: Nikon F
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип объектива</name>
+          <value>стандартный Zoom</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>18 - 105 мм</value>
+        </item>
+        <item>
+          <name>Для неполнокадровых фотоаппаратов</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>F3.50 - F5.60</value>
+        </item>
+        <item>
+          <name>Минимальная диафрагма</name>
+          <value>F22</value>
+        </item>
+        <item>
+          <name>Крепление</name>
+          <value>Nikon F</value>
+        </item>
+        <item>
+          <name>Фокусировочный мотор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Стабилизация изображения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая фокусировка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Число элементов / групп элементов</name>
+          <value>15 / 11</value>
+        </item>
+        <item>
+          <name>Число асферических элементов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Число низкодисперсных элементов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Число лепестков диафрагмы</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Размеры (D x L)</name>
+          <value>76 x 89 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>420 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры съемки</name>
+        <item>
+          <name>Угол обзора</name>
+          <value>15.20 - 76 град.мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Ультразвуковой мотор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диаметр резьбы для светофильтра</name>
+          <value>67 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="49753">
+    <title>Canon EF 17-40mm f/4L USM</title>
+    <model>EF 17-40mm f/4L USM</model>
+    <marka>Canon</marka>
+    <catalog id="966791">Объективы</catalog>
+    
+    <price1>21560</price1>
+    <price2>38609</price2>
+    <description>
+широкоугольный, Zoom, автофокус, ультразвуковой мотор, размеры (DxL): 83.5x96.8 мм, вес: 500 г, крепление: Canon EF
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип объектива</name>
+          <value>широкоугольный Zoom</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>17 - 40 мм</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>F4</value>
+        </item>
+        <item>
+          <name>Минимальная диафрагма</name>
+          <value>F22</value>
+        </item>
+        <item>
+          <name>Крепление</name>
+          <value>Canon EF</value>
+        </item>
+        <item>
+          <name>Автоматическая фокусировка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Число элементов / групп элементов</name>
+          <value>12 / 9</value>
+        </item>
+        <item>
+          <name>Число лепестков диафрагмы</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Размеры (D x L)</name>
+          <value>83.5 x 96.8 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>500 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры съемки</name>
+        <item>
+          <name>Угол обзора</name>
+          <value>57 - 104 град.мин</value>
+        </item>
+        <item>
+          <name>Минимальное расстояние фокусировки</name>
+          <value>0.28 м</value>
+        </item>
+        <item>
+          <name>Масштаб в режиме макросъемки</name>
+          <value>0.24</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Ультразвуковой мотор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диаметр резьбы для светофильтра</name>
+          <value>77 мм</value>
+        </item>
+        <item>
+          <name>Совместимые фотокамеры</name>
+          <value>EOS-1Ds Mark II, EOS-1D Mark II N, EOS-1V, EOS: 300X, 3, 30V Date, 3000V, 5D, 30D, 400D, 350D, 450D, 500D, 550D, 60D, EOS 7D, EOS 3D, EOS 6D, 600D, 650D</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>Высокоустойчивы к проникновению пыли и влаги, бленда EW-83E,тип мягкого чехла LP1319, тип удлинительных колец EF12, EF25, переход на ручную фокусировку в любой момент.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="49758">
+    <title>Canon EF-S 18-200mm f/3.5-5.6 IS</title>
+    <model>EF-S 18-200mm f/3.5-5.6 IS</model>
+    <marka>Canon</marka>
+    <catalog id="966791">Объективы</catalog>
+    
+    <price1>12680</price1>
+    <price2>26729</price2>
+    <description>
+стандартный, Zoom, неполнокадровый, стабилизатор изображения, автофокус, режим макросъемки, размеры (DxL): 79x102 мм, вес: 600 г, крепление: Canon EF-S
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип объектива</name>
+          <value>стандартный Zoom</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>18 - 200 мм</value>
+        </item>
+        <item>
+          <name>Для неполнокадровых фотоаппаратов</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>F3.50 - F5.60</value>
+        </item>
+        <item>
+          <name>Крепление</name>
+          <value>Canon EF-S</value>
+        </item>
+        <item>
+          <name>Стабилизация изображения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим макросъемки</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Число элементов / групп элементов</name>
+          <value>16 / 12</value>
+        </item>
+        <item>
+          <name>Число лепестков диафрагмы</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Размеры (D x L)</name>
+          <value>79 x 102 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>600 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры съемки</name>
+        <item>
+          <name>Угол обзора</name>
+          <value>8 - 74 град.мин</value>
+        </item>
+        <item>
+          <name>Минимальное расстояние фокусировки</name>
+          <value>0.45 м</value>
+        </item>
+        <item>
+          <name>Минимальное расстояние фокусировки в режиме макросъемки</name>
+          <value>0.45 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Диаметр резьбы для светофильтра</name>
+          <value>72 мм</value>
+        </item>
+        <item>
+          <name>Совместимые фотокамеры</name>
+          <value>для цифровых фотокамер Canon EOS</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="49760">
+    <title>Canon EF 50mm f/1.4 USM</title>
+    <model>EF 50mm f/1.4 USM</model>
+    <marka>Canon</marka>
+    <catalog id="966791">Объективы</catalog>
+    
+    <price1>10890</price1>
+    <price2>16023</price2>
+    <description>
+стандартный, автофокус, ультразвуковой мотор, асферические линзы, размеры (DxL): 73.8x50.5 мм, вес: 290 г, крепление: Canon EF
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип объектива</name>
+          <value>стандартный</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>50 мм</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>F1.40</value>
+        </item>
+        <item>
+          <name>Минимальная диафрагма</name>
+          <value>F22</value>
+        </item>
+        <item>
+          <name>Крепление</name>
+          <value>Canon EF</value>
+        </item>
+        <item>
+          <name>Автоматическая фокусировка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Число элементов / групп элементов</name>
+          <value>7 / 6</value>
+        </item>
+        <item>
+          <name>Число асферических элементов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Число лепестков диафрагмы</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Размеры (D x L)</name>
+          <value>73.8 x 50.5 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>290 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры съемки</name>
+        <item>
+          <name>Угол обзора</name>
+          <value>46 град.мин</value>
+        </item>
+        <item>
+          <name>Минимальное расстояние фокусировки</name>
+          <value>0.45 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Ультразвуковой мотор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диаметр резьбы для светофильтра</name>
+          <value>58 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="49765">
+    <title>Canon EF 85mm f/1.8 USM</title>
+    <model>EF 85mm f/1.8 USM</model>
+    <marka>Canon</marka>
+    <catalog id="966791">Объективы</catalog>
+    
+    <price1>11980</price1>
+    <price2>19990</price2>
+    <description>
+стандартный, автофокус, ультразвуковой мотор, размеры (DxL): 75x71.5 мм, вес: 425 г, крепление: Canon EF
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип объектива</name>
+          <value>стандартный</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>85 мм</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>F1.80</value>
+        </item>
+        <item>
+          <name>Минимальная диафрагма</name>
+          <value>F22</value>
+        </item>
+        <item>
+          <name>Крепление</name>
+          <value>Canon EF</value>
+        </item>
+        <item>
+          <name>Автоматическая фокусировка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Число элементов / групп элементов</name>
+          <value>9 / 7</value>
+        </item>
+        <item>
+          <name>Число лепестков диафрагмы</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Размеры (D x L)</name>
+          <value>75 x 71.5 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>425 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры съемки</name>
+        <item>
+          <name>Угол обзора</name>
+          <value>28.30 град.мин</value>
+        </item>
+        <item>
+          <name>Минимальное расстояние фокусировки</name>
+          <value>0.85 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Ультразвуковой мотор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диаметр резьбы для светофильтра</name>
+          <value>58 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="49778">
+    <title>Nikon 50mm f/1.4G AF-S Nikkor</title>
+    <model>50mm f/1.4G AF-S Nikkor</model>
+    <marka>Nikon</marka>
+    <catalog id="966791">Объективы</catalog>
+    
+    <price1>11180</price1>
+    <price2>17500</price2>
+    <description>
+стандартный, автофокус, ультразвуковой мотор, размеры (DxL): 73.5x54 мм, вес: 280 г, крепление: Nikon F
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип объектива</name>
+          <value>стандартный</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>50 мм</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>F1.40</value>
+        </item>
+        <item>
+          <name>Минимальная диафрагма</name>
+          <value>F16</value>
+        </item>
+        <item>
+          <name>Крепление</name>
+          <value>Nikon F</value>
+        </item>
+        <item>
+          <name>Фокусировочный мотор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая фокусировка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Число элементов / групп элементов</name>
+          <value>8 / 7</value>
+        </item>
+        <item>
+          <name>Число лепестков диафрагмы</name>
+          <value>9</value>
+        </item>
+        <item>
+          <name>Размеры (D x L)</name>
+          <value>73.5 x 54 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>280 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры съемки</name>
+        <item>
+          <name>Угол обзора</name>
+          <value>46 град.мин</value>
+        </item>
+        <item>
+          <name>Минимальное расстояние фокусировки</name>
+          <value>0.45 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Ультразвуковой мотор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диаметр резьбы для светофильтра</name>
+          <value>58 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="50066">
+    <title>Nikon 24-70mm f/2.8G ED AF-S Nikkor</title>
+    <model>24-70mm f/2.8G ED AF-S Nikkor</model>
+    <marka>Nikon</marka>
+    <catalog id="966791">Объективы</catalog>
+    
+    <price1>45750</price1>
+    <price2>65295</price2>
+    <description>
+стандартный, Zoom, автофокус, ультразвуковой мотор, асферические линзы, размеры (DxL): 83x133 мм, вес: 900 г, крепление: Nikon F
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип объектива</name>
+          <value>стандартный Zoom</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>24 - 70 мм</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>F2.80</value>
+        </item>
+        <item>
+          <name>Минимальная диафрагма</name>
+          <value>F22</value>
+        </item>
+        <item>
+          <name>Крепление</name>
+          <value>Nikon F</value>
+        </item>
+        <item>
+          <name>Фокусировочный мотор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая фокусировка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Число элементов / групп элементов</name>
+          <value>15 / 11</value>
+        </item>
+        <item>
+          <name>Число асферических элементов</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Число лепестков диафрагмы</name>
+          <value>9</value>
+        </item>
+        <item>
+          <name>Размеры (D x L)</name>
+          <value>83 x 133 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>900 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры съемки</name>
+        <item>
+          <name>Угол обзора</name>
+          <value>34.20 - 84 град.мин</value>
+        </item>
+        <item>
+          <name>Минимальное расстояние фокусировки</name>
+          <value>0.38 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Ультразвуковой мотор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диаметр резьбы для светофильтра</name>
+          <value>77 мм</value>
+        </item>
+        <item>
+          <name>Совместимые фотокамеры</name>
+          <value>для цифровых камер</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>Резиновая уплотнительная прокладка вокруг байонета. Возможность мгновенной корректировки фокусировки вручную (режим M/A). Максимальный масштаб съемки при репродуцировании 1/3,7.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="50069">
+    <title>Canon EF 24-105mm f/4L IS USM</title>
+    <model>EF 24-105mm f/4L IS USM</model>
+    <marka>Canon</marka>
+    <catalog id="966791">Объективы</catalog>
+    
+    <price1>21550</price1>
+    <price2>55999</price2>
+    <description>
+стандартный, Zoom, стабилизатор изображения, автофокус, ультразвуковой мотор, размеры (DxL): 83.5x107 мм, вес: 670 г, крепление: Canon EF
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип объектива</name>
+          <value>стандартный Zoom</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>24 - 105 мм</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>F4</value>
+        </item>
+        <item>
+          <name>Минимальная диафрагма</name>
+          <value>F22</value>
+        </item>
+        <item>
+          <name>Крепление</name>
+          <value>Canon EF</value>
+        </item>
+        <item>
+          <name>Стабилизация изображения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая фокусировка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Число элементов / групп элементов</name>
+          <value>18 / 13</value>
+        </item>
+        <item>
+          <name>Число лепестков диафрагмы</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Размеры (D x L)</name>
+          <value>83.5 x 107 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>670 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры съемки</name>
+        <item>
+          <name>Угол обзора</name>
+          <value>23.20 - 84 град.мин</value>
+        </item>
+        <item>
+          <name>Минимальное расстояние фокусировки</name>
+          <value>0.45 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Ультразвуковой мотор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диаметр резьбы для светофильтра</name>
+          <value>77 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="50070">
+    <title>Canon EF 100mm f/2.8L Macro IS USM</title>
+    <model>EF 100mm f/2.8L Macro IS USM</model>
+    <marka>Canon</marka>
+    <catalog id="966791">Объективы</catalog>
+    
+    <price1>28180</price1>
+    <price2>46000</price2>
+    <description>
+макрообъектив, стабилизатор изображения, автофокус, ультразвуковой мотор, размеры (DxL): 77.7x123 мм, вес: 625 г, крепление: Canon EF
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип объектива</name>
+          <value>макрообъектив</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>100 мм</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>F2.80</value>
+        </item>
+        <item>
+          <name>Минимальная диафрагма</name>
+          <value>F32</value>
+        </item>
+        <item>
+          <name>Крепление</name>
+          <value>Canon EF</value>
+        </item>
+        <item>
+          <name>Стабилизация изображения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим макросъемки</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Число элементов / групп элементов</name>
+          <value>15 / 12</value>
+        </item>
+        <item>
+          <name>Число лепестков диафрагмы</name>
+          <value>9</value>
+        </item>
+        <item>
+          <name>Размеры (D x L)</name>
+          <value>77.7 x 123 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>625 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры съемки</name>
+        <item>
+          <name>Минимальное расстояние фокусировки</name>
+          <value>0.3 м</value>
+        </item>
+        <item>
+          <name>Минимальное расстояние фокусировки в режиме макросъемки</name>
+          <value>0.3 м</value>
+        </item>
+        <item>
+          <name>Масштаб в режиме макросъемки</name>
+          <value>1</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Ультразвуковой мотор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диаметр резьбы для светофильтра</name>
+          <value>67 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="50072">
+    <title>Nikon 50mm f/1.8D AF Nikkor</title>
+    <model>50mm f/1.8D AF Nikkor</model>
+    <marka>Nikon</marka>
+    <catalog id="966791">Объективы</catalog>
+    
+    <price1>3700</price1>
+    <price2>7990</price2>
+    <description>
+стандартный, автофокус, размеры (DxL): 63.5x39 мм, вес: 155 г, крепление: Nikon F
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип объектива</name>
+          <value>стандартный</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>50 мм</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>F1.80</value>
+        </item>
+        <item>
+          <name>Минимальная диафрагма</name>
+          <value>F22</value>
+        </item>
+        <item>
+          <name>Крепление</name>
+          <value>Nikon F</value>
+        </item>
+        <item>
+          <name>Фокусировочный мотор</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Автоматическая фокусировка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Число элементов / групп элементов</name>
+          <value>6 / 5</value>
+        </item>
+        <item>
+          <name>Число лепестков диафрагмы</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Размеры (D x L)</name>
+          <value>63.5 x 39 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>155 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры съемки</name>
+        <item>
+          <name>Угол обзора</name>
+          <value>46 град.мин</value>
+        </item>
+        <item>
+          <name>Минимальное расстояние фокусировки</name>
+          <value>0.45 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Диаметр резьбы для светофильтра</name>
+          <value>52 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="50074">
+    <title>Canon EF 85mm f/1.2L II USM</title>
+    <model>EF 85mm f/1.2L II USM</model>
+    <marka>Canon</marka>
+    <catalog id="966791">Объективы</catalog>
+    
+    <price1>65590</price1>
+    <price2>89990</price2>
+    <description>
+стандартный, автофокус, ультразвуковой мотор, асферические линзы, размеры (DxL): 91.5x84 мм, вес: 1025 г, крепление: Canon EF
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип объектива</name>
+          <value>стандартный</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>85 мм</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>F1.20</value>
+        </item>
+        <item>
+          <name>Минимальная диафрагма</name>
+          <value>F16</value>
+        </item>
+        <item>
+          <name>Крепление</name>
+          <value>Canon EF</value>
+        </item>
+        <item>
+          <name>Автоматическая фокусировка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Число элементов / групп элементов</name>
+          <value>8 / 7</value>
+        </item>
+        <item>
+          <name>Число асферических элементов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Число лепестков диафрагмы</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Размеры (D x L)</name>
+          <value>91.5 x 84 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1025 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры съемки</name>
+        <item>
+          <name>Угол обзора</name>
+          <value>28.30 град.мин</value>
+        </item>
+        <item>
+          <name>Минимальное расстояние фокусировки</name>
+          <value>0.95 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Ультразвуковой мотор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диаметр резьбы для светофильтра</name>
+          <value>72 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="50076">
+    <title>Nikon 70-200mm f/2.8G ED AF-S VR II Zoom-Nikkor</title>
+    <model>70-200mm f/2.8G ED AF-S VR II Zoom-Nikkor</model>
+    <marka>Nikon</marka>
+    <catalog id="966791">Объективы</catalog>
+    
+    <price1>65150</price1>
+    <price2>92210</price2>
+    <description>
+телеобъектив, Zoom, стабилизатор изображения, автофокус, ультразвуковой мотор, размеры (DxL): 87x209 мм, вес: 1540 г, крепление: Nikon F
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип объектива</name>
+          <value>телеобъектив Zoom</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>70 - 200 мм</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>F2.80</value>
+        </item>
+        <item>
+          <name>Минимальная диафрагма</name>
+          <value>F22</value>
+        </item>
+        <item>
+          <name>Крепление</name>
+          <value>Nikon F</value>
+        </item>
+        <item>
+          <name>Фокусировочный мотор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Стабилизация изображения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая фокусировка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Число элементов / групп элементов</name>
+          <value>21 / 16</value>
+        </item>
+        <item>
+          <name>Число низкодисперсных элементов</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Число лепестков диафрагмы</name>
+          <value>9</value>
+        </item>
+        <item>
+          <name>Размеры (D x L)</name>
+          <value>87 x 209 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1540 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры съемки</name>
+        <item>
+          <name>Угол обзора</name>
+          <value>12.20 - 34.20 град.мин</value>
+        </item>
+        <item>
+          <name>Минимальное расстояние фокусировки</name>
+          <value>1.4 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Ультразвуковой мотор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диаметр резьбы для светофильтра</name>
+          <value>77 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="50077">
+    <title>Canon EF 50mm f/1.2L USM</title>
+    <model>EF 50mm f/1.2L USM</model>
+    <marka>Canon</marka>
+    <catalog id="966791">Объективы</catalog>
+    
+    <price1>46790</price1>
+    <price2>69810</price2>
+    <description>
+стандартный, автофокус, ультразвуковой мотор, размеры (DxL): 85.4x65.5 мм, вес: 545 г, крепление: Canon EF
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип объектива</name>
+          <value>стандартный</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>50 мм</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>F1.20</value>
+        </item>
+        <item>
+          <name>Минимальная диафрагма</name>
+          <value>F16</value>
+        </item>
+        <item>
+          <name>Крепление</name>
+          <value>Canon EF</value>
+        </item>
+        <item>
+          <name>Автоматическая фокусировка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Число элементов / групп элементов</name>
+          <value>8 / 6</value>
+        </item>
+        <item>
+          <name>Число лепестков диафрагмы</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Размеры (D x L)</name>
+          <value>85.4 x 65.5 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>545 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры съемки</name>
+        <item>
+          <name>Угол обзора</name>
+          <value>46 град.мин</value>
+        </item>
+        <item>
+          <name>Минимальное расстояние фокусировки</name>
+          <value>0.45 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Ультразвуковой мотор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диаметр резьбы для светофильтра</name>
+          <value>72 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="50079">
+    <title>Canon EF-S 17-55mm f/2.8 IS USM</title>
+    <model>EF-S 17-55mm f/2.8 IS USM</model>
+    <marka>Canon</marka>
+    <catalog id="966791">Объективы</catalog>
+    
+    <price1>24690</price1>
+    <price2>44880</price2>
+    <description>
+стандартный, Zoom, неполнокадровый, стабилизатор изображения, автофокус, ультразвуковой мотор, асферические линзы, размеры (DxL): 83.5x110.6 мм, вес: 645 г, крепление: Canon EF-S
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип объектива</name>
+          <value>стандартный Zoom</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>17 - 55 мм</value>
+        </item>
+        <item>
+          <name>Для неполнокадровых фотоаппаратов</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>F2.80</value>
+        </item>
+        <item>
+          <name>Минимальная диафрагма</name>
+          <value>F22</value>
+        </item>
+        <item>
+          <name>Крепление</name>
+          <value>Canon EF-S</value>
+        </item>
+        <item>
+          <name>Стабилизация изображения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая фокусировка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Число элементов / групп элементов</name>
+          <value>19 / 12</value>
+        </item>
+        <item>
+          <name>Число асферических элементов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Число низкодисперсных элементов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Число лепестков диафрагмы</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Размеры (D x L)</name>
+          <value>83.5 x 110.6 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>645 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры съемки</name>
+        <item>
+          <name>Угол обзора</name>
+          <value>27.50 - 78.30 град.мин</value>
+        </item>
+        <item>
+          <name>Минимальное расстояние фокусировки</name>
+          <value>0.35 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Ультразвуковой мотор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диаметр резьбы для светофильтра</name>
+          <value>77 мм</value>
+        </item>
+        <item>
+          <name>Совместимые фотокамеры</name>
+          <value>EOS 30D, EOS 350D, EOS 20D, 300D, 400D</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>3-ступенчатый стабилизатор изображения</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="50086">
+    <title>Canon EF-S 17-85mm f/4-5.6 IS USM</title>
+    <model>EF-S 17-85mm f/4-5.6 IS USM</model>
+    <marka>Canon</marka>
+    <catalog id="966791">Объективы</catalog>
+    
+    <price1>8600</price1>
+    <price2>23119</price2>
+    <description>
+стандартный, Zoom, неполнокадровый, стабилизатор изображения, автофокус, ультразвуковой мотор, режим макросъемки, размеры (DxL): 78.5x92 мм, вес: 475 г, крепление: Canon EF-S
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип объектива</name>
+          <value>стандартный Zoom</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>17 - 85 мм</value>
+        </item>
+        <item>
+          <name>Для неполнокадровых фотоаппаратов</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>F4 - F5.60</value>
+        </item>
+        <item>
+          <name>Минимальная диафрагма</name>
+          <value>F32</value>
+        </item>
+        <item>
+          <name>Крепление</name>
+          <value>Canon EF-S</value>
+        </item>
+        <item>
+          <name>Стабилизация изображения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим макросъемки</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Число элементов / групп элементов</name>
+          <value>17 / 12</value>
+        </item>
+        <item>
+          <name>Число лепестков диафрагмы</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Размеры (D x L)</name>
+          <value>78.5 x 92 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>475 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры съемки</name>
+        <item>
+          <name>Угол обзора</name>
+          <value>18 - 78 град.мин</value>
+        </item>
+        <item>
+          <name>Минимальное расстояние фокусировки</name>
+          <value>0.35 м</value>
+        </item>
+        <item>
+          <name>Масштаб в режиме макросъемки</name>
+          <value>0.2</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Ультразвуковой мотор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диаметр резьбы для светофильтра</name>
+          <value>67 мм</value>
+        </item>
+        <item>
+          <name>Совместимые фотокамеры</name>
+          <value>Canon EOS 300D, 350D, 20D и все будущие фотоаппараты Canon EOS, поддерживающие объективы EF-S</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>Формат изображения APS-C, Эквивалентное фокусное расстояние для 35-мм плёнки 27-136 мм; насадки: удлинительные кольца EF12 II, EF25 II, бленда EW-73B; мягкий чехол LP1116, ручная фокусировка в любой момент, передача данных о расстоянии.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="50087">
+    <title>Canon EF 70-200mm f/4L USM</title>
+    <model>EF 70-200mm f/4L USM</model>
+    <marka>Canon</marka>
+    <catalog id="966791">Объективы</catalog>
+    
+    <price1>19570</price1>
+    <price2>31679</price2>
+    <description>
+телеобъектив, Zoom, автофокус, ультразвуковой мотор, размеры (DxL): 76x172 мм, вес: 705 г, крепление: Canon EF
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип объектива</name>
+          <value>телеобъектив Zoom</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>70 - 200 мм</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>F4</value>
+        </item>
+        <item>
+          <name>Минимальная диафрагма</name>
+          <value>F32</value>
+        </item>
+        <item>
+          <name>Крепление</name>
+          <value>Canon EF</value>
+        </item>
+        <item>
+          <name>Автоматическая фокусировка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Число элементов / групп элементов</name>
+          <value>16 / 13</value>
+        </item>
+        <item>
+          <name>Число низкодисперсных элементов</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Число лепестков диафрагмы</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Размеры (D x L)</name>
+          <value>76 x 172 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>705 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры съемки</name>
+        <item>
+          <name>Угол обзора</name>
+          <value>12 - 34 град.мин</value>
+        </item>
+        <item>
+          <name>Минимальное расстояние фокусировки</name>
+          <value>1.2 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Ультразвуковой мотор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диаметр резьбы для светофильтра</name>
+          <value>67 мм</value>
+        </item>
+        <item>
+          <name>Совместимые фотокамеры</name>
+          <value>Canon EOS 300D, 350D, 10D, 20D и все другие фотоаппараты Canon EOS, а также Kodak DCS Pro SLR/c</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>Мягкий чехол LZ1224, бленда ET-74, крышки объектива E-67U, ручная фокусировка в любой момент, передача данных о расстоянии.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="50096">
+    <title>Canon EF 28-135mm f/3.5-5.6 IS USM</title>
+    <model>EF 28-135mm f/3.5-5.6 IS USM</model>
+    <marka>Canon</marka>
+    <catalog id="966791">Объективы</catalog>
+    
+    <price1>10135</price1>
+    <price2>24993</price2>
+    <description>
+стандартный, Zoom, стабилизатор изображения, автофокус, ультразвуковой мотор, режим макросъемки, асферические линзы, размеры (DxL): 78.4x96.8 мм, вес: 540 г, крепление: Canon EF
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип объектива</name>
+          <value>стандартный Zoom</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>28 - 135 мм</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>F3.50 - F5.60</value>
+        </item>
+        <item>
+          <name>Минимальная диафрагма</name>
+          <value>F22</value>
+        </item>
+        <item>
+          <name>Крепление</name>
+          <value>Canon EF</value>
+        </item>
+        <item>
+          <name>Стабилизация изображения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим макросъемки</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Число элементов / групп элементов</name>
+          <value>16 / 12</value>
+        </item>
+        <item>
+          <name>Число асферических элементов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Число лепестков диафрагмы</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Размеры (D x L)</name>
+          <value>78.4 x 96.8 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>540 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры съемки</name>
+        <item>
+          <name>Угол обзора</name>
+          <value>18 - 75 град.мин</value>
+        </item>
+        <item>
+          <name>Минимальное расстояние фокусировки</name>
+          <value>0.5 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Ультразвуковой мотор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диаметр резьбы для светофильтра</name>
+          <value>72 мм</value>
+        </item>
+        <item>
+          <name>Совместимые фотокамеры</name>
+          <value>Canon EOS: 300D, 350D, 10D, 20D и все другие фотоаппараты Canon EOS, а также Kodak DCS Pro SLR/c</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>Тип мягкого чехла LP1116, бленда EW-78BII, ручная фокусировка в любой момент, передача данных о расстоянии.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="50097">
+    <title>Nikon 55-200mm f/4-5.6G AF-S DX VR IF-ED Zoom-Nikkor</title>
+    <model>55-200mm f/4-5.6G AF-S DX VR IF-ED Zoom-Nikkor</model>
+    <marka>Nikon</marka>
+    <catalog id="966791">Объективы</catalog>
+    
+    <price1>4300</price1>
+    <price2>10200</price2>
+    <description>
+телеобъектив, Zoom, неполнокадровый, стабилизатор изображения, автофокус, ультразвуковой мотор, размеры (DxL): 73x99.5 мм, вес: 335 г, крепление: Nikon F
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип объектива</name>
+          <value>телеобъектив Zoom</value>
+        </item>
+        <item>
+          <name>Фокусное расстояние</name>
+          <value>55 - 200 мм</value>
+        </item>
+        <item>
+          <name>Для неполнокадровых фотоаппаратов</name>
+          <value>да</value>
+        </item>
+        <item>
+          <name>Диафрагма</name>
+          <value>F4 - F5.60</value>
+        </item>
+        <item>
+          <name>Минимальная диафрагма</name>
+          <value>F22</value>
+        </item>
+        <item>
+          <name>Крепление</name>
+          <value>Nikon F</value>
+        </item>
+        <item>
+          <name>Фокусировочный мотор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Стабилизация изображения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоматическая фокусировка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Число элементов / групп элементов</name>
+          <value>15 / 11</value>
+        </item>
+        <item>
+          <name>Число низкодисперсных элементов</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Размеры (D x L)</name>
+          <value>73 x 99.5 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>335 г</value>
+        </item>
+      </items>
+      <items>
+        <name>Параметры съемки</name>
+        <item>
+          <name>Угол обзора</name>
+          <value>8 - 28.50 град.мин</value>
+        </item>
+        <item>
+          <name>Минимальное расстояние фокусировки</name>
+          <value>1.1 м</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Ультразвуковой мотор</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Внутренняя фокусировка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Диаметр резьбы для светофильтра</name>
+          <value>52 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

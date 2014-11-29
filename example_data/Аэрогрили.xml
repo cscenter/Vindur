@@ -1,0 +1,1347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="2813">
+    <title>VES AX 730</title>
+    <model>AX 730</model>
+    <marka>VES</marka>
+    <catalog id="1617429">Аэрогрили</catalog>
+    
+    <price1>2360</price1>
+    <price2>4537</price2>
+    <description>
+
+
+
+ мощность 1350 Вт, электронное управление, объем 12 л, нагреватель галогенный
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>1350 Вт</value>
+        </item>
+        <item>
+          <name>Рабочий объем колбы</name>
+          <value>12 л</value>
+        </item>
+        <item>
+          <name>Нагревательный элемент</name>
+          <value>галогенный</value>
+        </item>
+        <item>
+          <name>Крышка</name>
+          <value>на кронштейне</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка температуры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка скорости конвекции</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержание тепла</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Самоочистка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>расширительное кольцо, верхняя решетка, нижняя решетка, сетчатый противень, щипцы-ухваты, шампуры</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>Устройство защиты</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="2816">
+    <title>Mystery MCO-1506</title>
+    <model>MCO-1506</model>
+    <marka>Mystery</marka>
+    <catalog id="1617429">Аэрогрили</catalog>
+    
+    <price1>1830</price1>
+    <price2>2489</price2>
+    <description>
+
+
+
+ мощность 1300 Вт, электронное управление, объем 12 л, нагреватель галогенный
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>1300 Вт</value>
+        </item>
+        <item>
+          <name>Рабочий объем колбы</name>
+          <value>12 л</value>
+        </item>
+        <item>
+          <name>Нагревательный элемент</name>
+          <value>галогенный</value>
+        </item>
+        <item>
+          <name>Крышка</name>
+          <value>на кронштейне</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Регулировка температуры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Самоочистка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>расширительное кольцо</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>объем до 17 л, функция стерилизации посуды и пищи, защита от включения при открытой крышке</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="2818">
+    <title>Mystery MCO-1504</title>
+    <model>MCO-1504</model>
+    <marka>Mystery</marka>
+    <catalog id="1617429">Аэрогрили</catalog>
+    
+    <price1>1460</price1>
+    <price2>2248</price2>
+    <description>
+
+
+
+ мощность 1300 Вт, электронное управление, объем 12 л, нагреватель галогенный
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>1300 Вт</value>
+        </item>
+        <item>
+          <name>Рабочий объем колбы</name>
+          <value>12 л</value>
+        </item>
+        <item>
+          <name>Нагревательный элемент</name>
+          <value>галогенный</value>
+        </item>
+        <item>
+          <name>Крышка</name>
+          <value>съемная</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Регулировка температуры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка скорости конвекции</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержание тепла</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Предварительный разогрев</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Самоочистка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Особенности</name>
+          <value>функция стерилизации посуды и пищи, защита от включения при открытой крышке</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="2819">
+    <title>Mystery MCO-1503</title>
+    <model>MCO-1503</model>
+    <marka>Mystery</marka>
+    <catalog id="1617429">Аэрогрили</catalog>
+    
+    <price1>1220</price1>
+    <price2>2493</price2>
+    <description>
+
+
+
+ мощность 1300 Вт, механическое управление, объем 12 л, нагреватель галогенный
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>1300 Вт</value>
+        </item>
+        <item>
+          <name>Рабочий объем колбы</name>
+          <value>12 л</value>
+        </item>
+        <item>
+          <name>Нагревательный элемент</name>
+          <value>галогенный</value>
+        </item>
+        <item>
+          <name>Крышка</name>
+          <value>съемная</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть, на 1 ч</value>
+        </item>
+        <item>
+          <name>Регулировка температуры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Самоочистка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Особенности</name>
+          <value>возможность стерилизации посуды и пищи, защитное отключение при открытой крышке</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="2821">
+    <title>Mystery MCO-1505</title>
+    <model>MCO-1505</model>
+    <marka>Mystery</marka>
+    <catalog id="1617429">Аэрогрили</catalog>
+    
+    <price1>1427</price1>
+    <price2>2270</price2>
+    <description>
+
+
+
+ мощность 1300 Вт, электронное управление, объем 12 л
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>1300 Вт</value>
+        </item>
+        <item>
+          <name>Рабочий объем колбы</name>
+          <value>12 л</value>
+        </item>
+        <item>
+          <name>Крышка</name>
+          <value>съемная</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Регулировка температуры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Самоочистка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Особенности</name>
+          <value>автоменю, функция стерилизации посуды и пищи, защита от включения при открытой крышке</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="2824">
+    <title>VES AX 999</title>
+    <model>AX 999</model>
+    <marka>VES</marka>
+    <catalog id="1617429">Аэрогрили</catalog>
+    
+    <price1>1518</price1>
+    <price2>2410</price2>
+    <description>
+
+
+
+ мощность 1300 Вт, механическое управление, объем 7 л, нагреватель галогенный
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>1300 Вт</value>
+        </item>
+        <item>
+          <name>Рабочий объем колбы</name>
+          <value>7 л</value>
+        </item>
+        <item>
+          <name>Нагревательный элемент</name>
+          <value>галогенный</value>
+        </item>
+        <item>
+          <name>Крышка</name>
+          <value>съемная</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть, на 1 ч, отсрочка старта</value>
+        </item>
+        <item>
+          <name>Регулировка температуры</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>расширительное кольцо, щипцы-ухваты, шампуры</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>температура до 250С, рисоварка, поднос для масла, подставка для крышки, стиммер, насадка для приготовления птицы; индикатор питания, автоотключение при поднятии ручки, индикатор работы таймера</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="2827">
+    <title>VES AX 777</title>
+    <model>AX 777</model>
+    <marka>VES</marka>
+    <catalog id="1617429">Аэрогрили</catalog>
+    
+    <price1>2078</price1>
+    <price2>3150</price2>
+    <description>
+
+
+
+ мощность 1350 Вт, механическое управление, объем 12 л, нагреватель ТЭН
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>1350 Вт</value>
+        </item>
+        <item>
+          <name>Рабочий объем колбы</name>
+          <value>12 л</value>
+        </item>
+        <item>
+          <name>Нагревательный элемент</name>
+          <value>ТЭН</value>
+        </item>
+        <item>
+          <name>Крышка</name>
+          <value>съемная</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть, отсрочка старта</value>
+        </item>
+        <item>
+          <name>Регулировка температуры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Самоочистка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>расширительное кольцо, верхняя решетка, нижняя решетка, сетчатый противень, щипцы-ухваты, шампуры</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>устройство защиты, подставка для крышки</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="2830">
+    <title>VES AX 747D</title>
+    <model>AX 747D</model>
+    <marka>VES</marka>
+    <catalog id="1617429">Аэрогрили</catalog>
+    
+    <price1>2439</price1>
+    <price2>6990</price2>
+    <description>
+
+
+
+ мощность 1350 Вт, электронное управление, объем 12 л
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>1350 Вт</value>
+        </item>
+        <item>
+          <name>Рабочий объем колбы</name>
+          <value>12 л</value>
+        </item>
+        <item>
+          <name>Крышка</name>
+          <value>на кронштейне</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть, отсрочка старта</value>
+        </item>
+        <item>
+          <name>Регулировка температуры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка скорости конвекции</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержание тепла</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Предварительный разогрев</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Самоочистка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>расширительное кольцо, верхняя решетка, нижняя решетка, сетчатый противень, щипцы-ухваты, шампуры</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>решетка для завтрака, двойная решетка, решетка для обжаривания</value>
+        </item>
+      </items>
+      <items>
+        <name>Габариты и вес</name>
+        <item>
+          <name>Габариты (ШхВхГ)</name>
+          <value>330x300x440 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="2833">
+    <title>Mystery MCO-1509</title>
+    <model>MCO-1509</model>
+    <marka>Mystery</marka>
+    <catalog id="1617429">Аэрогрили</catalog>
+    
+    <price1>1265</price1>
+    <price2>1960</price2>
+    <description>
+
+
+
+ мощность 1200 Вт, электронное управление, объем 12 л, нагреватель галогенный
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>1200 Вт</value>
+        </item>
+        <item>
+          <name>Рабочий объем колбы</name>
+          <value>12 л</value>
+        </item>
+        <item>
+          <name>Нагревательный элемент</name>
+          <value>галогенный</value>
+        </item>
+        <item>
+          <name>Крышка</name>
+          <value>съемная</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть, на 1 ч, отсрочка старта</value>
+        </item>
+        <item>
+          <name>Регулировка температуры</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>верхняя решетка, нижняя решетка, щипцы-ухваты</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>температура 70-250 градусов</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="2841">
+    <title>Mystery MCO-1501</title>
+    <model>MCO-1501</model>
+    <marka>Mystery</marka>
+    <catalog id="1617429">Аэрогрили</catalog>
+    
+    <price1>1240</price1>
+    <price2>1886</price2>
+    <description>
+
+
+
+ мощность 1200 Вт, механическое управление, объем 12 л, нагреватель галогенный
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>1200 Вт</value>
+        </item>
+        <item>
+          <name>Рабочий объем колбы</name>
+          <value>12 л</value>
+        </item>
+        <item>
+          <name>Нагревательный элемент</name>
+          <value>галогенный</value>
+        </item>
+        <item>
+          <name>Крышка</name>
+          <value>съемная</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть, на 1 ч</value>
+        </item>
+        <item>
+          <name>Регулировка температуры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Самоочистка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>верхняя решетка, нижняя решетка, щипцы-ухваты</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>выключатель электропитания, температура 0-250С</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="2843">
+    <title>Mystery MCO-737</title>
+    <model>MCO-737</model>
+    <marka>Mystery</marka>
+    <catalog id="1617429">Аэрогрили</catalog>
+    
+    <price1>1360</price1>
+    <price2>2050</price2>
+    <description>
+
+
+
+ мощность 1000 Вт, механическое управление, объем 7 л
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>1000 Вт</value>
+        </item>
+        <item>
+          <name>Рабочий объем колбы</name>
+          <value>7 л</value>
+        </item>
+        <item>
+          <name>Крышка</name>
+          <value>на кронштейне</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть, на 1 ч</value>
+        </item>
+        <item>
+          <name>Регулировка температуры</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="2851">
+    <title>VES AX 745</title>
+    <model>AX 745</model>
+    <marka>VES</marka>
+    <catalog id="1617429">Аэрогрили</catalog>
+    
+    <price1>2176</price1>
+    <price2>4053</price2>
+    <description>
+
+
+
+ мощность 1350 Вт, электронное управление, объем 12 л, нагреватель галогенный
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>1350 Вт</value>
+        </item>
+        <item>
+          <name>Рабочий объем колбы</name>
+          <value>12 л</value>
+        </item>
+        <item>
+          <name>Нагревательный элемент</name>
+          <value>галогенный</value>
+        </item>
+        <item>
+          <name>Крышка</name>
+          <value>съемная</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Регулировка температуры</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>расширительное кольцо, щипцы-ухваты, шампуры</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>объем до 17 литров, температура 50-250 градусов С</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="2855">
+    <title>Mystery MCO-1508</title>
+    <model>MCO-1508</model>
+    <marka>Mystery</marka>
+    <catalog id="1617429">Аэрогрили</catalog>
+    
+    <price1>1250</price1>
+    <price2>1900</price2>
+    <description>
+
+
+
+ мощность 1200 Вт, механическое управление, объем 12 л
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>1200 Вт</value>
+        </item>
+        <item>
+          <name>Рабочий объем колбы</name>
+          <value>12 л</value>
+        </item>
+        <item>
+          <name>Крышка</name>
+          <value>съемная</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть, на 1 ч</value>
+        </item>
+        <item>
+          <name>Регулировка температуры</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="2863">
+    <title>Polaris PAG 1205D</title>
+    <model>PAG 1205D</model>
+    <marka>Polaris</marka>
+    <catalog id="1617429">Аэрогрили</catalog>
+    
+    <price1>1870</price1>
+    <price2>3120</price2>
+    <description>
+
+
+
+ мощность 1400 Вт, электронное управление, нагреватель галогенный
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>1400 Вт</value>
+        </item>
+        <item>
+          <name>Нагревательный элемент</name>
+          <value>галогенный</value>
+        </item>
+        <item>
+          <name>Крышка</name>
+          <value>съемная</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть, на 19 ч, отсрочка старта</value>
+        </item>
+        <item>
+          <name>Регулировка температуры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка скорости конвекции</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Поддержание тепла</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Предварительный разогрев</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Самоочистка</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>верхняя решетка, нижняя решетка, сетчатый противень</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="2866">
+    <title>Polaris PAG 1204</title>
+    <model>PAG 1204</model>
+    <marka>Polaris</marka>
+    <catalog id="1617429">Аэрогрили</catalog>
+    
+    <price1>1648</price1>
+    <price2>2680</price2>
+    <description>
+
+
+
+ мощность 1300 Вт, механическое управление, объем 12 л, нагреватель галогенный
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>1300 Вт</value>
+        </item>
+        <item>
+          <name>Рабочий объем колбы</name>
+          <value>12 л</value>
+        </item>
+        <item>
+          <name>Нагревательный элемент</name>
+          <value>галогенный</value>
+        </item>
+        <item>
+          <name>Крышка</name>
+          <value>съемная</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть, на 2 ч</value>
+        </item>
+        <item>
+          <name>Регулировка температуры</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>расширительное кольцо, верхняя решетка, нижняя решетка, щипцы-ухваты</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>индикация включения, максимальная температура 250 градусов, объем до 17 л</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="2868">
+    <title>Polaris PAG 1207</title>
+    <model>PAG 1207</model>
+    <marka>Polaris</marka>
+    <catalog id="1617429">Аэрогрили</catalog>
+    
+    <price1>1630</price1>
+    <price2>2317</price2>
+    <description>
+
+
+
+ мощность 1000 Вт, механическое управление, объем 7 л, нагреватель галогенный
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>1000 Вт</value>
+        </item>
+        <item>
+          <name>Рабочий объем колбы</name>
+          <value>7 л</value>
+        </item>
+        <item>
+          <name>Нагревательный элемент</name>
+          <value>галогенный</value>
+        </item>
+        <item>
+          <name>Крышка</name>
+          <value>съемная</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>механическое</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть, на 1 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>расширительное кольцо, верхняя решетка, нижняя решетка, сетчатый противень, щипцы-ухваты</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>объем до 10 литров</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="2869">
+    <title>Redber CO-1350</title>
+    <model>CO-1350</model>
+    <marka>Redber</marka>
+    <catalog id="1617429">Аэрогрили</catalog>
+    
+    <price1>2430</price1>
+    <price2>3152</price2>
+    <description>
+
+
+
+ мощность 1300 Вт, электронное управление, объем 13 л
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>1300 Вт</value>
+        </item>
+        <item>
+          <name>Рабочий объем колбы</name>
+          <value>13 л</value>
+        </item>
+        <item>
+          <name>Крышка</name>
+          <value>на кронштейне</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Регулировка температуры</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>расширительное кольцо, нижняя решетка, средняя решетка, щипцы-ухваты</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>объем до 17 л</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="2871">
+    <title>Hotter HX-1057 Elite</title>
+    <model>HX-1057 Elite</model>
+    <marka>Hotter</marka>
+    <catalog id="1617429">Аэрогрили</catalog>
+    
+    <price1>4700</price1>
+    <price2>7490</price2>
+    <description>
+
+
+
+ мощность 1300 Вт, электронное управление, объем 10 л, нагреватель ТЭН
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>1300 Вт</value>
+        </item>
+        <item>
+          <name>Рабочий объем колбы</name>
+          <value>10 л</value>
+        </item>
+        <item>
+          <name>Нагревательный элемент</name>
+          <value>ТЭН</value>
+        </item>
+        <item>
+          <name>Крышка</name>
+          <value>на кронштейне</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть, на 24 ч</value>
+        </item>
+        <item>
+          <name>Регулировка температуры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулировка скорости конвекции</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержание тепла</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Предварительный разогрев</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Съемный сетевой шнур</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>расширительное кольцо, верхняя решетка, нижняя решетка</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>работоспособность при перепадах напряжения, цвета: черный, белый, фиолетовый</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="2876">
+    <title>Hotter HX-1037 Classic</title>
+    <model>HX-1037 Classic</model>
+    <marka>Hotter</marka>
+    <catalog id="1617429">Аэрогрили</catalog>
+    
+    <price1>3950</price1>
+    <price2>6490</price2>
+    <description>
+
+
+
+ мощность 1300 Вт, электронное управление, объем 10 л, нагреватель ТЭН
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>1300 Вт</value>
+        </item>
+        <item>
+          <name>Рабочий объем колбы</name>
+          <value>10 л</value>
+        </item>
+        <item>
+          <name>Нагревательный элемент</name>
+          <value>ТЭН</value>
+        </item>
+        <item>
+          <name>Крышка</name>
+          <value>съемная</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть, на 24 ч</value>
+        </item>
+        <item>
+          <name>Регулировка скорости конвекции</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержание тепла</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Предварительный разогрев</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Съемный сетевой шнур</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>расширительное кольцо</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>3 скорости конвекции, ручка со скрытым датчиком открытия, работоспособность при перепадах напряжения; цвета: белый, красный, черный</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="2877">
+    <title>Smile AG 1906</title>
+    <model>AG 1906</model>
+    <marka>Smile</marka>
+    <catalog id="1617429">Аэрогрили</catalog>
+    
+    <price1>4309</price1>
+    <price2>6130</price2>
+    <description>
+
+
+
+ мощность 1400 Вт, электронное управление, объем 12 л, нагреватель галогенный, количество программ: 10
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Мощность</name>
+          <value>1400 Вт</value>
+        </item>
+        <item>
+          <name>Рабочий объем колбы</name>
+          <value>12 л</value>
+        </item>
+        <item>
+          <name>Нагревательный элемент</name>
+          <value>галогенный</value>
+        </item>
+        <item>
+          <name>Крышка</name>
+          <value>на кронштейне</value>
+        </item>
+      </items>
+      <items>
+        <name>Управление и программы</name>
+        <item>
+          <name>Управление</name>
+          <value>электронное</value>
+        </item>
+        <item>
+          <name>Автоматические программы</name>
+          <value>10</value>
+        </item>
+        <item>
+          <name>Таймер</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>расширительное кольцо, нижняя решетка, сетчатый противень, щипцы-ухваты, шампуры</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

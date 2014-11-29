@@ -1,0 +1,2306 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="115514">
+    <title>Panasonic KX-FL423</title>
+    <model>KX-FL423</model>
+    <marka>Panasonic</marka>
+    <catalog id="118746">Факсы </catalog>
+    
+    <price1>6461</price1>
+    <price2>9764</price2>
+    <description>
+
+
+факс/копир, лазерный, тип бумаги - лист, 33.6 Кбит/с, 10 стр./мин
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип печати</name>
+          <value>лазерная</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение факса</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Скорость модема</name>
+          <value>33.6 Кбит/с</value>
+        </item>
+        <item>
+          <name>Скорость печати</name>
+          <value>10 стр./мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Бумага</name>
+        <item>
+          <name>Тип бумаги</name>
+          <value>лист</value>
+        </item>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x297 мм</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи</name>
+          <value>15 листов</value>
+        </item>
+        <item>
+          <name>Емкость лотка для бумаги</name>
+          <value>250 листов</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>АОН</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Caller ID</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автопереключение факс/телефон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Однокнопочный набор</name>
+          <value>10 кнопок</value>
+        </item>
+        <item>
+          <name>Записная книжка</name>
+          <value>110 номеров</value>
+        </item>
+        <item>
+          <name>Память для приема факсов</name>
+          <value>100 листов</value>
+        </item>
+        <item>
+          <name>Память на отправку факсов</name>
+          <value>150 листов</value>
+        </item>
+        <item>
+          <name>Многоадресная рассылка</name>
+          <value>60 абонентов</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Функция копирования</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Проводная трубка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Спикерфон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулятор уровня громкости в трубке</name>
+          <value>есть</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115516">
+    <title>Panasonic KX-FT988RU</title>
+    <model>KX-FT988RU</model>
+    <marka>Panasonic</marka>
+    <catalog id="118746">Факсы </catalog>
+    
+    <price1>4491</price1>
+    <price2>6990</price2>
+    <description>
+
+
+факс/копир, печать на термобумаге, тип бумаги - рулон, 9.6 Кбит/с, автоответчик, авторезак для бумаги
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип печати</name>
+          <value>печать на термобумаге</value>
+        </item>
+        <item>
+          <name>Количество полутонов</name>
+          <value>64</value>
+        </item>
+        <item>
+          <name>Скорость модема</name>
+          <value>9.6 Кбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Бумага</name>
+        <item>
+          <name>Тип бумаги</name>
+          <value>рулон</value>
+        </item>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x297 мм</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи</name>
+          <value>10 листов</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>АОН</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Caller ID</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоответчик</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автопереключение факс/телефон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Записная книжка</name>
+          <value>100 номеров</value>
+        </item>
+        <item>
+          <name>Память для приема факсов</name>
+          <value>28 листов</value>
+        </item>
+        <item>
+          <name>Многоадресная рассылка</name>
+          <value>20 абонентов</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Функция копирования</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Проводная трубка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Спикерфон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулятор уровня громкости в трубке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Авторезак для бумаги</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>360x130x230 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.7 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115517">
+    <title>Panasonic KX-FT982RU</title>
+    <model>KX-FT982RU</model>
+    <marka>Panasonic</marka>
+    <catalog id="118746">Факсы </catalog>
+    
+    <price1>3300</price1>
+    <price2>5490</price2>
+    <description>
+
+
+факс/копир, печать на термобумаге, тип бумаги - рулон, 9.6 Кбит/с
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип печати</name>
+          <value>печать на термобумаге</value>
+        </item>
+        <item>
+          <name>Скорость модема</name>
+          <value>9.6 Кбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Бумага</name>
+        <item>
+          <name>Тип бумаги</name>
+          <value>рулон</value>
+        </item>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x297 мм</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи</name>
+          <value>10 листов</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>АОН</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Caller ID</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автопереключение факс/телефон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Записная книжка</name>
+          <value>100 номеров</value>
+        </item>
+        <item>
+          <name>Память для приема факсов</name>
+          <value>28 листов</value>
+        </item>
+        <item>
+          <name>Многоадресная рассылка</name>
+          <value>20 абонентов</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Функция копирования</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Проводная трубка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Спикерфон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулятор уровня громкости в трубке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>360x130x230 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.7 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115519">
+    <title>Panasonic KX-FP207RU</title>
+    <model>KX-FP207RU</model>
+    <marka>Panasonic</marka>
+    <catalog id="118746">Факсы </catalog>
+    
+    <price1>2831</price1>
+    <price2>6296</price2>
+    <description>
+
+
+факс/копир, термоперенос, тип бумаги - лист, 9.6 Кбит/с
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип печати</name>
+          <value>термоперенос</value>
+        </item>
+        <item>
+          <name>Количество полутонов</name>
+          <value>64</value>
+        </item>
+        <item>
+          <name>Скорость модема</name>
+          <value>9.6 Кбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Бумага</name>
+        <item>
+          <name>Тип бумаги</name>
+          <value>лист</value>
+        </item>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x600 мм</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи</name>
+          <value>10 листов</value>
+        </item>
+        <item>
+          <name>Емкость лотка для бумаги</name>
+          <value>20 листов</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>АОН</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Caller ID</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автопереключение факс/телефон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенная передача</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Записная книжка</name>
+          <value>50 номеров</value>
+        </item>
+        <item>
+          <name>Память для приема факсов</name>
+          <value>28 листов</value>
+        </item>
+        <item>
+          <name>Многоадресная рассылка</name>
+          <value>20 абонентов</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Функция копирования</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Проводная трубка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулятор уровня громкости в трубке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>356x106x200 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.7 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>Кнопка навигации. Двухстрочный дисплей (русский язык). Отложенная передача. Порт для дополнительного телефонного оборудования. Индикатор необходимости замены пленки.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115520">
+    <title>Panasonic KX-FLC418 RU</title>
+    <model>KX-FLC418 RU</model>
+    <marka>Panasonic</marka>
+    <catalog id="118746">Факсы </catalog>
+    
+    <price1>9190</price1>
+    <price2>12825</price2>
+    <description>
+
+
+факс/копир, лазерный, тип бумаги - лист, 14.4 Кбит/с, 10 стр./мин, автоответчик
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип печати</name>
+          <value>лазерная</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение факса</name>
+          <value>600x600 dpi</value>
+        </item>
+        <item>
+          <name>Количество полутонов</name>
+          <value>64</value>
+        </item>
+        <item>
+          <name>Скорость модема</name>
+          <value>14.4 Кбит/с</value>
+        </item>
+        <item>
+          <name>Скорость печати</name>
+          <value>10 стр./мин</value>
+        </item>
+      </items>
+      <items>
+        <name>Бумага</name>
+        <item>
+          <name>Тип бумаги</name>
+          <value>лист</value>
+        </item>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x600 мм</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи</name>
+          <value>15 листов</value>
+        </item>
+        <item>
+          <name>Емкость лотка для бумаги</name>
+          <value>200 листов</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>АОН</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Caller ID</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоответчик</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автопереключение факс/телефон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенная передача</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Однокнопочный набор</name>
+          <value>10 кнопок</value>
+        </item>
+        <item>
+          <name>Записная книжка</name>
+          <value>110 номеров</value>
+        </item>
+        <item>
+          <name>Память для приема факсов</name>
+          <value>40 листов</value>
+        </item>
+        <item>
+          <name>Многоадресная рассылка</name>
+          <value>60 абонентов</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Функция копирования</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Проводная трубка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Беспроводная трубка</name>
+          <value>есть (DECT)</value>
+        </item>
+        <item>
+          <name>Спикерфон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулятор уровня громкости в трубке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>беспроводная трубка KX-TGA641RU; индикатор необходимости замены тонера</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115522">
+    <title>Panasonic KX-FC278RU</title>
+    <model>KX-FC278RU</model>
+    <marka>Panasonic</marka>
+    <catalog id="118746">Факсы </catalog>
+    
+    <price1>6292</price1>
+    <price2>9640</price2>
+    <description>
+
+
+факс/копир, термоперенос, тип бумаги - лист, 9.6 Кбит/с, автоответчик
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип печати</name>
+          <value>термоперенос</value>
+        </item>
+        <item>
+          <name>Количество полутонов</name>
+          <value>64</value>
+        </item>
+        <item>
+          <name>Скорость модема</name>
+          <value>9.6 Кбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Бумага</name>
+        <item>
+          <name>Тип бумаги</name>
+          <value>лист</value>
+        </item>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x600 мм</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи</name>
+          <value>10 листов</value>
+        </item>
+        <item>
+          <name>Емкость лотка для бумаги</name>
+          <value>20 листов</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>АОН</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Caller ID</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоответчик</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автопереключение факс/телефон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенная передача</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Записная книжка</name>
+          <value>100 номеров</value>
+        </item>
+        <item>
+          <name>Память для приема факсов</name>
+          <value>28 листов</value>
+        </item>
+        <item>
+          <name>Память на отправку факсов</name>
+          <value>25 листов</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Функция копирования</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Проводная трубка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Беспроводная трубка</name>
+          <value>есть (DECT)</value>
+        </item>
+        <item>
+          <name>Спикерфон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулятор уровня громкости в трубке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>367x106x200 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.8 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>Кнопка навигации. Двухстрочный дисплей (русский язык). Аналог модели KX-FC258RU</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115523">
+    <title>Panasonic KX-FP218RU</title>
+    <model>KX-FP218RU</model>
+    <marka>Panasonic</marka>
+    <catalog id="118746">Факсы </catalog>
+    
+    <price1>3434</price1>
+    <price2>6580</price2>
+    <description>
+
+
+факс/копир, термоперенос, тип бумаги - лист, 14.4 Кбит/с, автоответчик
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип печати</name>
+          <value>термоперенос</value>
+        </item>
+        <item>
+          <name>Количество полутонов</name>
+          <value>64</value>
+        </item>
+        <item>
+          <name>Скорость модема</name>
+          <value>14.4 Кбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Бумага</name>
+        <item>
+          <name>Тип бумаги</name>
+          <value>лист</value>
+        </item>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x600 мм</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи</name>
+          <value>10 листов</value>
+        </item>
+        <item>
+          <name>Емкость лотка для бумаги</name>
+          <value>20 листов</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>АОН</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Caller ID</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоответчик</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автопереключение факс/телефон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенная передача</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Записная книжка</name>
+          <value>50 номеров</value>
+        </item>
+        <item>
+          <name>Память для приема факсов</name>
+          <value>28 листов</value>
+        </item>
+        <item>
+          <name>Память на отправку факсов</name>
+          <value>25 листов</value>
+        </item>
+        <item>
+          <name>Многоадресная рассылка</name>
+          <value>20 абонентов</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Функция копирования</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Проводная трубка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Спикерфон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулятор уровня громкости в трубке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>356x106x200 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.7 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>Кнопка навигации. Двухстрочный дисплей (русский язык). Порт для дополнительного телефонного оборудования. Индикатор необходимости замены пленки.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115525">
+    <title>Panasonic KX-FT984RU</title>
+    <model>KX-FT984RU</model>
+    <marka>Panasonic</marka>
+    <catalog id="118746">Факсы </catalog>
+    
+    <price1>4349</price1>
+    <price2>7620</price2>
+    <description>
+
+
+факс/копир, печать на термобумаге, тип бумаги - рулон, 9.6 Кбит/с, авторезак для бумаги
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип печати</name>
+          <value>печать на термобумаге</value>
+        </item>
+        <item>
+          <name>Скорость модема</name>
+          <value>9.6 Кбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Бумага</name>
+        <item>
+          <name>Тип бумаги</name>
+          <value>рулон</value>
+        </item>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x297 мм</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи</name>
+          <value>10 листов</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>АОН</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Caller ID</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автопереключение факс/телефон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Записная книжка</name>
+          <value>100 номеров</value>
+        </item>
+        <item>
+          <name>Память для приема факсов</name>
+          <value>28 листов</value>
+        </item>
+        <item>
+          <name>Многоадресная рассылка</name>
+          <value>20 абонентов</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Функция копирования</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Проводная трубка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Спикерфон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулятор уровня громкости в трубке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Авторезак для бумаги</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>360x130x230 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.7 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115527">
+    <title>Panasonic KX-FC965RU</title>
+    <model>KX-FC965RU</model>
+    <marka>Panasonic</marka>
+    <catalog id="118746">Факсы </catalog>
+    
+    <price1>6617</price1>
+    <price2>10125</price2>
+    <description>
+
+
+факс/копир, печать на термобумаге, тип бумаги - рулон, 9.6 Кбит/с, автоответчик, авторезак для бумаги
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип печати</name>
+          <value>печать на термобумаге</value>
+        </item>
+        <item>
+          <name>Количество полутонов</name>
+          <value>64</value>
+        </item>
+        <item>
+          <name>Скорость модема</name>
+          <value>9.6 Кбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Бумага</name>
+        <item>
+          <name>Тип бумаги</name>
+          <value>рулон</value>
+        </item>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x600 мм</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи</name>
+          <value>10 листов</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>АОН</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Caller ID</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоответчик</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автопереключение факс/телефон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенная передача</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Записная книжка</name>
+          <value>100 номеров</value>
+        </item>
+        <item>
+          <name>Память для приема факсов</name>
+          <value>28 листов</value>
+        </item>
+        <item>
+          <name>Память на отправку факсов</name>
+          <value>25 листов</value>
+        </item>
+        <item>
+          <name>Многоадресная рассылка</name>
+          <value>20 абонентов</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Функция копирования</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Проводная трубка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Беспроводная трубка</name>
+          <value>есть (DECT)</value>
+        </item>
+        <item>
+          <name>Спикерфон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулятор уровня громкости в трубке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Авторезак для бумаги</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>364x121x224 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.8 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>Беспроводная трубка DECT (TGA641) в комплекте. Дисплей (2 строки,16 символов). Функция копирования. Речевая метка времени / даты. Аналог модели KX-FC962RU</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115531">
+    <title>Panasonic KX-FC968RU</title>
+    <model>KX-FC968RU</model>
+    <marka>Panasonic</marka>
+    <catalog id="118746">Факсы </catalog>
+    
+    <price1>5185</price1>
+    <price2>7670</price2>
+    <description>
+
+
+факс/копир, печать на термобумаге, тип бумаги - рулон, 9.6 Кбит/с, автоответчик, авторезак для бумаги
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип печати</name>
+          <value>печать на термобумаге</value>
+        </item>
+        <item>
+          <name>Количество полутонов</name>
+          <value>64</value>
+        </item>
+        <item>
+          <name>Скорость модема</name>
+          <value>9.6 Кбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Бумага</name>
+        <item>
+          <name>Тип бумаги</name>
+          <value>рулон</value>
+        </item>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x600 мм</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи</name>
+          <value>10 листов</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>АОН</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Caller ID</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоответчик</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автопереключение факс/телефон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенная передача</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Записная книжка</name>
+          <value>100 номеров</value>
+        </item>
+        <item>
+          <name>Память для приема факсов</name>
+          <value>28 листов</value>
+        </item>
+        <item>
+          <name>Память на отправку факсов</name>
+          <value>25 листов</value>
+        </item>
+        <item>
+          <name>Многоадресная рассылка</name>
+          <value>20 абонентов</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Функция копирования</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Беспроводная трубка</name>
+          <value>есть (DECT)</value>
+        </item>
+        <item>
+          <name>Спикерфон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулятор уровня громкости в трубке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Авторезак для бумаги</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>368x127x225 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.8 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>дисплей (2 строки, 16 символов), аналог модели KX-FC966RU</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115534">
+    <title>Brother FAX-2825R</title>
+    <model>FAX-2825R</model>
+    <marka>Brother</marka>
+    <catalog id="118746">Факсы </catalog>
+    
+    <price1>7190</price1>
+    <price2>8361</price2>
+    <description>
+
+
+факс/копир, лазерный, тип бумаги - лист, 14.4 Кбит/с
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип печати</name>
+          <value>лазерная</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение факса</name>
+          <value>200x300 dpi</value>
+        </item>
+        <item>
+          <name>Скорость модема</name>
+          <value>14.4 Кбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Бумага</name>
+        <item>
+          <name>Тип бумаги</name>
+          <value>лист</value>
+        </item>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x297 мм</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи</name>
+          <value>20 листов</value>
+        </item>
+        <item>
+          <name>Емкость лотка для бумаги</name>
+          <value>250 листов</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Автопереключение факс/телефон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенная передача</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Однокнопочный набор</name>
+          <value>20 кнопок</value>
+        </item>
+        <item>
+          <name>Записная книжка</name>
+          <value>200 номеров</value>
+        </item>
+        <item>
+          <name>Память для приема факсов</name>
+          <value>400 листов</value>
+        </item>
+        <item>
+          <name>Память на отправку факсов</name>
+          <value>400 листов</value>
+        </item>
+        <item>
+          <name>Многоадресная рассылка</name>
+          <value>270 абонентов</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Функция копирования</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Изменение масштаба</name>
+          <value>50-200 %</value>
+        </item>
+        <item>
+          <name>Максимальное количество копий за цикл</name>
+          <value>99</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Проводная трубка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>374x262x374 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>7.25 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115537">
+    <title>Panasonic KX-FC268RU</title>
+    <model>KX-FC268RU</model>
+    <marka>Panasonic</marka>
+    <catalog id="118746">Факсы </catalog>
+    
+    <price1>5325</price1>
+    <price2>8640</price2>
+    <description>
+
+
+факс/копир, термоперенос, тип бумаги - лист, 9.6 Кбит/с, автоответчик
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип печати</name>
+          <value>термоперенос</value>
+        </item>
+        <item>
+          <name>Количество полутонов</name>
+          <value>64</value>
+        </item>
+        <item>
+          <name>Скорость модема</name>
+          <value>9.6 Кбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Бумага</name>
+        <item>
+          <name>Тип бумаги</name>
+          <value>лист</value>
+        </item>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x600 мм</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи</name>
+          <value>10 листов</value>
+        </item>
+        <item>
+          <name>Емкость лотка для бумаги</name>
+          <value>20 листов</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>АОН</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Caller ID</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автоответчик</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автопереключение факс/телефон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенная передача</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Записная книжка</name>
+          <value>100 номеров</value>
+        </item>
+        <item>
+          <name>Память для приема факсов</name>
+          <value>28 листов</value>
+        </item>
+        <item>
+          <name>Память на отправку факсов</name>
+          <value>25 листов</value>
+        </item>
+        <item>
+          <name>Многоадресная рассылка</name>
+          <value>20 абонентов</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Функция копирования</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Беспроводная трубка</name>
+          <value>есть (DECT)</value>
+        </item>
+        <item>
+          <name>Спикерфон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулятор уровня громкости в трубке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>374x106x200 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.7 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>Кнопка навигации. Двухстрочный дисплей (русский язык).</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115538">
+    <title>Brother FAX-236</title>
+    <model>FAX-236</model>
+    <marka>Brother</marka>
+    <catalog id="118746">Факсы </catalog>
+    
+    <price1>3590</price1>
+    <price2>5586</price2>
+    <description>
+
+
+факс, печать на термобумаге, тип бумаги - рулон, 9.6 Кбит/с, авторезак для бумаги
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип печати</name>
+          <value>печать на термобумаге</value>
+        </item>
+        <item>
+          <name>Максимальное разрешение факса</name>
+          <value>203x196 dpi</value>
+        </item>
+        <item>
+          <name>Количество полутонов</name>
+          <value>64</value>
+        </item>
+        <item>
+          <name>Скорость модема</name>
+          <value>9.6 Кбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Бумага</name>
+        <item>
+          <name>Тип бумаги</name>
+          <value>рулон</value>
+        </item>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x297 мм</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи</name>
+          <value>10 листов</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Автопереключение факс/телефон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенная передача</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Однокнопочный набор</name>
+          <value>4 кнопок</value>
+        </item>
+        <item>
+          <name>Записная книжка</name>
+          <value>100 номеров</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Проводная трубка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Авторезак для бумаги</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>299x137x240 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.9 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>Система антискручивания бумаги. Режим сглаживания. 16 разрядный ЖК дисплей. Ночной режим. Возможность удаленного управления функциями аппарата. Функция запрета несанкционированного использования факсимильного аппарата с помощью пароля.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115540">
+    <title>Brother FAX-T106</title>
+    <model>FAX-T106</model>
+    <marka>Brother</marka>
+    <catalog id="118746">Факсы </catalog>
+    
+    <price1>4480</price1>
+    <price2>5737</price2>
+    <description>
+
+
+факс/копир, термоперенос, тип бумаги - лист, 14.4 Кбит/с, автоответчик
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип печати</name>
+          <value>термоперенос</value>
+        </item>
+        <item>
+          <name>Количество полутонов</name>
+          <value>64</value>
+        </item>
+        <item>
+          <name>Скорость модема</name>
+          <value>14.4 Кбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Бумага</name>
+        <item>
+          <name>Тип бумаги</name>
+          <value>лист</value>
+        </item>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x297 мм</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи</name>
+          <value>10 листов</value>
+        </item>
+        <item>
+          <name>Емкость лотка для бумаги</name>
+          <value>30 листов</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Автоответчик</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автопереключение факс/телефон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенная передача</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Однокнопочный набор</name>
+          <value>4 кнопок</value>
+        </item>
+        <item>
+          <name>Записная книжка</name>
+          <value>100 номеров</value>
+        </item>
+        <item>
+          <name>Память для приема факсов</name>
+          <value>25 листов</value>
+        </item>
+        <item>
+          <name>Память на отправку факсов</name>
+          <value>25 листов</value>
+        </item>
+        <item>
+          <name>Многоадресная рассылка</name>
+          <value>104 абонентов</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Функция копирования</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Проводная трубка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>302x132x186 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.7 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>Функция сглаживания изображения.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115541">
+    <title>Philips PPF 685 Magic 5 Voice Dect</title>
+    <model>PPF 685 Magic 5 Voice Dect</model>
+    <marka>Philips</marka>
+    <catalog id="118746">Факсы </catalog>
+    
+    <price1>4240</price1>
+    <price2>5650</price2>
+    <description>
+
+
+факс, термоперенос, тип бумаги - лист, 14.4 Кбит/с, автоответчик
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип печати</name>
+          <value>термоперенос</value>
+        </item>
+        <item>
+          <name>Количество полутонов</name>
+          <value>64</value>
+        </item>
+        <item>
+          <name>Скорость модема</name>
+          <value>14.4 Кбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Бумага</name>
+        <item>
+          <name>Тип бумаги</name>
+          <value>лист</value>
+        </item>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x297 мм</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи</name>
+          <value>10 листов</value>
+        </item>
+        <item>
+          <name>Емкость лотка для бумаги</name>
+          <value>50 листов</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Автоответчик</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автопереключение факс/телефон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенная передача</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Однокнопочный набор</name>
+          <value>10 кнопок</value>
+        </item>
+        <item>
+          <name>Записная книжка</name>
+          <value>200 номеров</value>
+        </item>
+        <item>
+          <name>Память для приема факсов</name>
+          <value>50 листов</value>
+        </item>
+        <item>
+          <name>Память на отправку факсов</name>
+          <value>50 листов</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Проводная трубка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Беспроводная трубка</name>
+          <value>есть (DECT)</value>
+        </item>
+        <item>
+          <name>Спикерфон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулятор уровня громкости в трубке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>313x129x197 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.9 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115542">
+    <title>Philips PPF-675</title>
+    <model>PPF-675</model>
+    <marka>Philips</marka>
+    <catalog id="118746">Факсы </catalog>
+    
+    <price1>2817</price1>
+    <price2>3834</price2>
+    <description>
+
+
+факс, термоперенос, тип бумаги - лист, 9.6 Кбит/с, автоответчик, авторезак для бумаги
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип печати</name>
+          <value>термоперенос</value>
+        </item>
+        <item>
+          <name>Скорость модема</name>
+          <value>14.4 Кбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Бумага</name>
+        <item>
+          <name>Тип бумаги</name>
+          <value>лист</value>
+        </item>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x297 мм</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи</name>
+          <value>10 листов</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Автоответчик</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автопереключение факс/телефон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенная передача</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Однокнопочный набор</name>
+          <value>10 кнопок</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Проводная трубка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Спикерфон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Авторезак для бумаги</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>313x129x197 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.9 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115543">
+    <title>Philips PPF 631 Magic 5 Primo</title>
+    <model>PPF 631 Magic 5 Primo</model>
+    <marka>Philips</marka>
+    <catalog id="118746">Факсы </catalog>
+    
+    <price1>2739</price1>
+    <price2>3650</price2>
+    <description>
+
+
+факс, термоперенос, тип бумаги - лист, 9.6 Кбит/с
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип печати</name>
+          <value>термоперенос</value>
+        </item>
+        <item>
+          <name>Количество полутонов</name>
+          <value>16</value>
+        </item>
+        <item>
+          <name>Скорость модема</name>
+          <value>9.6 Кбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Бумага</name>
+        <item>
+          <name>Тип бумаги</name>
+          <value>лист</value>
+        </item>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x297 мм</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи</name>
+          <value>10 листов</value>
+        </item>
+        <item>
+          <name>Емкость лотка для бумаги</name>
+          <value>50 листов</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Автопереключение факс/телефон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенная передача</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Однокнопочный набор</name>
+          <value>10 кнопок</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Проводная трубка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Спикерфон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулятор уровня громкости в трубке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>317x150x210 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.9 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115545">
+    <title>Brother FAX-T104</title>
+    <model>FAX-T104</model>
+    <marka>Brother</marka>
+    <catalog id="118746">Факсы </catalog>
+    
+    <price1>3549</price1>
+    <price2>6056</price2>
+    <description>
+
+
+факс/копир, термоперенос, тип бумаги - лист, 9.6 Кбит/с
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип печати</name>
+          <value>термоперенос</value>
+        </item>
+        <item>
+          <name>Количество полутонов</name>
+          <value>64</value>
+        </item>
+        <item>
+          <name>Скорость модема</name>
+          <value>9.6 Кбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Бумага</name>
+        <item>
+          <name>Тип бумаги</name>
+          <value>лист</value>
+        </item>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x297 мм</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи</name>
+          <value>10 листов</value>
+        </item>
+        <item>
+          <name>Емкость лотка для бумаги</name>
+          <value>30 листов</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>Автопереключение факс/телефон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Отложенная передача</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Однокнопочный набор</name>
+          <value>4 кнопок</value>
+        </item>
+        <item>
+          <name>Записная книжка</name>
+          <value>100 номеров</value>
+        </item>
+        <item>
+          <name>Память для приема факсов</name>
+          <value>25 листов</value>
+        </item>
+        <item>
+          <name>Память на отправку факсов</name>
+          <value>25 листов</value>
+        </item>
+        <item>
+          <name>Многоадресная рассылка</name>
+          <value>104 абонентов</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Функция копирования</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Проводная трубка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>302x132x186 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>2.7 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>Функция сглаживания изображения.</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115547">
+    <title>Panasonic KX-FT504</title>
+    <model>KX-FT504</model>
+    <marka>Panasonic</marka>
+    <catalog id="118746">Факсы </catalog>
+    
+    <price1>4330</price1>
+    <price2>6210</price2>
+    <description>
+
+
+факс/копир, печать на термобумаге, тип бумаги - рулон, 9.6 Кбит/с, авторезак для бумаги
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип печати</name>
+          <value>печать на термобумаге</value>
+        </item>
+        <item>
+          <name>Количество полутонов</name>
+          <value>64</value>
+        </item>
+        <item>
+          <name>Скорость модема</name>
+          <value>9.6 Кбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Бумага</name>
+        <item>
+          <name>Тип бумаги</name>
+          <value>рулон</value>
+        </item>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x600 мм</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи</name>
+          <value>10 листов</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>АОН</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Caller ID</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автопереключение факс/телефон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Записная книжка</name>
+          <value>110 номеров</value>
+        </item>
+        <item>
+          <name>Память для приема факсов</name>
+          <value>28 листов</value>
+        </item>
+        <item>
+          <name>Многоадресная рассылка</name>
+          <value>20 абонентов</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Функция копирования</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Проводная трубка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Спикерфон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулятор уровня громкости в трубке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Авторезак для бумаги</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>диск Jog Dial для быстрого доступ, LCD-дисплей</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="115548">
+    <title>Panasonic KX-FT502</title>
+    <model>KX-FT502</model>
+    <marka>Panasonic</marka>
+    <catalog id="118746">Факсы </catalog>
+    
+    <price1>3393</price1>
+    <price2>6296</price2>
+    <description>
+
+
+факс/копир, печать на термобумаге, тип бумаги - рулон, 9.6 Кбит/с
+
+</description>
+    <specification>
+      <items>
+        <name>Технические характеристики</name>
+        <item>
+          <name>Тип печати</name>
+          <value>печать на термобумаге</value>
+        </item>
+        <item>
+          <name>Количество полутонов</name>
+          <value>64</value>
+        </item>
+        <item>
+          <name>Скорость модема</name>
+          <value>9.6 Кбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Бумага</name>
+        <item>
+          <name>Тип бумаги</name>
+          <value>рулон</value>
+        </item>
+        <item>
+          <name>Максимальный формат бумаги</name>
+          <value>A4</value>
+        </item>
+        <item>
+          <name>Максимальный размер документа</name>
+          <value>216x600 мм</value>
+        </item>
+        <item>
+          <name>Емкость устройства автоподачи</name>
+          <value>10 листов</value>
+        </item>
+      </items>
+      <items>
+        <name>Функции</name>
+        <item>
+          <name>АОН</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Caller ID</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автопереключение факс/телефон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Записная книжка</name>
+          <value>110 номеров</value>
+        </item>
+        <item>
+          <name>Память для приема факсов</name>
+          <value>28 листов</value>
+        </item>
+        <item>
+          <name>Многоадресная рассылка</name>
+          <value>20 абонентов</value>
+        </item>
+      </items>
+      <items>
+        <name>Копир</name>
+        <item>
+          <name>Функция копирования</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Проводная трубка</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Спикерфон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Регулятор уровня громкости в трубке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>диск Jog Dial для быстрого доступ, LCD-дисплей</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

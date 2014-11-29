@@ -1,0 +1,1958 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="112462">
+    <title>Horizon Ti 22</title>
+    <model>Ti 22</model>
+    <marka>Horizon</marka>
+    <catalog id="1041365">Беговые дорожки</catalog>
+    
+    <price1>53500</price1>
+    <price2>54890</price2>
+    <description>
+
+электрическая, складная, мощность двигателя 2 л.с., максимальная скорость 16 км/ч, регулировка угла наклона: автоматическая (до 12 град.), измерение пульса, размер полотна 46 х 132 см, вес 84 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электрическая</value>
+        </item>
+        <item>
+          <name>Конструкция</name>
+          <value>складная</value>
+        </item>
+        <item>
+          <name>Максимальный вес пользователя</name>
+          <value>136 кг</value>
+        </item>
+        <item>
+          <name>Система амортизации</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность профессионального использования</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры бегового полотна</name>
+          <value>46x132 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Техническая информация</name>
+        <item>
+          <name>Двигатель</name>
+          <value>2 л.с.</value>
+        </item>
+        <item>
+          <name>Скорость движения бегового полотна</name>
+          <value>0.80 - 16 км/ч</value>
+        </item>
+        <item>
+          <name>Регулировка угла наклона</name>
+          <value>автоматическая, максимальный угол наклона 12 град.</value>
+        </item>
+        <item>
+          <name>Измерение пульса</name>
+          <value>есть (встроенный датчик), кардиодатчик на ручке</value>
+        </item>
+      </items>
+      <items>
+        <name>Программы</name>
+        <item>
+          <name>Количество программ тренировки</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Возможность программирования тренировки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенные программы</name>
+          <value>программа Quick Start</value>
+        </item>
+        <item>
+          <name>Показания</name>
+          <value>текущая скорость, расход энергии, пройденная дистанция, угол наклона</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Оборудование</name>
+          <value>вентилятор</value>
+        </item>
+        <item>
+          <name>Удобства</name>
+          <value>подставка для стакана, транспортировочные ролики/колеса</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхВ)</name>
+          <value>182x80x140 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>84 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="112463">
+    <title>Oxygen Plasma</title>
+    <model>Plasma</model>
+    <marka>Oxygen</marka>
+    <catalog id="1041365">Беговые дорожки</catalog>
+    
+    <price1>52190</price1>
+    <price2>60390</price2>
+    <description>
+
+электрическая, складная, мощность двигателя 3.25 л.с., максимальная скорость 20 км/ч, регулировка угла наклона: автоматическая (до 15 град.), измерение пульса, размер полотна 51 х 140 см, профессиональная, вес 114 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электрическая</value>
+        </item>
+        <item>
+          <name>Конструкция</name>
+          <value>складная</value>
+        </item>
+        <item>
+          <name>Максимальный вес пользователя</name>
+          <value>160 кг</value>
+        </item>
+        <item>
+          <name>Система амортизации</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность профессионального использования</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры бегового полотна</name>
+          <value>51x140 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Техническая информация</name>
+        <item>
+          <name>Двигатель</name>
+          <value>3.25 л.с.</value>
+        </item>
+        <item>
+          <name>Скорость движения бегового полотна</name>
+          <value>0.80 - 20 км/ч</value>
+        </item>
+        <item>
+          <name>Регулировка угла наклона</name>
+          <value>автоматическая (плавная), максимальный угол наклона 15 град.</value>
+        </item>
+        <item>
+          <name>Измерение пульса</name>
+          <value>есть, нагрудный кардиодатчик (встроенный датчик), кардиодатчик на ручке, возможность подключения беспроводного датчика</value>
+        </item>
+      </items>
+      <items>
+        <name>Программы</name>
+        <item>
+          <name>Количество программ тренировки</name>
+          <value>32</value>
+        </item>
+        <item>
+          <name>Возможность программирования тренировки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенные программы</name>
+          <value>программа постоянного пульса</value>
+        </item>
+        <item>
+          <name>Количество пульсозависимых программ</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Показания</name>
+          <value>текущая скорость, расход энергии, пройденная дистанция, угол наклона</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Мультимедийные возможности</name>
+          <value>динамики</value>
+        </item>
+        <item>
+          <name>Удобства</name>
+          <value>подставка для стакана, транспортировочные ролики/колеса, компенсаторы неровности пола</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхВ)</name>
+          <value>206x85x139 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>114 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="112464">
+    <title>Torneo Linia T-203</title>
+    <model>Linia T-203</model>
+    <marka>Torneo</marka>
+    <catalog id="1041365">Беговые дорожки</catalog>
+    
+    <price1>16800</price1>
+    <price2>19999</price2>
+    <description>
+
+электрическая, складная, мощность двигателя 1 л.с., максимальная скорость 13 км/ч, регулировка угла наклона: нет, измерение пульса, размер полотна 40 х 110 см, вес 47 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электрическая</value>
+        </item>
+        <item>
+          <name>Конструкция</name>
+          <value>складная</value>
+        </item>
+        <item>
+          <name>Максимальный вес пользователя</name>
+          <value>100 кг</value>
+        </item>
+        <item>
+          <name>Система амортизации</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность профессионального использования</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры бегового полотна</name>
+          <value>40x110 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Техническая информация</name>
+        <item>
+          <name>Двигатель</name>
+          <value>1 л.с.</value>
+        </item>
+        <item>
+          <name>Скорость движения бегового полотна</name>
+          <value>до 13 км/ч</value>
+        </item>
+        <item>
+          <name>Регулировка угла наклона</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Измерение пульса</name>
+          <value>есть (встроенный датчик), кардиодатчик на ручке</value>
+        </item>
+      </items>
+      <items>
+        <name>Программы</name>
+        <item>
+          <name>Количество программ тренировки</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Количество уровней нагрузки</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Возможность программирования тренировки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Показания</name>
+          <value>текущая скорость, расход энергии, пройденная дистанция</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Удобства</name>
+          <value>подставка для стакана, транспортировочные ролики/колеса, компенсаторы неровности пола</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхВ)</name>
+          <value>160x72x136 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>47 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="112466">
+    <title>Horizon Evolve</title>
+    <model>Evolve</model>
+    <marka>Horizon</marka>
+    <catalog id="1041365">Беговые дорожки</catalog>
+    
+    <price1>43890</price1>
+    <price2>51890</price2>
+    <description>
+
+электрическая, складная, мощность двигателя 1.5 л.с., максимальная скорость 10 км/ч, регулировка угла наклона: нет, измерение пульса, размер полотна 43 х 120 см, профессиональная, вес 48 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электрическая</value>
+        </item>
+        <item>
+          <name>Конструкция</name>
+          <value>складная</value>
+        </item>
+        <item>
+          <name>Максимальный вес пользователя</name>
+          <value>130 кг</value>
+        </item>
+        <item>
+          <name>Возможность профессионального использования</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры бегового полотна</name>
+          <value>43x120 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Техническая информация</name>
+        <item>
+          <name>Двигатель</name>
+          <value>1.5 л.с.</value>
+        </item>
+        <item>
+          <name>Скорость движения бегового полотна</name>
+          <value>1 - 10 км/ч</value>
+        </item>
+        <item>
+          <name>Регулировка угла наклона</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Измерение пульса</name>
+          <value>есть (встроенный датчик), кардиодатчик на ручке</value>
+        </item>
+      </items>
+      <items>
+        <name>Программы</name>
+        <item>
+          <name>Количество программ тренировки</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Возможность программирования тренировки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Встроенные программы</name>
+          <value>программа Quick Start, программа Cool Down</value>
+        </item>
+        <item>
+          <name>Показания</name>
+          <value>сканирующий режим, текущая скорость, расход энергии, пройденная дистанция</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Мультимедийные возможности</name>
+          <value>динамики</value>
+        </item>
+        <item>
+          <name>Удобства</name>
+          <value>подставка для книг, транспортировочные ролики/колеса</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхВ)</name>
+          <value>158x68x121 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>48 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="112470">
+    <title>Oxygen Yukon</title>
+    <model>Yukon</model>
+    <marka>Oxygen</marka>
+    <catalog id="1041365">Беговые дорожки</catalog>
+    
+    <price1>12290</price1>
+    <price2>14090</price2>
+    <description>
+
+электрическая, складная, мощность двигателя 1.25 л.с., максимальная скорость 10 км/ч, регулировка угла наклона: нет, размер полотна 32 х 105 см, вес 22 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электрическая</value>
+        </item>
+        <item>
+          <name>Конструкция</name>
+          <value>складная</value>
+        </item>
+        <item>
+          <name>Максимальный вес пользователя</name>
+          <value>90 кг</value>
+        </item>
+        <item>
+          <name>Система амортизации</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность профессионального использования</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры бегового полотна</name>
+          <value>32x105 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Техническая информация</name>
+        <item>
+          <name>Двигатель</name>
+          <value>1.25 л.с.</value>
+        </item>
+        <item>
+          <name>Скорость движения бегового полотна</name>
+          <value>1 - 10 км/ч</value>
+        </item>
+        <item>
+          <name>Регулировка угла наклона</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Измерение пульса</name>
+          <value>нет</value>
+        </item>
+      </items>
+      <items>
+        <name>Программы</name>
+        <item>
+          <name>Возможность программирования тренировки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Показания</name>
+          <value>текущая скорость, расход энергии, пройденная дистанция</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Удобства</name>
+          <value>транспортировочные ролики/колеса, компенсаторы неровности пола</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхВ)</name>
+          <value>138x55x113 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>22 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="112473">
+    <title>Horizon Ti 32</title>
+    <model>Ti 32</model>
+    <marka>Horizon</marka>
+    <catalog id="1041365">Беговые дорожки</catalog>
+    
+    <price1>62000</price1>
+    <price2>64890</price2>
+    <description>
+
+электрическая, складная, мощность двигателя 2.25 л.с., максимальная скорость 20 км/ч, регулировка угла наклона: автоматическая (до 10 град.), измерение пульса, размер полотна 46 х 140 см, профессиональная, вес 90 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электрическая</value>
+        </item>
+        <item>
+          <name>Конструкция</name>
+          <value>складная</value>
+        </item>
+        <item>
+          <name>Максимальный вес пользователя</name>
+          <value>160 кг</value>
+        </item>
+        <item>
+          <name>Система амортизации</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность профессионального использования</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры бегового полотна</name>
+          <value>46x140 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Техническая информация</name>
+        <item>
+          <name>Двигатель</name>
+          <value>2.25 л.с.</value>
+        </item>
+        <item>
+          <name>Скорость движения бегового полотна</name>
+          <value>0.80 - 20 км/ч</value>
+        </item>
+        <item>
+          <name>Регулировка угла наклона</name>
+          <value>автоматическая (плавная), максимальный угол наклона 10 град.</value>
+        </item>
+        <item>
+          <name>Измерение пульса</name>
+          <value>есть, кардиодатчик на ручке</value>
+        </item>
+      </items>
+      <items>
+        <name>Программы</name>
+        <item>
+          <name>Количество программ тренировки</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Возможность программирования тренировки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество пульсозависимых программ</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Показания</name>
+          <value>текущая скорость, расход энергии, пройденная дистанция, угол наклона</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Удобства</name>
+          <value>подставка для стакана, транспортировочные ролики/колеса</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхВ)</name>
+          <value>190x80x140 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>90 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="112474">
+    <title>Vision Fitness T9550 Premier</title>
+    <model>T9550 Premier</model>
+    <marka>Vision Fitness</marka>
+    <catalog id="1041365">Беговые дорожки</catalog>
+    
+    <price1>125890</price1>
+    <price2>145890</price2>
+    <description>
+
+электрическая, складная, мощность двигателя 3 л.с., максимальная скорость 19.3 км/ч, регулировка угла наклона: автоматическая (до 12 град.), измерение пульса, размер полотна 51 х 145 см, профессиональная, вес 114 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электрическая</value>
+        </item>
+        <item>
+          <name>Конструкция</name>
+          <value>складная</value>
+        </item>
+        <item>
+          <name>Максимальный вес пользователя</name>
+          <value>143 кг</value>
+        </item>
+        <item>
+          <name>Система амортизации</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность профессионального использования</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры бегового полотна</name>
+          <value>51x145 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Техническая информация</name>
+        <item>
+          <name>Двигатель</name>
+          <value>3 л.с.</value>
+        </item>
+        <item>
+          <name>Скорость движения бегового полотна</name>
+          <value>0.80 - 19.30 км/ч</value>
+        </item>
+        <item>
+          <name>Регулировка угла наклона</name>
+          <value>автоматическая (плавная), максимальный угол наклона 12 град.</value>
+        </item>
+        <item>
+          <name>Измерение пульса</name>
+          <value>есть (встроенный датчик), кардиодатчик на ручке, возможность подключения беспроводного датчика</value>
+        </item>
+      </items>
+      <items>
+        <name>Программы</name>
+        <item>
+          <name>Количество программ тренировки</name>
+          <value>21</value>
+        </item>
+        <item>
+          <name>Возможность программирования тренировки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенные программы</name>
+          <value>тренировка по времени, тренировка по расстоянию</value>
+        </item>
+        <item>
+          <name>Количество пульсозависимых программ</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Показания</name>
+          <value>текущая скорость, средняя скорость, расход энергии, пройденная дистанция, темп, угол наклона</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Мультимедийные возможности</name>
+          <value>цветной дисплей</value>
+        </item>
+        <item>
+          <name>Удобства</name>
+          <value>подставка для книг, подставка для стакана, транспортировочные ролики/колеса, компенсаторы неровности пола</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхВ)</name>
+          <value>193x84x140 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>114 кг</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>AV-вход</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="112483">
+    <title>Horizon Ti 52</title>
+    <model>Ti 52</model>
+    <marka>Horizon</marka>
+    <catalog id="1041365">Беговые дорожки</catalog>
+    
+    <price1>73000</price1>
+    <price2>74890</price2>
+    <description>
+
+электрическая, складная, мощность двигателя 2.5 л.с., максимальная скорость 20 км/ч, регулировка угла наклона: автоматическая (до 12 град.), измерение пульса, размер полотна 48 х 143 см, вес 96 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электрическая</value>
+        </item>
+        <item>
+          <name>Конструкция</name>
+          <value>складная</value>
+        </item>
+        <item>
+          <name>Максимальный вес пользователя</name>
+          <value>170 кг</value>
+        </item>
+        <item>
+          <name>Система амортизации</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность профессионального использования</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры бегового полотна</name>
+          <value>48x143 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Техническая информация</name>
+        <item>
+          <name>Двигатель</name>
+          <value>2.5 л.с.</value>
+        </item>
+        <item>
+          <name>Скорость движения бегового полотна</name>
+          <value>0.80 - 20 км/ч</value>
+        </item>
+        <item>
+          <name>Регулировка угла наклона</name>
+          <value>автоматическая (плавная), максимальный угол наклона 12 град.</value>
+        </item>
+        <item>
+          <name>Измерение пульса</name>
+          <value>есть, кардиодатчик на ручке</value>
+        </item>
+      </items>
+      <items>
+        <name>Программы</name>
+        <item>
+          <name>Количество программ тренировки</name>
+          <value>10</value>
+        </item>
+        <item>
+          <name>Возможность программирования тренировки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Количество пульсозависимых программ</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Показания</name>
+          <value>текущая скорость, расход энергии, пройденная дистанция, угол наклона</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Удобства</name>
+          <value>подставка для стакана, транспортировочные ролики/колеса</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхВ)</name>
+          <value>198x80x140 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>96 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="112486">
+    <title>Torneo Nota T-307</title>
+    <model>Nota T-307</model>
+    <marka>Torneo</marka>
+    <catalog id="1041365">Беговые дорожки</catalog>
+    
+    <price1>20750</price1>
+    <price2>27000</price2>
+    <description>
+
+электрическая, складная, мощность двигателя 1.25 л.с., максимальная скорость 16 км/ч, регулировка угла наклона: ручная, измерение пульса, размер полотна 40 х 120 см, вес 58 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электрическая</value>
+        </item>
+        <item>
+          <name>Конструкция</name>
+          <value>складная</value>
+        </item>
+        <item>
+          <name>Максимальный вес пользователя</name>
+          <value>110 кг</value>
+        </item>
+        <item>
+          <name>Система амортизации</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность профессионального использования</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры бегового полотна</name>
+          <value>40x120 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Техническая информация</name>
+        <item>
+          <name>Двигатель</name>
+          <value>1.25 л.с.</value>
+        </item>
+        <item>
+          <name>Скорость движения бегового полотна</name>
+          <value>1 - 16 км/ч</value>
+        </item>
+        <item>
+          <name>Регулировка угла наклона</name>
+          <value>ручная (ступенчатая)</value>
+        </item>
+        <item>
+          <name>Измерение пульса</name>
+          <value>есть (встроенный датчик), кардиодатчик на ручке</value>
+        </item>
+      </items>
+      <items>
+        <name>Программы</name>
+        <item>
+          <name>Количество программ тренировки</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Количество уровней нагрузки</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Возможность программирования тренировки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Встроенные программы</name>
+          <value>фитнес-оценка, тренировка по времени, тренировка по расстоянию</value>
+        </item>
+        <item>
+          <name>Оценка Body Fat</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Показания</name>
+          <value>текущая скорость, расход энергии, пройденная дистанция</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Удобства</name>
+          <value>подставка для стакана, транспортировочные ролики/колеса, компенсаторы неровности пола</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхВ)</name>
+          <value>162x77x135 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>58 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="112489">
+    <title>JOHNSON T7000</title>
+    <model>T7000</model>
+    <marka>JOHNSON</marka>
+    <catalog id="1041365">Беговые дорожки</catalog>
+    
+    <price1>149890</price1>
+    <price2>189890</price2>
+    <description>
+
+электрическая, мощность двигателя 3.2 л.с., максимальная скорость 20 км/ч, регулировка угла наклона: автоматическая (до 12 град.), измерение пульса, размер полотна 51 х 153 см, профессиональная, вес 155 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электрическая</value>
+        </item>
+        <item>
+          <name>Максимальный вес пользователя</name>
+          <value>159 кг</value>
+        </item>
+        <item>
+          <name>Система амортизации</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность профессионального использования</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры бегового полотна</name>
+          <value>51x153 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Техническая информация</name>
+        <item>
+          <name>Двигатель</name>
+          <value>3.2 л.с.</value>
+        </item>
+        <item>
+          <name>Скорость движения бегового полотна</name>
+          <value>0.80 - 20 км/ч</value>
+        </item>
+        <item>
+          <name>Регулировка угла наклона</name>
+          <value>автоматическая, максимальный угол наклона 12 град.</value>
+        </item>
+        <item>
+          <name>Измерение пульса</name>
+          <value>есть, нагрудный кардиодатчик, кардиодатчик на ручке</value>
+        </item>
+      </items>
+      <items>
+        <name>Программы</name>
+        <item>
+          <name>Количество программ тренировки</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Встроенные программы</name>
+          <value>программа Quick Start</value>
+        </item>
+        <item>
+          <name>Оценка Body Fat</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Показания</name>
+          <value>текущая скорость, расход энергии, пройденная дистанция, темп, угол наклона</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Удобства</name>
+          <value>подставка для стакана, транспортировочные ролики/колеса</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхВ)</name>
+          <value>214x82x144 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>155 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="112492">
+    <title>Vision Fitness T9550 Deluxe</title>
+    <model>T9550 Deluxe</model>
+    <marka>Vision Fitness</marka>
+    <catalog id="1041365">Беговые дорожки</catalog>
+    
+    <price1>114490</price1>
+    <price2>130890</price2>
+    <description>
+
+электрическая, складная, мощность двигателя 3 л.с., максимальная скорость 19.3 км/ч, регулировка угла наклона: автоматическая (до 12 град.), измерение пульса, размер полотна 51 х 145 см, профессиональная, вес 114 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электрическая</value>
+        </item>
+        <item>
+          <name>Конструкция</name>
+          <value>складная</value>
+        </item>
+        <item>
+          <name>Максимальный вес пользователя</name>
+          <value>143 кг</value>
+        </item>
+        <item>
+          <name>Система амортизации</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность профессионального использования</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Размеры бегового полотна</name>
+          <value>51x145 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Техническая информация</name>
+        <item>
+          <name>Двигатель</name>
+          <value>3 л.с.</value>
+        </item>
+        <item>
+          <name>Скорость движения бегового полотна</name>
+          <value>0.80 - 19.30 км/ч</value>
+        </item>
+        <item>
+          <name>Регулировка угла наклона</name>
+          <value>автоматическая (плавная), максимальный угол наклона 12 град.</value>
+        </item>
+        <item>
+          <name>Измерение пульса</name>
+          <value>есть (встроенный датчик), кардиодатчик на ручке, возможность подключения беспроводного датчика</value>
+        </item>
+      </items>
+      <items>
+        <name>Программы</name>
+        <item>
+          <name>Количество программ тренировки</name>
+          <value>18</value>
+        </item>
+        <item>
+          <name>Возможность программирования тренировки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенные программы</name>
+          <value>тренировка по времени, тренировка по расстоянию</value>
+        </item>
+        <item>
+          <name>Количество пульсозависимых программ</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Показания</name>
+          <value>текущая скорость, средняя скорость, расход энергии, пройденная дистанция, темп, угол наклона</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Удобства</name>
+          <value>подставка для книг, подставка для стакана, транспортировочные ролики/колеса, компенсаторы неровности пола</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхВ)</name>
+          <value>193x84x140 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>114 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="112494">
+    <title>Winner Riviera</title>
+    <model>Riviera</model>
+    <marka>Winner</marka>
+    <catalog id="1041365">Беговые дорожки</catalog>
+    
+    <price1>27690</price1>
+    <price2>29690</price2>
+    <description>
+
+электрическая, складная, мощность двигателя 1.75 л.с., максимальная скорость 12 км/ч, регулировка угла наклона: автоматическая (до 15 град.), измерение пульса, размер полотна 40 х 120 см, вес 58 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электрическая</value>
+        </item>
+        <item>
+          <name>Конструкция</name>
+          <value>складная</value>
+        </item>
+        <item>
+          <name>Максимальный вес пользователя</name>
+          <value>130 кг</value>
+        </item>
+        <item>
+          <name>Система амортизации</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность профессионального использования</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры бегового полотна</name>
+          <value>40x120 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Техническая информация</name>
+        <item>
+          <name>Двигатель</name>
+          <value>1.75 л.с.</value>
+        </item>
+        <item>
+          <name>Скорость движения бегового полотна</name>
+          <value>1 - 12 км/ч</value>
+        </item>
+        <item>
+          <name>Регулировка угла наклона</name>
+          <value>автоматическая (плавная), максимальный угол наклона 15 град.</value>
+        </item>
+        <item>
+          <name>Измерение пульса</name>
+          <value>есть (встроенный датчик), кардиодатчик на ручке</value>
+        </item>
+      </items>
+      <items>
+        <name>Программы</name>
+        <item>
+          <name>Количество программ тренировки</name>
+          <value>8</value>
+        </item>
+        <item>
+          <name>Показания</name>
+          <value>текущая скорость, расход энергии, пройденная дистанция, угол наклона</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Удобства</name>
+          <value>транспортировочные ролики/колеса</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>58 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="112497">
+    <title>Treo Fitness T607</title>
+    <model>T607</model>
+    <marka>Treo Fitness</marka>
+    <catalog id="1041365">Беговые дорожки</catalog>
+    
+    <price1>39000</price1>
+    <price2>39890</price2>
+    <description>
+
+электрическая, складная, мощность двигателя 1.5 л.с., максимальная скорость 16 км/ч, регулировка угла наклона: автоматическая (до 10 град.), измерение пульса, размер полотна 46 х 132 см, вес 59 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электрическая</value>
+        </item>
+        <item>
+          <name>Конструкция</name>
+          <value>складная</value>
+        </item>
+        <item>
+          <name>Максимальный вес пользователя</name>
+          <value>113 кг</value>
+        </item>
+        <item>
+          <name>Возможность профессионального использования</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры бегового полотна</name>
+          <value>46x132 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Техническая информация</name>
+        <item>
+          <name>Двигатель</name>
+          <value>1.5 л.с.</value>
+        </item>
+        <item>
+          <name>Скорость движения бегового полотна</name>
+          <value>1.50 - 16 км/ч</value>
+        </item>
+        <item>
+          <name>Регулировка угла наклона</name>
+          <value>автоматическая (плавная), максимальный угол наклона 10 град.</value>
+        </item>
+        <item>
+          <name>Измерение пульса</name>
+          <value>есть (встроенный датчик), кардиодатчик на ручке</value>
+        </item>
+      </items>
+      <items>
+        <name>Программы</name>
+        <item>
+          <name>Количество программ тренировки</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Возможность программирования тренировки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Встроенные программы</name>
+          <value>тренировка по времени, тренировка по расстоянию</value>
+        </item>
+        <item>
+          <name>Показания</name>
+          <value>текущая скорость, расход энергии, пройденная дистанция, угол наклона</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Оборудование</name>
+          <value>вентилятор</value>
+        </item>
+        <item>
+          <name>Удобства</name>
+          <value>подставка для книг, подставка для стакана, транспортировочные ролики/колеса</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхВ)</name>
+          <value>184x84x136 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>59 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="112499">
+    <title>Torneo Magic T-410</title>
+    <model>Magic T-410</model>
+    <marka>Torneo</marka>
+    <catalog id="1041365">Беговые дорожки</catalog>
+    
+    <price1>23900</price1>
+    <price2>35360</price2>
+    <description>
+
+электрическая, складная, мощность двигателя 1.5 л.с., максимальная скорость 16 км/ч, регулировка угла наклона: автоматическая (до 15 град.), измерение пульса, размер полотна 40 х 130 см, вес 75 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электрическая</value>
+        </item>
+        <item>
+          <name>Конструкция</name>
+          <value>складная</value>
+        </item>
+        <item>
+          <name>Максимальный вес пользователя</name>
+          <value>110 кг</value>
+        </item>
+        <item>
+          <name>Система амортизации</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность профессионального использования</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры бегового полотна</name>
+          <value>40x130 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Техническая информация</name>
+        <item>
+          <name>Двигатель</name>
+          <value>1.5 л.с.</value>
+        </item>
+        <item>
+          <name>Скорость движения бегового полотна</name>
+          <value>0.80 - 16 км/ч</value>
+        </item>
+        <item>
+          <name>Регулировка угла наклона</name>
+          <value>автоматическая (плавная), максимальный угол наклона 15 град.</value>
+        </item>
+        <item>
+          <name>Измерение пульса</name>
+          <value>есть (встроенный датчик), кардиодатчик на ручке</value>
+        </item>
+      </items>
+      <items>
+        <name>Программы</name>
+        <item>
+          <name>Количество программ тренировки</name>
+          <value>5</value>
+        </item>
+        <item>
+          <name>Количество уровней нагрузки</name>
+          <value>3</value>
+        </item>
+        <item>
+          <name>Возможность программирования тренировки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Встроенные программы</name>
+          <value>фитнес-оценка, тренировка по времени, тренировка по расстоянию</value>
+        </item>
+        <item>
+          <name>Оценка Body Fat</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Показания</name>
+          <value>текущая скорость, расход энергии, пройденная дистанция, угол наклона</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Удобства</name>
+          <value>подставка для стакана, транспортировочные ролики/колеса</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхВ)</name>
+          <value>172x77x134 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>75 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="112500">
+    <title>Oxygen Quanta</title>
+    <model>Quanta</model>
+    <marka>Oxygen</marka>
+    <catalog id="1041365">Беговые дорожки</catalog>
+    
+    <price1>44490</price1>
+    <price2>49690</price2>
+    <description>
+
+электрическая, складная, мощность двигателя 3 л.с., максимальная скорость 18 км/ч, регулировка угла наклона: автоматическая (до 15 град.), измерение пульса, размер полотна 48 х 135 см, вес 91 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электрическая</value>
+        </item>
+        <item>
+          <name>Конструкция</name>
+          <value>складная</value>
+        </item>
+        <item>
+          <name>Максимальный вес пользователя</name>
+          <value>154 кг</value>
+        </item>
+        <item>
+          <name>Система амортизации</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность профессионального использования</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры бегового полотна</name>
+          <value>48x135 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Техническая информация</name>
+        <item>
+          <name>Двигатель</name>
+          <value>3 л.с.</value>
+        </item>
+        <item>
+          <name>Скорость движения бегового полотна</name>
+          <value>1 - 18 км/ч</value>
+        </item>
+        <item>
+          <name>Регулировка угла наклона</name>
+          <value>автоматическая (плавная), максимальный угол наклона 15 град.</value>
+        </item>
+        <item>
+          <name>Измерение пульса</name>
+          <value>есть (встроенный датчик), кардиодатчик на ручке, возможность подключения беспроводного датчика</value>
+        </item>
+      </items>
+      <items>
+        <name>Программы</name>
+        <item>
+          <name>Количество программ тренировки</name>
+          <value>31</value>
+        </item>
+        <item>
+          <name>Возможность программирования тренировки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенные программы</name>
+          <value>программа постоянного пульса, тренировка по времени, тренировка по расстоянию</value>
+        </item>
+        <item>
+          <name>Количество пульсозависимых программ</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Оценка Body Fat</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Показания</name>
+          <value>текущая скорость, расход энергии, пройденная дистанция, угол наклона</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Мультимедийные возможности</name>
+          <value>динамики</value>
+        </item>
+        <item>
+          <name>Удобства</name>
+          <value>подставка для стакана, транспортировочные ролики/колеса, компенсаторы неровности пола</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхВ)</name>
+          <value>188x82x137 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>91 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="112507">
+    <title>Torneo Correra T-750</title>
+    <model>Correra T-750</model>
+    <marka>Torneo</marka>
+    <catalog id="1041365">Беговые дорожки</catalog>
+    
+    <price1>42920</price1>
+    <price2>55000</price2>
+    <description>
+
+электрическая, складная, мощность двигателя 3 л.с., максимальная скорость 20 км/ч, регулировка угла наклона: автоматическая (до 12 град.), измерение пульса, размер полотна 50 х 148 см, вес 102 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электрическая</value>
+        </item>
+        <item>
+          <name>Конструкция</name>
+          <value>складная</value>
+        </item>
+        <item>
+          <name>Максимальный вес пользователя</name>
+          <value>130 кг</value>
+        </item>
+        <item>
+          <name>Система амортизации</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность профессионального использования</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры бегового полотна</name>
+          <value>50x148 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Техническая информация</name>
+        <item>
+          <name>Двигатель</name>
+          <value>3 л.с.</value>
+        </item>
+        <item>
+          <name>Скорость движения бегового полотна</name>
+          <value>до 20 км/ч</value>
+        </item>
+        <item>
+          <name>Регулировка угла наклона</name>
+          <value>автоматическая (плавная), максимальный угол наклона 12 град.</value>
+        </item>
+        <item>
+          <name>Измерение пульса</name>
+          <value>есть, нагрудный кардиодатчик (встроенный датчик), кардиодатчик на ручке, возможность подключения беспроводного датчика</value>
+        </item>
+      </items>
+      <items>
+        <name>Программы</name>
+        <item>
+          <name>Количество программ тренировки</name>
+          <value>10</value>
+        </item>
+        <item>
+          <name>Возможность программирования тренировки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенные программы</name>
+          <value>фитнес-оценка</value>
+        </item>
+        <item>
+          <name>Количество пульсозависимых программ</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Показания</name>
+          <value>текущая скорость, расход энергии, пройденная дистанция, угол наклона</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Оборудование</name>
+          <value>вентилятор</value>
+        </item>
+        <item>
+          <name>Мультимедийные возможности</name>
+          <value>динамики</value>
+        </item>
+        <item>
+          <name>Удобства</name>
+          <value>подставка для стакана, транспортировочные ролики/колеса, компенсаторы неровности пола</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхВ)</name>
+          <value>195x85x130 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>102 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="112509">
+    <title>Horizon Adventure 1 Plus</title>
+    <model>Adventure 1 Plus</model>
+    <marka>Horizon</marka>
+    <catalog id="1041365">Беговые дорожки</catalog>
+    
+    <price1>42900</price1>
+    <price2>53290</price2>
+    <description>
+
+электрическая, складная, мощность двигателя 1.75 л.с., максимальная скорость 16 км/ч, регулировка угла наклона: автоматическая (до 10 град.), измерение пульса, размер полотна 46 х 135 см, вес 79 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электрическая</value>
+        </item>
+        <item>
+          <name>Конструкция</name>
+          <value>складная</value>
+        </item>
+        <item>
+          <name>Максимальный вес пользователя</name>
+          <value>125 кг</value>
+        </item>
+        <item>
+          <name>Система амортизации</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность профессионального использования</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры бегового полотна</name>
+          <value>46x135 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Техническая информация</name>
+        <item>
+          <name>Двигатель</name>
+          <value>1.75 л.с.</value>
+        </item>
+        <item>
+          <name>Скорость движения бегового полотна</name>
+          <value>0.80 - 16 км/ч</value>
+        </item>
+        <item>
+          <name>Регулировка угла наклона</name>
+          <value>автоматическая (плавная), максимальный угол наклона 10 град.</value>
+        </item>
+        <item>
+          <name>Измерение пульса</name>
+          <value>есть (встроенный датчик), кардиодатчик на ручке</value>
+        </item>
+      </items>
+      <items>
+        <name>Программы</name>
+        <item>
+          <name>Количество программ тренировки</name>
+          <value>6</value>
+        </item>
+        <item>
+          <name>Возможность программирования тренировки</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Встроенные программы</name>
+          <value>программа постоянного пульса, тренировка по времени, тренировка по расстоянию, программа Холмы</value>
+        </item>
+        <item>
+          <name>Показания</name>
+          <value>сканирующий режим, текущая скорость, расход энергии, пройденная дистанция, угол наклона</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Удобства</name>
+          <value>подставка для стакана, транспортировочные ролики/колеса, компенсаторы неровности пола</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхВ)</name>
+          <value>177x85x134 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>79 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="112516">
+    <title>HouseFit HT-9087HP</title>
+    <model>HT-9087HP</model>
+    <marka>HouseFit</marka>
+    <catalog id="1041365">Беговые дорожки</catalog>
+    
+    <price1>16450</price1>
+    <price2>24100</price2>
+    <description>
+
+электрическая, складная, мощность двигателя 1.5 л.с., максимальная скорость 12 км/ч, регулировка угла наклона: ручная, измерение пульса, размер полотна 40 х 108 см, вес 46 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электрическая</value>
+        </item>
+        <item>
+          <name>Конструкция</name>
+          <value>складная</value>
+        </item>
+        <item>
+          <name>Максимальный вес пользователя</name>
+          <value>100 кг</value>
+        </item>
+        <item>
+          <name>Система амортизации</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность профессионального использования</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры бегового полотна</name>
+          <value>40x108 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Техническая информация</name>
+        <item>
+          <name>Двигатель</name>
+          <value>1.5 л.с.</value>
+        </item>
+        <item>
+          <name>Скорость движения бегового полотна</name>
+          <value>1 - 12 км/ч</value>
+        </item>
+        <item>
+          <name>Регулировка угла наклона</name>
+          <value>ручная (ступенчатая)</value>
+        </item>
+        <item>
+          <name>Измерение пульса</name>
+          <value>есть (встроенный датчик), кардиодатчик на ручке</value>
+        </item>
+      </items>
+      <items>
+        <name>Программы</name>
+        <item>
+          <name>Количество программ тренировки</name>
+          <value>7</value>
+        </item>
+        <item>
+          <name>Возможность программирования тренировки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Показания</name>
+          <value>сканирующий режим, текущая скорость, расход энергии, пройденная дистанция</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Удобства</name>
+          <value>транспортировочные ролики/колеса, компенсаторы неровности пола</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхВ)</name>
+          <value>148x68x130 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>46 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="112517">
+    <title>Oxygen Rhein</title>
+    <model>Rhein</model>
+    <marka>Oxygen</marka>
+    <catalog id="1041365">Беговые дорожки</catalog>
+    
+    <price1>19656</price1>
+    <price2>20690</price2>
+    <description>
+
+электрическая, складная, мощность двигателя 1.5 л.с., максимальная скорость 12 км/ч, регулировка угла наклона: ручная (до 4 град.), измерение пульса, размер полотна 40 х 120 см, вес 50 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электрическая</value>
+        </item>
+        <item>
+          <name>Конструкция</name>
+          <value>складная</value>
+        </item>
+        <item>
+          <name>Максимальный вес пользователя</name>
+          <value>120 кг</value>
+        </item>
+        <item>
+          <name>Система амортизации</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Возможность профессионального использования</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры бегового полотна</name>
+          <value>40x120 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Техническая информация</name>
+        <item>
+          <name>Двигатель</name>
+          <value>1.5 л.с.</value>
+        </item>
+        <item>
+          <name>Скорость движения бегового полотна</name>
+          <value>1 - 12 км/ч</value>
+        </item>
+        <item>
+          <name>Регулировка угла наклона</name>
+          <value>ручная (ступенчатая), максимальный угол наклона 4 град.</value>
+        </item>
+        <item>
+          <name>Измерение пульса</name>
+          <value>есть (встроенный датчик), кардиодатчик на ручке</value>
+        </item>
+      </items>
+      <items>
+        <name>Программы</name>
+        <item>
+          <name>Количество программ тренировки</name>
+          <value>25</value>
+        </item>
+        <item>
+          <name>Показания</name>
+          <value>текущая скорость, расход энергии, пройденная дистанция</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Удобства</name>
+          <value>подставка для стакана, транспортировочные ролики/колеса, компенсаторы неровности пола</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхВ)</name>
+          <value>155x70x133 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>50 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="112522">
+    <title>HouseFit PHT-001</title>
+    <model>PHT-001</model>
+    <marka>HouseFit</marka>
+    <catalog id="1041365">Беговые дорожки</catalog>
+    
+    <price1>51100</price1>
+    <price2>68100</price2>
+    <description>
+
+электрическая, складная, мощность двигателя 3 л.с., максимальная скорость 20 км/ч, регулировка угла наклона: автоматическая (до 16 град.), измерение пульса, размер полотна 49 х 146 см, вес 106.5 кг
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Тип</name>
+          <value>электрическая</value>
+        </item>
+        <item>
+          <name>Конструкция</name>
+          <value>складная</value>
+        </item>
+        <item>
+          <name>Максимальный вес пользователя</name>
+          <value>136 кг</value>
+        </item>
+        <item>
+          <name>Возможность профессионального использования</name>
+          <value>нет</value>
+        </item>
+        <item>
+          <name>Размеры бегового полотна</name>
+          <value>49x146 см</value>
+        </item>
+      </items>
+      <items>
+        <name>Техническая информация</name>
+        <item>
+          <name>Двигатель</name>
+          <value>3 л.с.</value>
+        </item>
+        <item>
+          <name>Скорость движения бегового полотна</name>
+          <value>до 20 км/ч</value>
+        </item>
+        <item>
+          <name>Регулировка угла наклона</name>
+          <value>автоматическая, максимальный угол наклона 16 град.</value>
+        </item>
+        <item>
+          <name>Измерение пульса</name>
+          <value>есть (встроенный датчик), кардиодатчик на ручке</value>
+        </item>
+      </items>
+      <items>
+        <name>Программы</name>
+        <item>
+          <name>Количество программ тренировки</name>
+          <value>14</value>
+        </item>
+        <item>
+          <name>Возможность программирования тренировки</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Встроенные программы</name>
+          <value>тренировка по времени, тренировка по расстоянию, программа Холмы</value>
+        </item>
+        <item>
+          <name>Количество пульсозависимых программ</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Оценка Body Fat</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Показания</name>
+          <value>текущая скорость, расход энергии, пройденная дистанция, угол наклона</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Удобства</name>
+          <value>подставка для стакана, транспортировочные ролики/колеса, компенсаторы неровности пола</value>
+        </item>
+        <item>
+          <name>Размеры (ДхШхВ)</name>
+          <value>210x91x144 см</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>106.5 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

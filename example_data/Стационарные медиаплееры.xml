@@ -1,0 +1,2311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="44719">
+    <title>IconBit XDS1003D</title>
+    <model>XDS1003D</model>
+    <marka>IconBit</marka>
+    <catalog id="4824110">Стационарные медиаплееры</catalog>
+    
+    <price1>3900</price1>
+    <price2>11166</price2>
+    <description>
+
+
+
+без HDD, 1080p (Full HD), HDMI 1.4, Ethernet, USB 3.0, BD3D, MKV, H.264, AVCHD, DivX, XviD, FLAC, SD, SDHC
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>медиаплеер</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>без HDD</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p (Full HD)</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Android /RTD OS</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Форматы файлов</name>
+          <value>ISO BD3D, MKV, AVI, WMV, MOV, ASF, TP, TS, TRP, M2TS, MP4, MPG, FLV, RM, RMVB</value>
+        </item>
+        <item>
+          <name>Кодеки</name>
+          <value>MPEG1, MPEG2, MPEG4, XviD, DivX, H.264, WMV9, AVCHD, VC1</value>
+        </item>
+        <item>
+          <name>Аудиофайлы</name>
+          <value>MP3, WMA, AAC, Ogg, PCM, M4A, WAV, FLAC, AC3, DTS</value>
+        </item>
+        <item>
+          <name>Графические файлы</name>
+          <value>JPEG, GIF, BMP, PNG</value>
+        </item>
+        <item>
+          <name>Поддержка субтитров</name>
+          <value>sub, srt, ssa, smi</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>аудио стерео, аудио коаксиальный, аудио оптический, видео композитный, видео компонентный, HDMI 1.4</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0 Type A x2, USB 3.0 Type B, Ethernet</value>
+        </item>
+        <item>
+          <name>Скорость Ethernet</name>
+          <value>10/100/1000 Мбит/с</value>
+        </item>
+        <item>
+          <name>Подключение по Wi-Fi</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Поддержка спецификаций</name>
+          <value>UPnP</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>SD, SDHC</value>
+        </item>
+      </items>
+      <items>
+        <name>Накопитель</name>
+        <item>
+          <name>Количество мест для HDD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Поддержка HDD</name>
+          <value>3.5", SATA</value>
+        </item>
+        <item>
+          <name>Поддержка файловых систем</name>
+          <value>EXT3, FAT32, NTFS</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Менеджер закачек</name>
+          <value>HTTP, FTP</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Название процессора/чипсета</name>
+          <value>Realtek RTD1186DD</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Охлаждение</name>
+          <value>активное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>двойной DVBT тюнер с функцией записи (опционально); совместим со стандартными USB клавиатурами и мышками</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="44726">
+    <title>ASUS O!Play HD2</title>
+    <model>O!Play HD2</model>
+    <marka>ASUS</marka>
+    <catalog id="4824110">Стационарные медиаплееры</catalog>
+    
+    <price1>4039</price1>
+    <price2>6149</price2>
+    <description>
+
+
+
+без HDD, 1080p (Full HD), HDMI 1.3, eSATA, Ethernet, USB 3.0, BitTorrent-клиент, MKV, H.264, DivX, XviD, FLAC, SD, CompactFlash, Memory Stick
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>медиаплеер</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>без HDD</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p (Full HD)</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Форматы файлов</name>
+          <value>MKV, AVI, WMV, ISO, VOB, MOV, ASF, TP, TS, TRP, M2TS, MP4, DAT, MPG, FLV</value>
+        </item>
+        <item>
+          <name>Кодеки</name>
+          <value>MPEG1, MPEG2, MPEG4, XviD, DivX, H.264, VC1</value>
+        </item>
+        <item>
+          <name>Аудиофайлы</name>
+          <value>MP3, WMA, AAC, Ogg, PCM, WAV, FLAC, AC3, DTS</value>
+        </item>
+        <item>
+          <name>Графические файлы</name>
+          <value>JPEG, GIF, BMP, PNG, TIFF</value>
+        </item>
+        <item>
+          <name>Поддержка субтитров</name>
+          <value>srt, sub, smi, ssa, txt</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>аудио стерео, аудио коаксиальный, аудио оптический, видео композитный, видео компонентный, HDMI 1.3</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0 Type A x2, USB 3.0 Type B, Ethernet, eSATA Host</value>
+        </item>
+        <item>
+          <name>Подключение по Wi-Fi</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>SD, CompactFlash, Memory Stick, Memory Stick Duo, Memory Stick Pro, MultiMedia Card</value>
+        </item>
+      </items>
+      <items>
+        <name>Накопитель</name>
+        <item>
+          <name>Количество мест для HDD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Поддержка HDD</name>
+          <value>3.5", SATA</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Менеджер закачек</name>
+          <value>BitTorrent, HTTP, FTP</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>поддержка IPTV</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио</name>
+        <item>
+          <name>Интернет-радио</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Название процессора/чипсета</name>
+          <value>Realtek RTD1073</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Интернет-сервисы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка онлайн-сервисов</name>
+          <value>Picasa, Flickr</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>1 x USB 2.0 / eSATA Combo Port</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="44748">
+    <title>Philips HMP5000</title>
+    <model>HMP5000</model>
+    <marka>Philips</marka>
+    <catalog id="4824110">Стационарные медиаплееры</catalog>
+    
+    <price1>2930</price1>
+    <price2>3990</price2>
+    <description>
+
+
+
+без HDD, 1080p (Full HD), HDMI, Wi-Fi, Ethernet, MKV, H.264, DivX, XviD, FLAC, APE, SD, SDHC
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>медиаплеер</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p (Full HD)</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Форматы файлов</name>
+          <value>MKV, AVI, WMV, ISO, VOB, MOV, ASF, TP, TS, TRP, M2TS, MP4, DAT, MPG, FLV, RM, RMVB</value>
+        </item>
+        <item>
+          <name>Кодеки</name>
+          <value>MPEG1, MPEG2, MPEG4, XviD, DivX, H.264, WMV9, VC1</value>
+        </item>
+        <item>
+          <name>Аудиофайлы</name>
+          <value>MP3, WMA, AAC, Ogg, PCM, WAV, FLAC, APE, AC3, DTS</value>
+        </item>
+        <item>
+          <name>Графические файлы</name>
+          <value>JPEG, GIF, BMP, PNG, TIFF</value>
+        </item>
+        <item>
+          <name>Поддержка субтитров</name>
+          <value>.ass, .psb, .smi, .srt, .ssa, .sub, .txt</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>аудио стерео, аудио оптический, видео композитный, HDMI</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi 802.11n, USB 2.0 Type A, Ethernet, eSATA Host</value>
+        </item>
+        <item>
+          <name>Поддержка спецификаций</name>
+          <value>DLNA</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>SD, SDHC</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Охлаждение</name>
+          <value>пассивное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Интернет-сервисы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка онлайн-сервисов</name>
+          <value>Facebook, Youtube, Picasa, Acuweathers</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="44758">
+    <title>ASUS O!Play AIR HDP-R3</title>
+    <model>O!Play AIR HDP-R3</model>
+    <marka>ASUS</marka>
+    <catalog id="4824110">Стационарные медиаплееры</catalog>
+    
+    <price1>3492</price1>
+    <price2>3990</price2>
+    <description>
+
+
+
+без HDD, 1080p (Full HD), HDMI 1.3, eSATA, Wi-Fi, Ethernet, MKV, H.264, DivX, XviD, FLAC, SD, CompactFlash, Memory Stick
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>медиаплеер</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p (Full HD)</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Форматы файлов</name>
+          <value>MKV, AVI, WMV, ISO, VOB, MOV, ASF, TP, TS, TRP, M2TS, MP4, DAT, MPG, FLV</value>
+        </item>
+        <item>
+          <name>Кодеки</name>
+          <value>MPEG1, MPEG2, MPEG4, XviD, DivX, H.264, VC1</value>
+        </item>
+        <item>
+          <name>Аудиофайлы</name>
+          <value>MP3, WMA, AAC, Ogg, PCM, WAV, FLAC, AC3, DTS</value>
+        </item>
+        <item>
+          <name>Графические файлы</name>
+          <value>JPEG, GIF, BMP, PNG, TIFF</value>
+        </item>
+        <item>
+          <name>Поддержка субтитров</name>
+          <value>srt, sub, smi, ssa</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>аудио стерео, аудио оптический, видео композитный, HDMI 1.3</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi 802.11n, USB 2.0 Type A x2, Ethernet, eSATA Host</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>SD, CompactFlash, Memory Stick, Memory Stick Duo, MultiMedia Card</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Охлаждение</name>
+          <value>пассивное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>181x48x125 мм</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>1 x eSATA/USB2.0 combo port</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="44760">
+    <title>Philips HMP3000</title>
+    <model>HMP3000</model>
+    <marka>Philips</marka>
+    <catalog id="4824110">Стационарные медиаплееры</catalog>
+    
+    <description>
+
+
+
+без HDD, 1080p (Full HD), HDMI, MKV, H.264, DivX, XviD, FLAC, APE, SD, SDHC
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>медиаплеер</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p (Full HD)</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Форматы файлов</name>
+          <value>MKV, AVI, WMV, ISO, VOB, MOV, ASF, TP, TS, TRP, M2TS, MP4, DAT, MPG, FLV, RM, RMVB</value>
+        </item>
+        <item>
+          <name>Кодеки</name>
+          <value>MPEG1, MPEG2, MPEG4, XviD, DivX, H.264, WMV9, VC1</value>
+        </item>
+        <item>
+          <name>Аудиофайлы</name>
+          <value>MP3, WMA, AAC, Ogg, PCM, WAV, FLAC, APE, AC3, DTS</value>
+        </item>
+        <item>
+          <name>Графические файлы</name>
+          <value>JPEG, GIF, BMP, PNG, TIFF</value>
+        </item>
+        <item>
+          <name>Поддержка субтитров</name>
+          <value>.ass, .psb, .smi, .srt, .ssa, .sub, .txt</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>аудио стерео, аудио оптический, видео композитный, HDMI</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0 Type A</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>SD, SDHC</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Охлаждение</name>
+          <value>пассивное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>86x52x136 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.41 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="44771">
+    <title>IconBit xPLAY 950HDMI</title>
+    <model>xPLAY 950HDMI</model>
+    <marka>IconBit</marka>
+    <catalog id="4824110">Стационарные медиаплееры</catalog>
+    
+    <price1>1558</price1>
+    <price2>2992</price2>
+    <description>
+
+
+
+без HDD, 1080p (Full HD), HDMI 1.3, MKV, H.264, AVCHD, DivX, FLAC, APE, SD, SDHC
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>медиаплеер</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p (Full HD)</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Форматы файлов</name>
+          <value>MKV, AVI, WMV, VOB, MOV, TP, TS, M2TS, MP4, DAT, MPG</value>
+        </item>
+        <item>
+          <name>Кодеки</name>
+          <value>MPEG1, MPEG2, MPEG4, DivX, H.264, AVCHD, VC1</value>
+        </item>
+        <item>
+          <name>Аудиофайлы</name>
+          <value>MP3, WMA, AAC, Ogg, WAV, FLAC, APE, AC3, DTS</value>
+        </item>
+        <item>
+          <name>Графические файлы</name>
+          <value>JPEG, GIF, BMP, PNG</value>
+        </item>
+        <item>
+          <name>Поддержка субтитров</name>
+          <value>MicroDVD, SubRip, Sami, DVD built in MKV</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>аудио стерео, аудио оптический, видео композитный, HDMI 1.3</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0 Type A x2</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>SD, SDHC</value>
+        </item>
+      </items>
+      <items>
+        <name>Накопитель</name>
+        <item>
+          <name>Поддержка файловых систем</name>
+          <value>FAT32, NTFS</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>внешний</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>поддержка 2D/3D игр с популярных игровых приставок 8bit, 16bit: NES (Dendy, Lifa), Game Boy (Color, Advance), SEGA (Mega Drive, Genesis), игровые автоматы Capcom, Neo-Geo и др.; беспроводной контроллер в комплекте</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="44789">
+    <title>ASUS O!Play Mini Plus</title>
+    <model>O!Play Mini Plus</model>
+    <marka>ASUS</marka>
+    <catalog id="4824110">Стационарные медиаплееры</catalog>
+    
+    <price1>3375</price1>
+    <price2>4601</price2>
+    <description>
+
+
+
+без HDD, 1080p (Full HD), HDMI 1.3, Wi-Fi, Ethernet, MKV, H.264, FLAC, SD, Memory Stick
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>медиаплеер</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p (Full HD)</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Форматы файлов</name>
+          <value>MKV, AVI, WMV, ISO, VOB, MOV, ASF, TS, TRP, M2TS, MP4, DAT, MPG, FLV, RM, RMVB</value>
+        </item>
+        <item>
+          <name>Кодеки</name>
+          <value>MPEG1, MPEG2, MPEG4, H.264, VC1</value>
+        </item>
+        <item>
+          <name>Аудиофайлы</name>
+          <value>MP3, AAC, Ogg, WAV, FLAC, AC3, DTS</value>
+        </item>
+        <item>
+          <name>Графические файлы</name>
+          <value>JPEG, GIF, BMP, PNG, TIFF</value>
+        </item>
+        <item>
+          <name>Поддержка субтитров</name>
+          <value>SRT, SUB, SMI, SSA, TXT</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>аудио стерео, аудио оптический, видео композитный, HDMI 1.3</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi 802.11n, USB 2.0 Type A, Ethernet</value>
+        </item>
+        <item>
+          <name>Скорость Ethernet</name>
+          <value>10/100/1000 Мбит/с</value>
+        </item>
+        <item>
+          <name>Поддержка спецификаций</name>
+          <value>DLNA</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>SD, Memory Stick, MultiMedia Card, xD-Picture</value>
+        </item>
+      </items>
+      <items>
+        <name>Накопитель</name>
+        <item>
+          <name>Поддержка файловых систем</name>
+          <value>EXT3, FAT16, FAT32, HFS+, NTFS</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Функции</name>
+          <value>поддержка IPTV</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Охлаждение</name>
+          <value>пассивное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Интернет-сервисы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка онлайн-сервисов</name>
+          <value>Acetrax, YouTube, Facebook, Dailymotion, Picasa и Flickr, биржевые сводки, RSS и др.</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>152x29x107 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.175 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>комбинированный разъем USB 2.0/eSATA</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="44818">
+    <title>LG SP520</title>
+    <model>SP520</model>
+    <marka>LG</marka>
+    <catalog id="4824110">Стационарные медиаплееры</catalog>
+    
+    <price1>1790</price1>
+    <price2>3250</price2>
+    <description>
+
+
+
+без HDD, 1080p (Full HD), HDMI, Wi-Fi, Ethernet, MKV, H.264, DivX
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>медиаплеер</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p (Full HD)</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Форматы файлов</name>
+          <value>MKV, WMV, TP, TS</value>
+        </item>
+        <item>
+          <name>Кодеки</name>
+          <value>MPEG1, MPEG2, MPEG4, DivX, H.264, VC1</value>
+        </item>
+        <item>
+          <name>Аудиофайлы</name>
+          <value>MP3, WMA, AAC</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>аудио оптический, HDMI</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi, USB 2.0 Type A, Ethernet</value>
+        </item>
+        <item>
+          <name>Скорость Ethernet</name>
+          <value>10/100 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>внешний</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>109x30x109 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.317 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="44862">
+    <title>ASUS O!Play Gallery</title>
+    <model>O!Play Gallery</model>
+    <marka>ASUS</marka>
+    <catalog id="4824110">Стационарные медиаплееры</catalog>
+    
+    <price1>4710</price1>
+    <price2>5490</price2>
+    <description>
+
+
+
+без HDD, 1080p (Full HD), HDMI, eSATA, Wi-Fi, Ethernet, USB 3.0, MKV, H.264, XviD, FLAC, SD, CompactFlash, Memory Stick
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>медиаплеер</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>без HDD</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p (Full HD)</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Форматы файлов</name>
+          <value>MKV, AVI, WMV, ISO, VOB, MOV, ASF, TS, TRP, M2TS, MP4, DAT, MPG, FLV, RM, RMVB</value>
+        </item>
+        <item>
+          <name>Кодеки</name>
+          <value>MPEG1, MPEG2, MPEG4, XviD, H.264, VC1</value>
+        </item>
+        <item>
+          <name>Аудиофайлы</name>
+          <value>MP3, AAC, Ogg, WAV, FLAC, AC3, DTS</value>
+        </item>
+        <item>
+          <name>Графические файлы</name>
+          <value>JPEG, GIF, BMP, PNG, TIFF</value>
+        </item>
+        <item>
+          <name>Поддержка субтитров</name>
+          <value>srt, sub, smi, ssa, txt</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>аудио коаксиальный, аудио оптический, HDMI</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi, USB 2.0 Type A x2, USB 3.0 Type B, Ethernet, eSATA Host</value>
+        </item>
+        <item>
+          <name>Скорость Ethernet</name>
+          <value>10/100 Мбит/с</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>SD, CompactFlash, Memory Stick, Memory Stick Duo, MultiMedia Card</value>
+        </item>
+      </items>
+      <items>
+        <name>Накопитель</name>
+        <item>
+          <name>Количество мест для HDD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Поддержка HDD</name>
+          <value>3.5", SATA</value>
+        </item>
+        <item>
+          <name>Поддержка файловых систем</name>
+          <value>FAT16, FAT32, HFS+, NTFS</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Охлаждение</name>
+          <value>активное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>230x61x178 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.72 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>порт iPod/iPhone/iPad</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="44865">
+    <title>Western Digital WD TV Live Streaming Wi-Fi</title>
+    <model>WD TV Live Streaming Wi-Fi</model>
+    <marka>Western Digital</marka>
+    <catalog id="4824110">Стационарные медиаплееры</catalog>
+    
+    <price1>3249</price1>
+    <price2>3574</price2>
+    <description>
+
+
+
+без HDD, 1080p (Full HD), HDMI, Wi-Fi, Ethernet, MKV, H.264, AVCHD, XviD, FLAC
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>медиаплеер</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p (Full HD)</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Форматы файлов</name>
+          <value>MKV, AVI, WMV, VOB, MOV, TP, TS, M2T, MPG, FLV</value>
+        </item>
+        <item>
+          <name>Кодеки</name>
+          <value>MPEG1, MPEG2, MPEG4, XviD, H.264, WMV9, AVCHD, VC1</value>
+        </item>
+        <item>
+          <name>Аудиофайлы</name>
+          <value>MP3, WMA, AAC, Ogg, PCM, WAV, FLAC, AC3, DTS</value>
+        </item>
+        <item>
+          <name>Графические файлы</name>
+          <value>JPEG, GIF, BMP, PNG, TIFF</value>
+        </item>
+        <item>
+          <name>Поддержка субтитров</name>
+          <value>srt, ass, smi, sub, ssa</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>аудио стерео, аудио оптический, видео композитный, HDMI</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi 802.11n, USB 2.0 Type A x2, Ethernet</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Охлаждение</name>
+          <value>пассивное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>125x30x100 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>0.19 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="44880">
+    <title>Digma HDMP-510</title>
+    <model>HDMP-510</model>
+    <marka>Digma</marka>
+    <catalog id="4824110">Стационарные медиаплееры</catalog>
+    
+    <description>
+
+
+
+без HDD, 1080p (Full HD), HDMI 1.4, Wi-Fi, Ethernet, BitTorrent-клиент, BD3D, MKV, H.264, DivX, XviD, FLAC, APE, SD
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>медиаплеер</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>без HDD</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p (Full HD)</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Форматы файлов</name>
+          <value>ISO BD3D, MKV, AVI, WMV, ISO, IFO, VOB, MOV, TP, TS, TRP, M2TS, MP4, DAT, FLV, RM, RMVB</value>
+        </item>
+        <item>
+          <name>Кодеки</name>
+          <value>MPEG1, MPEG2, MPEG4, XviD, DivX, H.264, VC1</value>
+        </item>
+        <item>
+          <name>Аудиофайлы</name>
+          <value>MP3, WMA, AAC, Ogg, FLAC, APE, AC3, DTS</value>
+        </item>
+        <item>
+          <name>Графические файлы</name>
+          <value>JPEG, GIF, BMP, PNG, TIFF</value>
+        </item>
+        <item>
+          <name>Поддержка субтитров</name>
+          <value>srt, sub, smi, idx+sub, ssa/ass (+внешние), DVD subtile, DivX subtitle</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>аудио стерео, аудио коаксиальный, аудио оптический, видео композитный, видео компонентный, HDMI 1.4</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi 802.11n, USB 2.0 Type A x2, USB 2.0 Type B, Ethernet</value>
+        </item>
+        <item>
+          <name>Скорость Ethernet</name>
+          <value>10/100/1000 Мбит/с</value>
+        </item>
+        <item>
+          <name>Поддержка спецификаций</name>
+          <value>UPnP</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>SD</value>
+        </item>
+      </items>
+      <items>
+        <name>Накопитель</name>
+        <item>
+          <name>Количество мест для HDD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Поддержка HDD</name>
+          <value>3.5"</value>
+        </item>
+        <item>
+          <name>Поддержка файловых систем</name>
+          <value>EXT3, FAT16, FAT32, NTFS, UDF</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Менеджер закачек</name>
+          <value>BitTorrent, HTTP</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио</name>
+        <item>
+          <name>Интернет-радио</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Название процессора/чипсета</name>
+          <value>Realtek RTD1186</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Охлаждение</name>
+          <value>активное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Интернет-сервисы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка онлайн-сервисов</name>
+          <value>Youtube XL, сервис просмотра погоды, Picasa, Flickr</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>MIPS Android</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="44887">
+    <title>Philips HMP7001</title>
+    <model>HMP7001</model>
+    <marka>Philips</marka>
+    <catalog id="4824110">Стационарные медиаплееры</catalog>
+    
+    <price1>1499</price1>
+    <price2>5100</price2>
+    <description>
+
+
+
+без HDD, 1080p (Full HD), HDMI, eSATA, Wi-Fi, Ethernet, MKV, H.264, DivX, XviD, FLAC, APE, SD, SDHC
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>медиаплеер</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p (Full HD)</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Форматы файлов</name>
+          <value>MKV, AVI, WMV, ISO, VOB, MOV, ASF, TP, TS, TRP, M2TS, MP4, DAT, MPG, FLV, RM, RMVB</value>
+        </item>
+        <item>
+          <name>Кодеки</name>
+          <value>MPEG1, MPEG2, MPEG4, XviD, DivX, H.264, WMV9, VC1</value>
+        </item>
+        <item>
+          <name>Аудиофайлы</name>
+          <value>MP3, WMA, AAC, Ogg, PCM, WAV, FLAC, APE, DTS</value>
+        </item>
+        <item>
+          <name>Графические файлы</name>
+          <value>JPEG, GIF, BMP, PNG, TIFF</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>аудио стерео, аудио оптический, видео композитный, HDMI</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi 802.11n, USB 2.0 Type A, Ethernet, eSATA Host</value>
+        </item>
+        <item>
+          <name>Поддержка спецификаций</name>
+          <value>DLNA</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>SD, SDHC</value>
+        </item>
+      </items>
+      <items>
+        <name>Накопитель</name>
+        <item>
+          <name>Поддержка файловых систем</name>
+          <value>FAT32, NTFS</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Менеджер закачек</name>
+          <value>HTTP</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+        <item>
+          <name>Охлаждение</name>
+          <value>пассивное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>91x54x160 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="44896">
+    <title>3Q F420HW</title>
+    <model>F420HW</model>
+    <marka>3Q</marka>
+    <catalog id="4824110">Стационарные медиаплееры</catalog>
+    
+    <description>
+
+
+
+без HDD, 1080p (Full HD), HDMI, eSATA, Ethernet, BitTorrent-клиент, MKV, H.264, DivX, XviD, FLAC
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>медиаплеер</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p (Full HD)</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Форматы файлов</name>
+          <value>MKV, AVI, WMV, ISO, IFO, VOB, MOV, ASF, TP, TS, TRP, M2TS</value>
+        </item>
+        <item>
+          <name>Кодеки</name>
+          <value>MPEG1, MPEG2, MPEG4, XviD, DivX, H.264, VC1</value>
+        </item>
+        <item>
+          <name>Аудиофайлы</name>
+          <value>MP3, WMA, AAC, Ogg, PCM, M4A, WAV, FLAC, AC3, DTS</value>
+        </item>
+        <item>
+          <name>Графические файлы</name>
+          <value>JPEG, GIF, BMP, PNG</value>
+        </item>
+        <item>
+          <name>Поддержка субтитров</name>
+          <value>sub, srt, ssa, smi, pgc</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>аудио стерео, видео композитный, видео компонентный, HDMI</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0 Type A, Ethernet, eSATA Host</value>
+        </item>
+        <item>
+          <name>Скорость Ethernet</name>
+          <value>10/100 Мбит/с</value>
+        </item>
+      </items>
+      <items>
+        <name>Накопитель</name>
+        <item>
+          <name>Поддержка файловых систем</name>
+          <value>FAT32, NTFS</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Менеджер закачек</name>
+          <value>BitTorrent</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Название процессора/чипсета</name>
+          <value>Realtek RTD1073DD</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Охлаждение</name>
+          <value>пассивное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>128x40x100 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="44930">
+    <title>BBK MP061S</title>
+    <model>MP061S</model>
+    <marka>BBK</marka>
+    <catalog id="4824110">Стационарные медиаплееры</catalog>
+    
+    <price1>1690</price1>
+    <price2>3000</price2>
+    <description>
+
+
+
+без HDD, 1080p (Full HD), HDMI 1.3, eSATA, Ethernet, BitTorrent-клиент, MKV, H.264, AVCHD, DivX, XviD, FLAC, SD, SDHC, Memory Stick
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>медиаплеер</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p (Full HD)</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Форматы файлов</name>
+          <value>MKV, AVI, WMV, ISO, IFO, VOB, MOV, ASF, TP, TS, TRP, M2TS, MP4, DAT, MPG, FLV</value>
+        </item>
+        <item>
+          <name>Кодеки</name>
+          <value>MPEG1, MPEG2, MPEG4, XviD, DivX, H.264, WMV9, AVCHD, VC1</value>
+        </item>
+        <item>
+          <name>Аудиофайлы</name>
+          <value>MP3, WMA, AAC, Ogg, PCM, M4A, WAV, FLAC, AC3, DTS</value>
+        </item>
+        <item>
+          <name>Графические файлы</name>
+          <value>JPEG, GIF, BMP, PNG, TIFF</value>
+        </item>
+        <item>
+          <name>Поддержка субтитров</name>
+          <value>SRT, SMI, SSA, ASS, IDX/SUB, SUB</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>аудио стерео, аудио коаксиальный, аудио оптический, видео композитный, видео компонентный, HDMI 1.3</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0 Type A, USB 2.0 Type B, Ethernet, eSATA Host</value>
+        </item>
+        <item>
+          <name>Скорость Ethernet</name>
+          <value>10/100 Мбит/с</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>SD, SDHC, Memory Stick, MultiMedia Card</value>
+        </item>
+      </items>
+      <items>
+        <name>Накопитель</name>
+        <item>
+          <name>Поддержка файловых систем</name>
+          <value>EXT3, FAT16, FAT32, NTFS</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Менеджер закачек</name>
+          <value>BitTorrent, HTTP</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Название процессора/чипсета</name>
+          <value>Realtek RTD1073DD</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>220x45x141 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>1.05 кг</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="44936">
+    <title>Popcorn Hour C-200</title>
+    <model>C-200</model>
+    <marka>Popcorn Hour</marka>
+    <catalog id="4824110">Стационарные медиаплееры</catalog>
+    
+    <price1>10000</price1>
+    <price2>13900</price2>
+    <description>
+
+
+
+без HDD, 1080p (Full HD), HDMI 1.3a, Ethernet, BitTorrent-клиент, MKV, H.264, AVCHD, DivX, XviD, FLAC
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>медиаплеер</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>без HDD</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p (Full HD)</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Форматы файлов</name>
+          <value>MKV, AVI, WMV, ISO, IFO, VOB, MOV, ASF, TP, TS, TRP, M2T, M2TS, MP4, DAT, MPG</value>
+        </item>
+        <item>
+          <name>Кодеки</name>
+          <value>MPEG1, MPEG2, MPEG4, XviD, DivX, H.264, WMV9, AVCHD, VC1</value>
+        </item>
+        <item>
+          <name>Аудиофайлы</name>
+          <value>MP3, WMA, AAC, Ogg, PCM, M4A, WAV, FLAC, AC3, DTS</value>
+        </item>
+        <item>
+          <name>Графические файлы</name>
+          <value>JPEG, GIF, BMP, PNG, TIFF</value>
+        </item>
+        <item>
+          <name>Поддержка субтитров</name>
+          <value>srt, MicroDVD sub, ssa, sub/idx</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>аудио стерео, аудио коаксиальный, аудио оптический, видео композитный, видео компонентный, S-Video, HDMI 1.3a</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0 Type A x4, Ethernet</value>
+        </item>
+        <item>
+          <name>Скорость Ethernet</name>
+          <value>10/100/1000 Мбит/с</value>
+        </item>
+        <item>
+          <name>Подключение по Wi-Fi</name>
+          <value>опционально</value>
+        </item>
+        <item>
+          <name>Поддержка спецификаций</name>
+          <value>UPnP</value>
+        </item>
+      </items>
+      <items>
+        <name>Накопитель</name>
+        <item>
+          <name>Количество мест для HDD</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Поддержка HDD</name>
+          <value>2.5"/3.5", SATA</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Менеджер закачек</name>
+          <value>BitTorrent, FTP</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>поддержка IPTV, FTP-сервер</value>
+        </item>
+      </items>
+      <items>
+        <name>Аудио</name>
+        <item>
+          <name>Интернет-радио</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Название процессора/чипсета</name>
+          <value>Sigma Designs SMP8643</value>
+        </item>
+        <item>
+          <name>Размер оперативной памяти</name>
+          <value>512 Мб</value>
+        </item>
+        <item>
+          <name>Размер Flash-памяти</name>
+          <value>256 Мб</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>встроенный</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Интернет-сервисы</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка онлайн-сервисов</name>
+          <value>Видео: YouTube, Vuze, Revision 3, Videocast, CNET TV, Mediafly, Veoh, Mevio, Bliptv, Break Podcast, CBS Evening News, CNN Anderson Cooper 360 Daily, CNN The Larry King Podcast, NBC Today Show, The CNN Daily, CNN In Case You Missed It, NBC Nightly News, NBC Meet The Press, CBS Face the Nation, Podfinder UK, Motorz; Аудио: Jamendo, iPodcast, BBC Podcast, Indiefeed, CNN News, ABC News; Фото: Flickr, Picasaweb, Pikeo, 23, Photobucket, SmugMug; RSS feed : Yahoo! Weather, NMT Forum, Bloglines, Cinecast, MSNBC News, Traffice Condition, Yahoo! Traffic Alerts, Yahoo! News, Weather Bug; Интернет-радио: Radiobox, Live365 Radio</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>425x80x290 мм</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>3.7 кг</value>
+        </item>
+        <item>
+          <name>Дополнительная информация</name>
+          <value>съёмный отсек для стандартных 3.5" винчестеров SATA II, в который можно  установить DVD или Blu-ray привод; посадочное место под 2.5" жёсткий диск Serial ATA II; радиочастотный пульт ДУ (работает через стены)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="44943">
+    <title>3Q F312HW</title>
+    <model>F312HW</model>
+    <marka>3Q</marka>
+    <catalog id="4824110">Стационарные медиаплееры</catalog>
+    
+    <price1>2221</price1>
+    <price2>5523</price2>
+    <description>
+
+
+
+без HDD, 1080p (Full HD), HDMI 1.3, Ethernet, BitTorrent-клиент, MKV, H.264, XviD, FLAC, SD, SDHC
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>медиаплеер</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>без HDD</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p (Full HD)</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Форматы файлов</name>
+          <value>MKV, AVI, WMV, ISO, IFO, VOB, MOV, TS, MP4, DAT, MPG, RM, RMVB</value>
+        </item>
+        <item>
+          <name>Кодеки</name>
+          <value>MPEG1, MPEG2, MPEG4, XviD, H.264, WMV9, VC1</value>
+        </item>
+        <item>
+          <name>Аудиофайлы</name>
+          <value>MP3, AAC, Ogg, M4A, WAV, FLAC, AC3, DTS</value>
+        </item>
+        <item>
+          <name>Графические файлы</name>
+          <value>JPEG, BMP</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>аудио стерео, аудио оптический, видео композитный, видео компонентный, HDMI 1.3</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0 Type A x2, USB 2.0 Type B, Ethernet</value>
+        </item>
+        <item>
+          <name>Скорость Ethernet</name>
+          <value>10/100 Мбит/с</value>
+        </item>
+        <item>
+          <name>Поддержка спецификаций</name>
+          <value>UPnP</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>SD, SDHC</value>
+        </item>
+      </items>
+      <items>
+        <name>Накопитель</name>
+        <item>
+          <name>Количество мест для HDD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Поддержка HDD</name>
+          <value>3.5", SATA</value>
+        </item>
+        <item>
+          <name>Поддержка файловых систем</name>
+          <value>FAT16, FAT32, NTFS</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Менеджер закачек</name>
+          <value>BitTorrent</value>
+        </item>
+        <item>
+          <name>Функции</name>
+          <value>поддержка IPTV</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Название процессора/чипсета</name>
+          <value>Realtek RTD1073DD+</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>225x42x192 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="44960">
+    <title>3Q F412HC</title>
+    <model>F412HC</model>
+    <marka>3Q</marka>
+    <catalog id="4824110">Стационарные медиаплееры</catalog>
+    
+    <description>
+
+
+
+без HDD, 1080p (Full HD), HDMI 1.3, MKV, H.264, AVCHD, DivX, XviD, FLAC, SD
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>медиаплеер</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p (Full HD)</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Форматы файлов</name>
+          <value>MKV, AVI, WMV, ISO, IFO, VOB, MOV, ASF, TS, MP4, DAT, MPG, RM, RMVB</value>
+        </item>
+        <item>
+          <name>Кодеки</name>
+          <value>MPEG1, MPEG2, MPEG4, XviD, DivX, H.264, WMV9, AVCHD, VC1</value>
+        </item>
+        <item>
+          <name>Аудиофайлы</name>
+          <value>MP3, WMA, Ogg, PCM, WAV, FLAC, AC3, DTS</value>
+        </item>
+        <item>
+          <name>Графические файлы</name>
+          <value>JPEG, BMP</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>аудио стерео, аудио оптический, видео композитный, HDMI 1.3</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0 Type A x2</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>SD</value>
+        </item>
+      </items>
+      <items>
+        <name>Накопитель</name>
+        <item>
+          <name>Поддержка файловых систем</name>
+          <value>FAT32, NTFS</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Название процессора/чипсета</name>
+          <value>Realtek RTD1055</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>внешний</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>145x40x113 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="44964">
+    <title>3Q F204HC</title>
+    <model>F204HC</model>
+    <marka>3Q</marka>
+    <catalog id="4824110">Стационарные медиаплееры</catalog>
+    
+    <price1>1690</price1>
+    <price2>6776</price2>
+    <description>
+
+
+
+без HDD, 1080p (Full HD), HDMI 1.3, MKV, H.264, DivX, XviD, FLAC, SD, SDHC
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>медиаплеер</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>без HDD</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p (Full HD)</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Форматы файлов</name>
+          <value>MKV, AVI, WMV, VOB, MOV, TP, TS, M2TS, MP4, MPG, RM, RMVB</value>
+        </item>
+        <item>
+          <name>Кодеки</name>
+          <value>MPEG1, MPEG2, MPEG4, XviD, DivX, H.264, WMV9, VC1</value>
+        </item>
+        <item>
+          <name>Аудиофайлы</name>
+          <value>MP3, WMA, AAC, Ogg, PCM, M4A, WAV, FLAC, AC3, DTS</value>
+        </item>
+        <item>
+          <name>Графические файлы</name>
+          <value>JPEG, GIF, BMP, PNG</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>аудио стерео, аудио оптический, видео композитный, HDMI 1.3</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0 Type A, USB 2.0 Type B</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>SD, SDHC, MultiMedia Card</value>
+        </item>
+      </items>
+      <items>
+        <name>Накопитель</name>
+        <item>
+          <name>Количество мест для HDD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Поддержка HDD</name>
+          <value>2.5", SATA</value>
+        </item>
+        <item>
+          <name>Поддержка файловых систем</name>
+          <value>FAT16, FAT32, NTFS</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Название процессора/чипсета</name>
+          <value>Boxchip F10</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Охлаждение</name>
+          <value>пассивное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>129x21x78 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="44969">
+    <title>Gmini HD1210</title>
+    <model>HD1210</model>
+    <marka>Gmini</marka>
+    <catalog id="4824110">Стационарные медиаплееры</catalog>
+    
+    <description>
+
+
+
+без HDD, 1080p (Full HD), HDMI 1.4, Wi-Fi, Ethernet, USB 3.0, BitTorrent-клиент, MKV, H.264, AVCHD, DivX, XviD, SD, SDHC
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>медиаплеер</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>без HDD</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p (Full HD)</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Android 2.2/Linux</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Форматы файлов</name>
+          <value>MKV, AVI, WMV, ISO, IFO, VOB, MOV, ASF, TS, M2TS, DAT, MPG, RM, RMVB</value>
+        </item>
+        <item>
+          <name>Кодеки</name>
+          <value>MPEG1, MPEG2, MPEG4, XviD, DivX, H.264, WMV9, AVCHD, VC1</value>
+        </item>
+        <item>
+          <name>Аудиофайлы</name>
+          <value>MP3, WMA, Ogg</value>
+        </item>
+        <item>
+          <name>Графические файлы</name>
+          <value>JPEG, GIF, BMP, TIFF</value>
+        </item>
+        <item>
+          <name>Поддержка субтитров</name>
+          <value>SRT, SSA, SMI, IDX+SUB, субтитры DVD, встроенные в AVI-файл</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>аудио стерео, аудио коаксиальный, аудио оптический, видео композитный, видео компонентный, HDMI 1.4</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi 802.11n, USB 2.0 Type A x2, USB 3.0 Type B, Ethernet</value>
+        </item>
+        <item>
+          <name>Скорость Ethernet</name>
+          <value>10/100/1000 Мбит/с</value>
+        </item>
+        <item>
+          <name>Поддержка спецификаций</name>
+          <value>UPnP</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>SD, SDHC</value>
+        </item>
+      </items>
+      <items>
+        <name>Накопитель</name>
+        <item>
+          <name>Количество мест для HDD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Поддержка HDD</name>
+          <value>3.5", SATA</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Менеджер закачек</name>
+          <value>BitTorrent, HTTP</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Название процессора/чипсета</name>
+          <value>Realtek RTD1186</value>
+        </item>
+        <item>
+          <name>Размер оперативной памяти</name>
+          <value>512 Мб</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>внешний</value>
+        </item>
+        <item>
+          <name>Охлаждение</name>
+          <value>активное</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>230x65x150 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="45007">
+    <title>3Q F370HW</title>
+    <model>F370HW</model>
+    <marka>3Q</marka>
+    <catalog id="4824110">Стационарные медиаплееры</catalog>
+    
+    <price1>4000</price1>
+    <price2>4720</price2>
+    <description>
+
+
+
+без HDD, 1080p (Full HD), HDMI 1.4, Ethernet, USB 3.0, BitTorrent-клиент, BD3D, MKV, H.264, DivX, XviD, FLAC, APE, SD, SDHC
+
+
+
+</description>
+    <specification>
+      <items>
+        <name>Основные характеристики</name>
+        <item>
+          <name>Тип устройства</name>
+          <value>медиаплеер</value>
+        </item>
+        <item>
+          <name>Комплектация</name>
+          <value>без HDD</value>
+        </item>
+        <item>
+          <name>Поддержка HD</name>
+          <value>1080p (Full HD)</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Android 2.2/Linux</value>
+        </item>
+      </items>
+      <items>
+        <name>Поддержка форматов</name>
+        <item>
+          <name>Форматы файлов</name>
+          <value>ISO BD3D, MKV, AVI, WMV, ISO, IFO, VOB, MOV, ASF, TS, M2TS, DAT, MPG, RM, RMVB</value>
+        </item>
+        <item>
+          <name>Кодеки</name>
+          <value>MPEG1, MPEG2, MPEG4, XviD, DivX, H.264, WMV9, VC1</value>
+        </item>
+        <item>
+          <name>Аудиофайлы</name>
+          <value>MP3, Ogg, WAV, FLAC, APE, DTS</value>
+        </item>
+        <item>
+          <name>Графические файлы</name>
+          <value>JPEG, BMP, PNG</value>
+        </item>
+      </items>
+      <items>
+        <name>Подключение</name>
+        <item>
+          <name>Выходы</name>
+          <value>аудио стерео, аудио оптический, видео композитный, HDMI 1.4</value>
+        </item>
+        <item>
+          <name>Интерфейсы</name>
+          <value>USB 2.0 Type A x4, USB 3.0 Type B, Ethernet</value>
+        </item>
+        <item>
+          <name>Скорость Ethernet</name>
+          <value>10/100/1000 Мбит/с</value>
+        </item>
+        <item>
+          <name>Поддержка спецификаций</name>
+          <value>UPnP</value>
+        </item>
+        <item>
+          <name>Поддержка карт памяти</name>
+          <value>SD, SDHC</value>
+        </item>
+      </items>
+      <items>
+        <name>Накопитель</name>
+        <item>
+          <name>Количество мест для HDD</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Поддержка HDD</name>
+          <value>3.5", SATA</value>
+        </item>
+        <item>
+          <name>Поддержка файловых систем</name>
+          <value>FAT32, NTFS</value>
+        </item>
+      </items>
+      <items>
+        <name>Функциональные возможности</name>
+        <item>
+          <name>Менеджер закачек</name>
+          <value>BitTorrent</value>
+        </item>
+      </items>
+      <items>
+        <name>Конструкция</name>
+        <item>
+          <name>Дисплей</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Пульт ДУ</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Название процессора/чипсета</name>
+          <value>Realtek RTD1186</value>
+        </item>
+        <item>
+          <name>Блок питания</name>
+          <value>внешний</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительно</name>
+        <item>
+          <name>Размеры (ШxВxГ)</name>
+          <value>221x58x142 мм</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>

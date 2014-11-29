@@ -1,0 +1,5620 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><list>
+  <offer id="98707">
+    <title>Apple iPhone 4S 16Gb</title>
+    <model>iPhone 4S 16Gb</model>
+    <marka>Apple</marka>
+    <catalog id="160043">Сотовые телефоны</catalog>
+    
+    <price1>13460</price1>
+    <price2>25990</price2>
+    <description>
+
+
+
+GSM, CDMA800, CDMA1900, 3G, смартфон, iOS 5, вес 140 г, ШхВхТ: 58.6x115.2x9.3 мм, экран 3.5&amp;quot;, 640x960, Bluetooth, Wi-Fi, GPS, ГЛОНАСС, фотокамера 8 МП, память 16 Гб
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>GSM 900/1800/1900, CDMA 800, CDMA 1900, 3G, EV-DO Rev. A</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>смартфон</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>iOS 5</value>
+        </item>
+        <item>
+          <name>Тип корпуса</name>
+          <value>классический</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>сталь и стекло</value>
+        </item>
+        <item>
+          <name>Кнопки управления</name>
+          <value>механические</value>
+        </item>
+        <item>
+          <name>Тип SIM-карты</name>
+          <value>micro SIM</value>
+        </item>
+        <item>
+          <name>Количество SIM-карт</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>140 г</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxТ)</name>
+          <value>58.6x115.2x9.3 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Тип экрана</name>
+          <value>цветной, сенсорный</value>
+        </item>
+        <item>
+          <name>Тип сенсорного экрана</name>
+          <value>мультитач, емкостный</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>3.5 дюйм.</value>
+        </item>
+        <item>
+          <name>Размер изображения</name>
+          <value>640x960</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>330</value>
+        </item>
+        <item>
+          <name>Автоматический поворот экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Устойчивое к царапинам стекло</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звонки</name>
+        <item>
+          <name>Тип мелодий</name>
+          <value>полифонические, MP3-мелодии</value>
+        </item>
+        <item>
+          <name>Виброзвонок</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Фотокамера</name>
+          <value>8 млн пикс., 3264x2448, светодиодная вспышка</value>
+        </item>
+        <item>
+          <name>Функции камеры</name>
+          <value>автофокус
+</value>
+        </item>
+        <item>
+          <name>Распознавание</name>
+          <value>лиц</value>
+        </item>
+        <item>
+          <name>Запись видеороликов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Макс. разрешение видео</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Макс. частота кадров видео</name>
+          <value>30 кадров/с</value>
+        </item>
+        <item>
+          <name>Geo Tagging</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть, 0.3 млн пикс.</value>
+        </item>
+        <item>
+          <name>Аудио</name>
+          <value>MP3, AAC, WAV</value>
+        </item>
+        <item>
+          <name>Диктофон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>3.5 мм</value>
+        </item>
+        <item>
+          <name>Видеовыход</name>
+          <value>TV-выход</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi, Bluetooth 4.0, USB</value>
+        </item>
+        <item>
+          <name>Зарядка от USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Спутниковая навигация</name>
+          <value>GPS/ГЛОНАСС</value>
+        </item>
+        <item>
+          <name>Cистема A-GPS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>WAP, EDGE, HSDPA, HSUPA</value>
+        </item>
+        <item>
+          <name>Поддержка протоколов</name>
+          <value>POP/SMTP, HTML</value>
+        </item>
+        <item>
+          <name>Модем</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Синхронизация с компьютером</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Apple A5, 800 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>PowerVR SGX543MP2</value>
+        </item>
+        <item>
+          <name>Объем встроенной памяти</name>
+          <value>16 Гб</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>512 Мб</value>
+        </item>
+        <item>
+          <name>Слот карт памяти</name>
+          <value>
+отсутствует</value>
+        </item>
+      </items>
+      <items>
+        <name>Сообщения</name>
+        <item>
+          <name>MMS</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>несъемный</value>
+        </item>
+        <item>
+          <name>Время разговора</name>
+          <value>14 ч</value>
+        </item>
+        <item>
+          <name>Время ожидания</name>
+          <value>200 ч</value>
+        </item>
+        <item>
+          <name>Время работы в режиме прослушивания музыки</name>
+          <value>40 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции</name>
+        <item>
+          <name>Громкая связь (встроенный динамик)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>голосовой набор, голосовое управление</value>
+        </item>
+        <item>
+          <name>Автодозвон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>освещенности, приближения, гироскоп, компас</value>
+        </item>
+      </items>
+      <items>
+        <name>Записная книжка и органайзер</name>
+        <item>
+          <name>Органайзер</name>
+          <value>будильник, калькулятор, планировщик задач</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Особенности</name>
+          <value>технология AirPlay, iCloud; 2 антенны; время разговора - 480 мин (3G), 840 мин (2G GSM); технология экрана - Retina Display; расцветка - черный, белый</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="98716">
+    <title>Apple iPhone 4S 32Gb</title>
+    <model>iPhone 4S 32Gb</model>
+    <marka>Apple</marka>
+    <catalog id="160043">Сотовые телефоны</catalog>
+    
+    <price1>22990</price1>
+    <price2>24799</price2>
+    <description>
+
+
+
+GSM, CDMA800, CDMA1900, 3G, смартфон, iOS 5, вес 140 г, ШхВхТ: 58.6x115.2x9.3 мм, экран 3.5&amp;quot;, 640x960, Bluetooth, Wi-Fi, GPS, ГЛОНАСС, фотокамера 8 МП, память 32 Гб
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>GSM 900/1800/1900, CDMA 800, CDMA 1900, 3G, EV-DO Rev. A</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>смартфон</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>iOS 5</value>
+        </item>
+        <item>
+          <name>Тип корпуса</name>
+          <value>классический</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>сталь и стекло</value>
+        </item>
+        <item>
+          <name>Кнопки управления</name>
+          <value>механические</value>
+        </item>
+        <item>
+          <name>Тип SIM-карты</name>
+          <value>micro SIM</value>
+        </item>
+        <item>
+          <name>Количество SIM-карт</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>140 г</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxТ)</name>
+          <value>58.6x115.2x9.3 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Тип экрана</name>
+          <value>цветной, сенсорный</value>
+        </item>
+        <item>
+          <name>Тип сенсорного экрана</name>
+          <value>мультитач, емкостный</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>3.5 дюйм.</value>
+        </item>
+        <item>
+          <name>Размер изображения</name>
+          <value>640x960</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>330</value>
+        </item>
+        <item>
+          <name>Автоматический поворот экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Устойчивое к царапинам стекло</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звонки</name>
+        <item>
+          <name>Тип мелодий</name>
+          <value>полифонические, MP3-мелодии</value>
+        </item>
+        <item>
+          <name>Виброзвонок</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Фотокамера</name>
+          <value>8 млн пикс., 3264x2448, светодиодная вспышка</value>
+        </item>
+        <item>
+          <name>Функции камеры</name>
+          <value>автофокус
+</value>
+        </item>
+        <item>
+          <name>Распознавание</name>
+          <value>лиц</value>
+        </item>
+        <item>
+          <name>Запись видеороликов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Макс. разрешение видео</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Макс. частота кадров видео</name>
+          <value>30 кадров/с</value>
+        </item>
+        <item>
+          <name>Geo Tagging</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть, 0.3 млн пикс.</value>
+        </item>
+        <item>
+          <name>Аудио</name>
+          <value>MP3, AAC, WAV</value>
+        </item>
+        <item>
+          <name>Диктофон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>3.5 мм</value>
+        </item>
+        <item>
+          <name>Видеовыход</name>
+          <value>TV-выход</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi, Bluetooth 4.0, USB</value>
+        </item>
+        <item>
+          <name>Зарядка от USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Спутниковая навигация</name>
+          <value>GPS/ГЛОНАСС</value>
+        </item>
+        <item>
+          <name>Cистема A-GPS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>WAP, EDGE, HSDPA, HSUPA</value>
+        </item>
+        <item>
+          <name>Поддержка протоколов</name>
+          <value>POP/SMTP, HTML</value>
+        </item>
+        <item>
+          <name>Модем</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Синхронизация с компьютером</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Apple A5</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Объем встроенной памяти</name>
+          <value>32 Гб</value>
+        </item>
+        <item>
+          <name>Слот карт памяти</name>
+          <value>
+отсутствует</value>
+        </item>
+      </items>
+      <items>
+        <name>Сообщения</name>
+        <item>
+          <name>MMS</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>несъемный</value>
+        </item>
+        <item>
+          <name>Время разговора</name>
+          <value>14 ч</value>
+        </item>
+        <item>
+          <name>Время ожидания</name>
+          <value>200 ч</value>
+        </item>
+        <item>
+          <name>Время работы в режиме прослушивания музыки</name>
+          <value>40 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции</name>
+        <item>
+          <name>Громкая связь (встроенный динамик)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>голосовой набор, голосовое управление</value>
+        </item>
+        <item>
+          <name>Автодозвон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>освещенности, приближения, гироскоп, компас</value>
+        </item>
+      </items>
+      <items>
+        <name>Записная книжка и органайзер</name>
+        <item>
+          <name>Органайзер</name>
+          <value>будильник, калькулятор, планировщик задач</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Особенности</name>
+          <value>технология AirPlay, iCloud; 2 антенны; время разговора - 480 мин (3G), 840 мин (2G GSM); технология экрана - Retina Display; расцветка - черный, белый</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="98719">
+    <title>Samsung Galaxy S II GT-I9100</title>
+    <model>Galaxy S II GT-I9100</model>
+    <marka>Samsung</marka>
+    <catalog id="160043">Сотовые телефоны</catalog>
+    
+    <price1>6499</price1>
+    <price2>17889</price2>
+    <description>
+
+
+
+GSM, 3G, смартфон, Android 2.3, вес 116 г, ШхВхТ: 66.1x125.3x8.49 мм, экран 4.27&amp;quot;, 480x800, FM-радио, Bluetooth, Wi-Fi, GPS, фотокамера 8 МП, память 16 Гб, слот microSD (TransFlash), аккумулятор 1650 мАч
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>GSM 900/1800/1900, 3G</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>смартфон</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Android 4.1</value>
+        </item>
+        <item>
+          <name>Тип корпуса</name>
+          <value>классический</value>
+        </item>
+        <item>
+          <name>Кнопки управления</name>
+          <value>механические/сенсорные</value>
+        </item>
+        <item>
+          <name>Тип SIM-карты</name>
+          <value>обычная</value>
+        </item>
+        <item>
+          <name>Количество SIM-карт</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>116 г</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxТ)</name>
+          <value>66.1x125.3x8.49 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Тип экрана</name>
+          <value>цветной Super AMOLED Plus, 16.78 млн цветов, сенсорный</value>
+        </item>
+        <item>
+          <name>Тип сенсорного экрана</name>
+          <value>мультитач, емкостный</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>4.27 дюйм.</value>
+        </item>
+        <item>
+          <name>Размер изображения</name>
+          <value>480x800</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>218</value>
+        </item>
+        <item>
+          <name>Автоматический поворот экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Устойчивое к царапинам стекло</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звонки</name>
+        <item>
+          <name>Тип мелодий</name>
+          <value>полифонические, MP3-мелодии</value>
+        </item>
+        <item>
+          <name>Виброзвонок</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Фотокамера</name>
+          <value>8 млн пикс., 3264x2448, светодиодная вспышка</value>
+        </item>
+        <item>
+          <name>Функции камеры</name>
+          <value>автофокус, режим макросъемки
+</value>
+        </item>
+        <item>
+          <name>Распознавание</name>
+          <value>лиц</value>
+        </item>
+        <item>
+          <name>Запись видеороликов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Макс. разрешение видео</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Geo Tagging</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть, 2 млн пикс.</value>
+        </item>
+        <item>
+          <name>Воспроизведение видео</name>
+          <value>MPEG4, H.264, H.263, WMV, DivX, Xvid, VC-1</value>
+        </item>
+        <item>
+          <name>Аудио</name>
+          <value>MP3, FM-радио</value>
+        </item>
+        <item>
+          <name>Диктофон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>3.5 мм</value>
+        </item>
+        <item>
+          <name>Видеовыход</name>
+          <value>MHL</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi, Wi-Fi Direct, Bluetooth 3.0, USB</value>
+        </item>
+        <item>
+          <name>USB-host</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Спутниковая навигация</name>
+          <value>GPS</value>
+        </item>
+        <item>
+          <name>Cистема A-GPS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>WAP, GPRS, EDGE, HSDPA, HSUPA</value>
+        </item>
+        <item>
+          <name>Поддержка протоколов</name>
+          <value>POP/SMTP, HTML</value>
+        </item>
+        <item>
+          <name>Модем</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Синхронизация с компьютером</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Использование в качестве USB-накопителя</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Samsung Exynos 4210, 1200 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>Mali-400 MP</value>
+        </item>
+        <item>
+          <name>Объем встроенной памяти</name>
+          <value>16 Гб</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>1 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка  карт памяти</name>
+          <value>microSD (TransFlash)
+
+</value>
+        </item>
+      </items>
+      <items>
+        <name>Сообщения</name>
+        <item>
+          <name>Дополнительные функции SMS</name>
+          <value>шаблоны сообщений</value>
+        </item>
+        <item>
+          <name>MMS</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1650 мАч</value>
+        </item>
+        <item>
+          <name>Время разговора</name>
+          <value>18.3 ч</value>
+        </item>
+        <item>
+          <name>Время ожидания</name>
+          <value>710 ч</value>
+        </item>
+        <item>
+          <name>Время работы в режиме прослушивания музыки</name>
+          <value>30 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции</name>
+        <item>
+          <name>Громкая связь (встроенный динамик)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>голосовой набор, голосовое управление</value>
+        </item>
+        <item>
+          <name>Режим полета</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Профиль A2DP</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>освещенности, приближения, гироскоп, компас</value>
+        </item>
+      </items>
+      <items>
+        <name>Записная книжка и органайзер</name>
+        <item>
+          <name>Поиск по книжке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Обмен между SIM-картой и внутренней памятью</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Органайзер</name>
+          <value>будильник, калькулятор, планировщик задач</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>телефон, аккумулятор, проводная стереогарнитура, USB-кабель, зарядное устройство</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>поддерживается функция USB on the Go (с помощью  переходника к microUSB-разъему можно подключать флешки или жесткие диски); покрытие экрана - стекло, технология Gorilla Glass; время работы в режиме разговора: до 1100 мин. (2G), до 520 мин. (3G); время работы в режиме ожидания: до 710 ч. (2G), до 610 ч. (3G); поддержка NFC - опционально</value>
+        </item>
+        <item>
+          <name>Дата анонсирования (г-м-д)</name>
+          <value>2011-02-14</value>
+        </item>
+        <item>
+          <name>Дата начала продаж (г-м-д)</name>
+          <value>2011-05-18</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="98727">
+    <title>Apple iPhone 4 8Gb</title>
+    <model>iPhone 4 8Gb</model>
+    <marka>Apple</marka>
+    <catalog id="160043">Сотовые телефоны</catalog>
+    
+    <price1>9670</price1>
+    <price2>18078</price2>
+    <description>
+
+
+
+GSM, 3G, смартфон, iOS 4, вес 137 г, ШхВхТ: 59x115x9 мм, экран 3.5&amp;quot;, 640x960, Bluetooth, Wi-Fi, GPS, фотокамера 5 МП, память 8 Гб
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>GSM 900/1800/1900, 3G</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>смартфон</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>iOS 4</value>
+        </item>
+        <item>
+          <name>Тип корпуса</name>
+          <value>классический</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>сталь и стекло</value>
+        </item>
+        <item>
+          <name>Кнопки управления</name>
+          <value>механические</value>
+        </item>
+        <item>
+          <name>Тип SIM-карты</name>
+          <value>micro SIM</value>
+        </item>
+        <item>
+          <name>Количество SIM-карт</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>137 г</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxТ)</name>
+          <value>59x115x9 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Тип экрана</name>
+          <value>цветной S-IPS, сенсорный</value>
+        </item>
+        <item>
+          <name>Тип сенсорного экрана</name>
+          <value>мультитач, емкостный</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>3.5 дюйм.</value>
+        </item>
+        <item>
+          <name>Размер изображения</name>
+          <value>640x960</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>330</value>
+        </item>
+        <item>
+          <name>Автоматический поворот экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Устойчивое к царапинам стекло</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звонки</name>
+        <item>
+          <name>Тип мелодий</name>
+          <value>полифонические, MP3-мелодии</value>
+        </item>
+        <item>
+          <name>Виброзвонок</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Фотокамера</name>
+          <value>5 млн пикс., светодиодная вспышка</value>
+        </item>
+        <item>
+          <name>Функции камеры</name>
+          <value>автофокус, цифровой Zoom 5x
+</value>
+        </item>
+        <item>
+          <name>Запись видеороликов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Макс. разрешение видео</name>
+          <value>1280x720</value>
+        </item>
+        <item>
+          <name>Макс. частота кадров видео</name>
+          <value>30 кадров/с</value>
+        </item>
+        <item>
+          <name>Geo Tagging</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Аудио</name>
+          <value>MP3, AAC, WAV</value>
+        </item>
+        <item>
+          <name>Диктофон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>3.5 мм</value>
+        </item>
+        <item>
+          <name>Видеовыход</name>
+          <value>TV-выход</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi, Bluetooth 2.1, USB</value>
+        </item>
+        <item>
+          <name>Зарядка от USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Спутниковая навигация</name>
+          <value>GPS</value>
+        </item>
+        <item>
+          <name>Cистема A-GPS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>GPRS, EDGE, HSDPA, HSUPA</value>
+        </item>
+        <item>
+          <name>Поддержка протоколов</name>
+          <value>POP/SMTP, HTML</value>
+        </item>
+        <item>
+          <name>Модем</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Синхронизация с компьютером</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Apple A4, 1000 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>PowerVR SGX535</value>
+        </item>
+        <item>
+          <name>Объем встроенной памяти</name>
+          <value>8 Гб</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>512 Мб</value>
+        </item>
+        <item>
+          <name>Слот карт памяти</name>
+          <value>
+отсутствует</value>
+        </item>
+      </items>
+      <items>
+        <name>Сообщения</name>
+        <item>
+          <name>MMS</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>несъемный</value>
+        </item>
+        <item>
+          <name>Время разговора</name>
+          <value>14 ч</value>
+        </item>
+        <item>
+          <name>Время ожидания</name>
+          <value>300 ч</value>
+        </item>
+        <item>
+          <name>Время работы в режиме прослушивания музыки</name>
+          <value>40 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции</name>
+        <item>
+          <name>Громкая связь (встроенный динамик)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>голосовой набор, голосовое управление</value>
+        </item>
+        <item>
+          <name>Автодозвон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>освещенности, приближения, гироскоп, компас</value>
+        </item>
+      </items>
+      <items>
+        <name>Записная книжка и органайзер</name>
+        <item>
+          <name>Органайзер</name>
+          <value>будильник, калькулятор, планировщик задач</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Особенности</name>
+          <value>технология экрана - Retina Display;  2 микрофона; службы iBooks, iAds, мультизадачность; расцветка - черный, белый; возможность обновления операционной системы до iOS 7</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="98731">
+    <title>HTC One X 32Gb</title>
+    <model>One X 32Gb</model>
+    <marka>HTC</marka>
+    <catalog id="160043">Сотовые телефоны</catalog>
+    
+    <price1>14900</price1>
+    <price2>28977</price2>
+    <description>
+
+
+
+GSM, 3G, смартфон, Android 4.0, вес 130 г, ШхВхТ: 69.9x134.36x8.9 мм, экран 4.7&amp;quot;, 720x1280, FM-радио, Bluetooth, NFC, Wi-Fi, GPS, фотокамера 8 МП, память 32 Гб, аккумулятор 1800 мАч
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>GSM 900/1800/1900, 3G</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>смартфон</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Android 4.2</value>
+        </item>
+        <item>
+          <name>Тип корпуса</name>
+          <value>классический</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>поликарбонат</value>
+        </item>
+        <item>
+          <name>Кнопки управления</name>
+          <value>сенсорные</value>
+        </item>
+        <item>
+          <name>Тип SIM-карты</name>
+          <value>micro SIM</value>
+        </item>
+        <item>
+          <name>Количество SIM-карт</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>130 г</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxТ)</name>
+          <value>69.9x134.36x8.9 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Тип экрана</name>
+          <value>цветной Super LCD 2, сенсорный</value>
+        </item>
+        <item>
+          <name>Тип сенсорного экрана</name>
+          <value>мультитач, емкостный</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>4.7 дюйм.</value>
+        </item>
+        <item>
+          <name>Размер изображения</name>
+          <value>720x1280</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>312</value>
+        </item>
+        <item>
+          <name>Автоматический поворот экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Устойчивое к царапинам стекло</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звонки</name>
+        <item>
+          <name>Тип мелодий</name>
+          <value>полифонические, MP3-мелодии</value>
+        </item>
+        <item>
+          <name>Виброзвонок</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Фотокамера</name>
+          <value>8 млн пикс., 3264x2448, светодиодная вспышка</value>
+        </item>
+        <item>
+          <name>Функции камеры</name>
+          <value>автофокус, оптическая стабилизация
+</value>
+        </item>
+        <item>
+          <name>Распознавание</name>
+          <value>лиц, улыбок</value>
+        </item>
+        <item>
+          <name>Запись видеороликов</name>
+          <value>есть (MP4)</value>
+        </item>
+        <item>
+          <name>Макс. разрешение видео</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Geo Tagging</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть, 1.3 млн пикс.</value>
+        </item>
+        <item>
+          <name>Воспроизведение видео</name>
+          <value>3GP, 3G2, MP4, WMV, AVI</value>
+        </item>
+        <item>
+          <name>Аудио</name>
+          <value>MP3, AAC, WAV, WMA, FM-радио</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>3.5 мм</value>
+        </item>
+        <item>
+          <name>Видеовыход</name>
+          <value>MHL</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi, Wi-Fi Direct, Bluetooth 4.0, USB, NFC</value>
+        </item>
+        <item>
+          <name>Спутниковая навигация</name>
+          <value>GPS</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>WAP, GPRS, EDGE, HSDPA, HSUPA</value>
+        </item>
+        <item>
+          <name>Поддержка протоколов</name>
+          <value>POP/SMTP, IMAP4</value>
+        </item>
+        <item>
+          <name>Синхронизация с компьютером</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Использование в качестве USB-накопителя</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>NVIDIA Tegra 3, 1500 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>NVIDIA ULP GeForce</value>
+        </item>
+        <item>
+          <name>Объем встроенной памяти</name>
+          <value>32 Гб</value>
+        </item>
+        <item>
+          <name>Объем доступной пользователю памяти</name>
+          <value>26 Гб</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>1 Гб</value>
+        </item>
+        <item>
+          <name>Слот карт памяти</name>
+          <value>
+отсутствует</value>
+        </item>
+      </items>
+      <items>
+        <name>Сообщения</name>
+        <item>
+          <name>Дополнительные функции SMS</name>
+          <value>ввод текста со словарем</value>
+        </item>
+        <item>
+          <name>MMS</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1800 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции</name>
+        <item>
+          <name>Громкая связь (встроенный динамик)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>голосовой набор</value>
+        </item>
+        <item>
+          <name>Режим полета</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Профиль A2DP</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>освещенности, приближения, гироскоп, компас</value>
+        </item>
+      </items>
+      <items>
+        <name>Записная книжка и органайзер</name>
+        <item>
+          <name>Поиск по книжке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Обмен между SIM-картой и внутренней памятью</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Органайзер</name>
+          <value>будильник, калькулятор, планировщик задач</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Особенности</name>
+          <value>NFC - на части рынков; стекло Gorilla Glass</value>
+        </item>
+        <item>
+          <name>Дата анонсирования (г-м-д)</name>
+          <value>2012-02-27</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="98735">
+    <title>Samsung Galaxy S III GT-I9300 16Gb</title>
+    <model>Galaxy S III GT-I9300 16Gb</model>
+    <marka>Samsung</marka>
+    <catalog id="160043">Сотовые телефоны</catalog>
+    
+    <price1>8400</price1>
+    <price2>26500</price2>
+    <description>
+
+
+
+GSM, 3G, смартфон, Android 4.0, вес 133 г, ШхВхТ: 70.6x136.6x8.6 мм, экран 4.8&amp;quot;, 720x1280, FM-радио, Bluetooth, NFC, Wi-Fi, GPS, ГЛОНАСС, фотокамера 8 МП, память 16 Гб, слот microSD (TransFlash), аккумулятор 2100 мАч
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>GSM 900/1800/1900, 3G</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>смартфон</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Android 4.3</value>
+        </item>
+        <item>
+          <name>Тип корпуса</name>
+          <value>классический</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Кнопки управления</name>
+          <value>механические/сенсорные</value>
+        </item>
+        <item>
+          <name>Тип SIM-карты</name>
+          <value>micro SIM</value>
+        </item>
+        <item>
+          <name>Количество SIM-карт</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>133 г</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxТ)</name>
+          <value>70.6x136.6x8.6 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Тип экрана</name>
+          <value>цветной HD Super AMOLED, 16.78 млн цветов, сенсорный</value>
+        </item>
+        <item>
+          <name>Тип сенсорного экрана</name>
+          <value>мультитач, емкостный</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>4.8 дюйм.</value>
+        </item>
+        <item>
+          <name>Размер изображения</name>
+          <value>720x1280</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>306</value>
+        </item>
+        <item>
+          <name>Автоматический поворот экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Устойчивое к царапинам стекло</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звонки</name>
+        <item>
+          <name>Тип мелодий</name>
+          <value>полифонические, MP3-мелодии</value>
+        </item>
+        <item>
+          <name>Виброзвонок</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Фотокамера</name>
+          <value>8 млн пикс., 3264x2448, светодиодная вспышка</value>
+        </item>
+        <item>
+          <name>Функции камеры</name>
+          <value>автофокус
+</value>
+        </item>
+        <item>
+          <name>Распознавание</name>
+          <value>лиц</value>
+        </item>
+        <item>
+          <name>Запись видеороликов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Макс. разрешение видео</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Макс. частота кадров видео</name>
+          <value>30 кадров/с</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть, 1.9 млн пикс.</value>
+        </item>
+        <item>
+          <name>Воспроизведение видео</name>
+          <value>MPEG4, H.264, H.263, VC-1, VP8, DivX, WMV 7/8</value>
+        </item>
+        <item>
+          <name>Аудио</name>
+          <value>MP3, AAC, WMA, FM-радио</value>
+        </item>
+        <item>
+          <name>Диктофон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Игры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>3.5 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi, Wi-Fi Direct, Bluetooth 4.0, USB, NFC</value>
+        </item>
+        <item>
+          <name>Зарядка от USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>USB-host</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Спутниковая навигация</name>
+          <value>GPS/ГЛОНАСС</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>WAP, GPRS, EDGE, HSDPA, HSUPA, HSPA+</value>
+        </item>
+        <item>
+          <name>Поддержка протоколов</name>
+          <value>POP/SMTP, IMAP4, HTML</value>
+        </item>
+        <item>
+          <name>Модем</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Синхронизация с компьютером</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Samsung Exynos 4412, 1400 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>4</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>Mali-400 MP4</value>
+        </item>
+        <item>
+          <name>Объем встроенной памяти</name>
+          <value>16 Гб</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>1 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка  карт памяти</name>
+          <value>microSD (TransFlash), объемом до 64 Гб
+
+</value>
+        </item>
+      </items>
+      <items>
+        <name>Сообщения</name>
+        <item>
+          <name>Дополнительные функции SMS</name>
+          <value>ввод текста со словарем</value>
+        </item>
+        <item>
+          <name>MMS</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>2100 мАч</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>съемный</value>
+        </item>
+        <item>
+          <name>Время разговора</name>
+          <value>21.7 ч</value>
+        </item>
+        <item>
+          <name>Время ожидания</name>
+          <value>900 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции</name>
+        <item>
+          <name>Громкая связь (встроенный динамик)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>голосовой набор, голосовое управление</value>
+        </item>
+        <item>
+          <name>Профиль A2DP</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>освещенности, приближения, гироскоп, компас, барометр</value>
+        </item>
+      </items>
+      <items>
+        <name>Записная книжка и органайзер</name>
+        <item>
+          <name>Поиск по книжке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Обмен между SIM-картой и внутренней памятью</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Органайзер</name>
+          <value>будильник, калькулятор, планировщик задач, поддержка файлов MS Office</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Особенности</name>
+          <value>время разговора: до 1300мин. (2G) / до 650мин. (3G),
+время ожидания: до 900час. (2G) / до 750час. (3G);
+можно делать снимки во время записи видео, стандарт Wi-Fi IEE802.11n</value>
+        </item>
+        <item>
+          <name>Дата анонсирования (г-м-д)</name>
+          <value>2012-05-03</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="98743">
+    <title>HTC One S</title>
+    <model>One S</model>
+    <marka>HTC</marka>
+    <catalog id="160043">Сотовые телефоны</catalog>
+    
+    <price1>6400</price1>
+    <price2>14990</price2>
+    <description>
+
+
+
+GSM, 3G, смартфон, Android 4.0, вес 119 г, ШхВхТ: 65x130.9x7.8 мм, экран 4.3&amp;quot;, 540x960, FM-радио, Bluetooth, Wi-Fi, GPS, ГЛОНАСС, фотокамера 8 МП, память 16 Гб, аккумулятор 1650 мАч
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>GSM 900/1800/1900, 3G</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>смартфон</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Android 4.1</value>
+        </item>
+        <item>
+          <name>Тип корпуса</name>
+          <value>классический</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>алюминий</value>
+        </item>
+        <item>
+          <name>Кнопки управления</name>
+          <value>сенсорные</value>
+        </item>
+        <item>
+          <name>Тип SIM-карты</name>
+          <value>micro SIM</value>
+        </item>
+        <item>
+          <name>Количество SIM-карт</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>119 г</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxТ)</name>
+          <value>65x130.9x7.8 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Тип экрана</name>
+          <value>цветной Super AMOLED, сенсорный</value>
+        </item>
+        <item>
+          <name>Тип сенсорного экрана</name>
+          <value>мультитач, емкостный</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>4.3 дюйм.</value>
+        </item>
+        <item>
+          <name>Размер изображения</name>
+          <value>540x960</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>256</value>
+        </item>
+        <item>
+          <name>Автоматический поворот экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Устойчивое к царапинам стекло</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звонки</name>
+        <item>
+          <name>Тип мелодий</name>
+          <value>полифонические, MP3-мелодии</value>
+        </item>
+        <item>
+          <name>Виброзвонок</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Фотокамера</name>
+          <value>8 млн пикс., светодиодная вспышка</value>
+        </item>
+        <item>
+          <name>Функции камеры</name>
+          <value>автофокус
+</value>
+        </item>
+        <item>
+          <name>Распознавание</name>
+          <value>лиц, улыбок</value>
+        </item>
+        <item>
+          <name>Запись видеороликов</name>
+          <value>есть (MP4)</value>
+        </item>
+        <item>
+          <name>Макс. разрешение видео</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть, 0.3 млн пикс.</value>
+        </item>
+        <item>
+          <name>Воспроизведение видео</name>
+          <value>3GP,3G2, MP4, WMV, AVI</value>
+        </item>
+        <item>
+          <name>Аудио</name>
+          <value>MP3, AAC, WAV, WMA, FM-радио</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>3.5 мм</value>
+        </item>
+        <item>
+          <name>Видеовыход</name>
+          <value>MHL</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi, Bluetooth 4.0, USB</value>
+        </item>
+        <item>
+          <name>Спутниковая навигация</name>
+          <value>GPS/ГЛОНАСС</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>WAP, GPRS, EDGE, HSDPA, HSUPA</value>
+        </item>
+        <item>
+          <name>Поддержка протоколов</name>
+          <value>POP/SMTP, IMAP4, HTML</value>
+        </item>
+        <item>
+          <name>Синхронизация с компьютером</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и процессор</name>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>Adreno 225</value>
+        </item>
+        <item>
+          <name>Объем встроенной памяти</name>
+          <value>16 Гб</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>1 Гб</value>
+        </item>
+        <item>
+          <name>Слот карт памяти</name>
+          <value>
+отсутствует</value>
+        </item>
+      </items>
+      <items>
+        <name>Сообщения</name>
+        <item>
+          <name>Дополнительные функции SMS</name>
+          <value>ввод текста со словарем</value>
+        </item>
+        <item>
+          <name>MMS</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1650 мАч</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>несъемный</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции</name>
+        <item>
+          <name>Управление</name>
+          <value>голосовой набор</value>
+        </item>
+        <item>
+          <name>Профиль A2DP</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>освещенности, приближения, гироскоп, компас</value>
+        </item>
+      </items>
+      <items>
+        <name>Записная книжка и органайзер</name>
+        <item>
+          <name>Поиск по книжке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Обмен между SIM-картой и внутренней памятью</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Органайзер</name>
+          <value>будильник, калькулятор, планировщик задач</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Особенности</name>
+          <value>для тайваньского рынка выпущена модель One S Special Edition с 64 Гб памяти; возможны версии телефона с процессором Qualcomm Snapdragon S3(Z560e) или Qualcomm Snapdragon S4(Z320e, Z520e)</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="98755">
+    <title>HTC One V</title>
+    <model>One V</model>
+    <marka>HTC</marka>
+    <catalog id="160043">Сотовые телефоны</catalog>
+    
+    <price1>6800</price1>
+    <price2>14416</price2>
+    <description>
+
+
+
+GSM, 3G, смартфон, Android 4.0, вес 115 г, ШхВхТ: 59.7x120.3x9.24 мм, экран 3.7&amp;quot;, 480x800, FM-радио, Bluetooth, Wi-Fi, GPS, ГЛОНАСС, фотокамера 5 МП, память 4 Гб, слот microSD (TransFlash), аккумулятор 1500 мАч
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>GSM 900/1800/1900, 3G</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>смартфон</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Android 4.0</value>
+        </item>
+        <item>
+          <name>Тип корпуса</name>
+          <value>классический</value>
+        </item>
+        <item>
+          <name>Кнопки управления</name>
+          <value>сенсорные</value>
+        </item>
+        <item>
+          <name>Тип SIM-карты</name>
+          <value>обычная</value>
+        </item>
+        <item>
+          <name>Количество SIM-карт</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>115 г</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxТ)</name>
+          <value>59.7x120.3x9.24 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Тип экрана</name>
+          <value>цветной Super LCD 2, сенсорный</value>
+        </item>
+        <item>
+          <name>Тип сенсорного экрана</name>
+          <value>мультитач, емкостный</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>3.7 дюйм.</value>
+        </item>
+        <item>
+          <name>Размер изображения</name>
+          <value>480x800</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>252</value>
+        </item>
+        <item>
+          <name>Автоматический поворот экрана</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звонки</name>
+        <item>
+          <name>Тип мелодий</name>
+          <value>полифонические, MP3-мелодии</value>
+        </item>
+        <item>
+          <name>Виброзвонок</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Фотокамера</name>
+          <value>5 млн пикс., светодиодная вспышка</value>
+        </item>
+        <item>
+          <name>Функции камеры</name>
+          <value>автофокус
+</value>
+        </item>
+        <item>
+          <name>Запись видеороликов</name>
+          <value>есть (MP4)</value>
+        </item>
+        <item>
+          <name>Макс. разрешение видео</name>
+          <value>1280x720</value>
+        </item>
+        <item>
+          <name>Воспроизведение видео</name>
+          <value>3GP, 3G2, MP4, WMV, AVI</value>
+        </item>
+        <item>
+          <name>Аудио</name>
+          <value>MP3, AAC, WAV, WMA, FM-радио</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>3.5 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi, Bluetooth 4.0, USB</value>
+        </item>
+        <item>
+          <name>Спутниковая навигация</name>
+          <value>GPS/ГЛОНАСС</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>WAP, GPRS, EDGE, HSDPA, HSUPA</value>
+        </item>
+        <item>
+          <name>Поддержка протоколов</name>
+          <value>POP/SMTP</value>
+        </item>
+        <item>
+          <name>Синхронизация с компьютером</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Qualcomm MSM 8255, 1000 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>Adreno 205</value>
+        </item>
+        <item>
+          <name>Объем встроенной памяти</name>
+          <value>4 Гб</value>
+        </item>
+        <item>
+          <name>Объем доступной пользователю памяти</name>
+          <value>1 Гб</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>512 Мб</value>
+        </item>
+        <item>
+          <name>Поддержка  карт памяти</name>
+          <value>microSD (TransFlash)
+
+</value>
+        </item>
+      </items>
+      <items>
+        <name>Сообщения</name>
+        <item>
+          <name>Дополнительные функции SMS</name>
+          <value>ввод текста со словарем</value>
+        </item>
+        <item>
+          <name>MMS</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1500 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции</name>
+        <item>
+          <name>Датчики</name>
+          <value>освещенности, приближения, гироскоп</value>
+        </item>
+      </items>
+      <items>
+        <name>Записная книжка и органайзер</name>
+        <item>
+          <name>Поиск по книжке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Обмен между SIM-картой и внутренней памятью</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Органайзер</name>
+          <value>будильник, калькулятор, планировщик задач</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="98760">
+    <title>Sony Xperia P</title>
+    <model>Xperia P</model>
+    <marka>Sony</marka>
+    <catalog id="160043">Сотовые телефоны</catalog>
+    
+    <price1>5300</price1>
+    <price2>14994</price2>
+    <description>
+
+
+
+GSM, 3G, смартфон, Android 2.3, вес 120 г, ШхВхТ: 59.5x122x10.5 мм, экран 4&amp;quot;, 540x960, FM-радио, Bluetooth, NFC, Wi-Fi, GPS, фотокамера 8 МП, память 16 Гб, аккумулятор 1305 мАч
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>GSM 900/1800/1900, 3G</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>смартфон</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Android 4.1</value>
+        </item>
+        <item>
+          <name>Тип корпуса</name>
+          <value>классический</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>алюминий и пластик</value>
+        </item>
+        <item>
+          <name>Тип SIM-карты</name>
+          <value>micro SIM</value>
+        </item>
+        <item>
+          <name>Количество SIM-карт</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>120 г</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxТ)</name>
+          <value>59.5x122x10.5 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Тип экрана</name>
+          <value>цветной TFT, 16.78 млн цветов, сенсорный</value>
+        </item>
+        <item>
+          <name>Тип сенсорного экрана</name>
+          <value>мультитач, емкостный</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>4 дюйм.</value>
+        </item>
+        <item>
+          <name>Размер изображения</name>
+          <value>540x960</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>275</value>
+        </item>
+        <item>
+          <name>Автоматический поворот экрана</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звонки</name>
+        <item>
+          <name>Тип мелодий</name>
+          <value>полифонические, MP3-мелодии</value>
+        </item>
+        <item>
+          <name>Виброзвонок</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Фотокамера</name>
+          <value>8 млн пикс., 3264x2448, светодиодная вспышка</value>
+        </item>
+        <item>
+          <name>Функции камеры</name>
+          <value>автофокус, цифровой Zoom 8x
+</value>
+        </item>
+        <item>
+          <name>Распознавание</name>
+          <value>лиц, улыбок</value>
+        </item>
+        <item>
+          <name>Запись видеороликов</name>
+          <value>есть (3GPP, MP4)</value>
+        </item>
+        <item>
+          <name>Макс. разрешение видео</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Макс. частота кадров видео</name>
+          <value>30 кадров/с</value>
+        </item>
+        <item>
+          <name>Geo Tagging</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть, 0.3 млн пикс.</value>
+        </item>
+        <item>
+          <name>Воспроизведение видео</name>
+          <value>3GPP, MP4</value>
+        </item>
+        <item>
+          <name>Аудио</name>
+          <value>MP3, WAV, FM-радио</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>3.5 мм</value>
+        </item>
+        <item>
+          <name>Видеовыход</name>
+          <value>HDMI</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi, Bluetooth, USB, NFC</value>
+        </item>
+        <item>
+          <name>Зарядка от USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Спутниковая навигация</name>
+          <value>GPS</value>
+        </item>
+        <item>
+          <name>Cистема A-GPS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>WAP, GPRS, EDGE, HSDPA, HSUPA</value>
+        </item>
+        <item>
+          <name>Поддержка протоколов</name>
+          <value>POP/SMTP, IMAP4, HTML</value>
+        </item>
+        <item>
+          <name>Модем</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Синхронизация с компьютером</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>ST Ericsson  U8500, 1000 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>Mali-400 MP</value>
+        </item>
+        <item>
+          <name>Объем встроенной памяти</name>
+          <value>16 Гб</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>1 Гб</value>
+        </item>
+        <item>
+          <name>Слот карт памяти</name>
+          <value>
+отсутствует</value>
+        </item>
+      </items>
+      <items>
+        <name>Сообщения</name>
+        <item>
+          <name>Дополнительные функции SMS</name>
+          <value>ввод текста со словарем</value>
+        </item>
+        <item>
+          <name>MMS</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-polymer</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1305 мАч</value>
+        </item>
+        <item>
+          <name>Время разговора</name>
+          <value>6 ч</value>
+        </item>
+        <item>
+          <name>Время ожидания</name>
+          <value>475 ч</value>
+        </item>
+        <item>
+          <name>Время работы в режиме прослушивания музыки</name>
+          <value>80 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции</name>
+        <item>
+          <name>Громкая связь (встроенный динамик)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим полета</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>освещенности, приближения, компас</value>
+        </item>
+      </items>
+      <items>
+        <name>Записная книжка и органайзер</name>
+        <item>
+          <name>Поиск по книжке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Обмен между SIM-картой и внутренней памятью</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Органайзер</name>
+          <value>будильник, калькулятор, планировщик задач</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>cмартфон, cтереогарнитура, зарядное устройство с функцией быстрой подзарядки, MicroUSB-кабель, 2 NFC метки SmartTag</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="98762">
+    <title>Samsung Galaxy Ace GT-S5830</title>
+    <model>Galaxy Ace GT-S5830</model>
+    <marka>Samsung</marka>
+    <catalog id="160043">Сотовые телефоны</catalog>
+    
+    <price1>3500</price1>
+    <price2>6490</price2>
+    <description>
+
+
+
+GSM, 3G, смартфон, Android 2.2, вес 113 г, ШхВхТ: 60x112x12 мм, экран 3.5&amp;quot;, 320x480, FM-радио, Bluetooth, Wi-Fi, GPS, фотокамера 5 МП, память 158 Мб, слот microSD (TransFlash), аккумулятор 1350 мАч
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>GSM 900/1800/1900, 3G</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>смартфон</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Android 2.3</value>
+        </item>
+        <item>
+          <name>Тип корпуса</name>
+          <value>классический</value>
+        </item>
+        <item>
+          <name>Кнопки управления</name>
+          <value>механические/сенсорные</value>
+        </item>
+        <item>
+          <name>Тип SIM-карты</name>
+          <value>обычная</value>
+        </item>
+        <item>
+          <name>Количество SIM-карт</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>113 г</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxТ)</name>
+          <value>60x112x12 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Тип экрана</name>
+          <value>цветной TFT, 16.78 млн цветов, сенсорный</value>
+        </item>
+        <item>
+          <name>Тип сенсорного экрана</name>
+          <value>мультитач, емкостный</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>3.5 дюйм.</value>
+        </item>
+        <item>
+          <name>Размер изображения</name>
+          <value>320x480</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>165</value>
+        </item>
+        <item>
+          <name>Автоматический поворот экрана</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звонки</name>
+        <item>
+          <name>Тип мелодий</name>
+          <value>полифонические, MP3-мелодии</value>
+        </item>
+        <item>
+          <name>Виброзвонок</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Фотокамера</name>
+          <value>5 млн пикс., светодиодная вспышка</value>
+        </item>
+        <item>
+          <name>Функции камеры</name>
+          <value>автофокус, цифровой Zoom 2x
+</value>
+        </item>
+        <item>
+          <name>Запись видеороликов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Воспроизведение видео</name>
+          <value>H.263, H.264, MPEG4</value>
+        </item>
+        <item>
+          <name>Аудио</name>
+          <value>MP3, FM-радио</value>
+        </item>
+        <item>
+          <name>Диктофон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>3.5 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi, Bluetooth 2.1, USB</value>
+        </item>
+        <item>
+          <name>Зарядка от USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Спутниковая навигация</name>
+          <value>GPS</value>
+        </item>
+        <item>
+          <name>Cистема A-GPS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>WAP, GPRS, EDGE, HSDPA</value>
+        </item>
+        <item>
+          <name>Поддержка протоколов</name>
+          <value>POP/SMTP</value>
+        </item>
+        <item>
+          <name>Синхронизация с компьютером</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Использование в качестве USB-накопителя</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Qualcomm MSM7227T, 800 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>Adreno 200</value>
+        </item>
+        <item>
+          <name>Объем встроенной памяти</name>
+          <value>158 Мб</value>
+        </item>
+        <item>
+          <name>Объем доступной пользователю памяти</name>
+          <value>158 Мб</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>278 Мб</value>
+        </item>
+        <item>
+          <name>Поддержка  карт памяти</name>
+          <value>microSD (TransFlash), объемом до 32 Гб
+
+</value>
+        </item>
+      </items>
+      <items>
+        <name>Сообщения</name>
+        <item>
+          <name>Дополнительные функции SMS</name>
+          <value>шаблоны сообщений</value>
+        </item>
+        <item>
+          <name>MMS</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1350 мАч</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>съемный</value>
+        </item>
+        <item>
+          <name>Время разговора</name>
+          <value>9.7 ч</value>
+        </item>
+        <item>
+          <name>Время ожидания</name>
+          <value>640 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции</name>
+        <item>
+          <name>Громкая связь (встроенный динамик)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>голосовые метки</value>
+        </item>
+        <item>
+          <name>Режим полета</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>приближения</value>
+        </item>
+      </items>
+      <items>
+        <name>Записная книжка и органайзер</name>
+        <item>
+          <name>Поиск по книжке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Обмен между SIM-картой и внутренней памятью</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Органайзер</name>
+          <value>будильник, калькулятор, планировщик задач</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>телефон, аккумулятор, зарядное устройство, инструкция</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>возможность обновления операционной системы до Android 2.3</value>
+        </item>
+        <item>
+          <name>Дата начала продаж (г-м-д)</name>
+          <value>2011-02-03</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="98782">
+    <title>Apple iPhone 5 16Gb</title>
+    <model>iPhone 5 16Gb</model>
+    <marka>Apple</marka>
+    <catalog id="160043">Сотовые телефоны</catalog>
+    
+    <price1>18100</price1>
+    <price2>35520</price2>
+    <description>
+
+
+
+GSM, 3G, смартфон, iOS 6, вес 112 г, ШхВхТ: 58.6x123.8x7.6 мм, экран 4&amp;quot;, 640x1136, Bluetooth, Wi-Fi, GPS, ГЛОНАСС, фотокамера 8 МП, память 16 Гб, аккумулятор 1400 мАч
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>GSM 900/1800/1900, 3G, LTE</value>
+        </item>
+        <item>
+          <name>Поддержка диапазонов LTE</name>
+          <value>Model A1428 - Band 4, 17; Model A1429 GSM - Band 1,3,5</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>смартфон</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>iOS 6</value>
+        </item>
+        <item>
+          <name>Тип корпуса</name>
+          <value>классический</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>алюминий и стекло</value>
+        </item>
+        <item>
+          <name>Кнопки управления</name>
+          <value>механические</value>
+        </item>
+        <item>
+          <name>Тип SIM-карты</name>
+          <value>nano SIM</value>
+        </item>
+        <item>
+          <name>Количество SIM-карт</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>112 г</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxТ)</name>
+          <value>58.6x123.8x7.6 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Тип экрана</name>
+          <value>цветной, сенсорный</value>
+        </item>
+        <item>
+          <name>Тип сенсорного экрана</name>
+          <value>мультитач, емкостный</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>4 дюйм.</value>
+        </item>
+        <item>
+          <name>Размер изображения</name>
+          <value>640x1136</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>326</value>
+        </item>
+        <item>
+          <name>Автоматический поворот экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Устойчивое к царапинам стекло</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звонки</name>
+        <item>
+          <name>Тип мелодий</name>
+          <value>полифонические, MP3-мелодии</value>
+        </item>
+        <item>
+          <name>Виброзвонок</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Фотокамера</name>
+          <value>8 млн пикс., 3264x2448, светодиодная вспышка</value>
+        </item>
+        <item>
+          <name>Функции камеры</name>
+          <value>автофокус
+</value>
+        </item>
+        <item>
+          <name>Распознавание</name>
+          <value>лиц</value>
+        </item>
+        <item>
+          <name>Запись видеороликов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Макс. разрешение видео</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Макс. частота кадров видео</name>
+          <value>30 кадров/с</value>
+        </item>
+        <item>
+          <name>Geo Tagging</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть, 1.2 млн пикс.</value>
+        </item>
+        <item>
+          <name>Аудио</name>
+          <value>MP3, AAC, WAV</value>
+        </item>
+        <item>
+          <name>Диктофон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>3.5 мм</value>
+        </item>
+        <item>
+          <name>Видеовыход</name>
+          <value>TV-выход</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi, Bluetooth 4.0, USB</value>
+        </item>
+        <item>
+          <name>Зарядка от USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Спутниковая навигация</name>
+          <value>GPS/ГЛОНАСС</value>
+        </item>
+        <item>
+          <name>Cистема A-GPS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>WAP, GPRS, EDGE, HSDPA, HSUPA, HSPA+, DC HSDPA</value>
+        </item>
+        <item>
+          <name>Поддержка протоколов</name>
+          <value>POP/SMTP, HTML</value>
+        </item>
+        <item>
+          <name>Модем</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Синхронизация с компьютером</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Apple A6, 1200 МГц</value>
+        </item>
+        <item>
+          <name>Объем встроенной памяти</name>
+          <value>16 Гб</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>1 Гб</value>
+        </item>
+        <item>
+          <name>Слот карт памяти</name>
+          <value>
+отсутствует</value>
+        </item>
+      </items>
+      <items>
+        <name>Сообщения</name>
+        <item>
+          <name>MMS</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1400 мАч</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>несъемный</value>
+        </item>
+        <item>
+          <name>Время разговора</name>
+          <value>8 ч</value>
+        </item>
+        <item>
+          <name>Время ожидания</name>
+          <value>225 ч</value>
+        </item>
+        <item>
+          <name>Время работы в режиме прослушивания музыки</name>
+          <value>40 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции</name>
+        <item>
+          <name>Громкая связь (встроенный динамик)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>голосовой набор, голосовое управление</value>
+        </item>
+        <item>
+          <name>Автодозвон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>освещенности, приближения, гироскоп, компас</value>
+        </item>
+      </items>
+      <items>
+        <name>Записная книжка и органайзер</name>
+        <item>
+          <name>Поиск по книжке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Органайзер</name>
+          <value>будильник, калькулятор, планировщик задач</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Особенности</name>
+          <value>3 микрофона; новый коннектор - Lightning</value>
+        </item>
+        <item>
+          <name>Дата анонсирования (г-м-д)</name>
+          <value>2012-09-12</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="98786">
+    <title>HTC Wildfire S</title>
+    <model>Wildfire S</model>
+    <marka>HTC</marka>
+    <catalog id="160043">Сотовые телефоны</catalog>
+    
+    <price1>3500</price1>
+    <price2>9990</price2>
+    <description>
+
+
+
+GSM, 3G, смартфон, Android 2.3, вес 105 г, ШхВхТ: 59x101x12 мм, экран 3.2&amp;quot;, 320x480, FM-радио, Bluetooth, Wi-Fi, GPS, фотокамера 5 МП, память 512 Мб, слот microSD (TransFlash), аккумулятор 1230 мАч
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>GSM 900/1800/1900, 3G</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>смартфон</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Android 2.3</value>
+        </item>
+        <item>
+          <name>Тип корпуса</name>
+          <value>классический</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Кнопки управления</name>
+          <value>сенсорные</value>
+        </item>
+        <item>
+          <name>Тип SIM-карты</name>
+          <value>обычная</value>
+        </item>
+        <item>
+          <name>Количество SIM-карт</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>105 г</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxТ)</name>
+          <value>59x101x12 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Тип экрана</name>
+          <value>цветной TFT, сенсорный</value>
+        </item>
+        <item>
+          <name>Тип сенсорного экрана</name>
+          <value>мультитач, емкостный</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>3.2 дюйм.</value>
+        </item>
+        <item>
+          <name>Размер изображения</name>
+          <value>320x480</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>180</value>
+        </item>
+        <item>
+          <name>Автоматический поворот экрана</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звонки</name>
+        <item>
+          <name>Тип мелодий</name>
+          <value>полифонические, MP3-мелодии</value>
+        </item>
+        <item>
+          <name>Виброзвонок</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Световая индикация событий</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Фотокамера</name>
+          <value>5 млн пикс., светодиодная вспышка</value>
+        </item>
+        <item>
+          <name>Функции камеры</name>
+          <value>автофокус
+</value>
+        </item>
+        <item>
+          <name>Запись видеороликов</name>
+          <value>есть (3GP)</value>
+        </item>
+        <item>
+          <name>Макс. разрешение видео</name>
+          <value>640x480</value>
+        </item>
+        <item>
+          <name>Geo Tagging</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Воспроизведение видео</name>
+          <value>3GP, 3G2, MP4, WMV</value>
+        </item>
+        <item>
+          <name>Аудио</name>
+          <value>MP3, AAC, WAV, WMA, FM-радио</value>
+        </item>
+        <item>
+          <name>Диктофон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>3.5 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi, Bluetooth 3.0, USB</value>
+        </item>
+        <item>
+          <name>Зарядка от USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Спутниковая навигация</name>
+          <value>GPS</value>
+        </item>
+        <item>
+          <name>Cистема A-GPS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>WAP, GPRS, EDGE, HSDPA, HSUPA</value>
+        </item>
+        <item>
+          <name>Поддержка протоколов</name>
+          <value>POP/SMTP, HTML</value>
+        </item>
+        <item>
+          <name>Модем</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Синхронизация с компьютером</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Использование в качестве USB-накопителя</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Qualcomm MSM7227, 600 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>Adreno 200</value>
+        </item>
+        <item>
+          <name>Объем встроенной памяти</name>
+          <value>512 Мб</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>512 Мб</value>
+        </item>
+        <item>
+          <name>Поддержка  карт памяти</name>
+          <value>microSD (TransFlash), объемом до 32 Гб
+
+</value>
+        </item>
+      </items>
+      <items>
+        <name>Сообщения</name>
+        <item>
+          <name>Дополнительные функции SMS</name>
+          <value>шаблоны сообщений</value>
+        </item>
+        <item>
+          <name>MMS</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1230 мАч</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции</name>
+        <item>
+          <name>Громкая связь (встроенный динамик)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Автодозвон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим полета</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Профиль A2DP</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>освещенности, приближения, компас</value>
+        </item>
+      </items>
+      <items>
+        <name>Записная книжка и органайзер</name>
+        <item>
+          <name>Поиск по книжке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Обмен между SIM-картой и внутренней памятью</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Органайзер</name>
+          <value>будильник, калькулятор, планировщик задач</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Дата анонсирования (г-м-д)</name>
+          <value>2011-02-15</value>
+        </item>
+        <item>
+          <name>Дата начала продаж (г-м-д)</name>
+          <value>2011-06-01</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="98789">
+    <title>Nokia Lumia 800</title>
+    <model>Lumia 800</model>
+    <marka>Nokia</marka>
+    <catalog id="160043">Сотовые телефоны</catalog>
+    
+    <price1>4218</price1>
+    <price2>17500</price2>
+    <description>
+
+
+
+GSM, 3G, смартфон, MS Windows Phone 7.5, вес 142 г, ШхВхТ: 61.2x116.5x12.1 мм, экран 3.7&amp;quot;, 480x800, FM-радио, Bluetooth, Wi-Fi, GPS, фотокамера 8 МП, память 16 Гб, аккумулятор 1450 мАч
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>GSM 900/1800/1900, 3G</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>смартфон</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>MS Windows Phone 7.5</value>
+        </item>
+        <item>
+          <name>Тип корпуса</name>
+          <value>классический</value>
+        </item>
+        <item>
+          <name>Кнопки управления</name>
+          <value>сенсорные</value>
+        </item>
+        <item>
+          <name>Тип SIM-карты</name>
+          <value>micro SIM</value>
+        </item>
+        <item>
+          <name>Количество SIM-карт</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>142 г</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxТ)</name>
+          <value>61.2x116.5x12.1 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Тип экрана</name>
+          <value>цветной AMOLED, сенсорный</value>
+        </item>
+        <item>
+          <name>Тип сенсорного экрана</name>
+          <value>мультитач, емкостный</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>3.7 дюйм.</value>
+        </item>
+        <item>
+          <name>Размер изображения</name>
+          <value>480x800</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>252</value>
+        </item>
+        <item>
+          <name>Автоматический поворот экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Устойчивое к царапинам стекло</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звонки</name>
+        <item>
+          <name>Тип мелодий</name>
+          <value>полифонические, MP3-мелодии</value>
+        </item>
+        <item>
+          <name>Виброзвонок</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Фотокамера</name>
+          <value>8 млн пикс., встроенная вспышка</value>
+        </item>
+        <item>
+          <name>Функции камеры</name>
+          <value>автофокус, цифровой Zoom 3x
+</value>
+        </item>
+        <item>
+          <name>Запись видеороликов</name>
+          <value>есть (MPEG-4)</value>
+        </item>
+        <item>
+          <name>Макс. разрешение видео</name>
+          <value>1280x720</value>
+        </item>
+        <item>
+          <name>Макс. частота кадров видео</name>
+          <value>30 кадров/с</value>
+        </item>
+        <item>
+          <name>Geo Tagging</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Воспроизведение видео</name>
+          <value>ASF, AVI, VC-1, WMV 9, MPEG-4, 3GPP</value>
+        </item>
+        <item>
+          <name>Аудио</name>
+          <value>MP3, AAC, WMA, FM-радио</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>3.5 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi, Bluetooth 2.1, USB</value>
+        </item>
+        <item>
+          <name>Зарядка от USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Спутниковая навигация</name>
+          <value>GPS</value>
+        </item>
+        <item>
+          <name>Cистема A-GPS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>WAP, GPRS, EDGE, HSDPA, HSUPA</value>
+        </item>
+        <item>
+          <name>Поддержка протоколов</name>
+          <value>POP/SMTP, IMAP4</value>
+        </item>
+        <item>
+          <name>Модем</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Синхронизация с компьютером</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Qualcomm MSM 8255, 1400 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>Adreno 205</value>
+        </item>
+        <item>
+          <name>Объем встроенной памяти</name>
+          <value>16 Гб</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>512 Мб</value>
+        </item>
+        <item>
+          <name>Слот карт памяти</name>
+          <value>
+отсутствует</value>
+        </item>
+      </items>
+      <items>
+        <name>Сообщения</name>
+        <item>
+          <name>MMS</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1450 мАч</value>
+        </item>
+        <item>
+          <name>Время разговора</name>
+          <value>13 ч</value>
+        </item>
+        <item>
+          <name>Время ожидания</name>
+          <value>265 ч</value>
+        </item>
+        <item>
+          <name>Время работы в режиме прослушивания музыки</name>
+          <value>55 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции</name>
+        <item>
+          <name>Громкая связь (встроенный динамик)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим полета</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>освещенности, приближения, компас</value>
+        </item>
+      </items>
+      <items>
+        <name>Записная книжка и органайзер</name>
+        <item>
+          <name>Поиск по книжке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Обмен между SIM-картой и внутренней памятью</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Органайзер</name>
+          <value>будильник, калькулятор, планировщик задач, поддержка файлов MS Office</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>телефон, стерео гарнитура WH-902, зарядное устройство AC-16, мягкий чехол, кабель CA-185CD</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="98794">
+    <title>Samsung Galaxy Nexus GT-I9250</title>
+    <model>Galaxy Nexus GT-I9250</model>
+    <marka>Samsung</marka>
+    <catalog id="160043">Сотовые телефоны</catalog>
+    
+    <price1>8000</price1>
+    <price2>22750</price2>
+    <description>
+
+
+
+GSM, 3G, смартфон, Android 4.0, вес 135 г, ШхВхТ: 67.94x135.5x8.94 мм, экран 4.65&amp;quot;, 720x1280, Bluetooth, NFC, Wi-Fi, GPS, фотокамера 5 МП, память 16 Гб, аккумулятор 1750 мАч
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>GSM 900/1800/1900, 3G</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>смартфон</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Android 4.3</value>
+        </item>
+        <item>
+          <name>Тип корпуса</name>
+          <value>классический</value>
+        </item>
+        <item>
+          <name>Кнопки управления</name>
+          <value>сенсорные</value>
+        </item>
+        <item>
+          <name>Уровень SAR</name>
+          <value>0.303</value>
+        </item>
+        <item>
+          <name>Тип SIM-карты</name>
+          <value>обычная</value>
+        </item>
+        <item>
+          <name>Количество SIM-карт</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>135 г</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxТ)</name>
+          <value>67.94x135.5x8.94 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Тип экрана</name>
+          <value>цветной HD Super AMOLED, 16.78 млн цветов, сенсорный</value>
+        </item>
+        <item>
+          <name>Тип сенсорного экрана</name>
+          <value>мультитач, емкостный</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>4.65 дюйм.</value>
+        </item>
+        <item>
+          <name>Размер изображения</name>
+          <value>720x1280</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>316</value>
+        </item>
+        <item>
+          <name>Автоматический поворот экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Устойчивое к царапинам стекло</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звонки</name>
+        <item>
+          <name>Тип мелодий</name>
+          <value>полифонические, MP3-мелодии</value>
+        </item>
+        <item>
+          <name>Виброзвонок</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Фотокамера</name>
+          <value>5 млн пикс., 2592x1936, светодиодная вспышка</value>
+        </item>
+        <item>
+          <name>Функции камеры</name>
+          <value>автофокус, цифровой Zoom 8x
+</value>
+        </item>
+        <item>
+          <name>Распознавание</name>
+          <value>лиц</value>
+        </item>
+        <item>
+          <name>Запись видеороликов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Макс. разрешение видео</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Макс. частота кадров видео</name>
+          <value>30 кадров/с</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть, 1.3 млн пикс.</value>
+        </item>
+        <item>
+          <name>Воспроизведение видео</name>
+          <value>H.263, H.264, MPEG4, VC-1</value>
+        </item>
+        <item>
+          <name>Аудио</name>
+          <value>MP3, AAC, WAV</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>3.5 мм</value>
+        </item>
+        <item>
+          <name>Видеовыход</name>
+          <value>MHL</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi, Wi-Fi Direct, Bluetooth 3.0, USB, NFC</value>
+        </item>
+        <item>
+          <name>Спутниковая навигация</name>
+          <value>GPS</value>
+        </item>
+        <item>
+          <name>Cистема A-GPS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>WAP, GPRS, EDGE, HSDPA, HSUPA, HSPA+</value>
+        </item>
+        <item>
+          <name>Поддержка протоколов</name>
+          <value>POP/SMTP, IMAP4, HTML</value>
+        </item>
+        <item>
+          <name>Модем</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Синхронизация с компьютером</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>TI OMAP4460, 1200 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>PowerVR SGX540</value>
+        </item>
+        <item>
+          <name>Объем встроенной памяти</name>
+          <value>16 Гб</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>1 Гб</value>
+        </item>
+        <item>
+          <name>Слот карт памяти</name>
+          <value>
+отсутствует</value>
+        </item>
+      </items>
+      <items>
+        <name>Сообщения</name>
+        <item>
+          <name>Дополнительные функции SMS</name>
+          <value>ввод текста со словарем</value>
+        </item>
+        <item>
+          <name>MMS</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1750 мАч</value>
+        </item>
+        <item>
+          <name>Время разговора</name>
+          <value>17.7 ч</value>
+        </item>
+        <item>
+          <name>Время ожидания</name>
+          <value>290 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции</name>
+        <item>
+          <name>Громкая связь (встроенный динамик)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>голосовые метки</value>
+        </item>
+        <item>
+          <name>Режим полета</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Профиль A2DP</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>освещенности, приближения, гироскоп, компас, барометр</value>
+        </item>
+      </items>
+      <items>
+        <name>Записная книжка и органайзер</name>
+        <item>
+          <name>Поиск по книжке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Обмен между SIM-картой и внутренней памятью</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Органайзер</name>
+          <value>будильник, калькулятор, планировщик задач</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Особенности</name>
+          <value>поддержка 4G (LTE или HSPA+) зависит от региона продаж; внутренняя память - 16Гб или 32Гб</value>
+        </item>
+        <item>
+          <name>Дата анонсирования (г-м-д)</name>
+          <value>2011-10-19</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="98803">
+    <title>Sony Xperia S</title>
+    <model>Xperia S</model>
+    <marka>Sony</marka>
+    <catalog id="160043">Сотовые телефоны</catalog>
+    
+    <price1>7679</price1>
+    <price2>13570</price2>
+    <description>
+
+
+
+GSM, 3G, смартфон, Android 2.3, вес 144 г, ШхВхТ: 64x128x10.6 мм, экран 4.3&amp;quot;, 720x1280, FM-радио, Bluetooth, NFC, Wi-Fi, GPS, ГЛОНАСС, фотокамера 12.10 МП, память 32 Гб, аккумулятор 1750 мАч
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>GSM 900/1800/1900, 3G</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>смартфон</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Android 4.1</value>
+        </item>
+        <item>
+          <name>Тип корпуса</name>
+          <value>классический</value>
+        </item>
+        <item>
+          <name>Кнопки управления</name>
+          <value>сенсорные</value>
+        </item>
+        <item>
+          <name>Тип SIM-карты</name>
+          <value>micro SIM</value>
+        </item>
+        <item>
+          <name>Количество SIM-карт</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>144 г</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxТ)</name>
+          <value>64x128x10.6 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Тип экрана</name>
+          <value>цветной TFT, 16.78 млн цветов, сенсорный</value>
+        </item>
+        <item>
+          <name>Тип сенсорного экрана</name>
+          <value>мультитач, емкостный</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>4.3 дюйм.</value>
+        </item>
+        <item>
+          <name>Размер изображения</name>
+          <value>720x1280</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>342</value>
+        </item>
+        <item>
+          <name>Автоматический поворот экрана</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звонки</name>
+        <item>
+          <name>Тип мелодий</name>
+          <value>полифонические, MP3-мелодии</value>
+        </item>
+        <item>
+          <name>Виброзвонок</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Световая индикация событий</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Фотокамера</name>
+          <value>12.10 млн пикс., светодиодная вспышка</value>
+        </item>
+        <item>
+          <name>Функции камеры</name>
+          <value>автофокус, цифровой Zoom 16x
+</value>
+        </item>
+        <item>
+          <name>Распознавание</name>
+          <value>лиц, улыбок</value>
+        </item>
+        <item>
+          <name>Запись видеороликов</name>
+          <value>есть (MPEG4)</value>
+        </item>
+        <item>
+          <name>Макс. разрешение видео</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Geo Tagging</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть, 1.3 млн пикс.</value>
+        </item>
+        <item>
+          <name>Воспроизведение видео</name>
+          <value>3GPP, MPEG4</value>
+        </item>
+        <item>
+          <name>Аудио</name>
+          <value>MP3, AAC, WAV, FM-радио</value>
+        </item>
+        <item>
+          <name>Игры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>3.5 мм</value>
+        </item>
+        <item>
+          <name>Видеовыход</name>
+          <value>TV-выход, HDMI</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi, Bluetooth, USB, NFC</value>
+        </item>
+        <item>
+          <name>Спутниковая навигация</name>
+          <value>GPS/ГЛОНАСС</value>
+        </item>
+        <item>
+          <name>Cистема A-GPS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>WAP, GPRS, EDGE, HSDPA, HSUPA</value>
+        </item>
+        <item>
+          <name>Поддержка протоколов</name>
+          <value>POP/SMTP, IMAP4, HTML</value>
+        </item>
+        <item>
+          <name>Модем</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Синхронизация с компьютером</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Использование в качестве USB-накопителя</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Qualcomm MSM8260, 1500 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>Adreno 220</value>
+        </item>
+        <item>
+          <name>Объем встроенной памяти</name>
+          <value>32 Гб</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>1 Гб</value>
+        </item>
+        <item>
+          <name>Слот карт памяти</name>
+          <value>
+отсутствует</value>
+        </item>
+      </items>
+      <items>
+        <name>Сообщения</name>
+        <item>
+          <name>Дополнительные функции SMS</name>
+          <value>ввод текста со словарем</value>
+        </item>
+        <item>
+          <name>MMS</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1750 мАч</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>несъемный</value>
+        </item>
+        <item>
+          <name>Время разговора</name>
+          <value>8.5 ч</value>
+        </item>
+        <item>
+          <name>Время ожидания</name>
+          <value>420 ч</value>
+        </item>
+        <item>
+          <name>Время работы в режиме прослушивания музыки</name>
+          <value>25 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции</name>
+        <item>
+          <name>Громкая связь (встроенный динамик)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим полета</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Профиль A2DP</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>освещенности, приближения, гироскоп, компас</value>
+        </item>
+      </items>
+      <items>
+        <name>Записная книжка и органайзер</name>
+        <item>
+          <name>Поиск по книжке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Обмен между SIM-картой и внутренней памятью</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Органайзер</name>
+          <value>будильник, калькулятор, планировщик задач, поддержка файлов MS Office</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="98807">
+    <title>Sony Xperia sola</title>
+    <model>Xperia sola</model>
+    <marka>Sony</marka>
+    <catalog id="160043">Сотовые телефоны</catalog>
+    
+    <price1>6900</price1>
+    <price2>7760</price2>
+    <description>
+
+
+
+GSM, 3G, смартфон, Android 2.3, вес 107 г, ШхВхТ: 59x116x9.9 мм, экран 3.7&amp;quot;, 480x854, FM-радио, Bluetooth, NFC, Wi-Fi, GPS, фотокамера 5 МП, память 8 Гб, слот microSD (TransFlash), аккумулятор 1320 мАч
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>GSM 900/1800/1900, 3G</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>смартфон</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Android 4.0</value>
+        </item>
+        <item>
+          <name>Тип корпуса</name>
+          <value>классический</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Кнопки управления</name>
+          <value>сенсорные</value>
+        </item>
+        <item>
+          <name>Тип SIM-карты</name>
+          <value>обычная</value>
+        </item>
+        <item>
+          <name>Количество SIM-карт</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>107 г</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxТ)</name>
+          <value>59x116x9.9 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Тип экрана</name>
+          <value>цветной TFT, 16.78 млн цветов, сенсорный</value>
+        </item>
+        <item>
+          <name>Тип сенсорного экрана</name>
+          <value>мультитач, емкостный</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>3.7 дюйм.</value>
+        </item>
+        <item>
+          <name>Размер изображения</name>
+          <value>480x854</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>265</value>
+        </item>
+        <item>
+          <name>Автоматический поворот экрана</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звонки</name>
+        <item>
+          <name>Тип мелодий</name>
+          <value>полифонические, MP3-мелодии</value>
+        </item>
+        <item>
+          <name>Виброзвонок</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Световая индикация событий</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Фотокамера</name>
+          <value>5 млн пикс., светодиодная вспышка</value>
+        </item>
+        <item>
+          <name>Функции камеры</name>
+          <value>автофокус, цифровой Zoom 16x
+</value>
+        </item>
+        <item>
+          <name>Распознавание</name>
+          <value>лиц, улыбок</value>
+        </item>
+        <item>
+          <name>Запись видеороликов</name>
+          <value>есть (3GPP, MP4)</value>
+        </item>
+        <item>
+          <name>Макс. разрешение видео</name>
+          <value>1280x720</value>
+        </item>
+        <item>
+          <name>Geo Tagging</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Воспроизведение видео</name>
+          <value>3GPP, MP4</value>
+        </item>
+        <item>
+          <name>Аудио</name>
+          <value>MP3, AAC, WAV, FM-радио</value>
+        </item>
+        <item>
+          <name>Диктофон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>3.5 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi, Bluetooth 3.0, USB, NFC</value>
+        </item>
+        <item>
+          <name>Зарядка от USB</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>USB-host</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Спутниковая навигация</name>
+          <value>GPS</value>
+        </item>
+        <item>
+          <name>Cистема A-GPS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>WAP, GPRS, EDGE, HSDPA, HSUPA</value>
+        </item>
+        <item>
+          <name>Поддержка протоколов</name>
+          <value>POP/SMTP, IMAP4, HTML</value>
+        </item>
+        <item>
+          <name>Модем</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Синхронизация с компьютером</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Использование в качестве USB-накопителя</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>ST Ericsson  U8500, 1000 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>Mali-400 MP</value>
+        </item>
+        <item>
+          <name>Объем встроенной памяти</name>
+          <value>8 Гб</value>
+        </item>
+        <item>
+          <name>Объем доступной пользователю памяти</name>
+          <value>5 Гб</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>512 Мб</value>
+        </item>
+        <item>
+          <name>Поддержка  карт памяти</name>
+          <value>microSD (TransFlash), объемом до 32 Гб
+
+</value>
+        </item>
+      </items>
+      <items>
+        <name>Сообщения</name>
+        <item>
+          <name>Дополнительные функции SMS</name>
+          <value>ввод текста со словарем</value>
+        </item>
+        <item>
+          <name>MMS</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1320 мАч</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>несъемный</value>
+        </item>
+        <item>
+          <name>Время разговора</name>
+          <value>6 ч</value>
+        </item>
+        <item>
+          <name>Время ожидания</name>
+          <value>475 ч</value>
+        </item>
+        <item>
+          <name>Время работы в режиме прослушивания музыки</name>
+          <value>40 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции</name>
+        <item>
+          <name>Громкая связь (встроенный динамик)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим полета</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Профиль A2DP</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>освещенности, приближения</value>
+        </item>
+      </items>
+      <items>
+        <name>Записная книжка и органайзер</name>
+        <item>
+          <name>Поиск по книжке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Обмен между SIM-картой и внутренней памятью</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Органайзер</name>
+          <value>будильник, калькулятор, планировщик задач</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>телефон, стереогарнитура, зарядное устройство, MicroUSB-кабель, NFC-метки</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>экран Reality Display с технологией Mobile BRAVIA Engine; бесконтактная технология Sony floating touch</value>
+        </item>
+        <item>
+          <name>Дата анонсирования (г-м-д)</name>
+          <value>2012-03-13</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="98809">
+    <title>Sony Xperia ion</title>
+    <model>Xperia ion</model>
+    <marka>Sony</marka>
+    <catalog id="160043">Сотовые телефоны</catalog>
+    
+    <price1>10310</price1>
+    <price2>16999</price2>
+    <description>
+
+
+
+GSM, 3G, смартфон, Android 2.3, вес 144 г, ШхВхТ: 68x133x10.6 мм, экран 4.55&amp;quot;, 720x1280, FM-радио, Bluetooth, NFC, Wi-Fi, GPS, ГЛОНАСС, фотокамера 12.10 МП, память 16 Гб, слот microSD (TransFlash), аккумулятор 1900 мАч
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>GSM 900/1800/1900, 3G</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>смартфон</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Android 4.1</value>
+        </item>
+        <item>
+          <name>Тип корпуса</name>
+          <value>классический</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>металл и пластик</value>
+        </item>
+        <item>
+          <name>Кнопки управления</name>
+          <value>сенсорные</value>
+        </item>
+        <item>
+          <name>Количество SIM-карт</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>144 г</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxТ)</name>
+          <value>68x133x10.6 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Тип экрана</name>
+          <value>цветной TFT, 16.78 млн цветов, сенсорный</value>
+        </item>
+        <item>
+          <name>Тип сенсорного экрана</name>
+          <value>емкостный</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>4.55 дюйм.</value>
+        </item>
+        <item>
+          <name>Размер изображения</name>
+          <value>720x1280</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>323</value>
+        </item>
+        <item>
+          <name>Автоматический поворот экрана</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звонки</name>
+        <item>
+          <name>Тип мелодий</name>
+          <value>полифонические, MP3-мелодии</value>
+        </item>
+        <item>
+          <name>Виброзвонок</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Фотокамера</name>
+          <value>12.10 млн пикс., светодиодная вспышка</value>
+        </item>
+        <item>
+          <name>Функции камеры</name>
+          <value>автофокус, цифровой Zoom 16x
+</value>
+        </item>
+        <item>
+          <name>Распознавание</name>
+          <value>лиц, улыбок</value>
+        </item>
+        <item>
+          <name>Запись видеороликов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Макс. разрешение видео</name>
+          <value>1920x1080</value>
+        </item>
+        <item>
+          <name>Geo Tagging</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Фронтальная камера</name>
+          <value>есть, 1.3 млн пикс.</value>
+        </item>
+        <item>
+          <name>Аудио</name>
+          <value>MP3, FM-радио</value>
+        </item>
+        <item>
+          <name>Диктофон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Игры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>3.5 мм</value>
+        </item>
+        <item>
+          <name>Видеовыход</name>
+          <value>HDMI</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi, Bluetooth 2.1, USB, NFC</value>
+        </item>
+        <item>
+          <name>Спутниковая навигация</name>
+          <value>GPS/ГЛОНАСС</value>
+        </item>
+        <item>
+          <name>Cистема A-GPS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>WAP, GPRS, EDGE, HSDPA, HSUPA</value>
+        </item>
+        <item>
+          <name>Поддержка протоколов</name>
+          <value>POP/SMTP, HTML</value>
+        </item>
+        <item>
+          <name>Модем</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Синхронизация с компьютером</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Использование в качестве USB-накопителя</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Поддержка DLNA</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Qualcomm MSM8260, 1500 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>Adreno 220</value>
+        </item>
+        <item>
+          <name>Объем встроенной памяти</name>
+          <value>16 Гб</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>1 Гб</value>
+        </item>
+        <item>
+          <name>Поддержка  карт памяти</name>
+          <value>microSD (TransFlash), объемом до 32 Гб
+
+</value>
+        </item>
+      </items>
+      <items>
+        <name>Сообщения</name>
+        <item>
+          <name>Дополнительные функции SMS</name>
+          <value>ввод текста со словарем</value>
+        </item>
+        <item>
+          <name>MMS</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1900 мАч</value>
+        </item>
+        <item>
+          <name>Время разговора</name>
+          <value>10 ч</value>
+        </item>
+        <item>
+          <name>Время ожидания</name>
+          <value>400 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции</name>
+        <item>
+          <name>Громкая связь (встроенный динамик)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим полета</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Профиль A2DP</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>гироскоп</value>
+        </item>
+      </items>
+      <items>
+        <name>Записная книжка и органайзер</name>
+        <item>
+          <name>Поиск по книжке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Обмен между SIM-картой и внутренней памятью</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Органайзер</name>
+          <value>будильник, калькулятор, планировщик задач</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Дата анонсирования (г-м-д)</name>
+          <value>2012-01-10</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="98825">
+    <title>Nokia Lumia 710</title>
+    <model>Lumia 710</model>
+    <marka>Nokia</marka>
+    <catalog id="160043">Сотовые телефоны</catalog>
+    
+    <price1>4390</price1>
+    <price2>5250</price2>
+    <description>
+
+
+
+GSM, 3G, смартфон, MS Windows Phone 7.5, вес 126 г, ШхВхТ: 62.4x119x12.5 мм, экран 3.7&amp;quot;, 480x800, FM-радио, Bluetooth, Wi-Fi, GPS, фотокамера 5 МП, память 8 Гб, аккумулятор 1300 мАч
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>GSM 900/1800/1900, 3G</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>смартфон</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>MS Windows Phone 7.5</value>
+        </item>
+        <item>
+          <name>Тип корпуса</name>
+          <value>классический</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Кнопки управления</name>
+          <value>механические</value>
+        </item>
+        <item>
+          <name>Тип SIM-карты</name>
+          <value>micro SIM</value>
+        </item>
+        <item>
+          <name>Количество SIM-карт</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>126 г</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxТ)</name>
+          <value>62.4x119x12.5 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Тип экрана</name>
+          <value>цветной TFT, 16.78 млн цветов, сенсорный</value>
+        </item>
+        <item>
+          <name>Тип сенсорного экрана</name>
+          <value>мультитач, емкостный</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>3.7 дюйм.</value>
+        </item>
+        <item>
+          <name>Размер изображения</name>
+          <value>480x800</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>252</value>
+        </item>
+        <item>
+          <name>Автоматический поворот экрана</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Устойчивое к царапинам стекло</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звонки</name>
+        <item>
+          <name>Тип мелодий</name>
+          <value>полифонические, MP3-мелодии</value>
+        </item>
+        <item>
+          <name>Виброзвонок</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Фотокамера</name>
+          <value>5 млн пикс., 2592x1944, встроенная вспышка</value>
+        </item>
+        <item>
+          <name>Функции камеры</name>
+          <value>автофокус, цифровой Zoom 4x
+</value>
+        </item>
+        <item>
+          <name>Запись видеороликов</name>
+          <value>есть (MPEG-4)</value>
+        </item>
+        <item>
+          <name>Макс. разрешение видео</name>
+          <value>1280x720</value>
+        </item>
+        <item>
+          <name>Макс. частота кадров видео</name>
+          <value>30 кадров/с</value>
+        </item>
+        <item>
+          <name>Geo Tagging</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Воспроизведение видео</name>
+          <value>MPEG4, WMV 9, ASF, AVI, 3GPP</value>
+        </item>
+        <item>
+          <name>Аудио</name>
+          <value>MP3, AAC, WMA, FM-радио</value>
+        </item>
+        <item>
+          <name>Игры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>3.5 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi, Bluetooth 2.1, USB</value>
+        </item>
+        <item>
+          <name>Спутниковая навигация</name>
+          <value>GPS</value>
+        </item>
+        <item>
+          <name>Cистема A-GPS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>WAP, GPRS, EDGE, HSDPA, HSUPA</value>
+        </item>
+        <item>
+          <name>Поддержка протоколов</name>
+          <value>POP/SMTP, IMAP4, HTML</value>
+        </item>
+        <item>
+          <name>Синхронизация с компьютером</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Qualcomm MSM 8255, 1400 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>Adreno 205</value>
+        </item>
+        <item>
+          <name>Объем встроенной памяти</name>
+          <value>8 Гб</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>512 Мб</value>
+        </item>
+        <item>
+          <name>Слот карт памяти</name>
+          <value>
+отсутствует</value>
+        </item>
+      </items>
+      <items>
+        <name>Сообщения</name>
+        <item>
+          <name>MMS</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1300 мАч</value>
+        </item>
+        <item>
+          <name>Время разговора</name>
+          <value>6.8 ч</value>
+        </item>
+        <item>
+          <name>Время ожидания</name>
+          <value>400 ч</value>
+        </item>
+        <item>
+          <name>Время работы в режиме прослушивания музыки</name>
+          <value>38 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции</name>
+        <item>
+          <name>Громкая связь (встроенный динамик)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим полета</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>освещенности, компас</value>
+        </item>
+      </items>
+      <items>
+        <name>Записная книжка и органайзер</name>
+        <item>
+          <name>Поиск по книжке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Органайзер</name>
+          <value>будильник, калькулятор, планировщик задач, поддержка файлов MS Office</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>телефон, зарядное устройство Nokia AC-10, кабель для зарядки и передачи данных Nokia CA-190CD,  стереогарнитура Nokia WH-208, батарея BP-3L</value>
+        </item>
+        <item>
+          <name>Особенности</name>
+          <value>время работы в режиме разговора : GSM 6 час 50 мин, 
+WCDMA 7 час 35 мин; время работы в режиме ожидания:
+GSM 400 час, WCDMA 400 час; память - 25 ГБ виртуального пространства Skydrive; дисплей - стекло Corning(r), ClearBlack; 2 микрофона</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="98826">
+    <title>Samsung Galaxy Y Duos GT-S6102</title>
+    <model>Galaxy Y Duos GT-S6102</model>
+    <marka>Samsung</marka>
+    <catalog id="160043">Сотовые телефоны</catalog>
+    
+    <price1>2850</price1>
+    <price2>6320</price2>
+    <description>
+
+
+
+GSM, 3G, смартфон, Android 2.3, вес 109 г, ШхВхТ: 60x109.8x11.98 мм, экран 3.14&amp;quot;, 240x320, FM-радио, Bluetooth, Wi-Fi, GPS, фотокамера 3.20 МП, память 512 Мб, слот micro SDHC, аккумулятор 1300 мАч
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>GSM 900/1800/1900, 3G</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>смартфон</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Android 2.3</value>
+        </item>
+        <item>
+          <name>Тип корпуса</name>
+          <value>классический</value>
+        </item>
+        <item>
+          <name>Кнопки управления</name>
+          <value>механические/сенсорные</value>
+        </item>
+        <item>
+          <name>Тип SIM-карты</name>
+          <value>обычная</value>
+        </item>
+        <item>
+          <name>Количество SIM-карт</name>
+          <value>2</value>
+        </item>
+        <item>
+          <name>Режим работы нескольких SIM-карт</name>
+          <value>попеременный</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>109 г</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxТ)</name>
+          <value>60x109.8x11.98 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Тип экрана</name>
+          <value>цветной TFT, 262.14 тыс цветов, сенсорный</value>
+        </item>
+        <item>
+          <name>Тип сенсорного экрана</name>
+          <value>мультитач, емкостный</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>3.14 дюйм.</value>
+        </item>
+        <item>
+          <name>Размер изображения</name>
+          <value>240x320</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>127</value>
+        </item>
+        <item>
+          <name>Автоматический поворот экрана</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звонки</name>
+        <item>
+          <name>Тип мелодий</name>
+          <value>полифонические, MP3-мелодии</value>
+        </item>
+        <item>
+          <name>Виброзвонок</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Фотокамера</name>
+          <value>3.20 млн пикс., 2048x1536</value>
+        </item>
+        <item>
+          <name>Запись видеороликов</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Макс. частота кадров видео</name>
+          <value>24 кадров/с</value>
+        </item>
+        <item>
+          <name>Geo Tagging</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Аудио</name>
+          <value>MP3, AAC, WAV, FM-радио</value>
+        </item>
+        <item>
+          <name>Диктофон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Игры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>3.5 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi, Bluetooth 3.0, USB</value>
+        </item>
+        <item>
+          <name>Спутниковая навигация</name>
+          <value>GPS</value>
+        </item>
+        <item>
+          <name>Cистема A-GPS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>WAP, GPRS, EDGE, HSDPA, HSUPA</value>
+        </item>
+        <item>
+          <name>Поддержка протоколов</name>
+          <value>POP/SMTP, IMAP4, HTML</value>
+        </item>
+        <item>
+          <name>Модем</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>Broadcom BCM21553, 832 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Видеопроцессор</name>
+          <value>Broadcom VideoCore IV</value>
+        </item>
+        <item>
+          <name>Объем встроенной памяти</name>
+          <value>512 Мб</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>384 Мб</value>
+        </item>
+        <item>
+          <name>Поддержка  карт памяти</name>
+          <value>micro SDHC, объемом до 32 Гб
+
+</value>
+        </item>
+      </items>
+      <items>
+        <name>Сообщения</name>
+        <item>
+          <name>Дополнительные функции SMS</name>
+          <value>ввод текста со словарем, отправка SMS нескольким адресатам</value>
+        </item>
+        <item>
+          <name>MMS</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1300 мАч</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>съемный</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции</name>
+        <item>
+          <name>Громкая связь (встроенный динамик)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Управление</name>
+          <value>голосовой набор</value>
+        </item>
+        <item>
+          <name>Профиль A2DP</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>компас</value>
+        </item>
+      </items>
+      <items>
+        <name>Записная книжка и органайзер</name>
+        <item>
+          <name>Поиск по книжке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Обмен между SIM-картой и внутренней памятью</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Органайзер</name>
+          <value>будильник, калькулятор, планировщик задач</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Дата начала продаж (г-м-д)</name>
+          <value>2012-01-30</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+  <offer id="98829">
+    <title>Nokia 500</title>
+    <model>500</model>
+    <marka>Nokia</marka>
+    <catalog id="160043">Сотовые телефоны</catalog>
+    
+    <price1>1958</price1>
+    <price2>6290</price2>
+    <description>
+
+
+
+GSM, 3G, смартфон, Nokia Belle, вес 93 г, ШхВхТ: 54x111x14 мм, экран 3.2&amp;quot;, 360x640, FM-радио, Bluetooth, Wi-Fi, GPS, фотокамера 5 МП, память 2 Гб, слот microSD (TransFlash), аккумулятор 1110 мАч
+
+</description>
+    <specification>
+      <items>
+        <name>Общие характеристики</name>
+        <item>
+          <name>Стандарт</name>
+          <value>GSM 900/1800/1900, 3G</value>
+        </item>
+        <item>
+          <name>Тип</name>
+          <value>смартфон</value>
+        </item>
+        <item>
+          <name>Платформа</name>
+          <value>Symbian</value>
+        </item>
+        <item>
+          <name>Операционная система</name>
+          <value>Nokia Belle</value>
+        </item>
+        <item>
+          <name>Тип корпуса</name>
+          <value>классический</value>
+        </item>
+        <item>
+          <name>Материал корпуса</name>
+          <value>пластик</value>
+        </item>
+        <item>
+          <name>Кнопки управления</name>
+          <value>механические</value>
+        </item>
+        <item>
+          <name>Тип SIM-карты</name>
+          <value>обычная</value>
+        </item>
+        <item>
+          <name>Количество SIM-карт</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Вес</name>
+          <value>93 г</value>
+        </item>
+        <item>
+          <name>Размеры (ШxВxТ)</name>
+          <value>54x111x14 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Экран</name>
+        <item>
+          <name>Тип экрана</name>
+          <value>цветной TFT, 16.78 млн цветов, сенсорный</value>
+        </item>
+        <item>
+          <name>Тип сенсорного экрана</name>
+          <value>мультитач, емкостный</value>
+        </item>
+        <item>
+          <name>Диагональ</name>
+          <value>3.2 дюйм.</value>
+        </item>
+        <item>
+          <name>Размер изображения</name>
+          <value>360x640</value>
+        </item>
+        <item>
+          <name>Число пикселей на дюйм (PPI)</name>
+          <value>229</value>
+        </item>
+        <item>
+          <name>Автоматический поворот экрана</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Звонки</name>
+        <item>
+          <name>Тип мелодий</name>
+          <value>полифонические, MP3-мелодии</value>
+        </item>
+        <item>
+          <name>Виброзвонок</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Мультимедийные возможности</name>
+        <item>
+          <name>Фотокамера</name>
+          <value>5 млн пикс., 2592x1944</value>
+        </item>
+        <item>
+          <name>Функции камеры</name>
+          <value>цифровой Zoom 4x
+</value>
+        </item>
+        <item>
+          <name>Запись видеороликов</name>
+          <value>есть (MPEG4)</value>
+        </item>
+        <item>
+          <name>Макс. разрешение видео</name>
+          <value>640x480</value>
+        </item>
+        <item>
+          <name>Geo Tagging</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Воспроизведение видео</name>
+          <value>MPEG4, H.263, H.264</value>
+        </item>
+        <item>
+          <name>Аудио</name>
+          <value>MP3, AAC, WMA, FM-радио</value>
+        </item>
+        <item>
+          <name>Диктофон</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Игры</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Java-приложения</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Разъем для наушников</name>
+          <value>3.5 мм</value>
+        </item>
+      </items>
+      <items>
+        <name>Связь</name>
+        <item>
+          <name>Интерфейсы</name>
+          <value>Wi-Fi, Bluetooth 2.1, USB</value>
+        </item>
+        <item>
+          <name>Спутниковая навигация</name>
+          <value>GPS</value>
+        </item>
+        <item>
+          <name>Cистема A-GPS</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Доступ в интернет</name>
+          <value>WAP, GPRS, EDGE, HSDPA, HSUPA</value>
+        </item>
+        <item>
+          <name>Поддержка протоколов</name>
+          <value>POP/SMTP</value>
+        </item>
+        <item>
+          <name>Модем</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Использование в качестве USB-накопителя</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Память и процессор</name>
+        <item>
+          <name>Процессор</name>
+          <value>1000 МГц</value>
+        </item>
+        <item>
+          <name>Количество ядер процессора</name>
+          <value>1</value>
+        </item>
+        <item>
+          <name>Объем встроенной памяти</name>
+          <value>2 Гб</value>
+        </item>
+        <item>
+          <name>Объем оперативной памяти</name>
+          <value>256 Мб</value>
+        </item>
+        <item>
+          <name>Поддержка  карт памяти</name>
+          <value>microSD (TransFlash), объемом до 32 Гб
+
+</value>
+        </item>
+      </items>
+      <items>
+        <name>Сообщения</name>
+        <item>
+          <name>MMS</name>
+          <value>есть</value>
+        </item>
+      </items>
+      <items>
+        <name>Питание</name>
+        <item>
+          <name>Тип аккумулятора</name>
+          <value>Li-Ion</value>
+        </item>
+        <item>
+          <name>Емкость аккумулятора</name>
+          <value>1110 мАч</value>
+        </item>
+        <item>
+          <name>Аккумулятор</name>
+          <value>съемный</value>
+        </item>
+        <item>
+          <name>Время разговора</name>
+          <value>7 ч</value>
+        </item>
+        <item>
+          <name>Время ожидания</name>
+          <value>500 ч</value>
+        </item>
+        <item>
+          <name>Время работы в режиме прослушивания музыки</name>
+          <value>35 ч</value>
+        </item>
+      </items>
+      <items>
+        <name>Другие функции</name>
+        <item>
+          <name>Громкая связь (встроенный динамик)</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Режим полета</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Датчики</name>
+          <value>освещенности, приближения, компас</value>
+        </item>
+      </items>
+      <items>
+        <name>Записная книжка и органайзер</name>
+        <item>
+          <name>Поиск по книжке</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Обмен между SIM-картой и внутренней памятью</name>
+          <value>есть</value>
+        </item>
+        <item>
+          <name>Органайзер</name>
+          <value>будильник, калькулятор, планировщик задач</value>
+        </item>
+      </items>
+      <items>
+        <name>Дополнительная информация</name>
+        <item>
+          <name>Комплектация</name>
+          <value>телефон, батарея, зарядное устройство, стерео гарнитура, соединительный кабель, 2 задние панели, руководство</value>
+        </item>
+      </items>
+    </specification>
+    
+  </offer>
+</list>
