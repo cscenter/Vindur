@@ -2,7 +2,6 @@ package ru.csc.vindur.storage;
 
 import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.ROBitSet;
-import ru.csc.vindur.document.Value;
 
 import java.util.*;
 import java.util.function.Supplier;
@@ -11,23 +10,22 @@ import java.util.function.Supplier;
  * @author Andrey Kokorev
  *         Created on 19.11.2014.
  */
-public class StorageHierarchy implements HierarchyStorage
+public class StorageHierarchy extends StorageBase<String, String>
 {
     public final String ROOT = null;
     private Supplier<BitSet> bitSetSupplier;
     private Map<String, BitSetNode> storage;   //value -> {BitSet of subtree, BitSet of node}
     private Hierarchy hierarchy;
-    private int size = 0;
 
     public StorageHierarchy(Supplier<BitSet> bitSetSupplier)
     {
+    	super(String.class, String.class);
         this.bitSetSupplier = bitSetSupplier;
         this.storage = new HashMap<>();
         this.hierarchy = new Hierarchy(ROOT);
         storage.put(ROOT, new BitSetNode(bitSetSupplier.get(), bitSetSupplier.get()));
     }
 
-    @Override
     public ROBitSet findChildTree(String root)
     {
         BitSetNode result = storage.get(root);
@@ -36,40 +34,19 @@ public class StorageHierarchy implements HierarchyStorage
     }
 
     @Override
-    public ROBitSet findNode(String node)
+    public void add(int docId, String value)
     {
-        BitSetNode result = storage.get(node);
-        if(result == null) return bitSetSupplier.get();
-        return result.getNode().asROBitSet();
-    }
-
-    @Override
-    public long size()
-    {
-        return size;
-    }
-
-    @Override
-    public void add(int docId, Value value)
-    {
-        String val = value.getValue();
-        if(!storage.containsKey(val)) return; //TODO: error handling
+        if(!storage.containsKey(value)) return; //TODO: error handling
         //Set docId in node bitset
-        storage.get(val).getNode().set(docId);
+        storage.get(value).getNode().set(docId);
 
         //Set docId as member of all parent subtrees
-        List<String> pathToRoot = hierarchy.getPathToRoot(val);
+        List<String> pathToRoot = hierarchy.getPathToRoot(value);
         for(String node : pathToRoot)
         {
             storage.get(node).setSubTree(docId);
         }
-        size++;
-    }
-
-    @Override
-    public long getComplexity()
-    {
-        return 100;
+        incrementDocumentsCount();
     }
 
     public void addChild(String parent, String node)
@@ -78,6 +55,12 @@ public class StorageHierarchy implements HierarchyStorage
             throw new IllegalArgumentException("'null' can't be value of 'node' argument");
         hierarchy.addChild(parent, node);
         storage.put(node, new BitSetNode(bitSetSupplier.get(), bitSetSupplier.get()));
+    }
+
+    @Override
+    public int getComplexity()
+    {
+        return 50;
     }
 
     private class Hierarchy
@@ -118,11 +101,6 @@ public class StorageHierarchy implements HierarchyStorage
             return result;
         }
 
-        public String getRoot(String root)
-        {
-            return root;
-        }
-
         public void addChild(String parent, String child)
         {
             tree.put(child, parent);
@@ -134,16 +112,16 @@ public class StorageHierarchy implements HierarchyStorage
                 throw e;
             }
         }
-
-        public Set<String> getNodeSet()
-        {
-            return tree.keySet();
-        }
     }
 
     public static class HierarchyCorruptedException extends RuntimeException
     {
-        public HierarchyCorruptedException()
+        /**
+		 * 
+		 */
+		private static final long serialVersionUID = 1L;
+
+		public HierarchyCorruptedException()
         {
             super();
         }
@@ -174,4 +152,17 @@ public class StorageHierarchy implements HierarchyStorage
             subTree.set(id);
         }
     }
+
+	@Override
+	public ROBitSet findSet(String request) {
+        BitSetNode result = storage.get(request);
+        if(result == null) return bitSetSupplier.get();
+        return result.getNode().asROBitSet();
+	}
+
+	@Override
+	public boolean checkValue(String value, String request) {
+		// TODO Auto-generated method stub
+		return false;
+	}
 }

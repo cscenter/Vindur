@@ -8,7 +8,6 @@ import org.slf4j.LoggerFactory;
 import ru.csc.vindur.Engine;
 import ru.csc.vindur.EngineConfig;
 import ru.csc.vindur.Request;
-import ru.csc.vindur.document.Value;
 import ru.csc.vindur.test.utils.RandomUtils;
 
 import java.util.List;
@@ -24,7 +23,7 @@ public class TestExecutor
     private static final Logger LOG = LoggerFactory.getLogger(TestExecutor.class);
 
     protected EngineConfig engineConfig;
-    private Supplier<Map<String, List<Value>>> documentSupplier;
+    private Supplier<Map<String, List<Object>>> documentSupplier;
     private Supplier<Request> requestSupplier;
 
     protected Engine engine;
@@ -58,15 +57,15 @@ public class TestExecutor
         long attributesSetted = 0;
         for (long i = 0; i < docNumber; i++)
         {
-            Map<String, List<Value>> document = documentSupplier.get();
+            Map<String, List<Object>> document = documentSupplier.get();
             LOG.debug("Document generated: {}", document);
             timer.start();
 
             int docId = engine.createDocument();
-            for (Map.Entry<String, List<Value>> attribute : document.entrySet())
+            for (Map.Entry<String, List<Object>> attribute : document.entrySet())
             {
                 attributesSetted += attribute.getValue().size();
-                for (Value value : attribute.getValue())
+                for (Object value : attribute.getValue())
                 {
                     engine.setAttributeByDocId(docId, attribute.getKey(), value);
                 }
@@ -91,14 +90,17 @@ public class TestExecutor
             }
             catch (Exception e)
             {
-                LOG.error("Engine throw an exception: {}", e.getMessage());
+                LOG.error("Engine throw an exception: {}", e);
+                LOG.error("Stack trace: \n");
+                e.printStackTrace();
+                return 0;
             } //даже не проверяем результат, только скорость
             timer.stop();
         }
         return size;
     }
 
-    public TestExecutor setDocumentSupplier(Supplier<Map<String, List<Value>>> documentSupplier)
+    public TestExecutor setDocumentSupplier(Supplier<Map<String, List<Object>>> documentSupplier)
     {
         this.documentSupplier = documentSupplier;
         return this;

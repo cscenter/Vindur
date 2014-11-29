@@ -12,6 +12,8 @@ import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.index.IndexableField;
+import org.apache.lucene.queryparser.classic.ParseException;
+import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
@@ -21,29 +23,28 @@ import org.apache.lucene.util.Version;
 
 import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.ROBitSet;
-import ru.csc.vindur.document.Value;
 
-public class StorageLucene implements Storage
+public class StorageLucene extends StorageBase<String, Query>
 {
 
     private static final String ID_FIELD_NAME = "id";
     private static final String VALUE_FIELD_NAME = "text";
+    private static final WhitespaceAnalyzer ANALAYZER = new WhitespaceAnalyzer();
+    private static final QueryParser QUERY_PARSER = new QueryParser(VALUE_FIELD_NAME, ANALAYZER);
     private final Directory luceneIndex;
-    private final WhitespaceAnalyzer analyzer;
     private final Supplier<BitSet> bitSetSupplier;
-    private int documentsCount = 0;
     private IndexSearcher searcher;
     private IndexWriter indexWriter;
     private DirectoryReader indexReader;
 
     public StorageLucene(Supplier<BitSet> bitSetSupplier)
     {
+    	super(String.class, Query.class);
         this.bitSetSupplier = bitSetSupplier;
         luceneIndex = new RAMDirectory();
-        analyzer = new WhitespaceAnalyzer();
         try
         {
-            indexWriter = new IndexWriter(luceneIndex, new IndexWriterConfig(Version.LATEST, analyzer));
+            indexWriter = new IndexWriter(luceneIndex, new IndexWriterConfig(Version.LATEST, ANALAYZER));
         }
         catch (IOException e)
         {
@@ -53,25 +54,19 @@ public class StorageLucene implements Storage
     }
 
     @Override
-    public long size()
-    {
-        return documentsCount;
-    }
-
-    @Override
-    public void add(int docId, Value value)
+    public void add(int docId, String value)
     {
         try
         {
             Document newDocument = new Document();
-            newDocument.add(new TextField(VALUE_FIELD_NAME, value.getValue(), Store.NO));
+            newDocument.add(new TextField(VALUE_FIELD_NAME, value, Store.NO));
             newDocument.add(new IntField(ID_FIELD_NAME, docId, Store.YES));
             if (indexWriter == null)
             {
-                indexWriter = new IndexWriter(luceneIndex, new IndexWriterConfig(Version.LATEST, analyzer));
+                indexWriter = new IndexWriter(luceneIndex, new IndexWriterConfig(Version.LATEST, ANALAYZER));
             }
             indexWriter.addDocument(newDocument);
-            documentsCount += 1;
+           	incrementDocumentsCount();
         }
         catch (IOException e)
         {
@@ -81,11 +76,6 @@ public class StorageLucene implements Storage
     }
 
     @Override
-    public long getComplexity()
-    {
-        return 1000;
-    }
-
     public ROBitSet findSet(Query q)
     {
         try
@@ -108,7 +98,7 @@ public class StorageLucene implements Storage
             }
 
             BitSet result = bitSetSupplier.get();
-            for (ScoreDoc doc : searcher.search(q, documentsCount).scoreDocs)
+            for (ScoreDoc doc : searcher.search(q, documentsCount()).scoreDocs)
             {
                 IndexableField f = indexReader.document(doc.doc).getField(
                         ID_FIELD_NAME);
@@ -123,4 +113,25 @@ public class StorageLucene implements Storage
         }
     }
 
+	@Override
+	public boolean checkValue(String value, Query request) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+	
+	/**
+	 * 
+	 * @param requestString as described in Lucene query documentation
+	 * @return generated query
+	 * @throws ParseException 
+	 */
+	public static Query generateRequest(String requestString) throws ParseException {
+		return QUERY_PARSER.parse(requestString);
+	}
+
+    @Override
+    public int getComplexity()
+    {
+        return 1000;
+    }
 }

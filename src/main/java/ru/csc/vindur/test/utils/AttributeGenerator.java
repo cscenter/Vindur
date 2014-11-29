@@ -1,21 +1,17 @@
 package ru.csc.vindur.test.utils;
 
-import ru.csc.vindur.document.Value;
-import ru.csc.vindur.document.StorageType;
+import ru.csc.vindur.storage.StorageType;
 
 public class AttributeGenerator
 {
 
-    public static Value[] generateValues(StorageType valueType, int valuesCount)
+    public static Object[] generateValues(StorageType valueType, int valuesCount)
     {
-        Value[] values;
+    	Object[] values;
         switch (valueType)
         {
-            case ENUM:
-                values = generateStringValues(valuesCount, 1, 10);
-                break;
-            case NUMERIC:
-                values = generateNumericValues(valuesCount, 1, 10);
+            case INTEGER:
+                values = generateNumericValues(valuesCount, 0, Integer.MAX_VALUE);
                 break;
             case STRING:
                 values = generateStringValues(valuesCount, 1, 10);
@@ -26,22 +22,22 @@ public class AttributeGenerator
         return values;
     }
 
-    public static Value[] generateStringValues(int valuesCount, int minLen, int maxLen)
+    public static Object[] generateStringValues(int valuesCount, int minLen, int maxLen)
     {
-        Value[] values = new Value[valuesCount];
+    	Object[] values = new Object[valuesCount];
         for (int i = 0; i < valuesCount; i++)
         {
-            values[i] = new Value(RandomUtils.getString(minLen, maxLen));
+            values[i] = RandomUtils.getString(minLen, maxLen);
         }
         return values;
     }
 
-    public static Value[] generateNumericValues(int valuesCount, int minLen, int maxLen)
+    public static Object[] generateNumericValues(int valuesCount, int min, int max)
     {
-        Value[] values = new Value[valuesCount];
+    	Object[] values = new Object[valuesCount];
         for (int i = 0; i < valuesCount; i++)
         {
-            values[i] = new Value(RandomUtils.getNumericString(minLen, maxLen));
+            values[i] = RandomUtils.getNumber(min, max);
         }
         return values;
     }

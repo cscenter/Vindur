@@ -1,7 +1,6 @@
 package ru.csc.vindur.storage;
 
 import ru.csc.vindur.bitset.BitSet;
-import ru.csc.vindur.document.StorageType;
 
 import java.util.function.Supplier;
 
@@ -9,24 +8,29 @@ import java.util.function.Supplier;
  * @author Andrey Kokorev
  *         Created on 15.10.2014.
  */
-public class StorageHelper
-{
+public class StorageHelper {
 
-    public static ExactStorage getColumn(StorageType valueType, Supplier<BitSet> bitSetSupplier)
-    {
-        ExactStorage storage;
-        switch (valueType)
-        {
-            case NUMERIC:
-                storage = new StorageBucketIntegers(bitSetSupplier); //todo если есть разные реализации, то лучше их через конфиг подключать или как-нибудь еще
-//                storage = new StorageIntegers(bitSetFabric);
-                break;
-            case ENUM:
-                storage = new StorageStrings(bitSetSupplier);
+    @SuppressWarnings("rawtypes")
+	public static StorageBase getColumn(StorageType valueType, Supplier<BitSet> bitSetSupplier) {
+    	StorageBase storage;
+        switch (valueType) {
+            case INTEGER:
+                storage = new StorageExact<Integer>(bitSetSupplier, Integer.class);
                 break;
             case STRING:
+                storage = new StorageExact<String>(bitSetSupplier, String.class);
+                break;
+            case RANGE_INTEGER:
+                storage = new StorageBucketIntegers(bitSetSupplier);
+                break;
+            case RANGE_STRING:
+                storage = new StorageRange<String>(bitSetSupplier, String.class);
+                break;
+            case LUCENE_STRING:
+                storage = new StorageLucene(bitSetSupplier);
+                break;
             default:
-                storage = new StorageStrings(bitSetSupplier);
+            	throw new RuntimeException("Missing case");
         }
         return storage;
     }

@@ -1,7 +1,6 @@
 package ru.csc.vindur.test;
 
-import ru.csc.vindur.document.StorageType;
-import ru.csc.vindur.document.Value;
+import ru.csc.vindur.storage.StorageType;
 
 import java.util.List;
 import java.util.Map;
@@ -29,7 +28,7 @@ public interface TestBuilder
      * @param key Storage name
      * @return Available values for storage @key
      */
-    Value[] getValues(String key);
+    Object[] getValues(String key);
 
     /**
      * @param key Storage name

@@ -1,7 +1,10 @@
 package ru.csc.vindur.optimizer;
 
-import ru.csc.vindur.Engine;
+import java.util.Map.Entry;
+import java.util.concurrent.ConcurrentMap;
+
 import ru.csc.vindur.Request;
+import ru.csc.vindur.storage.StorageBase;
 
 
 /**
@@ -9,20 +12,14 @@ import ru.csc.vindur.Request;
  */
 public class DumbOptimizer implements Optimizer
 {
-    @Override
-    public Plan generatePlan(Request request, Engine engine)
+    @SuppressWarnings("unchecked")
+	@Override
+    public Plan generatePlan(Request request, @SuppressWarnings("rawtypes") ConcurrentMap<String, StorageBase> storages)
     {
         Plan plan = new Plan();
-        for (Request.RequestPart requestPart : request.getRequestParts())
+        for (Entry<String, Object> requestPart : request.getRequestParts().entrySet())
         {
-            //todo: check if storage exists
-            if (requestPart.isExact())
-            {
-                plan.addStep(new Step(requestPart.getTag(), requestPart.getFrom(), requestPart.getFrom(), Step.Type.EXACT));
-            } else
-            {
-                plan.addStep(new Step(requestPart.getTag(), requestPart.getFrom(), requestPart.getFrom(), Step.Type.RANGE));
-            }
+        	plan.addStep(()-> storages.get(requestPart.getKey()).findSet(requestPart.getValue()));
         }
         return plan;
     }

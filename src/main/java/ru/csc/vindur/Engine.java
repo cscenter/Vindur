@@ -2,170 +2,118 @@ package ru.csc.vindur;
 
 import java.util.Collections;
 import java.util.List;
+import java.util.Map.Entry;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
-import javax.annotation.concurrent.ThreadSafe;
-
 import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.ROBitSet;
 import ru.csc.vindur.document.Document;
-import ru.csc.vindur.document.StorageType;
-import ru.csc.vindur.document.Value;
 import ru.csc.vindur.optimizer.Optimizer;
 import ru.csc.vindur.optimizer.Plan;
 import ru.csc.vindur.optimizer.Step;
-import ru.csc.vindur.storage.RangeStorage;
-import ru.csc.vindur.storage.ExactStorage;
+import ru.csc.vindur.storage.StorageBase;
 import ru.csc.vindur.storage.StorageHelper;
+import ru.csc.vindur.storage.StorageType;
 
 /**
  * Created by Pavel Chursin on 05.10.2014.
  */
-@ThreadSafe
-public class Engine
-{
-    private static final StorageType DEFAULT_STORAGE_TYPE = StorageType.STRING;
-    private final AtomicInteger documentsSequence = new AtomicInteger(0);
-    private final ConcurrentMap<String, ExactStorage> columns = new ConcurrentHashMap<>();
-    private final ConcurrentMap<Integer, Document> documents = new ConcurrentHashMap<>();
-    private final EngineConfig config;
+@SuppressWarnings("rawtypes")
+public class Engine {
+	private static final StorageType DEFAULT_STORAGE_TYPE = StorageType.STRING;
+	private final AtomicInteger documentsSequence = new AtomicInteger(0);
+	private final ConcurrentMap<String, StorageBase> columns = new ConcurrentHashMap<>();
+	private final ConcurrentMap<Integer, Document> documents = new ConcurrentHashMap<>();
+	private final EngineConfig config;
 
-    public Engine(EngineConfig config)
-    {
-        this.config = config;
-    }
+	public Engine(EngineConfig config) {
+		this.config = config;
+	}
 
-    public int createDocument()
-    {
-        int nextId = documentsSequence.incrementAndGet();
-        Document document = new Document(nextId);
-        documents.put(document.getId(), document);
-        return document.getId();
-    }
+	public int createDocument() {
+		int nextId = documentsSequence.incrementAndGet();
+		Document document = new Document(nextId);
+		documents.put(document.getId(), document);
+		return document.getId();
+	}
 
-    public void setAttributeByDocId(int docId, String attribute, Value value)
-    {
-        if (!documents.containsKey(docId))
-        {
-            throw new IllegalArgumentException("There is no such document");
-        }
+	@SuppressWarnings("unchecked")
+	public void setAttributeByDocId(int docId, String attribute, Object value) {
+		if (!documents.containsKey(docId)) {
+			throw new IllegalArgumentException("There is no such document");
+		}
 
-        ExactStorage storage = findStorage(attribute);
-        documents.get(docId).setAttribute(attribute, value);
-        storage.add(docId, value);
-    }
+		StorageBase storage = findStorageBase(attribute);
+		if (!storage.validateValueType(value)) {
+			throw new IllegalArgumentException("Invalid value type " + value.getClass().getName() + 
+					" for StorageBase " + storage.getClass().getName());
+		}
+		documents.get(docId).setAttribute(attribute, value);
+		storage.add(docId, value);
+	}
 
-    /**
-     * А если storage нету, то создаем новый
-     *
-     * @param attribute
-     * @return
-     */
-    private ExactStorage findStorage(String attribute)
-    {
-        ExactStorage storage;
-        storage = columns.get(attribute);
-        if (storage == null)
-        {
-            StorageType type = config.getValueType(attribute);
-            if (type == null) type = DEFAULT_STORAGE_TYPE;
-            ExactStorage newStorage = StorageHelper.getColumn(type, config.getBitSetSupplier());
-            columns.put(attribute, newStorage);
-            storage = newStorage;
-        }
-        return storage;
-    }
+	/**
+	 * А если storage нету, то создаем новый
+	 *
+	 * @param attribute
+	 * @return
+	 */
+	private StorageBase findStorageBase(String attribute) {
+		StorageBase storage;
+		storage = columns.get(attribute);
+		if (storage == null) {
+			StorageType type = config.getValueType(attribute);
+			if (type == null)
+				type = DEFAULT_STORAGE_TYPE;
+			StorageBase newStorageBase = StorageHelper.getColumn(type,
+					config.getBitSetSupplier());
+			columns.put(attribute, newStorageBase);
+			storage = newStorageBase;
+		}
+		return storage;
+	}
 
-    public List<Integer> executeRequest(Request request)
-    {
-        BitSet resultSet;
-        Optimizer optimizer = this.config.getOptimizer();
-        Plan plan = optimizer.generatePlan(request, this);
+	public List<Integer> executeRequest(Request request) {
+		BitSet resultSet;
+		checkRequest(request);
+		Optimizer optimizer = this.config.getOptimizer();
+		Plan plan = optimizer.generatePlan(request, columns);
 
-        Step step = plan.next();
-        resultSet = null;
-        while (step != null)
-        {
-            resultSet = executeStep(step, resultSet);
-            if (resultSet.cardinality() == 0)
-            {
-                return Collections.emptyList();
-            }
-            optimizer.updatePlan(plan, resultSet.cardinality());
-            step = plan.next();
-        }
+		Step step = plan.next();
+		resultSet = null;
+		while (step != null) {
+			ROBitSet stepResult = step.execute();
+			if (resultSet == null) {
+				resultSet = stepResult.copy();
+			} else {
+				resultSet = resultSet.and(stepResult);
+			}
+			if (resultSet.cardinality() == 0) {
+				return Collections.emptyList();
+			}
+			optimizer.updatePlan(plan, resultSet.cardinality());
+			step = plan.next();
+		}
 
-        if (resultSet == null)
-        {
-            return Collections.emptyList();
-        }
+		if (resultSet == null) {
+			return Collections.emptyList();
+		}
 
-        return resultSet.toIntList();
-    }
+		return resultSet.toIntList();
+	}
 
-    public BitSet executeStep(Step step, BitSet currentResultSet)
-    {
-        //todo добавить проверки на соответствие шагов и storage. Увы, в оптимизатор не вытащить (
-        ExactStorage index = findStorage(step.getStorageName());
-        ROBitSet r = null;
-        switch (step.getType())
-        {
-            case EXACT:
-            {
-                r = index.findSet(step.getFrom());
-                break;
-            }
-            case RANGE:
-            {
-                r = ((RangeStorage) index).findRangeSet(step.getFrom(), step.getTo());
-                break;
-            }
-            case DIRECT:
-            {
-                r = checkManually(currentResultSet, step);
-            }
-        }
-        if (currentResultSet == null) return r.copy(); //копия первого запроса, на нее будем накладывать фильтры
-        return currentResultSet.and(r);
-    }
-
-
-    //как-то криво написано, если честно
-    private BitSet checkManually(BitSet bitset, Step step)
-    {
-        if (bitset == null || step.getType() != Step.Type.DIRECT)
-        {
-            throw new UnsupportedOperationException("Manual check is not implemented for null previous results");
-        }
-
-        for (Step restStep : step.getStepList())
-        {
-            for (int docId : bitset)
-            {
-                Document document = documents.get(docId);
-                if (restStep.getType() == Step.Type.EXACT)
-                {
-                    if (document.valueIsPresentByAttribute(step.getStorageName(), new Value(step.getFrom())))
-                    {
-                        bitset.set(docId);
-                    }
-                } else if (restStep.getType() == Step.Type.RANGE)
-                {
-                    if (document.valueIsInRangeByAttribute(step.getStorageName(), new Value(step.getFrom()), new Value(step.getTo())))
-                    {
-                        bitset.set(docId);
-                    }
-                }
-            }
-        }
-        return bitset;
-
-    }
-
-    public ExactStorage getStorage(String attribute)
-    {
-        return findStorage(attribute);
-    }
+	private void checkRequest(Request request) throws IllegalArgumentException {
+		for(Entry<String, Object> part: request.getRequestParts().entrySet()) {
+			StorageBase storage = columns.get(part.getKey());
+			if(storage == null) {
+				throw new IllegalArgumentException("StorageBase for attribute " + part.getKey() + " is not created");
+			}
+			if(!storage.validateRequestType(part.getValue())) {
+				throw new IllegalArgumentException("StorageBase " + storage.getClass().getName() + " for attribute " 
+						+ part.getKey() + " is uncompatible with request " + part.getValue().getClass().getName());
+			}
+		}
+	}
 }

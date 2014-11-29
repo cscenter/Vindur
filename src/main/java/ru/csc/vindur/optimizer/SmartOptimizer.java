@@ -1,68 +1,57 @@
 package ru.csc.vindur.optimizer;
 
-import ru.csc.vindur.Engine;
 import ru.csc.vindur.Request;
+import ru.csc.vindur.storage.StorageBase;
 
 import java.util.List;
-import java.util.stream.Collectors;
+import java.util.Map;
+import java.util.TreeMap;
+import java.util.concurrent.ConcurrentMap;
 
 /**
- * Created by Edgar_Work on 11.11.2014.
+ * Created by Edgar on 27.11.2014.
  */
-
 public class SmartOptimizer implements Optimizer
 {
-    private long threshold;
+    private int threshold = 5000;
 
-    public SmartOptimizer(long threshold)
+    public SmartOptimizer(int threshold)
     {
         this.threshold = threshold;
     }
 
-    @Override
-    public Plan generatePlan(Request request, Engine engine)
+    @SuppressWarnings("unchecked")
+	@Override
+    public Plan generatePlan(Request request, @SuppressWarnings("rawtypes") ConcurrentMap<String, StorageBase> storages)
     {
-        List<Request.RequestPart> parts = request.getRequestParts().stream().collect(Collectors.toList());
+        Map<String, Object> requestParts = new TreeMap<>((a, b) ->
+                Integer.compare(storages.get(a).getComplexity() * storages.get(a).documentsCount(), storages.get(b).getComplexity() *storages.get(b).documentsCount()));
 
-        for (Request.RequestPart requestPart : parts)
-        {
-            if (engine.getStorage(requestPart.getTag()) == null)
-            {
-                //todo: кинуть исключение? создать дефолтный Storage?
-            }
-
-        }
-
-        parts.sort((a, b) -> Long.compare(engine.getStorage(a.getTag()).size() * engine.getStorage(a.getTag()).getComplexity(), (engine.getStorage(b.getTag()).size() * engine.getStorage(b.getTag()).getComplexity())));
-
+        requestParts.putAll(request.getRequestParts());
 
         Plan plan = new Plan();
 
-        for (Request.RequestPart requestPart : parts)
+        for (Map.Entry<String, Object> requestPart: requestParts.entrySet())
         {
-            Step step;
-            if (requestPart.isExact())
-            {
-                step = new Step(requestPart.getTag(), requestPart.getFrom(), requestPart.getFrom(), Step.Type.EXACT);
-            } else
-            {
-                step = new Step(requestPart.getTag(), requestPart.getFrom(), requestPart.getTo(), Step.Type.RANGE);
-            }
-            plan.addStep(step);
+            plan.addStep(() -> storages.get(requestPart.getKey()).findSet(requestPart.getValue()));
         }
 
         return plan;
     }
 
-
+    /*не могу пока придумать, как сделать. По идее надо бы отрезать хвост и вместо поиска битсета из хранилища
+    брать документ у движка и смотреть значение по соотв. атрибуту и такую лямбду добавлять в список
+    */
     @Override
     public void updatePlan(Plan plan, int currentResultSize)
     {
-        if (currentResultSize < this.threshold) //todo эту константу надо бы куда-нибудь наружу выпихнуть. В конструктор?
+        if (currentResultSize < this.threshold)
         {
             List<Step> tail = plan.cutTail();
-            Step directStep = new Step(tail);
-            plan.addStep(directStep);
+            for (Step step : tail)
+            {
+                plan.addStep(() -> null);
+            }
         }
     }
 }

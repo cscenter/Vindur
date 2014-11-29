@@ -1,10 +1,11 @@
 package ru.csc.vindur.test;
 
 import com.google.common.collect.Lists;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import ru.csc.vindur.document.StorageType;
-import ru.csc.vindur.document.Value;
+
+import ru.csc.vindur.storage.StorageType;
 import ru.csc.vindur.test.utils.AttributeGenerator;
 import ru.csc.vindur.test.utils.RandomUtils;
 
@@ -22,7 +23,7 @@ public class SimpleTestBuilder implements TestBuilder
     private Map<StorageType, Integer> valuesCount = new HashMap<>();
 
     private Map<String, StorageType> types;
-    private Map<String, Value[]> values;
+    private Map<String, Object[]> values;
 
     public static SimpleTestBuilder build(int attributesCount)
     {
@@ -78,7 +79,7 @@ public class SimpleTestBuilder implements TestBuilder
     }
 
     @Override
-    public Value[] getValues(String key)
+    public Object[] getValues(String key)
     {
         return values.get(key);
     }

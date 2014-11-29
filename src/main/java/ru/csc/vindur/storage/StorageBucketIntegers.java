@@ -1,63 +1,82 @@
 package ru.csc.vindur.storage;
 
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Map.Entry;
+import java.util.TreeMap;
+import java.util.function.Supplier;
+
 import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.ROBitSet;
-import ru.csc.vindur.document.Value;
-
-import java.util.*;
-import java.util.Map.Entry;
-import java.util.function.Supplier;
 
 /**
  * @author Andrey Kokorev
  *         Created on 08.11.2014.
  */
-public class StorageBucketIntegers implements RangeStorage, ExactStorage
+public class StorageBucketIntegers extends StorageRangeBase<Integer>
 {
+	// TODO test this parameter(find out the better value)
     private static final Integer DEFAULT_BUCKET_SIZE = 100;
     private final Integer bucketSize;
     private HashMap<Integer, TreeMap<Integer, BitSet>> storage; //key hash -> bucket(key -> bitset of all smaller or eq)
     private Supplier<BitSet> bitSetSupplier;
-    private int size = 0;
 
     public StorageBucketIntegers(Supplier<BitSet> bitSetSupplier)
     {
+    	super(Integer.class);
         this.storage = new HashMap<>();
         this.bitSetSupplier = bitSetSupplier;
         this.bucketSize = DEFAULT_BUCKET_SIZE;
     }
 
-    @Override
-    public synchronized long size()
-    {
-        return size;
+    private BitSet floorFromBucket(Integer key) {
+        TreeMap<Integer, BitSet> bucket = getBucket(key);
+        if(bucket == null) return bitSetSupplier.get();
+
+        Map.Entry<Integer, BitSet> upperEntry = bucket.floorEntry(key);
+        if(upperEntry == null) { //high is lower than lowest stored value, or storage is empty
+            return bitSetSupplier.get();
+        }
+        return upperEntry.getValue();
     }
 
-    @Override
-    public synchronized void add(int docId, Value value)
-    {
-        // TODO what if parse method throws NumberFormatException?
-        Integer newKey = Integer.parseInt(value.getValue());
-        size++;
+    private BitSet lowerFromBucket(Integer key) {
+        TreeMap<Integer, BitSet> bucket = getBucket(key);
+        if(bucket == null) return bitSetSupplier.get();
 
-        TreeMap<Integer, BitSet> bucket = getBucket(newKey);
-        if (bucket == null)
-        {
+        Map.Entry<Integer, BitSet> lowerEntry = bucket.lowerEntry(key);
+        if(lowerEntry == null) { //high is lower than lowest stored value, or storage is empty
+            return bitSetSupplier.get();
+        }
+        return lowerEntry.getValue();
+    }
+
+    private Integer getBucketNum(Integer key) {
+        return key / bucketSize;
+    }
+
+    private TreeMap<Integer, BitSet> getBucket(Integer key) {
+        return storage.get(getBucketNum(key));
+    }
+
+	@Override
+	public void add(int docId, Integer value) {
+		incrementDocumentsCount();
+        TreeMap<Integer, BitSet> bucket = getBucket(value);
+        if(bucket == null) {
             bucket = new TreeMap<>();
-            storage.put(getBucketNum(newKey), bucket);
+            storage.put(getBucketNum(value), bucket);
         }
 
-        for (Map.Entry<Integer, BitSet> e : bucket.tailMap(newKey).entrySet())
-        {
+        for(Map.Entry<Integer, BitSet> e : bucket.tailMap(value).entrySet()) {
             e.getValue().set(docId);
         }
 
-        if (bucket.containsKey(newKey))
-        {
+        if(bucket.containsKey(value)) {
             return;
         }
         //otherwise we should add new record to storage
-        Entry<Integer, BitSet> lowerEntry = bucket.lowerEntry(newKey);
+        Entry<Integer, BitSet> lowerEntry = bucket.lowerEntry(value);
         BitSet bitSet;
         if (lowerEntry == null)
         {
@@ -68,37 +87,14 @@ public class StorageBucketIntegers implements RangeStorage, ExactStorage
         }
         bitSet.set(docId);
 
-        bucket.put(newKey, bitSet);
-    }
+        bucket.put(value, bitSet);
 
-    @Override
-    public long getComplexity()
-    {
-        return 10;
-    }
+	}
 
-    @Override
-    public ROBitSet findSet(String strictMatch)
-    {
-        Integer key = Integer.parseInt(strictMatch);
-
-        TreeMap<Integer, BitSet> bucket = getBucket(key);
-        if (bucket == null) return bitSetSupplier.get();
-
-        BitSet exact = bucket.get(key);
-        if (exact == null) return bitSetSupplier.get();
-
-        if (bucket.firstKey().equals(key)) return exact.asROBitSet();
-        BitSet low = bucket.lowerEntry(key).getValue();
-        return exact.xor(low);  // everything including this or lower, except lower
-    }
-
-    @Override
-    public ROBitSet findRangeSet(String low, String high)
-    {
-        Integer lowKey = Integer.parseInt(low);
-        Integer highKey = Integer.parseInt(high);
-
+	@Override
+	public ROBitSet findSet(RangeRequest request) {
+        Integer lowKey = (Integer) request.getLowBound();
+        Integer highKey = (Integer) request.getUpperBound();
         if (highKey < lowKey)
         { //that's not good
             return bitSetSupplier.get();
@@ -135,41 +131,11 @@ public class StorageBucketIntegers implements RangeStorage, ExactStorage
             }
         }
         return result;
-    }
 
-    private BitSet floorFromBucket(Integer key)
+	}
+
+    public int getComplexity()
     {
-        TreeMap<Integer, BitSet> bucket = getBucket(key);
-        if (bucket == null) return bitSetSupplier.get();
-
-        Map.Entry<Integer, BitSet> upperEntry = bucket.floorEntry(key);
-        if (upperEntry == null)
-        { //high is lower than lowest stored value, or storage is empty
-            return bitSetSupplier.get();
-        }
-        return upperEntry.getValue();
-    }
-
-    private BitSet lowerFromBucket(Integer key)
-    {
-        TreeMap<Integer, BitSet> bucket = getBucket(key);
-        if (bucket == null) return bitSetSupplier.get();
-
-        Map.Entry<Integer, BitSet> lowerEntry = bucket.lowerEntry(key);
-        if (lowerEntry == null)
-        { //high is lower than lowest stored value, or storage is empty
-            return bitSetSupplier.get();
-        }
-        return lowerEntry.getValue();
-    }
-
-    private Integer getBucketNum(Integer key)
-    {
-        return key / bucketSize;
-    }
-
-    private TreeMap<Integer, BitSet> getBucket(Integer key)
-    {
-        return storage.get(getBucketNum(key));
+        return 10;
     }
 }

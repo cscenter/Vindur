@@ -39,18 +39,18 @@ public class RandomUtils
         return RandomStringUtils.randomAlphanumeric(genLen(minLen, maxLen));
     }
 
-    public static String getNumericString(int minLen, int maxLen)
+    public static int getNumber(int min, int max)
     {
-        return RandomStringUtils.randomNumeric(genLen(minLen, maxLen));
+        if (min == max)
+        {
+            return min;
+        }
+        return min + random.nextInt(max - min);
     }
 
-    private static int genLen(int minLen, int maxLen)
+    private static int genLen(int min, int max)
     {
-        if (minLen == maxLen)
-        {
-            return minLen;
-        }
-        return minLen + random.nextInt(maxLen - minLen);
+    	return getNumber(min, max);
     }
 
     public static <T> T getFrec(Map<T, Double> frequencies)

@@ -1,51 +1,31 @@
 package ru.csc.vindur.optimizer;
 
-import java.util.ArrayList;
-import java.util.List;
-
-import ru.csc.vindur.Engine;
 import ru.csc.vindur.Request;
+import ru.csc.vindur.storage.StorageBase;
+
+import java.util.Map;
+import java.util.TreeMap;
+import java.util.concurrent.ConcurrentMap;
 
 /**
- * Created by Edgar on 26.10.14.
+ * Created by Edgar on 27.11.2014.
  */
-
 public class TinyOptimizer implements Optimizer
 {
-    public TinyOptimizer()
+    @SuppressWarnings("unchecked")
+	@Override
+    public Plan generatePlan(Request request, @SuppressWarnings("rawtypes") ConcurrentMap<String, StorageBase> storages)
     {
-    }
+        Map<String, Object> requestParts = new TreeMap<>((a, b) ->
+                Integer.compare(storages.get(a).documentsCount(), storages.get(b).documentsCount()));
 
-    @Override
-    public Plan generatePlan(Request request, Engine engine)
-    {
-        /*for each request part get index, if index is not null, get expectedAmount() else do full scan
-         *(or set expectedAmount to very big constant), then sort by expectedAmount() and return such plan
-         */
-        List<Request.RequestPart> lr = new ArrayList<>();
-        for (Request.RequestPart requestPart : request.getRequestParts())
-        {
-            //todo: check if storage exists
-            lr.add(requestPart);
-        }
-
-
-        lr.sort((a, b) -> Long.compare(engine.getStorage(a.getTag()).size(), (engine.getStorage(b.getTag()).size())));
-
+        requestParts.putAll(request.getRequestParts());
 
         Plan plan = new Plan();
 
-        for (Request.RequestPart requestPart : lr)
+        for (Map.Entry<String, Object> requestPart: requestParts.entrySet())
         {
-            Step step;
-            if (requestPart.isExact())
-            {
-                step = new Step(requestPart.getTag(), requestPart.getFrom(), requestPart.getFrom(), Step.Type.EXACT);
-            } else
-            {
-                step = new Step(requestPart.getTag(), requestPart.getFrom(), requestPart.getTo(), Step.Type.RANGE);
-            }
-            plan.addStep(step);
+            plan.addStep(() -> storages.get(requestPart.getKey()).findSet(requestPart.getValue()));
         }
 
         return plan;
