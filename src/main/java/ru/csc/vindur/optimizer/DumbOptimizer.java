@@ -1,9 +1,10 @@
 package ru.csc.vindur.optimizer;
 
-import java.util.Map.Entry;
+import java.util.List;
 import java.util.concurrent.ConcurrentMap;
 
 import ru.csc.vindur.Request;
+import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.storage.StorageBase;
 
 
@@ -12,20 +13,15 @@ import ru.csc.vindur.storage.StorageBase;
  */
 public class DumbOptimizer implements Optimizer
 {
-    @SuppressWarnings("unchecked")
 	@Override
     public Plan generatePlan(Request request, @SuppressWarnings("rawtypes") ConcurrentMap<String, StorageBase> storages)
     {
-        Plan plan = new Plan();
-        for (Entry<String, Object> requestPart : request.getRequestParts().entrySet())
-        {
-        	plan.addStep(()-> storages.get(requestPart.getKey()).findSet(requestPart.getValue()));
-        }
-        return plan;
+        List<Step> steps = Optimizer.requestPartsToSteps(request.getRequestParts(), storages);
+        return new SimplePlan(steps);
     }
 
     @Override
-    public void updatePlan(Plan plan, int currentResultSize)
+    public void updatePlan(Plan plan, BitSet currentResult)
     {
 
     }

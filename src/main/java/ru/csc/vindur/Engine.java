@@ -76,13 +76,12 @@ public class Engine {
 	}
 
 	public List<Integer> executeRequest(Request request) {
-		BitSet resultSet;
 		checkRequest(request);
 		Optimizer optimizer = this.config.getOptimizer();
 		Plan plan = optimizer.generatePlan(request, columns);
 
 		Step step = plan.next();
-		resultSet = null;
+		BitSet resultSet = null;
 		while (step != null) {
 			ROBitSet stepResult = step.execute();
 			if (resultSet == null) {
@@ -93,7 +92,7 @@ public class Engine {
 			if (resultSet.cardinality() == 0) {
 				return Collections.emptyList();
 			}
-			optimizer.updatePlan(plan, resultSet.cardinality());
+			optimizer.updatePlan(plan, resultSet);
 			step = plan.next();
 		}
 

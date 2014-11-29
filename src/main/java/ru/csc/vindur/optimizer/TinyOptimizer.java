@@ -1,8 +1,10 @@
 package ru.csc.vindur.optimizer;
 
 import ru.csc.vindur.Request;
+import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.storage.StorageBase;
 
+import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
 import java.util.concurrent.ConcurrentMap;
@@ -12,7 +14,6 @@ import java.util.concurrent.ConcurrentMap;
  */
 public class TinyOptimizer implements Optimizer
 {
-    @SuppressWarnings("unchecked")
 	@Override
     public Plan generatePlan(Request request, @SuppressWarnings("rawtypes") ConcurrentMap<String, StorageBase> storages)
     {
@@ -21,18 +22,13 @@ public class TinyOptimizer implements Optimizer
 
         requestParts.putAll(request.getRequestParts());
 
-        Plan plan = new Plan();
+        List<Step> steps = Optimizer.requestPartsToSteps(request.getRequestParts(), storages);
 
-        for (Map.Entry<String, Object> requestPart: requestParts.entrySet())
-        {
-            plan.addStep(() -> storages.get(requestPart.getKey()).findSet(requestPart.getValue()));
-        }
-
-        return plan;
+        return new SimplePlan(steps);
     }
 
     @Override
-    public void updatePlan(Plan plan, int currentResultSize)
+    public void updatePlan(Plan plan, BitSet currentResult)
     {
 
     }

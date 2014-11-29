@@ -1,6 +1,7 @@
 package ru.csc.vindur.optimizer;
 
 import ru.csc.vindur.Request;
+import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.storage.StorageBase;
 
 import java.util.List;
@@ -20,7 +21,6 @@ public class SmartOptimizer implements Optimizer
         this.threshold = threshold;
     }
 
-    @SuppressWarnings("unchecked")
 	@Override
     public Plan generatePlan(Request request, @SuppressWarnings("rawtypes") ConcurrentMap<String, StorageBase> storages)
     {
@@ -29,29 +29,17 @@ public class SmartOptimizer implements Optimizer
 
         requestParts.putAll(request.getRequestParts());
 
-        Plan plan = new Plan();
+        List<Step> steps = Optimizer.requestPartsToSteps(requestParts, storages);
 
-        for (Map.Entry<String, Object> requestPart: requestParts.entrySet())
-        {
-            plan.addStep(() -> storages.get(requestPart.getKey()).findSet(requestPart.getValue()));
-        }
-
-        return plan;
+        return new SimplePlan(steps);
     }
 
-    /*не могу пока придумать, как сделать. По идее надо бы отрезать хвост и вместо поиска битсета из хранилища
-    брать документ у движка и смотреть значение по соотв. атрибуту и такую лямбду добавлять в список
-    */
     @Override
-    public void updatePlan(Plan plan, int currentResultSize)
+    public void updatePlan(Plan plan, BitSet currentResult)
     {
-        if (currentResultSize < this.threshold)
+        if (currentResult.cardinality() < this.threshold)
         {
-            List<Step> tail = plan.cutTail();
-            for (Step step : tail)
-            {
-                plan.addStep(() -> null);
-            }
+        	// TODO
         }
     }
 }
