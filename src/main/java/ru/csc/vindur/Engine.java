@@ -32,6 +32,11 @@ public class Engine {
 		this.config = config;
 	}
 
+	public ConcurrentMap<Integer, Document> getDocuments()
+	{
+		return documents;
+	}
+
 	public int createDocument() {
 		int nextId = documentsSequence.incrementAndGet();
 		Document document = new Document(nextId);

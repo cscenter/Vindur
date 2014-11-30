@@ -1,11 +1,14 @@
 package ru.csc.vindur.optimizer;
 
+import ru.csc.vindur.Engine;
 import ru.csc.vindur.Request;
 import ru.csc.vindur.bitset.BitSet;
+import ru.csc.vindur.bitset.ROBitSet;
 import ru.csc.vindur.storage.StorageBase;
 
 import java.util.List;
 import java.util.Map;
+import java.util.Objects;
 import java.util.TreeMap;
 import java.util.concurrent.ConcurrentMap;
 
@@ -15,10 +18,12 @@ import java.util.concurrent.ConcurrentMap;
 public class SmartOptimizer implements Optimizer
 {
     private int threshold = 5000;
+    private Engine engine;
 
-    public SmartOptimizer(int threshold)
+    public SmartOptimizer(int threshold, Engine engine)
     {
         this.threshold = threshold;
+        this.engine = engine;
     }
 
 	@Override
@@ -39,7 +44,23 @@ public class SmartOptimizer implements Optimizer
     {
         if (currentResult.cardinality() < this.threshold)
         {
-        	// TODO
+            List<Step> tail = plan.cutTail();
+            for (int i = 0; i < tail.size(); ++i)
+            {
+                plan.addStep(() -> {
+                    for (int docId : currentResult.toIntList())
+                    {
+                        //todo: а откуда брать атрибут и значение?
+                        /*if (engine.getDocuments().get(docId).getValuesByAttribute(attr).contains(val))
+                        {
+                            currentResult.set(docId);
+                        }*/
+
+                    }
+                    return currentResult;
+                }
+                );
+            }
         }
     }
 }

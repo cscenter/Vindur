@@ -17,4 +17,17 @@ public class SimplePlan implements Plan {
 		}
 		return steps.get(current++);
 	}
+
+	@Override
+	public List<Step> cutTail() {
+		List<Step> tail = steps.subList(this.current, steps.size());
+		steps.removeAll(tail);
+		return tail;
+	}
+
+	@Override
+	public void addStep(Step step)
+	{
+		steps.add(step);
+	}
 }

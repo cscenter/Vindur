@@ -41,7 +41,7 @@ public class Document {
 			if (values != null) {
 				return values;
 			}
-			values = new ArrayList<Object>();
+			values = new ArrayList<>();
 			vals.put(attribute, values);
 		}
 		return values;
@@ -49,5 +49,10 @@ public class Document {
 
 	public int getId() {
 		return id;
+	}
+
+	public List<Object> getValuesByAttribute(String attribute)
+	{
+		return vals.get(attribute);
 	}
 }
