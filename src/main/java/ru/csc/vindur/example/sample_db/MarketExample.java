@@ -1,13 +1,5 @@
 package ru.csc.vindur.example.sample_db;
 
-import ru.csc.vindur.Engine;
-import ru.csc.vindur.EngineConfig;
-import ru.csc.vindur.Request;
-import ru.csc.vindur.bitset.EWAHBitSet;
-import ru.csc.vindur.optimizer.TinyOptimizer;
-import ru.csc.vindur.storage.StorageRangeBase;
-import ru.csc.vindur.storage.StorageType;
-
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -17,14 +9,19 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import ru.csc.vindur.Engine;
+import ru.csc.vindur.EngineConfig;
+import ru.csc.vindur.Request;
+import ru.csc.vindur.bitset.EWAHBitSet;
+import ru.csc.vindur.optimizer.TinyOptimizer;
+import ru.csc.vindur.storage.StorageRangeBase;
+import ru.csc.vindur.storage.StorageType;
+
 /**
- * @author Andrey Kokorev
- *         Created on 28.11.2014.
+ * @author Andrey Kokorev Created on 28.11.2014.
  */
-public class MarketExample
-{
-    public static void main(String[] args) throws IOException
-    {
+public class MarketExample {
+    public static void main(String[] args) throws IOException {
         Map<String, StorageType> storages = new HashMap<>();
         storages.put("title", StorageType.STRING);
         storages.put("brand", StorageType.STRING);
@@ -34,7 +31,8 @@ public class MarketExample
         storages.put("priceHigh", StorageType.RANGE_INTEGER);
         storages.put("description", StorageType.LUCENE_STRING);
 
-        EngineConfig config = new EngineConfig(storages, EWAHBitSet::new, new TinyOptimizer());
+        EngineConfig config = new EngineConfig(storages, EWAHBitSet::new,
+                new TinyOptimizer());
         Engine engine = new Engine(config);
 
         Map<Integer, Map<String, List<Object>>> docs = new HashMap<>();
@@ -45,32 +43,26 @@ public class MarketExample
             XMLDataFileParser parser = new XMLDataFileParser(x.toString());
             List<Map<String, List<Object>>> entities = parser.getEntities();
 
-            for(Map<String, List<Object>> entity : entities)
-            {
+            for (Map<String, List<Object>> entity : entities) {
                 int docId = engine.createDocument();
                 docs.put(docId, entity);
 
-                for(String attr : entity.keySet())
-                {
-                    for(Object value : entity.get(attr))
-                    {
+                for (String attr : entity.keySet()) {
+                    for (Object value : entity.get(attr)) {
                         engine.setAttributeByDocId(docId, attr, value);
                     }
                 }
             }
         });
 
-
         System.out.println("\n\n=================Bikes");
         Request bikes = Request.build().request("categoryName", "Велосипеды");
 
         List<Integer> bikeResult = engine.executeRequest(bikes);
 
-        for(Integer docId : bikeResult)
-        {
+        for (Integer docId : bikeResult) {
             Map<String, List<Object>> bike = docs.get(docId);
-            if(bike == null)
-            {
+            if (bike == null) {
                 System.out.println("ERROR!");
                 continue;
             } else {
@@ -79,15 +71,14 @@ public class MarketExample
         }
 
         System.out.println("\n\n=================Memory cards");
-        Request memoryCards = Request.build().request("categoryName", "Карты памяти");
+        Request memoryCards = Request.build().request("categoryName",
+                "Карты памяти");
 
         List<Integer> mcResult = engine.executeRequest(memoryCards);
 
-        for(Integer docId : mcResult)
-        {
+        for (Integer docId : mcResult) {
             Map<String, List<Object>> card = docs.get(docId);
-            if(card == null)
-            {
+            if (card == null) {
                 System.out.println("ERROR!");
                 continue;
             } else {
@@ -95,18 +86,22 @@ public class MarketExample
             }
         }
 
-        System.out.println("\n\n=================Everything from 5000 to 10000");
-        Request cheap = Request.build()
-                .request("priceHigh", StorageRangeBase.generateRequest(0, 10000))
-                .request("priceLow", StorageRangeBase.generateRequest(5000, Integer.MAX_VALUE));
+        System.out
+                .println("\n\n=================Everything from 5000 to 10000");
+        Request cheap = Request
+                .build()
+                .request("priceHigh",
+                        StorageRangeBase.generateRequest(0, 10000))
+                .request(
+                        "priceLow",
+                        StorageRangeBase.generateRequest(5000,
+                                Integer.MAX_VALUE));
 
         List<Integer> cheapResult = engine.executeRequest(cheap);
 
-        for(Integer docId : cheapResult)
-        {
+        for (Integer docId : cheapResult) {
             Map<String, List<Object>> stuff = docs.get(docId);
-            if(stuff == null)
-            {
+            if (stuff == null) {
                 System.out.println("ERROR!");
                 continue;
             } else {
@@ -115,18 +110,15 @@ public class MarketExample
         }
     }
 
-    private static void printDocument(Map<String, List<Object>> doc)
-    {
+    private static void printDocument(Map<String, List<Object>> doc) {
         System.out.println("-----------------------------------");
         System.out.println("Title = " + doc.get("title").get(0));
         System.out.println("Category = " + doc.get("categoryName").get(0));
         System.out.println("Lowest price = " + doc.get("priceLow").get(0));
         System.out.println("Highest price = " + doc.get("priceHigh").get(0));
-        for(String attr : doc.keySet())
-        {
-            if(attr.equals("title") || attr.equals("priceLow") ||
-               attr.equals("priceHigh") || attr.equals("categoryName"))
-            {
+        for (String attr : doc.keySet()) {
+            if (attr.equals("title") || attr.equals("priceLow")
+                    || attr.equals("priceHigh") || attr.equals("categoryName")) {
                 continue;
             }
             System.out.print(attr + " ");

@@ -11,31 +11,27 @@ import ru.csc.vindur.storage.StorageType;
  * Created by Pavel Chursin on 05.10.2014.
  */
 
-public class EngineConfig
-{
-    private final Map<String, StorageType> indexes;  // attribute -> value type
+public class EngineConfig {
+    private final Map<String, StorageType> indexes; // attribute -> value type
     private final Optimizer optimizer;
     private final Supplier<BitSet> bitSetSupplier;
 
-    public EngineConfig(Map<String, StorageType> indexes, Supplier<BitSet> bitSetSupplier, Optimizer optimizer)
-    {
+    public EngineConfig(Map<String, StorageType> indexes,
+            Supplier<BitSet> bitSetSupplier, Optimizer optimizer) {
         this.indexes = indexes;
         this.optimizer = optimizer;
         this.bitSetSupplier = bitSetSupplier;
     }
 
-    public StorageType getValueType(String attribute)
-    {
+    public StorageType getValueType(String attribute) {
         return indexes.get(attribute);
     }
 
-    public Supplier<BitSet> getBitSetSupplier()
-    {
+    public Supplier<BitSet> getBitSetSupplier() {
         return bitSetSupplier;
     }
 
-    public Optimizer getOptimizer()
-    {
+    public Optimizer getOptimizer() {
         return optimizer;
     }
 }

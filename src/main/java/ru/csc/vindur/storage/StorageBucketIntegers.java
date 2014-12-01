@@ -10,20 +10,21 @@ import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.ROBitSet;
 
 /**
- * @author Andrey Kokorev
- *         Created on 08.11.2014.
+ * @author Andrey Kokorev Created on 08.11.2014.
  */
-public class StorageBucketIntegers extends StorageRangeBase<Integer>
-{
-	// TODO test this parameter(find out the better value)
+public class StorageBucketIntegers extends StorageRangeBase<Integer> {
+    // TODO test this parameter(find out the better value)
     private static final Integer DEFAULT_BUCKET_SIZE = 100;
     private final Integer bucketSize;
-    private HashMap<Integer, TreeMap<Integer, BitSet>> storage; //key hash -> bucket(key -> bitset of all smaller or eq)
+    private HashMap<Integer, TreeMap<Integer, BitSet>> storage; // key hash ->
+                                                                // bucket(key ->
+                                                                // bitset of all
+                                                                // smaller or
+                                                                // eq)
     private Supplier<BitSet> bitSetSupplier;
 
-    public StorageBucketIntegers(Supplier<BitSet> bitSetSupplier)
-    {
-    	super(Integer.class);
+    public StorageBucketIntegers(Supplier<BitSet> bitSetSupplier) {
+        super(Integer.class);
         this.storage = new HashMap<>();
         this.bitSetSupplier = bitSetSupplier;
         this.bucketSize = DEFAULT_BUCKET_SIZE;
@@ -31,10 +32,12 @@ public class StorageBucketIntegers extends StorageRangeBase<Integer>
 
     private BitSet floorFromBucket(Integer key) {
         TreeMap<Integer, BitSet> bucket = getBucket(key);
-        if(bucket == null) return bitSetSupplier.get();
+        if (bucket == null)
+            return bitSetSupplier.get();
 
         Map.Entry<Integer, BitSet> upperEntry = bucket.floorEntry(key);
-        if(upperEntry == null) { //high is lower than lowest stored value, or storage is empty
+        if (upperEntry == null) { // high is lower than lowest stored value, or
+                                  // storage is empty
             return bitSetSupplier.get();
         }
         return upperEntry.getValue();
@@ -42,10 +45,12 @@ public class StorageBucketIntegers extends StorageRangeBase<Integer>
 
     private BitSet lowerFromBucket(Integer key) {
         TreeMap<Integer, BitSet> bucket = getBucket(key);
-        if(bucket == null) return bitSetSupplier.get();
+        if (bucket == null)
+            return bitSetSupplier.get();
 
         Map.Entry<Integer, BitSet> lowerEntry = bucket.lowerEntry(key);
-        if(lowerEntry == null) { //high is lower than lowest stored value, or storage is empty
+        if (lowerEntry == null) { // high is lower than lowest stored value, or
+                                  // storage is empty
             return bitSetSupplier.get();
         }
         return lowerEntry.getValue();
@@ -59,44 +64,41 @@ public class StorageBucketIntegers extends StorageRangeBase<Integer>
         return storage.get(getBucketNum(key));
     }
 
-	@Override
-	public void add(int docId, Integer value) {
-		incrementDocumentsCount();
+    @Override
+    public void add(int docId, Integer value) {
+        incrementDocumentsCount();
         TreeMap<Integer, BitSet> bucket = getBucket(value);
-        if(bucket == null) {
+        if (bucket == null) {
             bucket = new TreeMap<>();
             storage.put(getBucketNum(value), bucket);
         }
 
-        for(Map.Entry<Integer, BitSet> e : bucket.tailMap(value).entrySet()) {
+        for (Map.Entry<Integer, BitSet> e : bucket.tailMap(value).entrySet()) {
             e.getValue().set(docId);
         }
 
-        if(bucket.containsKey(value)) {
+        if (bucket.containsKey(value)) {
             return;
         }
-        //otherwise we should add new record to storage
+        // otherwise we should add new record to storage
         Entry<Integer, BitSet> lowerEntry = bucket.lowerEntry(value);
         BitSet bitSet;
-        if (lowerEntry == null)
-        {
+        if (lowerEntry == null) {
             bitSet = bitSetSupplier.get();
-        } else
-        {
+        } else {
             bitSet = lowerEntry.getValue().copy();
         }
         bitSet.set(docId);
 
         bucket.put(value, bitSet);
 
-	}
+    }
 
-	@Override
-	public ROBitSet findSet(RangeRequest request) {
+    @Override
+    public ROBitSet findSet(RangeRequest request) {
         Integer lowKey = (Integer) request.getLowBound();
         Integer highKey = (Integer) request.getUpperBound();
-        if (highKey < lowKey)
-        { //that's not good
+        if (highKey < lowKey) { // that's not good
             return bitSetSupplier.get();
         }
 
@@ -105,37 +107,33 @@ public class StorageBucketIntegers extends StorageRangeBase<Integer>
 
         Integer upperBucket = getBucketNum(highKey);
         Integer lowerBucket = getBucketNum(lowKey);
-        if (upperBucket == lowerBucket)
-        { // values in the same bucket
+        if (upperBucket == lowerBucket) { // values in the same bucket
             return h.xor(l); // return intersection
         }
 
         // Get all from l to last record in lower bucket
         TreeMap<Integer, BitSet> lowerBuc = storage.get(lowerBucket);
         BitSet result = h;
-        if (lowerBuc != null)
-        {
+        if (lowerBuc != null) {
             BitSet lowerBucketLast = lowerBuc.lastEntry().getValue();
             result = result.or(l.xor(lowerBucketLast));
         }
 
-        //Get all in middle buckets
-        for (int i = lowerBucket + 1; i < upperBucket; i++)
-        {
+        // Get all in middle buckets
+        for (int i = lowerBucket + 1; i < upperBucket; i++) {
             TreeMap<Integer, BitSet> bucket = storage.get(i);
-            if (bucket == null) continue;
+            if (bucket == null)
+                continue;
             BitSet c = bucket.lastEntry().getValue();
-            if (c != null)
-            {
+            if (c != null) {
                 result = result.or(c);
             }
         }
         return result;
 
-	}
+    }
 
-    public int getComplexity()
-    {
+    public int getComplexity() {
         return 10;
     }
 }

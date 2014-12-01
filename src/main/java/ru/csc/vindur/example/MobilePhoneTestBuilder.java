@@ -1,45 +1,43 @@
 package ru.csc.vindur.example;
 
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Map;
+
 import ru.csc.vindur.Request;
 import ru.csc.vindur.storage.StorageType;
 import ru.csc.vindur.test.utils.RandomUtils;
 
-import java.util.*;
-
 /**
  * Created by Pavel Chursin on 10.11.2014.
  */
-public class MobilePhoneTestBuilder
-{
-/*
-    private AttributeDescriptor[] attributeDescriptors = new AttributeDescriptor[]{
-            cost, manufacturer, model, isSmartphone, screenSize, color, operationSystem, ram
-    };*/
-
+public class MobilePhoneTestBuilder {
+    /*
+     * private AttributeDescriptor[] attributeDescriptors = new
+     * AttributeDescriptor[]{ cost, manufacturer, model, isSmartphone,
+     * screenSize, color, operationSystem, ram };
+     */
 
     private static Map<String, StorageType> storageTypes;
     private static int lowPriceBound = 3000, highPriceBound = 30000;
-    private static String[] manufacturers = {
-            "Nokia", "Asus", "Lenovo", "HTC", "Apple", "Huawei", "Sony",
-            "Samsung"
-    };
+    private static String[] manufacturers = { "Nokia", "Asus", "Lenovo", "HTC",
+            "Apple", "Huawei", "Sony", "Samsung" };
     private static double smartphoneProbability = 0.75;
     private static double minScreenSize = 2.0, maxScreenSize = 5.0;
-    private static String[] colors = {
-            "BLACK", "GRAY", "WHITE", "RED", "GREEN", "BLUE",
-            "PINK", "YELLOW", "PURPLE", "ORANGE"
-    };
-    private static String[] operationSystems = {
-            "iOS", "Android", "Windows Phone"
-    };
+    private static String[] colors = { "BLACK", "GRAY", "WHITE", "RED",
+            "GREEN", "BLUE", "PINK", "YELLOW", "PURPLE", "ORANGE" };
+    private static String[] operationSystems = { "iOS", "Android",
+            "Windows Phone" };
     private int minRAM = 128, maxRAM = 2048;
 
     private int vetoAttributes = 1;
 
-    private HashSet<Object> uniquePrices, uniqueModels, uniqueRAM, uniqueScreenSize;
+    private HashSet<Object> uniquePrices, uniqueModels, uniqueRAM,
+            uniqueScreenSize;
 
-    public MobilePhoneTestBuilder()
-    {
+    public MobilePhoneTestBuilder() {
         storageTypes = new HashMap<>();
         storageTypes.put("Price", StorageType.STRING);
         storageTypes.put("Manufacturer", StorageType.STRING);
@@ -56,17 +54,15 @@ public class MobilePhoneTestBuilder
         uniqueScreenSize = new HashSet<>();
     }
 
-
-    Map<String, List<Object>> getDocument()
-    {
-    	Object v;
+    Map<String, List<Object>> getDocument() {
+        Object v;
         Map<String, List<Object>> doc = new HashMap<>();
 
         v = isSmartSupplier();
 
         doc.put("Smartphone", Arrays.asList(v));
 
-        //price
+        // price
         // запоминать сгенерированные значения для запросов в дальнейшем
         v = priceSupplier();
         uniquePrices.add(v);
@@ -97,16 +93,13 @@ public class MobilePhoneTestBuilder
         return doc;
     }
 
-    public Request getRandomAttributesRequest()
-    {
+    public Request getRandomAttributesRequest() {
         int attributes = (int) (Math.random() * (storageTypes.size() - vetoAttributes)) + 1;
         return getMultiAttributesRequest(attributes);
     }
 
-    public Request getMultiAttributesRequest(int n)
-    {
-        if (n > storageTypes.size() - vetoAttributes)
-        {
+    public Request getMultiAttributesRequest(int n) {
+        if (n > storageTypes.size() - vetoAttributes) {
             throw new IllegalArgumentException();
         }
 
@@ -116,8 +109,7 @@ public class MobilePhoneTestBuilder
         v = isSmartSupplier();
         randomAttributes.put("Smartphone", v);
 
-        do
-        {
+        do {
             v = priceSupplier();
         } while (!uniquePrices.contains(v));
         randomAttributes.put("Price", v);
@@ -125,15 +117,16 @@ public class MobilePhoneTestBuilder
         v = manufacturerSupplier();
         randomAttributes.put("Manufacturer", v);
 
-        // я решил пока что не делать запросы по моделям, потому что таким образом
-        // их можно очень долго генерить до тех пор, пока мы не найдем существующую
-//        do {
-//            v = modelSupplier();
-//        } while (!uniqueModels.contains(v));
-//        randomAttributes.put("Model", v);
+        // я решил пока что не делать запросы по моделям, потому что таким
+        // образом
+        // их можно очень долго генерить до тех пор, пока мы не найдем
+        // существующую
+        // do {
+        // v = modelSupplier();
+        // } while (!uniqueModels.contains(v));
+        // randomAttributes.put("Model", v);
 
-        do
-        {
+        do {
             v = screenSizeSupplier();
         } while (!uniqueScreenSize.contains(v));
         randomAttributes.put("Screen Size", v);
@@ -144,8 +137,7 @@ public class MobilePhoneTestBuilder
         v = osSupplier();
         randomAttributes.put("Operation System", v);
 
-        do
-        {
+        do {
             v = ramSupplier();
         } while (!uniqueRAM.contains(v));
         randomAttributes.put("RAM", v);
@@ -153,11 +145,9 @@ public class MobilePhoneTestBuilder
         String[] types = (String[]) randomAttributes.keySet().toArray();
         Request request = Request.build();
 
-        for (int i = 0; i < n; i++)
-        {
+        for (int i = 0; i < n; i++) {
             String type;
-            do
-            {
+            do {
                 int randPos = (int) (Math.random() * types.length);
                 type = types[randPos];
             } while (!randomAttributes.containsKey(type));
@@ -168,52 +158,45 @@ public class MobilePhoneTestBuilder
         return request;
     }
 
-    public Map<String, StorageType> getTypes()
-    {
+    public Map<String, StorageType> getTypes() {
         return storageTypes;
     }
 
-    public Object priceSupplier()
-    {
-        return Double.toString(lowPriceBound + Math.random() * (highPriceBound - lowPriceBound));
+    public Object priceSupplier() {
+        return Double.toString(lowPriceBound + Math.random()
+                * (highPriceBound - lowPriceBound));
     }
 
-    public Object manufacturerSupplier()
-    {
+    public Object manufacturerSupplier() {
         int index = (int) (Math.random() * manufacturers.length);
         return manufacturers[index];
     }
 
-    public Object isSmartSupplier()
-    {
+    public Object isSmartSupplier() {
         return Math.random() < smartphoneProbability ? "Smartphone" : "Phone";
     }
 
-    public Object screenSizeSupplier()
-    {
-        double screen = minScreenSize + Math.random() * (maxScreenSize - minScreenSize + 0.1);
+    public Object screenSizeSupplier() {
+        double screen = minScreenSize + Math.random()
+                * (maxScreenSize - minScreenSize + 0.1);
         return String.format("%1.1f", screen);
     }
 
-    public Object modelSupplier()
-    {
+    public Object modelSupplier() {
         return RandomUtils.getString(4, 10);
     }
 
-    public Object colorSupplier()
-    {
+    public Object colorSupplier() {
         int index = (int) (Math.random() * colors.length);
         return colors[index];
     }
 
-    public Object osSupplier()
-    {
+    public Object osSupplier() {
         int index = (int) (Math.random() * operationSystems.length);
         return operationSystems[index];
     }
 
-    public Object ramSupplier()
-    {
+    public Object ramSupplier() {
         int ram = minRAM + (int) (Math.random() * (maxRAM - minRAM + 1));
         return Integer.toString(ram);
     }

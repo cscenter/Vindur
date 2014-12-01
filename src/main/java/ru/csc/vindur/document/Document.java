@@ -12,47 +12,46 @@ import javax.annotation.concurrent.ThreadSafe;
  */
 @ThreadSafe
 public class Document {
-	private final ConcurrentMap<String, List<Object>> vals = new ConcurrentHashMap<>(); // attribute
-																						// ->
-																						// values
-	private final int id;
+    private final ConcurrentMap<String, List<Object>> vals = new ConcurrentHashMap<>(); // attribute
+                                                                                        // ->
+                                                                                        // values
+    private final int id;
 
-	public Document(int id) {
-		this.id = id;
-	}
+    public Document(int id) {
+        this.id = id;
+    }
 
-	public void setAttribute(String attribute, Object value) {
-		List<Object> values = vals.get(attribute);
-		if (values == null) {
-			// Contains Double checked locking inside
-			values = createValues(attribute);
-		}
-		synchronized (values) {
-			// TODO maybe change List to CopyOnWriteList or something else
-			values.add(value);
-		}
-	}
+    public void setAttribute(String attribute, Object value) {
+        List<Object> values = vals.get(attribute);
+        if (values == null) {
+            // Contains Double checked locking inside
+            values = createValues(attribute);
+        }
+        synchronized (values) {
+            // TODO maybe change List to CopyOnWriteList or something else
+            values.add(value);
+        }
+    }
 
-	private List<Object> createValues(String attribute) {
-		List<Object> values;
+    private List<Object> createValues(String attribute) {
+        List<Object> values;
 
-		synchronized (this) {
-			values = vals.get(attribute);
-			if (values != null) {
-				return values;
-			}
-			values = new ArrayList<>();
-			vals.put(attribute, values);
-		}
-		return values;
-	}
+        synchronized (this) {
+            values = vals.get(attribute);
+            if (values != null) {
+                return values;
+            }
+            values = new ArrayList<>();
+            vals.put(attribute, values);
+        }
+        return values;
+    }
 
-	public int getId() {
-		return id;
-	}
+    public int getId() {
+        return id;
+    }
 
-	public List<Object> getValuesByAttribute(String attribute)
-	{
-		return vals.get(attribute);
-	}
+    public List<Object> getValuesByAttribute(String attribute) {
+        return vals.get(attribute);
+    }
 }

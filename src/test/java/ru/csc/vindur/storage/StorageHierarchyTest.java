@@ -1,39 +1,33 @@
 package ru.csc.vindur.storage;
 
-import org.junit.Before;
-import org.junit.Test;
-import ru.csc.vindur.bitset.BitSet;
-import ru.csc.vindur.bitset.EWAHBitSet;
+import static org.junit.Assert.assertEquals;
 
 import java.util.function.Supplier;
 
-import static org.junit.Assert.assertEquals;
-import static ru.csc.vindur.storage.StorageHierarchy.HierarchyCorruptedException;
+import org.junit.Before;
+import org.junit.Test;
+
+import ru.csc.vindur.bitset.BitSet;
+import ru.csc.vindur.bitset.EWAHBitSet;
+import ru.csc.vindur.storage.StorageHierarchy.HierarchyCorruptedException;
 
 /**
- * @author Andrey Kokorev
- *         Created on 19.11.2014.
+ * @author Andrey Kokorev Created on 19.11.2014.
  */
 public class StorageHierarchyTest {
     private Supplier<BitSet> bitSetSupplier;
     private StorageHierarchy storageHierarchy;
 
     @Before
-    public void createSupplier()
-    {
+    public void createSupplier() {
         bitSetSupplier = EWAHBitSet::new;
         storageHierarchy = new StorageHierarchy(bitSetSupplier);
     }
 
     @Test
     public void multiValueChildTreeTest() {
-         /* ROOT
-             |
-             1
-            /  \
-           2    3
-           |
-           4
+        /*
+         * ROOT | 1 / \ 2 3 | 4
          */
         storageHierarchy.addChild(storageHierarchy.ROOT, "1");
         storageHierarchy.addChild("1", "2");
@@ -51,7 +45,8 @@ public class StorageHierarchyTest {
         storageHierarchy.add(7, ("4"));
         storageHierarchy.add(8, ("4"));
 
-        BitSet childTree1 = bitSetSupplier.get().set(1).set(2).set(3).set(4).set(5).set(6).set(7).set(8);
+        BitSet childTree1 = bitSetSupplier.get().set(1).set(2).set(3).set(4)
+                .set(5).set(6).set(7).set(8);
         assertEquals(childTree1, storageHierarchy.findChildTree("1"));
 
         BitSet childTree4 = bitSetSupplier.get().set(7).set(8);
@@ -63,16 +58,9 @@ public class StorageHierarchyTest {
 
     @Test
     public void simpleChildTreeTest() {
-         /*   ROOT
-                |
-                1
-             /  |  \
-            2   3   4
-            |   | \
-            5   6  7
-                   |
-                   8
-        */
+        /*
+         * ROOT | 1 / | \ 2 3 4 | | \ 5 6 7 | 8
+         */
         storageHierarchy.addChild(storageHierarchy.ROOT, "1");
         storageHierarchy.addChild("1", "2");
         storageHierarchy.addChild("1", "3");
@@ -83,7 +71,7 @@ public class StorageHierarchyTest {
         storageHierarchy.addChild("3", "7");
 
         storageHierarchy.addChild("7", "8");
-        
+
         storageHierarchy.add(1, ("1"));
 
         storageHierarchy.add(2, ("2"));
@@ -97,7 +85,8 @@ public class StorageHierarchyTest {
 
         storageHierarchy.add(8, ("8"));
 
-        BitSet childTree1 = bitSetSupplier.get().set(1).set(2).set(3).set(4).set(5).set(6).set(7).set(8);
+        BitSet childTree1 = bitSetSupplier.get().set(1).set(2).set(3).set(4)
+                .set(5).set(6).set(7).set(8);
         assertEquals(childTree1, storageHierarchy.findChildTree("1"));
 
         BitSet childTree2 = bitSetSupplier.get().set(2).set(5);
@@ -118,16 +107,9 @@ public class StorageHierarchyTest {
 
     @Test
     public void simpleNodeTreeTest() {
-         /*    ROOT
-                |
-                1
-             /  |  \
-            2   3   4
-            |   | \
-            5   6  7
-                   |
-                   8
-        */
+        /*
+         * ROOT | 1 / | \ 2 3 4 | | \ 5 6 7 | 8
+         */
         storageHierarchy.addChild(storageHierarchy.ROOT, "1");
         storageHierarchy.addChild("1", "2");
         storageHierarchy.addChild("1", "3");
@@ -165,19 +147,13 @@ public class StorageHierarchyTest {
 
     @Test
     public void multiValueNodeTest() {
-         /* ROOT
-             |
-             1
-            /  \
-           2    3
-           |
-           4
+        /*
+         * ROOT | 1 / \ 2 3 | 4
          */
         storageHierarchy.addChild(storageHierarchy.ROOT, "1");
         storageHierarchy.addChild("1", "3");
         storageHierarchy.addChild("2", "4");
         storageHierarchy.addChild("1", "2");
-
 
         storageHierarchy.add(1, ("1"));
         storageHierarchy.add(2, ("1"));
@@ -206,11 +182,8 @@ public class StorageHierarchyTest {
 
     @Test(expected = HierarchyCorruptedException.class)
     public void hierarchyConsistencyTest() {
-        /*   1
-           /  \
-          2    3
-           \  /
-            4
+        /*
+         * 1 / \ 2 3 \ / 4
          */
         storageHierarchy.addChild(storageHierarchy.ROOT, "1");
         storageHierarchy.addChild("1", "3");

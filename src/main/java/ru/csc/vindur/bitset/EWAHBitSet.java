@@ -1,73 +1,62 @@
 package ru.csc.vindur.bitset;
 
-import com.googlecode.javaewah.EWAHCompressedBitmap;
-
 import java.util.Iterator;
 import java.util.List;
 
-public class EWAHBitSet implements BitSet
-{
+import com.googlecode.javaewah.EWAHCompressedBitmap;
+
+public class EWAHBitSet implements BitSet {
 
     private final EWAHCompressedBitmap bitSet;
 
-    public EWAHBitSet()
-    {
+    public EWAHBitSet() {
         bitSet = new EWAHCompressedBitmap();
     }
 
-    private EWAHBitSet(EWAHCompressedBitmap bitSet)
-    {
+    private EWAHBitSet(EWAHCompressedBitmap bitSet) {
         this.bitSet = bitSet;
     }
 
     @Override
-    public BitSet and(ROBitSet other)
-    {
+    public BitSet and(ROBitSet other) {
         EWAHCompressedBitmap otherBitSet = ((EWAHBitSet) other).bitSet;
         return new EWAHBitSet(bitSet.and(otherBitSet));
     }
 
     @Override
-    public BitSet set(int index)
-    {
+    public BitSet set(int index) {
         bitSet.set(index);
         return this;
     }
 
     @Override
-    public List<Integer> toIntList()
-    {
+    public List<Integer> toIntList() {
         return bitSet.toList();
     }
 
     @Override
-    public int cardinality()
-    {
+    public int cardinality() {
         return bitSet.cardinality();
     }
 
     @Override
-    public BitSet or(ROBitSet other)
-    {
+    public BitSet or(ROBitSet other) {
         EWAHCompressedBitmap otherBitSet = ((EWAHBitSet) other).bitSet;
         return new EWAHBitSet(bitSet.or(otherBitSet));
     }
 
     @Override
-    public BitSet xor(ROBitSet other)
-    {
+    public BitSet xor(ROBitSet other) {
         EWAHCompressedBitmap otherBitSet = ((EWAHBitSet) other).bitSet;
         return new EWAHBitSet(bitSet.xor(otherBitSet));
     }
 
-    public BitSet copy()
-    {
+    public BitSet copy() {
         return new EWAHBitSet(this.bitSet.clone());
     }
 
     @Override
-    public int hashCode()
-    {
+    public int hashCode() {
         final int prime = 31;
         int result = 1;
         result = prime * result + ((bitSet == null) ? 0 : bitSet.hashCode());
@@ -75,43 +64,34 @@ public class EWAHBitSet implements BitSet
     }
 
     @Override
-    public boolean equals(Object obj)
-    {
-        if (this == obj)
-        {
+    public boolean equals(Object obj) {
+        if (this == obj) {
             return true;
         }
-        if (obj == null)
-        {
+        if (obj == null) {
             return false;
         }
-        if (getClass() != obj.getClass())
-        {
+        if (getClass() != obj.getClass()) {
             return false;
         }
         EWAHBitSet other = (EWAHBitSet) obj;
-        if (bitSet == null)
-        {
-            if (other.bitSet != null)
-            {
+        if (bitSet == null) {
+            if (other.bitSet != null) {
                 return false;
             }
-        } else if (!bitSet.equals(other.bitSet))
-        {
+        } else if (!bitSet.equals(other.bitSet)) {
             return false;
         }
         return true;
     }
 
     @Override
-    public String toString()
-    {
+    public String toString() {
         return bitSet.toString();
     }
 
     @Override
-    public Iterator<Integer> iterator()
-    {
+    public Iterator<Integer> iterator() {
         return bitSet.iterator();
     }
 }
