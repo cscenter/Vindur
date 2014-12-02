@@ -11,9 +11,9 @@ import java.util.Map;
 
 import ru.csc.vindur.Engine;
 import ru.csc.vindur.EngineConfig;
-import ru.csc.vindur.Request;
+import ru.csc.vindur.Query;
 import ru.csc.vindur.bitset.EWAHBitSet;
-import ru.csc.vindur.optimizer.TinyOptimizer;
+import ru.csc.vindur.executor.TinyExecutor;
 import ru.csc.vindur.storage.StorageRangeBase;
 import ru.csc.vindur.storage.StorageType;
 
@@ -32,7 +32,7 @@ public class MarketExample {
         storages.put("description", StorageType.LUCENE_STRING);
 
         EngineConfig config = new EngineConfig(storages, EWAHBitSet::new,
-                new TinyOptimizer());
+                new TinyExecutor());
         Engine engine = new Engine(config);
 
         Map<Integer, Map<String, List<Object>>> docs = new HashMap<>();
@@ -56,9 +56,9 @@ public class MarketExample {
         });
 
         System.out.println("\n\n=================Bikes");
-        Request bikes = Request.build().request("categoryName", "Велосипеды");
+        Query bikes = Query.build().query("categoryName", "Велосипеды");
 
-        List<Integer> bikeResult = engine.executeRequest(bikes);
+        List<Integer> bikeResult = engine.executeQuery(bikes);
 
         for (Integer docId : bikeResult) {
             Map<String, List<Object>> bike = docs.get(docId);
@@ -71,10 +71,10 @@ public class MarketExample {
         }
 
         System.out.println("\n\n=================Memory cards");
-        Request memoryCards = Request.build().request("categoryName",
+        Query memoryCards = Query.build().query("categoryName",
                 "Карты памяти");
 
-        List<Integer> mcResult = engine.executeRequest(memoryCards);
+        List<Integer> mcResult = engine.executeQuery(memoryCards);
 
         for (Integer docId : mcResult) {
             Map<String, List<Object>> card = docs.get(docId);
@@ -88,16 +88,16 @@ public class MarketExample {
 
         System.out
                 .println("\n\n=================Everything from 5000 to 10000");
-        Request cheap = Request
+        Query cheap = Query
                 .build()
-                .request("priceHigh",
+                .query("priceHigh",
                         StorageRangeBase.generateRequest(0, 10000))
-                .request(
+                .query(
                         "priceLow",
                         StorageRangeBase.generateRequest(5000,
                                 Integer.MAX_VALUE));
 
-        List<Integer> cheapResult = engine.executeRequest(cheap);
+        List<Integer> cheapResult = engine.executeQuery(cheap);
 
         for (Integer docId : cheapResult) {
             Map<String, List<Object>> stuff = docs.get(docId);

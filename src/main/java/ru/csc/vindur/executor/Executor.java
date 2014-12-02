@@ -1,25 +1,30 @@
-package ru.csc.vindur.optimizer;
+package ru.csc.vindur.executor;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.concurrent.ConcurrentMap;
 
-import ru.csc.vindur.Request;
+import ru.csc.vindur.Engine;
+import ru.csc.vindur.Query;
 import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.storage.StorageBase;
 
 /**
  * Created by Edgar on 26.10.14.
  */
-public interface Optimizer {
+public interface Executor
+{
     /**
-     * @param request
+     * @param query
      * @param engine
      * @return
      */
+
+    public BitSet execute(Query query, Engine engine);
+
     public Plan generatePlan(
-            Request request,
+            Query query,
             @SuppressWarnings("rawtypes") ConcurrentMap<String, StorageBase> storages);
 
     public void updatePlan(Plan plan, BitSet currentResult);

@@ -9,7 +9,7 @@ import java.util.Map;
 import org.junit.Test;
 
 import ru.csc.vindur.bitset.EWAHBitSet;
-import ru.csc.vindur.optimizer.DumbOptimizer;
+import ru.csc.vindur.executor.DumbExecutor;
 import ru.csc.vindur.storage.StorageLucene;
 import ru.csc.vindur.storage.StorageRangeBase;
 import ru.csc.vindur.storage.StorageType;
@@ -28,7 +28,7 @@ public class EngineTest {
         indexes.put(STR_ATTR2, StorageType.RANGE_STRING);
         indexes.put(STR_ATTR3, StorageType.LUCENE_STRING);
         EngineConfig config = new EngineConfig(indexes, EWAHBitSet::new,
-                new DumbOptimizer());
+                new DumbExecutor());
         Engine engine = new Engine(config);
 
         int doc1 = engine.createDocument();
@@ -53,37 +53,37 @@ public class EngineTest {
         engine.setAttributeByDocId(doc3, STR_ATTR3, "bb");
         engine.setAttributeByDocId(doc4, STR_ATTR3, "cc bb");
 
-        Request r1 = Request.build().request(STR_ATTR, "value1")
-                .request(INT_ATTR, StorageRangeBase.generateRequest(2, 2));
-        assertEquals(Arrays.asList(doc2), engine.executeRequest(r1));
+        Query r1 = Query.build().query(STR_ATTR, "value1")
+                .query(INT_ATTR, StorageRangeBase.generateRequest(2, 2));
+        assertEquals(Arrays.asList(doc2), engine.executeQuery(r1));
 
-        Request r2 = Request.build().request(STR_ATTR, "value1")
-                .request(INT_ATTR, StorageRangeBase.generateRequest(1, 2));
-        assertEquals(Arrays.asList(doc1, doc2), engine.executeRequest(r2));
+        Query r2 = Query.build().query(STR_ATTR, "value1")
+                .query(INT_ATTR, StorageRangeBase.generateRequest(1, 2));
+        assertEquals(Arrays.asList(doc1, doc2), engine.executeQuery(r2));
 
-        Request r3 = Request.build().request(STR_ATTR, "value2")
-                .request(INT_ATTR, StorageRangeBase.generateRequest(2, 2));
-        assertEquals(Arrays.asList(doc3, doc4), engine.executeRequest(r3));
+        Query r3 = Query.build().query(STR_ATTR, "value2")
+                .query(INT_ATTR, StorageRangeBase.generateRequest(2, 2));
+        assertEquals(Arrays.asList(doc3, doc4), engine.executeQuery(r3));
 
-        Request r4 = Request.build().request(INT_ATTR,
+        Query r4 = Query.build().query(INT_ATTR,
                 StorageRangeBase.generateRequest(3, 3));
-        assertEquals(Arrays.asList(), engine.executeRequest(r4));
+        assertEquals(Arrays.asList(), engine.executeQuery(r4));
 
-        Request r5 = Request.build()
-                .request(INT_ATTR, StorageRangeBase.generateRequest(1, 1))
-                .request(STR_ATTR, "value2");
-        assertEquals(Arrays.asList(), engine.executeRequest(r5));
+        Query r5 = Query.build()
+                .query(INT_ATTR, StorageRangeBase.generateRequest(1, 1))
+                .query(STR_ATTR, "value2");
+        assertEquals(Arrays.asList(), engine.executeQuery(r5));
 
-        Request r6 = Request.build().request(STR_ATTR2,
+        Query r6 = Query.build().query(STR_ATTR2,
                 StorageRangeBase.generateRequest("abc", "zxcvbnm"));
-        assertEquals(Arrays.asList(doc1, doc3, doc4), engine.executeRequest(r6));
+        assertEquals(Arrays.asList(doc1, doc3, doc4), engine.executeQuery(r6));
 
-        Request r7 = Request.build().request(STR_ATTR3,
+        Query r7 = Query.build().query(STR_ATTR3,
                 StorageLucene.generateRequest("aa"));
-        assertEquals(Arrays.asList(doc1, doc2), engine.executeRequest(r7));
+        assertEquals(Arrays.asList(doc1, doc2), engine.executeQuery(r7));
 
-        Request r8 = Request.build().request(STR_ATTR3,
+        Query r8 = Query.build().query(STR_ATTR3,
                 StorageLucene.generateRequest("b*"));
-        assertEquals(Arrays.asList(doc1, doc3, doc4), engine.executeRequest(r8));
+        assertEquals(Arrays.asList(doc1, doc3, doc4), engine.executeQuery(r8));
     }
 }

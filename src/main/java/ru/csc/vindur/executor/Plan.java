@@ -1,4 +1,4 @@
-package ru.csc.vindur.optimizer;
+package ru.csc.vindur.executor;
 
 import java.util.List;
 

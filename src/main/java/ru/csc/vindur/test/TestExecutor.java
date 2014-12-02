@@ -10,7 +10,7 @@ import org.slf4j.LoggerFactory;
 
 import ru.csc.vindur.Engine;
 import ru.csc.vindur.EngineConfig;
-import ru.csc.vindur.Request;
+import ru.csc.vindur.Query;
 import ru.csc.vindur.test.utils.RandomUtils;
 
 import com.google.common.base.Stopwatch;
@@ -24,7 +24,7 @@ public class TestExecutor {
 
     protected EngineConfig engineConfig;
     private Supplier<Map<String, List<Object>>> documentSupplier;
-    private Supplier<Request> requestSupplier;
+    private Supplier<Query> querySupplier;
 
     protected Engine engine;
 
@@ -47,10 +47,10 @@ public class TestExecutor {
 
         // run executors
         long reqSize;
-        reqSize = requestExec(reqNumber, timer);
-        LOG.info("{} request executed for time {} with records {}", reqNumber,
+        reqSize = queryExec(reqNumber, timer);
+        LOG.info("{} query executed for time {} with records {}", reqNumber,
                 timer.elapsed(TimeUnit.MILLISECONDS), reqSize);
-        LOG.info("Average time per request is {}ms",
+        LOG.info("Average time per query is {}ms",
                 timer.elapsed(TimeUnit.MILLISECONDS) / (double) reqNumber);
     }
 
@@ -74,20 +74,17 @@ public class TestExecutor {
         return attributesSetted;
     }
 
-    protected Integer requestExec(int reqNumber, Stopwatch timer) {
+    protected Integer queryExec(int reqNumber, Stopwatch timer) {
         int size = 0;
         timer.reset();
         for (long i = 0; i < reqNumber; i++) {
-            Request request = requestSupplier.get();
-            LOG.debug(" {}", request);
+            Query query = querySupplier.get();
+            LOG.debug(" {}", query);
             timer.start();
             try {
-                size += engine.executeRequest(request).size();
+                size += engine.executeQuery(query).size();
             } catch (Exception e) {
                 LOG.error("Engine throw an exception: {}", e);
-                LOG.error("Stack trace: \n");
-                e.printStackTrace();
-                return 0;
             } // даже не проверяем результат, только скорость
             timer.stop();
         }
@@ -100,8 +97,8 @@ public class TestExecutor {
         return this;
     }
 
-    public TestExecutor setRequestSupplier(Supplier<Request> requestSupplier) {
-        this.requestSupplier = requestSupplier;
+    public TestExecutor setQuerySupplier(Supplier<Query> querySupplier) {
+        this.querySupplier = querySupplier;
         return this;
     }
 

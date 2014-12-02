@@ -5,9 +5,9 @@ import java.util.Map;
 import java.util.function.Supplier;
 
 import ru.csc.vindur.EngineConfig;
-import ru.csc.vindur.Request;
+import ru.csc.vindur.Query;
 import ru.csc.vindur.bitset.EWAHBitSet;
-import ru.csc.vindur.optimizer.DumbOptimizer;
+import ru.csc.vindur.executor.DumbExecutor;
 import ru.csc.vindur.test.TestExecutor;
 
 /**
@@ -23,18 +23,18 @@ public class MobilePhonesExample {
 
         test = new MobilePhoneTestBuilder();
         te = new TestExecutor(new EngineConfig(test.getTypes(),
-                EWAHBitSet::new, new DumbOptimizer()));
+                EWAHBitSet::new, new DumbExecutor()));
         te.setDocumentSupplier(docSupplier(test));
-        te.setRequestSupplier(requestSupplier(test, 5));
+        te.setQuerySupplier(requestSupplier(test, 5));
         te.execute(100000, 0);
 
     }
 
-    private static Supplier<Request> requestSupplier(
+    private static Supplier<Query> requestSupplier(
             final MobilePhoneTestBuilder test, int partInRequest) {
         return () -> {
-            Request request = test.getRandomAttributesRequest();
-            return request;
+            Query query = test.getRandomAttributesRequest();
+            return query;
         };
     }
 

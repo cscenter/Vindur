@@ -6,23 +6,23 @@ package ru.csc.vindur.storage;
 
 public enum StorageType {
     /**
-     * Value is String. Request is String
+     * Value is String. Query is String
      */
     STRING,
     /**
-     * Value is Integer. Request is Integer
+     * Value is Integer. Query is Integer
      */
     INTEGER,
     /**
-     * Value is Integer. Request is Integer[2](closed segment)
+     * Value is Integer. Query is Integer[2](closed segment)
      */
     RANGE_INTEGER,
     /**
-     * Value is String. Request is String[2](closed segment)
+     * Value is String. Query is String[2](closed segment)
      */
     RANGE_STRING,
     /**
-     * Value is String. Request is constructed with {@code}
+     * Value is String. Query is constructed with {@code}
      * StorageLucene::getRequest method
      */
     LUCENE_STRING

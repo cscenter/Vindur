@@ -1,30 +1,38 @@
-package ru.csc.vindur.optimizer;
+package ru.csc.vindur.executor;
 
 import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
 import java.util.concurrent.ConcurrentMap;
 
-import ru.csc.vindur.Request;
+import ru.csc.vindur.Engine;
+import ru.csc.vindur.Query;
 import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.storage.StorageBase;
 
 /**
  * Created by Edgar on 27.11.2014.
  */
-public class TinyOptimizer implements Optimizer {
+public class TinyExecutor implements Executor
+{
+    @Override
+    public BitSet execute(Query query, Engine engine)
+    {
+        return null;
+    }
+
     @Override
     public Plan generatePlan(
-            Request request,
+            Query query,
             @SuppressWarnings("rawtypes") ConcurrentMap<String, StorageBase> storages) {
         Map<String, Object> requestParts = new TreeMap<>(
                 (a, b) -> Integer.compare(storages.get(a).documentsCount(),
                         storages.get(b).documentsCount()));
 
-        requestParts.putAll(request.getRequestParts());
+        requestParts.putAll(query.getQueryParts());
 
-        List<Step> steps = Optimizer.requestPartsToSteps(
-                request.getRequestParts(), storages);
+        List<Step> steps = Executor.requestPartsToSteps(
+                query.getQueryParts(), storages);
 
         return new SimplePlan(steps);
     }

@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.function.Supplier;
 
 import ru.csc.vindur.bitset.BitSet;
-import ru.csc.vindur.optimizer.Optimizer;
+import ru.csc.vindur.executor.Executor;
 import ru.csc.vindur.storage.StorageType;
 
 /**
@@ -13,13 +13,13 @@ import ru.csc.vindur.storage.StorageType;
 
 public class EngineConfig {
     private final Map<String, StorageType> indexes; // attribute -> value type
-    private final Optimizer optimizer;
+    private final Executor executor;
     private final Supplier<BitSet> bitSetSupplier;
 
     public EngineConfig(Map<String, StorageType> indexes,
-            Supplier<BitSet> bitSetSupplier, Optimizer optimizer) {
+            Supplier<BitSet> bitSetSupplier, Executor executor) {
         this.indexes = indexes;
-        this.optimizer = optimizer;
+        this.executor = executor;
         this.bitSetSupplier = bitSetSupplier;
     }
 
@@ -31,7 +31,7 @@ public class EngineConfig {
         return bitSetSupplier;
     }
 
-    public Optimizer getOptimizer() {
-        return optimizer;
+    public Executor getExecutor() {
+        return executor;
     }
 }

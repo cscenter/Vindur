@@ -11,9 +11,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import ru.csc.vindur.EngineConfig;
-import ru.csc.vindur.Request;
+import ru.csc.vindur.Query;
 import ru.csc.vindur.bitset.EWAHBitSet;
-import ru.csc.vindur.optimizer.DumbOptimizer;
+import ru.csc.vindur.executor.DumbExecutor;
 import ru.csc.vindur.storage.StorageType;
 import ru.csc.vindur.test.utils.RandomUtils;
 
@@ -37,9 +37,9 @@ public class SimpleTest {
                 .setValuesCount(StorageType.STRING, 30)
                 .setValuesCount(StorageType.INTEGER, 30).init();
         te = new TestExecutor(new EngineConfig(test.getTypes(),
-                EWAHBitSet::new, new DumbOptimizer()));
+                EWAHBitSet::new, new DumbExecutor()));
         te.setDocumentSupplier(docSupplier(test));
-        te.setRequestSupplier(requestSupplier(test, 5));
+        te.setQuerySupplier(querySupplier(test, 5));
         te.execute(100000, 100000);
 
         LOG.info("STRING/EWH test");
@@ -47,9 +47,9 @@ public class SimpleTest {
                 .setTypeFrequence(StorageType.STRING, 1.0)
                 .setValuesCount(StorageType.STRING, 30000).init();
         te = new TestExecutor(new EngineConfig(test.getTypes(),
-                EWAHBitSet::new, new DumbOptimizer()));
+                EWAHBitSet::new, new DumbExecutor()));
         te.setDocumentSupplier(docSupplier(test));
-        te.setRequestSupplier(requestSupplier(test, 1));
+        te.setQuerySupplier(querySupplier(test, 1));
         te.execute(1000000, 100000);
 
         LOG.info("NUMERIC/EWH test");
@@ -57,9 +57,9 @@ public class SimpleTest {
                 .setTypeFrequence(StorageType.INTEGER, 1.0)
                 .setValuesCount(StorageType.INTEGER, 3000).init();
         te = new TestExecutor(new EngineConfig(test.getTypes(),
-                EWAHBitSet::new, new DumbOptimizer()));
+                EWAHBitSet::new, new DumbExecutor()));
         te.setDocumentSupplier(docSupplier(test));
-        te.setRequestSupplier(requestSupplier(test, 1));
+        te.setQuerySupplier(querySupplier(test, 1));
         te.execute(100000, 100000);
 
         LOG.info("Complex/EWH test");
@@ -69,24 +69,24 @@ public class SimpleTest {
                 .setValuesCount(StorageType.STRING, 30)
                 .setValuesCount(StorageType.INTEGER, 30).init();
         te = new TestExecutor(new EngineConfig(test.getTypes(),
-                EWAHBitSet::new, new DumbOptimizer()));
+                EWAHBitSet::new, new DumbExecutor()));
         te.setDocumentSupplier(docSupplier(test));
-        te.setRequestSupplier(requestSupplier(test, 5));
+        te.setQuerySupplier(querySupplier(test, 5));
         te.execute(100000, 100000);
 
     }
 
-    private static Supplier<Request> requestSupplier(final TestBuilder test,
-            int partInRequest) {
+    private static Supplier<Query> querySupplier(final TestBuilder test,
+                                                 int partsInQuery) {
         return () -> {
-            Request request = Request.build();
+            Query query = Query.build();
             for (String attr : RandomUtils.getRandomStrings(test.getStorages(),
-                    partInRequest)) {
+                    partsInQuery)) {
                 Object val = RandomUtils.gaussianRandomElement(
                         test.getValues(attr), 0.5, 1.0 / 6);
-                request.request(attr, val);
+                query.query(attr, val);
             }
-            return request;
+            return query;
         };
     }
 
@@ -99,7 +99,7 @@ public class SimpleTest {
                 .filter(attr -> random.nextDouble() < test.getProbability(attr))
                 // не каждый атрибут в этом документе
                 .collect(
-                        Collectors.toMap(e -> e, e -> Arrays.asList(RandomUtils
+                        Collectors.toMap((String e) -> e, e -> Arrays.asList(RandomUtils
                                 .gaussianRandomElement(test.getValues(e), 0.5,
                                         1.0 / 6))));
     }

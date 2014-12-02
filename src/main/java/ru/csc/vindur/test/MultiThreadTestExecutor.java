@@ -53,7 +53,7 @@ public class MultiThreadTestExecutor extends TestExecutor {
         for (int i = 0; i < threadCount; i++) {
             tasks.add(() -> {
                 Stopwatch ltimer = Stopwatch.createUnstarted();
-                Integer result = super.requestExec(reqNumber / threadCount,
+                Integer result = super.queryExec(reqNumber / threadCount,
                         ltimer);
                 allTime.addAndGet(ltimer.elapsed(TimeUnit.MICROSECONDS));
                 return result;
@@ -70,9 +70,9 @@ public class MultiThreadTestExecutor extends TestExecutor {
         }
 
         service.shutdown();
-        LOG.info("{} request executed for time {} and in time {}", reqNumber,
+        LOG.info("{} query executed for time {} and in time {}", reqNumber,
                 allTime.get() / 1000, timer.elapsed(TimeUnit.MILLISECONDS));
-        LOG.info("Average time per request is {}ms", allTime.get()
+        LOG.info("Average time per query is {}ms", allTime.get()
                 / (double) (reqNumber * 1000));
 
     }

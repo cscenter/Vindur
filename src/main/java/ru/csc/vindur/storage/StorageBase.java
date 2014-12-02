@@ -29,7 +29,7 @@ public abstract class StorageBase<V, R> {
 
     /**
      * @param request
-     * @return true if <code>request instanceof R</code>
+     * @return true if <code>query instanceof R</code>
      */
     public boolean validateRequestType(Object request) {
         return requestClazz.isAssignableFrom(request.getClass());

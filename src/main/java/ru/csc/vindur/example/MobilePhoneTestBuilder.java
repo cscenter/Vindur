@@ -6,7 +6,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
 
-import ru.csc.vindur.Request;
+import ru.csc.vindur.Query;
 import ru.csc.vindur.storage.StorageType;
 import ru.csc.vindur.test.utils.RandomUtils;
 
@@ -93,12 +93,12 @@ public class MobilePhoneTestBuilder {
         return doc;
     }
 
-    public Request getRandomAttributesRequest() {
+    public Query getRandomAttributesRequest() {
         int attributes = (int) (Math.random() * (storageTypes.size() - vetoAttributes)) + 1;
         return getMultiAttributesRequest(attributes);
     }
 
-    public Request getMultiAttributesRequest(int n) {
+    public Query getMultiAttributesRequest(int n) {
         if (n > storageTypes.size() - vetoAttributes) {
             throw new IllegalArgumentException();
         }
@@ -143,7 +143,7 @@ public class MobilePhoneTestBuilder {
         randomAttributes.put("RAM", v);
 
         String[] types = (String[]) randomAttributes.keySet().toArray();
-        Request request = Request.build();
+        Query query = Query.build();
 
         for (int i = 0; i < n; i++) {
             String type;
@@ -151,11 +151,11 @@ public class MobilePhoneTestBuilder {
                 int randPos = (int) (Math.random() * types.length);
                 type = types[randPos];
             } while (!randomAttributes.containsKey(type));
-            request.request(type, randomAttributes.get(type));
+            query.query(type, randomAttributes.get(type));
             randomAttributes.remove(type);
         }
 
-        return request;
+        return query;
     }
 
     public Map<String, StorageType> getTypes() {

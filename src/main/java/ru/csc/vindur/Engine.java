@@ -10,9 +10,9 @@ import java.util.concurrent.atomic.AtomicInteger;
 import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.ROBitSet;
 import ru.csc.vindur.document.Document;
-import ru.csc.vindur.optimizer.Optimizer;
-import ru.csc.vindur.optimizer.Plan;
-import ru.csc.vindur.optimizer.Step;
+import ru.csc.vindur.executor.Executor;
+import ru.csc.vindur.executor.Plan;
+import ru.csc.vindur.executor.Step;
 import ru.csc.vindur.storage.StorageBase;
 import ru.csc.vindur.storage.StorageHelper;
 import ru.csc.vindur.storage.StorageType;
@@ -34,6 +34,11 @@ public class Engine {
 
     public ConcurrentMap<Integer, Document> getDocuments() {
         return documents;
+    }
+
+    public ConcurrentMap<String, StorageBase> getColumns()
+    {
+        return columns;
     }
 
     public int createDocument() {
@@ -80,36 +85,19 @@ public class Engine {
         return storage;
     }
 
-    public List<Integer> executeRequest(Request request) {
-        checkRequest(request);
-        Optimizer optimizer = this.config.getOptimizer();
-        Plan plan = optimizer.generatePlan(request, columns);
-
-        Step step = plan.next();
-        BitSet resultSet = null;
-        while (step != null) {
-            ROBitSet stepResult = step.execute();
-            if (resultSet == null) {
-                resultSet = stepResult.copy();
-            } else {
-                resultSet = resultSet.and(stepResult);
-            }
-            if (resultSet.cardinality() == 0) {
-                return Collections.emptyList();
-            }
-            optimizer.updatePlan(plan, resultSet);
-            step = plan.next();
-        }
-
+    public List<Integer> executeQuery(Query query) {
+        checkQuery(query);
+        Executor executor = this.config.getExecutor();
+        BitSet resultSet = executor.execute(query, this);
         if (resultSet == null) {
             return Collections.emptyList();
+        } else {
+            return resultSet.toIntList();
         }
-
-        return resultSet.toIntList();
     }
 
-    private void checkRequest(Request request) throws IllegalArgumentException {
-        for (Entry<String, Object> part : request.getRequestParts().entrySet()) {
+    private void checkQuery(Query query) throws IllegalArgumentException {
+        for (Entry<String, Object> part : query.getQueryParts().entrySet()) {
             StorageBase storage = columns.get(part.getKey());
             if (storage == null) {
                 throw new IllegalArgumentException("StorageBase for attribute "
@@ -118,7 +106,7 @@ public class Engine {
             if (!storage.validateRequestType(part.getValue())) {
                 throw new IllegalArgumentException("StorageBase "
                         + storage.getClass().getName() + " for attribute "
-                        + part.getKey() + " is uncompatible with request "
+                        + part.getKey() + " is uncompatible with query "
                         + part.getValue().getClass().getName());
             }
         }

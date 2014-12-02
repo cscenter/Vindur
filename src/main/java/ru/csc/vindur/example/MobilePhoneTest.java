@@ -306,7 +306,7 @@ public class MobilePhoneTest {
     // }
     //
     // simpleEngineConfig = new EngineConfig(indexes, bitSetSupplier, new
-    // TinyOptimizer());
+    // TinyExecutor());
     // currentArt = 0;
     // }
     //
@@ -362,11 +362,11 @@ public class MobilePhoneTest {
     // }
     //
     //
-    // public GeneratorBase<Request> getRequestGenerator() {
-    // return new GeneratorBase<Request>(false, requestsCount) {
+    // public GeneratorBase<Query> getRequestGenerator() {
+    // return new GeneratorBase<Query>(false, requestsCount) {
     // @Override
-    // protected Request generateEntity() {
-    // Request request = Request.build();
+    // protected Query generateEntity() {
+    // Query query = Query.build();
     // String[] targetOS;
     // double chance = Math.random();
     // if (chance > 0.66) {
@@ -380,13 +380,13 @@ public class MobilePhoneTest {
     //
     // MainColor[] colors = MainColor.values();
     // String mainColor = colors[(int)(Math.random()*colors.length)].name();
-    // request.exact(color.getAttributeName(), mainColor);
+    // query.exact(color.getAttributeName(), mainColor);
     //
-    // request.exact(isSmartphone.getAttributeName(), "false");
+    // query.exact(isSmartphone.getAttributeName(), "false");
     //
     // String os = targetOS[(int)(Math.random()*targetOS.length)];
-    // request.exact(operationSystem.getAttributeName(), os);
-    // return request;
+    // query.exact(operationSystem.getAttributeName(), os);
+    // return query;
     // }
     // };
     // }
