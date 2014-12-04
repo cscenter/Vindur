@@ -8,6 +8,7 @@ import java.util.concurrent.ConcurrentMap;
 import ru.csc.vindur.Engine;
 import ru.csc.vindur.Query;
 import ru.csc.vindur.bitset.BitSet;
+import ru.csc.vindur.bitset.ROBitSet;
 import ru.csc.vindur.storage.StorageBase;
 
 /**
@@ -18,27 +19,32 @@ public class TinyExecutor implements Executor
     @Override
     public BitSet execute(Query query, Engine engine)
     {
-        return null;
+        Map<String, Object> queryParts = new TreeMap<>(
+                (a, b) -> Integer.compare(engine.getColumns().get(a).documentsCount(),
+                        engine.getColumns().get(b).documentsCount()));
+
+        queryParts.putAll(query.getQueryParts());
+
+        List<Step> steps = Executor.requestPartsToSteps(queryParts, engine.getColumns());
+
+        Plan plan = new SimplePlan(steps);
+
+        Step step = plan.next();
+        BitSet resultSet = null;
+        while (step != null) {
+            ROBitSet stepResult = step.execute();
+            if (resultSet == null) {
+                resultSet = stepResult.copy();
+            } else {
+                resultSet = resultSet.and(stepResult);
+            }
+            if (resultSet.cardinality() == 0) {
+                return null;
+            }
+            step = plan.next();
+        }
+
+        return resultSet;
     }
 
-    @Override
-    public Plan generatePlan(
-            Query query,
-            @SuppressWarnings("rawtypes") ConcurrentMap<String, StorageBase> storages) {
-        Map<String, Object> requestParts = new TreeMap<>(
-                (a, b) -> Integer.compare(storages.get(a).documentsCount(),
-                        storages.get(b).documentsCount()));
-
-        requestParts.putAll(query.getQueryParts());
-
-        List<Step> steps = Executor.requestPartsToSteps(
-                query.getQueryParts(), storages);
-
-        return new SimplePlan(steps);
-    }
-
-    @Override
-    public void updatePlan(Plan plan, BitSet currentResult) {
-
-    }
 }

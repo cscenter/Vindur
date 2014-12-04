@@ -106,7 +106,7 @@ public class Engine {
             if (!storage.validateRequestType(part.getValue())) {
                 throw new IllegalArgumentException("StorageBase "
                         + storage.getClass().getName() + " for attribute "
-                        + part.getKey() + " is uncompatible with query "
+                        + part.getKey() + " is incompatible with query "
                         + part.getValue().getClass().getName());
             }
         }

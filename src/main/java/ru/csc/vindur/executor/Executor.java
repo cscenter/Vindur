@@ -23,11 +23,6 @@ public interface Executor
 
     public BitSet execute(Query query, Engine engine);
 
-    public Plan generatePlan(
-            Query query,
-            @SuppressWarnings("rawtypes") ConcurrentMap<String, StorageBase> storages);
-
-    public void updatePlan(Plan plan, BitSet currentResult);
 
     @SuppressWarnings({ "rawtypes", "unchecked" })
     static List<Step> requestPartsToSteps(Map<String, Object> requestParts,

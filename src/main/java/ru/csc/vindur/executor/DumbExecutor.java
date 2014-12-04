@@ -19,7 +19,9 @@ public class DumbExecutor implements Executor
     @Override
     public BitSet execute(Query query, Engine engine)
     {
-        Plan plan = generatePlan(query, engine.getColumns());
+        List<Step> steps = Executor.requestPartsToSteps(query.getQueryParts(), engine.getColumns());
+
+        Plan plan = new SimplePlan(steps);
 
         Step step = plan.next();
         BitSet resultSet = null;
@@ -33,28 +35,10 @@ public class DumbExecutor implements Executor
             if (resultSet.cardinality() == 0) {
                 return null;
             }
-            updatePlan(plan, resultSet);
             step = plan.next();
-        }
-
-        if (resultSet == null) {
-            return null;
         }
 
         return resultSet;
     }
 
-    @Override
-    public Plan generatePlan(
-            Query query,
-            @SuppressWarnings("rawtypes") ConcurrentMap<String, StorageBase> storages) {
-        List<Step> steps = Executor.requestPartsToSteps(
-                query.getQueryParts(), storages);
-        return new SimplePlan(steps);
-    }
-
-    @Override
-    public void updatePlan(Plan plan, BitSet currentResult) {
-
-    }
 }

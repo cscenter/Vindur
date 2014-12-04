@@ -8,6 +8,7 @@ import java.util.concurrent.ConcurrentMap;
 import ru.csc.vindur.Engine;
 import ru.csc.vindur.Query;
 import ru.csc.vindur.bitset.BitSet;
+import ru.csc.vindur.bitset.ROBitSet;
 import ru.csc.vindur.storage.StorageBase;
 
 /**
@@ -16,54 +17,55 @@ import ru.csc.vindur.storage.StorageBase;
 public class SmartExecutor implements Executor
 {
     private int threshold = 5000;
-    private Engine engine;
 
-    public SmartExecutor(int threshold, Engine engine) {
+    public SmartExecutor(int threshold) {
         this.threshold = threshold;
-        this.engine = engine;
     }
 
     @Override
     public BitSet execute(Query query, Engine engine)
     {
-        return null;
-    }
+        Map<String, Object> queryParts = new TreeMap<>(
+                (a, b) -> Integer.compare(engine.getColumns().get(a).getComplexity()
+                        * engine.getColumns().get(a).documentsCount(), engine.getColumns().get(b)
+                        .getComplexity() * engine.getColumns().get(b).documentsCount()));
 
-    @Override
-    public Plan generatePlan(
-            Query query,
-            @SuppressWarnings("rawtypes") ConcurrentMap<String, StorageBase> storages) {
-        Map<String, Object> requestParts = new TreeMap<>(
-                (a, b) -> Integer.compare(storages.get(a).getComplexity()
-                        * storages.get(a).documentsCount(), storages.get(b)
-                        .getComplexity() * storages.get(b).documentsCount()));
-
-        requestParts.putAll(query.getQueryParts());
+        queryParts.putAll(query.getQueryParts());
 
         List<Step> steps = Executor
-                .requestPartsToSteps(requestParts, storages);
+                .requestPartsToSteps(queryParts, engine.getColumns());
 
-        return new SimplePlan(steps);
-    }
+        Plan plan = new SimplePlan(steps);
 
-    @Override
-    public void updatePlan(Plan plan, BitSet currentResult) {
-        if (currentResult.cardinality() < this.threshold) {
-            List<Step> tail = plan.cutTail();
-            for (int i = 0; i < tail.size(); ++i) {
-                plan.addStep(() -> {
-                    for (int docId : currentResult.toIntList()) {
-                        // todo: а откуда брать атрибут и значение?
-                        /*
-                         * if
-                         * (engine.getDocuments().get(docId).getValuesByAttribute
-                         * (attr).contains(val)) { currentResult.set(docId); }
-                         */
-
+        Step step = plan.next();
+        BitSet resultSet = null;
+        while (step != null) {
+            ROBitSet stepResult = step.execute();
+            if (resultSet == null) {
+                resultSet = stepResult.copy();
+            } else {
+                resultSet = resultSet.and(stepResult);
+                if (resultSet.cardinality() < this.threshold) {
+                    List<Step> tail = plan.cutTail();
+                    for (int i = 0; i < tail.size(); ++i) {
+                        final BitSet finalResultSet = resultSet;
+                        plan.addStep(() -> {
+                            for (int docId : finalResultSet.toIntList()) {
+                                // todo: а откуда брать атрибут и значение?
+                                //if (engine.getDocuments().get(docId).getValuesByAttribute(attr).contains(val)) { finalResultSet.set(docId); }
+                            }
+                            return finalResultSet;
+                        });
                     }
-                    return currentResult;
-                });
+                }
+
             }
+            if (resultSet.cardinality() == 0) {
+                return null;
+            }
+            step = plan.next();
         }
+
+        return resultSet;
     }
 }
