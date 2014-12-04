@@ -2,6 +2,7 @@ package ru.csc.vindur.executor;
 
 import java.util.Collections;
 import java.util.List;
+import java.util.Map;
 import java.util.concurrent.ConcurrentMap;
 
 import ru.csc.vindur.Engine;
@@ -19,23 +20,17 @@ public class DumbExecutor implements Executor
     @Override
     public BitSet execute(Query query, Engine engine)
     {
-        List<Step> steps = Executor.requestPartsToSteps(query.getQueryParts(), engine.getColumns());
-
-        Plan plan = new SimplePlan(steps);
-
-        Step step = plan.next();
         BitSet resultSet = null;
-        while (step != null) {
-            ROBitSet stepResult = step.execute();
+        for (Map.Entry<String, Object> entry : query.getQueryParts().entrySet()) {
+            ROBitSet stepResult = engine.getColumns().get(entry.getKey()).findSet(entry.getValue());
             if (resultSet == null) {
                 resultSet = stepResult.copy();
             } else {
                 resultSet = resultSet.and(stepResult);
+                if (resultSet.cardinality() == 0) {
+                    return null;
+                }
             }
-            if (resultSet.cardinality() == 0) {
-                return null;
-            }
-            step = plan.next();
         }
 
         return resultSet;

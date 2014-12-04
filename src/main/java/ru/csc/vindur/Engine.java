@@ -11,8 +11,6 @@ import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.ROBitSet;
 import ru.csc.vindur.document.Document;
 import ru.csc.vindur.executor.Executor;
-import ru.csc.vindur.executor.Plan;
-import ru.csc.vindur.executor.Step;
 import ru.csc.vindur.storage.StorageBase;
 import ru.csc.vindur.storage.StorageHelper;
 import ru.csc.vindur.storage.StorageType;

@@ -23,6 +23,7 @@ public class SmartExecutor implements Executor
     }
 
     @Override
+    @SuppressWarnings({ "rawtypes", "unchecked" })
     public BitSet execute(Query query, Engine engine)
     {
         Map<String, Object> queryParts = new TreeMap<>(
@@ -32,40 +33,27 @@ public class SmartExecutor implements Executor
 
         queryParts.putAll(query.getQueryParts());
 
-        List<Step> steps = Executor
-                .requestPartsToSteps(queryParts, engine.getColumns());
-
-        Plan plan = new SimplePlan(steps);
-
-        Step step = plan.next();
         BitSet resultSet = null;
-        while (step != null) {
-            ROBitSet stepResult = step.execute();
+        for (Map.Entry<String, Object> entry : queryParts.entrySet()) {
+            ROBitSet stepResult = engine.getColumns().get(entry.getKey()).findSet(entry.getValue());
             if (resultSet == null) {
                 resultSet = stepResult.copy();
             } else {
                 resultSet = resultSet.and(stepResult);
                 if (resultSet.cardinality() < this.threshold) {
-                    List<Step> tail = plan.cutTail();
-                    for (int i = 0; i < tail.size(); ++i) {
-                        final BitSet finalResultSet = resultSet;
-                        plan.addStep(() -> {
-                            for (int docId : finalResultSet.toIntList()) {
-                                // todo: а откуда брать атрибут и значение?
-                                //if (engine.getDocuments().get(docId).getValuesByAttribute(attr).contains(val)) { finalResultSet.set(docId); }
-                            }
-                            return finalResultSet;
-                        });
+                    for (int docId : resultSet.toIntList()) {
+                        if (engine.getDocuments().get(docId).getValuesByAttribute(entry.getKey()).contains(entry.getValue())) {
+                            resultSet.set(docId);
+                        }
                     }
                 }
-
+                if (resultSet.cardinality() == 0) {
+                    return null;
+                }
             }
-            if (resultSet.cardinality() == 0) {
-                return null;
-            }
-            step = plan.next();
         }
 
         return resultSet;
+
     }
 }

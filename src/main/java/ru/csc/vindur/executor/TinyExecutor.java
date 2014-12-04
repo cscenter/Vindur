@@ -17,6 +17,7 @@ import ru.csc.vindur.storage.StorageBase;
 public class TinyExecutor implements Executor
 {
     @Override
+    @SuppressWarnings({ "rawtypes", "unchecked" })
     public BitSet execute(Query query, Engine engine)
     {
         Map<String, Object> queryParts = new TreeMap<>(
@@ -25,23 +26,17 @@ public class TinyExecutor implements Executor
 
         queryParts.putAll(query.getQueryParts());
 
-        List<Step> steps = Executor.requestPartsToSteps(queryParts, engine.getColumns());
-
-        Plan plan = new SimplePlan(steps);
-
-        Step step = plan.next();
         BitSet resultSet = null;
-        while (step != null) {
-            ROBitSet stepResult = step.execute();
+        for (Map.Entry<String, Object> entry : queryParts.entrySet()) {
+            ROBitSet stepResult = engine.getColumns().get(entry.getKey()).findSet(entry.getValue());
             if (resultSet == null) {
                 resultSet = stepResult.copy();
             } else {
                 resultSet = resultSet.and(stepResult);
+                if (resultSet.cardinality() == 0) {
+                    return null;
+                }
             }
-            if (resultSet.cardinality() == 0) {
-                return null;
-            }
-            step = plan.next();
         }
 
         return resultSet;
