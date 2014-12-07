@@ -76,7 +76,7 @@ public class SimpleTest {
 
     }
 
-    private static Supplier<Query> querySupplier(final TestBuilder test,
+    static Supplier<Query> querySupplier(final TestBuilder test,
                                                  int partsInQuery) {
         return () -> {
             Query query = Query.build();
@@ -90,7 +90,7 @@ public class SimpleTest {
         };
     }
 
-    private static Supplier<Map<String, List<Object>>> docSupplier(
+    static Supplier<Map<String, List<Object>>> docSupplier(
             final TestBuilder test) {
         Random random = new Random();
         return () -> test
