@@ -7,7 +7,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.function.Supplier;
 
 import org.apache.lucene.analysis.Analyzer;
-import org.apache.lucene.analysis.standard.StandardAnalyzer;
+import org.apache.lucene.analysis.core.WhitespaceAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.document.IntField;
@@ -41,9 +41,11 @@ import com.google.common.base.Stopwatch;
 public class LuceneComparsion {
     private static final Logger LOG = LoggerFactory
             .getLogger(TestExecutor.class);
-    private static final int DOC_NUM = 100000;
+    private static final int DOC_NUM = 1000000;
     private static final int QUERY_NUM = 1000;
-    private static final int QUERY_PARTS = 5;
+    private static final int QUERY_PARTS = 10;
+    private static final int ATTR_COUNT = 20;
+    private static final int DIFF_VALS = 30;
 
     public void run()
     {
@@ -52,11 +54,11 @@ public class LuceneComparsion {
 
         LOG.info("Warm up Vindur");
         // Warm up
-        test = SimpleTestBuilder.build(20)
+        test = SimpleTestBuilder.build(ATTR_COUNT)
                 .setTypeFrequence(StorageType.STRING, 0.8)
                 .setTypeFrequence(StorageType.INTEGER, 0.2)
-                .setValuesCount(StorageType.STRING, 30)
-                .setValuesCount(StorageType.INTEGER, 30).init();
+                .setValuesCount(StorageType.STRING, DIFF_VALS)
+                .setValuesCount(StorageType.INTEGER, DIFF_VALS).init();
 
         te = new TestExecutor(new Engine.EngineBuilder(EWAHBitSet::new)
                 .setStorages(test.getTypes()).setExecutor(new DumbExecutor()));
@@ -65,11 +67,11 @@ public class LuceneComparsion {
         te.execute(DOC_NUM, QUERY_NUM);
 
         LOG.info("Complex/EWH test");
-        test = SimpleTestBuilder.build(20)
+        test = SimpleTestBuilder.build(ATTR_COUNT)
                 .setTypeFrequence(StorageType.STRING, 0.8)
                 .setTypeFrequence(StorageType.INTEGER, 0.2)
-                .setValuesCount(StorageType.STRING, 30)
-                .setValuesCount(StorageType.INTEGER, 30).init();
+                .setValuesCount(StorageType.STRING, DIFF_VALS)
+                .setValuesCount(StorageType.INTEGER, DIFF_VALS).init();
 
         te = new TestExecutor(new Engine.EngineBuilder(EWAHBitSet::new)
                 .setStorages(test.getTypes()).setExecutor(new DumbExecutor()));
@@ -77,15 +79,15 @@ public class LuceneComparsion {
         te.setQuerySupplier(SimpleTest.querySupplier(test, QUERY_PARTS));
         te.execute(DOC_NUM, QUERY_NUM);
 
-        test = SimpleTestBuilder.build(20)
+        test = SimpleTestBuilder.build(ATTR_COUNT)
                 .setTypeFrequence(StorageType.STRING, 0.8)
                 .setTypeFrequence(StorageType.INTEGER, 0.2)
-                .setValuesCount(StorageType.STRING, 30)
-                .setValuesCount(StorageType.INTEGER, 30).init();
+                .setValuesCount(StorageType.STRING, DIFF_VALS)
+                .setValuesCount(StorageType.INTEGER, DIFF_VALS).init();
 
         Stopwatch watch = Stopwatch.createUnstarted();
 
-        Analyzer analyzer = new StandardAnalyzer(Version.LATEST);
+        Analyzer analyzer = new WhitespaceAnalyzer(Version.LATEST);
         Directory directory = new RAMDirectory();
         IndexWriterConfig config = new IndexWriterConfig(Version.LATEST,
                 analyzer);
@@ -157,15 +159,19 @@ public class LuceneComparsion {
                 case INTEGER:
                 case RANGE_INTEGER:
                     for (Object val : generated.get(attr))
+                    {
                         doc.add(new IntField(attr, (int) val, Field.Store.YES));
+                    }
                     break;
                 case STRING:
                 case RANGE_STRING:
                 case LUCENE_STRING:
                 default:
                     for (Object val : generated.get(attr))
+                    {
                         doc.add(new StringField(attr, (String) val,
                                 Field.Store.YES));
+                    }
                     break;
                 }
             }
