@@ -5,10 +5,14 @@ import static org.junit.Assert.assertEquals;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.function.Supplier;
 
 import org.junit.Test;
 
+import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.EWAHBitSet;
+import ru.csc.vindur.bitset.ROBitSet;
+import ru.csc.vindur.storage.StorageBase;
 import ru.csc.vindur.storage.StorageLucene;
 import ru.csc.vindur.storage.StorageRangeBase;
 import ru.csc.vindur.storage.StorageType;
@@ -83,5 +87,37 @@ public class EngineTest {
         Query r8 = Query.build().query(STR_ATTR3,
                 StorageLucene.generateRequest("b*"));
         assertEquals(Arrays.asList(doc1, doc3, doc4), engine.executeQuery(r8));
+    }
+
+    @Test
+    public void userDefinedStorageTest() {
+        Supplier<BitSet> bitSetSupplier = EWAHBitSet::new;
+
+        // Permanently empty storage
+        StorageBase<String, Integer> storage = new StorageBase<String, Integer>(
+                String.class, Integer.class) {
+            @Override
+            public void add(int docId, String value) {
+            }
+
+            @Override
+            public ROBitSet findSet(Integer request) {
+                return bitSetSupplier.get();
+            }
+
+            @Override
+            public boolean checkValue(int docId, String value, Integer request) {
+                return false;
+            }
+
+        };
+        Engine engine = new Engine.EngineBuilder(bitSetSupplier)
+                .setUserStorage("test", storage).createEngine();
+
+        int docId = engine.createDocument();
+        engine.setAttributeByDocId(docId, "test", "sampleValue");
+
+        assertEquals(Arrays.asList(),
+                engine.executeQuery(Query.build().query("test", 12)));
     }
 }
