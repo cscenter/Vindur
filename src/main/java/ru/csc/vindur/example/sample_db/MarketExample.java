@@ -10,7 +10,6 @@ import java.util.List;
 import java.util.Map;
 
 import ru.csc.vindur.Engine;
-import ru.csc.vindur.EngineConfig;
 import ru.csc.vindur.Query;
 import ru.csc.vindur.bitset.EWAHBitSet;
 import ru.csc.vindur.executor.TinyExecutor;
@@ -31,9 +30,9 @@ public class MarketExample {
         storages.put("priceHigh", StorageType.RANGE_INTEGER);
         storages.put("description", StorageType.LUCENE_STRING);
 
-        EngineConfig config = new EngineConfig(storages, EWAHBitSet::new,
-                new TinyExecutor());
-        Engine engine = new Engine(config);
+        Engine engine = new Engine.EngineBuilder(EWAHBitSet::new)
+                .setStorages(storages).setExecutor(new TinyExecutor())
+                .createEngine();
 
         Map<Integer, Map<String, List<Object>>> docs = new HashMap<>();
 
@@ -71,8 +70,7 @@ public class MarketExample {
         }
 
         System.out.println("\n\n=================Memory cards");
-        Query memoryCards = Query.build().query("categoryName",
-                "Карты памяти");
+        Query memoryCards = Query.build().query("categoryName", "Карты памяти");
 
         List<Integer> mcResult = engine.executeQuery(memoryCards);
 
@@ -90,10 +88,8 @@ public class MarketExample {
                 .println("\n\n=================Everything from 5000 to 10000");
         Query cheap = Query
                 .build()
-                .query("priceHigh",
-                        StorageRangeBase.generateRequest(0, 10000))
-                .query(
-                        "priceLow",
+                .query("priceHigh", StorageRangeBase.generateRequest(0, 10000))
+                .query("priceLow",
                         StorageRangeBase.generateRequest(5000,
                                 Integer.MAX_VALUE));
 

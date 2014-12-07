@@ -2,14 +2,16 @@ package ru.csc.vindur;
 
 import java.util.Collections;
 import java.util.List;
+import java.util.Map;
 import java.util.Map.Entry;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
 import java.util.concurrent.atomic.AtomicInteger;
+import java.util.function.Supplier;
 
 import ru.csc.vindur.bitset.BitSet;
-import ru.csc.vindur.bitset.ROBitSet;
 import ru.csc.vindur.document.Document;
+import ru.csc.vindur.executor.DumbExecutor;
 import ru.csc.vindur.executor.Executor;
 import ru.csc.vindur.storage.StorageBase;
 import ru.csc.vindur.storage.StorageHelper;
@@ -20,22 +22,22 @@ import ru.csc.vindur.storage.StorageType;
  */
 @SuppressWarnings("rawtypes")
 public class Engine {
-    private static final StorageType DEFAULT_STORAGE_TYPE = StorageType.STRING;
     private final AtomicInteger documentsSequence = new AtomicInteger(0);
-    private final ConcurrentMap<String, StorageBase> columns = new ConcurrentHashMap<>();
     private final ConcurrentMap<Integer, Document> documents = new ConcurrentHashMap<>();
-    private final EngineConfig config;
+    private final ConcurrentMap<String, StorageBase> columns;
+    private final Executor executor;
 
-    public Engine(EngineConfig config) {
-        this.config = config;
+    private Engine(Executor executor,
+            ConcurrentMap<String, StorageBase> storages) {
+        this.executor = executor;
+        this.columns = storages;
     }
 
     public ConcurrentMap<Integer, Document> getDocuments() {
         return documents;
     }
 
-    public ConcurrentMap<String, StorageBase> getColumns()
-    {
+    public ConcurrentMap<String, StorageBase> getColumns() {
         return columns;
     }
 
@@ -72,20 +74,14 @@ public class Engine {
         StorageBase storage;
         storage = columns.get(attribute);
         if (storage == null) {
-            StorageType type = config.getValueType(attribute);
-            if (type == null)
-                type = DEFAULT_STORAGE_TYPE;
-            StorageBase newStorageBase = StorageHelper.getColumn(type,
-                    config.getBitSetSupplier());
-            columns.put(attribute, newStorageBase);
-            storage = newStorageBase;
+            throw new IllegalArgumentException(
+                    "There is no storage for attribute " + attribute);
         }
         return storage;
     }
 
     public List<Integer> executeQuery(Query query) {
         checkQuery(query);
-        Executor executor = this.config.getExecutor();
         BitSet resultSet = executor.execute(query, this);
         if (resultSet == null) {
             return Collections.emptyList();
@@ -106,6 +102,58 @@ public class Engine {
                         + storage.getClass().getName() + " for attribute "
                         + part.getKey() + " is incompatible with query "
                         + part.getValue().getClass().getName());
+            }
+        }
+    }
+
+    public static class EngineBuilder {
+        private final static Executor DEFAULT_EXECUTOR = new DumbExecutor();
+        private final ConcurrentMap<String, StorageBase> columns = new ConcurrentHashMap<>();
+        private Executor executor = null;
+        private boolean engineBuilded = false;
+        private final Supplier<BitSet> bitSetSupplier;
+
+        public EngineBuilder(Supplier<BitSet> bitSetSupplier) {
+            this.bitSetSupplier = bitSetSupplier;
+        }
+
+        public EngineBuilder setExecutor(Executor executor) {
+            checkForBuilded();
+            this.executor = executor;
+            return this;
+        }
+
+        public EngineBuilder setStorage(String atributeName,
+                StorageType storageType) {
+            checkForBuilded();
+            putStorageNotCheck(atributeName, storageType);
+            return this;
+        }
+
+        private void putStorageNotCheck(String atributeName,
+                StorageType storageType) {
+            columns.put(atributeName,
+                    StorageHelper.getColumn(storageType, bitSetSupplier));
+        }
+
+        public EngineBuilder setStorages(Map<String, StorageType> indexes) {
+            checkForBuilded();
+            for (Entry<String, StorageType> storage : indexes.entrySet()) {
+                putStorageNotCheck(storage.getKey(), storage.getValue());
+            }
+            return this;
+        }
+
+        public Engine createEngine() {
+            engineBuilded = true;
+            executor = executor == null ? DEFAULT_EXECUTOR : executor;
+            return new Engine(executor, columns);
+        }
+
+        private void checkForBuilded() {
+            if (engineBuilded) {
+                throw new IllegalStateException(
+                        "This builder was already used to create an engine");
             }
         }
     }

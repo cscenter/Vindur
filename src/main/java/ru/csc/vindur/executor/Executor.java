@@ -1,7 +1,5 @@
 package ru.csc.vindur.executor;
 
-
-
 import ru.csc.vindur.Engine;
 import ru.csc.vindur.Query;
 import ru.csc.vindur.bitset.BitSet;

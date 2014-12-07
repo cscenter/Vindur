@@ -8,8 +8,7 @@ import ru.csc.vindur.storage.StorageType;
 /**
  * @author: Phillip Delgyado
  */
-public class Query
-{
+public class Query {
     private final Map<String, Object> reqs = new HashMap<>(); // aspect->Query
 
     public static Query build() {
@@ -17,8 +16,7 @@ public class Query
     }
 
     /**
-     * Add attribute query. Use query type according to specified
-     * StorageType
+     * Add attribute query. Use query type according to specified StorageType
      * 
      * @see StorageType
      */
