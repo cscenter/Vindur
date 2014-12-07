@@ -8,7 +8,6 @@ import java.util.concurrent.ConcurrentMap;
 import java.util.concurrent.atomic.AtomicInteger;
 
 import ru.csc.vindur.bitset.BitSet;
-import ru.csc.vindur.bitset.ROBitSet;
 import ru.csc.vindur.document.Document;
 import ru.csc.vindur.executor.Executor;
 import ru.csc.vindur.storage.StorageBase;
@@ -34,8 +33,7 @@ public class Engine {
         return documents;
     }
 
-    public ConcurrentMap<String, StorageBase> getColumns()
-    {
+    public ConcurrentMap<String, StorageBase> getColumns() {
         return columns;
     }
 

@@ -77,7 +77,7 @@ public class SimpleTest {
     }
 
     private static Supplier<Query> querySupplier(final TestBuilder test,
-                                                 int partsInQuery) {
+            int partsInQuery) {
         return () -> {
             Query query = Query.build();
             for (String attr : RandomUtils.getRandomStrings(test.getStorages(),
@@ -99,8 +99,8 @@ public class SimpleTest {
                 .filter(attr -> random.nextDouble() < test.getProbability(attr))
                 // не каждый атрибут в этом документе
                 .collect(
-                        Collectors.toMap((String e) -> e, e -> Arrays.asList(RandomUtils
-                                .gaussianRandomElement(test.getValues(e), 0.5,
-                                        1.0 / 6))));
+                        Collectors.toMap((String e) -> e, e -> Arrays
+                                .asList(RandomUtils.gaussianRandomElement(
+                                        test.getValues(e), 0.5, 1.0 / 6))));
     }
 }

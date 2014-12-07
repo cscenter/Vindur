@@ -71,8 +71,7 @@ public class MarketExample {
         }
 
         System.out.println("\n\n=================Memory cards");
-        Query memoryCards = Query.build().query("categoryName",
-                "Карты памяти");
+        Query memoryCards = Query.build().query("categoryName", "Карты памяти");
 
         List<Integer> mcResult = engine.executeQuery(memoryCards);
 
@@ -90,10 +89,8 @@ public class MarketExample {
                 .println("\n\n=================Everything from 5000 to 10000");
         Query cheap = Query
                 .build()
-                .query("priceHigh",
-                        StorageRangeBase.generateRequest(0, 10000))
-                .query(
-                        "priceLow",
+                .query("priceHigh", StorageRangeBase.generateRequest(0, 10000))
+                .query("priceLow",
                         StorageRangeBase.generateRequest(5000,
                                 Integer.MAX_VALUE));
 
