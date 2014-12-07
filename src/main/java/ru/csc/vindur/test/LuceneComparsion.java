@@ -17,6 +17,7 @@ import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.queryparser.classic.MultiFieldQueryParser;
 import org.apache.lucene.queryparser.classic.ParseException;
+import org.apache.lucene.search.BooleanClause;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.store.Directory;
@@ -101,21 +102,23 @@ public class LuceneComparsion {
             LOG.info("Loading time: {} millis", watch.elapsed(TimeUnit.MILLISECONDS));
 
             LOG.info("Warm up lucene");
-            lucenePerformSearch(analyzer, test, directory, watch);
+            lucenePerformSearch(analyzer, test, directory, watch, QUERY_NUM);
 
             watch.reset();
             LOG.info("Search data in lucene");
-            long resultCount = lucenePerformSearch(analyzer, test, directory, watch);
+            long resultCount = lucenePerformSearch(analyzer, test, directory, watch, QUERY_NUM);
 
             LOG.info("Found {} results", resultCount);
             LOG.info("Search finished in {} millis", watch.elapsed(TimeUnit.MILLISECONDS));
+            LOG.info("Average request time {} millis", watch.elapsed(TimeUnit.MILLISECONDS) * 1.0 / QUERY_NUM);
             directory.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
-    private long lucenePerformSearch(Analyzer analyzer, TestBuilder test, Directory directory, Stopwatch watch)
+    private long lucenePerformSearch(Analyzer analyzer, TestBuilder test,
+                                     Directory directory, Stopwatch watch, int queries)
             throws IOException
     {
         watch.start();
@@ -125,7 +128,7 @@ public class LuceneComparsion {
 
         long resultCount = 0;
         Supplier<org.apache.lucene.search.Query> querySupplier = luceneQuerySupplier(analyzer, test, QUERY_PARTS);
-        for(int i = 0; i < QUERY_NUM; i++)
+        for(int i = 0; i < queries; i++)
         {
             org.apache.lucene.search.Query query = querySupplier.get();
 
@@ -175,6 +178,7 @@ public class LuceneComparsion {
         return () -> {
             String[] fields = new String[partsInQuery];
             String[] queries = new String[partsInQuery];
+            BooleanClause.Occur[] bOccur = new BooleanClause.Occur[partsInQuery];
 
             int i = 0;
             for (String attr : RandomUtils.getRandomStrings(test.getStorages(),
@@ -183,10 +187,11 @@ public class LuceneComparsion {
                         test.getValues(attr), 0.5, 1.0 / 6);
                 fields[i] = attr;
                 queries[i] = val.toString();
+                bOccur[i] = BooleanClause.Occur.MUST;
                 i++;
             }
             try {
-                return MultiFieldQueryParser.parse(queries, fields, analyzer);
+                return MultiFieldQueryParser.parse(queries, fields, bOccur, analyzer);
             } catch (ParseException e) {
                 LOG.error("Query parse exception {}", e.getLocalizedMessage());
                 return null;
