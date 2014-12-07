@@ -9,7 +9,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import ru.csc.vindur.Engine;
-import ru.csc.vindur.EngineConfig;
+import ru.csc.vindur.Engine.EngineBuilder;
 import ru.csc.vindur.Query;
 import ru.csc.vindur.test.utils.RandomUtils;
 
@@ -22,20 +22,20 @@ public class TestExecutor {
     private static final Logger LOG = LoggerFactory
             .getLogger(TestExecutor.class);
 
-    protected EngineConfig engineConfig;
+    protected EngineBuilder engineBuilder;
     private Supplier<Map<String, List<Object>>> documentSupplier;
     private Supplier<Query> querySupplier;
 
     protected Engine engine;
 
-    public TestExecutor(EngineConfig engineConfig) {
-        this.engineConfig = engineConfig;
+    public TestExecutor(EngineBuilder engineBuilder) {
+        this.engineBuilder = engineBuilder;
     }
 
     public void execute(int docNumber, int reqNumber) {
         RandomUtils.setSeed(0);
         Stopwatch timer = Stopwatch.createUnstarted();
-        this.engine = new Engine(engineConfig);
+        this.engine = engineBuilder.createEngine();
 
         // fill documents
         long attributesSetted = 0;

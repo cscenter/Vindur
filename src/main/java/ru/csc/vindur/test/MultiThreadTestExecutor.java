@@ -11,8 +11,7 @@ import java.util.concurrent.atomic.AtomicLong;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import ru.csc.vindur.Engine;
-import ru.csc.vindur.EngineConfig;
+import ru.csc.vindur.Engine.EngineBuilder;
 import ru.csc.vindur.test.utils.RandomUtils;
 
 import com.google.common.base.Stopwatch;
@@ -25,7 +24,7 @@ public class MultiThreadTestExecutor extends TestExecutor {
             .getLogger(MultiThreadTestExecutor.class);
     private int threadCount;
 
-    public MultiThreadTestExecutor(EngineConfig config, int threadCount) {
+    public MultiThreadTestExecutor(EngineBuilder config, int threadCount) {
         super(config);
         this.threadCount = threadCount;
     }
@@ -36,7 +35,7 @@ public class MultiThreadTestExecutor extends TestExecutor {
         Stopwatch timer = Stopwatch.createUnstarted();
         ExecutorService service = Executors.newFixedThreadPool(threadCount);
 
-        this.engine = new Engine(engineConfig);
+        this.engine = engineBuilder.createEngine();
 
         // fill documents
         long attributesSetted = 0;

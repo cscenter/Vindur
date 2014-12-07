@@ -10,7 +10,6 @@ import java.util.List;
 import java.util.Map;
 
 import ru.csc.vindur.Engine;
-import ru.csc.vindur.EngineConfig;
 import ru.csc.vindur.Query;
 import ru.csc.vindur.bitset.EWAHBitSet;
 import ru.csc.vindur.executor.TinyExecutor;
@@ -31,9 +30,9 @@ public class MarketExample {
         storages.put("priceHigh", StorageType.RANGE_INTEGER);
         storages.put("description", StorageType.LUCENE_STRING);
 
-        EngineConfig config = new EngineConfig(storages, EWAHBitSet::new,
-                new TinyExecutor());
-        Engine engine = new Engine(config);
+        Engine engine = new Engine.EngineBuilder(EWAHBitSet::new)
+                .setStorages(storages).setExecutor(new TinyExecutor())
+                .createEngine();
 
         Map<Integer, Map<String, List<Object>>> docs = new HashMap<>();
 

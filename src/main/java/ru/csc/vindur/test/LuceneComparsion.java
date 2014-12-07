@@ -28,7 +28,7 @@ import org.apache.lucene.util.Version;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import ru.csc.vindur.EngineConfig;
+import ru.csc.vindur.Engine;
 import ru.csc.vindur.Query;
 import ru.csc.vindur.bitset.EWAHBitSet;
 import ru.csc.vindur.executor.DumbExecutor;
@@ -58,8 +58,8 @@ public class LuceneComparsion {
                 .setTypeFrequence(StorageType.INTEGER, 0.2)
                 .setValuesCount(StorageType.STRING, 30)
                 .setValuesCount(StorageType.INTEGER, 30).init();
-        te = new TestExecutor(new EngineConfig(test.getTypes(),
-                EWAHBitSet::new, new DumbExecutor()));
+        te = new TestExecutor(new Engine.EngineBuilder(EWAHBitSet::new)
+                .setStorages(test.getTypes()).setExecutor(new DumbExecutor()));
         te.setDocumentSupplier(docSupplier(test));
         te.setQuerySupplier(querySupplier(test, QUERY_PARTS));
         te.execute(DOC_NUM, QUERY_NUM);
@@ -70,8 +70,8 @@ public class LuceneComparsion {
                 .setTypeFrequence(StorageType.INTEGER, 0.2)
                 .setValuesCount(StorageType.STRING, 30)
                 .setValuesCount(StorageType.INTEGER, 30).init();
-        te = new TestExecutor(new EngineConfig(test.getTypes(),
-                EWAHBitSet::new, new DumbExecutor()));
+        te = new TestExecutor(new Engine.EngineBuilder(EWAHBitSet::new)
+                .setStorages(test.getTypes()).setExecutor(new DumbExecutor()));
         te.setDocumentSupplier(docSupplier(test));
         te.setQuerySupplier(querySupplier(test, QUERY_PARTS));
         te.execute(DOC_NUM, QUERY_NUM);

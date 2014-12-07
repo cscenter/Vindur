@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import ru.csc.vindur.EngineConfig;
+import ru.csc.vindur.Engine;
 import ru.csc.vindur.Query;
 import ru.csc.vindur.bitset.EWAHBitSet;
 import ru.csc.vindur.executor.DumbExecutor;
@@ -36,8 +36,8 @@ public class SimpleTest {
                 .setTypeFrequence(StorageType.INTEGER, 0.2)
                 .setValuesCount(StorageType.STRING, 30)
                 .setValuesCount(StorageType.INTEGER, 30).init();
-        te = new TestExecutor(new EngineConfig(test.getTypes(),
-                EWAHBitSet::new, new DumbExecutor()));
+        te = new TestExecutor(new Engine.EngineBuilder(EWAHBitSet::new)
+                .setStorages(test.getTypes()).setExecutor(new DumbExecutor()));
         te.setDocumentSupplier(docSupplier(test));
         te.setQuerySupplier(querySupplier(test, 5));
         te.execute(100000, 100000);
@@ -46,8 +46,8 @@ public class SimpleTest {
         test = SimpleTestBuilder.build(1)
                 .setTypeFrequence(StorageType.STRING, 1.0)
                 .setValuesCount(StorageType.STRING, 30000).init();
-        te = new TestExecutor(new EngineConfig(test.getTypes(),
-                EWAHBitSet::new, new DumbExecutor()));
+        te = new TestExecutor(new Engine.EngineBuilder(EWAHBitSet::new)
+                .setStorages(test.getTypes()).setExecutor(new DumbExecutor()));
         te.setDocumentSupplier(docSupplier(test));
         te.setQuerySupplier(querySupplier(test, 1));
         te.execute(1000000, 100000);
@@ -56,8 +56,8 @@ public class SimpleTest {
         test = SimpleTestBuilder.build(1)
                 .setTypeFrequence(StorageType.INTEGER, 1.0)
                 .setValuesCount(StorageType.INTEGER, 3000).init();
-        te = new TestExecutor(new EngineConfig(test.getTypes(),
-                EWAHBitSet::new, new DumbExecutor()));
+        te = new TestExecutor(new Engine.EngineBuilder(EWAHBitSet::new)
+                .setStorages(test.getTypes()).setExecutor(new DumbExecutor()));
         te.setDocumentSupplier(docSupplier(test));
         te.setQuerySupplier(querySupplier(test, 1));
         te.execute(100000, 100000);
@@ -68,8 +68,8 @@ public class SimpleTest {
                 .setTypeFrequence(StorageType.INTEGER, 0.2)
                 .setValuesCount(StorageType.STRING, 30)
                 .setValuesCount(StorageType.INTEGER, 30).init();
-        te = new TestExecutor(new EngineConfig(test.getTypes(),
-                EWAHBitSet::new, new DumbExecutor()));
+        te = new TestExecutor(new Engine.EngineBuilder(EWAHBitSet::new)
+                .setStorages(test.getTypes()).setExecutor(new DumbExecutor()));
         te.setDocumentSupplier(docSupplier(test));
         te.setQuerySupplier(querySupplier(test, 5));
         te.execute(100000, 100000);

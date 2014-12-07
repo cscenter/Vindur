@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.function.Supplier;
 
-import ru.csc.vindur.EngineConfig;
+import ru.csc.vindur.Engine;
 import ru.csc.vindur.Query;
 import ru.csc.vindur.bitset.EWAHBitSet;
 import ru.csc.vindur.executor.DumbExecutor;
@@ -22,8 +22,8 @@ public class MobilePhonesExample {
         System.setProperty("org.slf4j.simpleLogger.log.ru.csc", "info");
 
         test = new MobilePhoneTestBuilder();
-        te = new TestExecutor(new EngineConfig(test.getTypes(),
-                EWAHBitSet::new, new DumbExecutor()));
+        te = new TestExecutor(new Engine.EngineBuilder(EWAHBitSet::new)
+                .setStorages(test.getTypes()).setExecutor(new DumbExecutor()));
         te.setDocumentSupplier(docSupplier(test));
         te.setQuerySupplier(requestSupplier(test, 5));
         te.execute(100000, 0);

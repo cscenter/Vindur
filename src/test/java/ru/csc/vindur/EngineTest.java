@@ -9,7 +9,6 @@ import java.util.Map;
 import org.junit.Test;
 
 import ru.csc.vindur.bitset.EWAHBitSet;
-import ru.csc.vindur.executor.DumbExecutor;
 import ru.csc.vindur.storage.StorageLucene;
 import ru.csc.vindur.storage.StorageRangeBase;
 import ru.csc.vindur.storage.StorageType;
@@ -27,9 +26,8 @@ public class EngineTest {
         indexes.put(INT_ATTR, StorageType.RANGE_INTEGER);
         indexes.put(STR_ATTR2, StorageType.RANGE_STRING);
         indexes.put(STR_ATTR3, StorageType.LUCENE_STRING);
-        EngineConfig config = new EngineConfig(indexes, EWAHBitSet::new,
-                new DumbExecutor());
-        Engine engine = new Engine(config);
+        Engine engine = new Engine.EngineBuilder(EWAHBitSet::new).setStorages(
+                indexes).createEngine();
 
         int doc1 = engine.createDocument();
         int doc2 = engine.createDocument();
