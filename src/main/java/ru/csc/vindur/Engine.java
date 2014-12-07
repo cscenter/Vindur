@@ -130,6 +130,21 @@ public class Engine {
             return this;
         }
 
+        /**
+         * Storage should return the same bit set as the other
+         * storages(Specified in the Builder constructor)
+         * 
+         * @param atributeName
+         * @param storage
+         * @return this
+         */
+        public EngineBuilder setUserStorage(String atributeName,
+                StorageBase storage) {
+            checkForBuilded();
+            columns.put(atributeName, storage);
+            return this;
+        }
+
         private void putStorageNotCheck(String atributeName,
                 StorageType storageType) {
             columns.put(atributeName,
