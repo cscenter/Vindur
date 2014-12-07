@@ -1,9 +1,17 @@
 package ru.csc.vindur.test;
 
-import com.google.common.base.Stopwatch;
+import java.io.IOException;
+import java.util.List;
+import java.util.Map;
+import java.util.concurrent.TimeUnit;
+import java.util.function.Supplier;
+
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
-import org.apache.lucene.document.*;
+import org.apache.lucene.document.Document;
+import org.apache.lucene.document.Field;
+import org.apache.lucene.document.IntField;
+import org.apache.lucene.document.StringField;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
@@ -16,26 +24,23 @@ import org.apache.lucene.store.RAMDirectory;
 import org.apache.lucene.util.Version;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import ru.csc.vindur.EngineConfig;
+
+import ru.csc.vindur.Engine;
 import ru.csc.vindur.bitset.EWAHBitSet;
 import ru.csc.vindur.executor.DumbExecutor;
 import ru.csc.vindur.storage.StorageType;
 import ru.csc.vindur.test.utils.RandomUtils;
 
-import java.io.IOException;
-import java.util.List;
-import java.util.Map;
-import java.util.concurrent.TimeUnit;
-import java.util.function.Supplier;
+import com.google.common.base.Stopwatch;
+
 
 /**
- * @author Andrey Kokorev
- *         Created on 07.12.2014.
+ * @author Andrey Kokorev Created on 07.12.2014.
  */
-public class LuceneComparsion
-{
-    private static final Logger LOG = LoggerFactory.getLogger(TestExecutor.class);
-    private static final int DOC_NUM   = 100000;
+public class LuceneComparsion {
+    private static final Logger LOG = LoggerFactory
+            .getLogger(TestExecutor.class);
+    private static final int DOC_NUM = 100000;
     private static final int QUERY_NUM = 1000;
     private static final int QUERY_PARTS = 5;
 
@@ -45,13 +50,15 @@ public class LuceneComparsion
         TestExecutor te;
 
         LOG.info("Warm up Vindur");
-        //Warm up
+        // Warm up
         test = SimpleTestBuilder.build(20)
                 .setTypeFrequence(StorageType.STRING, 0.8)
                 .setTypeFrequence(StorageType.INTEGER, 0.2)
                 .setValuesCount(StorageType.STRING, 30)
                 .setValuesCount(StorageType.INTEGER, 30).init();
-        te = new TestExecutor(new EngineConfig(test.getTypes(),EWAHBitSet::new, new DumbExecutor()));
+
+        te = new TestExecutor(new Engine.EngineBuilder(EWAHBitSet::new)
+                .setStorages(test.getTypes()).setExecutor(new DumbExecutor()));
         te.setDocumentSupplier(SimpleTest.docSupplier(test));
         te.setQuerySupplier(SimpleTest.querySupplier(test, QUERY_PARTS));
         te.execute(DOC_NUM, QUERY_NUM);
@@ -62,11 +69,12 @@ public class LuceneComparsion
                 .setTypeFrequence(StorageType.INTEGER, 0.2)
                 .setValuesCount(StorageType.STRING, 30)
                 .setValuesCount(StorageType.INTEGER, 30).init();
-        te = new TestExecutor(new EngineConfig(test.getTypes(), EWAHBitSet::new, new DumbExecutor()));
+
+        te = new TestExecutor(new Engine.EngineBuilder(EWAHBitSet::new)
+                .setStorages(test.getTypes()).setExecutor(new DumbExecutor()));
         te.setDocumentSupplier(SimpleTest.docSupplier(test));
         te.setQuerySupplier(SimpleTest.querySupplier(test, QUERY_PARTS));
         te.execute(DOC_NUM, QUERY_NUM);
-
 
         test = SimpleTestBuilder.build(20)
                 .setTypeFrequence(StorageType.STRING, 0.8)
@@ -78,7 +86,8 @@ public class LuceneComparsion
 
         Analyzer analyzer = new StandardAnalyzer(Version.LATEST);
         Directory directory = new RAMDirectory();
-        IndexWriterConfig config = new IndexWriterConfig(Version.LATEST, analyzer);
+        IndexWriterConfig config = new IndexWriterConfig(Version.LATEST,
+                analyzer);
         try {
             LOG.info("Loading data into lucene");
             IndexWriter writer = new IndexWriter(directory, config);
@@ -97,9 +106,10 @@ public class LuceneComparsion
             watch.reset();
             LOG.info("Search data in lucene");
             long resultCount = lucenePerformSearch(analyzer, test, directory, watch);
-            directory.close();
+
             LOG.info("Found {} results", resultCount);
             LOG.info("Search finished in {} millis", watch.elapsed(TimeUnit.MILLISECONDS));
+            directory.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -130,31 +140,30 @@ public class LuceneComparsion
         return resultCount;
     }
 
-    private void luceneLoadDocs(IndexWriter writer, TestBuilder test, int docNumber) throws IOException
+    private void luceneLoadDocs(IndexWriter writer, TestBuilder test,
+            int docNumber) throws IOException
     {
         Map<String, StorageType> types = test.getTypes();
         Supplier<Map<String, List<Object>>> supplier = SimpleTest.docSupplier(test);
 
-        for(int i = 0; i < docNumber; i++)
-        {
+        for (int i = 0; i < docNumber; i++) {
             Map<String, List<Object>> generated = supplier.get();
             Document doc = new Document();
-            for(String attr : generated.keySet())
-            {
-                switch (types.get(attr))
-                {
-                    case INTEGER:
-                    case RANGE_INTEGER:
-                        for(Object val : generated.get(attr))
-                            doc.add(new IntField(attr, (int)val, Field.Store.YES));
-                        break;
-                    case STRING:
-                    case RANGE_STRING:
-                    case LUCENE_STRING:
-                    default:
-                        for(Object val : generated.get(attr))
-                            doc.add(new StringField(attr, (String)val, Field.Store.YES));
-                        break;
+            for (String attr : generated.keySet()) {
+                switch (types.get(attr)) {
+                case INTEGER:
+                case RANGE_INTEGER:
+                    for (Object val : generated.get(attr))
+                        doc.add(new IntField(attr, (int) val, Field.Store.YES));
+                    break;
+                case STRING:
+                case RANGE_STRING:
+                case LUCENE_STRING:
+                default:
+                    for (Object val : generated.get(attr))
+                        doc.add(new StringField(attr, (String) val,
+                                Field.Store.YES));
+                    break;
                 }
             }
             writer.addDocument(doc);
@@ -162,16 +171,14 @@ public class LuceneComparsion
     }
 
     private Supplier<org.apache.lucene.search.Query> luceneQuerySupplier(
-            Analyzer analyzer, final TestBuilder test, int partsInQuery)
-    {
+            Analyzer analyzer, final TestBuilder test, int partsInQuery) {
         return () -> {
-            String[] fields  = new String[partsInQuery];
+            String[] fields = new String[partsInQuery];
             String[] queries = new String[partsInQuery];
 
             int i = 0;
             for (String attr : RandomUtils.getRandomStrings(test.getStorages(),
-                    partsInQuery))
-            {
+                    partsInQuery)) {
                 Object val = RandomUtils.gaussianRandomElement(
                         test.getValues(attr), 0.5, 1.0 / 6);
                 fields[i] = attr;
@@ -184,7 +191,8 @@ public class LuceneComparsion
                 LOG.error("Query parse exception {}", e.getLocalizedMessage());
                 return null;
             } catch (IllegalArgumentException e) {
-                LOG.error("Query illegal argument exception {}", e.getLocalizedMessage());
+                LOG.error("Query illegal argument exception {}",
+                        e.getLocalizedMessage());
                 return null;
             }
         };
