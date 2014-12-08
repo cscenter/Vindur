@@ -8,31 +8,34 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.function.Supplier;
 
 import ru.csc.vindur.Engine;
 import ru.csc.vindur.Query;
+import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.EWAHBitSet;
 import ru.csc.vindur.executor.TinyExecutor;
-import ru.csc.vindur.storage.StorageRangeBase;
-import ru.csc.vindur.storage.StorageType;
+import ru.csc.vindur.storage.*;
 
 /**
  * @author Andrey Kokorev Created on 28.11.2014.
  */
 public class MarketExample {
-    public static void main(String[] args) throws IOException {
-        Map<String, StorageType> storages = new HashMap<>();
-        storages.put("title", StorageType.STRING);
-        storages.put("brand", StorageType.STRING);
-        storages.put("model", StorageType.STRING);
-        storages.put("categoryName", StorageType.STRING);
-        storages.put("priceLow", StorageType.RANGE_INTEGER);
-        storages.put("priceHigh", StorageType.RANGE_INTEGER);
-        storages.put("description", StorageType.LUCENE_STRING);
+    public static void main(String[] args) throws IOException
+    {
+        Supplier<BitSet> bs =  EWAHBitSet::new;
 
-        Engine engine = new Engine.EngineBuilder(EWAHBitSet::new)
-                .setStorages(storages).setExecutor(new TinyExecutor())
-                .createEngine();
+        Engine engine =
+              Engine.build()
+                  .executor(new TinyExecutor())
+                  .storage("title", new StorageExact<>(bs, String.class))
+                  .storage("brand", new StorageExact<>(bs, String.class))
+                  .storage("model", new StorageExact<>(bs, String.class))
+                  .storage("categoryName", new StorageExact<>(bs, String.class))
+                  .storage("priceLow", new StorageBucketIntegers(bs))
+                  .storage("priceHigh", new StorageBucketIntegers(bs))
+                  .storage("description", new StorageLucene(bs))
+                .init();
 
         Map<Integer, Map<String, List<Object>>> docs = new HashMap<>();
 

@@ -22,11 +22,10 @@ public class MobilePhonesExample {
         System.setProperty("org.slf4j.simpleLogger.log.ru.csc", "info");
 
         test = new MobilePhoneTestBuilder();
-        te = new TestExecutor(new Engine.EngineBuilder(EWAHBitSet::new)
-                .setStorages(test.getTypes()).setExecutor(new DumbExecutor()));
-        te.setDocumentSupplier(docSupplier(test));
-        te.setQuerySupplier(requestSupplier(test, 5));
-        te.execute(100000, 0);
+//        te = new TestExecutor(test.buildEngine(EWAHBitSet::new, new DumbExecutor()));
+//        te.setDocumentSupplier(docSupplier(test));
+//        te.setQuerySupplier(requestSupplier(test, 5));
+//        te.execute(100000, 0);
 
     }
 

@@ -11,7 +11,7 @@ import java.util.concurrent.atomic.AtomicLong;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import ru.csc.vindur.Engine.EngineBuilder;
+import ru.csc.vindur.Engine;
 import ru.csc.vindur.test.utils.RandomUtils;
 
 import com.google.common.base.Stopwatch;
@@ -19,13 +19,13 @@ import com.google.common.base.Stopwatch;
 /**
  * Created by jetbrains on 07.11.2014.
  */
-public class MultiThreadTestExecutor extends TestExecutor {
-    private static final Logger LOG = LoggerFactory
-            .getLogger(MultiThreadTestExecutor.class);
+public class MultiThreadTestExecutor extends TestExecutor
+{
+    private static final Logger LOG = LoggerFactory.getLogger(MultiThreadTestExecutor.class);
     private int threadCount;
 
-    public MultiThreadTestExecutor(EngineBuilder config, int threadCount) {
-        super(config);
+    public MultiThreadTestExecutor(Engine engine, int threadCount) {
+        super(engine);
         this.threadCount = threadCount;
     }
 
@@ -34,8 +34,6 @@ public class MultiThreadTestExecutor extends TestExecutor {
         RandomUtils.setSeed(0);
         Stopwatch timer = Stopwatch.createUnstarted();
         ExecutorService service = Executors.newFixedThreadPool(threadCount);
-
-        this.engine = engineBuilder.createEngine();
 
         // fill documents
         long attributesSetted = 0;

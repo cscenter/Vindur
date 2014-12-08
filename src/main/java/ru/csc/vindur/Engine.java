@@ -1,6 +1,7 @@
 package ru.csc.vindur;
 
 import java.util.Collections;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
@@ -17,28 +18,26 @@ import ru.csc.vindur.storage.StorageBase;
 import ru.csc.vindur.storage.StorageHelper;
 import ru.csc.vindur.storage.StorageType;
 
-/**
- * Created by Pavel Chursin on 05.10.2014.
- */
-@SuppressWarnings("rawtypes")
-public class Engine {
+public class Engine
+{
     private final AtomicInteger documentsSequence = new AtomicInteger(0);
-    private final ConcurrentMap<Integer, Document> documents = new ConcurrentHashMap<>();
-    private final ConcurrentMap<String, StorageBase> columns;
-    private final Executor executor;
+    private final Map<Integer, Document> documents = new ConcurrentHashMap<>();
+    private Map<String, StorageBase> storages;
+    private Executor executor;
 
-    private Engine(Executor executor,
-            ConcurrentMap<String, StorageBase> storages) {
-        this.executor = executor;
-        this.columns = storages;
+    private Engine()
+    {
+        this.executor = new DumbExecutor();
+        this.storages = new HashMap<>();
     }
 
-    public ConcurrentMap<Integer, Document> getDocuments() {
-        return documents;
+    public Document getDocument(Integer id) {
+        return documents.get(id);
     }
 
-    public ConcurrentMap<String, StorageBase> getColumns() {
-        return columns;
+    //todo refactor to getStorage(key)
+    public Map<String, StorageBase> getStorages() {
+        return storages;
     }
 
     public int createDocument() {
@@ -64,6 +63,8 @@ public class Engine {
         storage.add(docId, value);
     }
 
+
+    //todo по умолчанию создавать ExactStorage(String)
     /**
      * А если storage нету, то создаем новый
      *
@@ -72,7 +73,7 @@ public class Engine {
      */
     private StorageBase findStorageBase(String attribute) {
         StorageBase storage;
-        storage = columns.get(attribute);
+        storage = storages.get(attribute);
         if (storage == null) {
             throw new IllegalArgumentException(
                     "There is no storage for attribute " + attribute);
@@ -90,9 +91,10 @@ public class Engine {
         }
     }
 
-    private void checkQuery(Query query) throws IllegalArgumentException {
+    private void checkQuery(Query query) throws IllegalArgumentException
+    {
         for (Entry<String, Object> part : query.getQueryParts().entrySet()) {
-            StorageBase storage = columns.get(part.getKey());
+            StorageBase storage = storages.get(part.getKey());
             if (storage == null) {
                 throw new IllegalArgumentException("StorageBase for attribute "
                         + part.getKey() + " is not created");
@@ -106,70 +108,38 @@ public class Engine {
         }
     }
 
-    public static class EngineBuilder {
-        private final static Executor DEFAULT_EXECUTOR = new DumbExecutor();
-        private final ConcurrentMap<String, StorageBase> columns = new ConcurrentHashMap<>();
-        private Executor executor = null;
-        private boolean engineBuilded = false;
-        private final Supplier<BitSet> bitSetSupplier;
+    public static Builder build()
+    {
+        return new Builder();
+    }
 
-        public EngineBuilder(Supplier<BitSet> bitSetSupplier) {
-            this.bitSetSupplier = bitSetSupplier;
+
+    public static class Builder
+    {
+        private Engine engine;
+
+        public Builder()
+        {
+            this.engine = new Engine();
         }
 
-        public EngineBuilder setExecutor(Executor executor) {
-            checkForBuilded();
-            this.executor = executor;
+        public Builder executor(Executor e)
+        {
+           engine.executor=e;
+           return this;
+        }
+
+        public Builder storage(String name, StorageBase s)
+        {
+            engine.storages.put(name,s);
+            //todo проверить одинаковость реализации BitSet!!!!
             return this;
         }
 
-        public EngineBuilder setStorage(String atributeName,
-                StorageType storageType) {
-            checkForBuilded();
-            putStorageNotCheck(atributeName, storageType);
-            return this;
+        public Engine init()
+        {
+            return engine;
         }
 
-        /**
-         * Storage should return the same bit set as the other
-         * storages(Specified in the Builder constructor)
-         * 
-         * @param atributeName
-         * @param storage
-         * @return this
-         */
-        public EngineBuilder setUserStorage(String atributeName,
-                StorageBase storage) {
-            checkForBuilded();
-            columns.put(atributeName, storage);
-            return this;
-        }
-
-        private void putStorageNotCheck(String atributeName,
-                StorageType storageType) {
-            columns.put(atributeName,
-                    StorageHelper.getColumn(storageType, bitSetSupplier));
-        }
-
-        public EngineBuilder setStorages(Map<String, StorageType> indexes) {
-            checkForBuilded();
-            for (Entry<String, StorageType> storage : indexes.entrySet()) {
-                putStorageNotCheck(storage.getKey(), storage.getValue());
-            }
-            return this;
-        }
-
-        public Engine createEngine() {
-            engineBuilded = true;
-            executor = executor == null ? DEFAULT_EXECUTOR : executor;
-            return new Engine(executor, columns);
-        }
-
-        private void checkForBuilded() {
-            if (engineBuilded) {
-                throw new IllegalStateException(
-                        "This builder was already used to create an engine");
-            }
-        }
     }
 }

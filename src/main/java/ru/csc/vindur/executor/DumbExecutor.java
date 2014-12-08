@@ -16,7 +16,7 @@ public class DumbExecutor implements Executor {
     public BitSet execute(Query query, Engine engine) {
         BitSet resultSet = null;
         for (Map.Entry<String, Object> entry : query.getQueryParts().entrySet()) {
-            ROBitSet stepResult = engine.getColumns().get(entry.getKey())
+            ROBitSet stepResult = engine.getStorages().get(entry.getKey())
                     .findSet(entry.getValue());
             if (resultSet == null) {
                 resultSet = stepResult.copy();

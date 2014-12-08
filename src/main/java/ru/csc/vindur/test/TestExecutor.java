@@ -9,7 +9,6 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import ru.csc.vindur.Engine;
-import ru.csc.vindur.Engine.EngineBuilder;
 import ru.csc.vindur.Query;
 import ru.csc.vindur.test.utils.RandomUtils;
 
@@ -18,24 +17,23 @@ import com.google.common.base.Stopwatch;
 /**
  * Created by dph on 06.11.2014.
  */
-public class TestExecutor {
+public class TestExecutor
+{
     private static final Logger LOG = LoggerFactory
             .getLogger(TestExecutor.class);
 
-    protected EngineBuilder engineBuilder;
     private Supplier<Map<String, List<Object>>> documentSupplier;
     private Supplier<Query> querySupplier;
 
     protected Engine engine;
 
-    public TestExecutor(EngineBuilder engineBuilder) {
-        this.engineBuilder = engineBuilder;
+    public TestExecutor(Engine engine) {
+        this.engine = engine;
     }
 
     public void execute(int docNumber, int reqNumber) {
         RandomUtils.setSeed(0);
         Stopwatch timer = Stopwatch.createUnstarted();
-        this.engine = engineBuilder.createEngine();
 
         // fill documents
         long attributesSetted = 0;

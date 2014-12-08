@@ -16,15 +16,15 @@ public class TinyExecutor implements Executor {
     @SuppressWarnings({ "unchecked" })
     public BitSet execute(Query query, Engine engine) {
         Map<String, Object> queryParts = new TreeMap<>(
-                (a, b) -> Integer.compare(engine.getColumns().get(a)
-                        .documentsCount(), engine.getColumns().get(b)
+                (a, b) -> Integer.compare(engine.getStorages().get(a)
+                        .documentsCount(), engine.getStorages().get(b)
                         .documentsCount()));
 
         queryParts.putAll(query.getQueryParts());
 
         BitSet resultSet = null;
         for (Map.Entry<String, Object> entry : queryParts.entrySet()) {
-            ROBitSet stepResult = engine.getColumns().get(entry.getKey())
+            ROBitSet stepResult = engine.getStorages().get(entry.getKey())
                     .findSet(entry.getValue());
             if (resultSet == null) {
                 resultSet = stepResult.copy();

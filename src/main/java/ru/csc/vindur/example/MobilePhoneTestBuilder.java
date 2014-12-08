@@ -14,11 +14,6 @@ import ru.csc.vindur.test.utils.RandomUtils;
  * Created by Pavel Chursin on 10.11.2014.
  */
 public class MobilePhoneTestBuilder {
-    /*
-     * private AttributeDescriptor[] attributeDescriptors = new
-     * AttributeDescriptor[]{ cost, manufacturer, model, isSmartphone,
-     * screenSize, color, operationSystem, ram };
-     */
 
     private static Map<String, StorageType> storageTypes;
     private static int lowPriceBound = 3000, highPriceBound = 30000;

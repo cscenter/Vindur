@@ -2,7 +2,13 @@ package ru.csc.vindur.test;
 
 import java.util.List;
 import java.util.Map;
+import java.util.function.Supplier;
 
+import ru.csc.vindur.Engine;
+import ru.csc.vindur.bitset.BitSet;
+import ru.csc.vindur.executor.DumbExecutor;
+import ru.csc.vindur.executor.Executor;
+import ru.csc.vindur.storage.StorageHelper;
 import ru.csc.vindur.storage.StorageType;
 
 /**
@@ -36,4 +42,14 @@ public interface TestBuilder {
      * @return Probability of existing @key storage in document
      */
     Double getProbability(String key);
+
+    default Engine buildEngine(Supplier<BitSet> bs, Executor executor)
+    {
+      Engine.Builder b = Engine.build().executor(executor);
+      for (String s : getStorages())
+      {
+          b.storage(s, StorageHelper.getColumn(getTypes().get(s),bs));
+      }
+      return b.init();
+    }
 }

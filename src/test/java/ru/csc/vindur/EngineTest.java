@@ -12,10 +12,7 @@ import org.junit.Test;
 import ru.csc.vindur.bitset.BitSet;
 import ru.csc.vindur.bitset.EWAHBitSet;
 import ru.csc.vindur.bitset.ROBitSet;
-import ru.csc.vindur.storage.StorageBase;
-import ru.csc.vindur.storage.StorageLucene;
-import ru.csc.vindur.storage.StorageRangeBase;
-import ru.csc.vindur.storage.StorageType;
+import ru.csc.vindur.storage.*;
 
 public class EngineTest {
     private static final String INT_ATTR = "Int";
@@ -30,8 +27,11 @@ public class EngineTest {
         indexes.put(INT_ATTR, StorageType.RANGE_INTEGER);
         indexes.put(STR_ATTR2, StorageType.RANGE_STRING);
         indexes.put(STR_ATTR3, StorageType.LUCENE_STRING);
-        Engine engine = new Engine.EngineBuilder(EWAHBitSet::new).setStorages(
-                indexes).createEngine();
+
+        Engine engine = Engine.build().storage(STR_ATTR,
+                new StorageExact<>(EWAHBitSet::new,String.class))
+                //todo остальные стораджи
+                .init();
 
         int doc1 = engine.createDocument();
         int doc2 = engine.createDocument();
@@ -111,8 +111,8 @@ public class EngineTest {
             }
 
         };
-        Engine engine = new Engine.EngineBuilder(bitSetSupplier)
-                .setUserStorage("test", storage).createEngine();
+        Engine engine =
+            Engine.build().storage("test", storage).init();
 
         int docId = engine.createDocument();
         engine.setAttributeByDocId(docId, "test", "sampleValue");
