@@ -2,7 +2,7 @@ package ru.csc.vindur.storage;
 
 import java.util.function.Supplier;
 
-import ru.csc.vindur.bitset.BitSet;
+import ru.csc.vindur.bitset.BitArray;
 
 /**
  * @author Andrey Kokorev Created on 15.10.2014.
@@ -10,24 +10,23 @@ import ru.csc.vindur.bitset.BitSet;
 public class StorageHelper {
 
     @SuppressWarnings("rawtypes")
-    public static StorageBase getColumn(StorageType valueType,
-            Supplier<BitSet> bitSetSupplier) {
-        StorageBase storage;
+    public static Storage getColumn(StorageType valueType) {
+        Storage storage;
         switch (valueType) {
         case INTEGER:
-            storage = new StorageExact<Integer>(bitSetSupplier, Integer.class);
+            storage = new StorageExact<>(Integer.class);
             break;
         case STRING:
-            storage = new StorageExact<String>(bitSetSupplier, String.class);
+            storage = new StorageExact<>(String.class);
             break;
         case RANGE_INTEGER:
-            storage = new StorageBucketIntegers(bitSetSupplier);
+            storage = new StorageBucketIntegers();
             break;
         case RANGE_STRING:
-            storage = new StorageRange<String>(bitSetSupplier, String.class);
+            storage = new StorageRange<>( String.class);
             break;
         case LUCENE_STRING:
-            storage = new StorageLucene(bitSetSupplier);
+            storage = new StorageLucene();
             break;
         default:
             throw new RuntimeException("Missing case");

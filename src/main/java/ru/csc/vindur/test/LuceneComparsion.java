@@ -26,11 +26,12 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import ru.csc.vindur.Query;
-import ru.csc.vindur.bitset.EWAHBitSet;
+import ru.csc.vindur.bitset.EWAHBitArray;
 import ru.csc.vindur.executor.DumbExecutor;
 import ru.csc.vindur.storage.StorageType;
 
 import com.google.common.base.Stopwatch;
+import ru.csc.vindur.test.utils.RandomUtils;
 
 
 /**
@@ -39,7 +40,7 @@ import com.google.common.base.Stopwatch;
 public class LuceneComparsion {
     private static final Logger LOG = LoggerFactory
             .getLogger(TestExecutor.class);
-    private static final int DOC_NUM = 1000000;
+    private static final int DOC_NUM = 500000;
     private static final int QUERY_NUM = 10000;
     private static final int QUERY_PARTS = 4;
 
@@ -59,24 +60,27 @@ public class LuceneComparsion {
                 .storage("S7", StorageType.STRING, 50, 1.0)
                 .storage("S8", StorageType.STRING, 50, 1.0)
          .init();
-        te = new TestExecutor(test.buildEngine(EWAHBitSet::new, new DumbExecutor()));
+        te = new TestExecutor(test.buildEngine(new DumbExecutor()));
         te.setDocumentSupplier(SimpleTest.docSupplier(test));
         te.setQuerySupplier(SimpleTest.querySupplier(test, QUERY_PARTS));
         te.execute(DOC_NUM, QUERY_NUM);
 
         LOG.info("Complex/EWH test");
         test = TunableTestBuilder.build()
-                .storage("S1", StorageType.STRING, 30, 1.0)
-                .storage("S2", StorageType.STRING, 50, 1.0)
-                .storage("S3", StorageType.STRING, 50, 1.0)
-                .storage("S4", StorageType.STRING, 50, 1.0)
-                .storage("S5", StorageType.STRING, 50, 1.0)
-                .storage("S6", StorageType.STRING, 50, 1.0)
-                .storage("S7", StorageType.STRING, 50, 1.0)
-                .storage("S8", StorageType.STRING, 50, 1.0)
+                .storage("S1", StorageType.STRING, 2000, 1.0) //category
+                .storage("S2", StorageType.STRING, DOC_NUM, 1.0) //id
+                .storage("S3", StorageType.STRING, 2, 1.0) //sex
+                .storage("S4", StorageType.STRING, 10, 1.0) //age
+                .storage("S5", StorageType.STRING, 10000, 0.5) //producer
+                .storage("S6", StorageType.STRING, 100, 0.2) //?
+                .storage("S7", StorageType.STRING, 1000, 0.01)
+                .storage("S8", StorageType.STRING, 1000, 0.001)
+//                .storage("I1", StorageType.RANGE_INTEGER, 10000, 1.0) //price
+//                .storage("I2", StorageType.RANGE_INTEGER, 10000, 0.6) //weight
+//                .storage("L1", StorageType.LUCENE_STRING, DOC_NUM, 0.8) //desc
                 .init();
 
-        te = new TestExecutor(test.buildEngine(EWAHBitSet::new, new DumbExecutor()));
+        te = new TestExecutor(test.buildEngine(new DumbExecutor()));
         te.setDocumentSupplier(SimpleTest.docSupplier(test));
         te.setQuerySupplier(SimpleTest.querySupplier(test, QUERY_PARTS));
         te.execute(DOC_NUM, QUERY_NUM);
@@ -113,6 +117,31 @@ public class LuceneComparsion {
             e.printStackTrace();
         }
     }
+
+
+//todo сделать нормальные query
+    static Supplier<Query> querySupplier(final TestBuilder test,
+                                         int partsInQuery) {
+        return () -> {
+            Query query = Query.build();
+            for (String attr : RandomUtils.getRandomStrings(test.getStorages(),
+                    partsInQuery)) {
+                Object val = RandomUtils.gaussianRandomElement(
+                        test.getValues(attr), 0.5, 1.0 / 6);
+                query.query(attr, val);
+            }
+            return query;
+        };
+    }
+
+
+
+
+
+
+
+
+
 
     private long lucenePerformSearch(Analyzer analyzer, TestBuilder test,
                                      Directory directory, Stopwatch watch, int queries)
@@ -179,6 +208,7 @@ public class LuceneComparsion {
     }
 
 
+    //todo научиться нормально конвертировать!
     private org.apache.lucene.search.Query query(Query vq, Analyzer analyzer)
     {
         int partsInQuery = vq.getQueryParts().size();

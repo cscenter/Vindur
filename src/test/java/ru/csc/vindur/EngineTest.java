@@ -9,9 +9,9 @@ import java.util.function.Supplier;
 
 import org.junit.Test;
 
-import ru.csc.vindur.bitset.BitSet;
-import ru.csc.vindur.bitset.EWAHBitSet;
-import ru.csc.vindur.bitset.ROBitSet;
+import ru.csc.vindur.bitset.BitArray;
+import ru.csc.vindur.bitset.EWAHBitArray;
+import ru.csc.vindur.bitset.ROBitArray;
 import ru.csc.vindur.storage.*;
 
 public class EngineTest {
@@ -29,10 +29,10 @@ public class EngineTest {
         indexes.put(STR_ATTR3, StorageType.LUCENE_STRING);
 
         Engine engine = Engine.build()
-         .storage(STR_ATTR,new StorageExact<>(EWAHBitSet::new,String.class))
-         .storage(INT_ATTR,new StorageBucketIntegers(EWAHBitSet::new))
-         .storage(STR_ATTR2,new StorageRange<>(EWAHBitSet::new,String.class))
-         .storage(STR_ATTR3, new StorageLucene(EWAHBitSet::new))
+         .storage(STR_ATTR, new StorageExact<>(String.class))
+         .storage(INT_ATTR,new StorageBucketIntegers())
+         .storage(STR_ATTR2,new StorageRange<>(String.class))
+         .storage(STR_ATTR3, new StorageLucene())
          .init();
 
         int doc1 = engine.createDocument();
@@ -93,17 +93,17 @@ public class EngineTest {
 
     @Test
     public void userDefinedStorageTest() {
-        Supplier<BitSet> bitSetSupplier = EWAHBitSet::new;
+        Supplier<BitArray> bitSetSupplier = EWAHBitArray::new;
 
         // Permanently empty storage
-        StorageBase<String, Integer> storage = new StorageBase<String, Integer>(
+        Storage<String, Integer> storage = new Storage<String, Integer>(
                 String.class, Integer.class) {
             @Override
             public void add(int docId, String value) {
             }
 
             @Override
-            public ROBitSet findSet(Integer request) {
+            public ROBitArray findSet(Integer request) {
                 return bitSetSupplier.get();
             }
 

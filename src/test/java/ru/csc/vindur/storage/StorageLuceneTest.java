@@ -8,15 +8,15 @@ import org.apache.lucene.queryparser.classic.QueryParser;
 import org.junit.Before;
 import org.junit.Test;
 
-import ru.csc.vindur.bitset.BitSet;
-import ru.csc.vindur.bitset.EWAHBitSet;
+import ru.csc.vindur.bitset.BitArray;
+import ru.csc.vindur.bitset.EWAHBitArray;
 
 public class StorageLuceneTest {
     private StorageLucene storageLucene;
 
     @Before
     public void createStorage() {
-        storageLucene = new StorageLucene(EWAHBitSet::new);
+        storageLucene = new StorageLucene();
     }
 
     @Test
@@ -25,10 +25,10 @@ public class StorageLuceneTest {
         storageLucene.add(1, ("value1"));
         storageLucene.add(2, ("value0 value1"));
 
-        BitSet expected = new EWAHBitSet().set(0).set(2);
+        BitArray expected = new EWAHBitArray().set(0).set(2);
         assertEquals(expected, storageLucene.findSet(new QueryParser("text",
                 new WhitespaceAnalyzer()).parse("value0")));
-        expected = new EWAHBitSet().set(1).set(2);
+        expected = new EWAHBitArray().set(1).set(2);
         assertEquals(expected, storageLucene.findSet(new QueryParser("text",
                 new WhitespaceAnalyzer()).parse("value1")));
     }
@@ -37,7 +37,7 @@ public class StorageLuceneTest {
     public void wildcardSearchTest() throws ParseException {
         storageLucene.add(0, ("value0"));
 
-        BitSet expected = new EWAHBitSet().set(0);
+        BitArray expected = new EWAHBitArray().set(0);
         assertEquals(expected, storageLucene.findSet(new QueryParser("text",
                 new WhitespaceAnalyzer()).parse("v?lu*")));
     }
@@ -46,7 +46,7 @@ public class StorageLuceneTest {
     public void regExpSearchTest() throws ParseException {
         storageLucene.add(0, ("value0"));
 
-        BitSet expected = new EWAHBitSet().set(0);
+        BitArray expected = new EWAHBitArray().set(0);
         assertEquals(expected, storageLucene.findSet(new QueryParser("text",
                 new WhitespaceAnalyzer()).parse("/[fvs]alue./")));
     }

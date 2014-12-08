@@ -12,7 +12,7 @@ import org.junit.Test;
 
 public class ChunkBitSetTest {
 
-    private static final Supplier<BitSet> supplier = ChunkBitSet::new;
+    private static final Supplier<BitArray> supplier = ChunkBitArray::new;
 
     @Test
     public void emptyBitSetTest() {
@@ -22,7 +22,7 @@ public class ChunkBitSetTest {
 
     @Test
     public void randomPointsTest() {
-        BitSet bitSet = supplier.get();
+        BitArray bitSet = supplier.get();
 
         Random random = new Random(8);
         SortedSet<Integer> expected = new TreeSet<>();
@@ -37,10 +37,10 @@ public class ChunkBitSetTest {
 
     @Test
     public void simpleOperationsTest() {
-        BitSet bitSet = supplier.get().set(0).set(7).set(Integer.MAX_VALUE);
-        BitSet secondBitSet = supplier.get().set(0).set(5)
+        BitArray bitSet = supplier.get().set(0).set(7).set(Integer.MAX_VALUE);
+        BitArray secondBitSet = supplier.get().set(0).set(5)
                 .set(Integer.MAX_VALUE);
-        BitSet result;
+        BitArray result;
         result = bitSet.copy().and(secondBitSet);
         assertEquals(Arrays.asList(0, Integer.MAX_VALUE), result.toIntList());
         result = bitSet.copy().or(secondBitSet);

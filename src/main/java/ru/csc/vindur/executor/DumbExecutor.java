@@ -4,8 +4,8 @@ import java.util.Map;
 
 import ru.csc.vindur.Engine;
 import ru.csc.vindur.Query;
-import ru.csc.vindur.bitset.BitSet;
-import ru.csc.vindur.bitset.ROBitSet;
+import ru.csc.vindur.bitset.BitArray;
+import ru.csc.vindur.bitset.ROBitArray;
 
 /**
  * Created by Edgar_Work on 11.11.2014.
@@ -13,10 +13,10 @@ import ru.csc.vindur.bitset.ROBitSet;
 public class DumbExecutor implements Executor {
     @SuppressWarnings("unchecked")
     @Override
-    public BitSet execute(Query query, Engine engine) {
-        BitSet resultSet = null;
+    public BitArray execute(Query query, Engine engine) {
+        BitArray resultSet = null;
         for (Map.Entry<String, Object> entry : query.getQueryParts().entrySet()) {
-            ROBitSet stepResult = engine.getStorages().get(entry.getKey())
+            ROBitArray stepResult = engine.getStorages().get(entry.getKey())
                     .findSet(entry.getValue());
             if (resultSet == null) {
                 resultSet = stepResult.copy();

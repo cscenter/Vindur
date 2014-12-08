@@ -4,10 +4,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.function.Supplier;
 
-import ru.csc.vindur.Engine;
 import ru.csc.vindur.Query;
-import ru.csc.vindur.bitset.EWAHBitSet;
-import ru.csc.vindur.executor.DumbExecutor;
 import ru.csc.vindur.test.TestExecutor;
 
 /**

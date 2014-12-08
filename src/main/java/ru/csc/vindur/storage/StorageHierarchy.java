@@ -7,32 +7,32 @@ import java.util.List;
 import java.util.Map;
 import java.util.function.Supplier;
 
-import ru.csc.vindur.bitset.BitSet;
-import ru.csc.vindur.bitset.ROBitSet;
+import ru.csc.vindur.bitset.BitArray;
+import ru.csc.vindur.bitset.ROBitArray;
 
 /**
  * @author Andrey Kokorev Created on 19.11.2014.
  */
-public class StorageHierarchy extends StorageBase<String, String> {
+public class StorageHierarchy extends Storage<String, String>
+{
     public final String ROOT = null;
-    private Supplier<BitSet> bitSetSupplier;
     private Map<String, BitSetNode> storage; // value -> {BitSet of subtree,
                                              // BitSet of node}
     private Hierarchy hierarchy;
 
-    public StorageHierarchy(Supplier<BitSet> bitSetSupplier) {
+    public StorageHierarchy()
+    {
         super(String.class, String.class);
-        this.bitSetSupplier = bitSetSupplier;
         this.storage = new HashMap<>();
         this.hierarchy = new Hierarchy(ROOT);
         storage.put(ROOT,
-                new BitSetNode(bitSetSupplier.get(), bitSetSupplier.get()));
+                new BitSetNode(BitArray.create(), BitArray.create()));
     }
 
-    public ROBitSet findChildTree(String root) {
+    public ROBitArray findChildTree(String root) {
         BitSetNode result = storage.get(root);
         if (result == null)
-            return bitSetSupplier.get();
+            return BitArray.create();
         return result.getSubTree().asROBitSet();
     }
 
@@ -57,7 +57,7 @@ public class StorageHierarchy extends StorageBase<String, String> {
                     "'null' can't be value of 'node' argument");
         hierarchy.addChild(parent, node);
         storage.put(node,
-                new BitSetNode(bitSetSupplier.get(), bitSetSupplier.get()));
+                new BitSetNode(BitArray.create(), BitArray.create()));
     }
 
     @Override
@@ -124,18 +124,18 @@ public class StorageHierarchy extends StorageBase<String, String> {
     }
 
     private class BitSetNode {
-        private BitSet node, subTree;
+        private BitArray node, subTree;
 
-        BitSetNode(BitSet node, BitSet subTree) {
+        BitSetNode(BitArray node, BitArray subTree) {
             this.node = node;
             this.subTree = subTree;
         }
 
-        BitSet getNode() {
+        BitArray getNode() {
             return node;
         }
 
-        BitSet getSubTree() {
+        BitArray getSubTree() {
             return subTree;
         }
 
@@ -145,10 +145,10 @@ public class StorageHierarchy extends StorageBase<String, String> {
     }
 
     @Override
-    public ROBitSet findSet(String request) {
+    public ROBitArray findSet(String request) {
         BitSetNode result = storage.get(request);
         if (result == null)
-            return bitSetSupplier.get();
+            return BitArray.create();
         return result.getNode().asROBitSet();
     }
 

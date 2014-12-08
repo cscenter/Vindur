@@ -10,30 +10,29 @@ import java.util.function.Supplier;
 import org.junit.Before;
 import org.junit.Test;
 
-import ru.csc.vindur.bitset.BitSet;
-import ru.csc.vindur.bitset.EWAHBitSet;
+import ru.csc.vindur.bitset.BitArray;
+import ru.csc.vindur.bitset.EWAHBitArray;
 
 public class IntegerRangeStoragesTest {
     private static final int VALUES_COUNT = 1000;
-    private Supplier<BitSet> bitSetSupplier;
-    private List<StorageBase<Integer, RangeRequest>> storages;
+    private Supplier<BitArray> bitSetSupplier;
+    private List<Storage<Integer, RangeRequest>> storages;
 
     @Before
     public void createStorage() {
         storages = new ArrayList<>();
-        bitSetSupplier = EWAHBitSet::new;
-        storages.add(new StorageBucketIntegers(bitSetSupplier));
-        storages.add(new StorageRange<Integer>(bitSetSupplier, Integer.class));
+        storages.add(new StorageBucketIntegers());
+        storages.add(new StorageRange<Integer>(Integer.class));
     }
 
     @Test
     public void rangeRequestTest() {
-        for (StorageBase<Integer, RangeRequest> storage : storages) {
+        for (Storage<Integer, RangeRequest> storage : storages) {
             rangeRequestTest(storage);
         }
     }
 
-    private void rangeRequestTest(StorageBase<Integer, RangeRequest> storage) {
+    private void rangeRequestTest(Storage<Integer, RangeRequest> storage) {
         fillUpStorage(storage);
 
         Random random = new Random();
@@ -42,7 +41,7 @@ public class IntegerRangeStoragesTest {
             int from = random.nextInt(2 * VALUES_COUNT) - VALUES_COUNT / 2;
             int to = random.nextInt(2 * VALUES_COUNT) - VALUES_COUNT / 2;
 
-            BitSet expected = bitSetSupplier.get();
+            BitArray expected = bitSetSupplier.get();
             for (int j = Math.max(0, from); j <= to && j < VALUES_COUNT; j++) {
                 expected = expected.set(j);
             }
@@ -50,7 +49,7 @@ public class IntegerRangeStoragesTest {
         }
     }
 
-    private void fillUpStorage(StorageBase<Integer, RangeRequest> storage) {
+    private void fillUpStorage(Storage<Integer, RangeRequest> storage) {
         for (int i = 0; i < VALUES_COUNT; i++) {
             storage.add(i, ((i)));
         }
@@ -58,12 +57,12 @@ public class IntegerRangeStoragesTest {
 
     @Test
     public void emptyResultTest() throws Exception {
-        for (StorageBase<Integer, RangeRequest> storage : storages) {
+        for (Storage<Integer, RangeRequest> storage : storages) {
             emptyResultTest(storage);
         }
     }
 
-    public void emptyResultTest(StorageBase<Integer, RangeRequest> storage)
+    public void emptyResultTest(Storage<Integer, RangeRequest> storage)
             throws Exception {
         fillUpStorage(storage);
 
@@ -73,7 +72,7 @@ public class IntegerRangeStoragesTest {
     }
 
     private void checkForEmptyResult(
-            StorageBase<Integer, RangeRequest> storage, int from, int to) {
+            Storage<Integer, RangeRequest> storage, int from, int to) {
         assertEquals(0, storage.findSet(toRequest(from, to)).cardinality());
     }
 
@@ -83,7 +82,7 @@ public class IntegerRangeStoragesTest {
 
     @Test
     public void checkValueTest() {
-        for (StorageBase<Integer, RangeRequest> storage : storages) {
+        for (Storage<Integer, RangeRequest> storage : storages) {
             storage.add(0, 10);
             assertEquals(false, storage.checkValue(0, 10, toRequest(9, 9)));
             assertEquals(false, storage.checkValue(0, 10, toRequest(-123, 9)));

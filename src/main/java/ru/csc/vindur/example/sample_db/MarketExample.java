@@ -12,8 +12,8 @@ import java.util.function.Supplier;
 
 import ru.csc.vindur.Engine;
 import ru.csc.vindur.Query;
-import ru.csc.vindur.bitset.BitSet;
-import ru.csc.vindur.bitset.EWAHBitSet;
+import ru.csc.vindur.bitset.BitArray;
+import ru.csc.vindur.bitset.EWAHBitArray;
 import ru.csc.vindur.executor.TinyExecutor;
 import ru.csc.vindur.storage.*;
 
@@ -23,18 +23,18 @@ import ru.csc.vindur.storage.*;
 public class MarketExample {
     public static void main(String[] args) throws IOException
     {
-        Supplier<BitSet> bs =  EWAHBitSet::new;
+        Supplier<BitArray> bs =  EWAHBitArray::new;
 
         Engine engine =
               Engine.build()
                   .executor(new TinyExecutor())
-                  .storage("title", new StorageExact<>(bs, String.class))
-                  .storage("brand", new StorageExact<>(bs, String.class))
-                  .storage("model", new StorageExact<>(bs, String.class))
-                  .storage("categoryName", new StorageExact<>(bs, String.class))
-                  .storage("priceLow", new StorageBucketIntegers(bs))
-                  .storage("priceHigh", new StorageBucketIntegers(bs))
-                  .storage("description", new StorageLucene(bs))
+                  .storage("title", new StorageExact<>(String.class))
+                  .storage("brand", new StorageExact<>(String.class))
+                  .storage("model", new StorageExact<>(String.class))
+                  .storage("categoryName", new StorageExact<>(String.class))
+                  .storage("priceLow", new StorageBucketIntegers())
+                  .storage("priceHigh", new StorageBucketIntegers())
+                  .storage("description", new StorageLucene())
                 .init();
 
         Map<Integer, Map<String, List<Object>>> docs = new HashMap<>();

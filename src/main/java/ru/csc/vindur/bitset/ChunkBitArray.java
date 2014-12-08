@@ -8,26 +8,26 @@ import java.util.SortedMap;
 import java.util.TreeMap;
 import java.util.function.Supplier;
 
-public class ChunkBitSet implements BitSet {
+public class ChunkBitArray implements BitArray {
     private final static int CHUNK_SIZE = 1 << 12; // 4k
-    private final Supplier<BitSet> supplier;
-    private final SortedMap<Integer, BitSet> chunks; // chunk index -> bitset
+    private final Supplier<BitArray> supplier;
+    private final SortedMap<Integer, BitArray> chunks; // chunk index -> bitset
     private int cardinality;
 
-    public ChunkBitSet() {
-        this(EWAHBitSet::new);
+    public ChunkBitArray() {
+        this(EWAHBitArray::new);
     }
 
-    public ChunkBitSet(Supplier<BitSet> supplier) {
+    public ChunkBitArray(Supplier<BitArray> supplier) {
         this.supplier = supplier;
         this.chunks = new TreeMap<>();
         this.cardinality = 0;
     }
 
-    private ChunkBitSet(ChunkBitSet other) {
+    private ChunkBitArray(ChunkBitArray other) {
         this(other.supplier);
         // TODO find out the better way
-        for (Entry<Integer, BitSet> chunkEntry : other.chunks.entrySet()) {
+        for (Entry<Integer, BitArray> chunkEntry : other.chunks.entrySet()) {
             this.chunks.put(chunkEntry.getKey(), chunkEntry.getValue().copy());
         }
         this.cardinality = other.cardinality;
@@ -36,7 +36,7 @@ public class ChunkBitSet implements BitSet {
     @Override
     public List<Integer> toIntList() {
         List<Integer> result = new ArrayList<>(cardinality());
-        for (Entry<Integer, BitSet> chunkEntry : chunks.entrySet()) {
+        for (Entry<Integer, BitArray> chunkEntry : chunks.entrySet()) {
             int chunkBegin = chunkEntry.getKey() * CHUNK_SIZE;
             List<Integer> chunkResult = chunkEntry.getValue().toIntList();
             // TODO be careful with J8 magic
@@ -52,15 +52,15 @@ public class ChunkBitSet implements BitSet {
     }
 
     @Override
-    public BitSet copy() {
-        return new ChunkBitSet(this);
+    public BitArray copy() {
+        return new ChunkBitArray(this);
     }
 
     @Override
-    public BitSet set(int index) {
+    public BitArray set(int index) {
         int chunkIndex = index / CHUNK_SIZE;
         index = index - chunkIndex * CHUNK_SIZE;
-        BitSet chunk = chunks.get(chunkIndex);
+        BitArray chunk = chunks.get(chunkIndex);
         if (chunk == null) {
             chunk = supplier.get().set(index);
             cardinality += 1;
@@ -75,23 +75,23 @@ public class ChunkBitSet implements BitSet {
     }
 
     private static interface Operation {
-        public BitSet perform(BitSet left, ROBitSet right);
+        public BitArray perform(BitArray left, ROBitArray right);
     }
 
-    private BitSet performOperation(ROBitSet oth, Operation operation) {
-        ChunkBitSet other = (ChunkBitSet) oth;
-        Iterator<Entry<Integer, BitSet>> chunksIterator = chunks.entrySet()
+    private BitArray performOperation(ROBitArray oth, Operation operation) {
+        ChunkBitArray other = (ChunkBitArray) oth;
+        Iterator<Entry<Integer, BitArray>> chunksIterator = chunks.entrySet()
                 .iterator();
         while (chunksIterator.hasNext()) {
-            Entry<Integer, BitSet> chunkEntry = chunksIterator.next();
+            Entry<Integer, BitArray> chunkEntry = chunksIterator.next();
             cardinality -= chunkEntry.getValue().cardinality();
 
-            BitSet otherChunk = other.chunks.get(chunkEntry.getKey());
+            BitArray otherChunk = other.chunks.get(chunkEntry.getKey());
             if (otherChunk == null) {
                 chunksIterator.remove();
                 break;
             }
-            BitSet result = operation
+            BitArray result = operation
                     .perform(chunkEntry.getValue(), otherChunk);
             int newCardinality = result.cardinality();
             chunkEntry.setValue(result);
@@ -104,17 +104,17 @@ public class ChunkBitSet implements BitSet {
     }
 
     @Override
-    public BitSet and(ROBitSet other) {
+    public BitArray and(ROBitArray other) {
         return performOperation(other, (left, right) -> left.and(right));
     }
 
     @Override
-    public BitSet or(ROBitSet other) {
+    public BitArray or(ROBitArray other) {
         return performOperation(other, (left, right) -> left.or(right));
     }
 
     @Override
-    public BitSet xor(ROBitSet other) {
+    public BitArray xor(ROBitArray other) {
         return performOperation(other, (left, right) -> left.xor(right));
     }
 
@@ -122,7 +122,7 @@ public class ChunkBitSet implements BitSet {
     public Iterator<Integer> iterator() {
         return new Iterator<Integer>() {
 
-            private final Iterator<BitSet> chunksIterator = chunks.values()
+            private final Iterator<BitArray> chunksIterator = chunks.values()
                     .iterator();
             private Iterator<Integer> currentIterator = getNextIter();
 

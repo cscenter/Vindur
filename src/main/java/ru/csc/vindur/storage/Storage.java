@@ -1,8 +1,8 @@
 package ru.csc.vindur.storage;
 
-import ru.csc.vindur.bitset.ROBitSet;
+import ru.csc.vindur.bitset.ROBitArray;
 
-public abstract class StorageBase<V, R> {
+public abstract class Storage<V, R> {
 
     private final Class<V> valueClazz;
     private final Class<R> requestClazz;
@@ -10,11 +10,11 @@ public abstract class StorageBase<V, R> {
 
     public abstract void add(int docId, V value);
 
-    public abstract ROBitSet findSet(R request);
+    public abstract ROBitArray findSet(R request);
 
     public abstract boolean checkValue(int docId, V value, R request);
 
-    public StorageBase(Class<V> valueClazz, Class<R> requestClazz) {
+    public Storage(Class<V> valueClazz, Class<R> requestClazz) {
         this.valueClazz = valueClazz;
         this.requestClazz = requestClazz;
     }

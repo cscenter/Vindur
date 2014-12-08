@@ -8,10 +8,15 @@ public class AttributeGenerator {
         Object[] values;
         switch (valueType) {
         case INTEGER:
+        case RANGE_INTEGER:
             values = generateNumericValues(valuesCount, 0, Integer.MAX_VALUE);
             break;
         case STRING:
+        case RANGE_STRING:
             values = generateStringValues(valuesCount, 1, 10);
+            break;
+        case LUCENE_STRING:
+            values = generateStringValues(valuesCount, 1, 1000);
             break;
         default:
             throw new RuntimeException("Missing case state");

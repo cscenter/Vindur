@@ -2,27 +2,27 @@ package ru.csc.vindur.bitset;
 
 import java.util.Iterator;
 
-public class JavaBitSet implements BitSet {
+public class JavaBitArray implements BitArray {
 
     private final java.util.BitSet bitSet;
 
-    public JavaBitSet() {
+    public JavaBitArray() {
         bitSet = new java.util.BitSet();
     }
 
-    private JavaBitSet(java.util.BitSet bitSet) {
+    private JavaBitArray(java.util.BitSet bitSet) {
         this.bitSet = bitSet;
     }
 
     @Override
-    public BitSet and(ROBitSet other) {
-        java.util.BitSet otherBitSet = ((JavaBitSet) other).bitSet;
+    public BitArray and(ROBitArray other) {
+        java.util.BitSet otherBitSet = ((JavaBitArray) other).bitSet;
         bitSet.and(otherBitSet);
         return this;
     }
 
     @Override
-    public BitSet set(int index) {
+    public BitArray set(int index) {
         bitSet.set(index);
         return this;
     }
@@ -33,21 +33,21 @@ public class JavaBitSet implements BitSet {
     }
 
     @Override
-    public BitSet or(ROBitSet other) {
-        java.util.BitSet otherBitSet = ((JavaBitSet) other).bitSet;
+    public BitArray or(ROBitArray other) {
+        java.util.BitSet otherBitSet = ((JavaBitArray) other).bitSet;
         bitSet.or(otherBitSet);
         return this;
     }
 
     @Override
-    public BitSet xor(ROBitSet other) {
-        java.util.BitSet otherBitSet = ((JavaBitSet) other).bitSet;
+    public BitArray xor(ROBitArray other) {
+        java.util.BitSet otherBitSet = ((JavaBitArray) other).bitSet;
         bitSet.xor(otherBitSet);
         return this;
     }
 
-    public BitSet copy() {
-        return new JavaBitSet((java.util.BitSet) bitSet.clone());
+    public BitArray copy() {
+        return new JavaBitArray((java.util.BitSet) bitSet.clone());
     }
 
     @Override
@@ -69,7 +69,7 @@ public class JavaBitSet implements BitSet {
         if (getClass() != obj.getClass()) {
             return false;
         }
-        JavaBitSet other = (JavaBitSet) obj;
+        JavaBitArray other = (JavaBitArray) obj;
         if (bitSet == null) {
             if (other.bitSet != null) {
                 return false;

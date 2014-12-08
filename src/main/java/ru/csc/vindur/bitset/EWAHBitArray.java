@@ -5,26 +5,26 @@ import java.util.List;
 
 import com.googlecode.javaewah.EWAHCompressedBitmap;
 
-public class EWAHBitSet implements BitSet {
+public class EWAHBitArray implements BitArray {
 
     private final EWAHCompressedBitmap bitSet;
 
-    public EWAHBitSet() {
+    public EWAHBitArray() {
         bitSet = new EWAHCompressedBitmap();
     }
 
-    private EWAHBitSet(EWAHCompressedBitmap bitSet) {
+    private EWAHBitArray(EWAHCompressedBitmap bitSet) {
         this.bitSet = bitSet;
     }
 
     @Override
-    public BitSet and(ROBitSet other) {
-        EWAHCompressedBitmap otherBitSet = ((EWAHBitSet) other).bitSet;
-        return new EWAHBitSet(bitSet.and(otherBitSet));
+    public BitArray and(ROBitArray other) {
+        EWAHCompressedBitmap otherBitSet = ((EWAHBitArray) other).bitSet;
+        return new EWAHBitArray(bitSet.and(otherBitSet));
     }
 
     @Override
-    public BitSet set(int index) {
+    public BitArray set(int index) {
         bitSet.set(index);
         return this;
     }
@@ -40,19 +40,19 @@ public class EWAHBitSet implements BitSet {
     }
 
     @Override
-    public BitSet or(ROBitSet other) {
-        EWAHCompressedBitmap otherBitSet = ((EWAHBitSet) other).bitSet;
-        return new EWAHBitSet(bitSet.or(otherBitSet));
+    public BitArray or(ROBitArray other) {
+        EWAHCompressedBitmap otherBitSet = ((EWAHBitArray) other).bitSet;
+        return new EWAHBitArray(bitSet.or(otherBitSet));
     }
 
     @Override
-    public BitSet xor(ROBitSet other) {
-        EWAHCompressedBitmap otherBitSet = ((EWAHBitSet) other).bitSet;
-        return new EWAHBitSet(bitSet.xor(otherBitSet));
+    public BitArray xor(ROBitArray other) {
+        EWAHCompressedBitmap otherBitSet = ((EWAHBitArray) other).bitSet;
+        return new EWAHBitArray(bitSet.xor(otherBitSet));
     }
 
-    public BitSet copy() {
-        return new EWAHBitSet(this.bitSet.clone());
+    public BitArray copy() {
+        return new EWAHBitArray(this.bitSet.clone());
     }
 
     @Override
@@ -74,7 +74,7 @@ public class EWAHBitSet implements BitSet {
         if (getClass() != obj.getClass()) {
             return false;
         }
-        EWAHBitSet other = (EWAHBitSet) obj;
+        EWAHBitArray other = (EWAHBitArray) obj;
         if (bitSet == null) {
             if (other.bitSet != null) {
                 return false;

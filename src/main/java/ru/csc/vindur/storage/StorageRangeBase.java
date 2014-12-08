@@ -1,7 +1,7 @@
 package ru.csc.vindur.storage;
 
 public abstract class StorageRangeBase<T extends Comparable<T>> extends
-        StorageBase<T, RangeRequest> {
+        Storage<T, RangeRequest> {
 
     public StorageRangeBase(Class<T> type) {
         super(type, RangeRequest.class);

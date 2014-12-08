@@ -6,23 +6,19 @@ import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.ConcurrentMap;
 import java.util.concurrent.atomic.AtomicInteger;
-import java.util.function.Supplier;
 
-import ru.csc.vindur.bitset.BitSet;
+import ru.csc.vindur.bitset.BitArray;
 import ru.csc.vindur.document.Document;
 import ru.csc.vindur.executor.DumbExecutor;
 import ru.csc.vindur.executor.Executor;
-import ru.csc.vindur.storage.StorageBase;
-import ru.csc.vindur.storage.StorageHelper;
-import ru.csc.vindur.storage.StorageType;
+import ru.csc.vindur.storage.Storage;
 
 public class Engine
 {
     private final AtomicInteger documentsSequence = new AtomicInteger(0);
     private final Map<Integer, Document> documents = new ConcurrentHashMap<>();
-    private Map<String, StorageBase> storages;
+    private Map<String, Storage> storages;
     private Executor executor;
 
     private Engine()
@@ -36,7 +32,7 @@ public class Engine
     }
 
     //todo refactor to getStorage(key)
-    public Map<String, StorageBase> getStorages() {
+    public Map<String, Storage> getStorages() {
         return storages;
     }
 
@@ -53,7 +49,7 @@ public class Engine
             throw new IllegalArgumentException("There is no such document");
         }
 
-        StorageBase storage = findStorageBase(attribute);
+        Storage storage = findStorageBase(attribute);
         if (!storage.validateValueType(value)) {
             throw new IllegalArgumentException("Invalid value type "
                     + value.getClass().getName() + " for StorageBase "
@@ -71,8 +67,8 @@ public class Engine
      * @param attribute
      * @return
      */
-    private StorageBase findStorageBase(String attribute) {
-        StorageBase storage;
+    private Storage findStorageBase(String attribute) {
+        Storage storage;
         storage = storages.get(attribute);
         if (storage == null) {
             throw new IllegalArgumentException(
@@ -83,7 +79,7 @@ public class Engine
 
     public List<Integer> executeQuery(Query query) {
         checkQuery(query);
-        BitSet resultSet = executor.execute(query, this);
+        BitArray resultSet = executor.execute(query, this);
         if (resultSet == null) {
             return Collections.emptyList();
         } else {
@@ -94,7 +90,7 @@ public class Engine
     private void checkQuery(Query query) throws IllegalArgumentException
     {
         for (Entry<String, Object> part : query.getQueryParts().entrySet()) {
-            StorageBase storage = storages.get(part.getKey());
+            Storage storage = storages.get(part.getKey());
             if (storage == null) {
                 throw new IllegalArgumentException("StorageBase for attribute "
                         + part.getKey() + " is not created");
@@ -129,10 +125,9 @@ public class Engine
            return this;
         }
 
-        public Builder storage(String name, StorageBase s)
+        public Builder storage(String name, Storage s)
         {
             engine.storages.put(name,s);
-            //todo проверить одинаковость реализации BitSet!!!!
             return this;
         }
 

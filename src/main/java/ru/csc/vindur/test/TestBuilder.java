@@ -5,8 +5,7 @@ import java.util.Map;
 import java.util.function.Supplier;
 
 import ru.csc.vindur.Engine;
-import ru.csc.vindur.bitset.BitSet;
-import ru.csc.vindur.executor.DumbExecutor;
+import ru.csc.vindur.bitset.BitArray;
 import ru.csc.vindur.executor.Executor;
 import ru.csc.vindur.storage.StorageHelper;
 import ru.csc.vindur.storage.StorageType;
@@ -43,12 +42,12 @@ public interface TestBuilder {
      */
     Double getProbability(String key);
 
-    default Engine buildEngine(Supplier<BitSet> bs, Executor executor)
+    default Engine buildEngine(Executor executor)
     {
       Engine.Builder b = Engine.build().executor(executor);
       for (String s : getStorages())
       {
-          b.storage(s, StorageHelper.getColumn(getTypes().get(s),bs));
+          b.storage(s, StorageHelper.getColumn(getTypes().get(s)));
       }
       return b.init();
     }

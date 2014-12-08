@@ -6,8 +6,8 @@ import java.util.Map.Entry;
 import java.util.TreeMap;
 import java.util.function.Supplier;
 
-import ru.csc.vindur.bitset.BitSet;
-import ru.csc.vindur.bitset.ROBitSet;
+import ru.csc.vindur.bitset.BitArray;
+import ru.csc.vindur.bitset.ROBitArray;
 
 /**
  * @author Andrey Kokorev Created on 08.11.2014.
@@ -16,42 +16,38 @@ public class StorageBucketIntegers extends StorageRangeBase<Integer> {
     // TODO test this parameter(find out the better value)
     private static final Integer DEFAULT_BUCKET_SIZE = 100;
     private final Integer bucketSize;
-    private HashMap<Integer, TreeMap<Integer, BitSet>> storage; // key hash ->
-                                                                // bucket(key ->
-                                                                // bitset of all
-                                                                // smaller or
-                                                                // eq)
-    private Supplier<BitSet> bitSetSupplier;
+    private HashMap<Integer, TreeMap<Integer, BitArray>> storage;
+    // key hash -> bucket(key ->/ bitset of all smaller or eq)
 
-    public StorageBucketIntegers(Supplier<BitSet> bitSetSupplier) {
+    public StorageBucketIntegers()
+    {
         super(Integer.class);
         this.storage = new HashMap<>();
-        this.bitSetSupplier = bitSetSupplier;
         this.bucketSize = DEFAULT_BUCKET_SIZE;
     }
 
-    private BitSet floorFromBucket(Integer key) {
-        TreeMap<Integer, BitSet> bucket = getBucket(key);
+    private BitArray floorFromBucket(Integer key) {
+        TreeMap<Integer, BitArray> bucket = getBucket(key);
         if (bucket == null)
-            return bitSetSupplier.get();
+            return BitArray.create();
 
-        Map.Entry<Integer, BitSet> upperEntry = bucket.floorEntry(key);
+        Map.Entry<Integer, BitArray> upperEntry = bucket.floorEntry(key);
         if (upperEntry == null) { // high is lower than lowest stored value, or
                                   // storage is empty
-            return bitSetSupplier.get();
+            return BitArray.create();
         }
         return upperEntry.getValue();
     }
 
-    private BitSet lowerFromBucket(Integer key) {
-        TreeMap<Integer, BitSet> bucket = getBucket(key);
+    private BitArray lowerFromBucket(Integer key) {
+        TreeMap<Integer, BitArray> bucket = getBucket(key);
         if (bucket == null)
-            return bitSetSupplier.get();
+            return BitArray.create();
 
-        Map.Entry<Integer, BitSet> lowerEntry = bucket.lowerEntry(key);
+        Map.Entry<Integer, BitArray> lowerEntry = bucket.lowerEntry(key);
         if (lowerEntry == null) { // high is lower than lowest stored value, or
                                   // storage is empty
-            return bitSetSupplier.get();
+            return BitArray.create();
         }
         return lowerEntry.getValue();
     }
@@ -60,20 +56,20 @@ public class StorageBucketIntegers extends StorageRangeBase<Integer> {
         return key / bucketSize;
     }
 
-    private TreeMap<Integer, BitSet> getBucket(Integer key) {
+    private TreeMap<Integer, BitArray> getBucket(Integer key) {
         return storage.get(getBucketNum(key));
     }
 
     @Override
     public void add(int docId, Integer value) {
         incrementDocumentsCount();
-        TreeMap<Integer, BitSet> bucket = getBucket(value);
+        TreeMap<Integer, BitArray> bucket = getBucket(value);
         if (bucket == null) {
             bucket = new TreeMap<>();
             storage.put(getBucketNum(value), bucket);
         }
 
-        for (Map.Entry<Integer, BitSet> e : bucket.tailMap(value).entrySet()) {
+        for (Map.Entry<Integer, BitArray> e : bucket.tailMap(value).entrySet()) {
             e.getValue().set(docId);
         }
 
@@ -81,13 +77,13 @@ public class StorageBucketIntegers extends StorageRangeBase<Integer> {
             return;
         }
         // otherwise we should add new record to storage
-        Entry<Integer, BitSet> lowerEntry = bucket.lowerEntry(value);
-        BitSet bitSet;
-        if (lowerEntry == null) {
-            bitSet = bitSetSupplier.get();
-        } else {
+        Entry<Integer, BitArray> lowerEntry = bucket.lowerEntry(value);
+        BitArray bitSet;
+        if (lowerEntry == null)
+            bitSet = BitArray.create();
+        else
             bitSet = lowerEntry.getValue().copy();
-        }
+
         bitSet.set(docId);
 
         bucket.put(value, bitSet);
@@ -95,15 +91,16 @@ public class StorageBucketIntegers extends StorageRangeBase<Integer> {
     }
 
     @Override
-    public ROBitSet findSet(RangeRequest request) {
+    public ROBitArray findSet(RangeRequest request) {
         Integer lowKey = (Integer) request.getLowBound();
         Integer highKey = (Integer) request.getUpperBound();
-        if (highKey < lowKey) { // that's not good
-            return bitSetSupplier.get();
+        if (highKey < lowKey)
+        { // that's not good
+            return BitArray.create();
         }
 
-        BitSet h = floorFromBucket(highKey);
-        BitSet l = lowerFromBucket(lowKey);
+        BitArray h = floorFromBucket(highKey);
+        BitArray l = lowerFromBucket(lowKey);
 
         Integer upperBucket = getBucketNum(highKey);
         Integer lowerBucket = getBucketNum(lowKey);
@@ -112,19 +109,19 @@ public class StorageBucketIntegers extends StorageRangeBase<Integer> {
         }
 
         // Get all from l to last record in lower bucket
-        TreeMap<Integer, BitSet> lowerBuc = storage.get(lowerBucket);
-        BitSet result = h;
+        TreeMap<Integer, BitArray> lowerBuc = storage.get(lowerBucket);
+        BitArray result = h;
         if (lowerBuc != null) {
-            BitSet lowerBucketLast = lowerBuc.lastEntry().getValue();
+            BitArray lowerBucketLast = lowerBuc.lastEntry().getValue();
             result = result.or(l.xor(lowerBucketLast));
         }
 
         // Get all in middle buckets
         for (int i = lowerBucket + 1; i < upperBucket; i++) {
-            TreeMap<Integer, BitSet> bucket = storage.get(i);
+            TreeMap<Integer, BitArray> bucket = storage.get(i);
             if (bucket == null)
                 continue;
-            BitSet c = bucket.lastEntry().getValue();
+            BitArray c = bucket.lastEntry().getValue();
             if (c != null) {
                 result = result.or(c);
             }

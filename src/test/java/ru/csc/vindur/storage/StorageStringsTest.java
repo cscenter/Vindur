@@ -8,18 +8,18 @@ import java.util.function.Supplier;
 import org.junit.Before;
 import org.junit.Test;
 
-import ru.csc.vindur.bitset.BitSet;
-import ru.csc.vindur.bitset.EWAHBitSet;
+import ru.csc.vindur.bitset.BitArray;
+import ru.csc.vindur.bitset.EWAHBitArray;
 
 public class StorageStringsTest {
     private static final int VALUES_COUNT = 1000;
-    private Supplier<BitSet> bitSetSupplier;
+    private Supplier<BitArray> bitSetSupplier;
     private StorageExact<String> storageStrings;
 
     @Before
-    public void createStorage() {
-        bitSetSupplier = EWAHBitSet::new;
-        storageStrings = new StorageExact<String>(bitSetSupplier, String.class);
+    public void createStorage()
+    {
+        storageStrings = new StorageExact<String>(String.class);
     }
 
     @Test
@@ -33,7 +33,7 @@ public class StorageStringsTest {
 
         for (int i = 0; i < VALUES_COUNT; i++) {
             int match = random.nextInt(VALUES_COUNT);
-            BitSet expected = bitSetSupplier.get().set(match).set(match + 1);
+            BitArray expected = bitSetSupplier.get().set(match).set(match + 1);
             assertEquals(expected,
                     storageStrings.findSet(Integer.toString(match)));
         }

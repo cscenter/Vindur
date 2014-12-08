@@ -26,10 +26,10 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
 import org.apache.lucene.util.Version;
 
-import ru.csc.vindur.bitset.BitSet;
-import ru.csc.vindur.bitset.ROBitSet;
+import ru.csc.vindur.bitset.BitArray;
+import ru.csc.vindur.bitset.ROBitArray;
 
-public class StorageLucene extends StorageBase<String, Query> {
+public class StorageLucene extends Storage<String, Query> {
 
     private static final String ID_FIELD_NAME = "id";
     private static final String VALUE_FIELD_NAME = "text";
@@ -37,14 +37,12 @@ public class StorageLucene extends StorageBase<String, Query> {
     private static final QueryParser QUERY_PARSER = new QueryParser(
             VALUE_FIELD_NAME, ANALAYZER);
     private final Directory luceneIndex;
-    private final Supplier<BitSet> bitSetSupplier;
     private IndexSearcher searcher;
     private IndexWriter indexWriter;
     private DirectoryReader indexReader;
 
-    public StorageLucene(Supplier<BitSet> bitSetSupplier) {
+    public StorageLucene() {
         super(String.class, Query.class);
-        this.bitSetSupplier = bitSetSupplier;
         luceneIndex = new RAMDirectory();
         try {
             indexWriter = new IndexWriter(luceneIndex, new IndexWriterConfig(
@@ -74,11 +72,11 @@ public class StorageLucene extends StorageBase<String, Query> {
     }
 
     @Override
-    public ROBitSet findSet(Query q) {
+    public ROBitArray findSet(Query q) {
         try {
             createSeacher();
 
-            BitSet result = bitSetSupplier.get();
+            BitArray result = BitArray.create();
             for (ScoreDoc doc : searcher.search(q, documentsCount()).scoreDocs) {
                 IndexableField f = indexReader.document(doc.doc).getField(
                         ID_FIELD_NAME);

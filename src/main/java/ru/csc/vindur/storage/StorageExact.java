@@ -4,26 +4,25 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.function.Supplier;
 
-import ru.csc.vindur.bitset.BitSet;
-import ru.csc.vindur.bitset.ROBitSet;
+import ru.csc.vindur.bitset.BitArray;
+import ru.csc.vindur.bitset.ROBitArray;
 
 /**
  * @author: Phillip Delgyado Date: 30.10.13 17:40
  */
-public final class StorageExact<T> extends StorageBase<T, T> {
-    private final Map<T, BitSet> values = new HashMap<>(); // strValue->{itemIds}
-    private final Supplier<BitSet> bitSetSupplier;
+public final class StorageExact<T> extends Storage<T, T> {
+    private final Map<T, BitArray> values = new HashMap<>(); // strValue->{itemIds}
 
-    public StorageExact(Supplier<BitSet> bitSetSupplier, Class<T> type) {
+    public StorageExact(Class<T> type)
+    {
         super(type, type);
-        this.bitSetSupplier = bitSetSupplier;
     }
 
     @Override
     public synchronized void add(int docId, T value) {
-        BitSet valsSet = values.get(value);
+        BitArray valsSet = values.get(value);
         if (valsSet == null) {
-            valsSet = bitSetSupplier.get();
+            valsSet = BitArray.create();
             values.put(value, valsSet);
         }
         valsSet.set(docId);
@@ -31,10 +30,10 @@ public final class StorageExact<T> extends StorageBase<T, T> {
     }
 
     @Override
-    public ROBitSet findSet(T request) {
-        BitSet valsSet = values.get(request);
+    public ROBitArray findSet(T request) {
+        BitArray valsSet = values.get(request);
         if (valsSet == null) {
-            return bitSetSupplier.get();
+            return BitArray.create();
         }
         return valsSet;
     }
