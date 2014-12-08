@@ -28,10 +28,12 @@ public class EngineTest {
         indexes.put(STR_ATTR2, StorageType.RANGE_STRING);
         indexes.put(STR_ATTR3, StorageType.LUCENE_STRING);
 
-        Engine engine = Engine.build().storage(STR_ATTR,
-                new StorageExact<>(EWAHBitSet::new,String.class))
-                //todo остальные стораджи
-                .init();
+        Engine engine = Engine.build()
+         .storage(STR_ATTR,new StorageExact<>(EWAHBitSet::new,String.class))
+         .storage(INT_ATTR,new StorageBucketIntegers(EWAHBitSet::new))
+         .storage(STR_ATTR2,new StorageRange<>(EWAHBitSet::new,String.class))
+         .storage(STR_ATTR3, new StorageLucene(EWAHBitSet::new))
+         .init();
 
         int doc1 = engine.createDocument();
         int doc2 = engine.createDocument();
