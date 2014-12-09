@@ -2,6 +2,7 @@ package ru.csc.vindur.document;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;
 
@@ -21,29 +22,23 @@ public class Document {
         this.id = id;
     }
 
-    public void setAttribute(String attribute, Object value) {
+    public void setAttribute(String attribute, Object value)
+    {
         List<Object> values = vals.get(attribute);
-        if (values == null) {
-            // Contains Double checked locking inside
+        if (values == null)
             values = createValues(attribute);
-        }
-        synchronized (values) {
-            // TODO maybe change List to CopyOnWriteList or something else
-            values.add(value);
-        }
+        values.add(value);
     }
 
-    private List<Object> createValues(String attribute) {
+    private List<Object> createValues(String attribute)
+    {
         List<Object> values;
 
-        synchronized (this) {
             values = vals.get(attribute);
-            if (values != null) {
+            if (values != null)
                 return values;
-            }
             values = new ArrayList<>();
             vals.put(attribute, values);
-        }
         return values;
     }
 
@@ -51,7 +46,11 @@ public class Document {
         return id;
     }
 
-    public List<Object> getValuesByAttribute(String attribute) {
+    public List<Object> getValues(String attribute) {
         return vals.get(attribute);
     }
+
+    public Set<String> getAttributes() {return vals.keySet(); }
+
+
 }

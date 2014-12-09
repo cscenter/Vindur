@@ -13,7 +13,8 @@ import ru.csc.vindur.bitset.ROBitArray;
 public class DumbExecutor implements Executor {
     @SuppressWarnings("unchecked")
     @Override
-    public BitArray execute(Query query, Engine engine) {
+    public BitArray execute(Query query, Engine engine)
+    {
         BitArray resultSet = null;
         for (Map.Entry<String, Object> entry : query.getQueryParts().entrySet()) {
             ROBitArray stepResult = engine.getStorages().get(entry.getKey())

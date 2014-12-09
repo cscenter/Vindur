@@ -30,6 +30,7 @@ public class Engine
     public Document getDocument(Integer id) {
         return documents.get(id);
     }
+    public int getDocumentCount() {return documents.size();};
 
     //todo refactor to getStorage(key)
     public Map<String, Storage> getStorages() {
@@ -37,7 +38,7 @@ public class Engine
     }
 
     public int createDocument() {
-        int nextId = documentsSequence.incrementAndGet();
+        int nextId = documentsSequence.getAndIncrement();
         Document document = new Document(nextId);
         documents.put(document.getId(), document);
         return document.getId();

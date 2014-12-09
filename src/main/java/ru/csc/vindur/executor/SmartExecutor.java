@@ -56,7 +56,7 @@ public class SmartExecutor implements Executor {
             for (int docId : resultSet.toIntList())
             {
                     if (engine.getDocument(docId)
-                            .getValuesByAttribute(entry.getKey())
+                            .getValues(entry.getKey())
                             .contains(entry.getValue()))
                         resultSet.set(docId);
 
