@@ -21,6 +21,11 @@ public class StorageBucketIntegers extends StorageRangeBase<Integer> {
 
     public StorageBucketIntegers()
     {
+        this(DEFAULT_BUCKET_SIZE);
+    }
+
+    public StorageBucketIntegers(Integer bucketSize)
+    {
         super(Integer.class);
         this.storage = new HashMap<>();
         this.bucketSize = DEFAULT_BUCKET_SIZE;
