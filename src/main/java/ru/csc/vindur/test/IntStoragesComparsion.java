@@ -1,9 +1,6 @@
 package ru.csc.vindur.test;
 
 import com.google.common.base.Stopwatch;
-import javafx.scene.paint.Stop;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 import org.slf4j.impl.SimpleLogger;
 import org.slf4j.impl.SimpleLoggerFactory;
 import ru.csc.vindur.Engine;
@@ -23,13 +20,13 @@ import java.util.concurrent.TimeUnit;
 public class IntStoragesComparsion
 {
     private static final SimpleLogger LOG = (SimpleLogger)new SimpleLoggerFactory().getLogger("Logger");
-    static final int DOC_NUM_MIN = 1000;
+    static final int DOC_NUM_MIN = 10_000;
     static final int DOC_NUM_MAX = 10_000_000;
     static final int DOC_NUM_WARMUP = 10_000;
 
     static final int BUCKET_SIZE_MIN  = 100;
     static final int BUCKET_SIZE_MAX  = 5000;
-    static final int BUCKET_SIZE_STEP = 100;
+    static final int BUCKET_SIZE_STEP = 200;
 
     static final int MAX_VAL = 10_000;
 
