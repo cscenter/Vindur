@@ -14,7 +14,7 @@ import ru.csc.vindur.bitset.ROBitArray;
  */
 public class StorageBucketIntegers extends StorageRangeBase<Integer> {
     // TODO test this parameter(find out the better value)
-    private static final Integer DEFAULT_BUCKET_SIZE = 100;
+    private static final Integer DEFAULT_BUCKET_SIZE = 1000;
     private final Integer bucketSize;
     private HashMap<Integer, TreeMap<Integer, BitArray>> storage;
     // key hash -> bucket(key ->/ bitset of all smaller or eq)
