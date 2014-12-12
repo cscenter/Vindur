@@ -12,6 +12,7 @@ import org.junit.Test;
 import ru.csc.vindur.bitset.BitArray;
 import ru.csc.vindur.bitset.EWAHBitArray;
 import ru.csc.vindur.bitset.ROBitArray;
+import ru.csc.vindur.executor.SmartExecutor;
 import ru.csc.vindur.storage.*;
 
 public class EngineTest {
@@ -28,11 +29,13 @@ public class EngineTest {
         indexes.put(STR_ATTR2, StorageType.RANGE_STRING);
         indexes.put(STR_ATTR3, StorageType.LUCENE_STRING);
 
+
         Engine engine = Engine.build()
          .storage(STR_ATTR, new StorageExact<>(String.class))
          .storage(INT_ATTR,new StorageBucketIntegers())
          .storage(STR_ATTR2,new StorageRange<>(String.class))
          .storage(STR_ATTR3, new StorageLucene())
+         .executor(new SmartExecutor(5000))
          .init();
 
         int doc1 = engine.createDocument();

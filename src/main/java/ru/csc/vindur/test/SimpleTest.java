@@ -14,6 +14,7 @@ import ru.csc.vindur.Engine;
 import ru.csc.vindur.Query;
 import ru.csc.vindur.bitset.EWAHBitArray;
 import ru.csc.vindur.executor.DumbExecutor;
+import ru.csc.vindur.executor.SmartExecutor;
 import ru.csc.vindur.storage.StorageType;
 import ru.csc.vindur.test.utils.RandomUtils;
 
@@ -37,7 +38,7 @@ public class SimpleTest {
                 .setTypeFrequence(StorageType.INTEGER, 0.2)
                 .setValuesCount(StorageType.STRING, 30)
                 .setValuesCount(StorageType.INTEGER, 30).init();
-        te = new TestExecutor(test.buildEngine(new DumbExecutor()));
+        te = new TestExecutor(test.buildEngine(new SmartExecutor(5000)));
         te.setDocumentSupplier(docSupplier(test));
         te.setQuerySupplier(querySupplier(test, 5));
         te.execute(100000, 100000);
@@ -46,7 +47,7 @@ public class SimpleTest {
         test = SimpleTestBuilder.build(1)
                 .setTypeFrequence(StorageType.STRING, 1.0)
                 .setValuesCount(StorageType.STRING, 30000).init();
-        te = new TestExecutor(test.buildEngine(new DumbExecutor()));
+        te = new TestExecutor(test.buildEngine(new SmartExecutor(5000)));
         te.setDocumentSupplier(docSupplier(test));
         te.setQuerySupplier(querySupplier(test, 1));
         te.execute(1000000, 100000);
@@ -55,7 +56,7 @@ public class SimpleTest {
         test = SimpleTestBuilder.build(1)
                 .setTypeFrequence(StorageType.INTEGER, 1.0)
                 .setValuesCount(StorageType.INTEGER, 3000).init();
-        te = new TestExecutor(test.buildEngine(new DumbExecutor()));
+        te = new TestExecutor(test.buildEngine(new SmartExecutor(5000)));
         te.setDocumentSupplier(docSupplier(test));
         te.setQuerySupplier(querySupplier(test, 1));
         te.execute(100000, 100000);
@@ -66,7 +67,7 @@ public class SimpleTest {
                 .setTypeFrequence(StorageType.INTEGER, 0.2)
                 .setValuesCount(StorageType.STRING, 30)
                 .setValuesCount(StorageType.INTEGER, 30).init();
-        te = new TestExecutor(test.buildEngine(new DumbExecutor()));
+        te = new TestExecutor(test.buildEngine(new SmartExecutor(5000)));
         te.setDocumentSupplier(docSupplier(test));
         te.setQuerySupplier(querySupplier(test, 5));
         te.execute(100000, 100000);
