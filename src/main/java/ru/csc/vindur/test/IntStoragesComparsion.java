@@ -20,11 +20,11 @@ import java.util.concurrent.TimeUnit;
 public class IntStoragesComparsion
 {
     private static final SimpleLogger LOG = (SimpleLogger)new SimpleLoggerFactory().getLogger("Logger");
-    static final int DOC_NUM_MIN = 10_000;
+    static final int DOC_NUM_MIN = 100_000;
     static final int DOC_NUM_MAX = 10_000_000;
     static final int DOC_NUM_WARMUP = 10_000;
 
-    static final int BUCKET_SIZE_MIN  = 100;
+    static final int BUCKET_SIZE_MIN  = 5000;
     static final int BUCKET_SIZE_MAX  = 5000;
     static final int BUCKET_SIZE_STEP = 200;
 
@@ -45,7 +45,7 @@ public class IntStoragesComparsion
         warmUp(uniform, qUniform);
 
         LOG.info("Testing");
-        for(int docNum = DOC_NUM_MIN; docNum <= DOC_NUM_MAX; docNum *= 10)
+        for(int docNum = DOC_NUM_MIN; docNum <= DOC_NUM_MAX; docNum += 100_000)
         {
             gaussian = new Integer[docNum];
             uniform = new Integer[docNum];
