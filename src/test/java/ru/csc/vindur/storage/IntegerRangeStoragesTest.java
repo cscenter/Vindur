@@ -15,7 +15,7 @@ import ru.csc.vindur.bitset.EWAHBitArray;
 
 public class IntegerRangeStoragesTest {
     private static final int VALUES_COUNT = 1000;
-    private Supplier<BitArray> bitSetSupplier;
+    private Supplier<BitArray> bitSetSupplier = EWAHBitArray::new;
     private List<Storage<Integer, RangeRequest>> storages;
 
     @Before

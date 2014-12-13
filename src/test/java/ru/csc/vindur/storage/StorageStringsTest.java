@@ -13,7 +13,7 @@ import ru.csc.vindur.bitset.EWAHBitArray;
 
 public class StorageStringsTest {
     private static final int VALUES_COUNT = 1000;
-    private Supplier<BitArray> bitSetSupplier;
+    private Supplier<BitArray> bitSetSupplier = EWAHBitArray::new;
     private StorageExact<String> storageStrings;
 
     @Before
