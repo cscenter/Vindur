@@ -1,4 +1,4 @@
-package ru.csc.vindur.test;
+package ru.csc.vindur.test.comparison;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -32,6 +32,10 @@ import ru.csc.vindur.executor.TinyExecutor;
 import ru.csc.vindur.storage.*;
 
 import com.google.common.base.Stopwatch;
+import ru.csc.vindur.test.SimpleTest;
+import ru.csc.vindur.test.TestBuilder;
+import ru.csc.vindur.test.TestExecutor;
+import ru.csc.vindur.test.TunableTestBuilder;
 import ru.csc.vindur.test.utils.RandomUtils;
 
 

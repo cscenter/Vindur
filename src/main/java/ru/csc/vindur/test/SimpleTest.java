@@ -88,7 +88,7 @@ public class SimpleTest {
         };
     }
 
-    static Supplier<Map<String, List<Object>>> docSupplier(
+    public static Supplier<Map<String, List<Object>>> docSupplier(
             final TestBuilder test) {
         Random random = new Random();
         return () -> test
