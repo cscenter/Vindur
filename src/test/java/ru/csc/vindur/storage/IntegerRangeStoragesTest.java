@@ -11,11 +11,10 @@ import org.junit.Before;
 import org.junit.Test;
 
 import ru.csc.vindur.bitset.BitArray;
-import ru.csc.vindur.bitset.EWAHBitArray;
 
 public class IntegerRangeStoragesTest {
     private static final int VALUES_COUNT = 1000;
-    private Supplier<BitArray> bitSetSupplier = EWAHBitArray::new;
+    private Supplier<BitArray> bitSetSupplier = BitArray::create;
     private List<Storage<Integer, RangeRequest>> storages;
 
     @Before

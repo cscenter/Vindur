@@ -1,8 +1,5 @@
 package ru.csc.vindur.storage;
 
-import java.util.function.Supplier;
-
-import ru.csc.vindur.bitset.BitArray;
 
 /**
  * @author Andrey Kokorev Created on 15.10.2014.

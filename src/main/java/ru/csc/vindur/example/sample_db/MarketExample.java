@@ -8,12 +8,9 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.function.Supplier;
 
 import ru.csc.vindur.Engine;
 import ru.csc.vindur.Query;
-import ru.csc.vindur.bitset.BitArray;
-import ru.csc.vindur.bitset.EWAHBitArray;
 import ru.csc.vindur.executor.TinyExecutor;
 import ru.csc.vindur.storage.*;
 
@@ -23,8 +20,6 @@ import ru.csc.vindur.storage.*;
 public class MarketExample {
     public static void main(String[] args) throws IOException
     {
-        Supplier<BitArray> bs =  EWAHBitArray::new;
-
         Engine engine =
               Engine.build()
                   .executor(new TinyExecutor())

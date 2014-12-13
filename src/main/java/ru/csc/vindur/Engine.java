@@ -14,11 +14,12 @@ import ru.csc.vindur.executor.DumbExecutor;
 import ru.csc.vindur.executor.Executor;
 import ru.csc.vindur.storage.Storage;
 
+@SuppressWarnings("rawtypes")
 public class Engine
 {
     private final AtomicInteger documentsSequence = new AtomicInteger(0);
     private final Map<Integer, Document> documents = new ConcurrentHashMap<>();
-    private Map<String, Storage> storages;
+	private Map<String, Storage> storages;
     private Executor executor;
 
     private Engine()

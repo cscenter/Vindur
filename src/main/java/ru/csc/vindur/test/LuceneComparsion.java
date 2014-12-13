@@ -16,12 +16,9 @@ import org.apache.lucene.document.StringField;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
-import org.apache.lucene.queryparser.classic.MultiFieldQueryParser;
 import org.apache.lucene.queryparser.classic.ParseException;
 import org.apache.lucene.queryparser.classic.QueryParser;
-import org.apache.lucene.search.BooleanClause;
 import org.apache.lucene.search.IndexSearcher;
-import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
@@ -31,8 +28,6 @@ import org.slf4j.LoggerFactory;
 
 import ru.csc.vindur.Engine;
 import ru.csc.vindur.Query;
-import ru.csc.vindur.bitset.EWAHBitArray;
-import ru.csc.vindur.executor.DumbExecutor;
 import ru.csc.vindur.executor.TinyExecutor;
 import ru.csc.vindur.storage.*;
 

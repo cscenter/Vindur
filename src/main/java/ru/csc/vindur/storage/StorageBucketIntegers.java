@@ -4,7 +4,6 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;
 import java.util.TreeMap;
-import java.util.function.Supplier;
 
 import ru.csc.vindur.bitset.BitArray;
 import ru.csc.vindur.bitset.ROBitArray;

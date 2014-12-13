@@ -2,7 +2,6 @@ package ru.csc.vindur.storage;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.function.Supplier;
 
 import ru.csc.vindur.bitset.BitArray;
 import ru.csc.vindur.bitset.ROBitArray;
