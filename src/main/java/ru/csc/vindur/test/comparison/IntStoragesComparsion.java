@@ -12,6 +12,7 @@ import ru.csc.vindur.storage.StorageRangeBase;
 import ru.csc.vindur.test.utils.RandomUtils;
 
 import java.util.Arrays;
+import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 /**
@@ -111,16 +112,19 @@ public class IntStoragesComparsion
     {
         Query[] queries = generateQueries(attr, queryData);
         stopwatch.reset();
+        long result = 0;
         for(int i = 0; i < QUERY_NUM; i++)
         {
             stopwatch.start();
-            engine.executeQuery(queries[i]);
+            List<Integer> r = engine.executeQuery(queries[i]);
             stopwatch.stop();
+            result += r.size();
         }
 
         LOG.info(" Searching time {} ms, average time per query {} ms",
                 stopwatch.elapsed(TimeUnit.MILLISECONDS),
                 stopwatch.elapsed(TimeUnit.MILLISECONDS) * 1.0 / QUERY_NUM);
+        LOG.info(" Found {} results overall, {} average", result, result * 1.0 / QUERY_NUM);
     }
 
     private Query[] generateQueries(String attr, Integer[] qData)
