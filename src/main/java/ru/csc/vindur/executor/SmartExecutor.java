@@ -6,7 +6,6 @@ import com.google.common.collect.Lists;
 import ru.csc.vindur.Engine;
 import ru.csc.vindur.Query;
 import ru.csc.vindur.bitset.BitArray;
-import ru.csc.vindur.bitset.EWAHBitArray;
 import ru.csc.vindur.bitset.ROBitArray;
 
 /**
@@ -72,7 +71,7 @@ public class SmartExecutor implements Executor {
     @SuppressWarnings({"unchecked"})
     private BitArray checkManually(List<String> tail, Query query,Engine engine, ROBitArray currentResult)
     {
-        BitArray resultSet = new EWAHBitArray();
+        BitArray resultSet = BitArray.create();
         for (String key : tail)
         {
             for (int docId : currentResult.toIntList())

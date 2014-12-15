@@ -9,7 +9,7 @@ public class AttributeGenerator {
         switch (valueType) {
         case INTEGER:
         case RANGE_INTEGER:
-            values = generateNumericValues(valuesCount, 0, Integer.MAX_VALUE);
+            values = generateNumericValues(valuesCount, 0, 10000000);
             break;
         case STRING:
         case RANGE_STRING:

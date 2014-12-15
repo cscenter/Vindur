@@ -45,9 +45,9 @@ import ru.csc.vindur.test.utils.RandomUtils;
 public class LuceneComparsion {
     private static final Logger LOG = LoggerFactory
             .getLogger(TestExecutor.class);
-    private static final int DOC_NUM = 1000000;
+    private static final int DOC_NUM = 10;
     private static final int QUERY_NUM = 1;
-    private static final int QUERY_PARTS = 2;
+    private static final int QUERY_PARTS = 1;
 
     public void run()
     {
@@ -72,15 +72,15 @@ public class LuceneComparsion {
 
         LOG.info("Complex/EWH test");
         test = TunableTestBuilder.build()
-                .storage("S1", StorageType.STRING, 2000, 1.0) //category
-                .storage("S2", StorageType.STRING, DOC_NUM, 1.0) //id
+//                .storage("S1", StorageType.STRING, 2000, 1.0) //category
+//                .storage("S2", StorageType.STRING, DOC_NUM, 1.0) //id
 //                .storage("S3", StorageType.STRING, 2, 1.0) //sex
 //                .storage("S4", StorageType.STRING, 10, 1.0) //age
 //                .storage("S5", StorageType.STRING, 10000, 0.5) //producer
 //                .storage("S6", StorageType.STRING, 100, 0.2) //?
 //                .storage("S7", StorageType.STRING, 1000, 0.01)
 //                .storage("S8", StorageType.STRING, 1000, 0.001)
-                .storage("I1", StorageType.RANGE_INTEGER, 10000, 1.0) //price
+                .storage("I1", StorageType.RANGE_STRING, 1000, 1.0) //price
 //                .storage("I2", StorageType.RANGE_INTEGER, 10000, 0.6) //weight
 //                .storage("L1", StorageType.LUCENE_STRING, DOC_NUM, 0.8) //desc
                 .init();
@@ -181,14 +181,17 @@ public class LuceneComparsion {
         long resultCount = 0;
         for(int i = 0; i < stqueries.size(); i++)
         {
-//            LOG.info("query {}", stqueries.get(i).toString());
-
             org.apache.lucene.search.Query query = this.query(stqueries.get(i),analyzer);
+
+            LOG.info("query {} -> {}", stqueries.get(i).toString(), query.toString());
 
             watch.start();
             TopDocs hits = isearcher.search(query, null, DOC_NUM);
             watch.stop();
-//           LOG.info("result {}", isearcher.doc(hits.scoreDocs[0].doc));
+            if (hits.scoreDocs.length>0)
+              LOG.info("result {}", isearcher.doc(hits.scoreDocs[0].doc));
+            else
+              LOG.info("result none");
 
             resultCount += hits.totalHits;
         }
@@ -210,10 +213,14 @@ public class LuceneComparsion {
                 for (Object val : generated.getValues(attr))
                   {
                      if (val instanceof Integer)
-                        doc.add(new IntField(attr, (int) val, Field.Store.YES));
-                     else
-                        doc.add(new StringField(attr, (String) val,
-                                Field.Store.YES));
+                     {
+                         doc.add(new StringField(attr, val.toString(), Field.Store.YES));
+                         LOG.error("add int {}",val);
+                     }
+                     else {
+                         doc.add(new StringField(attr, (String) val, Field.Store.YES));
+                         LOG.error("add string {}",val);
+                     }
                  }
             }
             writer.addDocument(doc);

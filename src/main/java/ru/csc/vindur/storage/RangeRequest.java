@@ -16,4 +16,12 @@ public class RangeRequest {
     public Object getUpperBound() {
         return upperBound;
     }
+
+    @Override
+    public String toString() {
+        return "[" +
+                lowBound +
+                " -> " + upperBound +
+                ']';
+    }
 }
