@@ -23,9 +23,6 @@ public class DumbExecutor implements Executor {
                 resultSet = stepResult.copy();
             } else {
                 resultSet = resultSet.and(stepResult);
-                if (resultSet.cardinality() == 0) {
-                    return null;
-                }
             }
         }
 

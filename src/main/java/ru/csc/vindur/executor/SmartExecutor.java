@@ -80,11 +80,14 @@ public class SmartExecutor implements Executor {
                 //todo: вроде разобрался =)
                 List<Object> values = engine.getDocument(docId).getValues(key);
                 Object request = query.getQueryParts().get(key);
-                for (Object value : values)
+                if (values != null)
                 {
-                    if (engine.getStorages().get(key).checkValue(docId, value, request))
+                    for (Object value : values)
                     {
-                        resultSet.set(docId);
+                        if (engine.getStorages().get(key).checkValue(docId, value, request))
+                        {
+                            resultSet.set(docId);
+                        }
                     }
                 }
             }
