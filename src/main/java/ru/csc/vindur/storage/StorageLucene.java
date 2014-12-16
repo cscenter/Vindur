@@ -128,7 +128,7 @@ public class StorageLucene extends Storage<String, Query> {
      * @return generated query
      * @throws ParseException
      */
-    public static Query generateRequest(String requestString)
+    public static Query query(String requestString)
             throws ParseException {
         return QUERY_PARSER.parse(requestString);
     }

@@ -11,7 +11,6 @@ import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.core.WhitespaceAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
-import org.apache.lucene.document.IntField;
 import org.apache.lucene.document.StringField;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexWriter;
@@ -43,10 +42,9 @@ import ru.csc.vindur.test.utils.RandomUtils;
  * @author Andrey Kokorev Created on 07.12.2014.
  */
 public class LuceneComparsion {
-    private static final Logger LOG = LoggerFactory
-            .getLogger(TestExecutor.class);
-    private static final int DOC_NUM = 10;
-    private static final int QUERY_NUM = 1;
+    private static final Logger LOG = LoggerFactory.getLogger(TestExecutor.class);
+    private static final int DOC_NUM = 100000;
+    private static final int QUERY_NUM = 10000;
     private static final int QUERY_PARTS = 1;
 
     public void run()
@@ -80,7 +78,7 @@ public class LuceneComparsion {
 //                .storage("S6", StorageType.STRING, 100, 0.2) //?
 //                .storage("S7", StorageType.STRING, 1000, 0.01)
 //                .storage("S8", StorageType.STRING, 1000, 0.001)
-                .storage("I1", StorageType.RANGE_STRING, 1000, 1.0) //price
+                .storage("I1", StorageType.RANGE_STRING, 20000, 1.0) //price
 //                .storage("I2", StorageType.RANGE_INTEGER, 10000, 0.6) //weight
 //                .storage("L1", StorageType.LUCENE_STRING, DOC_NUM, 0.8) //desc
                 .init();
@@ -99,14 +97,14 @@ public class LuceneComparsion {
         IndexWriterConfig config = new IndexWriterConfig(Version.LATEST, analyzer);
 
         try {
-//            LOG.info("Loading data into lucene");
+            LOG.info("Loading data into lucene");
             IndexWriter writer = new IndexWriter(directory, config);
             watch.start();
             luceneLoadDocs(writer, en);
             writer.commit();
             writer.close();
             watch.stop();
-//            LOG.info("Loading time: {} millis", watch.elapsed(TimeUnit.MILLISECONDS));
+           LOG.info("Loading time: {} millis", watch.elapsed(TimeUnit.MILLISECONDS));
 
 //            LOG.info("Warm up lucene");
 //            lucenePerformSearch(analyzer, test, directory, watch, QUERY_NUM);
@@ -145,9 +143,9 @@ public class LuceneComparsion {
                         break;
                     case RANGE_INTEGER:
                     case RANGE_STRING:
-                        Object v1 = RandomUtils.gaussianRandomElement(test.getValues(attr), 0.5, 1.0 / 6);
-                        Object v2 = RandomUtils.gaussianRandomElement(test.getValues(attr), 0.5, 1.0 / 6);
-                        val = StorageRange.generateRequest(v1,v2);
+                        Comparable v1 = (Comparable)RandomUtils.gaussianRandomElement(test.getValues(attr), 0.5, 1.0 / 6);
+                        Comparable v2 = (Comparable)RandomUtils.gaussianRandomElement(test.getValues(attr), 0.5, 1.0 / 6);
+                        val = StorageRange.range(min(v1, v2), max(v1, v2));
                         break;
                     case LUCENE_STRING:
                         Object o = RandomUtils.gaussianRandomElement(test.getValues(attr), 0.5, 1.0 / 6);
@@ -183,15 +181,20 @@ public class LuceneComparsion {
         {
             org.apache.lucene.search.Query query = this.query(stqueries.get(i),analyzer);
 
-            LOG.info("query {} -> {}", stqueries.get(i).toString(), query.toString());
+//            LOG.info("query {} -> {}", stqueries.get(i).toString(), query.toString());
 
             watch.start();
             TopDocs hits = isearcher.search(query, null, DOC_NUM);
             watch.stop();
-            if (hits.scoreDocs.length>0)
-              LOG.info("result {}", isearcher.doc(hits.scoreDocs[0].doc));
-            else
-              LOG.info("result none");
+//            if (hits.scoreDocs.length>0)
+//            {
+//                LOG.info("result {}", isearcher.doc(hits.scoreDocs[0].doc));
+//                for (ScoreDoc sd :  hits.scoreDocs)
+//                    LOG.info( ireader.document( sd.doc ).toString());
+//
+//            }
+//            else
+//              LOG.info("result none");
 
             resultCount += hits.totalHits;
         }
@@ -215,11 +218,11 @@ public class LuceneComparsion {
                      if (val instanceof Integer)
                      {
                          doc.add(new StringField(attr, val.toString(), Field.Store.YES));
-                         LOG.error("add int {}",val);
+//                         LOG.error("add int {}",val);
                      }
                      else {
                          doc.add(new StringField(attr, (String) val, Field.Store.YES));
-                         LOG.error("add string {}",val);
+//                         LOG.error("add string {}",val);
                      }
                  }
             }
@@ -265,6 +268,18 @@ public class LuceneComparsion {
             LOG.error("Query parse exception", e);
         }
         return null;
+    }
+
+    private static Comparable max (Comparable a, Comparable b)
+    {
+        if (a.compareTo(b)>=0) return a;
+        return b;
+    }
+
+    private static Comparable min (Comparable a, Comparable b)
+    {
+        if (a.compareTo(b)<0) return a;
+        return b;
     }
 
 

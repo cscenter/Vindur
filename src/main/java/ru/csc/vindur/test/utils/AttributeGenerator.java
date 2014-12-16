@@ -28,7 +28,7 @@ public class AttributeGenerator {
             int maxLen) {
         Object[] values = new Object[valuesCount];
         for (int i = 0; i < valuesCount; i++) {
-            values[i] = RandomUtils.getString(minLen, maxLen);
+            values[i] = RandomUtils.getString(minLen, maxLen).toLowerCase();
         }
         return values;
     }

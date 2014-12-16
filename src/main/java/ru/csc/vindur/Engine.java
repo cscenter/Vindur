@@ -46,7 +46,7 @@ public class Engine
     }
 
     @SuppressWarnings("unchecked")
-    public void setAttributeByDocId(int docId, String attribute, Object value) {
+    public void setValue(int docId, String attribute, Object value) {
         if (!documents.containsKey(docId)) {
             throw new IllegalArgumentException("There is no such document");
         }

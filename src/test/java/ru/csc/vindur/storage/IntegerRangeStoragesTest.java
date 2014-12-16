@@ -76,7 +76,7 @@ public class IntegerRangeStoragesTest {
     }
 
     private RangeRequest toRequest(Integer from, Integer to) {
-        return StorageRangeBase.generateRequest(from, to);
+        return StorageRangeBase.range(from, to);
     }
 
     @Test

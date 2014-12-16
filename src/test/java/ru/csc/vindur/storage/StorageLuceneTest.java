@@ -57,26 +57,26 @@ public class StorageLuceneTest {
         assertEquals(
                 false,
                 storageLucene.checkValue(0, "aa bb cc dd",
-                        StorageLucene.generateRequest("ff")));
+                        StorageLucene.query("ff")));
         assertEquals(
                 false,
                 storageLucene.checkValue(0, "aa bb cc dd",
-                        StorageLucene.generateRequest("ad")));
+                        StorageLucene.query("ad")));
         assertEquals(
                 true,
                 storageLucene.checkValue(0, "aa bb cc dd",
-                        StorageLucene.generateRequest("bb")));
+                        StorageLucene.query("bb")));
         assertEquals(
                 true,
                 storageLucene.checkValue(0, "aa bb cc dd",
-                        StorageLucene.generateRequest("cc")));
+                        StorageLucene.query("cc")));
         assertEquals(
                 true,
                 storageLucene.checkValue(0, "aa bb cc dd",
-                        StorageLucene.generateRequest("aa dd")));
+                        StorageLucene.query("aa dd")));
         assertEquals(
                 true,
                 storageLucene.checkValue(0, "aa bb cc dd",
-                        StorageLucene.generateRequest("d*")));
+                        StorageLucene.query("d*")));
     }
 }

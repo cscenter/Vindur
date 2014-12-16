@@ -43,54 +43,54 @@ public class EngineTest {
         int doc3 = engine.createDocument();
         int doc4 = engine.createDocument();
 
-        engine.setAttributeByDocId(doc1, STR_ATTR, ("value1"));
-        engine.setAttributeByDocId(doc2, STR_ATTR, ("value1"));
-        engine.setAttributeByDocId(doc3, STR_ATTR, ("value2"));
-        engine.setAttributeByDocId(doc4, STR_ATTR, ("value2"));
-        engine.setAttributeByDocId(doc1, INT_ATTR, 1);
-        engine.setAttributeByDocId(doc2, INT_ATTR, 2);
-        engine.setAttributeByDocId(doc3, INT_ATTR, 2);
-        engine.setAttributeByDocId(doc4, INT_ATTR, 2);
-        engine.setAttributeByDocId(doc1, STR_ATTR2, "abc");
-        engine.setAttributeByDocId(doc2, STR_ATTR2, "aa");
-        engine.setAttributeByDocId(doc3, STR_ATTR2, "b");
-        engine.setAttributeByDocId(doc4, STR_ATTR2, "zxcvbnm");
-        engine.setAttributeByDocId(doc1, STR_ATTR3, "aa bb cc");
-        engine.setAttributeByDocId(doc2, STR_ATTR3, "aa");
-        engine.setAttributeByDocId(doc3, STR_ATTR3, "bb");
-        engine.setAttributeByDocId(doc4, STR_ATTR3, "cc bb");
+        engine.setValue(doc1, STR_ATTR, ("value1"));
+        engine.setValue(doc2, STR_ATTR, ("value1"));
+        engine.setValue(doc3, STR_ATTR, ("value2"));
+        engine.setValue(doc4, STR_ATTR, ("value2"));
+        engine.setValue(doc1, INT_ATTR, 1);
+        engine.setValue(doc2, INT_ATTR, 2);
+        engine.setValue(doc3, INT_ATTR, 2);
+        engine.setValue(doc4, INT_ATTR, 2);
+        engine.setValue(doc1, STR_ATTR2, "abc");
+        engine.setValue(doc2, STR_ATTR2, "aa");
+        engine.setValue(doc3, STR_ATTR2, "b");
+        engine.setValue(doc4, STR_ATTR2, "zxcvbnm");
+        engine.setValue(doc1, STR_ATTR3, "aa bb cc");
+        engine.setValue(doc2, STR_ATTR3, "aa");
+        engine.setValue(doc3, STR_ATTR3, "bb");
+        engine.setValue(doc4, STR_ATTR3, "cc bb");
 
         Query r1 = Query.build().query(STR_ATTR, "value1")
-                .query(INT_ATTR, StorageRangeBase.generateRequest(2, 2));
+                .query(INT_ATTR, StorageRangeBase.range(2, 2));
         assertEquals(Arrays.asList(doc2), engine.executeQuery(r1));
 
         Query r2 = Query.build().query(STR_ATTR, "value1")
-                .query(INT_ATTR, StorageRangeBase.generateRequest(1, 2));
+                .query(INT_ATTR, StorageRangeBase.range(1, 2));
         assertEquals(Arrays.asList(doc1, doc2), engine.executeQuery(r2));
 
         Query r3 = Query.build().query(STR_ATTR, "value2")
-                .query(INT_ATTR, StorageRangeBase.generateRequest(2, 2));
+                .query(INT_ATTR, StorageRangeBase.range(2, 2));
         assertEquals(Arrays.asList(doc3, doc4), engine.executeQuery(r3));
 
         Query r4 = Query.build().query(INT_ATTR,
-                StorageRangeBase.generateRequest(3, 3));
+                StorageRangeBase.range(3, 3));
         assertEquals(Arrays.asList(), engine.executeQuery(r4));
 
         Query r5 = Query.build()
-                .query(INT_ATTR, StorageRangeBase.generateRequest(1, 1))
+                .query(INT_ATTR, StorageRangeBase.range(1, 1))
                 .query(STR_ATTR, "value2");
         assertEquals(Arrays.asList(), engine.executeQuery(r5));
 
         Query r6 = Query.build().query(STR_ATTR2,
-                StorageRangeBase.generateRequest("abc", "zxcvbnm"));
+                StorageRangeBase.range("abc", "zxcvbnm"));
         assertEquals(Arrays.asList(doc1, doc3, doc4), engine.executeQuery(r6));
 
         Query r7 = Query.build().query(STR_ATTR3,
-                StorageLucene.generateRequest("aa"));
+                StorageLucene.query("aa"));
         assertEquals(Arrays.asList(doc1, doc2), engine.executeQuery(r7));
 
         Query r8 = Query.build().query(STR_ATTR3,
-                StorageLucene.generateRequest("b*"));
+                StorageLucene.query("b*"));
         assertEquals(Arrays.asList(doc1, doc3, doc4), engine.executeQuery(r8));
     }
 
@@ -120,7 +120,7 @@ public class EngineTest {
             Engine.build().storage("test", storage).init();
 
         int docId = engine.createDocument();
-        engine.setAttributeByDocId(docId, "test", "sampleValue");
+        engine.setValue(docId, "test", "sampleValue");
 
         assertEquals(Arrays.asList(),
                 engine.executeQuery(Query.build().query("test", 12)));

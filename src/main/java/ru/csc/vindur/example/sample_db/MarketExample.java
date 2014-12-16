@@ -46,7 +46,7 @@ public class MarketExample {
 
                 for (String attr : entity.keySet()) {
                     for (Object value : entity.get(attr)) {
-                        engine.setAttributeByDocId(docId, attr, value);
+                        engine.setValue(docId, attr, value);
                     }
                 }
             }
@@ -86,9 +86,9 @@ public class MarketExample {
                 .println("\n\n=================Everything from 5000 to 10000");
         Query cheap = Query
                 .build()
-                .query("priceHigh", StorageRangeBase.generateRequest(0, 10000))
+                .query("priceHigh", StorageRangeBase.range(0, 10000))
                 .query("priceLow",
-                        StorageRangeBase.generateRequest(5000,
+                        StorageRangeBase.range(5000,
                                 Integer.MAX_VALUE));
 
         List<Integer> cheapResult = engine.executeQuery(cheap);

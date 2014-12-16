@@ -64,7 +64,7 @@ public class TestExecutor
                     .entrySet()) {
                 attributesSetted += attribute.getValue().size();
                 for (Object value : attribute.getValue()) {
-                    engine.setAttributeByDocId(docId, attribute.getKey(), value);
+                    engine.setValue(docId, attribute.getKey(), value);
                 }
             }
             timer.stop();

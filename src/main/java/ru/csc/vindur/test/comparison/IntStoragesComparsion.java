@@ -95,8 +95,8 @@ public class IntStoragesComparsion
         for(int i = 0; i < data.length; i++)
         {
             int docId = engine.createDocument();
-            engine.setAttributeByDocId(docId, "warmupRange", data[i]);
-            engine.setAttributeByDocId(docId, "warmupBuckets", data[i]);
+            engine.setValue(docId, "warmupRange", data[i]);
+            engine.setValue(docId, "warmupBuckets", data[i]);
         }
 
         Query[] queriesR = generateQueries("warmupRange", qData);
@@ -176,7 +176,7 @@ public class IntStoragesComparsion
         for(int i = 0; i < docNum; i++) {
             stopwatch.start();
             int docId = engine.createDocument();
-            engine.setAttributeByDocId(docId, attr, data[i]);
+            engine.setValue(docId, attr, data[i]);
             stopwatch.stop();
         }
         LOG.info(" Loading time {} ms, average time {} ms",
