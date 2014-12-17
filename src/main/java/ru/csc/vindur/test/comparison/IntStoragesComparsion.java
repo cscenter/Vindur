@@ -42,7 +42,7 @@ public class IntStoragesComparsion
         LOG.info("Warmup");
         performTest(stopwatch, uniform, qUniform, new StorageRange<>(Integer.class));
         performTest(stopwatch, uniform, qUniform, new StorageBucketIntegers());
-        performTest(stopwatch, uniform, qUniform, new StorageIntLegacy());
+        performTest(stopwatch, uniform, qUniform, new StorageArray(Integer.class));
 
         LOG.info("Testing");
         for(int docNum = DOC_NUM_MIN; docNum <= DOC_NUM_MAX; docNum += 100_000)
@@ -72,9 +72,9 @@ public class IntStoragesComparsion
             LOG.info("");
             LOG.info("Test StorageIntLegacy");
             LOG.info("Uniform distribution");
-            performTest(stopwatch, uniform, qUniform, new StorageIntLegacy());
+            performTest(stopwatch, uniform, qUniform, new StorageArray(Integer.class));
             LOG.info("Gaussian distribution");
-            performTest(stopwatch, gaussian, qGaussian, new StorageIntLegacy());
+            performTest(stopwatch, gaussian, qGaussian, new StorageArray(Integer.class));
 
         }
     }

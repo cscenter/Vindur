@@ -149,7 +149,7 @@ public class ExecutorComparison
                     case RANGE_STRING:
                         Object v1 = RandomUtils.gaussianRandomElement(test.getValues(attr), 0.5, 1.0 / 6);
                         Object v2 = RandomUtils.gaussianRandomElement(test.getValues(attr), 0.5, 1.0 / 6);
-                        val = StorageRange.generateRequest(v1, v2);
+                        val = StorageRange.range(v1, v2);
                         break;
                     case LUCENE_STRING:
                         Object o = RandomUtils.gaussianRandomElement(test.getValues(attr), 0.5, 1.0 / 6);

@@ -1,6 +1,8 @@
 package ru.csc.vindur.storage;
 
 
+import ru.csc.vindur.test.comparison.StorageArray;
+
 /**
  * @author Andrey Kokorev Created on 15.10.2014.
  */
@@ -17,7 +19,8 @@ public class StorageHelper {
             storage = new StorageExact<>(String.class);
             break;
         case RANGE_INTEGER:
-            storage = new StorageBucketIntegers();
+              storage = new StorageArray<>(Integer.class);
+        //    storage = new StorageBucketIntegers();
             break;
         case RANGE_STRING:
             storage = new StorageRange<>( String.class);

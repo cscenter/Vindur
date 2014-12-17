@@ -18,6 +18,7 @@ import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.queryparser.classic.ParseException;
 import org.apache.lucene.queryparser.classic.QueryParser;
 import org.apache.lucene.search.IndexSearcher;
+import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.RAMDirectory;
@@ -43,7 +44,7 @@ import ru.csc.vindur.test.utils.RandomUtils;
  */
 public class LuceneComparsion {
     private static final Logger LOG = LoggerFactory.getLogger(TestExecutor.class);
-    private static final int DOC_NUM = 100000;
+    private static final int DOC_NUM = 2000000;
     private static final int QUERY_NUM = 10000;
     private static final int QUERY_PARTS = 1;
 
@@ -78,7 +79,7 @@ public class LuceneComparsion {
 //                .storage("S6", StorageType.STRING, 100, 0.2) //?
 //                .storage("S7", StorageType.STRING, 1000, 0.01)
 //                .storage("S8", StorageType.STRING, 1000, 0.001)
-                .storage("I1", StorageType.RANGE_STRING, 20000, 1.0) //price
+                .storage("I1", StorageType.RANGE_INTEGER, 200000, 1.0) //price
 //                .storage("I2", StorageType.RANGE_INTEGER, 10000, 0.6) //weight
 //                .storage("L1", StorageType.LUCENE_STRING, DOC_NUM, 0.8) //desc
                 .init();

@@ -11,17 +11,18 @@ import java.util.*;
  * @author Andrey Kokorev
  *         Created on 13.12.2014.
  */
-public class StorageIntLegacy extends StorageRangeBase<Integer> {
+public class StorageArray<T extends Comparable<T>> extends StorageRangeBase<T>
+{
     private List<Record> values = new ArrayList<>(); //а может к каждой записи в values писать list itemId?
     private boolean isSorted = false;
 
-    public StorageIntLegacy()
+    public StorageArray(Class<T> clazz)
     {
-        super(Integer.class);
+        super(clazz);
     }
 
     @Override
-    public final void add(int docId, Integer value)
+    public final void add(int docId, T value)
     {
         Record ir = new Record();
         ir.itemId = docId;
@@ -30,7 +31,13 @@ public class StorageIntLegacy extends StorageRangeBase<Integer> {
         isSorted = false;
     }
 
-    public static int leftBorder(List<Record> data, Integer value, int idx)
+
+    public static <T> boolean eq(Record r, T value)
+    {
+        return (r.value.equals(value));
+    }
+
+    public static <T> int leftBorder(List<Record> data, T value, int idx)
     {
         int ii=idx;
         if (idx<0) return -1;
@@ -43,7 +50,7 @@ public class StorageIntLegacy extends StorageRangeBase<Integer> {
         return ii;
     }
 
-    public static int rightBorder(List<Record> data, Integer value, int idx)
+    public static <T> int rightBorder(List<Record> data, T value, int idx)
     {
         int ii=idx+1;
         if (idx<0) return -1;
@@ -56,53 +63,47 @@ public class StorageIntLegacy extends StorageRangeBase<Integer> {
         return ii;
     }
 
+
+
     public ROBitArray findSet(RangeRequest request)
     {
         if (!isSorted)
         {
-            Collections.sort(values, comarator);
+            Collections.sort(values, comparator);
             isSorted=true;
         }
-        Record low = new Record();
-        low.value = (Integer) request.getLowBound();
-        Record high = new Record();
-        high.value = (Integer) request.getUpperBound();
-        int lowIdx = leftBorder(values, low.value, Collections.binarySearch(values, low, comarator));
-        int highIdx = rightBorder(values, high.value, Collections.binarySearch(values, high, comarator));
+        Record<T> low = new Record<>();
+        low.value = (T)request.getLowBound();
+        Record<T> high = new Record<>();
+        high.value = (T) request.getUpperBound();
+        int lowIdx = leftBorder(values, low.value, Collections.binarySearch(values, low, comparator));
+        int highIdx = rightBorder(values, high.value, Collections.binarySearch(values, high, comparator));
         BitArray result = BitArray.create();
         for(int i = lowIdx + 1; i < highIdx; i++)
-        {
             result.set(i);
-        }
         return result.asROBitSet();
-    }
-
-    public static boolean eq(Record r, Integer value)
-    {
-        return (r.value.equals(value));
     }
 
     public int getComplexity() {
         return 100;
     }
 
-    private final Comparator<Record> comarator =
-            new Comparator<Record>()
+    private final Comparator<Record> comparator =
+            (o1, o2) ->
             {
-                public int compare(Record o1, Record o2)
-                {
                     int r;
                     r = o1.value.compareTo(o2.value);
                     return r;
-                }
             };
 
-    private static final class Record
+    private static final class Record<T extends Comparable>
     {
-        Integer value;
+        T value;
         int itemId;
+
         @Override
-        public boolean equals(Object o) {
+        public boolean equals(Object o)
+        {
             if (this == o) return true;
             if (o == null || getClass() != o.getClass()) return false;
             Record record = (Record) o;
@@ -110,10 +111,12 @@ public class StorageIntLegacy extends StorageRangeBase<Integer> {
             if (value != null ? !value.equals(record.value) : record.value != null) return false;
             return true;
         }
+
         @Override
-        public int hashCode() {
+        public int hashCode()
+        {
             int result = value != null ? value.hashCode() : 0;
-            result = 31 * result + (int) (itemId ^ (itemId >>> 32));
+            result = 31 * result + (itemId ^ (itemId >>> 32));
             return result;
         }
     }
