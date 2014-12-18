@@ -20,6 +20,7 @@ import ru.csc.vindur.test.utils.RandomUtils;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.atomic.AtomicInteger;
 import java.util.function.Supplier;
 
 /**
@@ -29,9 +30,9 @@ public class ExecutorComparison
 {
     private static final Logger LOG = LoggerFactory
             .getLogger(TestExecutor.class);
-    private static final int DOC_NUM = 100_000;
+    private static final int DOC_NUM = 200_000;
     private static final int QUERY_NUM = 10_000;
-    private static final int QUERY_PARTS = 8;
+    private static final int QUERY_PARTS = 5;
 
     public void run()
     {
@@ -49,19 +50,22 @@ public class ExecutorComparison
                 .storage("I1", StorageType.RANGE_STRING, 1000, 1.0) //price
                 .storage("I2", StorageType.RANGE_INTEGER, 10000, 0.6) //weight
          .init();
+
         te = new TestExecutor(test.buildEngine(new DumbExecutor()));
         te.setDocumentSupplier(SimpleTest.docSupplier(test));
         te.setQuerySupplier(querySupplier(test, QUERY_PARTS));
         te.execute(DOC_NUM, QUERY_NUM);
+
+        stqueries.clear();
 
         LOG.info("DumbExecutot test");
         test = TunableTestBuilder.build()
                 .storage("S1", StorageType.STRING, 2000, 1.0) //category
-                .storage("S2", StorageType.STRING, DOC_NUM, 1.0) //id
+//                .storage("S2", StorageType.STRING, DOC_NUM, 1.0) //id
                 .storage("S3", StorageType.STRING, 2, 1.0) //sex
                 .storage("S4", StorageType.STRING, 10, 1.0) //age
-                .storage("S5", StorageType.STRING, 10000, 0.5) //producer
-                .storage("S6", StorageType.STRING, 100, 0.2) //?
+//                .storage("S5", StorageType.STRING, 10000, 0.5) //producer
+//                .storage("S6", StorageType.STRING, 100, 0.2) //?
                 .storage("I1", StorageType.RANGE_STRING, 1000, 1.0) //price
                 .storage("I2", StorageType.RANGE_INTEGER, 10000, 0.6) //weight
                 .init();
@@ -70,36 +74,38 @@ public class ExecutorComparison
         te.setQuerySupplier(querySupplier(test, QUERY_PARTS));
         te.execute(DOC_NUM, QUERY_NUM);
 
+        AtomicInteger c1=new AtomicInteger(0);
         LOG.info("TinyExecutor test");
-        test = TunableTestBuilder.build()
-                .storage("S1", StorageType.STRING, 2000, 1.0) //category
-                .storage("S2", StorageType.STRING, DOC_NUM, 1.0) //id
-                .storage("S3", StorageType.STRING, 2, 1.0) //sex
-                .storage("S4", StorageType.STRING, 10, 1.0) //age
-                .storage("S5", StorageType.STRING, 10000, 0.5) //producer
-                .storage("S6", StorageType.STRING, 100, 0.2) //?
-                .storage("I1", StorageType.RANGE_STRING, 1000, 1.0) //price
-                .storage("I2", StorageType.RANGE_INTEGER, 10000, 0.6) //weight
-                .init();
+//        test = TunableTestBuilder.build()
+//                .storage("S1", StorageType.STRING, 2000, 1.0) //category
+//                .storage("S2", StorageType.STRING, DOC_NUM, 1.0) //id
+//                .storage("S3", StorageType.STRING, 2, 1.0) //sex
+//                .storage("S4", StorageType.STRING, 10, 1.0) //age
+//                .storage("S5", StorageType.STRING, 10000, 0.5) //producer
+//                .storage("S6", StorageType.STRING, 100, 0.2) //?
+//                .storage("I1", StorageType.RANGE_STRING, 1000, 1.0) //price
+//                .storage("I2", StorageType.RANGE_INTEGER, 10000, 0.6) //weight
+//                .init();
         te = new TestExecutor(test.buildEngine(new TinyExecutor()));
         te.setDocumentSupplier(SimpleTest.docSupplier(test));
-        te.setQuerySupplier(querySupplier(test, QUERY_PARTS));
+        te.setQuerySupplier(queryReplyer(c1));
         te.execute(DOC_NUM, QUERY_NUM);
 
+        AtomicInteger c2=new AtomicInteger(0);
         LOG.info("SmartExecutor test");
-        test = TunableTestBuilder.build()
-                .storage("S1", StorageType.STRING, 2000, 1.0) //category
-                .storage("S2", StorageType.STRING, DOC_NUM, 1.0) //id
-                .storage("S3", StorageType.STRING, 2, 1.0) //sex
-                .storage("S4", StorageType.STRING, 10, 1.0) //age
-                .storage("S5", StorageType.STRING, 10000, 0.5) //producer
-                .storage("S6", StorageType.STRING, 100, 0.2) //?
-                .storage("I1", StorageType.RANGE_STRING, 1000, 1.0) //price
-                .storage("I2", StorageType.RANGE_INTEGER, 10000, 0.6) //weight
-                .init();
-        te = new TestExecutor(test.buildEngine(new SmartExecutor(500)));
+//        test = TunableTestBuilder.build()
+//                .storage("S1", StorageType.STRING, 2000, 1.0) //category
+//                .storage("S2", StorageType.STRING, DOC_NUM, 1.0) //id
+//                .storage("S3", StorageType.STRING, 2, 1.0) //sex
+//                .storage("S4", StorageType.STRING, 10, 1.0) //age
+//                .storage("S5", StorageType.STRING, 10000, 0.5) //producer
+//                .storage("S6", StorageType.STRING, 100, 0.2) //?
+//                .storage("I1", StorageType.RANGE_STRING, 1000, 1.0) //price
+//                .storage("I2", StorageType.RANGE_INTEGER, 10000, 0.6) //weight
+//                .init();
+        te = new TestExecutor(test.buildEngine(new SmartExecutor(3)));
         te.setDocumentSupplier(SimpleTest.docSupplier(test));
-        te.setQuerySupplier(querySupplier(test, QUERY_PARTS));
+        te.setQuerySupplier(queryReplyer(c2));
         te.execute(DOC_NUM, QUERY_NUM);
 
 
@@ -168,6 +174,14 @@ public class ExecutorComparison
             return query;
         };
     }
+
+
+    static Supplier<Query> queryReplyer(AtomicInteger counter)
+    {
+        return () ->
+            stqueries.get(counter.getAndIncrement());
+
+    };
 
 
 

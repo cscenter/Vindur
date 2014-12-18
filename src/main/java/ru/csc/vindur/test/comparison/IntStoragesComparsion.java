@@ -22,14 +22,14 @@ import java.util.concurrent.TimeUnit;
 public class IntStoragesComparsion
 {
     private static final SimpleLogger LOG = (SimpleLogger)new SimpleLoggerFactory().getLogger("Logger");
-    static final int DOC_NUM_MIN = 100_000;
-    static final int DOC_NUM_MAX = 10_000_000;
+    static final int DOC_NUM_MIN = 1_000_000;
+    static final int DOC_NUM_MAX = 2_000_000;
     static final int DOC_NUM_WARMUP = 10_000;
 
     static final int MAX_VAL = 10_000;
 
     static final int VAL_NUM = 2 * MAX_VAL;
-    static final int QUERY_NUM = 5_000;
+    static final int QUERY_NUM = 10_000;
     public void run()
     {
         Stopwatch stopwatch = Stopwatch.createUnstarted();
@@ -45,7 +45,7 @@ public class IntStoragesComparsion
         performTest(stopwatch, uniform, qUniform, new StorageArray(Integer.class));
 
         LOG.info("Testing");
-        for(int docNum = DOC_NUM_MIN; docNum <= DOC_NUM_MAX; docNum += 100_000)
+        for(int docNum = DOC_NUM_MIN; docNum <= DOC_NUM_MAX; docNum += 1_000_000)
         {
             gaussian = new Integer[docNum];
             uniform = new Integer[docNum];
@@ -53,9 +53,7 @@ public class IntStoragesComparsion
             qUniform  = getQueryBounds(uniform);
             qGaussian = getQueryBounds(gaussian);
 
-            LOG.info("");
             LOG.info("Testing with {} values", docNum);
-            LOG.info("");
             LOG.info("Test StorageRange");
             LOG.info("Uniform distribution");
             performTest(stopwatch, uniform, qUniform, new StorageRange<>(Integer.class));
@@ -70,7 +68,7 @@ public class IntStoragesComparsion
             performTest(stopwatch, gaussian, qGaussian, new StorageBucketIntegers());
 
             LOG.info("");
-            LOG.info("Test StorageIntLegacy");
+            LOG.info("Test StorageArray");
             LOG.info("Uniform distribution");
             performTest(stopwatch, uniform, qUniform, new StorageArray(Integer.class));
             LOG.info("Gaussian distribution");
@@ -87,26 +85,6 @@ public class IntStoragesComparsion
         testQueries(engine, "attr", stopwatch, qData);
     }
 
-    private void warmUp(Integer[] data, Integer[] qData)
-    {
-        Engine engine = Engine.build()
-                .storage("warmupRange", new StorageRange<>(Integer.class))
-                .storage("warmupBuckets", new StorageBucketIntegers()).init();
-        for(int i = 0; i < data.length; i++)
-        {
-            int docId = engine.createDocument();
-            engine.setValue(docId, "warmupRange", data[i]);
-            engine.setValue(docId, "warmupBuckets", data[i]);
-        }
-
-        Query[] queriesR = generateQueries("warmupRange", qData);
-        Query[] queriesB = generateQueries("warmupBuckets", qData);
-        for(int i = 0; i < queriesB.length; i++)
-        {
-            engine.executeQuery(queriesR[i]);
-            engine.executeQuery(queriesB[i]);
-        }
-    }
 
     private void testQueries(Engine engine, String attr, Stopwatch stopwatch, Integer[] queryData)
     {
@@ -122,8 +100,8 @@ public class IntStoragesComparsion
         }
 
         LOG.info(" Searching time {} ms, average time per query {} ms",
-                stopwatch.elapsed(TimeUnit.MILLISECONDS),
-                stopwatch.elapsed(TimeUnit.MILLISECONDS) * 1.0 / QUERY_NUM);
+                stopwatch.elapsed(TimeUnit.NANOSECONDS) / 1_000_000,
+                stopwatch.elapsed(TimeUnit.NANOSECONDS) * 1.0 / QUERY_NUM / 1_000_000.0);
         LOG.info(" Found {} results overall, {} average", result, result * 1.0 / QUERY_NUM);
     }
 
@@ -131,9 +109,7 @@ public class IntStoragesComparsion
     {
         Query[] queries = new Query[QUERY_NUM];
         for(int i = 0; i < QUERY_NUM; i++)
-        {
             queries[i] = Query.build().query(attr, new RangeRequest(qData[2 * i], qData[2*i + 1]));
-        }
         return queries;
     }
 
@@ -144,15 +120,9 @@ public class IntStoragesComparsion
         {
             Integer low = RandomUtils.uniformRandomElement(data);
             Integer high = RandomUtils.uniformRandomElement(data);
-            if(low > high) {
-                Integer temp = low;
-                low = high;
-                high = temp;
-            }
-            qData[2 * i] = low;
-            qData[2 * i + 1] = high;
+            qData[2 * i] = Math.min(low,high);
+            qData[2 * i + 1] = Math.max(low,high);;
         }
-
         return qData;
     }
 
@@ -180,8 +150,8 @@ public class IntStoragesComparsion
             stopwatch.stop();
         }
         LOG.info(" Loading time {} ms, average time {} ms",
-                stopwatch.elapsed(TimeUnit.MILLISECONDS),
-                stopwatch.elapsed(TimeUnit.MILLISECONDS) * 1.0/ docNum);
+                stopwatch.elapsed(TimeUnit.NANOSECONDS) / 1000_000,
+                stopwatch.elapsed(TimeUnit.NANOSECONDS) * 1.0/ docNum / 1_000_000.0);
     }
 
     public static void main(String[] args) {
