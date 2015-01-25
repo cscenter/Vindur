@@ -28,16 +28,29 @@ public class Engine
         this.storages = new HashMap<>();
     }
 
+    /**
+     * @param id document id
+     * @return document with given {@code id}
+     */
     public Document getDocument(Integer id) {
         return documents.get(id);
     }
-    public int getDocumentCount() {return documents.size();};
+
+    /**
+     * @return created documents count
+     */
+    public int getDocumentCount() {return documents.size();}
 
     //todo refactor to getStorage(key)
     public Map<String, Storage> getStorages() {
         return storages;
     }
 
+
+    /**
+     * Create new document and get unique document id, which is used to access document
+     * @return id of created document
+     */
     public int createDocument() {
         int nextId = documentsSequence.getAndIncrement();
         Document document = new Document(nextId);
@@ -45,6 +58,12 @@ public class Engine
         return document.getId();
     }
 
+    /**
+     * Set value of specified attribute in document by given ID
+     * @param docId document id
+     * @param attribute attribute name
+     * @param value value to be set
+     */
     @SuppressWarnings("unchecked")
     public void setValue(int docId, String attribute, Object value) {
         if (!documents.containsKey(docId)) {
@@ -64,10 +83,9 @@ public class Engine
 
     //todo по умолчанию создавать ExactStorage(String)
     /**
-     * А если storage нету, то создаем новый
-     *
-     * @param attribute
-     * @return
+     * Get storage by attribute name
+     * @param attribute attribute name
+     * @return storage, which is belong to specified attribute
      */
     private Storage findStorageBase(String attribute) {
         Storage storage;
@@ -79,6 +97,10 @@ public class Engine
         return storage;
     }
 
+    /**
+     * @param query - query to execute
+     * @return list of document ID's, which satisfy to specified query
+     */
     public List<Integer> executeQuery(Query query) {
         checkQuery(query);
         BitArray resultSet = executor.execute(query, this);
