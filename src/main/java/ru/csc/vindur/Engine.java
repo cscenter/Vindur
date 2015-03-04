@@ -5,13 +5,18 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
+import java.util.concurrent.Callable;
 import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.ExecutionException;
+import java.util.concurrent.FutureTask;
 import java.util.concurrent.atomic.AtomicInteger;
 
 import ru.csc.vindur.bitset.BitArray;
 import ru.csc.vindur.document.Document;
 import ru.csc.vindur.executor.DumbExecutor;
 import ru.csc.vindur.executor.Executor;
+import ru.csc.vindur.executor.TunableExecutor;
+import ru.csc.vindur.executor.tuner.Tuner;
 import ru.csc.vindur.storage.Storage;
 
 @SuppressWarnings("rawtypes")
@@ -21,11 +26,13 @@ public class Engine
     private final Map<Integer, Document> documents = new ConcurrentHashMap<>();
 	private Map<String, Storage> storages;
     private Executor executor;
+    private Callable<ConcurrentHashMap<String, Long>> tuner = new Tuner(this);
 
     private Engine()
     {
         this.executor = new DumbExecutor();
         this.storages = new HashMap<>();
+
     }
 
     /**
@@ -126,6 +133,11 @@ public class Engine
                         + part.getValue().getClass().getName());
             }
         }
+    }
+
+    public Callable<ConcurrentHashMap<String, Long>> getTuner()
+    {
+        return tuner;
     }
 
     public static Builder build()
