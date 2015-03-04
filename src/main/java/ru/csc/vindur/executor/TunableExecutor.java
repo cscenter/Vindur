@@ -1,84 +1,55 @@
 package ru.csc.vindur.executor;
 
-import com.google.common.base.Stopwatch;
 import com.google.common.collect.Lists;
 import ru.csc.vindur.Engine;
 import ru.csc.vindur.Query;
 import ru.csc.vindur.bitset.BitArray;
 import ru.csc.vindur.bitset.ROBitArray;
-import ru.csc.vindur.storage.Storage;
+import ru.csc.vindur.executor.tuner.Tuner;
 
-import java.util.*;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.List;
+import java.util.concurrent.Callable;
 import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.ConcurrentLinkedQueue;
-import java.util.concurrent.TimeUnit;
 
 /**
  * Created by Edgar on 11.02.2015.
  */
-public class TunnableExecutor implements Executor
+public class TunableExecutor implements Executor
 {
     private int threshold;
-    private volatile boolean isFree;
-    private Thread worker;
-    //todo: where i should init it?
-    private ConcurrentLinkedQueue<Query> queries;
-    private volatile ConcurrentHashMap<Storage, Long> complexitiesMap;
-
-    public TunnableExecutor(int threshold)
+    private volatile ConcurrentHashMap<String, Long> complexitiesMap;
+    public TunableExecutor(int threshold)
     {
         this.threshold = threshold;
-        this.isFree = true;
-
-        this.worker = new Thread(() ->
-        {
-
-            //todo: possible exception can be thrown somewhere here
-            while (true)
-            {
-                isFree = false;
-                Query query = queries.peek();
-                Stopwatch timer = Stopwatch.createUnstarted();
-                timer.start();
-                Engine engine = Engine.build().init();
-                this.execute(query, engine);
-                try
-                {
-                    Thread.sleep(1000);
-                }
-                catch (InterruptedException e)
-                {
-                    e.printStackTrace();
-                }
-                timer.stop();
-                //todo: not sure about this =(
-                for (String attribute: query.getQueryParts().keySet())
-                {
-                    Storage key = engine.getStorages().get(attribute);
-                    this.complexitiesMap.put(key, timer.elapsed(TimeUnit.MILLISECONDS));
-                }
-                isFree = true;
-            }
-        });
     }
 
     @Override
     @SuppressWarnings({"unchecked"})
     public BitArray execute(Query query, Engine engine)
     {
-        this.isFree = true;
+        Tuner tuner = (Tuner) engine.getTuner();
+        if (tuner.isFree)
+        {
+            tuner.addQuery(query);
+            tuner.isFree = false;
+        }
+        try
+        {
+            this.complexitiesMap = tuner.call();
+        }
+        catch (Exception e)
+        {
+            e.printStackTrace();
+        }
         //todo: think about it
         Comparator<String> compare =
                 (a, b) ->
-                {
-                    Storage first = engine.getStorages().get(a);
-                    Storage second = engine.getStorages().get(b);
-
-                    return Long.compare(
-                            this.complexitiesMap.get(first),
-                            this.complexitiesMap.get(second)
-                    );
-                };
+                        Long.compare(
+                                this.complexitiesMap.get(a),
+                                this.complexitiesMap.get(b)
+                        );
 
         List<String> reqs = Lists.newArrayList(query.getQueryParts().keySet());
         Collections.sort(reqs, compare);
@@ -89,7 +60,8 @@ public class TunnableExecutor implements Executor
             String key = reqs.get(i);
             ROBitArray stepResult = engine.getStorages().get(key)
                     .findSet(query.getQueryParts().get(key));
-            if (resultSet == null) {
+            if (resultSet == null)
+            {
                 resultSet = stepResult.copy();
                 //continue;
             }
@@ -107,7 +79,6 @@ public class TunnableExecutor implements Executor
         }
 
         return resultSet;
-
     }
 
     private List<String> cutTail(List<String> list, int fromIndex)
