@@ -26,26 +26,27 @@ import org.apache.lucene.store.RAMDirectory;
 import org.apache.lucene.util.Version;
 
 import ru.csc.vindur.bitset.BitArray;
+import ru.csc.vindur.bitset.EWAHBitArray;
 import ru.csc.vindur.bitset.ROBitArray;
 
-public class StorageLucene extends Storage<String, Query> {
+public class StorageLucene extends Storage<String, String> {
 
     private static final String ID_FIELD_NAME = "id";
     private static final String VALUE_FIELD_NAME = "text";
-    private static final WhitespaceAnalyzer ANALAYZER = new WhitespaceAnalyzer();
+    private static final WhitespaceAnalyzer ANALYZER = new WhitespaceAnalyzer();
     private static final QueryParser QUERY_PARSER = new QueryParser(
-            VALUE_FIELD_NAME, ANALAYZER);
+            VALUE_FIELD_NAME, ANALYZER);
     private final Directory luceneIndex;
     private IndexSearcher searcher;
     private IndexWriter indexWriter;
     private DirectoryReader indexReader;
 
     public StorageLucene() {
-        super(String.class, Query.class);
+        super(String.class, String.class);
         luceneIndex = new RAMDirectory();
         try {
             indexWriter = new IndexWriter(luceneIndex, new IndexWriterConfig(
-                    Version.LATEST, ANALAYZER));
+                    Version.LATEST, ANALYZER));
         } catch (IOException e) {
             // cannot happen because of using RAMDirectory as index
             throw new RuntimeException(e);
@@ -60,7 +61,7 @@ public class StorageLucene extends Storage<String, Query> {
             newDocument.add(new IntField(ID_FIELD_NAME, docId, Store.YES));
             if (indexWriter == null) {
                 indexWriter = new IndexWriter(luceneIndex,
-                        new IndexWriterConfig(Version.LATEST, ANALAYZER));
+                        new IndexWriterConfig(Version.LATEST, ANALYZER));
             }
             indexWriter.addDocument(newDocument);
             incrementDocumentsCount();
@@ -70,10 +71,13 @@ public class StorageLucene extends Storage<String, Query> {
         }
     }
 
+    //todo: pass string with wildcards
     @Override
-    public ROBitArray findSet(Query q) {
+    public ROBitArray findSet(String sq) {
         try {
             createSeacher();
+            Query q = new QueryParser(VALUE_FIELD_NAME,
+                    new WhitespaceAnalyzer()).parse(sq);
 
             BitArray result = BitArray.create();
             for (ScoreDoc doc : searcher.search(q, documentsCount()).scoreDocs) {
@@ -85,7 +89,10 @@ public class StorageLucene extends Storage<String, Query> {
         } catch (IOException e) {
             // cannot happen because of using RAMDirectory as index
             throw new RuntimeException(e);
+        } catch (ParseException e) {
+            e.printStackTrace();
         }
+        return new EWAHBitArray();
     }
 
     private void createSeacher() throws IOException {
@@ -104,21 +111,11 @@ public class StorageLucene extends Storage<String, Query> {
         }
     }
 
+    //todo: pass string with wildcards, and change findSet()
     @Override
-    public boolean checkValue(int docId, String value, Query request) {
-        try {
-            BooleanQuery requestWithId = new BooleanQuery();
-            requestWithId.add(
-                    new TermQuery(new Term(ID_FIELD_NAME, Integer
-                            .toString(docId))), Occur.SHOULD);
-            requestWithId.add(request, Occur.SHOULD);
-            createSeacher();
-            TopDocs result = searcher.search(requestWithId, 1);
-            return result.totalHits == 1;
-        } catch (IOException e) {
-            // cannot happen because of using RAMDirectory as index
-            throw new RuntimeException(e);
-        }
+    public boolean checkValue(int docId, String value, String request)
+    {
+        return request.equals(value);
     }
 
     /**

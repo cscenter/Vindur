@@ -10,6 +10,7 @@ import ru.csc.vindur.executor.tuner.Tuner;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
+import java.util.Map;
 import java.util.concurrent.Callable;
 import java.util.concurrent.ConcurrentHashMap;
 
@@ -19,7 +20,7 @@ import java.util.concurrent.ConcurrentHashMap;
 public class TunableExecutor implements Executor
 {
     private int threshold;
-    private volatile ConcurrentHashMap<String, Long> complexitiesMap;
+    private Map<String, Tuner.AttributeStat> complexitiesMap;
     public TunableExecutor(int threshold)
     {
         this.threshold = threshold;
@@ -29,26 +30,16 @@ public class TunableExecutor implements Executor
     @SuppressWarnings({"unchecked"})
     public BitArray execute(Query query, Engine engine)
     {
-        Tuner tuner = (Tuner) engine.getTuner();
-        if (tuner.isFree)
-        {
-            tuner.addQuery(query);
-            tuner.isFree = false;
-        }
-        try
-        {
-            this.complexitiesMap = tuner.call();
-        }
-        catch (Exception e)
-        {
-            e.printStackTrace();
-        }
+        engine.getTuner().addQuery(query);
+
+            this.complexitiesMap = engine.getTuner().getExecutionTimesMap();
+
         //todo: think about it
         Comparator<String> compare =
                 (a, b) ->
                         Long.compare(
-                                this.complexitiesMap.get(a),
-                                this.complexitiesMap.get(b)
+                                this.complexitiesMap.get(a).executionTime,
+                                this.complexitiesMap.get(b).executionTime
                         );
 
         List<String> reqs = Lists.newArrayList(query.getQueryParts().keySet());

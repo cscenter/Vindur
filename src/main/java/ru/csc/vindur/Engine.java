@@ -26,13 +26,20 @@ public class Engine
     private final Map<Integer, Document> documents = new ConcurrentHashMap<>();
 	private Map<String, Storage> storages;
     private Executor executor;
-    private Callable<ConcurrentHashMap<String, Long>> tuner = new Tuner(this);
+    private Tuner tuner = new Tuner(this);
 
     private Engine()
     {
         this.executor = new DumbExecutor();
         this.storages = new HashMap<>();
-
+        Thread worker = new Thread( () -> { while (true) {
+            try {
+                tuner.call();
+                Thread.sleep(100);
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }});
     }
 
     /**
@@ -135,7 +142,7 @@ public class Engine
         }
     }
 
-    public Callable<ConcurrentHashMap<String, Long>> getTuner()
+    public Tuner getTuner()
     {
         return tuner;
     }

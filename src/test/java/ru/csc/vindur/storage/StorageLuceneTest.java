@@ -21,34 +21,30 @@ public class StorageLuceneTest {
 
     @Test
     public void simpleTest() throws ParseException {
-        storageLucene.add(0, ("value0"));
-        storageLucene.add(1, ("value1"));
-        storageLucene.add(2, ("value0 value1"));
+        storageLucene.add(0, "value0");
+        storageLucene.add(1, "value1");
+        storageLucene.add(2, "value0 value1");
 
         BitArray expected = new EWAHBitArray().set(0).set(2);
-        assertEquals(expected, storageLucene.findSet(new QueryParser("text",
-                new WhitespaceAnalyzer()).parse("value0")));
+        assertEquals(expected, storageLucene.findSet("value0"));
         expected = new EWAHBitArray().set(1).set(2);
-        assertEquals(expected, storageLucene.findSet(new QueryParser("text",
-                new WhitespaceAnalyzer()).parse("value1")));
+        assertEquals(expected, storageLucene.findSet("value1"));
     }
 
     @Test
     public void wildcardSearchTest() throws ParseException {
-        storageLucene.add(0, ("value0"));
+        storageLucene.add(0, "value0");
 
         BitArray expected = new EWAHBitArray().set(0);
-        assertEquals(expected, storageLucene.findSet(new QueryParser("text",
-                new WhitespaceAnalyzer()).parse("v?lu*")));
+        assertEquals(expected, storageLucene.findSet("v?lu*"));
     }
 
     @Test
     public void regExpSearchTest() throws ParseException {
-        storageLucene.add(0, ("value0"));
+        storageLucene.add(0, "value0");
 
         BitArray expected = new EWAHBitArray().set(0);
-        assertEquals(expected, storageLucene.findSet(new QueryParser("text",
-                new WhitespaceAnalyzer()).parse("/[fvs]alue./")));
+        assertEquals(expected, storageLucene.findSet("/[fvs]alue./"));
     }
 
     @Test
@@ -56,27 +52,21 @@ public class StorageLuceneTest {
         storageLucene.add(0, "aa bb cc dd");
         assertEquals(
                 false,
-                storageLucene.checkValue(0, "aa bb cc dd",
-                        StorageLucene.query("ff")));
+                storageLucene.checkValue(0, "aa bb cc dd", "ff"));
         assertEquals(
                 false,
-                storageLucene.checkValue(0, "aa bb cc dd",
-                        StorageLucene.query("ad")));
+                storageLucene.checkValue(0, "aa bb cc dd", "ad"));
         assertEquals(
                 true,
-                storageLucene.checkValue(0, "aa bb cc dd",
-                        StorageLucene.query("bb")));
+                storageLucene.checkValue(0, "aa bb cc dd", "bb"));
         assertEquals(
                 true,
-                storageLucene.checkValue(0, "aa bb cc dd",
-                        StorageLucene.query("cc")));
+                storageLucene.checkValue(0, "aa bb cc dd", "cc"));
         assertEquals(
                 true,
-                storageLucene.checkValue(0, "aa bb cc dd",
-                        StorageLucene.query("aa dd")));
+                storageLucene.checkValue(0, "aa bb cc dd", "aa dd"));
         assertEquals(
                 true,
-                storageLucene.checkValue(0, "aa bb cc dd",
-                        StorageLucene.query("d*")));
+                storageLucene.checkValue(0, "aa bb cc dd", "d*"));
     }
 }

@@ -19,22 +19,20 @@ import java.util.concurrent.TimeUnit;
 /**
  * Created by Edgar on 19.02.2015.
  */
-public class Tuner implements Callable<ConcurrentHashMap<String, Long>>
+public class Tuner
 {
-    public volatile boolean isFree;
-
     //todo: все еще не понимаю, откуда их брать =(((
     private volatile ConcurrentLinkedQueue<Pair<Query, Engine>> queries;
     private volatile ConcurrentHashMap<String, Long> complexitiesMap;
 
+
     /* attribute -> findSet() execution times by this attribute
-     * not volatile because available only in this thread
-     */
-    private Map<String, ArrayList<Long>> executionTimesMap = new HashMap<>();
+         * not volatile because available only in this thread
+         */
+    private Map<String, AttributeStat> executionTimesMap = new HashMap<>();
     /* attribute -> checkValue() execution times by this attribute
      * also not volatile because available only here
      */
-    private Map<String, ArrayList<Long>> checkTimesMap = new HashMap<>();
     private Engine engine;
 
     public Tuner(Engine engine)
@@ -42,26 +40,15 @@ public class Tuner implements Callable<ConcurrentHashMap<String, Long>>
         this.engine = engine;
     }
 
-    //это и есть tune()
-    @Override
-    @SuppressWarnings("Unchecked")
-    public ConcurrentHashMap<String, Long> call() throws Exception
-    {
-        isFree = false;
-        Query query = queries.peek().getKey();
-        if (query == null)
-        {
-            try
-            {
-                Thread.sleep(100);
-            }
-            catch (InterruptedException e)
-            {
-                e.printStackTrace();
-            }
-        }
-        Stopwatch timer = Stopwatch.createUnstarted();
+    public Map<String, AttributeStat> getExecutionTimesMap() {
+        return executionTimesMap;
+    }
 
+    public void call() throws Exception //attribute->ms exec time
+    {
+        if (queries.isEmpty()) return;
+        Query query = queries.peek().getKey();
+        Stopwatch timer = Stopwatch.createUnstarted();
 
         for (String attribute : query.getQueryParts().keySet() )
         {
@@ -69,15 +56,10 @@ public class Tuner implements Callable<ConcurrentHashMap<String, Long>>
             timer.start();
             ROBitArray resultSet = storage.findSet(query.getQueryParts().get(attribute));
             timer.stop();
-            if (executionTimesMap.containsKey(attribute))
-            {
-                executionTimesMap.get(attribute).add(timer.elapsed(TimeUnit.NANOSECONDS));
-            }
-            else
-            {
-                executionTimesMap.put(attribute, new ArrayList<>());
-                executionTimesMap.get(attribute).add(timer.elapsed(TimeUnit.NANOSECONDS));
-            }
+
+            Long res = timer.elapsed(TimeUnit.NANOSECONDS);
+            Long res2=null;
+
             if (resultSet.cardinality() != 0)
             {
                 Random random = new Random();
@@ -87,30 +69,50 @@ public class Tuner implements Callable<ConcurrentHashMap<String, Long>>
                 timer.start();
                 storage.checkValue(docID, value, query.getQueryParts().get(attribute));
                 timer.stop();
-                //not sure, what to do after - add two average times?
-                if (checkTimesMap.containsKey(attribute))
-                {
-                    checkTimesMap.get(attribute).add(timer.elapsed(TimeUnit.NANOSECONDS));
-                }
-                else
-                {
-                    checkTimesMap.put(attribute, new ArrayList<>());
-                    checkTimesMap.get(attribute).add(timer.elapsed(TimeUnit.NANOSECONDS));
-                }
+                res2 = timer.elapsed(TimeUnit.NANOSECONDS);
             }
+            AttributeStat.updateMap(executionTimesMap,attribute,res,res2);
         }
-
-        for (String attribute : executionTimesMap.keySet())
-        {
-            Long res = (long)executionTimesMap.get(attribute).stream().mapToLong(i -> i).average().orElse(0);
-            complexitiesMap.put(attribute, res);
-        }
-        isFree = true;
-        return complexitiesMap;
     }
 
     public void addQuery(Query query)
     {
+        if (queries.isEmpty())
         queries.add(new Pair<>(query, this.engine));
     }
+
+    public static class AttributeStat
+    {
+        public long executionTime=0;
+        public long executionAttempts=0;
+        public long checkTime=0;
+        public long checkAttempts=0;
+
+        public void update(Long execTime, Long chckTime)
+        {
+            if (execTime != null)
+            {
+                executionTime = (executionAttempts * executionTime + execTime) / (executionAttempts + 1);
+                executionAttempts++;
+            }
+            if (chckTime != null)
+            {
+                checkTime = (checkAttempts * checkTime + chckTime) / (checkAttempts + 1);
+                checkAttempts++;
+            }
+        }
+
+       public static void updateMap(Map<String,AttributeStat> map, String key, Long execTime, Long chkTime)
+       {
+           AttributeStat as = map.get(key);
+           if (as==null)
+           {
+               as = new AttributeStat();
+               map.put(key,as);
+           }
+          as.update(execTime, chkTime);
+       }
+
+    }
+
 }
