@@ -80,6 +80,9 @@ public class Engine
      */
     @SuppressWarnings("unchecked")
     public void setValue(int docId, String attribute, Object value) {
+        //заменить на transactinManager.setValue(...)
+
+
         if (!documents.containsKey(docId)) {
             throw new IllegalArgumentException("There is no such document");
         }
@@ -116,6 +119,7 @@ public class Engine
      * @return list of document ID's, which satisfy to specified query
      */
     public List<Integer> executeQuery(Query query) {
+        //transactionManager.prepareQuery(query)
         checkQuery(query);
         BitArray resultSet = executor.execute(query, this);
         if (resultSet == null) {
@@ -123,6 +127,7 @@ public class Engine
         } else {
             return resultSet.toIntList();
         }
+        //transactionManager.checkQuery(resultSet,query)
     }
 
     private void checkQuery(Query query) throws IllegalArgumentException
