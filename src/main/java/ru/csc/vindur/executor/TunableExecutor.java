@@ -19,20 +19,14 @@ import java.util.concurrent.ConcurrentHashMap;
  */
 public class TunableExecutor implements Executor
 {
-    private int threshold;
     private Map<String, Tuner.AttributeStat> complexitiesMap;
-    public TunableExecutor(int threshold)
-    {
-        this.threshold = threshold;
-    }
 
     @Override
     @SuppressWarnings({"unchecked"})
     public BitArray execute(Query query, Engine engine)
     {
         engine.getTuner().addQuery(query);
-
-            this.complexitiesMap = engine.getTuner().getExecutionTimesMap();
+        this.complexitiesMap = engine.getTuner().getExecutionTimesMap();
 
         //todo: think about it
         Comparator<String> compare =
@@ -61,7 +55,15 @@ public class TunableExecutor implements Executor
 
             resultSet = resultSet.and(stepResult);
 
-            if (resultSet.cardinality() < this.threshold)
+            int partsLeft = reqs.size() - i + 1;
+
+            long estimatedCheckTime = partsLeft * complexitiesMap.get(key).checkTime;
+            long estimatedExecutionTime = 0;
+
+            for (int j = i; j < reqs.size(); j++)
+                estimatedExecutionTime += complexitiesMap.get(reqs.get(j)).executionTime;
+
+            if (estimatedCheckTime < estimatedExecutionTime)
             {
                 List<String> tail = cutTail(reqs, i + 1);
                 if (tail.size() != 0)

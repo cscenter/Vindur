@@ -5,10 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
-import java.util.concurrent.Callable;
-import java.util.concurrent.ConcurrentHashMap;
-import java.util.concurrent.ExecutionException;
-import java.util.concurrent.FutureTask;
+import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
 
 import ru.csc.vindur.bitset.BitArray;
@@ -27,6 +24,8 @@ public class Engine
 	private Map<String, Storage> storages;
     private Executor executor;
     private Tuner tuner = new Tuner(this);
+    private Semaphore flag = new Semaphore(1);
+    private int currentTransactionId = 0;
 
     private Engine()
     {
@@ -80,21 +79,26 @@ public class Engine
      */
     @SuppressWarnings("unchecked")
     public void setValue(int docId, String attribute, Object value) {
-        //заменить на transactinManager.setValue(...)
+        if (flag.availablePermits() == 1) {
+            startTransaction(currentTransactionId);
+            if (!documents.containsKey(docId)) {
+                throw new IllegalArgumentException("There is no such document");
+            }
 
-
-        if (!documents.containsKey(docId)) {
-            throw new IllegalArgumentException("There is no such document");
+            Storage storage = findStorageBase(attribute);
+            if (!storage.validateValueType(value)) {
+                throw new IllegalArgumentException("Invalid value type "
+                        + value.getClass().getName() + " for StorageBase "
+                        + storage.getClass().getName());
+            }
+            documents.get(docId).setAttribute(attribute, value);
+            storage.add(docId, value);
+            commitTransaction(currentTransactionId);
         }
-
-        Storage storage = findStorageBase(attribute);
-        if (!storage.validateValueType(value)) {
-            throw new IllegalArgumentException("Invalid value type "
-                    + value.getClass().getName() + " for StorageBase "
-                    + storage.getClass().getName());
+        else
+        {
+            rollbackTransaction(currentTransactionId);
         }
-        documents.get(docId).setAttribute(attribute, value);
-        storage.add(docId, value);
     }
 
 
@@ -119,15 +123,23 @@ public class Engine
      * @return list of document ID's, which satisfy to specified query
      */
     public List<Integer> executeQuery(Query query) {
-        //transactionManager.prepareQuery(query)
-        checkQuery(query);
-        BitArray resultSet = executor.execute(query, this);
-        if (resultSet == null) {
-            return Collections.emptyList();
-        } else {
-            return resultSet.toIntList();
+        if (flag.availablePermits() == 1) {
+            startTransaction(currentTransactionId);
+            checkQuery(query);
+            BitArray resultSet = executor.execute(query, this);
+            if (resultSet == null) {
+                commitTransaction(currentTransactionId); // or rollback?
+                return Collections.emptyList();
+            } else {
+                commitTransaction(currentTransactionId);
+                return resultSet.toIntList();
+            }
         }
-        //transactionManager.checkQuery(resultSet,query)
+        else
+        {
+            rollbackTransaction(currentTransactionId);
+            return Collections.emptyList();
+        }
     }
 
     private void checkQuery(Query query) throws IllegalArgumentException
@@ -146,6 +158,23 @@ public class Engine
             }
         }
     }
+
+    public void startTransaction(int transactionId)
+    {
+        try {
+            flag.acquire();
+            currentTransactionId = ++transactionId;
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void commitTransaction(int transactionId)
+    {
+        flag.release();
+    }
+
+    public void rollbackTransaction(int transactionId) {}
 
     public Tuner getTuner()
     {
