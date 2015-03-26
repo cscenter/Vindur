@@ -63,10 +63,10 @@ public class StorageLuceneTest {
                 true,
                 storageLucene.checkValue(0, "aa bb cc dd", "cc"));
         assertEquals(
-                true,
+                false,
                 storageLucene.checkValue(0, "aa bb cc dd", "aa dd"));
         assertEquals(
-                true,
+                false,
                 storageLucene.checkValue(0, "aa bb cc dd", "d*"));
     }
 }

@@ -85,12 +85,10 @@ public class EngineTest {
                 StorageRangeBase.range("abc", "zxcvbnm"));
         assertEquals(Arrays.asList(doc1, doc3, doc4), engine.executeQuery(r6));
 
-        Query r7 = Query.build().query(STR_ATTR3,
-                StorageLucene.query("aa"));
+        Query r7 = Query.build().query(STR_ATTR3, "aa");
         assertEquals(Arrays.asList(doc1, doc2), engine.executeQuery(r7));
 
-        Query r8 = Query.build().query(STR_ATTR3,
-                StorageLucene.query("b*"));
+        Query r8 = Query.build().query(STR_ATTR3,"b*");
         assertEquals(Arrays.asList(doc1, doc3, doc4), engine.executeQuery(r8));
     }
 

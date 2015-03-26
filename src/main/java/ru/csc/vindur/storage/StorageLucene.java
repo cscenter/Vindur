@@ -115,7 +115,7 @@ public class StorageLucene extends Storage<String, String> {
     @Override
     public boolean checkValue(int docId, String value, String request)
     {
-        return request.equals(value);
+        return request.equals(value) || value.toLowerCase().contains(request.toLowerCase()) || value.matches(request);
     }
 
     /**
