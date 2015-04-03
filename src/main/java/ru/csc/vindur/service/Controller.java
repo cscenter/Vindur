@@ -1,6 +1,5 @@
 package ru.csc.vindur.service;
 
-import org.apache.commons.lang.StringUtils;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
@@ -26,7 +25,7 @@ public class Controller
 
     // todo: вынести конфигурацию движка наружу
     // todo: сделать добавление значений
-    // todo: страница ошибки
+    // todo: обработка разного рода ошибок
     // todo: нужна ли какая-то авторизация?
 
     public Controller()
@@ -44,12 +43,6 @@ public class Controller
             engine.setValue(doc, INT_ATTR, i);
             engine.setValue(doc, INT_ATTR, 10 * i);
         }
-    }
-
-    @RequestMapping("/greetings")
-    public Response response(@RequestParam(value="name", defaultValue="World") String name)
-    {
-        return new Response("Hello, " + name + "!");
     }
 
     @RequestMapping("/search")
