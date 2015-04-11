@@ -1,12 +1,11 @@
 package ru.csc.vindur;
 
-import java.util.Collections;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.Map.Entry;
 import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;
+import java.util.concurrent.locks.Lock;
+import java.util.concurrent.locks.ReentrantLock;
 
 import ru.csc.vindur.bitset.BitArray;
 import ru.csc.vindur.document.Document;
@@ -15,6 +14,8 @@ import ru.csc.vindur.executor.Executor;
 import ru.csc.vindur.executor.TunableExecutor;
 import ru.csc.vindur.executor.tuner.Tuner;
 import ru.csc.vindur.storage.Storage;
+import ru.csc.vindur.transactions.Operation;
+import ru.csc.vindur.transactions.Transaction;
 
 @SuppressWarnings("rawtypes")
 public class Engine
@@ -24,14 +25,16 @@ public class Engine
 	private Map<String, Storage> storages;
     private Executor executor;
     private Tuner tuner = new Tuner(this);
-    private Semaphore flag = new Semaphore(1);
-    private int currentTransactionId = 0;
+    private HashMap<Long, Transaction> transactions = new HashMap<>();
+    private Random random = new Random();
+    private Thread worker;
+    private Lock mutex = new ReentrantLock(true);
 
     private Engine()
     {
         this.executor = new DumbExecutor();
         this.storages = new HashMap<>();
-        Thread worker = new Thread( () -> { while (true) {
+        worker = new Thread( () -> { while (true) {
             try {
                 tuner.call();
                 Thread.sleep(100);
@@ -39,6 +42,7 @@ public class Engine
                 e.printStackTrace();
             }
         }});
+
     }
 
     /**
@@ -71,6 +75,20 @@ public class Engine
         return document.getId();
     }
 
+    public void SetValue(long transactionId, int docId, String attribute, Object value)
+    {
+        Operation op = new Operation("SetValue", docId, attribute, value);
+        if (transactions.get(transactionId) != null)
+        {
+            transactions.get(transactionId).getOperations().add(op);
+        }
+        else
+        {
+            transactions.put(transactionId, new Transaction());
+            transactions.get(transactionId).getOperations().add(op);
+        }
+    }
+
     /**
      * Set value of specified attribute in document by given ID
      * @param docId document id
@@ -79,26 +97,18 @@ public class Engine
      */
     @SuppressWarnings("unchecked")
     public void setValue(int docId, String attribute, Object value) {
-        if (flag.availablePermits() == 1) {
-            startTransaction(currentTransactionId);
-            if (!documents.containsKey(docId)) {
-                throw new IllegalArgumentException("There is no such document");
-            }
+        if (!documents.containsKey(docId)) {
+            throw new IllegalArgumentException("There is no such document");
+        }
 
-            Storage storage = findStorageBase(attribute);
-            if (!storage.validateValueType(value)) {
-                throw new IllegalArgumentException("Invalid value type "
-                        + value.getClass().getName() + " for StorageBase "
-                        + storage.getClass().getName());
-            }
-            documents.get(docId).setAttribute(attribute, value);
-            storage.add(docId, value);
-            commitTransaction(currentTransactionId);
+        Storage storage = findStorageBase(attribute);
+        if (!storage.validateValueType(value)) {
+            throw new IllegalArgumentException("Invalid value type "
+                    + value.getClass().getName() + " for StorageBase "
+                    + storage.getClass().getName());
         }
-        else
-        {
-            rollbackTransaction(currentTransactionId);
-        }
+        documents.get(docId).setAttribute(attribute, value);
+        storage.add(docId, value);
     }
 
 
@@ -123,23 +133,15 @@ public class Engine
      * @return list of document ID's, which satisfy to specified query
      */
     public List<Integer> executeQuery(Query query) {
-        if (flag.availablePermits() == 1) {
-            startTransaction(currentTransactionId);
-            checkQuery(query);
-            BitArray resultSet = executor.execute(query, this);
-            if (resultSet == null) {
-                commitTransaction(currentTransactionId); // or rollback?
-                return Collections.emptyList();
-            } else {
-                commitTransaction(currentTransactionId);
-                return resultSet.toIntList();
-            }
-        }
-        else
-        {
-            rollbackTransaction(currentTransactionId);
+        checkQuery(query);
+        BitArray resultSet = executor.execute(query, this);
+        worker.start();
+        if (resultSet == null) {
             return Collections.emptyList();
+        } else {
+            return resultSet.toIntList();
         }
+
     }
 
     private void checkQuery(Query query) throws IllegalArgumentException
@@ -159,22 +161,24 @@ public class Engine
         }
     }
 
-    public void startTransaction(int transactionId)
+    public void startTransaction()
     {
-        try {
-            flag.acquire();
-            currentTransactionId = ++transactionId;
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
+        Long transactionId = random.nextLong();
+        transactions.put(transactionId, new Transaction());
     }
 
-    public void commitTransaction(int transactionId)
+    public void commitTransaction(long transactionId)
     {
-        flag.release();
+        mutex.lock();
+        Transaction transaction = transactions.get(transactionId);
+        transaction.getOperations().stream().filter(op -> "SetValue".equals(op.type)).forEach(op -> this.setValue(op.docID, op.attribute, op.value));
+        mutex.unlock();
     }
 
-    public void rollbackTransaction(int transactionId) {}
+    public void rollbackTransaction(long transactionId)
+    {
+        transactions.get(transactionId).getOperations().clear();
+    }
 
     public Tuner getTuner()
     {

@@ -40,6 +40,12 @@ public class TunableExecutor implements Executor
         Collections.sort(reqs, compare);
 
         BitArray resultSet = null;
+
+        long estimatedExecutionTime = 0;
+
+        for (int i = 0; i < reqs.size(); ++i)
+            estimatedExecutionTime += complexitiesMap.get(reqs.get(i)).executionTime;
+
         for (int i = 0; i < reqs.size(); ++i)
         {
             String key = reqs.get(i);
@@ -58,7 +64,7 @@ public class TunableExecutor implements Executor
             int partsLeft = reqs.size() - i + 1;
 
             long estimatedCheckTime = partsLeft * complexitiesMap.get(key).checkTime;
-            long estimatedExecutionTime = 0;
+            estimatedExecutionTime -= complexitiesMap.get(key).executionTime;
 
             for (int j = i; j < reqs.size(); j++)
                 estimatedExecutionTime += complexitiesMap.get(reqs.get(j)).executionTime;

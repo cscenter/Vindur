@@ -22,9 +22,7 @@ import java.util.concurrent.TimeUnit;
 public class Tuner
 {
     //todo: все еще не понимаю, откуда их брать =(((
-    private volatile ConcurrentLinkedQueue<Pair<Query, Engine>> queries;
-    private volatile ConcurrentHashMap<String, Long> complexitiesMap;
-
+    private volatile ConcurrentLinkedQueue<Pair<Query, Engine>> queries = new ConcurrentLinkedQueue<>() ;
 
     /* attribute -> findSet() execution times by this attribute
          * not volatile because available only in this thread
@@ -34,6 +32,8 @@ public class Tuner
      * also not volatile because available only here
      */
     private Engine engine;
+
+    private Random random = new Random();
 
     public Tuner(Engine engine)
     {
@@ -62,7 +62,7 @@ public class Tuner
 
             if (resultSet.cardinality() != 0)
             {
-                Random random = new Random();
+
                 //random document
                 int docID = resultSet.toIntList().get(random.nextInt(resultSet.cardinality()));
                 Object value = this.engine.getDocument(docID).getValues(attribute).get(0);
