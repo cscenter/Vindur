@@ -23,7 +23,7 @@ public abstract class StorageRangeBase<T extends Comparable<T>> extends
                 && validateValueType(((RangeRequest) request).getUpperBound());
     }
 
-    public static RangeRequest range(Object lowBound, Object upperBound) {
+    public static final RangeRequest range(Object lowBound, Object upperBound) {
         return new RangeRequest(lowBound, upperBound);
     }
 }

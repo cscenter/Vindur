@@ -1,17 +1,14 @@
 package ru.csc.vindur.service;
 
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.*;
 import ru.csc.vindur.Engine;
 import ru.csc.vindur.Query;
 import ru.csc.vindur.executor.SmartExecutor;
 import ru.csc.vindur.storage.*;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 /**
  * @author Andrey Kokorev
@@ -21,19 +18,24 @@ import java.util.Map;
 public class Controller
 {
     private static final String INT_ATTR = "Int";
+    private static final String STRING_ATTR = "Str";
+
     private Engine engine;
 
     // todo: вынести конфигурацию движка наружу
     // todo: сделать добавление значений
     // todo: обработка разного рода ошибок
+    // todo: загрузка данных с диска
     // todo: нужна ли какая-то авторизация?
 
     public Controller()
     {
+        Random r = new Random();
         Map<String, StorageType> indexes = new HashMap<>();
         indexes.put(INT_ATTR, StorageType.RANGE_INTEGER);
         engine = Engine.build()
                 .storage(INT_ATTR, new StorageBucketIntegers())
+                .storage(STRING_ATTR, new StorageExact<>(String.class))
                 .executor(new SmartExecutor(5000))
                 .init();
 
@@ -41,44 +43,46 @@ public class Controller
         {
             int doc = engine.createDocument();
             engine.setValue(doc, INT_ATTR, i);
-            engine.setValue(doc, INT_ATTR, 10 * i);
+            engine.setValue(doc, STRING_ATTR, (r.nextDouble() < 0.5) ? "Vasia" : "Petya");
         }
     }
 
     @RequestMapping("/search")
-    public Response response(@RequestParam(value="attribute", defaultValue = INT_ATTR) String attr,
-                             @RequestParam(value="from", defaultValue = "1")      String f,
-                             @RequestParam(value="to",   defaultValue = "100")    String t)
+    public ResponseEntity request(@RequestBody Request request)
     {
-        int from = Integer.parseInt(f);
-        int to = Integer.parseInt(t);
-        Query query = Query.build().query(attr, StorageBucketIntegers.range(from, to));
+        Query query = Query.build();
+        List<String> storageNotFound = new ArrayList<>();
+        request.getQuery().stream()
+                .filter((ri) -> engine.getStorages().get(ri.getAttribute()) == null)
+                .forEach(ri -> storageNotFound.add(ri.getAttribute()));
 
-        List<Integer> result = engine.executeQuery(query);
-        StringBuilder str = new StringBuilder("Result: ");
-        for(Integer id : result)
+        if(storageNotFound.size() > 0)
         {
-            str.append(getStringRepresentation(engine.getDocument(id).getValues(attr)));
-            str.append(", ");
+            StringJoiner storages = new StringJoiner(", ");
+            storageNotFound.forEach(storages::add);
+            return new ResponseEntity("No storage for [" + storages.toString() + "]", HttpStatus.BAD_REQUEST);
         }
-        return new Response(str.toString());
+
+        //At this point we are sure, that exists storage foreach attr in request
+        request.getQuery().forEach(ri -> {
+            String attr = ri.getAttribute();
+            Storage storage = engine.getStorages().get(attr);
+
+            //range request
+            if(StorageRangeBase.class.isInstance(storage))
+            {
+                query.query(attr, StorageRangeBase.range(ri.getFrom(), ri.getTo()));
+            }
+            else // exact request, "RequestItem.to" ignored
+            {
+                query.query(attr, ri.getFrom());
+            }
+        });
+
+        List<ResponseDocument> result = new ArrayList<>();
+        engine.executeQuery(query).forEach(id -> result.add(new ResponseDocument(engine.getDocument(id))));
+
+        return new ResponseEntity(result, HttpStatus.OK);
     }
 
-    private String getStringRepresentation(List<Object> object)
-    {
-        StringBuilder sb = new StringBuilder();
-        List<String> strValues = new ArrayList<>();
-        object.forEach((v) -> strValues.add(v.toString()));
-
-        boolean first = true;
-        sb.append('{');
-        for(String s : strValues)
-        {
-            if(first) first = false;
-            else sb.append(", ");
-            sb.append(s);
-        }
-        sb.append('}');
-        return sb.toString();
-    }
 }
