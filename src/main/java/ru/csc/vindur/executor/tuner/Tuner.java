@@ -27,11 +27,8 @@ public class Tuner
     /* attribute -> findSet() execution times by this attribute
          * not volatile because available only in this thread
          */
-    private Map<String, AttributeStat> executionTimesMap = new HashMap<>();
-    /* attribute -> checkValue() execution times by this attribute
-     * also not volatile because available only here
-     */
-    private Engine engine;
+    private volatile Map<String, AttributeStat> executionTimesMap = new HashMap<>();
+    private volatile Engine engine;
 
     private Random random = new Random();
 
@@ -44,6 +41,7 @@ public class Tuner
         return executionTimesMap;
     }
 
+    @SuppressWarnings("rawtypes")
     public void call() throws Exception //attribute->ms exec time
     {
         if (queries.isEmpty()) return;
@@ -62,7 +60,6 @@ public class Tuner
 
             if (resultSet.cardinality() != 0)
             {
-
                 //random document
                 int docID = resultSet.toIntList().get(random.nextInt(resultSet.cardinality()));
                 Object value = this.engine.getDocument(docID).getValues(attribute).get(0);
@@ -105,7 +102,7 @@ public class Tuner
        public static void updateMap(Map<String,AttributeStat> map, String key, Long execTime, Long chkTime)
        {
            AttributeStat as = map.get(key);
-           if (as==null)
+           if (as == null)
            {
                as = new AttributeStat();
                map.put(key,as);

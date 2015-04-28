@@ -19,14 +19,14 @@ import java.util.concurrent.ConcurrentHashMap;
  */
 public class TunableExecutor implements Executor
 {
-    private Map<String, Tuner.AttributeStat> complexitiesMap;
+    private volatile Map<String, Tuner.AttributeStat> complexitiesMap;
 
     @Override
     @SuppressWarnings({"unchecked"})
     public BitArray execute(Query query, Engine engine)
     {
-        engine.getTuner().addQuery(query);
-        this.complexitiesMap = engine.getTuner().getExecutionTimesMap();
+        Tuner tuner = engine.getTuner();
+        this.complexitiesMap = tuner.getExecutionTimesMap();
 
         //todo: think about it
         Comparator<String> compare =

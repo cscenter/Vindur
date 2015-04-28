@@ -146,9 +146,11 @@ public class Engine
      * @return list of document ID's, which satisfy to specified query
      */
     public List<Integer> executeQuery(Query query) {
+        tuner.addQuery(query);
+        tunerThread.setDaemon(true);
+        tunerThread.start();
         checkQuery(query);
         BitArray resultSet = executor.execute(query, this);
-        tunerThread.start();
         transactionsThread.start();
         if (!commitedChanges.isEmpty())
         {
