@@ -10,7 +10,6 @@ public class RequestItem
     private Object from;
     private Object to;
 
-
     public String getAttribute()
     {
         return attribute;

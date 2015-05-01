@@ -1,11 +1,12 @@
 package ru.csc.vindur.service;
 
 import java.util.List;
-import java.util.Map;
 
 /**
  * @author Andrey Kokorev
  *         Created on 16.04.2015.
+ *
+ *  JSON example: {"query": [ {"attribute":"Int", "from":0, "to":10}, {"attribute":"Str", "from":"Petya"} ]}
  */
 public class Request
 {

@@ -11,7 +11,7 @@ import java.util.Map;
  * @author Andrey Kokorev
  *         Created on 16.04.2015.
  */
-public class ResponseDocument
+public class DocumentModel
 {
     private Map<String, List<Object>> values;
 
@@ -20,7 +20,9 @@ public class ResponseDocument
         return values;
     }
 
-    public ResponseDocument(Document document)
+    public DocumentModel(){ }
+
+    public DocumentModel(Document document)
     {
         values = new HashMap<>();
         for(String attr : document.getAttributes())

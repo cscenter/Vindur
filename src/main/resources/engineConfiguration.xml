@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:util="http://www.springframework.org/schema/util"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-3.0.xsd
+http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-2.5.xsd">
+
+    <context:annotation-config />
+
+    <bean name="controller" class="ru.csc.vindur.service.Controller">
+        <property name="engine" ref="myEngine"/>
+    </bean>
+
+    <bean name="myEngine" class="ru.csc.vindur.service.EngineFactoryBean">
+        <property name="executor" ref="executor"/>
+        <property name="storageMap" ref="storageMap"/>
+    </bean>
+
+    <bean id="executor" class="ru.csc.vindur.executor.SmartExecutor">
+        <constructor-arg type="int" value="5000" />
+    </bean>
+
+    <util:map id="storageMap" map-class="java.util.HashMap" key-type="String" value-type="ru.csc.vindur.storage.Storage">
+        <entry key-ref="intStorageKey" value-ref="intStorageValue" />
+        <entry key-ref="stringStorageKey" value-ref="stringStorageValue" />
+    </util:map>
+
+    <bean id="intStorageKey" class="java.lang.String">
+        <constructor-arg type="String" value="Int"/>
+    </bean>
+    <bean id="intStorageValue" class="ru.csc.vindur.storage.StorageBucketIntegers" />
+
+    <bean id="stringStorageKey" class="java.lang.String">
+        <constructor-arg type="String" value="Str"/>
+    </bean>
+    <bean id="stringStorageValue" class="ru.csc.vindur.storage.StorageExact">
+        <constructor-arg type="Class" value="java.lang.String" />
+    </bean>
+
+
+</beans>

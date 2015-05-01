@@ -1,11 +1,11 @@
 package ru.csc.vindur.service;
 
+import org.springframework.context.annotation.ImportResource;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import ru.csc.vindur.Engine;
 import ru.csc.vindur.Query;
-import ru.csc.vindur.executor.SmartExecutor;
 import ru.csc.vindur.storage.*;
 
 import java.util.*;
@@ -14,37 +14,25 @@ import java.util.*;
  * @author Andrey Kokorev
  *         Created on 01.04.2015.
  */
+@ImportResource("engineConfiguration.xml")
 @RestController
 public class Controller
 {
-    private static final String INT_ATTR = "Int";
-    private static final String STRING_ATTR = "Str";
-
     private Engine engine;
 
+    public void setEngine(Engine engine)
+    {
+        this.engine = engine;
+    }
     // todo: вынести конфигурацию движка наружу
     // todo: сделать добавление значений
     // todo: обработка разного рода ошибок
     // todo: загрузка данных с диска
     // todo: нужна ли какая-то авторизация?
+    // todo: может быть опциональный декодер строка -> объект для полученных/передаваемых JSON запросов?
 
     public Controller()
     {
-        Random r = new Random();
-        Map<String, StorageType> indexes = new HashMap<>();
-        indexes.put(INT_ATTR, StorageType.RANGE_INTEGER);
-        engine = Engine.build()
-                .storage(INT_ATTR, new StorageBucketIntegers())
-                .storage(STRING_ATTR, new StorageExact<>(String.class))
-                .executor(new SmartExecutor(5000))
-                .init();
-
-        for(int i = 0; i < 100; i++)
-        {
-            int doc = engine.createDocument();
-            engine.setValue(doc, INT_ATTR, i);
-            engine.setValue(doc, STRING_ATTR, (r.nextDouble() < 0.5) ? "Vasia" : "Petya");
-        }
     }
 
     @RequestMapping("/search")
@@ -63,7 +51,7 @@ public class Controller
             return new ResponseEntity("No storage for [" + storages.toString() + "]", HttpStatus.BAD_REQUEST);
         }
 
-        //At this point we are sure, that exists storage foreach attr in request
+        //At this point we are sure, that proper storage exists for each attr in request
         request.getQuery().forEach(ri -> {
             String attr = ri.getAttribute();
             Storage storage = engine.getStorages().get(attr);
@@ -79,10 +67,50 @@ public class Controller
             }
         });
 
-        List<ResponseDocument> result = new ArrayList<>();
-        engine.executeQuery(query).forEach(id -> result.add(new ResponseDocument(engine.getDocument(id))));
+        List<DocumentModel> result = new ArrayList<>();
+        engine.executeQuery(query).forEach(id -> result.add(new DocumentModel(engine.getDocument(id))));
 
         return new ResponseEntity(result, HttpStatus.OK);
     }
 
+
+    @RequestMapping("/insert")
+    public ResponseEntity insert(@RequestBody InsertionRequest iRequest)
+    {
+        Set<String> storageNotFound = new HashSet<>();
+        Map<String, Storage> storages = engine.getStorages();
+
+        //todo: Может нужно возвращать, каких конкретно хранилищ нет?
+        //Check if any of documents can not be inserted
+        iRequest.getDocuments().stream().forEach(doc ->
+            doc.getValues().keySet().stream()
+                    .filter(attr -> !storages.containsKey(attr))
+                    .forEach(storageNotFound::add)
+        );
+
+        if(storageNotFound.size() > 0)
+        {
+            StringJoiner sj = new StringJoiner(", ");
+            storageNotFound.stream().forEach(sj::add);
+            return new ResponseEntity("No proper storages for attributes [" + sj.toString() + "] ", HttpStatus.BAD_REQUEST);
+        }
+
+        //todo: Проверка типов какая-то?
+        iRequest.getDocuments().stream().forEach(doc -> {
+            int id = engine.createDocument();
+            doc.getValues().entrySet().stream()
+                    .forEach(entry -> {
+                        for(Object value : entry.getValue())
+                            engine.setValue(id, entry.getKey(), value);
+                    });
+        });
+
+        return new ResponseEntity("Inserted " + iRequest.getDocuments().size() + " documents", HttpStatus.OK);
+    }
+
+    @RequestMapping("/greetings")
+    public String greetings()
+    {
+        return "I am up!";
+    }
 }
