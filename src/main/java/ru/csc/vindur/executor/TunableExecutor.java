@@ -6,6 +6,7 @@ import ru.csc.vindur.Query;
 import ru.csc.vindur.bitset.BitArray;
 import ru.csc.vindur.bitset.ROBitArray;
 import ru.csc.vindur.executor.tuner.Tuner;
+import ru.csc.vindur.storage.Storage;
 
 import java.util.Collections;
 import java.util.Comparator;
@@ -30,27 +31,43 @@ public class TunableExecutor implements Executor
 
         //todo: think about it
         Comparator<String> compare =
-                (a, b) ->
-                        Long.compare(
+                (a, b) -> {
+                    if (this.complexitiesMap.get(a) == null || this.complexitiesMap.get(a) == null) {
+                        return Long.compare(
+                                engine.getStorages().get(a).getComplexity(),
+                                engine.getStorages().get(b).getComplexity()
+                        );
+                    } else {
+                        return Long.compare(
                                 this.complexitiesMap.get(a).executionTime,
                                 this.complexitiesMap.get(b).executionTime
                         );
+                    }
+                };
 
-        List<String> reqs = Lists.newArrayList(query.getQueryParts().keySet());
-        Collections.sort(reqs, compare);
+
+        List<String> attributes = Lists.newArrayList(query.getQueryParts().keySet());
+        Collections.sort(attributes, compare);
 
         BitArray resultSet = null;
 
         long estimatedExecutionTime = 0;
 
-        for (int i = 0; i < reqs.size(); ++i)
-            estimatedExecutionTime += complexitiesMap.get(reqs.get(i)).executionTime;
+        for (String attribute : attributes) {
+            if (complexitiesMap.get(attribute) == null)
+                estimatedExecutionTime += engine.getStorages().get(attribute).getComplexity();
+            else
+                estimatedExecutionTime += complexitiesMap.get(attribute).executionTime;
+        }
 
-        for (int i = 0; i < reqs.size(); ++i)
+        for (int i = 0; i < attributes.size(); ++i)
         {
-            String key = reqs.get(i);
-            ROBitArray stepResult = engine.getStorages().get(key)
-                    .findSet(query.getQueryParts().get(key));
+            String key = attributes.get(i);
+            Tuner.AttributeStat stat = complexitiesMap.get(key);
+            Storage storage = engine.getStorages().get(key);
+
+
+            ROBitArray stepResult = storage.findSet(query.getQueryParts().get(key));
             if (resultSet == null)
             {
                 resultSet = stepResult.copy();
@@ -61,17 +78,25 @@ public class TunableExecutor implements Executor
 
             resultSet = resultSet.and(stepResult);
 
-            int partsLeft = reqs.size() - i + 1;
+            int partsLeft = attributes.size() - i + 1;
 
-            long estimatedCheckTime = partsLeft * complexitiesMap.get(key).checkTime;
-            estimatedExecutionTime -= complexitiesMap.get(key).executionTime;
+            long estimatedCheckTime;
 
-            for (int j = i; j < reqs.size(); j++)
-                estimatedExecutionTime += complexitiesMap.get(reqs.get(j)).executionTime;
+            if (stat == null)
+            {
+                estimatedCheckTime = partsLeft * storage.getComplexity();
+                estimatedExecutionTime -= storage.getComplexity();
+            }
+            else
+            {
+                estimatedCheckTime = partsLeft * stat.checkTime;
+                estimatedExecutionTime -= stat.executionTime;
+            }
+
 
             if (estimatedCheckTime < estimatedExecutionTime)
             {
-                List<String> tail = cutTail(reqs, i + 1);
+                List<String> tail = cutTail(attributes, i + 1);
                 if (tail.size() != 0)
                     return checkManually(tail, query, engine, resultSet);
             }
@@ -104,17 +129,12 @@ public class TunableExecutor implements Executor
                 Object request = query.getQueryParts().get(key);
                 if (values != null)
                 {
-                    for (Object value : values)
-                    {
-                        if (engine.getStorages().get(key).checkValue(docId, value, request))
-                        {
-                            resultSet.set(docId);
-                        }
-                    }
+                    values.stream()
+                            .filter(value -> engine.getStorages().get(key).checkValue(docId, value, request))
+                            .forEach(value -> resultSet.set(docId));
                 }
             }
         }
-
         return resultSet.and(currentResult);
     }
 }

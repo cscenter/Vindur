@@ -3,8 +3,9 @@ package ru.csc.vindur;
 import javafx.util.Pair;
 import ru.csc.vindur.bitset.BitArray;
 import ru.csc.vindur.document.Document;
-import ru.csc.vindur.executor.DumbExecutor;
 import ru.csc.vindur.executor.Executor;
+import ru.csc.vindur.executor.TinyExecutor;
+import ru.csc.vindur.executor.TunableExecutor;
 import ru.csc.vindur.executor.tuner.Tuner;
 import ru.csc.vindur.storage.Storage;
 import ru.csc.vindur.transactions.Operation;
@@ -21,26 +22,19 @@ public class Engine
     private final AtomicInteger documentsSequence = new AtomicInteger(0);
     private final Map<Integer, Document> documents = new ConcurrentHashMap<>();
 	private Map<String, Storage> storages;
+
     private Executor executor;
-    private Tuner tuner = new Tuner(this);
+
+    private Tuner tuner;
     private volatile List<Operation> currentChanges = new LinkedList<>();
-    private volatile HashMap<Pair<String, Object>, List<Integer>> commitedChanges = new HashMap<>(); //(attribute, value) -> list of documents
+    private volatile HashMap<Pair<String, Object>, List<Integer>> uncommitedChanges = new HashMap<>(); //(attribute, value) -> list of documents
     private volatile HashMap<Long, Transaction> transactions = new HashMap<>(); // transactionID -> transaction
     private Random random = new Random();
-    private Thread tunerThread = new Thread( () -> {
-        while (true) {
-            try {
-                tuner.call();
-                Thread.sleep(100);
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
-        }
-    });
+    private Thread tunerThread;
     private Thread transactionsThread = new Thread( () -> {
-        if (!commitedChanges.isEmpty())
+        if (!uncommitedChanges.isEmpty())
         {
-            for (Entry<Pair<String, Object>, List<Integer>> entry: commitedChanges.entrySet())
+            for (Entry<Pair<String, Object>, List<Integer>> entry: uncommitedChanges.entrySet())
             {
                 String attribute = entry.getKey().getKey();
                 Object value = entry.getKey().getValue();
@@ -50,11 +44,25 @@ public class Engine
             }
         }
     });
-
     private Engine()
     {
-        this.executor = new DumbExecutor();
+        this.executor = new TinyExecutor();
         this.storages = new HashMap<>();
+    }
+    public void setTuner(Tuner tuner) {
+        this.tuner = tuner;
+        tunerThread = new Thread( () -> {
+            while (true) {
+                try {
+                    tuner.call();
+                    Thread.sleep(1000);
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+            }
+        });
+        tunerThread.setDaemon(true);
+        tunerThread.start();
     }
 
     /**
@@ -75,7 +83,6 @@ public class Engine
         return storages;
     }
 
-
     /**
      * Create new document and get unique document id, which is used to access document
      * @return id of created document
@@ -87,9 +94,10 @@ public class Engine
         return document.getId();
     }
 
-    public void SetValue(long transactionId, int docId, String attribute, Object value)
+
+    public void setValue(long transactionId, int docId, String attribute, Object value)
     {
-        Operation op = new Operation("SetValue", docId, attribute, value);
+        Operation op = new Operation(Operation.Type.UPDATE, docId, attribute, value);
         currentChanges.add(op);
 //        if (transactions.get(transactionId) != null)
 //        {
@@ -124,8 +132,9 @@ public class Engine
         storage.add(docId, value);
     }
 
-
     //todo по умолчанию создавать ExactStorage(String)
+
+
     /**
      * Get storage by attribute name
      * @param attribute attribute name
@@ -140,21 +149,18 @@ public class Engine
         }
         return storage;
     }
-
     /**
      * @param query - query to execute
      * @return list of document ID's, which satisfy to specified query
      */
     public List<Integer> executeQuery(Query query) {
         tuner.addQuery(query);
-        tunerThread.setDaemon(true);
-        tunerThread.start();
         checkQuery(query);
         BitArray resultSet = executor.execute(query, this);
-        transactionsThread.start();
-        if (!commitedChanges.isEmpty())
+        //transactionsThread.start(); //todo blockingQueue or while(true) in thread
+        if (!uncommitedChanges.isEmpty())
         {
-            for (Entry<Pair<String, Object>, List<Integer>> entry : commitedChanges.entrySet())
+            for (Entry<Pair<String, Object>, List<Integer>> entry : uncommitedChanges.entrySet())
             {
                 String attribute = entry.getKey().getKey();
                 Object value = entry.getKey().getValue();
@@ -167,22 +173,25 @@ public class Engine
                                 attribute.equals(queryEntry.getKey()) && value.equals(queryEntry.getValue()))
                         .forEach(queryEntry ->
                                 docIDs.forEach(resultSet::set));
+
+                /*todo: add .remove(int index) to BitArray. Лучше сделать два временных битсета. В одном - документы, котороые надо добавить
+                    во втором - которые надо удалить. Тогда потом resultSet and первый битсет, результат xor второй
+                 */
             }
         }
-        try {
-            transactionsThread.join();
-            commitedChanges.clear();
+//        try {
+//            //transactionsThread.join();
+//            uncommitedChanges.clear();
             if (resultSet == null) {
                 return Collections.emptyList();
             } else {
                 return resultSet.toIntList();
             }
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
-        return null;
+//        } catch (InterruptedException e) {
+//            e.printStackTrace();
+//        }
+//        return null;
     }
-
 
     private void checkQuery(Query query) throws IllegalArgumentException
     {
@@ -201,6 +210,7 @@ public class Engine
         }
     }
 
+
     public void startTransaction()
     {
         Long transactionId = random.nextLong();
@@ -217,10 +227,10 @@ public class Engine
             int docID = op.docID;
             Pair<String, Object> key = new Pair<>(attribute, value);
 
-            if (!commitedChanges.containsKey(key))
-                commitedChanges.put(key, new LinkedList<>());
+            if (!uncommitedChanges.containsKey(key))
+                uncommitedChanges.put(key, new LinkedList<>());
 
-            commitedChanges.get(key).add(docID);
+            uncommitedChanges.get(key).add(docID);
         }
 //        transaction.getOperations().stream()
 //                .filter(op -> "SetValue".equals(op.type))
@@ -238,6 +248,10 @@ public class Engine
         return tuner;
     }
 
+    public void setExecutor(Executor executor) {
+        this.executor = executor;
+    }
+
     public static Builder build()
     {
         return new Builder();
@@ -251,11 +265,13 @@ public class Engine
         public Builder()
         {
             this.engine = new Engine();
+            Tuner tuner = new Tuner(engine);
+            engine.setTuner(tuner);
         }
 
         public Builder executor(Executor e)
         {
-           engine.executor=e;
+           engine.executor = e;
            return this;
         }
 

@@ -30,12 +30,13 @@ public class ExecutorComparison
 {
     private static final Logger LOG = LoggerFactory
             .getLogger(TestExecutor.class);
-    private static final int DOC_NUM = 50_000;
+    private static final int DOC_NUM = 300_000;
     private static final int QUERY_NUM = 5_000;
     private static final int QUERY_PARTS = 7;
 
     public void run()
     {
+        //todo: add lucene
         TunableTestBuilder test;
         TestExecutor te;
 

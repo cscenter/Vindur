@@ -133,6 +133,6 @@ public class StorageLucene extends Storage<String, String> {
 
     @Override
     public int getComplexity() {
-        return 1000;
+        return 40745143;
     }
 }

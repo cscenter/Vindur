@@ -44,6 +44,6 @@ public final class StorageExact<T> extends Storage<T, T> {
 
     @Override
     public int getComplexity() {
-        return 10;
+        return 41099172;
     }
 }
