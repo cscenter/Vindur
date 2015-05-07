@@ -22,11 +22,10 @@ public class SmartExecutor implements Executor {
     @SuppressWarnings({"unchecked"})
     public BitArray execute(Query query, Engine engine) {
         Comparator<String> compare =
-                (a, b) -> Integer.compare(engine.getStorages().get(a)
-                        .getComplexity()
-                        * engine.getStorages().get(a).documentsCount(), engine
-                        .getStorages().get(b).getComplexity()
-                        * engine.getStorages().get(b).documentsCount());
+                (a, b) -> Long.compare(
+                        engine.getStorages().get(a).getComplexity(),
+                        engine.getStorages().get(b).getComplexity()
+                );
 
         List<String> reqs = Lists.newArrayList(query.getQueryParts().keySet());
         Collections.sort(reqs, compare);

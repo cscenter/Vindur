@@ -4,7 +4,7 @@ package ru.csc.vindur.transactions;
  * Created by edgar on 06.04.15.
  */
 public class Operation {
-    public Type type; //todo enum is better
+    public Type type;
     public int docID;
     public String attribute;
     public Object value;

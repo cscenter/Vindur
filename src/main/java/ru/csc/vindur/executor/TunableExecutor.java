@@ -78,7 +78,7 @@ public class TunableExecutor implements Executor
 
             resultSet = resultSet.and(stepResult);
 
-            int partsLeft = attributes.size() - i + 1;
+            int partsLeft = attributes.size() - i - 1;
 
             long estimatedCheckTime;
 

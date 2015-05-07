@@ -55,7 +55,8 @@ public class Engine
             while (true) {
                 try {
                     tuner.call();
-                    Thread.sleep(1000);
+                    return;
+                    //Thread.sleep(1000);
                 } catch (Exception e) {
                     e.printStackTrace();
                 }
@@ -174,7 +175,7 @@ public class Engine
                         .forEach(queryEntry ->
                                 docIDs.forEach(resultSet::set));
 
-                /*todo: add .remove(int index) to BitArray. Лучше сделать два временных битсета. В одном - документы, котороые надо добавить
+                /*todo: add .remove(int index) to BitArray. Лучше сделать два временных битсета. В одном - документы, которые надо добавить
                     во втором - которые надо удалить. Тогда потом resultSet and первый битсет, результат xor второй
                  */
             }
@@ -232,7 +233,8 @@ public class Engine
 
             uncommitedChanges.get(key).add(docID);
         }
-//        transaction.getOperations().stream()
+
+//                transaction.getOperations().stream()
 //                .filter(op -> "SetValue".equals(op.type))
 //                .forEach(op -> this.setValue(op.docID, op.attribute, op.value));
     }

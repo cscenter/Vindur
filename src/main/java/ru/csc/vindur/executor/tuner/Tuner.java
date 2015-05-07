@@ -51,6 +51,7 @@ public class Tuner
         for (String attribute : query.getQueryParts().keySet() )
         {
             Storage storage = this.engine.getStorages().get(attribute);
+            timer.reset();
             timer.start();
             ROBitArray resultSet = storage.findSet(query.getQueryParts().get(attribute));
             timer.stop();
@@ -63,6 +64,7 @@ public class Tuner
                 //random document
                 int docID = resultSet.toIntList().get(random.nextInt(resultSet.cardinality()));
                 Object value = this.engine.getDocument(docID).getValues(attribute).get(0);
+                timer.reset();
                 timer.start();
                 storage.checkValue(docID, value, query.getQueryParts().get(attribute));
                 timer.stop();

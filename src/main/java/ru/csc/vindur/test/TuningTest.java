@@ -66,7 +66,7 @@ public class TuningTest {
         StorageLucene storageLucene = new StorageLucene();
 
         Engine engine = Engine.build()
-                .executor(new SmartExecutor(5000))
+                .executor(new SmartExecutor(3000))
                 .storage("Name", stringStorage)
                 .storage("Count", intStorage)
                 .storage("Bio", storageLucene)
@@ -76,7 +76,6 @@ public class TuningTest {
         generateRandomValues(UNIQUE_VALS_COUNT, StorageType.RANGE_INTEGER);
         generateRandomValues(UNIQUE_VALS_COUNT, StorageType.STRING);
         generateRandomValues(UNIQUE_VALS_COUNT, StorageType.LUCENE_STRING);
-        LOG.info("Smart executor test");
         LOG.info("Documents loading...");
         timer.start();
         for (int i = 0; i < DOC_COUNT; i++)
@@ -116,6 +115,7 @@ public class TuningTest {
         timer.stop();
         LOG.info("{} queries generated for {} ms", QUERY_COUNT, timer.elapsed(TimeUnit.MILLISECONDS));
 
+        LOG.info("Smart executor test");
         long totalTime = 0;
 
         for (Query query : queries)
