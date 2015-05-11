@@ -1,4 +1,4 @@
-package ru.csc.vindur.service;
+package ru.csc.vindur.service.model;
 
 import ru.csc.vindur.document.Document;
 
@@ -20,6 +20,7 @@ public class DocumentModel
         return values;
     }
 
+    /* This is used by Spring */
     public DocumentModel(){ }
 
     public DocumentModel(Document document)

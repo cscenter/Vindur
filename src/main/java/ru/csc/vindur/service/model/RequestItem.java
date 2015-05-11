@@ -1,4 +1,4 @@
-package ru.csc.vindur.service;
+package ru.csc.vindur.service.model;
 
 /**
  * @author Andrey Kokorev

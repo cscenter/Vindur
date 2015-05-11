@@ -1,4 +1,6 @@
-package ru.csc.vindur.service;
+package ru.csc.vindur.service.model;
+
+import ru.csc.vindur.service.model.DocumentModel;
 
 import java.util.List;
 

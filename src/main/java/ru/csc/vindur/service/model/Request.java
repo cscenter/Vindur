@@ -1,4 +1,4 @@
-package ru.csc.vindur.service;
+package ru.csc.vindur.service.model;
 
 import java.util.List;
 

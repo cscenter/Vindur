@@ -2,6 +2,8 @@ package ru.csc.vindur.storage;
 
 import ru.csc.vindur.bitset.ROBitArray;
 
+import java.util.Map;
+
 public abstract class Storage<V, R> {
 
     private final Class<V> valueClazz;
@@ -25,6 +27,15 @@ public abstract class Storage<V, R> {
      */
     public boolean validateValueType(Object value) {
         return valueClazz.isAssignableFrom(value.getClass());
+    }
+
+    /***
+     * Applies modification to storage
+     * @param modification describes modification
+     */
+    public void modify(Map<String, Object> modification)
+    {
+        throw new UnsupportedOperationException("This storage can not be modified");
     }
 
     /**

@@ -23,22 +23,17 @@ http://www.springframework.org/schema/context http://www.springframework.org/sch
         <constructor-arg type="int" value="5000" />
     </bean>
 
-    <util:map id="storageMap" map-class="java.util.HashMap" key-type="String" value-type="ru.csc.vindur.storage.Storage">
-        <entry key-ref="intStorageKey" value-ref="intStorageValue" />
-        <entry key-ref="stringStorageKey" value-ref="stringStorageValue" />
+    <util:map id="storageMap" map-class="java.util.HashMap" key-type="java.lang.String" value-type="ru.csc.vindur.storage.Storage">
+        <entry key="Int" value-ref="intStorage" />
+        <entry key="Str" value-ref="stringStorage" />
+        <entry key="Hr" value-ref="hierarchyStorage" />
     </util:map>
 
-    <bean id="intStorageKey" class="java.lang.String">
-        <constructor-arg type="String" value="Int"/>
-    </bean>
-    <bean id="intStorageValue" class="ru.csc.vindur.storage.StorageBucketIntegers" />
 
-    <bean id="stringStorageKey" class="java.lang.String">
-        <constructor-arg type="String" value="Str"/>
-    </bean>
-    <bean id="stringStorageValue" class="ru.csc.vindur.storage.StorageExact">
+    <bean id="intStorage" class="ru.csc.vindur.storage.StorageBucketIntegers" />
+    <bean id="stringStorage" class="ru.csc.vindur.storage.StorageExact">
         <constructor-arg type="Class" value="java.lang.String" />
     </bean>
-
+    <bean id="hierarchyStorage" class="ru.csc.vindur.storage.StorageHierarchy" />
 
 </beans>

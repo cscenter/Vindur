@@ -111,7 +111,7 @@ public class StorageLucene extends Storage<String, String> {
         }
     }
 
-    //todo: pass string with wildcards, and change findSet()
+    //todo: pass string with wildcards, and change findExactSet()
     @Override
     public boolean checkValue(int docId, String value, String request)
     {

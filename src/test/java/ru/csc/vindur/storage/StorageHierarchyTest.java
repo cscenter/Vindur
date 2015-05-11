@@ -47,13 +47,13 @@ public class StorageHierarchyTest {
 
         BitArray childTree1 = bitSetSupplier.get().set(1).set(2).set(3).set(4)
                 .set(5).set(6).set(7).set(8);
-        assertEquals(childTree1, storageHierarchy.findChildTree("1"));
+        assertEquals(childTree1, storageHierarchy.findSet("1"));
 
         BitArray childTree4 = bitSetSupplier.get().set(7).set(8);
-        assertEquals(childTree4, storageHierarchy.findChildTree("2"));
+        assertEquals(childTree4, storageHierarchy.findSet("2"));
 
         BitArray childTree3 = bitSetSupplier.get().set(4).set(5).set(6);
-        assertEquals(childTree3, storageHierarchy.findChildTree("3"));
+        assertEquals(childTree3, storageHierarchy.findSet("3"));
     }
 
     @Test
@@ -87,22 +87,22 @@ public class StorageHierarchyTest {
 
         BitArray childTree1 = bitSetSupplier.get().set(1).set(2).set(3).set(4)
                 .set(5).set(6).set(7).set(8);
-        assertEquals(childTree1, storageHierarchy.findChildTree("1"));
+        assertEquals(childTree1, storageHierarchy.findSet("1"));
 
         BitArray childTree2 = bitSetSupplier.get().set(2).set(5);
-        assertEquals(childTree2, storageHierarchy.findChildTree("2"));
+        assertEquals(childTree2, storageHierarchy.findSet("2"));
 
         BitArray childTree3 = bitSetSupplier.get().set(3).set(6).set(7).set(8);
-        assertEquals(childTree3, storageHierarchy.findChildTree("3"));
+        assertEquals(childTree3, storageHierarchy.findSet("3"));
 
         BitArray childTree4 = bitSetSupplier.get().set(4);
-        assertEquals(childTree4, storageHierarchy.findChildTree("4"));
+        assertEquals(childTree4, storageHierarchy.findSet("4"));
     }
 
     @Test
     public void emptyChildTreeResultTest() {
         BitArray childTreeEmpty = bitSetSupplier.get();
-        assertEquals(childTreeEmpty, storageHierarchy.findChildTree("1"));
+        assertEquals(childTreeEmpty, storageHierarchy.findSet("1"));
     }
 
     @Test
@@ -133,16 +133,16 @@ public class StorageHierarchyTest {
         storageHierarchy.add(8, ("8"));
 
         BitArray node1 = bitSetSupplier.get().set(1);
-        assertEquals(node1, storageHierarchy.findSet("1"));
+        assertEquals(node1, storageHierarchy.findExactSet("1"));
 
         BitArray node2 = bitSetSupplier.get().set(2);
-        assertEquals(node2, storageHierarchy.findSet("2"));
+        assertEquals(node2, storageHierarchy.findExactSet("2"));
 
         BitArray node3 = bitSetSupplier.get().set(3);
-        assertEquals(node3, storageHierarchy.findSet("3"));
+        assertEquals(node3, storageHierarchy.findExactSet("3"));
 
         BitArray node8 = bitSetSupplier.get().set(8);
-        assertEquals(node8, storageHierarchy.findSet("8"));
+        assertEquals(node8, storageHierarchy.findExactSet("8"));
     }
 
     @Test
@@ -167,16 +167,16 @@ public class StorageHierarchyTest {
         storageHierarchy.add(8, ("4"));
 
         BitArray node1 = bitSetSupplier.get().set(1).set(2).set(3);
-        assertEquals(node1, storageHierarchy.findSet("1"));
+        assertEquals(node1, storageHierarchy.findExactSet("1"));
 
         BitArray node2 = bitSetSupplier.get();
-        assertEquals(node2, storageHierarchy.findSet("2"));
+        assertEquals(node2, storageHierarchy.findExactSet("2"));
 
         BitArray node3 = bitSetSupplier.get().set(4).set(5).set(6);
-        assertEquals(node3, storageHierarchy.findSet("3"));
+        assertEquals(node3, storageHierarchy.findExactSet("3"));
 
         BitArray node4 = bitSetSupplier.get().set(7).set(8);
-        assertEquals(node4, storageHierarchy.findSet("4"));
+        assertEquals(node4, storageHierarchy.findExactSet("4"));
 
     }
 

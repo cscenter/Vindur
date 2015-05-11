@@ -28,7 +28,12 @@ public class StorageHierarchy extends Storage<String, String>
                 new BitSetNode(BitArray.create(), BitArray.create()));
     }
 
-    public ROBitArray findChildTree(String root) {
+    /**
+     * @param root - root of the subtree
+     * @return hierarchy subtree
+     */
+    @Override
+    public ROBitArray findSet(String root) {
         BitSetNode result = storage.get(root);
         if (result == null)
             return BitArray.create();
@@ -63,6 +68,25 @@ public class StorageHierarchy extends Storage<String, String>
     public int getComplexity() {
         return 50;
     }
+
+    @Override
+    public void modify(Map<String, Object> modification)
+    {
+        try
+        {
+            Object p = modification.get("parent");
+            String node   = (String) modification.get("node");
+            String parent = null;
+            if(p != null)
+                parent = (String) p;
+            addChild(parent, node);
+        }
+        catch (ClassCastException e)
+        {
+            throw new UnsupportedOperationException("Bad modification");
+        }
+    }
+
 
     private class Hierarchy {
         private Map<String, String> tree; // node -> parent;
@@ -143,8 +167,7 @@ public class StorageHierarchy extends Storage<String, String>
         }
     }
 
-    @Override
-    public ROBitArray findSet(String request) {
+    public ROBitArray findExactSet(String request) {
         BitSetNode result = storage.get(request);
         if (result == null)
             return BitArray.create();
