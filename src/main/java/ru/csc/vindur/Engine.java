@@ -158,7 +158,7 @@ public class Engine
         tuner.addQuery(query);
         checkQuery(query);
         BitArray resultSet = executor.execute(query, this);
-        //transactionsThread.start(); //todo blockingQueue or while(true) in thread
+        transactionsThread.run(); //todo blockingQueue or while(true) in thread
         if (!uncommitedChanges.isEmpty())
         {
             for (Entry<Pair<String, Object>, List<Integer>> entry : uncommitedChanges.entrySet())
@@ -180,18 +180,18 @@ public class Engine
                  */
             }
         }
-//        try {
-//            //transactionsThread.join();
-//            uncommitedChanges.clear();
+        try {
+            transactionsThread.join();
+            uncommitedChanges.clear();
             if (resultSet == null) {
                 return Collections.emptyList();
             } else {
                 return resultSet.toIntList();
             }
-//        } catch (InterruptedException e) {
-//            e.printStackTrace();
-//        }
-//        return null;
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        return null;
     }
 
     private void checkQuery(Query query) throws IllegalArgumentException
