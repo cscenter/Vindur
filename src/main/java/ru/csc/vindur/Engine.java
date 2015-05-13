@@ -26,24 +26,9 @@ public class Engine
     private Executor executor;
 
     private Tuner tuner;
-    private volatile List<Operation> currentChanges = new LinkedList<>();
-    private volatile HashMap<Pair<String, Object>, List<Integer>> uncommitedChanges = new HashMap<>(); //(attribute, value) -> list of documents
     private volatile HashMap<Long, Transaction> transactions = new HashMap<>(); // transactionID -> transaction
     private Random random = new Random();
-    private Thread tunerThread;
-    private Thread transactionsThread = new Thread( () -> {
-        if (!uncommitedChanges.isEmpty())
-        {
-            for (Entry<Pair<String, Object>, List<Integer>> entry: uncommitedChanges.entrySet())
-            {
-                String attribute = entry.getKey().getKey();
-                Object value = entry.getKey().getValue();
 
-                for (int docID : entry.getValue())
-                    this.setValue(docID, attribute, value);
-            }
-        }
-    });
     private Engine()
     {
         this.executor = new TinyExecutor();
@@ -51,12 +36,11 @@ public class Engine
     }
     public void setTuner(Tuner tuner) {
         this.tuner = tuner;
-        tunerThread = new Thread( () -> {
+        Thread tunerThread = new Thread(() -> {
             while (true) {
                 try {
                     tuner.call();
-                    return;
-                    //Thread.sleep(1000);
+                    Thread.sleep(1000);
                 } catch (Exception e) {
                     e.printStackTrace();
                 }
@@ -96,19 +80,18 @@ public class Engine
     }
 
 
-    public void setValue(long transactionId, int docId, String attribute, Object value)
+    public void SetValue(long transactionId, int docId, String attribute, Object value)
     {
         Operation op = new Operation(Operation.Type.UPDATE, docId, attribute, value);
-        currentChanges.add(op);
-//        if (transactions.get(transactionId) != null)
-//        {
-//            transactions.get(transactionId).getOperations().add(op);
-//        }
-//        else
-//        {
-//            transactions.put(transactionId, new Transaction());
-//            transactions.get(transactionId).getOperations().add(op);
-//        }
+        if (transactions.get(transactionId) != null)
+        {
+            transactions.get(transactionId).getOperations().add(op);
+        }
+        else
+        {
+            transactions.put(transactionId, new Transaction());
+            transactions.get(transactionId).getOperations().add(op);
+        }
     }
 
     /**
@@ -154,44 +137,15 @@ public class Engine
      * @param query - query to execute
      * @return list of document ID's, which satisfy to specified query
      */
-    public List<Integer> executeQuery(Query query) {
-        tuner.addQuery(query);
+    public synchronized List<Integer> executeQuery(Query query) {
         checkQuery(query);
         BitArray resultSet = executor.execute(query, this);
-        //transactionsThread.start(); //todo blockingQueue or while(true) in thread
-        if (!uncommitedChanges.isEmpty())
-        {
-            for (Entry<Pair<String, Object>, List<Integer>> entry : uncommitedChanges.entrySet())
-            {
-                String attribute = entry.getKey().getKey();
-                Object value = entry.getKey().getValue();
-                List<Integer> docIDs = entry.getValue();
-
-                //пошли по всем частям в запросе
-                //нашли атрибут, который оказался в изменениях
-                query.getQueryParts().entrySet().stream()
-                        .filter(queryEntry ->
-                                attribute.equals(queryEntry.getKey()) && value.equals(queryEntry.getValue()))
-                        .forEach(queryEntry ->
-                                docIDs.forEach(resultSet::set));
-
-                /*todo: add .remove(int index) to BitArray. Лучше сделать два временных битсета. В одном - документы, которые надо добавить
-                    во втором - которые надо удалить. Тогда потом resultSet and первый битсет, результат xor второй
-                 */
-            }
+        if (resultSet == null) {
+            return Collections.emptyList();
+        } else {
+            return resultSet.toIntList();
         }
-//        try {
-//            //transactionsThread.join();
-//            uncommitedChanges.clear();
-            if (resultSet == null) {
-                return Collections.emptyList();
-            } else {
-                return resultSet.toIntList();
-            }
-//        } catch (InterruptedException e) {
-//            e.printStackTrace();
-//        }
-//        return null;
+
     }
 
     private void checkQuery(Query query) throws IllegalArgumentException
@@ -218,30 +172,14 @@ public class Engine
         transactions.put(transactionId, new Transaction());
     }
 
-    public void commitTransaction(long transactionId)
+    public synchronized void commitTransaction(long transactionId)
     {
         Transaction transaction = transactions.get(transactionId);
-        for (Operation op : currentChanges)
-        {
-            String attribute = op.attribute;
-            Object value = op.value;
-            int docID = op.docID;
-            Pair<String, Object> key = new Pair<>(attribute, value);
-
-            if (!uncommitedChanges.containsKey(key))
-                uncommitedChanges.put(key, new LinkedList<>());
-
-            uncommitedChanges.get(key).add(docID);
-        }
-
-//                transaction.getOperations().stream()
-//                .filter(op -> "SetValue".equals(op.type))
-//                .forEach(op -> this.setValue(op.docID, op.attribute, op.value));
+        transaction.getOperations().stream().filter(op -> op.type.equals(Operation.Type.UPDATE)).forEach(op -> this.setValue(op.docID, op.attribute, op.value));
     }
 
     public void rollbackTransaction(long transactionId)
     {
-        currentChanges.clear();
         transactions.get(transactionId).getOperations().clear();
     }
 

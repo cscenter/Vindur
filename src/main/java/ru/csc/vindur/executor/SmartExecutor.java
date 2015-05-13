@@ -27,13 +27,13 @@ public class SmartExecutor implements Executor {
                         engine.getStorages().get(b).getComplexity()
                 );
 
-        List<String> reqs = Lists.newArrayList(query.getQueryParts().keySet());
-        Collections.sort(reqs, compare);
+        List<String> attributes = Lists.newArrayList(query.getQueryParts().keySet());
+        Collections.sort(attributes, compare);
 
         BitArray resultSet = null;
-        for (int i = 0; i < reqs.size(); ++i)
+        for (int i = 0; i < attributes.size(); ++i)
         {
-            String key = reqs.get(i);
+            String key = attributes.get(i);
             ROBitArray stepResult = engine.getStorages().get(key)
                     .findSet(query.getQueryParts().get(key));
             if (resultSet == null) {
@@ -47,7 +47,7 @@ public class SmartExecutor implements Executor {
 
             if (resultSet.cardinality() < this.threshold)
             {
-                List<String> tail = cutTail(reqs, i + 1);
+                List<String> tail = cutTail(attributes, i + 1);
                 if (tail.size() != 0)
                     return checkManually(tail, query, engine, resultSet);
             }
@@ -75,19 +75,13 @@ public class SmartExecutor implements Executor {
         {
             for (int docId : currentResult.toIntList())
             {
-                //todo: разобраться с запросами по диапазону =(
-                //todo: вроде разобрался =)
                 List<Object> values = engine.getDocument(docId).getValues(key);
                 Object request = query.getQueryParts().get(key);
                 if (values != null)
                 {
-                    for (Object value : values)
-                    {
-                        if (engine.getStorages().get(key).checkValue(docId, value, request))
-                        {
-                            resultSet.set(docId);
-                        }
-                    }
+                    values.stream()
+                            .filter(value -> engine.getStorages().get(key).checkValue(docId, value, request))
+                            .forEach(value -> resultSet.set(docId));
                 }
             }
         }
