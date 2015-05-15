@@ -19,13 +19,10 @@ public class DumbExecutor implements Executor {
         for (Map.Entry<String, Object> entry : query.getQueryParts().entrySet()) {
             ROBitArray stepResult = engine.getStorages().get(entry.getKey())
                     .findSet(entry.getValue());
-            if (resultSet == null) {
-                resultSet = stepResult.copy();
-            } else {
-                resultSet = resultSet.and(stepResult);
-            }
-        }
+            if (resultSet == null) resultSet = stepResult.copy();
 
+            resultSet = resultSet.and(stepResult);
+        }
         return resultSet;
     }
 

@@ -27,27 +27,26 @@ public class SmartExecutor implements Executor {
                         engine.getStorages().get(b).getComplexity()
                 );
 
-        List<String> reqs = Lists.newArrayList(query.getQueryParts().keySet());
-        Collections.sort(reqs, compare);
+        List<String> attributes = Lists.newArrayList(query.getQueryParts().keySet());
+        Collections.sort(attributes, compare);
 
         BitArray resultSet = null;
-        for (int i = 0; i < reqs.size(); ++i)
+        for (int i = 0; i < attributes.size(); ++i)
         {
-            String key = reqs.get(i);
-            ROBitArray stepResult = engine.getStorages().get(key)
-                    .findSet(query.getQueryParts().get(key));
-            if (resultSet == null) {
-                resultSet = stepResult.copy();
-                //continue;
-            }
-            if (resultSet.cardinality() == 0)
-                return null;
+            String key = attributes.get(i);
+            Object value = query.getQueryParts().get(key);
+            ROBitArray stepResult = engine.getStorages().get(key).findSet(value);
+
+            if (resultSet == null) resultSet = stepResult.copy();
 
             resultSet = resultSet.and(stepResult);
 
+            if (resultSet.cardinality() == 0)
+                return BitArray.create();
+
             if (resultSet.cardinality() < this.threshold)
             {
-                List<String> tail = cutTail(reqs, i + 1);
+                List<String> tail = cutTail(attributes, i + 1);
                 if (tail.size() != 0)
                     return checkManually(tail, query, engine, resultSet);
             }
@@ -70,9 +69,10 @@ public class SmartExecutor implements Executor {
     @SuppressWarnings({"unchecked"})
     private BitArray checkManually(List<String> tail, Query query,Engine engine, ROBitArray currentResult)
     {
-        BitArray resultSet = BitArray.create();
+        BitArray resultSet = null;
         for (String key : tail)
         {
+            BitArray stepResult = BitArray.create();
             for (int docId : currentResult.toIntList())
             {
                 //todo: разобраться с запросами по диапазону =(
@@ -85,11 +85,16 @@ public class SmartExecutor implements Executor {
                     {
                         if (engine.getStorages().get(key).checkValue(docId, value, request))
                         {
-                            resultSet.set(docId);
+                            stepResult.set(docId);
                         }
                     }
                 }
             }
+
+            if (resultSet == null) resultSet = stepResult.copy();
+
+            resultSet = resultSet.and(stepResult);
+
         }
 
         return resultSet.and(currentResult);

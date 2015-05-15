@@ -212,10 +212,11 @@ public class Engine
     }
 
 
-    public void startTransaction()
+    public long startTransaction()
     {
         Long transactionId = random.nextLong();
         transactions.put(transactionId, new Transaction());
+        return transactionId;
     }
 
     public void commitTransaction(long transactionId)
@@ -234,9 +235,7 @@ public class Engine
             uncommitedChanges.get(key).add(docID);
         }
 
-//                transaction.getOperations().stream()
-//                .filter(op -> "SetValue".equals(op.type))
-//                .forEach(op -> this.setValue(op.docID, op.attribute, op.value));
+        transaction.getOperations().addAll(currentChanges);
     }
 
     public void rollbackTransaction(long transactionId)

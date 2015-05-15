@@ -5,23 +5,25 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import ru.csc.vindur.Engine;
 import ru.csc.vindur.Query;
-import ru.csc.vindur.executor.*;
-import ru.csc.vindur.executor.tuner.Tuner;
+import ru.csc.vindur.executor.DumbExecutor;
 import ru.csc.vindur.storage.StorageExact;
 import ru.csc.vindur.storage.StorageLucene;
 import ru.csc.vindur.storage.StorageRange;
 import ru.csc.vindur.storage.StorageType;
 import ru.csc.vindur.test.utils.RandomUtils;
 
-import java.util.*;
+import java.io.FileNotFoundException;
+import java.io.PrintWriter;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 /**
- * Created by edgar on 26.03.15.
+ * Created by edgar on 15.05.15.
  */
-public class TuningTest {
+public class TransactionTest {
 
-    private static final Logger LOG = LoggerFactory.getLogger(TuningTest.class);
+    private static final Logger LOG = LoggerFactory.getLogger(TransactionTest.class);
 
     private static final int DOC_COUNT = 300_000;
     private static final int QUERY_COUNT = 5_000;
@@ -32,6 +34,8 @@ public class TuningTest {
     private static List<String> luceneValues = new ArrayList<>();
 
     private static List<Query> queries = new ArrayList<>();
+
+    private static List<Long> deltas = new ArrayList<>();
 
     private static void generateRandomValues(int count, StorageType type)
     {
@@ -57,7 +61,61 @@ public class TuningTest {
         }
     }
 
-    public static void main(String[] args) {
+    private static String randomAttribute()
+    {
+        int i = RandomUtils.getNumber(0, 2);
+        switch (i)
+        {
+            case 0 :
+            {
+                return "Name";
+            }
+            case 1 :
+            {
+                return "Count";
+            }
+            case 2 :
+            {
+                return "Bio";
+            }
+            default:
+            {
+                return "Name";
+            }
+        }
+    }
+
+    private static Object randomValue(String attribute)
+    {
+        switch (attribute)
+        {
+            case "Name" :
+            {
+                return RandomUtils.getString(10, 50);
+            }
+            case "Count" :
+            {
+                int randLeftBorder = RandomUtils.getNumber(0, 100);
+                int randRightBorder = RandomUtils.getNumber(0, 100);
+                return StorageRange.range(
+                        Math.min(randLeftBorder, randRightBorder),
+                        Math.max(randLeftBorder, randRightBorder)
+                );
+            }
+            case "Bio" :
+            {
+                return RandomUtils.getString(50, 200);
+            }
+            default :
+            {
+                return null;
+            }
+        }
+    }
+
+
+    public static void main(String[] args)
+    {
         System.setProperty("org.slf4j.simpleLogger.defaultLogLevel", "debug");
         System.setProperty("org.slf4j.simpleLogger.log.ru.csc", "info");
         Stopwatch timer = Stopwatch.createUnstarted();
@@ -102,7 +160,10 @@ public class TuningTest {
             String randName = stringValues.get(randIndex);
             int randLeftBorder = RandomUtils.getNumber(0, 100);
             int randRightBorder = RandomUtils.getNumber(0, 100);
-            Object randRange = StorageRange.range(Math.min(randLeftBorder, randRightBorder), Math.max(randLeftBorder, randRightBorder));
+            Object randRange = StorageRange.range(
+                    Math.min(randLeftBorder, randRightBorder),
+                    Math.max(randLeftBorder, randRightBorder)
+            );
             String randText = luceneValues.get(randIndex);
 
 
@@ -115,73 +176,51 @@ public class TuningTest {
         timer.stop();
         LOG.info("{} queries generated for {} ms", QUERY_COUNT, timer.elapsed(TimeUnit.MILLISECONDS));
 
-        LOG.info("Dumb executor test");
-        long totalTime = 0;
 
-        List<List<Integer>> dumbResultSets = new ArrayList<>();
+        long trID = engine.startTransaction();
+
+        for (int i = 0; i < 1e4; i++) {
+            //apply changes
+            int randDocID = RandomUtils.getNumber(1, DOC_COUNT);
+            String randAttribute = randomAttribute();
+            Object randValue = randomValue(randAttribute);
+            engine.setValue(trID, randDocID, randAttribute, randValue);
+        }
+
         for (Query query : queries)
         {
             timer.reset();
             timer.start();
-            List<Integer> resultSet = engine.executeQuery(query);
-            dumbResultSets.add(resultSet);
+            engine.executeQuery(query);
             timer.stop();
-            totalTime += timer.elapsed(TimeUnit.MILLISECONDS);
+            deltas.add(timer.elapsed(TimeUnit.NANOSECONDS));
         }
 
-        LOG.info("{} queries executed for {} ms", QUERY_COUNT, totalTime);
-        LOG.info("Average execution time is {} ms", (totalTime * 1.0f) / QUERY_COUNT);
+        timer.reset();
+        timer.start();
+        engine.commitTransaction(trID);
+        timer.stop();
+        deltas.add(timer.elapsed(TimeUnit.NANOSECONDS));
 
-        LOG.info("Smart executor test");
-        engine.setExecutor(new SmartExecutor(3000));
-
-        totalTime = 0;
-        List<List<Integer>> smartResultSets = new ArrayList<>();
         for (Query query : queries)
         {
             timer.reset();
             timer.start();
-            List<Integer> resultSet = engine.executeQuery(query);
-            smartResultSets.add(resultSet);
+            engine.executeQuery(query);
             timer.stop();
-            totalTime += timer.elapsed(TimeUnit.MILLISECONDS);
+            deltas.add(timer.elapsed(TimeUnit.NANOSECONDS));
         }
 
-        LOG.info("{} queries executed for {} ms", QUERY_COUNT, totalTime);
-        LOG.info("Average execution time is {} ms", (totalTime * 1.0f) / QUERY_COUNT);
-
-        LOG.info("Tunable executor test");
-        engine.setExecutor(new TunableExecutor());
-
-        totalTime = 0;
-        List<List<Integer>> tunableResultSets = new ArrayList<>();
-        for (Query query : queries)
+        try
         {
-            timer.reset();
-            timer.start();
-            List<Integer> resultSet = engine.executeQuery(query);
-            tunableResultSets.add(resultSet);
-            timer.stop();
-            totalTime += timer.elapsed(TimeUnit.MILLISECONDS);
+            PrintWriter writer = new PrintWriter("NewTransactions.csv");
+            for (long delta : deltas)
+            {
+                writer.format("%d\n", delta);
+            }
+            writer.close();
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
         }
-
-        LOG.info("{} queries executed for {} ms", QUERY_COUNT, totalTime);
-        LOG.info("Average execution time is {} ms", (totalTime * 1.0f) / QUERY_COUNT);
-
-        Tuner tuner = engine.getTuner();
-        Map<String, Tuner.AttributeStat> statMap = tuner.getExecutionTimesMap();
-
-        for (Map.Entry<String, Tuner.AttributeStat> entry : statMap.entrySet())
-        {
-            LOG.info("{} attribute, average exec. time is {} ns, average check time is {} ns",
-                    entry.getKey(),
-                    entry.getValue().executionTime,
-                    entry.getValue().checkTime);
-        }
-
-        LOG.info("Equality test");
-        LOG.info("Dumb executor's result sets equals to smart executor's {}", dumbResultSets.equals(smartResultSets));
-        LOG.info("Smart executor's result sets equals to tunable executor's {}", smartResultSets.equals(tunableResultSets));
-        LOG.info("Tunable executor's result sets equals to dumb executor's {}", dumbResultSets.equals(tunableResultSets));
     }
 }
