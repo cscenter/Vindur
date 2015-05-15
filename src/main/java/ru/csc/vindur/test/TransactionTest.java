@@ -95,12 +95,7 @@ public class TransactionTest {
             }
             case "Count" :
             {
-                int randLeftBorder = RandomUtils.getNumber(0, 100);
-                int randRightBorder = RandomUtils.getNumber(0, 100);
-                return StorageRange.range(
-                        Math.min(randLeftBorder, randRightBorder),
-                        Math.max(randLeftBorder, randRightBorder)
-                );
+                return RandomUtils.getNumber(0, 100);
             }
             case "Bio" :
             {
@@ -176,9 +171,10 @@ public class TransactionTest {
         timer.stop();
         LOG.info("{} queries generated for {} ms", QUERY_COUNT, timer.elapsed(TimeUnit.MILLISECONDS));
 
-
         long trID = engine.startTransaction();
+        LOG.info("Transaction number {} started", trID);
 
+        LOG.info("Applying changes");
         for (int i = 0; i < 1e4; i++) {
             //apply changes
             int randDocID = RandomUtils.getNumber(1, DOC_COUNT);
@@ -186,7 +182,9 @@ public class TransactionTest {
             Object randValue = randomValue(randAttribute);
             engine.setValue(trID, randDocID, randAttribute, randValue);
         }
+        LOG.info("Changes applied");
 
+        LOG.info("Executing first pack of queries");
         for (Query query : queries)
         {
             timer.reset();
@@ -195,13 +193,17 @@ public class TransactionTest {
             timer.stop();
             deltas.add(timer.elapsed(TimeUnit.NANOSECONDS));
         }
+        LOG.info("First pack of queries executed");
 
+        LOG.info("Commiting transaction");
         timer.reset();
         timer.start();
         engine.commitTransaction(trID);
         timer.stop();
+        LOG.info("Transaction commited");
         deltas.add(timer.elapsed(TimeUnit.NANOSECONDS));
 
+        LOG.info("Executing second pack of queries");
         for (Query query : queries)
         {
             timer.reset();
@@ -210,7 +212,9 @@ public class TransactionTest {
             timer.stop();
             deltas.add(timer.elapsed(TimeUnit.NANOSECONDS));
         }
+        LOG.info("Second pack of queries executed");
 
+        LOG.info("Writing results");
         try
         {
             PrintWriter writer = new PrintWriter("NewTransactions.csv");
@@ -222,5 +226,7 @@ public class TransactionTest {
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
+
+        LOG.info("Results are written");
     }
 }

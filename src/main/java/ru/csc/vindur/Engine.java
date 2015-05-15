@@ -30,10 +30,11 @@ public class Engine
     private volatile HashMap<Pair<String, Object>, List<Integer>> uncommitedChanges = new HashMap<>(); //(attribute, value) -> list of documents
     private volatile HashMap<Long, Transaction> transactions = new HashMap<>(); // transactionID -> transaction
     private Random random = new Random();
-    private Thread tunerThread;
     private Thread transactionsThread = new Thread( () -> {
         if (!uncommitedChanges.isEmpty())
         {
+            List<Pair<String, Object>> keysToRemove = new ArrayList<>();
+            int counter = 0;
             for (Entry<Pair<String, Object>, List<Integer>> entry: uncommitedChanges.entrySet())
             {
                 String attribute = entry.getKey().getKey();
@@ -41,9 +42,19 @@ public class Engine
 
                 for (int docID : entry.getValue())
                     this.setValue(docID, attribute, value);
+
+                keysToRemove.add(entry.getKey());
+
+                if (counter == 1000)
+                    return;
+                counter++;
             }
+
+            keysToRemove.forEach(uncommitedChanges::remove);
+
         }
     });
+
     private Engine()
     {
         this.executor = new TinyExecutor();
@@ -51,7 +62,7 @@ public class Engine
     }
     public void setTuner(Tuner tuner) {
         this.tuner = tuner;
-        tunerThread = new Thread( () -> {
+        Thread tunerThread = new Thread(() -> {
             while (true) {
                 try {
                     tuner.call();
@@ -100,15 +111,15 @@ public class Engine
     {
         Operation op = new Operation(Operation.Type.UPDATE, docId, attribute, value);
         currentChanges.add(op);
-//        if (transactions.get(transactionId) != null)
-//        {
-//            transactions.get(transactionId).getOperations().add(op);
-//        }
-//        else
-//        {
-//            transactions.put(transactionId, new Transaction());
-//            transactions.get(transactionId).getOperations().add(op);
-//        }
+        if (transactions.get(transactionId) != null)
+        {
+            transactions.get(transactionId).getOperations().add(op);
+        }
+        else
+        {
+            transactions.put(transactionId, new Transaction());
+            transactions.get(transactionId).getOperations().add(op);
+        }
     }
 
     /**
@@ -167,17 +178,35 @@ public class Engine
                 Object value = entry.getKey().getValue();
                 List<Integer> docIDs = entry.getValue();
 
-                //пошли по всем частям в запросе
-                //нашли атрибут, который оказался в изменениях
-                query.getQueryParts().entrySet().stream()
-                        .filter(queryEntry ->
-                                attribute.equals(queryEntry.getKey()) && value.equals(queryEntry.getValue()))
-                        .forEach(queryEntry ->
-                                docIDs.forEach(resultSet::set));
+                BitArray documentsToAdd = BitArray.create();
+                BitArray documentsToDel = BitArray.create();
 
-                /*todo: add .remove(int index) to BitArray. Лучше сделать два временных битсета. В одном - документы, которые надо добавить
-                    во втором - которые надо удалить. Тогда потом resultSet and первый битсет, результат xor второй
-                 */
+                //пошли по всем частям в запросе
+                for (Entry<String, Object> queryEntry : query.getQueryParts().entrySet())
+                {
+                    //пошли по всем документам, в которых значение attribute теперь равно value
+                    for (int docID : docIDs)
+                    {
+                        //нашли документ, который теперь тоже удовлетворяет запросу - добавили
+                        if (attribute.equals(queryEntry.getKey())
+                                && storages.get(attribute).checkValue(docID, value, queryEntry.getValue()))
+                        {
+                            documentsToAdd.set(docID);
+                        }
+
+                        if (attribute.equals(queryEntry.getKey())
+                                && !storages.get(attribute).checkValue(docID, value, queryEntry.getValue()))
+                        {
+                            documentsToDel.set(docID);
+                        }
+                    }
+
+                }
+
+                //добавили
+                resultSet = resultSet.and(documentsToAdd);
+                //удалили
+                resultSet = resultSet.xor(documentsToDel);
             }
         }
         try {
