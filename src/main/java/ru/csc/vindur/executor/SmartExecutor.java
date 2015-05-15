@@ -34,16 +34,15 @@ public class SmartExecutor implements Executor {
         for (int i = 0; i < attributes.size(); ++i)
         {
             String key = attributes.get(i);
-            ROBitArray stepResult = engine.getStorages().get(key)
-                    .findSet(query.getQueryParts().get(key));
-            if (resultSet == null) {
-                resultSet = stepResult.copy();
-                //continue;
-            }
-            if (resultSet.cardinality() == 0)
-                return null;
+            Object value = query.getQueryParts().get(key);
+            ROBitArray stepResult = engine.getStorages().get(key).findSet(value);
+
+            if (resultSet == null) resultSet = stepResult.copy();
 
             resultSet = resultSet.and(stepResult);
+
+            if (resultSet.cardinality() == 0)
+                return BitArray.create();
 
             if (resultSet.cardinality() < this.threshold)
             {
@@ -70,20 +69,28 @@ public class SmartExecutor implements Executor {
     @SuppressWarnings({"unchecked"})
     private BitArray checkManually(List<String> tail, Query query,Engine engine, ROBitArray currentResult)
     {
-        BitArray resultSet = BitArray.create();
+        BitArray resultSet = null;
         for (String key : tail)
         {
+            BitArray stepResult = BitArray.create();
             for (int docId : currentResult.toIntList())
             {
+                //todo: разобраться с запросами по диапазону =(
+                //todo: вроде разобрался =)
                 List<Object> values = engine.getDocument(docId).getValues(key);
                 Object request = query.getQueryParts().get(key);
                 if (values != null)
                 {
-                    values.stream()
-                            .filter(value -> engine.getStorages().get(key).checkValue(docId, value, request))
-                            .forEach(value -> resultSet.set(docId));
+                    values.stream().filter(
+                            value -> engine.getStorages().get(key).checkValue(docId, value, request)
+                    ).forEach(value -> stepResult.set(docId));
                 }
             }
+
+            if (resultSet == null) resultSet = stepResult.copy();
+
+            resultSet = resultSet.and(stepResult);
+
         }
 
         return resultSet.and(currentResult);

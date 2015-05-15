@@ -80,7 +80,7 @@ public class Engine
     }
 
 
-    public void SetValue(long transactionId, int docId, String attribute, Object value)
+    public void setValue(long transactionId, int docId, String attribute, Object value)
     {
         Operation op = new Operation(Operation.Type.UPDATE, docId, attribute, value);
         if (transactions.get(transactionId) != null)
@@ -166,10 +166,11 @@ public class Engine
     }
 
 
-    public void startTransaction()
+    public long startTransaction()
     {
         Long transactionId = random.nextLong();
         transactions.put(transactionId, new Transaction());
+        return transactionId;
     }
 
     public synchronized void commitTransaction(long transactionId)

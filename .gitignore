@@ -53,3 +53,4 @@ target/
 lib/
 
 /bin/
+.Rproj.user
