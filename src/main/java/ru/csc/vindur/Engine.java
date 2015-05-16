@@ -211,7 +211,6 @@ public class Engine
         }
         try {
             transactionsThread.join();
-            uncommitedChanges.clear();
             if (resultSet == null) {
                 return Collections.emptyList();
             } else {
