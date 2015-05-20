@@ -6,6 +6,7 @@ import org.slf4j.LoggerFactory;
 import ru.csc.vindur.Engine;
 import ru.csc.vindur.Query;
 import ru.csc.vindur.executor.DumbExecutor;
+import ru.csc.vindur.executor.SmartExecutor;
 import ru.csc.vindur.storage.StorageExact;
 import ru.csc.vindur.storage.StorageLucene;
 import ru.csc.vindur.storage.StorageRange;
@@ -119,7 +120,7 @@ public class TransactionTest {
         StorageLucene storageLucene = new StorageLucene();
 
         Engine engine = Engine.build()
-                .executor(new DumbExecutor())
+                .executor(new SmartExecutor(3000))
                 .storage("Name", stringStorage)
                 .storage("Count", intStorage)
                 .storage("Bio", storageLucene)
@@ -171,6 +172,12 @@ public class TransactionTest {
         timer.stop();
         LOG.info("{} queries generated for {} ms", QUERY_COUNT, timer.elapsed(TimeUnit.MILLISECONDS));
 
+        LOG.info("Warm up Vidur!");
+        for (Query q : queries)
+        {
+            engine.executeQuery(q);
+        }
+        LOG.info("Vindur warmed up");
 
         long trID = engine.startTransaction();
         LOG.info("Transaction number {} started", trID);
