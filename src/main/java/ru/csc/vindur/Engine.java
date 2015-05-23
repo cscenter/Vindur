@@ -45,8 +45,8 @@ public class Engine
 
                 keysToRemove.add(entry.getKey());
 
-                if (counter == 1000)
-                    return;
+                if (counter == 10)
+                    break;
                 counter++;
             }
 

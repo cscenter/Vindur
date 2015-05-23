@@ -12,7 +12,10 @@ import ru.csc.vindur.storage.StorageLucene;
 import ru.csc.vindur.storage.StorageRange;
 import ru.csc.vindur.storage.StorageType;
 import ru.csc.vindur.test.utils.RandomUtils;
+import sun.rmi.runtime.Log;
 
+import java.io.FileNotFoundException;
+import java.io.PrintWriter;
 import java.util.*;
 import java.util.concurrent.TimeUnit;
 
@@ -32,6 +35,8 @@ public class TuningTest {
     private static List<String> luceneValues = new ArrayList<>();
 
     private static List<Query> queries = new ArrayList<>();
+
+    private static Engine engine;
 
     private static void generateRandomValues(int count, StorageType type)
     {
@@ -57,6 +62,49 @@ public class TuningTest {
         }
     }
 
+    private static List<List<Integer>> resultSets(Executor executor)
+    {
+        engine.setExecutor(executor);
+        LOG.info("{} test", executor.getClass().getCanonicalName());
+        long totalTime = 0;
+
+        Stopwatch timer = Stopwatch.createUnstarted();
+
+        List<List<Integer>> resultSets = new ArrayList<>();
+        List<Long> execTimes = new ArrayList<>();
+
+        for (Query query : queries)
+        {
+            timer.reset();
+            timer.start();
+            List<Integer> resultSet = engine.executeQuery(query);
+            resultSets.add(resultSet);
+            timer.stop();
+            execTimes.add(timer.elapsed(TimeUnit.MILLISECONDS));
+            totalTime += timer.elapsed(TimeUnit.MILLISECONDS);
+        }
+
+        double mean = (totalTime * 1.0f) / QUERY_COUNT;
+        double var = 0;
+        for (long t : execTimes)
+        {
+            var += (t - mean) * (t - mean);
+        }
+        var /= QUERY_COUNT;
+
+        LOG.info("{} queries executed for {} ms", QUERY_COUNT, totalTime);
+        LOG.info("Mean execution time is {} ms, variance is {} ms^2, standard deviation is {} ms",
+                mean,
+                var,
+                Math.sqrt(var));
+
+        for (int i = 0; i < 100; i++) {
+            LOG.info("Query {} returned {} records for {} ms", i, resultSets.get(i).size(), execTimes.get(i));
+        }
+
+        return resultSets;
+    }
+
     public static void main(String[] args) {
         System.setProperty("org.slf4j.simpleLogger.defaultLogLevel", "debug");
         System.setProperty("org.slf4j.simpleLogger.log.ru.csc", "info");
@@ -65,7 +113,7 @@ public class TuningTest {
         StorageRange<Integer> intStorage = new StorageRange(Integer.class);
         StorageLucene storageLucene = new StorageLucene();
 
-        Engine engine = Engine.build()
+        engine = Engine.build()
                 .executor(new DumbExecutor())
                 .storage("Name", stringStorage)
                 .storage("Count", intStorage)
@@ -115,69 +163,13 @@ public class TuningTest {
         timer.stop();
         LOG.info("{} queries generated for {} ms", QUERY_COUNT, timer.elapsed(TimeUnit.MILLISECONDS));
 
-        LOG.info("Dumb executor test");
-        long totalTime = 0;
+        LOG.info("Warm up Vindur!");
+        queries.forEach(engine::executeQuery);
+        LOG.info("Vindur warmed up!");
 
-        List<List<Integer>> dumbResultSets = new ArrayList<>();
-        for (Query query : queries)
-        {
-            timer.reset();
-            timer.start();
-            List<Integer> resultSet = engine.executeQuery(query);
-            dumbResultSets.add(resultSet);
-            timer.stop();
-            totalTime += timer.elapsed(TimeUnit.MILLISECONDS);
-        }
-
-        LOG.info("{} queries executed for {} ms", QUERY_COUNT, totalTime);
-        LOG.info("Average execution time is {} ms", (totalTime * 1.0f) / QUERY_COUNT);
-
-        LOG.info("Smart executor test");
-        engine.setExecutor(new SmartExecutor(3000));
-
-        totalTime = 0;
-        List<List<Integer>> smartResultSets = new ArrayList<>();
-        for (Query query : queries)
-        {
-            timer.reset();
-            timer.start();
-            List<Integer> resultSet = engine.executeQuery(query);
-            smartResultSets.add(resultSet);
-            timer.stop();
-            totalTime += timer.elapsed(TimeUnit.MILLISECONDS);
-        }
-
-        LOG.info("{} queries executed for {} ms", QUERY_COUNT, totalTime);
-        LOG.info("Average execution time is {} ms", (totalTime * 1.0f) / QUERY_COUNT);
-
-        LOG.info("Tunable executor test");
-        engine.setExecutor(new TunableExecutor());
-
-        totalTime = 0;
-        List<List<Integer>> tunableResultSets = new ArrayList<>();
-        for (Query query : queries)
-        {
-            timer.reset();
-            timer.start();
-            List<Integer> resultSet = engine.executeQuery(query);
-            tunableResultSets.add(resultSet);
-            timer.stop();
-            totalTime += timer.elapsed(TimeUnit.MILLISECONDS);
-        }
-
-        LOG.info("{} queries executed for {} ms", QUERY_COUNT, totalTime);
-        LOG.info("Average execution time is {} ms", (totalTime * 1.0f) / QUERY_COUNT);
-
-        Tuner tuner = engine.getTuner();
-        Map<String, Tuner.AttributeStat> statMap = tuner.getExecutionTimesMap();
-
-        for (Map.Entry<String, Tuner.AttributeStat> entry : statMap.entrySet())
-        {
-            LOG.info("{} attribute, average exec. time is {} ns, average check time is {} ns",
-                    entry.getKey(),
-                    entry.getValue().executionTime,
-                    entry.getValue().checkTime);
-        }
+        List<List<Integer>> dumbResultSets = resultSets(new DumbExecutor());
+        List<List<Integer>> smartResultSets = resultSets(new SmartExecutor(3000));
+        List<List<Integer>> tunableResultSets = resultSets(new TunableExecutor());
 
         LOG.info("Equality test");
         LOG.info("Dumb executor's result sets equals to smart executor's {}", dumbResultSets.equals(smartResultSets));

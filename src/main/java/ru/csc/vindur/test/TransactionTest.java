@@ -173,17 +173,39 @@ public class TransactionTest {
         LOG.info("{} queries generated for {} ms", QUERY_COUNT, timer.elapsed(TimeUnit.MILLISECONDS));
 
         LOG.info("Warm up Vidur!");
-        for (Query q : queries)
+        for (int i = 0; i < 20; i++)
         {
-            engine.executeQuery(q);
+            long tID = engine.startTransaction();
+            for (int j = 0; j < 100; j++)
+            {
+                int randDocID = RandomUtils.getNumber(1, DOC_COUNT);
+                String randAttribute = randomAttribute();
+                Object randValue = randomValue(randAttribute);
+                engine.setValue(tID, randDocID, randAttribute, randValue);
+            }
+            engine.commitTransaction(tID);
         }
+        queries.forEach(engine::executeQuery);
         LOG.info("Vindur warmed up");
+
+        LOG.info("Executing first 500 queries");
+        for (int i = 0; i < 500; i++)
+        {
+            Query q = queries.get(i);
+            timer.reset();
+            timer.start();
+            engine.executeQuery(q);
+            timer.stop();
+            deltas.add(timer.elapsed(TimeUnit.NANOSECONDS));
+        }
+        LOG.info("First 500 queries executed");
+
 
         long trID = engine.startTransaction();
         LOG.info("Transaction number {} started", trID);
 
         LOG.info("Applying changes");
-        for (int i = 0; i < 1e4; i++) {
+        for (int i = 0; i < 5e4; i++) {
             //apply changes
             int randDocID = RandomUtils.getNumber(1, DOC_COUNT);
             String randAttribute = randomAttribute();
@@ -191,17 +213,6 @@ public class TransactionTest {
             engine.setValue(trID, randDocID, randAttribute, randValue);
         }
         LOG.info("Changes applied");
-
-        LOG.info("Executing first pack of queries");
-        for (Query query : queries)
-        {
-            timer.reset();
-            timer.start();
-            engine.executeQuery(query);
-            timer.stop();
-            deltas.add(timer.elapsed(TimeUnit.NANOSECONDS));
-        }
-        LOG.info("First pack of queries executed");
 
         LOG.info("Commiting transaction");
         timer.reset();
@@ -211,16 +222,17 @@ public class TransactionTest {
         LOG.info("Transaction commited");
         deltas.add(timer.elapsed(TimeUnit.NANOSECONDS));
 
-        LOG.info("Executing second pack of queries");
-        for (Query query : queries)
+        LOG.info("Executing rest of queries");
+        for (int i = 500; i < QUERY_COUNT; i++)
         {
+            Query query = queries.get(i);
             timer.reset();
             timer.start();
             engine.executeQuery(query);
             timer.stop();
             deltas.add(timer.elapsed(TimeUnit.NANOSECONDS));
         }
-        LOG.info("Second pack of queries executed");
+        LOG.info("Rest of queries executed");
 
         LOG.info("Writing results");
         try
