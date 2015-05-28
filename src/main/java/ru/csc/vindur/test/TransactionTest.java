@@ -28,7 +28,11 @@ public class TransactionTest {
 
     private static final int DOC_COUNT = 300_000;
     private static final int QUERY_COUNT = 5_000;
-    private static final int UNIQUE_VALS_COUNT = 100;
+
+    private static final int STRING_VALS_COUNT = 500;
+    private static final int INT_VALS_COUNT = 150;
+    private static final int LUCENE_VALS_COUNT = 30;
+
 
     private static List<String> stringValues = new ArrayList<>();
     private static List<Integer> intValues = new ArrayList<>();
@@ -42,7 +46,7 @@ public class TransactionTest {
     {
         switch (type) {
             case RANGE_INTEGER: {
-                for (int i = 0; i < 100; i++) {
+                for (int i = 0; i < count; i++) {
                     intValues.add(i);
                 }
                 break;
@@ -127,20 +131,22 @@ public class TransactionTest {
                 .init();
 
 
-        generateRandomValues(UNIQUE_VALS_COUNT, StorageType.RANGE_INTEGER);
-        generateRandomValues(UNIQUE_VALS_COUNT, StorageType.STRING);
-        generateRandomValues(UNIQUE_VALS_COUNT, StorageType.LUCENE_STRING);
+        generateRandomValues(INT_VALS_COUNT, StorageType.RANGE_INTEGER);
+        generateRandomValues(STRING_VALS_COUNT, StorageType.STRING);
+        generateRandomValues(LUCENE_VALS_COUNT, StorageType.LUCENE_STRING);
         LOG.info("Documents loading...");
         timer.start();
         for (int i = 0; i < DOC_COUNT; i++)
         {
             int docId = engine.createDocument();
 
-            int randIndex = RandomUtils.getNumber(0, 100);
+            int randIntIndex = RandomUtils.getNumber(0, INT_VALS_COUNT - 1);
+            int randStringIndex = RandomUtils.getNumber(0, STRING_VALS_COUNT - 1);
+            int randLuceneIndex = RandomUtils.getNumber(0, LUCENE_VALS_COUNT - 1);
 
-            engine.setValue(docId, "Name", stringValues.get(randIndex));
-            engine.setValue(docId, "Count", intValues.get(randIndex));
-            engine.setValue(docId, "Bio", luceneValues.get(randIndex));
+            engine.setValue(docId, "Name", stringValues.get(randStringIndex));
+            engine.setValue(docId, "Count", intValues.get(randIntIndex));
+            engine.setValue(docId, "Bio", luceneValues.get(randLuceneIndex));
         }
         timer.stop();
         long totalLoadTime = timer.elapsed(TimeUnit.MILLISECONDS);
@@ -152,15 +158,14 @@ public class TransactionTest {
         timer.start();
         for (int i = 0; i < QUERY_COUNT; i++)
         {
-            int randIndex = RandomUtils.getNumber(0, 100);
-            String randName = stringValues.get(randIndex);
-            int randLeftBorder = RandomUtils.getNumber(0, 100);
-            int randRightBorder = RandomUtils.getNumber(0, 100);
+            String randName = stringValues.get(RandomUtils.getNumber(0, STRING_VALS_COUNT - 1));
+            int randLeftBorder = RandomUtils.getNumber(0, INT_VALS_COUNT);
+            int randRightBorder = RandomUtils.getNumber(0, INT_VALS_COUNT);
             Object randRange = StorageRange.range(
                     Math.min(randLeftBorder, randRightBorder),
                     Math.max(randLeftBorder, randRightBorder)
             );
-            String randText = luceneValues.get(randIndex);
+            String randText = luceneValues.get(RandomUtils.getNumber(0, LUCENE_VALS_COUNT - 1));
 
 
             Query query = Query.build()
@@ -173,17 +178,38 @@ public class TransactionTest {
         LOG.info("{} queries generated for {} ms", QUERY_COUNT, timer.elapsed(TimeUnit.MILLISECONDS));
 
         LOG.info("Warm up Vidur!");
-        for (Query q : queries)
+        for (int i = 0; i < 20; i++)
         {
-            engine.executeQuery(q);
+            long tID = engine.startTransaction();
+            for (int j = 0; j < 100; j++)
+            {
+                int randDocID = RandomUtils.getNumber(1, DOC_COUNT);
+                String randAttribute = randomAttribute();
+                Object randValue = randomValue(randAttribute);
+                engine.setValue(tID, randDocID, randAttribute, randValue);
+            }
+            engine.commitTransaction(tID);
         }
+        queries.forEach(engine::executeQuery);
         LOG.info("Vindur warmed up");
+
+        LOG.info("Executing first 500 queries");
+        for (int i = 0; i < 500; i++)
+        {
+            Query q = queries.get(i);
+            timer.reset();
+            timer.start();
+            engine.executeQuery(q);
+            timer.stop();
+            deltas.add(timer.elapsed(TimeUnit.NANOSECONDS));
+        }
+        LOG.info("First 500 queries executed");
 
         long trID = engine.startTransaction();
         LOG.info("Transaction number {} started", trID);
 
         LOG.info("Applying changes");
-        for (int i = 0; i < 1e4; i++) {
+        for (int i = 0; i < 5e4; i++) {
             //apply changes
             int randDocID = RandomUtils.getNumber(1, DOC_COUNT);
             String randAttribute = randomAttribute();
@@ -191,17 +217,6 @@ public class TransactionTest {
             engine.setValue(trID, randDocID, randAttribute, randValue);
         }
         LOG.info("Changes applied");
-
-        LOG.info("Executing first pack of queries");
-        for (Query query : queries)
-        {
-            timer.reset();
-            timer.start();
-            engine.executeQuery(query);
-            timer.stop();
-            deltas.add(timer.elapsed(TimeUnit.NANOSECONDS));
-        }
-        LOG.info("First pack of queries executed");
 
         LOG.info("Commiting transaction");
         timer.reset();
@@ -211,16 +226,17 @@ public class TransactionTest {
         LOG.info("Transaction commited");
         deltas.add(timer.elapsed(TimeUnit.NANOSECONDS));
 
-        LOG.info("Executing second pack of queries");
-        for (Query query : queries)
+        LOG.info("Executing rest of queries");
+        for (int i = 500; i < QUERY_COUNT; i++)
         {
+            Query query = queries.get(i);
             timer.reset();
             timer.start();
             engine.executeQuery(query);
             timer.stop();
             deltas.add(timer.elapsed(TimeUnit.NANOSECONDS));
         }
-        LOG.info("Second pack of queries executed");
+        LOG.info("Rest of queries executed");
 
         LOG.info("Writing results");
         try
