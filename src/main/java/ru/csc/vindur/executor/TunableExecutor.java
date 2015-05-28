@@ -32,7 +32,7 @@ public class TunableExecutor implements Executor
         //todo: think about it
         Comparator<String> compare =
                 (a, b) -> {
-                    if (this.complexitiesMap.get(a) == null || this.complexitiesMap.get(a) == null) {
+                    if (this.complexitiesMap.get(a) == null || this.complexitiesMap.get(b) == null) {
                         return Long.compare(
                                 engine.getStorages().get(a).getComplexity(),
                                 engine.getStorages().get(b).getComplexity()
@@ -52,12 +52,20 @@ public class TunableExecutor implements Executor
         BitArray resultSet = null;
 
         long estimatedExecutionTime = 0;
+        long estimatedCheckTime = 0;
 
-        for (String attribute : attributes) {
+        for (String attribute : attributes)
+        {
             if (complexitiesMap.get(attribute) == null)
+            {
                 estimatedExecutionTime += engine.getStorages().get(attribute).getComplexity();
+                estimatedCheckTime += engine.getStorages().get(attribute).getComplexity();
+            }
             else
+            {
                 estimatedExecutionTime += complexitiesMap.get(attribute).executionTime;
+                estimatedCheckTime += complexitiesMap.get(attribute).checkTime;
+            }
         }
 
         for (int i = 0; i < attributes.size(); ++i)
@@ -79,23 +87,19 @@ public class TunableExecutor implements Executor
             if (resultSet.cardinality() == 0)
                 return BitArray.create();
 
-            int partsLeft = attributes.size() - i - 1;
-
-            long estimatedCheckTime;
-
             if (stat == null)
             {
-                estimatedCheckTime = partsLeft * storage.getComplexity();
+                estimatedCheckTime -= storage.getComplexity();
                 estimatedExecutionTime -= storage.getComplexity();
             }
             else
             {
-                estimatedCheckTime = partsLeft * stat.checkTime;
+                estimatedCheckTime -= stat.checkTime;
                 estimatedExecutionTime -= stat.executionTime;
             }
 
 
-            if (estimatedCheckTime < estimatedExecutionTime)
+            if (resultSet.cardinality() * estimatedCheckTime < estimatedExecutionTime)
             {
                 List<String> tail = cutTail(attributes, i + 1);
                 if (tail.size() != 0)

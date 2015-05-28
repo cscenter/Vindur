@@ -12,10 +12,7 @@ import ru.csc.vindur.storage.StorageLucene;
 import ru.csc.vindur.storage.StorageRange;
 import ru.csc.vindur.storage.StorageType;
 import ru.csc.vindur.test.utils.RandomUtils;
-import sun.rmi.runtime.Log;
 
-import java.io.FileNotFoundException;
-import java.io.PrintWriter;
 import java.util.*;
 import java.util.concurrent.TimeUnit;
 
@@ -26,9 +23,13 @@ public class TuningTest {
 
     private static final Logger LOG = LoggerFactory.getLogger(TuningTest.class);
 
-    private static final int DOC_COUNT = 300_000;
+    private static final int DOC_COUNT = 1_000_000;
     private static final int QUERY_COUNT = 5_000;
-    private static final int UNIQUE_VALS_COUNT = 100;
+
+    private static final int STRING_VALS_COUNT = 500;
+    private static final int INT_VALS_COUNT = 150;
+    private static final int LUCENE_VALS_COUNT = 30;
+
 
     private static List<String> stringValues = new ArrayList<>();
     private static List<Integer> intValues = new ArrayList<>();
@@ -42,7 +43,7 @@ public class TuningTest {
     {
         switch (type) {
             case RANGE_INTEGER: {
-                for (int i = 0; i < 100; i++) {
+                for (int i = 0; i < count; i++) {
                     intValues.add(i);
                 }
                 break;
@@ -62,10 +63,10 @@ public class TuningTest {
         }
     }
 
-    private static List<List<Integer>> resultSets(Executor executor)
+    private static List<List<Integer>> resultSets(Executor executor, int queryCount)
     {
         engine.setExecutor(executor);
-        LOG.info("{} test", executor.getClass().getCanonicalName());
+        LOG.info("{} test", executor.getClass().getName());
         long totalTime = 0;
 
         Stopwatch timer = Stopwatch.createUnstarted();
@@ -73,33 +74,33 @@ public class TuningTest {
         List<List<Integer>> resultSets = new ArrayList<>();
         List<Long> execTimes = new ArrayList<>();
 
-        for (Query query : queries)
-        {
+        for (int i = 0; i < queryCount; i++) {
+            Query query = queries.get(i);
             timer.reset();
             timer.start();
             List<Integer> resultSet = engine.executeQuery(query);
-            resultSets.add(resultSet);
             timer.stop();
+            resultSets.add(resultSet);
             execTimes.add(timer.elapsed(TimeUnit.MILLISECONDS));
             totalTime += timer.elapsed(TimeUnit.MILLISECONDS);
         }
 
-        double mean = (totalTime * 1.0f) / QUERY_COUNT;
+        double mean = (totalTime * 1.0f) / queryCount;
         double var = 0;
         for (long t : execTimes)
         {
             var += (t - mean) * (t - mean);
         }
-        var /= QUERY_COUNT;
+        var /= queryCount;
 
-        LOG.info("{} queries executed for {} ms", QUERY_COUNT, totalTime);
+        LOG.info("{} queries executed for {} ms", queryCount, totalTime);
         LOG.info("Mean execution time is {} ms, variance is {} ms^2, standard deviation is {} ms",
                 mean,
                 var,
                 Math.sqrt(var));
 
         for (int i = 0; i < 100; i++) {
-            LOG.info("Query {} returned {} records for {} ms", i, resultSets.get(i).size(), execTimes.get(i));
+            //LOG.info("Query {} returned {} records for {} ms", i + 1, resultSets.get(i).size(), execTimes.get(i));
         }
 
         return resultSets;
@@ -114,27 +115,28 @@ public class TuningTest {
         StorageLucene storageLucene = new StorageLucene();
 
         engine = Engine.build()
-                .executor(new DumbExecutor())
                 .storage("Name", stringStorage)
                 .storage("Count", intStorage)
                 .storage("Bio", storageLucene)
                 .init();
 
 
-        generateRandomValues(UNIQUE_VALS_COUNT, StorageType.RANGE_INTEGER);
-        generateRandomValues(UNIQUE_VALS_COUNT, StorageType.STRING);
-        generateRandomValues(UNIQUE_VALS_COUNT, StorageType.LUCENE_STRING);
+        generateRandomValues(INT_VALS_COUNT, StorageType.RANGE_INTEGER);
+        generateRandomValues(STRING_VALS_COUNT, StorageType.STRING);
+        generateRandomValues(LUCENE_VALS_COUNT, StorageType.LUCENE_STRING);
         LOG.info("Documents loading...");
         timer.start();
         for (int i = 0; i < DOC_COUNT; i++)
         {
             int docId = engine.createDocument();
 
-            int randIndex = RandomUtils.getNumber(0, 100);
+            int randIntIndex = RandomUtils.getNumber(0, INT_VALS_COUNT - 1);
+            int randStringIndex = RandomUtils.getNumber(0, STRING_VALS_COUNT - 1);
+            int randLuceneIndex = RandomUtils.getNumber(0, LUCENE_VALS_COUNT - 1);
 
-            engine.setValue(docId, "Name", stringValues.get(randIndex));
-            engine.setValue(docId, "Count", intValues.get(randIndex));
-            engine.setValue(docId, "Bio", luceneValues.get(randIndex));
+            engine.setValue(docId, "Name", stringValues.get(randStringIndex));
+            engine.setValue(docId, "Count", intValues.get(randIntIndex));
+            engine.setValue(docId, "Bio", luceneValues.get(randLuceneIndex));
         }
         timer.stop();
         long totalLoadTime = timer.elapsed(TimeUnit.MILLISECONDS);
@@ -146,12 +148,14 @@ public class TuningTest {
         timer.start();
         for (int i = 0; i < QUERY_COUNT; i++)
         {
-            int randIndex = RandomUtils.getNumber(0, 100);
-            String randName = stringValues.get(randIndex);
-            int randLeftBorder = RandomUtils.getNumber(0, 100);
-            int randRightBorder = RandomUtils.getNumber(0, 100);
-            Object randRange = StorageRange.range(Math.min(randLeftBorder, randRightBorder), Math.max(randLeftBorder, randRightBorder));
-            String randText = luceneValues.get(randIndex);
+            String randName = stringValues.get(RandomUtils.getNumber(0, STRING_VALS_COUNT - 1));
+            int randLeftBorder = RandomUtils.getNumber(0, INT_VALS_COUNT);
+            int randRightBorder = RandomUtils.getNumber(0, INT_VALS_COUNT);
+            Object randRange = StorageRange.range(
+                    Math.min(randLeftBorder, randRightBorder),
+                    Math.max(randLeftBorder, randRightBorder)
+            );
+            String randText = luceneValues.get(RandomUtils.getNumber(0, LUCENE_VALS_COUNT - 1));
 
 
             Query query = Query.build()
@@ -164,12 +168,14 @@ public class TuningTest {
         LOG.info("{} queries generated for {} ms", QUERY_COUNT, timer.elapsed(TimeUnit.MILLISECONDS));
 
         LOG.info("Warm up Vindur!");
-        queries.forEach(engine::executeQuery);
+        resultSets(new DumbExecutor(), 1500);
+        resultSets(new SmartExecutor(5000), 1500);
+        resultSets(new TunableExecutor(), 1500);
         LOG.info("Vindur warmed up!");
 
-        List<List<Integer>> dumbResultSets = resultSets(new DumbExecutor());
-        List<List<Integer>> smartResultSets = resultSets(new SmartExecutor(3000));
-        List<List<Integer>> tunableResultSets = resultSets(new TunableExecutor());
+        List<List<Integer>> dumbResultSets = resultSets(new DumbExecutor(), QUERY_COUNT);
+        List<List<Integer>> smartResultSets = resultSets(new SmartExecutor(6000), QUERY_COUNT);
+        List<List<Integer>> tunableResultSets = resultSets(new TunableExecutor(), QUERY_COUNT);
 
         LOG.info("Equality test");
         LOG.info("Dumb executor's result sets equals to smart executor's {}", dumbResultSets.equals(smartResultSets));
