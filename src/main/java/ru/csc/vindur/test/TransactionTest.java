@@ -26,9 +26,12 @@ public class TransactionTest {
 
     private static final Logger LOG = LoggerFactory.getLogger(TransactionTest.class);
 
-    private static final int DOC_COUNT = 300_000;
+    private static final int DOC_COUNT = 1_000_000;
     private static final int QUERY_COUNT = 5_000;
-    private static final int UNIQUE_VALS_COUNT = 100;
+
+    private static final int STRING_VALS_COUNT = 500;
+    private static final int INT_VALS_COUNT = 150;
+    private static final int LUCENE_VALS_COUNT = 30;
 
     private static List<String> stringValues = new ArrayList<>();
     private static List<Integer> intValues = new ArrayList<>();
@@ -42,7 +45,7 @@ public class TransactionTest {
     {
         switch (type) {
             case RANGE_INTEGER: {
-                for (int i = 0; i < 100; i++) {
+                for (int i = 0; i < count; i++) {
                     intValues.add(i);
                 }
                 break;
@@ -127,20 +130,22 @@ public class TransactionTest {
                 .init();
 
 
-        generateRandomValues(UNIQUE_VALS_COUNT, StorageType.RANGE_INTEGER);
-        generateRandomValues(UNIQUE_VALS_COUNT, StorageType.STRING);
-        generateRandomValues(UNIQUE_VALS_COUNT, StorageType.LUCENE_STRING);
+        generateRandomValues(INT_VALS_COUNT, StorageType.RANGE_INTEGER);
+        generateRandomValues(STRING_VALS_COUNT, StorageType.STRING);
+        generateRandomValues(LUCENE_VALS_COUNT, StorageType.LUCENE_STRING);
         LOG.info("Documents loading...");
         timer.start();
         for (int i = 0; i < DOC_COUNT; i++)
         {
             int docId = engine.createDocument();
 
-            int randIndex = RandomUtils.getNumber(0, 100);
+            int randIntIndex = RandomUtils.getNumber(0, INT_VALS_COUNT - 1);
+            int randStringIndex = RandomUtils.getNumber(0, STRING_VALS_COUNT - 1);
+            int randLuceneIndex = RandomUtils.getNumber(0, LUCENE_VALS_COUNT - 1);
 
-            engine.setValue(docId, "Name", stringValues.get(randIndex));
-            engine.setValue(docId, "Count", intValues.get(randIndex));
-            engine.setValue(docId, "Bio", luceneValues.get(randIndex));
+            engine.setValue(docId, "Name", stringValues.get(randStringIndex));
+            engine.setValue(docId, "Count", intValues.get(randIntIndex));
+            engine.setValue(docId, "Bio", luceneValues.get(randLuceneIndex));
         }
         timer.stop();
         long totalLoadTime = timer.elapsed(TimeUnit.MILLISECONDS);
@@ -152,15 +157,14 @@ public class TransactionTest {
         timer.start();
         for (int i = 0; i < QUERY_COUNT; i++)
         {
-            int randIndex = RandomUtils.getNumber(0, 100);
-            String randName = stringValues.get(randIndex);
-            int randLeftBorder = RandomUtils.getNumber(0, 100);
-            int randRightBorder = RandomUtils.getNumber(0, 100);
+            String randName = stringValues.get(RandomUtils.getNumber(0, STRING_VALS_COUNT - 1));
+            /*int randLeftBorder = RandomUtils.getNumber(0, INT_VALS_COUNT);
+            int randRightBorder = RandomUtils.getNumber(0, INT_VALS_COUNT);*/
             Object randRange = StorageRange.range(
-                    Math.min(randLeftBorder, randRightBorder),
-                    Math.max(randLeftBorder, randRightBorder)
+                    0,
+                    INT_VALS_COUNT/3
             );
-            String randText = luceneValues.get(randIndex);
+            String randText = luceneValues.get(RandomUtils.getNumber(0, LUCENE_VALS_COUNT - 1));
 
 
             Query query = Query.build()
